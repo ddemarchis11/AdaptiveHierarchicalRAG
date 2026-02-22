@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0b161de9",
+  "question": "What are the key events that define the life and relationships of Suza Fairfield in 'Pen Pictures'? Please include how she was raised and educated by Aunt Katy Demitt, her engagement to Don Carlo, and her role as the belle of Port William.",
+  "gold_answer": "Suza Fairfield was raised and educated by Aunt Katy Demitt, was engaged to be married to Don Carlo, and was the belle of Port William.",
+  "llm_answer": "Key events that shape Suza Fairfield’s life and relationships:\n\n1. **Rescue and upbringing**  \n   - Orphaned as an infant, Suza is taken in and reared by Aunt Katy Demitt, the wealthiest woman in Port William.  \n   - Aunt Katy sees that she is “raised and educated,” treats her as a daughter, and eventually makes her the sole heir to the old woman’s money and property.\n\n2. **Position as the village belle**  \n   - Suza becomes “the belle of Port William,” admired for her beauty and spirit, courted by many suitors, yet refusing every offer so she can remain with Aunt Katy.\n\n3. **The river rescue and engagement**  \n   - While still living with Aunt Katy, Suza saves Don Carlo from drowning at Shirt-Tail Bend.  \n   - Their grateful friendship ripens into love; the neighborhood soon reports that “Suza Fairfield, the belle of Port William, and Don Carlo, the hero of Shirt-Tail Bend, were engaged to be married.”\n\nThese three strands—Aunt Katy’s devoted rearing, Suza’s acknowledged status as Port William’s belle, and her engagement to the man she rescued—define her place in the narrative.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the key events defining Suza Fairfield's life and relationships, including her upbringing by Aunt Katy Demitt, her role as the belle of Port William, and her engagement to Don Carlo. It provides additional context and details, such as Aunt Katy's wealth and Suza's rescue of Don Carlo, which are supported by the retrieved context. All essential facts from the Gold Answer are included, and the extra information enhances understanding without deviating from the core truth."
+  }
+}

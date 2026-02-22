@@ -1,0 +1,12 @@
+{
+  "id": "Novel-90cd19b2",
+  "question": "Where within the fortified nunnery compound were the orange trees located, providing a rare sense of peace amid the chaos of the siege?",
+  "gold_answer": "The orange trees were in the compound.",
+  "llm_answer": "The orange trees were located within the fortified nunnery compound, specifically among the sandbags, where the defenders slept by turns.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the orange trees were within the fortified nunnery compound, aligning with the Gold Answer. However, the additional detail about the trees being 'among the sandbags, where the defenders slept by turns' is not supported by the retrieved context. The context mentions the orange trees in the compound but does not specify their proximity to sandbags or defenders sleeping near them. This makes the answer partially correct and partially faithful to the context, while missing some nuances of the Gold Answer."
+  }
+}

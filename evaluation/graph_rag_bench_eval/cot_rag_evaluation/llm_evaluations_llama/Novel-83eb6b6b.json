@@ -1,0 +1,12 @@
+{
+  "id": "Novel-83eb6b6b",
+  "question": "Why are Cole Conway and Steve Sharp considered important figures in the novel's narrative, and what roles did they play together, particularly regarding their professions and activities such as playing cards?",
+  "gold_answer": "Cole Conway was an engineer who was in company with Steve Sharp, a pilot, and they played cards together.",
+  "llm_answer": "Based on the provided evidence, Cole Conway and Steve Sharp are considered important figures in the novel's narrative because they are partners in a game, and their conversation reveals their past and their relationship. \n\nThey played cards together in a dimly lit back room of a saloon, where they lost their last dime. After a night's sleep in an old straw shed, Conway had a dream about playing cards and finding a hidden compartment with gold pieces. In the dream, the compartment had a rule with an inscription that directed him to a steam carriage. \n\nIn the conversation, Steve Sharp (also known as Steve Brindle) is revealed to be a man with a troubled past, whose father was Brindle Bill, a man who died in prison. He proposes a deal to Conway, where he will reveal his true name and history in exchange for Conway's. Conway agrees, and Steve reveals his name and history, including his father's death in prison and his mother's family. \n\nCole Conway, on the other hand, is revealed to be Cousin Cæsar, who has a mysterious past and is searching for Steve Brindle. He is trying to understand a mysterious code related to the number 77, which he believes Steve is trying to communicate to him.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed narrative about Cole Conway and Steve Sharp, including their card-playing activities and some aspects of their backgrounds. However, it introduces additional details about dreams, codes, and mysterious numbers that are not clearly supported by the retrieved context. While the core idea of their professions and card-playing is mentioned, the answer diverges significantly from the concise Gold Answer and includes speculative or unsupported elements, reducing faithfulness and evidence coverage."
+  }
+}

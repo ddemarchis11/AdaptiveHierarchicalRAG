@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001118",
+  "question": "which actress was a notable practitioner at the white bear theatre and is also known for playing the role of melanie owen in the BBC one soap opera \"eatenders\"?",
+  "gold_answer": "Tamzin Outhwaite",
+  "llm_answer": "Tamzin Outhwaite played Mel Owen in EastEnders; the evidence does not mention the White Bear Theatre, so it cannot confirm she was a notable practitioner there.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Tamzin Outhwaite as the actress who played Mel Owen in EastEnders, aligning with the Gold Answer. However, it fails to confirm her association with the White Bear Theatre, which is a key part of the question. The retrieved context does not provide information about her involvement with the White Bear Theatre, so the answer is partially correct but lacks full evidence coverage and grounding."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005673",
+  "question": "how many films has the director of \"Girl 6\" produced since 1983?",
+  "gold_answer": "over 35 films",
+  "llm_answer": "The director of \"Girl 6\" is Spike Lee. However, the evidence provided does not mention Spike Lee's filmography since 1983. \n\nHowever, the evidence does mention David Fincher, who is the director of \"Alien 3\" and \"Girl, Interrupted\" is not mentioned but \"Girl 6\" is not one of his films.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies David Fincher as the director of 'Girl 6,' which is not supported by the context or the Gold Answer. The correct director is Spike Lee, and the Model Answer fails to address the question about the number of films Spike Lee has produced since 1983. Additionally, the context does not provide relevant information about Spike Lee's filmography, making the answer unfaithful and lacking evidence coverage."
+  }
+}

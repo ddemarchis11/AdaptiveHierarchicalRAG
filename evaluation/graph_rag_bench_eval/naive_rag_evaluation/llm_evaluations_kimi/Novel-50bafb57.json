@@ -1,0 +1,12 @@
+{
+  "id": "Novel-50bafb57",
+  "question": "How does the East River play a significant role in Rags Raegen's actions and reputation, particularly in instances where he interacts with the river during police chases?",
+  "gold_answer": "Rags Raegen had plunged in to rescue the supposedly drowned man in the East River and preferred the East River.",
+  "llm_answer": "The East River is Rags Raegen’s escape route and the source of his legend. When the police chase him he races straight to the river-front, dives in, and swims away under water; the officers are left staring at the spot where he disappeared, convinced he has drowned. These repeated vanishing acts—especially the stunt at Wakeman’s Slip where he doubles back, joins the crowd, and sends the harbor police dragging the bottom for his own “corpse”—turn the river into the stage on which he performs the feats that make his reputation.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the significance of the East River in Rags Raegen's actions and reputation, as described in the Gold Answer and supported by the Retrieved Context. It elaborates on his use of the river as an escape route and the specific incident at Wakeman's Slip, which aligns with the context and adds relevant details. All key facts from the Gold Answer are included, and the additional information is grounded in the context."
+  }
+}

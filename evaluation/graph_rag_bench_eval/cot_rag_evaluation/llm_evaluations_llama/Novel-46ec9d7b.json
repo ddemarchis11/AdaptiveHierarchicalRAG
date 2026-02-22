@@ -1,0 +1,12 @@
+{
+  "id": "Novel-46ec9d7b",
+  "question": "According to the subgraphs, what are the various uses of trees, and what products are made from them?",
+  "gold_answer": "Sugar Maple is used for making furniture, trees are used for cooking victuals and to keep us warm, and sugar is made from Sugar Maple.",
+  "llm_answer": "According to the subgraphs, the various uses of trees and the products made from them are:\n\n1. Sugar Maple:\n   - Provides shade in the summer.\n   - Used to make sugar from its sap.\n   - Used to make furniture (tables, bureaus, etc.).\n   - Used to make boards for various uses.\n   - Used to cook food.\n   - Used to keep warm.\n   - Ashes are used to make potash, which is used to make glass.\n   - Glass is used to help the old see and give light to houses.\n   - Glass is also used to make telescopes.\n\n2. Olive trees:\n   - Used to make oil.\n\n3. Other trees (not specified):\n   - Used to make tar (from the long-leaved pine).\n   - Used to make snuff (from tobacco plants).\n   - Used to make cigars (from tobacco plants).\n   - Used to make cakes of tobacco (from tobacco plants).\n   - Used to make furniture (from various types of wood).\n   - Used to make boards for various uses (from various types of wood).\n   - Used to make glass (from the ashes of the Sugar Maple).\n   - Used to make telescopes (from glass).\n   - Used to make sugar (from the sap of the Sugar Maple).\n   - Used to make wine (not specified, but implied as a product of the Elaeonderron Argan tree).\n   - Used to make wine-sauce or wine-jelly (not specified, but implied as a product of the Elaeonderron Argan tree).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer includes the core uses of Sugar Maple mentioned in the Gold Answer, such as making furniture, cooking, keeping warm, and producing sugar. However, it introduces additional uses and products (e.g., potash, glass, telescopes, olive oil, tar, tobacco products, wine) that are either unsupported or not explicitly mentioned in the retrieved context. While some of these claims may be plausible, they are not grounded in the provided context, leading to partial correctness and faithfulness. Evidence coverage is also partial as the Gold Answer's specific facts are included but diluted by extraneous details."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001238",
+  "question": "In what year was the co-experimenter born who collaborated with a prominent German rocket pioneer on a 1937 pre-war rocketry experiment conducted under a military codename?",
+  "gold_answer": "1895",
+  "llm_answer": "I cannot verify the birth year of the co-experimenter who collaborated with a prominent German rocket pioneer on a 1937 pre-war rocketry experiment conducted under a military codename.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct birth year (1895) of the co-experimenter, Walter Dornberger, as stated in the Gold Answer. It does not utilize the retrieved context effectively, which contains the relevant information about Dornberger's birth year. The response is neither correct nor grounded in the provided context."
+  }
+}

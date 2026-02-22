@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005490",
+  "question": "What type of art does The Consul and Arlecchino have in common?",
+  "gold_answer": "music",
+  "llm_answer": "Both works are operas.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies 'music' as the common type of art, while the Model Answer states 'operas,' which is related but not identical. The context mentions operatic elements and music, but does not explicitly confirm that both works are operas. The Model Answer partially aligns with the context but misses the specific focus on 'music' as stated in the Gold Answer."
+  }
+}

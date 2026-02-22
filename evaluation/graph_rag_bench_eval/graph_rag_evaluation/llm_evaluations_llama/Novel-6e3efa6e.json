@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "According to the narrative, the relationship between Mayab and Hindostan is described as having a significant cultural and historical connection. The Maya language and customs are found in Hindostan, and the Mayas are said to have established themselves in Hindostan in remote ages. The name Maya is also used to refer to a goddess in Hindostan, who is described as the mother of all beings, similar to the Maya goddess in Mayab. This suggests that there was a migration or exchange of ideas between the two regions, with the Mayas influencing the culture and language of Hindostan.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core idea of the Gold Answer, which is the similarity between Mayab and Hindostan and the presence of Maya in Hindostan. It expands on this by providing additional details about cultural and historical connections, supported by the Retrieved Context, such as the migration of Mayas and the influence of Maya customs and language in Hindostan. All claims are grounded in the context, and the key facts from the Gold Answer are fully covered."
+  }
+}

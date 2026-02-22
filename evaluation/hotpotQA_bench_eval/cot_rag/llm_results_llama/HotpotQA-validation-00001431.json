@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00001431",
+  "question": "What English nursery rhyme which dates from 1731 appears on Teletubbies say \"Eh-oh!\"?",
+  "gold_answer": "\"Baa, Baa, Black Sheep\"",
+  "llm_answer": "The English nursery rhyme that appears on Teletubbies and says \"Eh-oh!\" is not explicitly mentioned in the provided evidence. However, the evidence does mention that the Teletubbies sing \"Baa, Baa, Black Sheep\" and the flowers from Teletubbyland sing \"Mary, Mary, Quite Contrary\".",
+  "context": [
+    {
+      "text": "\" Teletubbies say 'Eh-oh! ' \" is a single recorded by the Teletubbies . It is a remix of the theme song from the BBC children's television series Teletubbies . The song contains two nursery rhymes : the Teletubbies hum along to \" Baa, Baa, Black Sheep \" and the flowers from Teletubbyland sing \" Mary, Mary, Quite Contrary \". The single reached number one on the UK singles chart for two weeks in December 1997. It remained in the top 100 for a total of 41 weeks and sold well enough to be certified double platinum . It was also a hit in Ireland, peaking at number two. In 1998, a Dutch version titled \"Teletubbies zeggen 'A-Oh! ' \" was released in the Netherlands, where it reached number 12. The Teletubbies have not had another such hit, making them a one-hit wonder . Christmas race There was considerable anticipation that it would be the Christmas number one in 1997 and it was the betting favorite at William Hill at odds of 6–4. This race was said to have been decided by the under-10 age group as the rival Spice Girls were popular with seven-year-old girls while the Teletubbies were more popular with younger children. Siobhan Ennis, the singles manager at Tower Records ' flagship store in Piccadilly Circus said,",
+      "id": "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_0"
+    },
+    {
+      "text": "The rhyme as illustrated by Dorothy M. Wheeler \" Baa, Baa, Black Sheep \" is an English nursery rhyme , the earliest printed version of which dates from around 1744. The words have barely changed in two and a half centuries. It is sung to a variant of the 18th-century French melody \" Ah! vous dirai-je, maman \". Modern version The Oxford Dictionary of Nursery Rhymes gives this modern version: Audio playback is not supported in your browser. You can download the audio file . Baa, baa, black sheep, Have you any wool? Yes, sir, yes, sir, Three bags full; One for the master, And one for the dame, And one for the little boy Who lives down the lane. The rhyme is a single stanza in trochaic metre, common in nursery rhymes and relatively easy for younger children. The Roud Folk Song Index classifies the song as 4439; variants have been collected across Great Britain and North America. Melody The rhyme is sung to a variant of the 18th-century French melody \" Ah! vous dirai-je, maman \", also used for \" Twinkle, Twinkle, Little Star \", \" Little Polly Flinders \", and \" The ABC Song \". The words and melody were first published together by A. H. Rosewig in (Illustrated National) Nursery Songs and Games , published in Philadelphia in 1879. \"Bä, bä, vita",
+      "id": "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_0"
+    },
+    {
+      "text": "rival single, \"Tubby Anthem\", was made by Yorkshire musician Vince Brown for the charity ChildLine . The BBC threatened legal action and so it was withdrawn. Reception \"Teletubbies say 'Eh-oh!'\" was number one on the UK singles chart for two weeks in December 1997. It remained in the Top 75 for 29 weeks after its first release and 3 weeks more after two re-releases. The single was shortlisted for the Novello songwriting award but others consider it to be an annoying tune—sickly and irritating. It has repeatedly placed high in polls of awful songs, such as that run by VH1 in which it placed third to \" The Millennium Prayer \" and \" Mr Blobby \". As of February 2020, the song is the 127th biggest-selling-single in UK chart history. Charts Certifications and sales References",
+      "id": "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_2"
+    },
+    {
+      "text": "\"But none for the little boy who cries in the lane\". As with many nursery rhymes, attempts have been made to find origins and meanings for the rhyme, most of which have no corroborating evidence. Katherine Elwes Thomas in The Real Personages of Mother Goose (1930) suggested the rhyme referred to resentment at the heavy taxation on wool. This has been taken to refer to the medieval English \"Great\" or \"Old Custom\" wool tax of 1275, which survived until the 15th century. More recently, the rhyme has been alleged to have a connection to the slave trade , particularly in the Southern United States. This explanation was advanced during debates over political correctness and the use and reform of nursery rhymes in the 1980s, but has no supporting historical evidence. Rather than being negative, the wool of black sheep may have been prized, as it could be made into dark cloth without dyeing. Modern controversies W. W. Denslow 's illustrations for \"Baa, Baa, Black Sheep\", from the 1901 collection Mother Goose In 1986, the British popular press reported a controversy over the rhyme's language, suggesting that \"black\" was being treated as a racial term. This was based on a rewriting of the rhyme in one private nursery as an exercise for the children there. A similar controversy emerged in 1999, when reservations about the rhyme were submitted to Birmingham City Council by a working group on racism in",
+      "id": "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_2"
+    },
+    {
+      "text": "Mots d'Heures: Gousses, Rames: The d'Antin Manuscript ( Mother Goose Rhymes ), published in 1967 by Luis d'Antin van Rooten , is purportedly a collection of poems written in French with learned glosses. In fact, they are English-language nursery rhymes written homophonically as a nonsensical French text (with pseudo-scholarly explanatory footnotes); that is, as an English-to-French homophonic translation . The result is not merely the English nursery rhyme but that nursery rhyme as it would sound if spoken in English by someone with a strong French accent. Even the manuscript's title, when spoken aloud, sounds like \"Mother Goose Rhymes\" with a strong French accent; it literally means \"Words of Hours: Pods, Paddles.\" Here is van Rooten's version of Humpty Dumpty : Nursery rhymes The original English nursery rhymes that correspond to the numbered poems in Mots d'Heures: Gousses, Rames are as follows: Humpty Dumpty Old King Cole Hey Diddle Diddle Old Mother Hubbard There Was a Little Man and He Had a Little Gun Hickory Dickory Dock Jack Sprat Peter Peter Pumpkin Eater There Was a Crooked Man Little Miss Muffet Jack and Jill There Was a Little Girl She Had a Little Curl Little Jack Horner Ride a Cockhorse to Banbury Cross Tinker Tailor Soldier Sailor Rain",
+      "id": "HotpotQA-validation-00001431/02_Mots-dHeures.html_c_0"
+    },
+    {
+      "text": "H. Rosewig in (Illustrated National) Nursery Songs and Games , published in Philadelphia in 1879. \"Bä, bä, vita lamm\" Tune Problems playing this file? See media help . The text was translated to Swedish by August Strindberg for \" Barnen i skogen \" (1872), a Swedish edition of \" Babes in the Wood \". To this Swedish text, a melody was written by Alice Tegnér for publication in the songbook Sjung med oss, Mamma! (1892). \" Bä, bä, vita lamm \", in which the black sheep is replaced with a white lamb, has become one of the most popular Swedish children's songs. Origin and meaning Illustration for the rhyme from Mother Goose's Melody , first published c. 1765 The rhyme was first printed in Tommy Thumb's Pretty Song Book of about 1744, with words very similar to the modern version: Bah, Bah, a black Sheep, Have you any Wool, Yes merry have I, Three Bags full, One for my Master, One for my Dame, One for my Little Boy That lives in the lane. In the next surviving printing, in Mother Goose's Melody ( circa 1765), the text remained the same, except the last lines, which were given as, \"But none for the little boy who cries in the lane\". As with many nursery rhymes, attempts have been made to find origins and meanings",
+      "id": "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- The question asks for an English nursery rhyme from 1731.\n- The evidence mentions 'Baa, Baa, Black Sheep' and 'Mary, Mary, Quite Contrary' as nursery rhymes.\n- 'Baa, Baa, Black Sheep' is from 1744, not 1731.\n- 'Mary, Mary, Quite Contrary' is not dated.\n- The question asks for a rhyme that appears on Teletubbies say 'Eh-oh!'\n- 'Baa, Baa, Black Sheep' appears on Teletubbies.\n- The question asks for an English nursery rhyme from 1731.\n- 'Baa, Baa, Black Sheep' is from 1744, not 1731.\n- 'Mary, Mary, Quite Contrary' is not dated.\n- 'Baa, Baa, Black Sheep' appears on Teletubbies.\n- The question asks for a rhyme that appears on Teletubbies say 'Eh-oh!' (Novel-00001431_c_0)\n- The question asks for an English nursery rhyme from 1731.\n- 'Baa, Baa, Black Sheep' is from 1744, not 1731.\n- 'Mary, Mary, Quite Contrary' is not dated.\n- 'Baa, Baa, Black Sheep' appears on Teletubbies.\n- The question asks for a rhyme that appears on Teletubbies say 'Eh-oh!' (Novel-00001431_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What English nursery rhyme which dates from 1731 appears on Teletubbies say \"Eh-oh!\"?",
+      "doc_ids": [
+        "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_0",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_0",
+        "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_2",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_2",
+        "HotpotQA-validation-00001431/02_Mots-dHeures.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Which English nursery rhyme from 1731 is associated with Teletubbies",
+      "doc_ids": [
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_0",
+        "HotpotQA-validation-00001431/02_Mots-dHeures.html_c_0",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_2",
+        "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_0",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_1"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Which dated English nursery rhyme appears on Teletubbies say 'Eh-oh!'",
+      "doc_ids": [
+        "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_0",
+        "HotpotQA-validation-00001431/00_Teletubbies-say-quotEh-ohquot.html_c_2",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_0",
+        "HotpotQA-validation-00001431/02_Mots-dHeures.html_c_0",
+        "HotpotQA-validation-00001431/01_Baa-Baa-Black-Sheep.html_c_2"
+      ]
+    }
+  ]
+}

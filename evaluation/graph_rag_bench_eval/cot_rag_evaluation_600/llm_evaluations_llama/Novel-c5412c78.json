@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c5412c78",
+  "question": "Upon Dr. Inglis's return journey to Britain after World War I, in which city did Evelyn Simson arrive to greet her?",
+  "gold_answer": "Evelyn Simson arrived at Newcastle.",
+  "llm_answer": "I cannot verify in which city Evelyn Simson arrived to greet Dr. Inglis upon her return journey to Britain after World War I.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct city, Newcastle, where Evelyn Simson arrived to greet Dr. Inglis. The retrieved context explicitly mentions Newcastle as the location, but the Model Answer does not utilize this information and instead states it cannot verify the city. This results in a lack of correctness, faithfulness, and evidence coverage."
+  }
+}

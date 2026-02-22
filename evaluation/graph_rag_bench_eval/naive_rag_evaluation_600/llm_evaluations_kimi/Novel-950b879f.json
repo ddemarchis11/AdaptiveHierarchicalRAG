@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "The records show that Ruth initially returned home after one term, while Angeline worked to support herself and later encouraged Ruth to continue her education. Angeline wrote to Ruth, urging her to come back to school, promising to help her financially once she finished her own studies. This demonstrates both Angeline’s educational ambitions for Ruth and a deep emotional connection—Angeline was not only ambitious for herself but also determined to see her sister succeed, even at personal cost.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses Ruth's educational ambitions and her emotional connection to Angeline. It correctly mentions Angeline's encouragement for Ruth to continue her education and her willingness to help financially, which reflects Angeline's ambitions for Ruth. However, it misses the specific detail that Ruth could complete the scientific course in two years after the next spring term, as stated in the Gold Answer. Additionally, the emotional connection is not fully captured, as the Model Answer does not mention Ruth's loneliness without Angeline, which is a key emotional aspect. While the Model Answer is somewhat grounded in the context, it includes unsupported claims about Ruth returning home after one term and Angeline working to support herself, which are not explicitly stated in the retrieved context."
+  }
+}

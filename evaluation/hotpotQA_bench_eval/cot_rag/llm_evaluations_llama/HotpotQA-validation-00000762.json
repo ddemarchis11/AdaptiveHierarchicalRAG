@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000762",
+  "question": "What Japanese Auto Manufacturer headquarted in Minato, Tokyo, Japan did Nissan aquire controlling interest in?",
+  "gold_answer": "Mitsubishi",
+  "llm_answer": "The Japanese Auto Manufacturer headquartered in Minato, Tokyo, Japan that Nissan acquired a controlling interest in is Mitsubishi Motors.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mitsubishi Motors as the Japanese auto manufacturer headquartered in Minato, Tokyo, Japan, in which Nissan acquired a controlling interest. This is consistent with the Gold Answer and fully supported by the Retrieved Context."
+  }
+}

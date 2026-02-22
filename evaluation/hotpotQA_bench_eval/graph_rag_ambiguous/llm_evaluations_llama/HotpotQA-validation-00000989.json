@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000989",
+  "question": "Which came out more recently — a 1970s Disney live-action comedy about outlaws in the American West, or a mid-1990s Disney comedy set at an overweight children's summer camp run by a villainous proprietor?",
+  "gold_answer": "Heavyweights",
+  "llm_answer": "A 1970s Disney live-action comedy about outlaws in the American West, such as \"The Apple Dumpling Gang\", came out more recently than a mid-1990s Disney comedy set at an overweight children's summer camp, such as \"Heavyweights\".",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the 1970s Disney live-action comedy came out more recently than the mid-1990s Disney comedy. This contradicts the Gold Answer ('Heavyweights') and the timeline provided in the context, which clearly shows 'Heavyweights' was released in 1995, making it more recent than 'The Apple Dumpling Gang' from 1975. Additionally, the retrieved context does not support the claim made by the Model Answer."
+  }
+}

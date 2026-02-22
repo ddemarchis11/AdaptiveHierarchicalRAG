@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006986",
+  "question": "While at the University of Michigan, Louis Smith played with what American jazz trumpeter, bandleader, and composer?",
+  "gold_answer": "Miles Dewey Davis III",
+  "llm_answer": "The American jazz trumpeter, bandleader, and composer that Louis Smith played with while at the University of Michigan is not explicitly stated in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the information is not explicitly provided, despite the context clearly mentioning Miles Davis as one of the musicians Louis Smith played with at the University of Michigan. While the answer is faithful to the context in terms of not fabricating information, it fails to correctly address the question and misses the key fact from the Gold Answer."
+  }
+}

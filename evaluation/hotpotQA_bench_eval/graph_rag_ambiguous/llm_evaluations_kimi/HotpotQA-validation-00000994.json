@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000994",
+  "question": "What familial relation does the former NFL player who designed his team's logo in the 1940s bear to the outfielder selected 23rd overall in the 2010 MLB Draft?",
+  "gold_answer": "great-grandfather",
+  "llm_answer": "The former NFL player who designed his team’s logo in the 1940s—Fred Gehrke—is the great-grandfather of the outfielder selected 23rd overall in the 2010 MLB Draft, Christian Yelich.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies the familial relation as 'great-grandfather,' matching the Gold Answer. However, the Retrieved Context does not provide any information about Fred Gehrke or his connection to Christian Yelich, making the answer ungrounded and unsupported by the context. Additionally, the Model Answer introduces Fred Gehrke, which is not mentioned in the context, resulting in no evidence coverage."
+  }
+}

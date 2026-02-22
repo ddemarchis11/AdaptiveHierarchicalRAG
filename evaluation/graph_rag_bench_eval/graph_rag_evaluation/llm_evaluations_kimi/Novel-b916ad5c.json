@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b916ad5c",
+  "question": "What chain of evidence links the kinnor to the British Museum’s collection of cymbals?",
+  "gold_answer": "The kinnor is rendered as harp, which is in the Anglo-Saxon manuscript that is in the British Museum, which also has cymbals.",
+  "llm_answer": "The provided context does not contain any information linking the kinnor to the British Museum’s collection of cymbals.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain relevant information to answer the question. However, it fails to provide the chain of evidence linking the kinnor to the British Museum's collection of cymbals, as stated in the Gold Answer. The Gold Answer specifies the connection through the Anglo-Saxon manuscript, which is not addressed by the Model Answer."
+  }
+}

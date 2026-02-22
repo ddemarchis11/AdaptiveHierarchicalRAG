@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77578361",
+  "question": "During his encounter on the street while working as a trailer in the green-goods scheme, to whom did Snipes say something that advanced the plot?",
+  "gold_answer": "Snipes said something to the old man.",
+  "llm_answer": "Snipes spoke to the old countryman who was asking his way to Case’s tenement, and this exchange advanced the plot by revealing the old man’s urgent need to find Perceval before his son does.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Snipes spoke to the old man, aligning with the Gold Answer. It also provides additional context about the old man's urgent need to find Perceval before his son, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded."
+  }
+}

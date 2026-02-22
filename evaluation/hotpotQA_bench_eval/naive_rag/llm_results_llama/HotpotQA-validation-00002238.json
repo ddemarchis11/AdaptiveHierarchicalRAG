@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002238",
+  "question": "In what ecclesiastical province is Stephen Conway currently part of?",
+  "gold_answer": "Province of Canterbury",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "The Archdiocese of Cashel and Emly ( Irish : Ard-Deoise Chaisil agus Imligh ) is a Latin diocese of the Catholic Church located in mid-western Ireland , and the metropolis of the eponymous ecclesiastical province . The cathedral church of the archdiocese is the Cathedral of the Assumption in Thurles , County Tipperary . The incumbent archbishop , as of 2024, is Kieran O'Reilly . History The original dioceses of Cashel and Emly were established by the Synod of Ráth Breasail in 1111.  Diocese of Cashel The Diocese of Cashel was elevated to the rank of ecclesiastical province, which was roughly co-extensive with the traditional province of Munster , by the Synod of Kells in 1152. Since the Papal Legate , Giovanni Paparoni , awarded the pallium to Donat O'Lonergan in 1158, his successors ruled the ecclesiastical province of Cashel – also sometimes known as Munster – until 26 January 2015. Diocese of Emly The Diocese of Emly took its name from the eponymous village in County Tipperary , which was the location of the principal church of the Eóghanacht dynasty. Archdiocese of Cashel and Emly The original Roman Catholic dioceses of Cashel and Emly",
+      "id": "HotpotQA-validation-00002238/03_Roman-Catholic-Archdiocese-of-Cashel-and-Emly.html_c_0"
+    },
+    {
+      "text": "The Roman Catholic Archdiocese of Bamenda is the metropolitan see of the ecclesiastical province of Bamenda in Cameroon . It was by the bull Tametsi Christianarum , of 13 August 1970, that Pope Paul VI erected the Diocese of Bamenda with territory detached from the Diocese of Buéa. On 18 March 1982 Pope John Paul II created, by the bull Eo Magis Ecclesia Catholica , the Archdiocese of Bamenda and the Ecclesiastical Province of Bamenda, and erected the Diocese of Kumbo with territory detached from the Diocese of Bamenda. Bamenda was by the same bull made into the metropolitan see of the ecclesiastical province with Buéa and Kumbo as its suffragans. Mamfe was later created into a diocese with territory detached from Buéa. Bamenda, therefore, has three suffragan sees: Buéa, Kumbo and Mamfe. As of November 2013 there are 35 parishes in Bamenda divided into six deaneries: Njinikom, Mankon, Widikum, Bambui, Wum and Ndop. History 13 August 1970: Established as Diocese of Bamenda from the Diocese of Buéa 18 March 1982: Promoted as Metropolitan Archdiocese of Bamenda Special churches The seat of the archbishop is St Joseph's Metropolitan",
+      "id": "HotpotQA-validation-00002238/02_Roman-Catholic-Archdiocese-of-Bamenda.html_c_0"
+    },
+    {
+      "text": "of the Eóghanacht dynasty. Archdiocese of Cashel and Emly The original Roman Catholic dioceses of Cashel and Emly had been governed by the same bishop since 10 May 1718, with the Archbishop of Cashel acting as Apostolic Administrator of Emly, until they were united on 26 January 2015 to form the new metropolitan see of Cashel and Emly. Church of Ireland Following the Reformation in Ireland , the two Church of Ireland dioceses of Cashel and Emly were united in 1569. This union lasted until 1976, at which point the diocese of Cashel was merged into the Diocese of Cashel and Ossory, while the diocese of Emly was merged into the Diocese of Limerick and Killaloe. Geography Ecclesiastical province The ecclesiastical province is one of four that make up the Catholic Church in Ireland ; the others being Armagh , Dublin , and Tuam . The six suffragan dioceses of the province are: Cloyne Cork and Ross Kerry Killaloe Limerick Waterford and Lismore Archdiocese The archdiocese is divided into 46 parishes, which are spread across two counties: 35 in Tipperary and 11 in Limerick . The parishes were previously grouped into eight deaneries , but following a listening process led by Archbishop Kieran O'Reilly , the",
+      "id": "HotpotQA-validation-00002238/03_Roman-Catholic-Archdiocese-of-Cashel-and-Emly.html_c_1"
+    },
+    {
+      "text": "51°03′54″N 1°47′53″W ﻿ / ﻿ 51.065°N 1.798°W ﻿ / 51.065; -1.798 Map of the dioceses of the Church of England showing Salisbury diocese in red The Diocese of Salisbury is a Church of England diocese in the south of England, within the ecclesiastical Province of Canterbury . The diocese covers the historic county of Dorset (which excludes the deaneries of Bournemouth and Christchurch , which fall within the Diocese of Winchester as they were historically in Hampshire), most of Wiltshire (excepting an area in the north and Swindon ), and the Channel Islands of Jersey and Guernsey . The diocese is led by Stephen Lake , Bishop of Salisbury , and by the diocesan synod . The bishop's seat is at Salisbury Cathedral . History Catholic The Diocese of Sherborne (founded c. AD 705 ) was the origin of the present diocese; St Aldhelm was its first Bishop of Sherborne . The Diocese of Ramsbury was created from the northwestern territory of the Bishop of Winchester in 909. Herman of Wilton was appointed bishop of Ramsbury , covering Wiltshire and Berkshire, by Edward the Confessor in 1045. In or after 1059 he was also appointed Sherborne , covering Dorset, uniting the two dioceses. In 1075",
+      "id": "HotpotQA-validation-00002238/01_Diocese-of-Salisbury.html_c_0"
+    },
+    {
+      "text": "York is a cathedral city in North Yorkshire , England, with Roman origins , sited at the confluence of the rivers Ouse and Foss . It has many historic buildings and other structures, such as a minster , castle and city walls , all of which are Grade I listed . It is the traditional county town of Yorkshire , and the administrative centre of the City of York district. It is located 27 miles (43 km) north-east of Leeds , 90 miles (140 km) south of Newcastle upon Tyne and 207 miles (333 km) north of London . York's built-up area had a recorded population of 141,685 at the 2021 census . The city was founded under the name of Eboracum in AD 71. It then became the capital of Britannia Inferior , a province of the Roman Empire , and was later the capital of the kingdoms of Deira , Northumbria and Scandinavian York . In the Middle Ages it became the northern England ecclesiastical province 's centre, and grew as a wool-trading centre. In the 19th century it became a major railway network hub and confectionery-manufacturing centre. In the Second World War York was bombed in the Baedeker Blitz . Although York was less targeted during the war than other, more industrialised northern cities, several historic buildings were gutted and restoration lasted until the 1960s. Historic local governance of the city was as a county",
+      "id": "HotpotQA-validation-00007399/01_York.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The Archdiocese of Cashel and Emly is in the ecclesiastical province of Munster (Novel-00002238_c_0).\n- The ecclesiastical province of Bamenda is in Cameroon (Novel-00002238_c_1).\n- The ecclesiastical province of Canterbury is in England (Novel-00002238_c_3).\n- The ecclesiastical province of York is in North Yorkshire, England (Novel-00007399_c_0).\n- Stephen Conway is the Bishop of Salisbury (Novel-00002238_c_3).\n- The ecclesiastical province of Canterbury is the province of the Diocese of Salisbury (Novel-00002238_c_3).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what ecclesiastical province is Stephen Conway currently part of?",
+      "doc_ids": [
+        "HotpotQA-validation-00002238/03_Roman-Catholic-Archdiocese-of-Cashel-and-Emly.html_c_0",
+        "HotpotQA-validation-00002238/02_Roman-Catholic-Archdiocese-of-Bamenda.html_c_0",
+        "HotpotQA-validation-00002238/03_Roman-Catholic-Archdiocese-of-Cashel-and-Emly.html_c_1",
+        "HotpotQA-validation-00002238/01_Diocese-of-Salisbury.html_c_0",
+        "HotpotQA-validation-00007399/01_York.html_c_0"
+      ]
+    }
+  ]
+}

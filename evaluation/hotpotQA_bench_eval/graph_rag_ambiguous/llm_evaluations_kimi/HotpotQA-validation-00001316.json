@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001316",
+  "question": "In which state and country are both a public school district serving a wealthy Long Island community and one of its constituent primary schools located?",
+  "gold_answer": "New York, United States",
+  "llm_answer": "Both the Great Neck Public Schools district and its constituent Saddle Rock Elementary School are located in the state of New York, United States.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the state and country (New York, United States) where the Great Neck Public Schools district and Saddle Rock Elementary School are located. This information is supported by the retrieved context, which explicitly states the location of both entities. The answer is accurate, faithful to the context, and includes all necessary facts from the Gold Answer."
+  }
+}

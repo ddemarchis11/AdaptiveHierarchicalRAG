@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000645",
+  "question": "Which American comedian born on March 21, 1962, appeared in the movie \"Sleepless in Seattle?\"",
+  "gold_answer": "Rosie O'Donnell",
+  "llm_answer": "Rosie O'Donnell",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Rosie O'Donnell as the American comedian born on March 21, 1962, who appeared in 'Sleepless in Seattle.' This is consistent with the Gold Answer and supported by the Retrieved Context, which mentions her role in the film and her birthdate. All key facts are covered."
+  }
+}

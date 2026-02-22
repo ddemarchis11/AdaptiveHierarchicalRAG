@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfb9683e",
+  "question": "Which educational book includes a dedicated section on the topic of TOBACCO as part of its contents?",
+  "gold_answer": "TOBACCO is included as part of the CHILD'S HEALTH PRIMER.",
+  "llm_answer": "The context shows that “Hygienic Physiology” lists “TOBACCO” as one of its chapter headings (VIII.--TOBACCO), so this educational book contains a dedicated section on tobacco.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly attributes the dedicated section on 'TOBACCO' to 'Hygienic Physiology,' whereas the Gold Answer correctly identifies 'The Child's Health Primer' as the book containing this section. The retrieved context explicitly mentions 'TOBACCO' as part of 'The Child's Health Primer,' not 'Hygienic Physiology.' Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

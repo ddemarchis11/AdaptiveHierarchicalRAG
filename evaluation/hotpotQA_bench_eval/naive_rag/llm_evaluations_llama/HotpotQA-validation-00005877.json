@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005877",
+  "question": "Which musician obtained fame first, Terry Kath or Róisín Murphy?",
+  "gold_answer": "Terry Alan Kath",
+  "llm_answer": "Based on the provided evidence, it appears that Terry Kath obtained fame first. \n\nTerry Kath was born on January 31, 1946, and started his music career in the early 1960s. He joined his first semi-professional band, The Mystics, in 1963. He later played with Jimmy Rice and the Gentlemen in 1965 and then with Jimmy Ford and the Executives, where he became close friends with other musicians who would later join Chicago.\n\nChicago, the band Kath was a part of, released their debut album \"The Chicago Transit Authority\" in 1969. This suggests that Kath gained fame through his work with Chicago in the late 1960s and early 1970s.\n\nRóisín Murphy, on the other hand, was born on July 5, 1973, and first gained fame in the 1990s as part of the pop duo Moloko. Her solo career began in 2005 with the release of her debut album \"Ruby Blue.\"",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Terry Kath as the musician who obtained fame first, aligning with the Gold Answer. It provides detailed context about Kath's early career and the timeline of his fame with Chicago, as well as contrasting it with Róisín Murphy's later rise to fame in the 1990s. All claims are supported by the retrieved context, and the key facts from the Gold Answer are included."
+  }
+}

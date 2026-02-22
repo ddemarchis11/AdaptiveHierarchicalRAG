@@ -1,0 +1,42 @@
+{
+  "id": "Novel-c4349293",
+  "question": "What is the familial relationship between Muley Abd Errahman and Muley Suleiman as presented in the genealogical accounts of the narrative?",
+  "gold_answer": "Muley Abd Errahman was the nephew of Muley Suleiman.",
+  "llm_answer": "Muley Abd Errahman is the nephew of Muley Suleiman and the eldest son of Muley Hisham, the reigning Shereefian prince.",
+  "context": [
+    {
+      "text": "Muley Ismail, in 1727. 31. Muley Abdullah, in 1757. 32. Sidi Mohammed, in 1789. 33. Muley Yezeed, who assumed the surname of El-Mahdee _i.e._ \"the director,\" in 1792. 34. Muley Hisham, in 1794. 35. Muley Suleiman, in 1822. 36. Muley Abd Errahman, nephew of Muley Suleiman and eldest son of Muley Hisham, the reigning Shereefian prince. [5] In the Shereefian lineage of Muley Suleiman, copied for Ali Bey by the Emperor himself, and which is very meagre and unsatisfactory, we miss the names of the two brothers, the Princes Yezeed and Hisham, who disputed the succession on the death of their father, Sidi Mohammed which happened in April 1790 or 1789, when the Emperor was on a military expedition to quell the rebellion of his son, Yezeed--the tyrant whose bad fame and detestable cruelties filled with horror all the North African world. The Emperor Suleiman evidently suppressed these names, as disfiguring the lustre of the holy pedigree; although Yezeed was the hereditary prince, and succeeded his father",
+      "id": "Novel-10356_c_33"
+    },
+    {
+      "text": "men; but though the Maroquines were disaffected, groaning under the avarice of their Shereefian Lord, and occasionally do revolt, nevertheless they would not deliberately set aside the dynasty of the Shereefs, the veritable root and branch of the Prophet of God, for an adventurer of other blood, however powerful in arms and in sanctity. Morocco is the only independent Mussulman kingdom remaining, founded by the Saracens when they conquered North Africa. Tunis and Tripoli are regencies of the Port of Tunis, having an hereditary Bey, while Tripoli is a simple Pasha, removable at pleasure. Algeria has now become an integral portion of France by the Republic. Muley Abd Errahman was nominated to the throne by the solemn and dying request of his uncle, Muley Suleiman, to the detriment of his own children. He belonged to one of the most illustrious branches of the reigning dynasty. In the natural order of succession, he ought to have taken possession of the Shereefian crown at the end of the last age; but, being a child, his uncle was preferred; for Mahometan sovereigns and empire are exposed to convulsions enough, without the additional dangers and elements of strife attendant on regencies. In transmitting the sceptre to him, Muley Suleiman, therefore, only performed an act of justice. Muley Abd Errahman, during his long",
+      "id": "Novel-10356_c_25"
+    },
+    {
+      "text": "to him, Muley Suleiman, therefore, only performed an act of justice. Muley Abd Errahman, during his long reign, rendered the imperial authority more solid than formerly, and established a species of conservative government in a semi-barbarous country, and exposed to continual commotions, like all Asiatic and African states. In governing the multitudinous and heterogeneous tribes of his empire, his grand maxim has ever been, like Austria, with her various states and hostile interests of different people, \"Divide et empera.\" When will sovereigns learn to govern their people upon principles of homogenity of interests, natural good will, and fraternal feeling? Alas! we have reason to fear, never. It seems nations are to be governed always by setting up one portion of the people against the other. Muley Abd Errahman was chosen by his uncle, on account of his pacific and frugal habits, educated as he was by being made in early life the administrator of the customs in Mogador, and as a prince likely to preserve and consolidate the empire. The anticipations of the uncle have been abundantly realized by the nephew, for Muley Abd Errahman, with the exception of the short period of the French hostilities, (which was not his own work and happened in spite of him), has preserved the intact without, and quiet during the many years he has occupied the throne. His Moorish Majesty,",
+      "id": "Novel-10356_c_26"
+    },
+    {
+      "text": "Produced by Carlo Traverso, Tom Allen and the Online Distributed Proofreading Team from images generously made available by the Bibliotheque nationale de France (BnF/Gallica) at http://gallica.bnf.fr. [Illustration] TRAVELS IN MOROCCO, BY THE LATE JAMES RICHARDSON, AUTHOR OF \"A MISSION TO CENTRAL AFRICA,\" \"TRAVELS IN THE DESERT OF SAHARA,\" &C. EDITED BY HIS WIDOW. [Illustration] IN TWO VOLUMES. VOL. II. CONTENTS OF THE SECOND VOLUME. CHAPTER I. The Mogador Jewesses.--Disputes between the Jew and the Moor.--Melancholy Scenes.--The Jews of the Atlas.--Their Religion.--Beautiful Women.--The Four Wives.--Statues discovered.--Discrepancy of age of married people.-- Young and frail fair ones.--Superstition respecting Salt.--White Brandy.--Ludicrous Anecdote. CHAPTER II. The Maroquine dynasties.--Family of the Shereefian Monarchs.--Personal appearances and character of Muley Abd Errahman.--Refutation of the charge of human sacrifices against the Moorish Princes.--Genealogy of the reigning dynasty of Morocco.--The tyraufc Yezeed, (half Irish).--Muley Suleiman, the \"The Shereeff of",
+      "id": "Novel-10356_c_0"
+    },
+    {
+      "text": "and Sultan of the whole empire. Muley Suleiman proved to be a good and patriotic prince, \"the Shereef of Shereefs,\" whilst he maintained, by a just administration, tranquility in his own state, and cultivated peace with Europe. During his long reign of a quarter of a century, at a period when all the Christian powers were convulsed with war, he wisely remained neutral, and his subjects were happy in the enjoyment of peace and prosperity. He died on the 28th March 1820, about the 50th year of his age, after having, with his last breath declared his nephew, Muley Abd Errahman, the legitimate and hereditary successor of the Shereefs, and so restoring the lineal descent of these celebrated Mussulman sovereigns. The most glorious as well as the most beneficent and acceptable act of the reign of Muley Suleiman, so far as European nations were concerned, was the abolition of Christian slavery in his States. In former times, the Maroquine Moors, smarting under the ills inflicted upon them by Spain and breathing revenge, subjected their Christian captives to more cruel bondage, than, ever were experienced by the same victims of the Corsairs in Algeria, the stronghold of this nefarious trade. The Shereefs have been accustomed to wrap themselves up in their sublime indifference, as to the fate and fortunes of Europe. During late centuries, their",
+      "id": "Novel-10356_c_36"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Muley Suleiman is the uncle of Muley Abd Errahman (Novel-10356_c_36).\n- Muley Abd Errahman is the nephew of Muley Suleiman (Novel-10356_c_36).\n- Muley Suleiman is the father of Muley Hisham (Novel-10356_c_33).\n- Muley Hisham is the father of Muley Abd Errahman (Novel-10356_c_33).\n- Muley Suleiman is the Shereefian prince (Novel-10356_c_36).\n- Muley Abd Errahman is the eldest son of Muley Hisham (Novel-10356_c_33).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the familial relationship between Muley Abd Errahman and Muley Suleiman as presented in the genealogical accounts of the narrative?",
+      "doc_ids": [
+        "Novel-10356_c_33",
+        "Novel-10356_c_25",
+        "Novel-10356_c_26",
+        "Novel-10356_c_0",
+        "Novel-10356_c_36"
+      ]
+    }
+  ]
+}

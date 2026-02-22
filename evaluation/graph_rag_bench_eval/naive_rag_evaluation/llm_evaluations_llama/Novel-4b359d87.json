@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4b359d87",
+  "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+  "gold_answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+  "llm_answer": "Based on the provided text, the following actions illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities:\n\n1. Going to Woolwich and Deptford to give orders for and take notice of the forwardness of ships to go forth. This suggests that Pepys is involved in overseeing the preparation and readiness of ships for naval operations.\n\n2. Dined at Woolwich with Captain Poole at the tavern there. This indicates that Pepys is interacting with naval officers and personnel, which is likely related to his work in the Admiralty.\n\n3. Walking to Redriffe and calling at the half-way house. Although this action is not directly related to naval matters, it is part of a larger journey that includes visiting naval-related locations.\n\n4. By water home, and there did businesses of the Navy. This suggests that Pepys is involved in administrative tasks related to the Navy, possibly in his role as Clerk of the Acts and Secretary to the Admiralty.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed account of Pepys's activities, some of which are related to naval matters, such as visiting Woolwich and Deptford to oversee ships. However, it includes additional details not explicitly supported by the retrieved context, such as 'doing businesses of the Navy' at home, which is not mentioned in the context. The Gold Answer focuses specifically on showing ships to Lady Jemimah and Paulina and visiting Deptford, which the Model Answer does not directly address. Thus, the Model Answer partially aligns with the Gold Answer and the context but misses key specifics and includes unsupported claims."
+  }
+}

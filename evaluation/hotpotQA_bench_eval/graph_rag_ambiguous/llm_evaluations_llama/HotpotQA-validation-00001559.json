@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001559",
+  "question": "In what other film did the male lead of a romantic comedy about a Brooklyn widow in her late thirties also appear during the same year that film was released?",
+  "gold_answer": "Red Rock West",
+  "llm_answer": "I'm unable to answer the question as the context does not provide information about the male lead of a romantic comedy about a Brooklyn widow in her late thirties appearing in another film during the same year.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly states that the retrieved context does not provide the necessary information to answer the question. However, it fails to provide the correct answer ('Red Rock West') which is unrelated to the retrieved context but is the gold answer. Thus, correctness and evidence coverage are rated low, while faithfulness to context is high."
+  }
+}

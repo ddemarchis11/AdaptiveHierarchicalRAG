@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000207",
+  "question": "Who was Chamberlain and Colonel of the military staff of The Merrie Monarch?",
+  "gold_answer": "Colonel Charles Hastings Judd",
+  "llm_answer": "Chamberlain and Colonel of the military staff of The Merrie Monarch (King Kalākaua) was Charles Hastings Judd.",
+  "context": [
+    {
+      "text": ". All were born in the island with the exception of Henry who was born at sea. He attended Punahou School . Political career During the reign of Kalākaua , George Macfarlane was made a Major on the military staff of the Governor of Oahu , John Owen Dominis , and later was elevated to the rank of colonel on the king's military staff. He would also serve as a member of the House of Nobles in the Legislature of the Kingdom of Hawaii , participating in the session of 1886. He also served on the Privy Council of State, the advisory council of the monarch. In 1881, he accompanied Kalākaua on his tour around the world , serving as his aide-de-camp . He didn't travel the entire trip around world, only accompanying the king and his suite, including the then-incumbent Chamberlain Charles Hastings Judd and cabinet minister William Nevins Armstrong , on the first leg of the journey from Honolulu to San Francisco and later rejoining them in Europe and the United States. In 1888, he was appointed as Chamberlain of the Royal Household. With Robert Hoapili Baker , he accompanied the king on his final visit to the United States aboard the USS Charleston , in November 1890. While visiting Southern California, the king drank excessively and fell ill in January 1891 and had to be returned to San Francisco. Hoapili and Macfarlane were at his deathbed",
+      "id": "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_c_1"
+    },
+    {
+      "text": "Kalākaua with Colonel Macfarlane and Colonel Robert Hoapili Baker aboard the USS Charleston en route to San Francisco, California George Walter Hunter Macfarlane (March 1, 1849 – February 20, 1921) was a British businessman, courtier and politician of the Kingdom of Hawaii . He served Colonel of the military staff of King Kalākaua , traveling with the monarch on his 1881 world tour . He also served as his final chamberlain of king and was at his deathbed in 1891. Early life He was born March 1, 1849, in Honolulu, Hawaii . His parents were Henry Richard Macfarlane (died 1860) and Eliza Macfarlane (1828–1904). His father was Scottish, of the Highland Clan MacFarlane , while his mother was of English descent from Devonshire . His parents married in Auckland and were early settlers of Hawaii arriving to the islands in 1846 via New Zealand . His brothers were: Henry R. Macfarlane, Edward C. Macfarlane , who served on as Queen Liliuokalani 's cabinet minister, Frederick W. Macfarlane and Clarence W. Macfarlane . A younger sister Helen Blanche Macfarlane married William H. Cornwell . All were born in the island with the exception of Henry who was born at sea. He attended Punahou School . Political career During the reign",
+      "id": "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_c_0"
+    },
+    {
+      "text": "Colonel Charles Hastings Judd (September 8, 1835 – April 18, 1890) was a Hawaiian businessman, rancher, courtier and politician who was born, lived, worked and died in the Kingdom of Hawaii . He served as chamberlain and colonel of the military staff of King Kalākaua and traveled with the monarch on his 1881 world tour . Early life Charles Hastings Judd was born September 8, 1835, at the Old Mission Home across the street from the modern Hawaiian Mission Houses Historic Site in Honolulu . He was the fourth child and second son of American missionaries Gerrit P. Judd and Laura Fish Judd . Charles' younger twin sister was also named Laura Fish Judd (1835–1888) and his father, who had worked as a missionary physician, resigned his post to work as a political advisor and cabinet minister to King Kamehameha III . Charles' younger brother Albert Francis Judd served as Chief Justice of the Hawaii Supreme Court . Judd was educated at Punahou School from 1842 to 1849 before attending the Royal School when the children of cabinet ministers were admitted to the institution. His classmates included fellow missionary descendant William Nevins Armstrong and the future King Kalākaua , both of whom developed a lifelong friendship with Judd during their childhood. From 1854 to 1856, Judd returned to Punahou and traveled with his mother and",
+      "id": "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_c_0"
+    },
+    {
+      "text": "to the king. Lunalilo responded by disbanding the military unit, leaving Hawaii without a standing army for the remainder of his reign. After Lunalilo's death and the monarchical election of 1874 that followed, Judd openly supported Queen Dowager Emma 's candidacy for the throne against Kalākaua but switched sides after Kalākaua's victory over Emma in the legislative vote, which gained him the distrust of the king's sister Liliuokalani . During the reign of Kalākaua, in 1874, Judd was reappointed to the King's Staff as a colonel. Kalākaua also appointed Judd to serve on his Privy Council of State, the monarch's advisory council. On September 8, 1879, he was appointed a member of the House of Nobles , the upper house of the legislature, and served in this legislative post during the session from 1880 to 1886. He also served as Commissioner of Crown Lands from 1878 and member of the Board of Health from 1880. On July 6, 1878, he was appointed the King's Chamberlain and served as his private secretary. Edward William Purvis served as his vice-chamberlain. Colonel Judd (left) with King Kalākaua (center) and Colonel George W. Macfarlane (right) In this capacity, Judd traveled with",
+      "id": "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_c_3"
+    },
+    {
+      "text": "Political and military careers Kalākaua, photograph by Joseph W. King, c. 1860s Kalākaua's various military, government and court positions prevented him from fully completing his legal training. He received his earliest military training under the Prussian officer, Major Francis Funk , who instilled an admiration of the Prussian military system. In 1852, Prince Liholiho, who would later reign as Kamehameha IV, appointed Kalakaua as one of his aide-de-camp on his military staff. The following year, he commissioned Kalākaua as brevet captain in the infantry. In the army, Kalākaua served as first lieutenant in his father Kapaʻakea's militia of 240 men and later worked as military secretary to Major John William Elliott Maikai , the adjutant general of the army. He was promoted to major and assigned to the personal staff of Kamehameha IV when the king ascended to the throne in 1855. He was promoted to the rank of colonel in 1858. He became a personal associate and friend of Prince Lot, the future Kamehameha V, who instilled his mission of \"Hawaiʻi for Hawaiians\" in the young Kalākaua. In the fall of 1860, when he was Chief Clerk of the kingdom's Department of the Interior,",
+      "id": "HotpotQA-validation-00000207/01_Kalkaua.html_c_6"
+    }
+  ],
+  "cot_scratchpad": "- Kalākaua is ‘The Merrie Monarch’. (Novel-xxxx_c_yy)\n- Charles Hastings Judd was Chamberlain & Colonel on Kalākaua’s military staff. (Novel-xxxx_c_0)\n- George W. Macfarlane was also Colonel on the same staff, but not Chamberlain at same time. (Novel-xxxx_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who was Chamberlain and Colonel of the military staff of The Merrie Monarch?",
+      "doc_ids": [
+        "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_c_1",
+        "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_c_0",
+        "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_c_0",
+        "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_c_3",
+        "HotpotQA-validation-00000207/01_Kalkaua.html_c_6"
+      ]
+    }
+  ]
+}

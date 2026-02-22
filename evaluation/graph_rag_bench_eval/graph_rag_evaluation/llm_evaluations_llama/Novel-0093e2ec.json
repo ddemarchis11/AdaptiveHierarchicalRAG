@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0093e2ec",
+  "question": "In the context of the military operations during the Sioux Uprising, what was Maj. Joseph R. Brown's leadership role in relation to Company A, and how was this company associated with the St. Paul organizations?",
+  "gold_answer": "Maj. Joseph R. Brown commanded Company A, which was part of the St. Paul organizations.",
+  "llm_answer": "Maj. Joseph R. Brown was the commander of Company A, which was part of the Minnesota militia. However, the context does not provide information on how this company was associated with the St. Paul organizations.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Maj. Joseph R. Brown as the commander of Company A, aligning with the Gold Answer. However, it inaccurately states that Company A was part of the Minnesota militia, which is not supported by the retrieved context. Additionally, the Model Answer fails to address the association of Company A with the St. Paul organizations, as mentioned in the Gold Answer. The retrieved context does not provide relevant information to support or refute these claims, leading to a low faithfulness score."
+  }
+}

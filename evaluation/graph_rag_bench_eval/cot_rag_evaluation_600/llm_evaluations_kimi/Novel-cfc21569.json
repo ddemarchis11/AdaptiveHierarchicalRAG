@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cfc21569",
+  "question": "When Raegen is fleeing the police after a violent encounter, where does he wish to hide in order to avoid being caught, and why does he consider these locations safe?",
+  "gold_answer": "Raegen wanted to lie hidden in his own cellar and his own garret.",
+  "llm_answer": "Raegen wishes to hide on the roofs, because any tenement on Cherry Street would give him shelter, either for love of him or fear of him.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Raegen wishes to hide on the roofs, which is not supported by the Gold Answer or the Retrieved Context. The Gold Answer specifies that Raegen wanted to hide in his own cellar and garret, and the context does not provide evidence for the claim about Cherry Street tenements or the roofs being his intended hiding places."
+  }
+}

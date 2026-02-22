@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001766",
+  "question": "Eusebio Valli studied alongside a physician who was the pioneer of what field?",
+  "gold_answer": "bioelectromagnetics",
+  "llm_answer": "The field that Dr. Antonio Mendoza, who studied alongside Eusebio Valli, was the pioneer of is not explicitly stated in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Dr. Antonio Mendoza as the relevant figure and fails to address the question about the field pioneered by Luigi Galvani, who influenced Eusebio Valli. The correct answer, bioelectromagnetics, is supported by the context, which mentions Galvani's work on 'animal electricity' and Valli's studies in this area. The Model Answer does not align with the context or the Gold Answer."
+  }
+}

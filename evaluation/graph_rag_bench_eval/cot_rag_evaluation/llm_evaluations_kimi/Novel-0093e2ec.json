@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0093e2ec",
+  "question": "In the context of the military operations during the Sioux Uprising, what was Maj. Joseph R. Brown's leadership role in relation to Company A, and how was this company associated with the St. Paul organizations?",
+  "gold_answer": "Maj. Joseph R. Brown commanded Company A, which was part of the St. Paul organizations.",
+  "llm_answer": "Maj. Joseph R. Brown commanded the detail that included Company A of the Sixth regiment.  \nCompany A and the Cullen Guards were “St. Paul organizations” composed mostly of “St. Paul boys.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Maj. Joseph R. Brown's leadership role over Company A and its association with St. Paul organizations, aligning with the Gold Answer and the Retrieved Context. It includes all relevant facts and is fully grounded in the provided context."
+  }
+}

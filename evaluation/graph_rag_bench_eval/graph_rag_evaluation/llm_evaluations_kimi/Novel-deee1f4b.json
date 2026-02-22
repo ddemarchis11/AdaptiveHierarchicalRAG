@@ -1,0 +1,12 @@
+{
+  "id": "Novel-deee1f4b",
+  "question": "In which city did Theophilus Stickney, the father of Angeline Hall, die after years of hardship and estrangement from his family?",
+  "gold_answer": "He died in Rochester.",
+  "llm_answer": "The provided context does not specify the city where Theophilus Stickney died.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the city where Theophilus Stickney died, which is faithful to the context provided. However, the Gold Answer explicitly states 'Rochester,' and the Model Answer fails to provide this information, resulting in a score of 0 for correctness and evidence coverage."
+  }
+}

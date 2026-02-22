@@ -1,0 +1,12 @@
+{
+  "id": "Novel-83d2a1a9",
+  "question": "During the girls' walk through Canada City, which character performed a dramatic horseback maneuver, charging up to Cissy Trixit as a display of bravado?",
+  "gold_answer": "Vaquero Billy charged Cissy Trixit.",
+  "llm_answer": "Vaquero Billy performed a dramatic horseback maneuver, charging up to Cissy Trixit as a display of bravado, and then brought his mustang to a stop on its haunches and rigid forelegs, with a sweeping bow of his sombrero, within a foot of her artfully simulated terror.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Vaquero Billy as the character who performed the dramatic horseback maneuver and provides additional details about the action, such as the sweeping bow and the simulated terror, which are supported by the retrieved context. It aligns with the Gold Answer and includes all key facts mentioned."
+  }
+}

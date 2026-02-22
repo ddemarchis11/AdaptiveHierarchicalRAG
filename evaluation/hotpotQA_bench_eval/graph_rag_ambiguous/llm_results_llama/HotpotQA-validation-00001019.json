@@ -1,0 +1,291 @@
+{
+  "id": "HotpotQA-validation-00001019",
+  "question": "Do both a succulent genus native to the rocky soils of South Africa and a flowering genus widespread across North American shrublands belong to the same botanical grouping commonly associated with crystalline-looking ground cover plants?",
+  "gold_answer": "no",
+  "llm_answer": "No, they do not belong to the same botanical grouping. The succulent genus native to the rocky soils of South Africa is Othonna, while the flowering genus widespread across North American shrublands is Eriogonum.",
+  "context": [
+    {
+      "text": "Crassothonna capensis (previously Othonna capensis ), also known as little pickles (USA) , ruby necklace (Australia), Cape aster, Cape Othonna , and Bobbejaankool (Afrikaans), is a species of the genus Crassothonna previously ( Othonna ) in the family Asteraceae , and is a native of the Eastern Cape of South Africa . It is a native highveld species that originates from the southern Drakensberg region. Description This species is a low-growing, succulent, spreading ground cover with finger-like, blue-grey leaves, spirally arranged, which become tipped with maroon in dry conditions. It has yellow daisy-like flowers on long, slender stems. Taxonomy It was described by L.H. Bailey in 1901 and published in the Cyclopedia of American Horticulture replacing the original description and name from 1865 Othonna crassifolia Harv. In turn, the genus was changed from Othonna by Nordenstam et al., who erected the new genus Crassothonna for the clade of Othonna species O. sedifolia, O. alba and O. capensis . The new name for this species is therefore Crassothonna capensis (L.H.Bailey) B.Nord. Distribution and habitat This species is endemic to the Eastern Cape Province in semi-arid Karoo scrub and dry, rocky flats, often in the partial protection of surrounding vegetation or rocks. Cultivation In cultivation, the species is commonly called little pickles in the USA or ruby necklace in Australia and is used for rockeries, terrariums, indoor hanging pots and outside xeriscaping . References External links Media related to Crassothonna capensis at Wikimedia Commons",
+      "id": "HotpotQA-validation-00002097/03_Othonna-capensis.html_c_0",
+      "doc_id": "HotpotQA-validation-00002097/03_Othonna-capensis.html",
+      "community_id": 0,
+      "score": 55.668594
+    },
+    {
+      "text": "Apium is a genus , as currently circumscribed by Plants of the World Online , of 12 species of flowering plants in the family Apiaceae , with an unusual highly disjunct distribution with one species in the temperate Northern Hemisphere in the Western Palaearctic ( Europe , western Asia , north Africa ), and the rest in the temperate Southern Hemisphere in southern Africa, southern South America , Australia , and New Zealand . They are prostrate to medium-tall annual , biennial or perennial herbs growing up to 1 m high in wet soil, often marshes and salt marshes , and have pinnate to bipinnate leaves and small white flowers in compound umbels . Some species are edible, notably Apium graveolens , which is the wild ancestor of the commercially important vegetables celery , celeriac and leaf celery . The genus is the type genus of the family Apiaceae and the order Apiales; the type species of the genus is Apium graveolens . Species As of September 2024 [update] , Plants of the World Online accepts the following species: Western Palaearctic Apium graveolens L. - wild celery Australia Apium annuum P.S.Short Apium insulare P.S.Short - Flinder's Island celery Apium prostratum Labill. ex Vent. (also in New Zealand, southern Africa, and southern South America) - sea celery New Zealand Apium prostratum Labill. ex Vent. (also in Australia, southern Africa, and southern South America) - sea celery Southern Africa Apium prostratum Labill. ex Vent. (also in Australia, New Zealand, and southern South America) - sea celery Southern South America Apium australe Thouars Apium chilense Hook. & Arn. Apium commersonii DC. Apium fernandezianum Johow Apium larranagum M.Hiroe Apium panul (Bertero ex DC.) Reiche Apium prostratum Labill. ex Vent. (also in Australia, New Zealand and southern Africa) - sea celery Apium santiagoensis M.Hiroe Apium sellowianum H.Wolff Former species Species formerly placed in this genus include: Apium bermejoi → Helosciadium bermejoi Apium inundatum → Helosciadium inundatum - lesser marshwort Apium leptophyllum → Cyclospermum leptophyllum - marsh parsley, or fir-leafed celery Apium nodiflorum → Helosciadium nodiflorum - fool's-water-cress Apium repens → Helosciadium repens - creeping marshwort Ecology Apium species, including garden celery, are eaten by the larvae of some Lepidoptera species including angle shades , common swift , Hypercompe icasia , the nutmeg , setaceous Hebrew character and turnip moth . References v t e",
+      "id": "HotpotQA-validation-00000911/00_Apium.html_c_0",
+      "doc_id": "HotpotQA-validation-00000911/00_Apium.html",
+      "community_id": 0,
+      "score": 46.16624
+    },
+    {
+      "text": "Aloinopsis is a genus of ice plants native to the Cape Provinces of South Africa . Description This genus is closely related to the similar Titanopsis , Deilanthe and Nananthus genera. Aloinopsis species have a rather large tuberous root system, and are occasionally cultivated for their looks. They also tend to grow more \"heads\" when they are raised. Most Aloinopsis are winter growers and can react badly to too much water at the wrong time. Aloinopsis malherbei reportedly have \"blunt tips to their leaves, which are densely covered with prominent white tubercles.\" Distribution Aloinopsis malherbei Aloinopsis rubrolineata The species of Aloinopsis are indigenous to an arid area stretching across the border between the Western, Eastern and Northern Cape provinces of South Africa . Most species occur in an arid winter-rainfall area. An outlying species occurs in the far north eastern corner of the Northern Cape. Species Eight species are accepted. Aloinopsis acuta L.Bolus Aloinopsis loganii L.Bolus Aloinopsis luckhoffii (L.Bolus) L.Bolus Aloinopsis malherbei (L.Bolus) L.Bolus – Giant jewel plant Aloinopsis rosulata (Kensit) Schwantes Aloinopsis rubrolineata (N.E.Br.) Schwantes Aloinopsis schooneesii L.Bolus Aloinopsis spathulata (Thunb.) L.Bolus Formerly placed here Deilanthe hilmarii (L.Bolus) H.E.K.Hartmann (as Aloinopsis hilmarii (L.Bolus) L.Bolus ) Deilanthe peersii (L.Bolus) N.E.Br. (as Aloinopsis peersii (L.Bolus) L.Bolus ) Deilanthe thudichumii (L.Bolus) S.A.Hammer (as Aloinopsis thudichumii L.Bolus ) Nananthus aloides (Haw.) Schwantes (as Aloinopsis aloides (Haw.) Schwantes ) Nananthus vittatus (N.E.Br.) Schwantes (as Aloinopsis vittata (N.E.Br.) Schwantes ) Prepodesma orpenii (N.E.Br.) N.E.Br. (as Aloinopsis orpenii (N.E.Br.) L.Bolus ) References Wikimedia Commons has media related to Aloinopsis . v t e",
+      "id": "HotpotQA-validation-00001019/01_Aloinopsis.html_c_0",
+      "doc_id": "HotpotQA-validation-00001019/01_Aloinopsis.html",
+      "community_id": 0,
+      "score": 42.89581
+    },
+    {
+      "text": "Eriogonum is a genus of flowering plants in the family Polygonaceae . The genus is found in North America and is known as wild buckwheat . This is a highly species-rich genus, and indications are that active speciation is continuing. It includes some common wildflowers , such as the California buckwheat ( Eriogonum fasciculatum ). The genus derived its name from the Greek word erion meaning 'wool' and gonu meaning 'knee or joint'. The author of the genus, Michaux , explained the name as describing the first named species of the genus ( E. tomentosum ) as a wooly plant with sharply bent stems ( \"planta lanata, geniculata\" ). Despite sharing the common name \"buckwheat\", Eriogonum is part of a different genus from the cultivated European buckwheat and than other plant species also called wild buckwheat . In addition to the widespread common species, approximately a third of the species in the genus are rare, endangered, or threatened. One such species came into the news in 2005 when the Mount Diablo buckwheat ( Eriogonum truncatum , believed to be extinct) was rediscovered. Ecology Eriogonum species are used as food plants by the larvae of some Lepidoptera (butterflies and moths). An example of a butterfly that uses this plant for food is the Lycaena heteronea . Several of these are monophagous , meaning their caterpillars only feed on this genus, sometimes just on a single taxon of Eriogonum . Wild buckwheat flowers are also an important source of food for these and other Lepidoptera. In some cases, the relationship is so close that Eriogonum and dependent Lepidoptera are in danger of coextinction . Monophagous Lepidoptera on wild buckwheat include: Apodemia mormo (Mormon metalmark) – feeds exclusively on Eriogonum Apodemia mormo langei (Lange's metalmark) – only known from Eriogonum nudum ssp. auriculatum Chionodes dammersi – feeds exclusively on Eriogonum Chionodes luteogeminatus – only known from Eriogonum niveum Euphilotes enoptes smithi ( Smith's blue butterfly ) – only known from Eriogonum latifolium and Eriogonum parvifolium Euphilotes battoides allyni ( El Segundo blue butterfly ) - only known from Eriogonum parvifolium Additionally, bees of the sagebrush steppe rely on the nectar of desert buckwheats, and birds and rodents eat the seeds. Uses Some varieties of",
+      "id": "HotpotQA-validation-00001019/00_Eriogonum.html_c_0",
+      "doc_id": "HotpotQA-validation-00001019/00_Eriogonum.html",
+      "community_id": 1,
+      "score": 42.27624
+    },
+    {
+      "text": "Elodea is a genus of eight species of aquatic plants often called the waterweeds described as a genus in 1803. Classified in the frog's-bit family ( Hydrocharitaceae ), Elodea is native to the Americas and is also widely used as aquarium vegetation and laboratory demonstrations of cellular activities. It lives in fresh water. An older name for this genus is Anacharis , which serves as a common name in North America. The introduction of some species of Elodea into waterways in parts of Europe, Australia, Africa, Asia, and New Zealand has created a significant problem and it is now considered a noxious weed in these areas. Species Elodea bifoliata H.St.John – Canada ( AB , SK ), W United States ( OR + CA to NM + MN ) Elodea callitrichoides (Rich.) Casp. – Argentina, Uruguay Elodea canadensis Michx. – most of United States + Canada Elodea densa (Planch.) Casp. Elodea granatensis Bonpl. – much of South America Elodea heterostemon (S.Koehler & C.P.Bove) Byng & Christenh. Elodea najas (Planch.) Casp. Elodea nuttallii (Planch.) H.St.John – much of United States + Canada Elodea potamogeton (Bertero) Espinosa – Chile, Peru, Bolivia, Ecuador Chemical control Chemical methods are ineffective in eradicating Elodea – at best they only slow growth for a season or two. As Elodea spreads into new ecosystems, it experiences rapid growth for 5–6 years and then slows as soil nutrients are used up. Elodea is threatening aquatic environments across Europe. Chemicals may be used in places that cause undue economic concerns, but very few aquatic herbicides are registered for aquatic use in the EU. Fluridone , the most commonly used aquatic herbicide is highly effective against Hydrilla, but only marginally effective against Elodea, especially at lower use rates. Mechanical control An aquatic weed harvester collecting Elodea from a lake The plants can also be removed from lakes and rivers mechanically. They are extracted either by hand or by using rakes, chains, mowing boats or weed buckets. The problem is that through vegetative reproduction via fragments, mechanical removal methods can contribute to the spread of the plant. Torn fragments can be transported downstream or are introduced to new environments via attachment to boats and anchor chains. See also Grass carp —Effective against elodea Stormy Lake (Alaska) —A lake where Fluoridone was successfully used to eliminate elodea References External links Wikimedia Commons has media related to Elodea . Jepson Manual Treatment",
+      "id": "HotpotQA-validation-00000911/01_Elodea.html_c_0",
+      "doc_id": "HotpotQA-validation-00000911/01_Elodea.html",
+      "community_id": 0,
+      "score": 38.304546
+    },
+    {
+      "text": "Othonna is a genus of approximately 90 species of succulent or subsucculent perennial herbs or shrubs, with its center of diversity in the Greater Cape Floristic Region (GCFR) of South Africa but some species' ranges include southern Namibia , Angola , and Zimbabwe . The genus was established by Linnaeus in 1753 containing 14 species, however, of those original species, only four are still retained in Othonna , while the others have been transferred to different genera including Cineraria , Euryops , Hertia , Ligularia , Senecio , and Tephroseris . The genus Othonnna is known to be monophyletic. In 2012, a new genus Crassothonna B. Nord. was erected with 13 species transferred from Othonna . A complete modern taxonomic treatment of the genus is being undertaken by the Compton Herbarium and the South African National Biodiversity Institute . The first part, a revision of the Othonnna bulbosa group (those species that are geophytic with an aerial stem), was published in 2019. The name Othonna is derived from the Ancient Greek ὄθοννα and the Latin othone, which is a linen cloth or napkin, in allusion to the downy covering of some of the earlier known species. Several species in the Othonna and Crassothonna are commonly called bobbejaankool in Afrikaans which translates to baboon cress or baboon cabbages. Species in the Othonna bulbosa group Othonna bulbosa Othonna cakilefolia Othonna cuneata Othonna hederifolia Othonna heterophylla Othonna intermedia Othonna lilacina Othonna lyrata Othonna nigromontana Othonna oleracea Othonna petiolaris Othonna pinnata Othonna rosea Othonna rotundiloba Othonna sinuata Othonna stenophylla Othonna tephrosioides Othonna perfoliata Othonna rufibarbis Othonna undulosa Othonna digitata Othonna gymnodiscus Othonna linearifolia Othonna revoluta Species Othonna arborescens Othonna arbuscula Othonna armiana Othonna auriculifolia Othonna bulbosa Othonna burttii Othonna cacalioides Othonna cakilefolia Othonna chromochaeta Othonna ciliata Othonna coronopifolia Othonna cremnophila Othonna cuneata Othonna cyclophylla Othonna daucifolia Othonna dentata Othonna digitata",
+      "id": "HotpotQA-validation-00002097/00_Othonna.html_c_0",
+      "doc_id": "HotpotQA-validation-00002097/00_Othonna.html",
+      "community_id": 1,
+      "score": 37.235332
+    },
+    {
+      "text": "Scaevola ( / ˈ s iː v ə l ə , ˈ s ɛ v -/ ; SE(E)V -ə-lə ) is a genus of flowering plants in the Goodenia family , Goodeniaceae . It consists of more than 130 species, with the center of diversity being Australia and Polynesia . There are around 80 species in Australia, occurring throughout the continent, in a variety of habitats. Diversity is highest in the South West, where around 40 species are endemic . Common names for Scaevola species include scaevolas , fan-flowers , half-flowers , and naupaka , the plants' Hawaiian name. The flowers are shaped as if they have been cut in half. Consequently, the generic name means \" left-handed \" in Latin . Many Hawaiian legends have been told to explain the formation of the shape of the flowers. In one version a woman tears the flower in half after a quarrel with her lover. The gods, angered, turn all naupaka flowers into half flowers and the two lovers remained separated while the man is destined to search in vain for another whole flower. Scaevola taccada in Rangareddy district of Andhra Pradesh , India . Scaevola is the only Goodeniaceae genus that is widespread outside of Australia . In at least six separate dispersals, about 40 species have spread throughout the Pacific Basin , with a few reaching the tropical coasts of the Atlantic and Indian Oceans . The Hawaiian Islands are home to ten Scaevola species, nine of which are endemic . Eight of the indigenous species are the result of a single colonization event. Scaevola glabra and Scaevola taccada arrived separately to produce a total of three colonizations of Hawaii by Scaevola . Some of the endemic species are of hybrid origin. Beach naupaka ( Scaevola taccada synonym S. sericea ) occurs throughout the Pacific and Indian Oceans and is considered an invasive species in Florida, USA, and in some islands of the Caribbean including the Cayman Islands and the Bahamas . Beachberry or Inkberry ( Scaevola plumieri ) is widespread along the Atlantic coast of the tropical Americas and Africa ; however, it is becoming rarer in areas where S. taccada is displacing native coastal plants. Most Australian Scaevola have dry fruits and sprawling, herbaceous to shrubby habits. By contrast, nearly all species outside Australia have shrub habits with fleshy fruit making dispersal by frugivores easy.{ The plant pathogenic sac fungus Mycosphaerella scaevolae was discovered on a Scaevola fan-flower. In Europe, Scaevola aemula is a fairly common container- and bedding plant, usually grown as an annual.  Taxonomy The genus Scaevola was",
+      "id": "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_0",
+      "doc_id": "HotpotQA-validation-00002965/01_Scaevola-plant.html",
+      "community_id": 3,
+      "score": 36.955585
+    },
+    {
+      "text": "Vanilla orchids form the flowering plant genus Vanilla made of about 110 species in the orchid family ( Orchidaceae ). These orchids are found in tropical and subtropical regions worldwide, from tropical America to tropical Asia , New Guinea and West Africa . Five species are known from the contiguous United States, all limited to southern Florida. The most widely known member is the flat-leaved vanilla ( V. planifolia ), native to Mexico and Belize, from which commercial vanilla flavoring is derived. It is the only orchid widely used for industrial purposes in flavoring such products as foods, beverages and cosmetics, and is recognized as the most popular aroma and flavor . The key constituent imparting its flavour is the phenolic aldehyde vanillin . The genus was established in 1754 by Plumier, after J. Miller. The word vanilla , derived from the diminutive of the Spanish word vaina ( vaina itself meaning sheath or pod), simply translates as little pod. Description Flat-leaved vanilla ( Vanilla planifolia ) habitus This genus of vine -like plants has a monopodial climbing habitus . They can form long thin stems with a length of more than 35 m, with alternate leaves spread along their length. The short, oblong, dark green leaves of Vanilla are thick and leathery, even fleshy in some species. But there are also a significant number of species that have their leaves reduced to scales or have become nearly or totally leafless and appear to use their green climbing stems for photosynthesis . Long and strong aerial roots grow from each node. Vanilla plantations require trees for the orchids to climb and anchor by its roots. Flowers and fruit The racemose inflorescence 's short-lived flowers arise successively on short peduncles from the leaf axils or scales. There may be up to 100 flowers on a single raceme, but usually no less than 20. The flowers are quite large and attractive with white, green, greenish yellow or cream colors. The flowers' sepals and petals are similar. The lip is tubular-shaped and surrounds the long, bristly column , opening up, as the bell of a trumpet, at its apex. The anther is at the top of the column and hangs over the stigma , separated by the rostellum. Most Vanilla flowers have a sweet scent. Blooming occurs only when the flowers are fully grown. Each flower opens up in the morning and closes late in the afternoon on the same day, never to reopen. If pollination has not occurred meanwhile, it will be shed. The flowers are self-fertile, but need pollinators to perform this task. Pollinated flowers produces elongate, fleshy and later dehiscent capsule fruits 10–20 cm long with watery pulp ; the fruit ripens gradually for 8 to 9 months after flowering, eventually turning black in color and giving",
+      "id": "HotpotQA-validation-00006132/03_Vanilla-genus.html_c_0",
+      "doc_id": "HotpotQA-validation-00006132/03_Vanilla-genus.html",
+      "community_id": 2,
+      "score": 36.8016
+    },
+    {
+      "text": ", and gynomonoecy have also been reported but are extremely rare. Etymology Silene is the feminine form of Silenus , an Ancient Greek woodland deity who was a companion and tutor to the wine god Dionysus . Species Ecology Lychnis is also the common name of Hadena bicruris , a species of noctuid moth . The larva of this moth feeds on Silene (formerly Lychnis ) species, as do some other Lepidoptera including cabbage moths (recorded on Silene chalcedonica ), grey chi and case-bearers of the genus Coleophora including C. albella (feeds exclusively on Silene flos-cuculi ). Uses Many species of Silene are in cultivation for perennial gardens. Some have gained the Royal Horticultural Society 's Award of Garden Merit , including Silene flos-jovis and Silene schafta . Silene undulata (syn. S. capensis ) is known as iindlela zimhlophe (\"white paths\") by the Xhosa of South Africa . A Xhosa diviner identifies and collects the plant from the wild. The roots are ground, mixed with water, and beaten to a froth, which is consumed by novice diviners during the full moon to influence their dreams . They also take it to prepare for various rituals. The root has such a strong, musky essence that the diviners who consume it exude the scent in their sweat. Silene vulgaris , or bladder campion, is eaten in some Mediterranean countries. Young leaves may be eaten raw, and mature leaves are boiled, fried, stewed or mixed into dishes such as risotto . Fossil record Fossil Silene microsperma seeds from the Chattian stage of the Oligocene have been found in the Oberleichtersbach Formation in the Rhön Mountains of central Germany . References",
+      "id": "HotpotQA-validation-00000048/01_Silene.html_c_1",
+      "doc_id": "HotpotQA-validation-00000048/01_Silene.html",
+      "community_id": 1,
+      "score": 36.323486
+    },
+    {
+      "text": "Aspidistra / ˌ æ s p ɪ ˈ d ɪ s t r ə / is a genus of flowering plants in the family Asparagaceae , subfamily Convallarioideae , native to eastern and southeastern Asia, particularly China and Vietnam . They grow in shade under trees and shrubs. Their leaves arise more or less directly from ground level, where their flowers also appear. The number of species known has increased considerably from the 1980s onwards, with around 100 accepted as of July 2013 [update] . Aspidistra elatior is common worldwide as a foliage house plant that is very tolerant of neglect. It and other species can also be grown in shade outside, where they are generally hardy to −15 °C (5 °F). Description Species of Aspidistra are perennial herbaceous plants growing from rhizomes . The leaves are either solitary or are grouped in small \"tufts\" of two to four. They arise more or less directly from the rhizome, rather than being borne on stems. Each leaf has a long stalk ( petiole ) and a blade with many veins. The flowering stem ( scape ) is usually very short so that the flowers appear low down among the leaves. The fleshy flowers are bell-, urn- or cup-shaped. They vary considerably in size and shape, although few are showy. The flowers of A. longipedunculata are yellow and, unusually for the genus, are borne on scapes up to 20 cm (8 in) high. A. grandiflora has spider-like flowers up to 12 cm (5 in) across. The flower has a large stigma with a flattened top. The fruit is a berry , often with a single seed. Taxonomy The genus Aspidistra was named by the English botanist John Ker Gawler in 1822, as a blend of Greek ασπίς/ασπίδ- aspid- , meaning shield, and the name of the sister genus Tupistra . The genus was at one time placed in a broadly defined Liliaceae, along with many other lilioid monocots . It has also been placed in the families Convallariaceae and Ruscaceae. The APG III system of 2009 places it in the family Asparagaceae , subfamily Convallarioideae . Species Aspidistra is a genus that was largely ignored by field botanists until the 1980s onwards, and there has been a rapid rise in the number of recognised species since then. Some 8 to 10 species were known in the late 1970s; 30 new species were described from China in the 1980s. Subsequently, more new species were found in Vietnam. The online Flora of China uses a narrow definition of species, producing a total of",
+      "id": "HotpotQA-validation-00007299/00_Aspidistra.html_c_0",
+      "doc_id": "HotpotQA-validation-00007299/00_Aspidistra.html",
+      "community_id": 6,
+      "score": 35.59435
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "summary": "**Title**: Stauntonia Plant Genus\n\n**Summary**:  \nStauntonia is a genus of flowering plants in the Lardizabalaceae family, named after 19th-century British diplomat George Staunton, who introduced it from China. The genus comprises numerous species, many of which were reclassified or described by modern botanists such as Christenh. and H.N.Qin. These species are primarily native to East and Southeast Asia, with notable diversity in China. The list reflects ongoing taxonomic revisions, with many names updated in recent years.\n\n**Keywords**:  \nStauntonia, Lardizabalaceae, George Staunton, flowering plants, taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "summary": "**Title**: Scaevola Plant Genus Overview\n\n**Summary**:  \nScaevola is a large genus of flowering plants in the Goodeniaceae family, comprising over 130 species with a primary center of diversity in Australia and Polynesia. The genus is notable for its distinctive fan-shaped, half-flowers, which have inspired both common names like \"fan-flower\" and \"naupaka,\" as well as Hawaiian legends. Scaevola species have dispersed widely across the Pacific Basin and beyond, with some species like *S. taccada* becoming invasive in non-native regions. The genus includes both dry-fruited, herbaceous Australian species and fleshy-fruited, shrubby species elsewhere, adapted for animal-mediated seed dispersal.\n\n**Keywords**:  \nScaevola, fan-flower, naupaka, Goodeniaceae, plant dispersal",
+      "is_seed": true,
+      "expand_score": 0.8205357789993286
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "summary": "**Title**: Wild Buckwheat Genus Eriogonum\n\n**Summary**:  \nEriogonum is a large, rapidly speciating genus of North American wildflowers in the buckwheat family (Polygonaceae), distinguished by woolly stems and joints. About one-third of its ~250 species are rare or imperiled, exemplified by the rediscovered Mount Diablo buckwheat. Many species are ecological keystones: their flowers feed specialist Lepidoptera (e.g., El Segundo blue, Mormon metalmark) to the point of co-extinction risk, while seeds nourish birds and rodents and nectar sustains desert bees. Native Americans traditionally used several species, such as California buckwheat, for food and medicine.\n\n**Keywords**:  \nEriogonum, wild buckwheat, endangered flora, Lepidoptera host plants, Native American uses",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/03_Othonna-capensis.html_0",
+      "summary": "**Title**: Crassothonna capensis Plant Profile\n\n**Summary**: Crassothonna capensis, formerly Othonna capensis, is a succulent groundcover native to South Africa’s Eastern Cape and Drakensberg highveld. Known as “little pickles” or “ruby necklace,” it features blue-grey, finger-like leaves that blush maroon in drought and bears yellow daisy flowers on slender stems. After taxonomic revision, the species was moved from Othonna to the newly erected genus Crassothonna. It thrives in semi-arid Karoo scrub and is cultivated worldwide for rockeries, terrariums, and xeriscaping.\n\n**Keywords**: Crassothonna capensis, succulent groundcover, taxonomic revision, xeriscaping, South African flora",
+      "is_seed": true,
+      "expand_score": 0.7814096212387085
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "summary": "**Title**: Aspidistra Genus Diversity\n\n**Summary**: Aspidistra is a genus of shade-loving, rhizomatous perennial herbs in the asparagus family (Asparagaceae, subfamily Convallariodeae) native to eastern and southeastern Asia, especially China and Vietnam. Long overlooked by botanists, only 8–10 species were known before the 1980s, but intensive fieldwork—primarily in China and Vietnam—has since raised the accepted total to roughly 100 species. The plants bear ground-level, often inconspicuous, bell- or cup-shaped flowers and are cultivated worldwide as tough indoor or shade-garden foliage plants. Taxonomic revisions continue, with regional floras and monographs (e.g., Tillich 2008) enumerating over 90 named species, many recently described and narrowly endemic.\n\n**Keywords**: Aspidistra, species discovery, China, Vietnam, taxonomy",
+      "is_seed": true,
+      "expand_score": 0.7824220657348633
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "summary": "**Title**: Othonna Genus Taxonomy\n\n**Summary**: Othonna is a monophyletic genus of ~90 succulent or subsucculent perennials centered in South Africa’s Greater Cape Floristic Region, with outliers in Namibia, Angola and Zimbabwe. Established by Linnaeus in 1753 with 14 species, only four original taxa remain in the genus while others were reassigned to genera such as Senecio and Euryops; 13 former Othonna species now reside in the segregate genus Crassothonna (2012). A modern taxonomic revision led by the Compton Herbarium and SANBI is underway, beginning with the 2019 treatment of the geophytic O. bulbosa group. The name Othonna references a linen cloth, alluding to the downy indumentum of early-known species, and several species are colloquially called “bobbejaankool” (baboon cabbages) in Afrikaans.\n\n**Keywords**: Othonna, Crassothonna, Cape Floristic Region, taxonomic revision, succulent perennials",
+      "is_seed": true,
+      "expand_score": 0.7814096212387085
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/02_Silene-menziesii.html_0",
+      "summary": "**Title**: Silene menziesii Plant Profile\n\n**Summary**: Silene menziesii, commonly called Menzies' campion or catchfly, is a widespread perennial herb native to western North America from Alaska to the U.S. Southwest. Adaptable to diverse habitats, it exhibits variable growth forms—matlike, decumbent, or erect—with sticky-glandular hairs and opposite lance-shaped leaves. Dioecious plants produce small white two-lobed petals within a hairy, veined calyx, and male and female flowers are externally similar but differ in reduced stamens or stigmas.\n\n**Keywords**: Silene menziesii, Menzies' campion, Caryophyllaceae, dioecious perennial, western North America",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/00_Apium.html_0",
+      "summary": "**Title**: Apium Genus Overview\n\n**Summary**:  \nApium is a genus of 12 flowering plant species in the Apiaceae family, notable for its disjunct global distribution across the Northern and Southern Hemispheres. These herbs, often found in wet or marshy habitats, feature pinnate leaves and small white flowers in compound umbels. The most economically significant species, Apium graveolens, is the wild ancestor of celery, celeriac, and leaf celery. The genus also serves as the type genus for both the Apiaceae family and the Apiales order.\n\n**Keywords**:  \nApium, Apiaceae, Apium graveolens, celery, plant taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "summary": "**Title**: Elodea Invasive Aquatic Plant\n\n**Summary**: Elodea is a genus of freshwater aquatic plants native to the Americas, widely used in aquariums and biology labs. Eight species are recognized, with several introduced to Europe, Australia, Africa, Asia, and New Zealand, where they have become invasive noxious weeds. Control is difficult: chemical herbicides like fluridone show limited effectiveness, while mechanical removal risks spreading fragments that regrow. After invading new habitats, Elodea grows rapidly for 5–6 years before nutrient depletion slows expansion.\n\n**Keywords**: Elodea, invasive species, aquatic weed, chemical control, mechanical removal",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006132/03_Vanilla-genus.html_2",
+      "summary": "**Title**: Vanilla Orchid Biology & Cultivation  \n\n**Summary**:  \nThe genus Vanilla comprises ~110 tropical orchid species, of which *V. planifolia* supplies virtually all commercial vanilla flavoring via its vanillin-rich pods. Vines climb to 35 m, often with reduced leaves and photosynthetic stems, and require hand pollination outside their native Neotropics; only a few orchid bees (*Eulaema* spp.) have been confirmed as natural pollinators. After an 8–9-month ripening, the 10–20 cm black capsules are hand-harvested, cured, and marketed as “vanilla beans.” Complex infrageneric taxonomy and diverse ecological roles—as larval food plants, aphrodisiacs in Malagasy culture, and secondary habitat for fauna—underscore the crop’s botanical and economic significance.  \n\n**Keywords**: Vanilla planifolia, vanillin, hand pollination, orchid bee, tropical vine",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004801/02_Daniel-Boone-Native-Gardens.html_1",
+      "summary": "**Title**: Daniel Boone Native Gardens  \n\n**Summary**:  \nDaniel Boone Native Gardens in Boone, North Carolina, showcases the state’s native flora in an informal, educational landscape open May–October. Conceived in 1961 as a living laboratory for clubs, schools, and botanists, the garden was designed by Asheville landscape architect Doan Ogden and opened to the public in 1966. Highlights include a bog garden, rockery, reflection pool, rustic bridge, and the historic Squire Boone Cabin built from logs of Daniel Boone’s brother. The collection features more than 200 native species—towering maples, tulip poplars, rhododendrons, mountain laurel, azaleas, conifers, ferns, and vines—arranged to illustrate natural habitats from woodland to bog.  \n\n**Keywords**: native plants, North Carolina flora, botanical garden, Daniel Boone heritage, educational landscape",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "summary": "**Title**: Myrsine Genus Overview  \n\n**Summary**:  \nMyrsine is a large, nearly worldwide genus of ~280 evergreen shrubs and trees in the Primulaceae family, centered in tropical and subtropical regions. Formerly split among Myrsinaceae, Rapanea, and Suttonia, it now unites all species under Myrsine, characterized by leathery alternate leaves, small flowers, and one-seeded drupes that often mature a year after flowering. The genus includes notable island radiations such as the kōlea of Hawaiʻi and the matipo of New Zealand, plus ornamental species like M. africana.  \n\n**Keywords**: Myrsine, Primulaceae, island radiation, kōlea, matipo",
+      "is_seed": true,
+      "expand_score": 0.8205357789993286
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/01_Aloinopsis.html_0",
+      "summary": "**Title**: Aloinopsis Ice Plants  \n\n**Summary**:  \nAloinopsis is a genus of small, winter-growing succulents endemic to the arid winter-rainfall regions of South Africa’s Cape Provinces, prized for their tuberous roots and often tuberculate leaves. Eight species are currently accepted, including the well-known “giant jewel plant” A. malherbei, while several former members have been reassigned to related genera such as Deilanthe and Nananthus. Cultivation centers on their distinctive root systems and clustering habit, but they require careful watering to avoid rot during summer dormancy.  \n\n**Keywords**:  \nAloinopsis, South-African succulents, winter growers, tuberous roots, Cape Provinces",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "summary": "**Title**: Cyrtanthus Genus Overview  \n\n**Summary**:  \nCyrtanthus is a genus of perennial, bulbous herbs in the Amaryllidaceae family, constituting the sole member of the African tribe Cyrtantheae. Phylogenetic studies place this tribe within the subfamily Amaryllidoideae. More than 50 species are recognized, all endemic to central and southern Africa, displaying diverse floral forms and ecological adaptations.  \n\n**Keywords**: Cyrtanthus, Amaryllidaceae, Cyrtantheae, African bulbs, plant taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/00_Ferocactus.html_1",
+      "summary": "**Title**: Ferocactus Desert Adaptations  \n\n**Summary**:  \nFerocactus is a genus of ~30 large, barrel-shaped cacti native to the arid deserts of the southwestern U.S. and northwestern Mexico. Columnar when young, they develop pronounced ribs and may grow solitary or in clusters. Their shallow roots and hooked “fishhook” spines are key adaptations: during flash floods the spines snag debris, allowing whole plants to be uprooted and relocated to moisture-collecting depressions or arroyos. Pink-to-purple flowers attract pollinators, while extrafloral nectaries sustain protective ant colonies. In cultivation they demand full sun, excellent drainage, and frost-free conditions, propagating mainly from seed or offsets in clustering species.  \n\n**Keywords**: Ferocactus, desert adaptations, fishhook spines, flash-flood dispersal, ant-plant mutualism",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "summary": "**Title**: Myrsine Plant Diversity\n\n**Summary**:  \nThe genus Myrsine, now classified within Primulaceae, comprises over 280 species of leathery-leaved shrubs and small trees distributed mainly in tropical and subtropical regions worldwide. Notable adaptive radiations occur in New Zealand (e.g., red matipo, mapou) and Hawaiʻi (kōlea), with additional endemics across French Polynesia, Australia, Peru, Africa, and the Pacific islands. Formerly segregated genera Rapanea and Suttonia are merged into Myrsine, expanding its morphological and geographic range. Many species exhibit delayed fruit maturation and flowers that appear on leafless branches, contributing to their distinctive ecology and ornamental appeal.\n\n**Keywords**: Myrsine, Primulaceae, Pacific flora, adaptive radiation, tropical shrubs",
+      "is_seed": false,
+      "expand_score": 0.9443215131759644
+    },
+    {
+      "community_key": "HotpotQA-validation-00006132/01_Vanilla.html_8",
+      "summary": "**Title**: Vanilla Cultivation and Processing  \n\n**Summary**:  \nThese chunks provide a comprehensive overview of vanilla (Vanilla planifolia) from botany and global history to modern agronomy and post-harvest handling. Wild Mesoamerican orchids were first domesticated by the Totonac, later spread worldwide, and remain dependent on hand-pollination discovered in 1841 by the enslaved child Edmond Albius. Commercial production centers on Madagascar and Indonesia, with labor-intensive field practices—cutting propagation, shade support, precise timing, hand-pollination of individual flowers, and rigorous pest/disease control—followed by curing (killing, sweating, drying, conditioning) that converts green pods into aromatic, market-graded beans. Synthetic vanillin supplements but does not replace demand for natural vanilla.  \n\n**Keywords**: vanilla cultivation, hand-pollination, curing process, Madagascar vanilla, Vanilla planifolia",
+      "is_seed": false,
+      "expand_score": 0.8794689774513245
+    },
+    {
+      "community_key": "HotpotQA-validation-00006132/01_Vanilla.html_6",
+      "summary": "**Title**: Vanilla Cultivation and Processing\n\n**Summary**:  \nVanilla, a tropical orchid native to Mesoamerica, has been cultivated since at least 1185 by the Totonac people and later adopted by the Aztecs for flavoring cacao. Its global spread began after Spanish conquest, with hand-pollination techniques developed in the 19th century enabling cultivation in Indian Ocean islands like Madagascar and Réunion. Optimal growing conditions include warm temperatures (70–85 °F), high humidity (~80%), well-drained loamy soils rich in organic matter, and support structures for the climbing vines. Propagation is primarily through stem cuttings, and fertilization involves balanced NPK and organic inputs. Post-harvest curing—comprising killing, sweating, drying, and conditioning—develops the characteristic vanilla flavor, with grading based on pod length, appearance, and moisture content. While natural vanilla is labor-intensive and costly, synthetic vanillin and alternative flavorings like castoreum are used in commercial products.\n\n**Keywords**: vanilla cultivation, curing and grading, hand pollination, vanillin, Mesoamerican origins",
+      "is_seed": false,
+      "expand_score": 0.8517307639122009
+    },
+    {
+      "community_key": "HotpotQA-validation-00006132/01_Vanilla.html_3",
+      "summary": "**Title**: Global Vanilla Cultivation History  \n\n**Summary**:  \nThese chunks trace vanilla’s journey from its Mesoamerican origins to modern global production, highlighting the pivotal 1841 hand-pollination technique discovered by Edmond Albius on Réunion that enabled commercial farming beyond Mexico. Madagascar, Réunion, and the Comoros rapidly dominated supply, with Madagascar now leading world output alongside Indonesia. Market prices have repeatedly spiked after cyclones and political instability, while 95 % of contemporary “vanilla” flavoring is synthetic vanillin. The text also covers vanilla’s ancient use in Canaan, its etymology, and the biology of Vanilla planifolia vines that require manual pollination for fruit set.  \n\n**Keywords**: vanilla cultivation, hand pollination, Madagascar vanilla, market volatility, Vanilla planifolia",
+      "is_seed": false,
+      "expand_score": 0.846664309501648
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "summary": "**Title**: Crosby's Buckwheat Conservation  \n\n**Summary**:  \nEriogonum crosbyae (Crosby’s buckwheat) is a rare mat-forming perennial wild buckwheat restricted to volcanic tuff and tuffaceous sandstone soils in south-central Oregon and northwestern Nevada. First collected in 1978 and named for discoverer Virginia Crosby, it produces yellow-cream flower clusters amid sparse associated desert flora. Its survival is jeopardized by active mining leases, off-road vehicle use, range-improvement projects, and naturally low seedling recruitment, with several populations already destroyed.  \n\n**Keywords**:  \nCrosby’s buckwheat, volcanic tuff habitat, mining threat, Oregon-Nevada endemic, rare flora",
+      "is_seed": false,
+      "expand_score": 0.8394880294799805
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "summary": "**Title**: Sonerila Genus Diversity  \n\n**Summary**:  \nThe text chunks collectively catalogue the genus Sonerila (family Melastomataceae), a primarily Asian group of ~175 herbaceous or sub-shrub species distinguished by three-petaled flowers, opposite leaves, and scorpioid cymes. The lists enumerate roughly 200 accepted taxa—ranging from Sonerila affinis to S. zeylanica—highlighting centers of diversity in India, Sri Lanka, and the Indo-Pacific. Many species are micro-endemics with small populations, implying high conservation risk, although formal IUCN assessments remain incomplete.  \n\n**Keywords**:  \nSonerila, Melastomataceae, three-petaled, Asian flora, conservation",
+      "is_seed": false,
+      "expand_score": 0.8240162134170532
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "summary": "**Title**: Apiaceae Plant Family Overview\n\n**Summary**:  \nThe Apiaceae family, also known as Umbelliferae, comprises over 3,800 aromatic species across 446 genera, including economically significant plants like carrot, parsley, celery, and coriander. Characterized by umbrella-shaped flower clusters (umbels), these herbs are valued for culinary, medicinal, and ecological roles—many serve as companion plants attracting beneficial insects. While widely cultivated for edible roots, seeds, and aromatic oils, some species contain toxic compounds like furanocoumarins, causing photodermatitis, or are highly poisonous (e.g., poison hemlock). The family also includes phototoxic species such as giant hogweed and historically significant plants used for poisons, dyes, or incense.\n\n**Keywords**:  \nApiaceae, umbellifers, phototoxicity, culinary herbs, companion planting",
+      "is_seed": false,
+      "expand_score": 0.8124898076057434
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "summary": "**Title**: Jaynes Canyon Buckwheat Profile  \n\n**Summary**:  \nEriogonum diclinum, or Jaynes Canyon buckwheat, is a rare dioecious wild buckwheat endemic to serpentine soils of the Klamath Mountains in northern California and southern Oregon. This low, mat-forming shrub stays under 20 cm tall and features woolly, gray-green oval leaves up to 2 cm long. Male and female plants bear distinct yellow-to-reddish inflorescences—staminate clusters on males and larger pistillate clusters on females—supporting reproduction in its specialized habitat.  \n\n**Keywords**:  \nEriogonum diclinum, Jaynes Canyon buckwheat, Klamath Mountains, serpentine soils, dioecious shrub",
+      "is_seed": false,
+      "expand_score": 0.7985632419586182
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/01_Silene.html_1",
+      "summary": "**Title**: Silene Plant Genus Research\n\n**Summary**:  \nSilene, the largest genus in the Caryophyllaceae family with ~900 species, has served as a long-standing model in evolutionary biology and ecology. Its varied sexual systems—hermaphroditic, dioecious, gynodioecious—have enabled landmark studies on cytoplasmic male sterility, chromosomal sex determination, and sex-ratio evolution. Beyond genetics, Silene is used to investigate speciation, heavy-metal adaptation, and mitochondrial genome expansion, while also supporting pollinators like flies and moths. Culturally, species such as S. undulata are used in Xhosa divination rituals, and S. vulgaris is consumed as a Mediterranean food plant.\n\n**Keywords**:  \nSilene, sex determination, cytoplasmic male sterility, gynodioecy, model genus",
+      "is_seed": false,
+      "expand_score": 0.7871874570846558
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "HotpotQA-validation-00002097/03_Othonna-capensis.html_0",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "HotpotQA-validation-00000048/02_Silene-menziesii.html_0",
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "HotpotQA-validation-00006132/03_Vanilla-genus.html_2",
+      "HotpotQA-validation-00004801/02_Daniel-Boone-Native-Gardens.html_1",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00001019/01_Aloinopsis.html_0",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00000048/00_Ferocactus.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00006132/01_Vanilla.html_8",
+      "HotpotQA-validation-00006132/01_Vanilla.html_6",
+      "HotpotQA-validation-00006132/01_Vanilla.html_3",
+      "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "HotpotQA-validation-00002097/03_Othonna-capensis.html_0"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "HotpotQA-validation-00002097/03_Othonna-capensis.html_0",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "HotpotQA-validation-00000048/02_Silene-menziesii.html_0",
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "HotpotQA-validation-00006132/03_Vanilla-genus.html_2",
+      "HotpotQA-validation-00004801/02_Daniel-Boone-Native-Gardens.html_1",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00001019/01_Aloinopsis.html_0",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00000048/00_Ferocactus.html_1",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00006132/01_Vanilla.html_8",
+      "HotpotQA-validation-00006132/01_Vanilla.html_6",
+      "HotpotQA-validation-00006132/01_Vanilla.html_3",
+      "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "HotpotQA-validation-00000048/01_Silene.html_1"
+    ],
+    "allowed_chunk_pool_size": 62,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004984",
+  "question": "What are caesium-137, radium and uranium-234 examples of?",
+  "gold_answer": "radionuclides",
+  "llm_answer": "Caesium-137, radium, and uranium-234 are examples of:\n\n1. Radioactive isotopes\n2. Fission products\n3. Radionuclides\n4. Primordial isotopes (for uranium-238, thorium-232, and uranium-235)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'radionuclides' as one of the categories, which aligns with the Gold Answer. However, it introduces additional categories like 'radioactive isotopes,' 'fission products,' and 'primordial isotopes,' which are not explicitly supported by the retrieved context for caesium-137, radium, and uranium-234. While 'radioactive isotopes' and 'radionuclides' are closely related, the inclusion of unsupported categories reduces faithfulness and evidence coverage."
+  }
+}

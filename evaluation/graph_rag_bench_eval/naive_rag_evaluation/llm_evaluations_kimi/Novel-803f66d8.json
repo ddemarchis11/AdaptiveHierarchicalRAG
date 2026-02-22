@@ -1,0 +1,12 @@
+{
+  "id": "Novel-803f66d8",
+  "question": "What was Dan Emmet's involvement with Bryant's Minstrels, and what notable song did he write?",
+  "gold_answer": "Dan Emmet was connected with Bryant's Minstrels and wrote 'Dixie.'",
+  "llm_answer": "Dan Emmet was connected with Bryant's Minstrels in New York City, and while with them he wrote the notable song \"Dixie.\"",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states Dan Emmet's connection with Bryant's Minstrels and identifies 'Dixie' as the notable song he wrote. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which explicitly mentions Emmet's involvement with Bryant's Minstrels and his authorship of 'Dixie.'"
+  }
+}

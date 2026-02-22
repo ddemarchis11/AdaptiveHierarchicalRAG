@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20eb3bc8",
+  "question": "How is the conflict and relationship between Don Carlo and Brindle Bill portrayed in the novel 'Pen Pictures'? Please explain how Don Carlo defied and fought Brindle Bill, leading to his identification as the Hero of Shirt-Tail Bend.",
+  "gold_answer": "Don Carlo defied and fought Brindle Bill, and was identified as the Hero of Shirt-Tail Bend.",
+  "llm_answer": "The provided context never mentions a character named Brindle Bill, nor does it describe any conflict or fight between Don Carlo and Brindle Bill. Therefore, the passages do not show how Don Carlo earned the title “Hero of Shirt-Tail Bend” by defying Brindle Bill.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not mention Brindle Bill or any conflict involving Don Carlo and Brindle Bill. It accurately states that the context does not provide information about how Don Carlo earned the title 'Hero of Shirt-Tail Bend' through defying Brindle Bill. This aligns with the Gold Answer, which is a summary of the question's premise but lacks supporting evidence in the context."
+  }
+}

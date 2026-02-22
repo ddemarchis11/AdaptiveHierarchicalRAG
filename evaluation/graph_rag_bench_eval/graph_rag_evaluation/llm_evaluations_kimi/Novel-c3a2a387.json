@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c3a2a387",
+  "question": "How was the city of Mogador affected by both the French and the Berbers, according to the novel's account of its bombardment and subsequent destruction?",
+  "gold_answer": "Mogador was bombarded by the French and was left in ruins by the Berbers.",
+  "llm_answer": "The French bombardment on 13 August 1844 silenced the batteries and caused the Moorish authorities and most inhabitants to flee, leaving the city undefended. Immediately afterward, wild Berber tribes who had been levied to defend the town instead rushed in, sacking and burning it, murdering and plundering especially in the Jewish quarter, so that Mogador was ravaged first by French guns and then by Berber looters.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Mogador was bombarded by the French and subsequently left in ruins by Berber tribes. It provides additional details about the sequence of events and the specific atrocities committed, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the extra information enhances understanding without introducing unsupported claims."
+  }
+}

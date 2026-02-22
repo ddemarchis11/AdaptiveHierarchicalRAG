@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001872",
+  "question": "How many kilometers did Sabrina Mockenhaupt run when she set her best record?",
+  "gold_answer": "42.195",
+  "llm_answer": "42.195 km",
+  "context": [
+    {
+      "text": "Sabrina Mockenhaupt of Germany at the 2012 World Half Marathon Championships in Kavarna, Bulgaria Sabrina Mockenhaupt (born 6 December 1980 in Siegen ) is a German long-distance runner who specialises in track events and the marathon . She is a two-time winner of the Cologne Marathon and has also won the Frankfurt Marathon and the Berlin Half Marathon . She represented Germany at the 2004 , 2008 and 2012 Summer Olympics and was the 3000 metres bronze medallist at the 2005 European Indoor Championships . She has a marathon best of 2:26:21, set at the 2010 Berlin Marathon . Career One of her first international medals was a bronze medal in the 10,000 metres at the 2001 European Athletics U23 Championships . In 2002, she finished eighth in 3000 metres at the 2002 European Indoor Championships , tenth in 10,000 metres at the 2002 European Championships and seventh in 5000 metres at the 2002 World Cup . In 2004, she finished seventh in 3000 m at the 2004 World Indoor Championships , and fifteenth in the 10,000 m at the 2004 Olympics . In 2005, she won the bronze medal in 3000 metres at the 2005 European Indoor Championships , finished seventeenth in 10,000 metres at the 2005 World Championships and sixth in",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_0"
+    },
+    {
+      "text": "Austrian Women's Run , taking third behind Ana Dulce Félix and Jéssica Augusto . That June she came third at the European Cup 10000m . She competed at the 2011 Frankfurt Marathon and her finishing time of 2:28:08 hours was enough to make the top ten. At the 2012 Summer Olympics , she finished 17th in the women's 10000 metres, in a time of 31:50:35. She won the 2013 European Cup 10000m with a time of 32:13.64, more than 30 seconds in front of the runner-up, Christelle Daunay from France. She has represented the club LG Sieg, except for 2006 through 2010 when she represented the Kölner Verein für Marathon. Personal bests 1500 metres - 4:13.38 min (2001) 3000 metres - 8:44.65 min (2003) 5000 metres - 14:59.88 min (2009) 10,000 metres - 31:14.21 min (2008) Half marathon - 1:08:45 hrs (2009) Marathon - 2:26:21 hrs (2010) References External links Sabrina Mockenhaupt at World Athletics",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_3"
+    },
+    {
+      "text": "recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time of 1:09:57. Mockenhaupt said that her winter military training with the Bundeswehr had left her tired and unable to devote much time to training for the event. She came second behind Inês Monteiro at the European Cup 10000m in Marseille in June. Later that season she set a championship record to win the 10,000 m at the 2010 European Team Championships and took the national title over 5000 m at the 2010 German Athletics Championships the following month. She entered the 10,000 m at the 2010 European Athletics Championships and finished in sixth place. She turned her attentions to a debut at the Berlin Marathon in September, and even though she missed out on the podium with a fourth-place finish, she knocked a second off her best with a time of 2:26:21. She began her 2011 season on the roads, taking victories at the Rund um das Bayer-Kreuz 10K in Leverkusen and the Griesheim Half Marathon , although she dropped out mid-race at the higher profile Berlin Half Marathon . She reached the podium in Vienna in May at the Austrian Women's Run , taking third behind Ana Dulce Félix and Jéssica Augusto . That June she came third at the European Cup",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_2"
+    },
+    {
+      "text": "metres at the 2005 European Indoor Championships , finished seventeenth in 10,000 metres at the 2005 World Championships and sixth in 5000 metres at the 2005 World Athletics Final . At the 2006 European Championships she finished sixth in the 5000 m and eighth in the 10,000 m. Toward the end of the season she competed at the 2006 World Cup , finishing sixth in 5000 metres. She finished fourth in 3000 metres at the 2007 European Indoor Championships . In October 2007 she made her marathon debut at the Cologne Marathon and won the race with a time of 2:29:33. Mockenhaupt won and qualified for the 2008 Summer Olympics in Beijing . At the Olympic Games she finished thirteenth in the 10,000 metres , in a new personal best time of 31:14.21 minutes. She won the Frankfurt Marathon in October 2008 with a personal best run of 2:26:22. A return to the Cologne event in 2009 brought her a second victory at the competition. She won the 2009 Berlin Half Marathon by timing 1:08:45, a new personal best. She followed this up with a victory in the national championships in the 10000 metres, recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_1"
+    },
+    {
+      "text": "with a knack for tone and an ability to imbue her performances with genuine emotion\". In 2019, Insider Inc. listed her among the top artists of the decade, and wrote: \"Her artistry and style broke through in a time of ultra club-happy pop music, and paved the way for other artists to break the mold\". Adele and her work have influenced numerous recording artists, including Beyoncé , Britney Spears , Lauren Daigle , Billie Eilish , Rebecca Ferguson , Jess Glynne , Conan Gray , Freya Ridings , Harry Styles , Sigrid , Sam Smith , Tom Walker , Selena Gomez , Lizzo , Celine Dion , and Sabrina Carpenter . Achievements Adele at Wembley Stadium in June 2017. Adele's concert on 28 June had 98,000 attendees, a stadium record for a UK music event. Adele has sold more than 120 million records worldwide with 70 million in album sales and over 50 million in single sales as of 2022, making her one of the world's best-selling music artists . She is one of the highest-earning music artists in the world. At the 51st Annual Grammy Awards in 2009, 21-year-old Adele won awards in the categories of Best New Artist and Best Female Pop Vocal Performance . She was also nominated for Record of the Year and Song of the Year . The success of her debut album 19 saw",
+      "id": "HotpotQA-validation-00000314/01_Adele.html_c_46"
+    }
+  ],
+  "cot_scratchpad": "- Sabrina Mockenhaupt marathon best 2:26:21 set at 2010 Berlin Marathon.\n- Marathon distance is 42.195 km, so that is the distance of her best race. (HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "How many kilometers did Sabrina Mockenhaupt run when she set her best record?",
+      "doc_ids": [
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_0",
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_3",
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_2",
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_1",
+        "HotpotQA-validation-00000314/01_Adele.html_c_46"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000309",
+  "question": "Do the film about a borough known for its ferry crossing and the biographical music documentary about a legendary rock-and-roll figure both belong to the same non-fiction genre?",
+  "gold_answer": "yes",
+  "llm_answer": "No, the film about a borough known for its ferry crossing and the biographical music documentary about a legendary rock-and-roll figure do not necessarily belong to the same non-fiction genre. The first film is likely a documentary about a place, whereas the second film is a biographical documentary about a person.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the two films do not belong to the same non-fiction genre, contradicting the Gold Answer ('yes'). Additionally, the Retrieved Context does not provide any information to support the Model Answer's claim about differing genres, making it unfaithful and lacking evidence coverage."
+  }
+}

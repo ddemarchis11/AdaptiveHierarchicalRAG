@@ -1,0 +1,12 @@
+{
+  "id": "Novel-aba4e30c",
+  "question": "When Heywood interacted with Rudolph during the tense events at the nunnery, how did Heywood treat Rudolph, and what name was Heywood called by in the narrative?",
+  "gold_answer": "Heywood scoffed at Rudolph, and Heywood was called Maurice.",
+  "llm_answer": "Heywood treated Rudolph with steady encouragement and brotherly reassurance, calling him “Rudie” and promising, “We’ll pull it off yet.”  \nIn the narrative he is simply referred to as “Heywood.”",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly describes Heywood's treatment of Rudolph as encouraging and brotherly, which aligns with the retrieved context. However, it fails to mention that Heywood scoffed at Rudolph, as stated in the Gold Answer. Additionally, the Model Answer claims Heywood is referred to as 'Heywood' in the narrative, which contradicts the Gold Answer that specifies he was called 'Maurice.' While the encouragement aspect is grounded in the context, the omission of 'Maurice' and the scoffing detail reduces correctness, faithfulness, and evidence coverage."
+  }
+}

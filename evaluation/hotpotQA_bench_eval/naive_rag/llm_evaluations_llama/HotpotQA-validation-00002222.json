@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002222",
+  "question": "Kieran Crichlow is a footballer from what island in the Lesser Antilles?",
+  "gold_answer": "Barbados",
+  "llm_answer": "Kieran Crichlow is a footballer from Barbados.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Barbados as the island in the Lesser Antilles where Kieran Crichlow is from. This is supported by the retrieved context, which explicitly states that he represented Barbados at the international level. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

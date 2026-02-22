@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7344c996",
+  "question": "How does the coke fire contribute to the revivification of bone-black within the furnace system?",
+  "gold_answer": "The coke fire produces flames that heat the retorts, which are used to revivify bone-black.",
+  "llm_answer": "The provided context does not mention bone-black, coke fires, or any revivification process, so it cannot answer this question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about bone-black, coke fires, or their revivification process. However, it fails to answer the question using internal knowledge or reasoning, which results in a score of 0 for correctness and evidence coverage. The answer is faithful to the context as it accurately reflects the lack of relevant information."
+  }
+}

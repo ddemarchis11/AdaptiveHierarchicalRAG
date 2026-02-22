@@ -1,0 +1,12 @@
+{
+  "id": "Novel-63bc945d",
+  "question": "How are the legal, familial, and romantic storylines intertwined through the engagement of Roxie Daymon to Simon, Simon's obtaining a promise from Rose Simon, and Governor Morock's offer to arrange testimony for Roxie Daymon?",
+  "gold_answer": "Roxie Daymon was engaged to Simon, Simon obtained a promise from Rose Simon, and Governor Morock offered to arrange the testimony for Roxie Daymon.",
+  "llm_answer": "The three strands knot around the question of who will control Simon’s estate.\n\n1. Romantic  \n   - Roxie and young Simon meet, court, and become engaged.  \n   - That engagement gives Roxie a personal, emotional claim on Simon and, she hopes, on whatever he will leave behind.\n\n2. Familial  \n   - Simon is already under a twenty-year-old $20,000 obligation to “Rose and Suza,” two sisters who are Roxie’s aunts.  \n   - Because the debt is still outstanding, those women (and any heirs they name) have a legal/financial interest in Simon’s property that competes with Roxie’s.\n\n3. Legal  \n   - On his death-bed Simon dictates a new will that bypasses the earlier obligation and leaves “all of his possessions, without reserve, to Roxie Daymon.”  \n   - Governor Morock, the only witness, offers—for “a few thousands”—to “arrange the testimony” that will make the will stick in court.  \n   - Cousin Caesar, acting for the Rose-Suza side, is preparing to break that will.\n\nThus the engagement (romantic) gives Roxie the motive to secure the estate; the old debt to her aunts (familial) gives Caesar the standing to attack the will; and Morock’s willingness to sell perjured testimony (legal) is the device meant to defeat that attack and keep the entire fortune in Roxie’s hands.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the intertwined legal, familial, and romantic storylines, providing detailed context and explanation that aligns with the Gold Answer and the Retrieved Context. It elaborates on the engagement of Roxie and Simon, Simon's promise to Rose and Suza, and Governor Morock's offer to arrange testimony, all of which are supported by the context. The additional details about the motivations and implications of these events are relevant and grounded in the retrieved information."
+  }
+}

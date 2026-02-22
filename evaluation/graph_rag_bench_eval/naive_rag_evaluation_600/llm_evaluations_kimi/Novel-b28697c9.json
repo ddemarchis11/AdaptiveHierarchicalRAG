@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b28697c9",
+  "question": "How might the use of alcohol affect the body's ability to move the chest, considering its impact on both muscles and the stomach?",
+  "gold_answer": "Alcohol hurts the stomach and puts fat into muscles; muscles move the chest.",
+  "llm_answer": "Alcohol weakens the muscles that move the chest. It can turn part of the lean chest muscles into fat, making them less able to contract and move the ribs. Alcohol also deadens the nerves that tell these muscles when to work, and it upsets the stomach so it can’t supply good blood to feed the muscles. With weaker, poorly-fed muscles and sluggish nerves, the chest cannot move as strongly or steadily.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains how alcohol affects the chest muscles, aligning with the Gold Answer's core idea that alcohol harms the stomach and muscles. It elaborates with additional details about fat accumulation in muscles, nerve impairment, and the stomach's role in supplying blood, all of which are supported by the retrieved context. The answer is both accurate and comprehensive."
+  }
+}

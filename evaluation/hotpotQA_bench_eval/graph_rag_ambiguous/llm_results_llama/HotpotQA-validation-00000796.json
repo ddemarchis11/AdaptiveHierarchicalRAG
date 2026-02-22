@@ -1,0 +1,290 @@
+{
+  "id": "HotpotQA-validation-00000796",
+  "question": "What broad sector did the company formerly led by an Indian business executive named Pramod Bhasin operate in?",
+  "gold_answer": "IT",
+  "llm_answer": "The company formerly led by Pramod Bhasin, Genpact, operated in the IT and software consultancy sector.",
+  "context": [
+    {
+      "text": "Pramod Bhasin is an Indian Businessman and Executive who is founder and former President and CEO of Genpact one of the largest IT and software consultancy company. In 2011 he was appointed as non-executive Vice Chairman of Genpact . Education Pramod Bhasin completed his undergraduation in BCom from Shri Ram College of Commerce and his MBA from Faculty of Management Studies – University of Delhi , (popularly known as FMS Delhi). He completed his Indian School Certificate (ISC, equivalent to the then English GCE O Levels) at Cathedral and John Connon School, Bombay (now Mumbai), in Class of 1967. As of 2016 [update] , he lives in New Delhi . Career Pramod is a British Chartered Accountant from McLintock & Co, London, and holds a Bachelor of Commerce degree from Shri Ram College of Commerce . He became an officer of GE. His career with GE and RCA spanned 25 years across the US, Europe and Asia. He was the head of GE Capital in India and in Asia, having earlier worked with GE Capital's Corporate and Finance Group in Stamford, Connecticut , US. Pramod started GE Capital International Services ( GECIS ) in 1997 as the in-house BPO division of General Electric (GE) when he convinced the senior stakeholders at GE to outsource certain simple non-IT services to India at Gurgaon . Under Pramod GE hired Raman Roy , pioneered business process outsourcing in India , and expanded its operations from India to countries including China, Hungary, Guatemala, Poland, Mexico, Morocco, the Philippines, Romania, South Africa and the United States. In 2007, the International Quality and Productivity Center at the Shared Services and Outsourcing Global Conclave named Genpact the Global Shared Services Leader of the Year and awarded Pramod Bhasin their Lifetime Contribution Award. A consultant and advisor in the domain, Pramod Bhasin served as the Chairman of India's National Association of Software & Services Companies ( NASSCOM ) for the year 2009-10, and became a member of the Board of Trustees of NASSCOM Foundation. He is also currently serving as President at TiE Delhi-NCR.  Pramod Bhasin appointed as chairman of ICRIER (Indian Council For Research On International Economic Relations). References Trivia and external links India's BPO emperor - Financial Express |newspaper, 29 July 2006 Interview with Pramod on Rediff.com",
+      "id": "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_0",
+      "doc_id": "HotpotQA-validation-00000796/00_Pramod-Bhasin.html",
+      "community_id": 0,
+      "score": 40.698708
+    },
+    {
+      "text": "a Digital Manufacturing and Supply Chain center, supporting the transformation from traditional to digital manufacturing. In 2022, Genpact was added to the Bloomberg Gender Equality Index. Acquisitions April 2011: Headstrong, a software services company based in Noida April 2016: Endeavour Software Technologies, an enterprise mobility software company August 2016, PNMsoft a British/Israeli software company that focused on Business Process Management (BPM) systems. August 2017: TandemSeven, an experience design company September 2017: OnSource, a provider of an Inspection-as-a-Service (IaaS) product for property and casualty (P&C) insurance carriers and their customers June 2018: Commonwealth Informatics, a provider of cloud-based drug safety analytics products and services for medical research and healthcare delivery July 2018: Barkawi Management Consultants, a supply chain management firm January 2019: riskCanvas, an end-to-end Financial Crimes software platform October 2019, Rightpoint, a digital consultancy January 2021: Enquero , a data engineering and analytics firm Corporate affairs Organizational structure Genpact operates worldwide and is currently active in more than 30 countries. Management structure Genpact is managed by a leadership team of 13 members (2024), that the company refers to as Genpact Leadership Council. Products In June 2017, Genpact announced Genpact Cora, an artificial intelligence (AI)-based platform for enterprises. The platform has an application program interface (API) design and open architecture that includes Genpact’s own intellectual property as well as other providers. The platform's claimed benefits include deciphering large chunks of data, seamless customer service, faster financial reporting, and increasing speed to market. See also Business portal List of IT consulting firms References External links Official website Business data for Genpact Limited: Google Reuters SEC filings Yahoo!",
+      "id": "HotpotQA-validation-00000796/01_Genpact.html_c_2",
+      "doc_id": "HotpotQA-validation-00000796/01_Genpact.html",
+      "community_id": 2,
+      "score": 33.357105
+    },
+    {
+      "text": "Genpact Ltd. is an American information technology services, consulting , and outsourcing company headquartered in New York City, New York . Founded in Gurgaon , India , and legally domiciled in Bermuda , Genpact employs more than 125,000 people and provides services to clients in over 30 countries worldwide. Genpact is listed on the NYSE and generated revenues of US$4.48 billion in 2023. History Founding and early developments Genpact was founded in 1997 as a unit of General Electric . The company was founded as GE Capital International Services (GECIS) in Gurgaon . Starting with 20 employees under the leadership of CEO Pramod Bhasin , its charter was to provide business process outsourcing solutions to GE's businesses. In the beginning, GECIS created processes for outsourcing back-office activities for GE Capital such as processing car loans and credit card transactions. It was an experimental concept at the time and the beginning of the business process outsourcing (BPO) industry. One year after its launch, GECIS employed about 800 people and generated revenues of US$4 million. By 2001, GECIS operations had grown to 12,000 employees and the company began to manage a wide range of processes across GE's financial services and manufacturing businesses. Jack Welch , CEO of GE at the time, said that GECIS was a key driver of GE’s growth between 1998 and 2001, and was responsible for reducing operating costs by approximately US$1 billion. In 2003, GE reduced its stake in GECIS to 40% and sold the remainder to two American private equity firms. At the time of the sale, GECIS employed around 13,000 people in India and 4,000 people in the US, China, Hungary and Mexico, providing a range of solutions in areas such as finance and accounting , insurance claim processing , IT management and technical support . By 2004, GECIS oversaw around 700 business processes for GE that had migrated from the US to India, generating revenues of US$426 million. Independence and international growth In January 2005, the company became independent and started to serve clients outside of GE. As part of this transition, the company changed its name to Genpact for “generating business impact.” Also in 2005, the company opened additional offices in India and by the end of the year, recorded US$493 million in revenue, with 15% coming from new global clients, and the remaining 85% from GE. In 2006, Genpact further expanded in India, the Philippines, Mexico and China. In August 2007, Genpact was listed on the NYSE under the symbol 'G'. The company continued to grow, opening offices in six additional countries that same year and launching a joint venture with the Indian company NDTV to offer outsourcing services for",
+      "id": "HotpotQA-validation-00000796/01_Genpact.html_c_0",
+      "doc_id": "HotpotQA-validation-00000796/01_Genpact.html",
+      "community_id": 2,
+      "score": 26.492887
+    },
+    {
+      "text": "DeLisle voiced her adult self in the last episode called \"Chowder Grows Up\". Kimchi (voiced by C. H. Greenblatt): Chowder's pet stink cloud, who lives in a cage next to his bed. Kimchi is an anthropomorphic fart cloud (due to the odor of kimchi ). He likes things with odors unpleasant for the other characters, and he \"talks\" by making fart sounds. Kimchi is usually shown with a blank personality but in \"Stinky Love\" it is shown that he has an opinion. Gazpacho (voiced by Dana Snyder ): A woolly mammoth storekeeper who sells strange produce at his fruit stand at a farmer's market. Gazpacho is Chowder's best friend. He does his best to offer advice to Chowder when needed. In \"The Spookiest House in Marzipan\" it is hinted that Gazpacho has no mother, and that he actually suffers from dissociative identity disorder , but creator Greenblatt says this was merely to \"pay homage to Psycho \". Gazpacho shows no interest in moving out and improving his own life. Gazpacho's worst enemies are ninjas . Greenblatt named him after the cold soup gazpacho ; Greenblatt said that he did not know why, but the name suited the character immediately. Ms. Endive (voiced by Mindy Sterling ): An intelligent, snobbish and large orange humanoid who teaches cooking to Panini with strict discipline. She regularly berates Mung, whom she considers a rival. The creator describes her as Martha Stewart with Oompa-Loompa colors. Greenblatt chose to name her after the endive since endive is bitter and Belgian endive is fancy; hence the character is bitter and fancy. Ms. Endive's character stayed constant throughout the initial development. The long nose, which changed from a rectangular shape to a triangle shape for the final version, represents how Ms. Endive looks down at other characters. It was revealed in later episodes that Ms. Endive is in love with Shnitzel. Greenblatt said that her evolution throughout the series was fun to observe, especially when William Reiss wrote plots involving Ms. Endive. Gorgonzola (voiced by Will Shadley): A young green rat apprentice candle holder. He shows jealousy towards Chowder because Chowder has a better job than him. Because blue cheese was one of the few foods Greenblatt disliked, he decided to use the name \" gorgonzola \" for a character who did not get along with Chowder. Gorgonzola wears tattered brown clothes and no shoes and has a partially melted candle on his head (for traditional reasons). He is desperate to get cash and will do almost anything to get it. Despite his unpleasant and boastful attitude to Chowder, Chowder sees him as a close friend, which",
+      "id": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_c_2",
+      "doc_id": "HotpotQA-validation-00003158/01_Chowder-TV-series.html",
+      "community_id": 2,
+      "score": 16.266718
+    },
+    {
+      "text": "DeLisle voiced her adult self in the last episode called \"Chowder Grows Up\". Kimchi (voiced by C. H. Greenblatt): Chowder's pet stink cloud, who lives in a cage next to his bed. Kimchi is an anthropomorphic fart cloud (due to the odor of kimchi ). He likes things with odors unpleasant for the other characters, and he \"talks\" by making fart sounds. Kimchi is usually shown with a blank personality but in \"Stinky Love\" it is shown that he has an opinion. Gazpacho (voiced by Dana Snyder ): A woolly mammoth storekeeper who sells strange produce at his fruit stand at a farmer's market. Gazpacho is Chowder's best friend. He does his best to offer advice to Chowder when needed. In \"The Spookiest House in Marzipan\" it is hinted that Gazpacho has no mother, and that he actually suffers from dissociative identity disorder , but creator Greenblatt says this was merely to \"pay homage to Psycho \". Gazpacho shows no interest in moving out and improving his own life. Gazpacho's worst enemies are ninjas . Greenblatt named him after the cold soup gazpacho ; Greenblatt said that he did not know why, but the name suited the character immediately. Ms. Endive (voiced by Mindy Sterling ): An intelligent, snobbish and large orange humanoid who teaches cooking to Panini with strict discipline. She regularly berates Mung, whom she considers a rival. The creator describes her as Martha Stewart with Oompa-Loompa colors. Greenblatt chose to name her after the endive since endive is bitter and Belgian endive is fancy; hence the character is bitter and fancy. Ms. Endive's character stayed constant throughout the initial development. The long nose, which changed from a rectangular shape to a triangle shape for the final version, represents how Ms. Endive looks down at other characters. It was revealed in later episodes that Ms. Endive is in love with Shnitzel. Greenblatt said that her evolution throughout the series was fun to observe, especially when William Reiss wrote plots involving Ms. Endive. Gorgonzola (voiced by Will Shadley): A young green rat apprentice candle holder. He shows jealousy towards Chowder because Chowder has a better job than him. Because blue cheese was one of the few foods Greenblatt disliked, he decided to use the name \" gorgonzola \" for a character who did not get along with Chowder. Gorgonzola wears tattered brown clothes and no shoes and has a partially melted candle on his head (for traditional reasons). He is desperate to get cash and will do almost anything to get it. Despite his unpleasant and boastful attitude to Chowder, Chowder sees him as a close friend, which",
+      "id": "HotpotQA-validation-00002295/01_Chowder-TV-series.html_c_2",
+      "doc_id": "HotpotQA-validation-00002295/01_Chowder-TV-series.html",
+      "community_id": 2,
+      "score": 16.266718
+    },
+    {
+      "text": "Codename: Kids Next Door is an American animated spy fiction television series created by Mr. Warburton for Cartoon Network . It was produced by Curious Pictures with assistance from Cartoon Network Studios . The series follows the adventures of a diverse group of five children who operate from a high-tech treehouse , fighting against adult and teenage tyranny with advanced 2×4 technology. Using their code names (Numbuhs 1, 2, 3, 4, and 5), they are Sector V, part of a global organization called the Kids Next Door. The series' pilot premiered on Cartoon Network in mid-2001 as part of The Big Pick II , a special broadcast event showcasing 11 pilots for different series. The winner of a viewers' poll by Cartoon Network would decide which pilot would be greenlit to be a full series. After winning the poll, the series premiered on December 6, 2002, and concluded on January 21, 2008, after six seasons and 81 episodes. Two television films were broadcast: Operation: Z.E.R.O. , which aired in 2006, and Operation: I.N.T.E.R.V.I.E.W.S. , which aired as the series finale in 2008. A special half-hour crossover episode with fellow Cartoon Network series, The Grim Adventures of Billy & Mandy , aired in 2007. Spin-off media include two video games, Operation S.O.D.A. and Operation V.I.D.E.O.G.A.M.E. , as well as a trading card game, comic books, and DVD releases. Codename: Kids Next Door has also appeared in DVD anthologies and compilation video games from Cartoon Network. Overview From left to right: Numbuh 2, Numbuh 4, Numbuh 3, Numbuh 1, and Numbuh 5. Synopsis The series revolves around a diverse group of five 10-year-old children (later retconned to be varying ages), using codenames Numbuhs 1 through 5, who are the main home operatives of what is known as Sector V, which is part of a worldwide global espionage-style organization called the Kids Next Door. Their mission is to fight crimes against children (such as homework , flossing , doctor , baths, bedtime, teeth brushing, babysitters , sharing, doing chores, etc.), many of which are willingly committed by \"evil\" adults , senior citizens , teenagers , and occasionally other children. Numbuh 1 is a level-headed, no-nonsense British boy named Nigel Uno, leader of Sector V. Numbuh 2 is an overweight, nerdy American boy named Hogarth \"Hoagie\" Pennywhistle Gilligan, Jr. Numbuh 3 is a friendly, happy-go-lucky Japanese girl named Kuki Sanban. Numbuh 4 is a short-tempered, irrational Australian boy named Wallabee",
+      "id": "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_c_0",
+      "doc_id": "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html",
+      "community_id": 6,
+      "score": 11.942187
+    },
+    {
+      "text": "Extent of Great Indian Peninsula Railway network in 1870 The Great Indian Peninsula Railway ( reporting mark GIPR ) was a predecessor of the Central Railway (and by extension, the current state-owned Indian Railways ), whose headquarters was at the Boree Bunder in Mumbai (later, the Victoria Terminus and presently the Chhatrapati Shivaji Maharaj Terminus ). The Great Indian Peninsula Railway Company was incorporated on 1 August 1849 by the Great Indian Peninsula Railway Company Act 1849 ( 12 & 13 Vict. c. lxxxiii) of the Parliament of the United Kingdom . It had a share capital of 50,000 pounds. On 21 August 1847 it entered into a formal contract with the East India Company for the construction and operation of a railway line, 56 km long, to form part of a trunk line connecting Bombay with Khandesh and Berar and generally with the other presidencies of India. The Court of Directors of the East India Company appointed James John Berkley as Chief Resident Engineer and Charles Buchanan Ker and Robert Wilfred Graham as his assistants. It was India's first passenger railway, the original 21 miles (33.8 km) section opening in 1853, between Bombay (Mumbai) and Tanna (now Thane ). On 1 July 1925, its management was taken over by the government. On 5 November 1951, it was incorporated into the Central Railway. Monogram of the Great Indian Peninsular Railway, in CSMT Railway Station 's booking office Incorporation in London The Great Indian Peninsula Railway was incorporated as a company in 1849 by John Chapman , with its head office in London. The line was initially proposed to run for a length of 1,300 mi (2,100 km), to connect Bombay with the interior of the Indian peninsula and to the major port of Madras ( Chennai ) on the east coast. It was intended to connect the towns of Poona ( Pune ), Nassuek ( Nashik ), Aurungabad ( Aurangabad ), Ahmednuggur ( Ahmednagar ), Sholapoor ( Solapur ), Nagpur , Akola (West Berar), Oomrawutty ( Amravati ), and Hyderabad . It was meant for the purpose of increasing the export of cotton, silk, opium, sugar and spices. The management committee consisted of 25 British men, including officials of the East India Company and banks in London, most of whom resided in Britain and some who had resided in India. The original 25 person board consisted of people such as John Stuart-Wortley and William Hamilton (both MPs from Britain who became the company's chairman and deputy chairman), Frederick Ayrton (ex-East India Company), cavalrymen such as Major Clayton and Major-General Briggs, Bombay residents John Graham, Col. Dickenson, Hon. Jugonnath Sunkersett",
+      "id": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_c_0",
+      "doc_id": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html",
+      "community_id": 2,
+      "score": 11.712271
+    },
+    {
+      "text": "Prem Ganapathy is an Indian entrepreneur and businessman. He is the founder of the restaurant chain Dosa plaza . Starting with meager investment, he expanded Dosa plaza into a restaurant chain with 72 outlets in India , New Zealand , Oman , and UAE . Early life Ganapathy was born in Nagalapuram in Thoothukudi district in the state of Tamil Nadu . He had seven siblings. Ganapathy completed class X after which he left for Madras (now Chennai ) in search of a job. He did multiple jobs in Chennai before running away to Bombay (now Mumbai ) in 1990. Ganapathy was stranded in Bombay with no money and no knowledge of the local language. He started working in a bakery with the help of a Tamil family. Career In 1992, Ganapathy started his own food business, selling idlis and dosas in a handcart opposite the Vashi railway station . In 1997, he rented a shop and started experimenting with various varieties of dosas. In 2003, he opened his first outlet in a mall in Center One Mall at Vashi. As of 2012, Dosa plaza has 45 outlets in 4 countries serving more than 100 varieties of dosas. References",
+      "id": "HotpotQA-validation-00003813/02_Prem-Ganapathy.html_c_0",
+      "doc_id": "HotpotQA-validation-00003813/02_Prem-Ganapathy.html",
+      "community_id": 0,
+      "score": 11.538372
+    },
+    {
+      "text": "first nationwide restaurant to cook completely GMO free. However, in 2019, Chipotle paid $6.5 million to settle a lawsuit where the plaintiffs claimed that the company's food \"may have been sourced from livestock that consumed GMO animal feed\". In 2017, Chipotle committed to transitioning away from birds bred to maximize growth at the expense of animal well-being. However, in 2024, investigations by animal welfare groups showed that they were failing to meet these standards. Food safety In its annual reports, Chipotle has acknowledged that it \"may be at a higher risk for food-borne illness outbreaks than some competitors due to our use of fresh produce and meats rather than frozen, and our reliance on employees cooking with traditional methods rather than automation\". Following the 2015 outbreaks, some food safety experts and media commentators argued that the variety of pathogens involved pointed to systemic problems with the company's food handling practices. On December 10, 2015, CEO Steve Ells released a statement apologizing for the outbreaks and promised changes to minimize future risks. Food poisoning outbreaks March 2008 hepatitis In March and April 2008, the Community Epidemiology Branch of the San Diego County Health and Human Services Agency traced a hepatitis A outbreak in San Diego County to a single Chipotle restaurant located in La Mesa, California , in which 22 customers were infected with the virus. April 2008 norovirus In 2008, Chipotle was implicated in a norovirus outbreak in Kent, Ohio , where over 400 people became ill after eating at a Chipotle restaurant. Officials at the Ohio Department of Health said that the outbreak was caused by Norovirus Genotype G2 . Many of the victims were students at Kent State University . The initial source of the outbreak was never found. July 2015 E. coli In early November 2015, The Oregonian reported that there was a little-known E. coli outbreak that had occurred earlier in July in which five people were infected with the O157:H7 strain of E. coli . The outbreak was traced to a single Chipotle location in Seattle and that the incident was not publicized at that time. Seattle public health officials defended their actions at that time by saying that the outbreak was over by the time they made an association with Chipotle. Health officials were unable to trace the source of the July outbreak and said that the cause of the July outbreak is unrelated to the October/November outbreak. August 2015 norovirus A norovirus outbreak occurred in August 2015 at a Simi Valley, California , location, ultimately affecting more than 200 people. Ventura County health inspectors found health violations during inspections following the outbreak. In January 2016, a federal grand jury issued a subpoena as part of a criminal investigation into the outbreak. August 2015 Salmonella At almost the same time as the Simi Valley norovirus outbreak, Minnesota health officials confirmed a Salmonella outbreak that affected",
+      "id": "HotpotQA-validation-00002715/03_Chipotle-Mexican-Grill.html_c_12",
+      "doc_id": "HotpotQA-validation-00002715/03_Chipotle-Mexican-Grill.html",
+      "community_id": 7,
+      "score": 11.331998
+    },
+    {
+      "text": "and William Hamilton (both MPs from Britain who became the company's chairman and deputy chairman), Frederick Ayrton (ex-East India Company), cavalrymen such as Major Clayton and Major-General Briggs, Bombay residents John Graham, Col. Dickenson, Hon. Jugonnath Sunkersett and Sir Jamsetjee Jejeebhoy , bankers such as John Harvey (Commercial Bank of London) and S. Jervis (Director of the London and County Bank , Lombard Street ), and directors of other railway companies such as Richard Paterson (Chairman of the Northern and Eastern Railway Company ) and Melvil Wilson (Director of the Alliance Assurance Office). Beginnings in Bombay An year after the passing of the Great Indian Peninsula Railway Company Act 1849 ( 12 & 13 Vict. c. lxxxiii), the first sod was turned ('Bhoomipujan' was done) of the first rail line at Sion on 30 October 1850, by the Chief secretary of Bombay Government, John P. Willoughby. The line was meant to be an \"experimental line\" between Bombay and Thana , whose gauge was set at 5' 6'' (1676 mm) by Governor General Lord Dalhousie in January 1851. The contract for this segment was handed to the contractors Faviell and Fowler, while the next segment from Tannah to Callian (today's Kalyan) to contractors George Wythes and William Jackson along with Jamsetjee Dorabjee Naegamwalla. Work began, but was soon slowed down by heavy showers in October 1851. This was the same year the first locomotives for this line (Locomotives GIP-1 to 8 ) were built at the Vulcan Foundry in England. Several problems were encountered, for instance, the laying of the line among the swamp at Sion, worker strikes, among others. Then there was a question of whether the experimental line be a single line, or a double line. The contract opted for the latter option, but there were other ideas. Doing this would have saved money. In the end, the Government of Bombay asked to retain the 'double line' option, owing to complications in contracts and finances. First locomotive The following year, in 1852, Bombay received its first locomotive. Built by E. B. Wilson , the same firm that built Roorkee 's locomotive Thomason, it was brought by sea to Bombay. The Bombay Telegraph of 17 February states that \"She had been landed six days ...\" suggesting that the locomotive landed in Bombay on 11 or 12 February 1852. On its arrival, it was pulled down a public road by 200 coolies, before it was put on the rails. This Locomotive was named \" Lord Falkland \" after the then Governor of Bombay, Lucius Bentinck Cary , who reportedly left",
+      "id": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_c_1",
+      "doc_id": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html",
+      "community_id": 2,
+      "score": 10.73277
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_0",
+      "summary": "**Title**: Pramod Bhasin & Genpact\n\n**Summary**: Pramod Bhasin is an Indian business executive who founded Genpact, one of the world’s largest IT and BPO companies, after launching GE Capital International Services (GECIS) in 1997. A British Chartered Accountant and alumnus of Shri Ram College of Commerce and FMS Delhi, he spent 25 years with GE and RCA across the US, Europe, and Asia before spinning off GECIS as Genpact in 2004. Under his leadership, Genpact expanded global delivery centers to over a dozen countries and earned him the Lifetime Contribution Award from IQPC. Bhasin later served as NASSCOM Chairman, TiE Delhi-NCR President, and ICRIER Chairman, cementing his role as a pioneer of India’s outsourcing industry.\n\n**Keywords**: Genpact, BPO pioneer, GE Capital, NASSCOM, outsourcing",
+      "is_seed": true,
+      "expand_score": 0.8353142738342285
+    },
+    {
+      "community_key": "HotpotQA-validation-00000796/01_Genpact.html_2",
+      "summary": "**Title**: Genpact Corporate Evolution\n\n**Summary**:  \nGenpact began in 1997 as GE Capital International Services (GECIS), a captive BPO unit of General Electric, and became an independent NYSE-listed company in 2005 under the name Genpact. It expanded globally, diversified beyond GE clients, and crossed US$1 billion in revenue by 2008. Leadership transitions included Pramod Bhasin, NV “Tiger” Tyagarajan (2011-2024), and Balkrishan Kalra (2024-). The company grew through acquisitions in software, analytics, and digital consulting, launched the AI platform Genpact Cora, and partnered with organizations like MHRA and Coca-Cola Beverages Africa. Recent initiatives emphasize digital transformation, public learning access, and inclusion in sustainability indices.\n\n**Keywords**:  \nGenpact, BPO evolution, NYSE listing, digital transformation, leadership transitions",
+      "is_seed": true,
+      "expand_score": 0.8353142738342285
+    },
+    {
+      "community_key": "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_4",
+      "summary": "**Title**: Samantha Cristoforetti's ISS Missions\n\n**Summary**: Italian astronaut Samantha Cristoforetti commanded the 2022 SpaceX Crew-4 mission to the ISS, named Minerva, during which she became the first person to post a TikTok from orbit and the first to operate the rHEALTH ONE biomedical analyzer, collecting 100 million data points for space-health research. She conducted a 7-hour spacewalk to install the European Robotic Arm, becoming the first non-Russian to wear an Orlan suit since 2009, and later took command of ISS Expedition 68. A polyglot and mother of two, she previously led the 2019 NEEMO 23 undersea mission and published the memoir *Diary of an Apprentice Astronaut*.\n\n**Keywords**: Minerva mission, rHEALTH ONE, European Robotic Arm, ISS Expedition 68, NEEMO 23",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_6",
+      "summary": "**Title:** Codename: Kids Next Door Universe\n\n**Summary:**  \nCodename: Kids Next Door is an animated spy-fi series that follows Sector V, a team of five kids using 2×4 technology to battle adult and teen tyranny. The show features a global KND organization, shadowy internal factions like the Splinter Cell, and a rogues’ gallery led by Father—Nigel Uno’s uncle—who permanently brainwashed Sector Z into the Delightful Children. Key antagonists include traitorous operatives such as Chad Dickson and Cree Lincoln, while the overarching narrative explores themes of loyalty, aging out, and covert manipulation within the KND hierarchy.\n\n**Keywords:** Kids Next Door, Sector V, Father, Splinter Cell, delightfulization",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_2",
+      "summary": "**Title**: Great Indian Peninsula Railway Origins  \n\n**Summary**:  \nThe Great Indian Peninsula Railway (GIPR), incorporated in London in 1849, was India’s first passenger railway, launching its inaugural 21-mile Bombay–Thane run on 16 April 1853. Starting with the locomotive “Lord Falkland” and three named engines—Sindh, Sultan, Sahib—it operated on 5' 6\" gauge track laid amid monsoon delays, worker strikes, and public fascination. By 1925 the government assumed control, and in 1951 GIPR merged into the Central Railway, by which time its rolling stock had grown to 835 locomotives, 1,285 coaches, and over 20,000 wagons.  \n\n**Keywords**: GIPR, first Indian train, Bombay–Thane line, Lord Falkland, Central Railway",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002715/03_Chipotle-Mexican-Grill.html_7",
+      "summary": "**Title**: Chipotle Operations & Global Expansion\n\n**Summary**:  \nChipotle Mexican Grill operates a fully company-owned restaurant model, eschewing franchising to maintain centralized control over quality and operations. After rapid U.S. growth, it began international expansion in 2008, entering Canada first and later Europe, the Middle East, and Asia through joint ventures and its inaugural franchise deal with Kuwait’s Alshaya Group. Leadership has evolved from founder Steve Ells to current CEO Scott Boatwright, supported by a seasoned executive team overseeing strategy, technology, finance, and food safety. The chain’s emphasis on fresh ingredients and traditional cooking methods has periodically exposed it to food-borne illness outbreaks, prompting enhanced safety protocols and periodic corporate restructuring.\n\n**Keywords**:  \ncompany-owned model, international expansion, food safety outbreaks, executive leadership, Alshaya partnership",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005935/00_Playing-company.html_4",
+      "summary": "**Title**: Plague Closures & Patronage  \n\n**Summary**:  \nDuring the English Renaissance, London theatres faced repeated shutdowns whenever plague deaths crossed official thresholds—most catastrophically from 1592-94 and 1603-04—forcing companies to tour or disband. To operate legally, players required noble patronage that shielded them from anti-vagrancy laws and civic hostility, with the Lord Chamberlain’s Men exemplifying a cooperative shareholder model while rivals like the Admiral’s Men endured exploitative financiers such as Philip Henslowe. Despite these disruptions, playhouses proliferated outside city jurisdiction, enjoying broad popularity across social classes except among Puritan-influenced middling sorts.  \n\n**Keywords**: plague closures, noble patronage, Lord Chamberlain’s Men, theatre economics, Elizabethan drama",
+      "is_seed": true,
+      "expand_score": 0.7917275428771973
+    },
+    {
+      "community_key": "HotpotQA-validation-00005935/01_The-Rose-theatre.html_4",
+      "summary": "**Title**: The Rose Theatre Legacy\n\n**Summary**:  \nThe Rose, London’s first Bankside playhouse, was built in 1587 by Philip Henslowe and John Cholmley, launching the Southwark liberty as the city’s theatrical heart. Despite plague closures and competition from the Globe, it hosted premieres by Shakespeare, Marlowe, Kyd and others before closing in 1603. Rediscovered during 1989 construction works, its fragile foundations sparked a public preservation campaign, led to landmark heritage-planning reforms (PPG 16), and now operate as The Rose Playhouse, an exhibition and performance space run by the Rose Theatre Trust with ongoing excavation and plans for a full visitor centre.\n\n**Keywords**: Rose Theatre, Elizabethan playhouse, Bankside excavation, Shakespeare performance, heritage preservation",
+      "is_seed": true,
+      "expand_score": 0.7917275428771973
+    },
+    {
+      "community_key": "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_7",
+      "summary": "**Title**: Great Indian Peninsula Railway History  \n\n**Summary**:  \nThe Great Indian Peninsula Railway (GIPR) pioneered rail transport in India, launching its first 34 km passenger service from Bombay to Thane on 16 April 1853 with elaborate ceremonies and three locomotives. Over the next two decades the network pushed across the Western Ghats via the Bhor and Thull ghat inclines, reaching Pune, Madras, Nagpur and, by 1870, forming the first direct Bombay–Calcutta rail link that inspired Jules Verne’s *Around the World in Eighty Days*. The company grew from 345 steam locomotives in 1874 to 835 by 1936, introduced India’s first electrified passenger section (Victoria Terminus–Kurla, February 1925), and was classified a Class I railway under the 1926 system.  \n\n**Keywords**:  \nGIPR, Bombay to Calcutta, Indian rail electrification, Bhor Ghat, first Indian train",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "summary": "**Title**: Soviet 212 Cruise Missile  \n\n**Summary**:  \nThe 212 was an early Soviet experimental cruise missile conceived in 1936 under Sergei Korolev, featuring a winged rocket launched from a catapult or TB-3 bomber. After repeated control-system failures and engine issues, including explosions with Glushko’s ORM-65, the missile—renamed 803—underwent four unsuccessful flight tests between 1936 and 1939. Korolev’s arrest in 1938 did not halt the program, but persistent guidance problems led to its cancellation in 1939.  \n\n**Keywords**:  \nSergei Korolev, 212 cruise missile, Soviet rocketry, 1930s aviation, ORM-65 engine",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003813/02_Prem-Ganapathy.html_0",
+      "summary": "**Title**: Prem Ganapathy & Dosa Plaza\n\n**Summary**: Prem Ganapathy, a Tamil Nadu native, arrived in Mumbai penniless in 1990 and began selling idlis and dosas from a handcart near Vashi station. By experimenting with dosa varieties, he grew the business into Dosa Plaza, opening his first mall outlet in 2003 and ultimately expanding to 72 locations across India, New Zealand, Oman, and the UAE.\n\n**Keywords**: entrepreneur, Dosa Plaza, Indian restaurant chain, rags-to-riches, dosa varieties",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000994/01_Christian-Yelich.html_4",
+      "summary": "**Title:** Christian Yelich Career Highlights  \n\n**Summary:**  \nChristian Yelich is a decorated MLB outfielder whose peak 2018-19 seasons featured an NL MVP award, two batting titles, and a record-setting pair of cycles against Cincinnati. After back and knee issues curtailed 2019-24, he rebounded in 2025, slugging 29 HR, 103 RBI, earning NL Player of the Week, and logging his first career walk-off grand slam. Internationally, he helped Team USA win the 2017 WBC and was named to the All-Tournament team. Off the field, Yelich’s diverse heritage—Serbian and Japanese roots—and high-profile appearances add to his broad appeal.  \n\n**Keywords:**  \nMVP, Milwaukee Brewers, 2017 WBC, cycles, 2025 resurgence",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004506/02_Swarth-Group.html_0",
+      "summary": "**Title**: Swarth Group Telecom Investments\n\n**Summary**: Swarth Group, an Israeli private equity firm owned by Shaul Shani, focuses on telecom-sector deals. Headquartered in Petah Tikva, it bought ECI Telecom for $1.24 billion in 2007 and later acquired a 16.44 % stake in GVT Holding. In 2009 it exited that position by selling to Vivendi at a 15.8 % premium over its 2008 purchase price.\n\n**Keywords**: Swarth Group, telecom private equity, Shaul Shani, ECI Telecom, GVT stake",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003966/03_191718-Toronto-Hockey-Club-season.html_4",
+      "summary": "**Title**: Toronto Arenas' Inaugural NHL Season\n\n**Summary**:  \nThe 1917–18 Toronto Hockey Club—later retroactively named the Toronto Arenas—was a temporary franchise created to fill the void left by the ousted Toronto Blueshirts owner Eddie Livingstone and to maintain a four-team NHL. Operated by the Toronto Arena Company without an official nickname or separate corporate structure, the squad quickly coalesced, leased Livingstone’s former players, and captured the league’s first championship. They then defeated the PCHA’s Vancouver Millionaires to claim the Stanley Cup, becoming the only franchise in major North American sports to win a title in its debut season.\n\n**Keywords**: Toronto Arenas, 1917–18 NHL season, Stanley Cup champions, franchise origins, Eddie Livingstone dispute",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2",
+      "summary": "**Title**: Chowder Cartoon Characters Guide  \n\n**Summary**:  \nThese chunks catalogue the main and recurring characters from the animated series *Chowder*, each named after food and voiced by notable actors. Core figures include the scatterbrained apprentice Chowder, his mentor Mung Daal, Mung’s business-manager wife Truffles, the rock-monster chef Shnitzel, Chowder’s gas-cloud pet Kimchi, rival chef Ms. Endive and her love-struck apprentice Panini, plus supporting oddballs like Gazpacho, Gorgonzola, Ceviche and Paté. Creator C. H. Greenblatt’s design choices, personality quirks and running gags (Panini’s crush, Shnitzel’s “radda,” food-based naming) are highlighted, giving a comprehensive reference for the show’s universe.  \n\n**Keywords**: Chowder characters, Mung Daal, Panini, food-named cast, C. H. Greenblatt",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_2",
+      "summary": "**Title:** Chowder Cartoon Characters Guide  \n\n**Summary:**  \nThese chunks catalogue the main and recurring characters from the animated series *Chowder*, describing their personalities, voice actors, and food-based naming origins. Key figures include the scatterbrained apprentice Chowder, his mentor Mung Daal, Mung’s business-minded wife Truffles, the rock-monster chef Shnitzel, the lovesick Panini, and rivals like Ms. Endive and Gorgonzola. Supporting oddballs—Kimchi the stink cloud, Gazpacho the mammoth vendor, Ceviche the dancing goat, and others—round out the surreal culinary world, with creator C. H. Greenblatt noting how each name and trait was chosen to reflect a dish or flavor profile.  \n\n**Keywords:** Chowder characters, Mung Daal, Panini, food-named cast, cartoon voices",
+      "is_seed": false,
+      "expand_score": 0.9839446544647217
+    },
+    {
+      "community_key": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "summary": "**Title**: Chowder TV Series Overview  \n\n**Summary**:  \nChowder is an animated Cartoon Network series created by C. H. Greenblatt that follows a young apprentice in a fantastical culinary world. The show is renowned for its eclectic mix of animation techniques—ranging from watercolors and stop-motion to puppetry and live-action—and its refusal to let character clothing patterns move with the characters, creating a distinctive visual style. After a seven-year development, it aired from 2007 until its 2009 cancellation, yet continued to garner praise for its creative artistry and humor appealing to both children and adults. The series left a cultural footprint, inspiring rapper Lil Nas X’s hit “Panini” and appearances in crossover games like Cartoon Network: Punch Time Explosion.  \n\n**Keywords**:  \nChowder, C. H. Greenblatt, mixed-media animation, Cartoon Network, culinary fantasy",
+      "is_seed": false,
+      "expand_score": 0.8647035360336304
+    },
+    {
+      "community_key": "HotpotQA-validation-00001118/00_White-Bear-Theatre.html_0",
+      "summary": "**Title**: White Bear Theatre Legacy\n\n**Summary**: The White Bear Theatre, founded in 1988 in a Kennington pub, is a leading London fringe venue dedicated to new writing and reviving neglected historical plays through its Lost Classics Project. The project stages obscure or suppressed works, including John Osborne’s early uncensored plays, J.P. Donleavy’s *The Ginger Man*, and Sylvia Rayman’s all-female *Women of Twilight*. Academics praise its modern and early-modern strands for expanding the repertory beyond Shakespeare, placing it alongside Shakespeare’s Globe Read Not Dead and the RSC Jacobethan seasons as a key force reshaping twenty-first-century early-modern performance.\n\n**Keywords**: White Bear Theatre, Lost Classics Project, fringe theatre, historical revivals, new writing",
+      "is_seed": false,
+      "expand_score": 0.8097267746925354
+    },
+    {
+      "community_key": "HotpotQA-validation-00005935/02_Admirals-Men.html_3",
+      "summary": "**Title**: Admiral's Men Theatre Company  \n\n**Summary**:  \nThe Admiral’s Men, Elizabethan England’s second-most-important troupe, evolved from Lord Howard’s Men (1576) to Prince Henry’s Men (1603) and finally the Palsgrave’s Men (1613). Based at Henslowe’s Rose and later the Fortune, they mounted a voracious repertory—38 plays in 1594-95 alone, two-thirds new—and made stars of Marlowe’s works and Edward Alleyn. Surviving Henslowe papers reveal grueling six-day weeks, rapid play turnover, and financial structure; surviving scripts include Chapman’s comedies and Dekker’s shoemaker and whore plays. After the 1621 Fortune fire and patron Prince Henry’s death, the company declined, re-formed under Prince Charles’s name, and dissolved by 1631.  \n\n**Keywords**: Admiral’s Men, Edward Alleyn, Philip Henslowe, Elizabethan repertory, Fortune Theatre",
+      "is_seed": false,
+      "expand_score": 0.7982724905014038
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "summary": "**Title**: Sergei Korolev’s Formative Years  \n\n**Summary**:  \nThese excerpts trace Sergei Korolev’s path from a teenage aviation enthusiast designing gliders in Odessa to his emergence as the Soviet Union’s pivotal rocket engineer. After studying under Andrei Tupolev at Bauman University, he joined TsAGI, earned a pilot’s license, and championed liquid-fueled rocket propulsion for aircraft. In 1931 he co-founded GIRD, led the group by 1932, and oversaw the USSR’s first liquid-fueled rocket launch in 1933. The merger of GIRD with GDL created RNII, where Korolev directed cruise-missile and rocket-glider projects until Stalin’s Great Purge demoted, imprisoned, and ultimately silenced many of its leading engineers, including Korolev himself.  \n\n**Keywords**:  \nSergei Korolev, GIRD, Soviet rocketry, liquid-fueled rockets, Great Purge",
+      "is_seed": false,
+      "expand_score": 0.7966257333755493
+    },
+    {
+      "community_key": "HotpotQA-validation-00005935/01_The-Rose-theatre.html_1",
+      "summary": "**Title**: The Rose Theatre Legacy\n\n**Summary**:  \nThe Rose Theatre, built in 1587 on London’s Bankside, was a pioneering Elizabethan playhouse distinguished by its unique fourteen-sided design and two-level staging capability. Financed by Philip Henslowe and later partnered with actor Edward Alleyn, it hosted the Admiral’s Men and premiered works by Christopher Marlowe. After closures due to plague and rising rents, the Rose was abandoned in 1605 and likely demolished by 1606. Rediscovered during 1989 construction, its remains sparked a high-profile preservation campaign led by Peggy Ashcroft and Judi Dench, resulting in the site being suspended beneath a modern building and catalyzing stronger archaeological protection in UK development law.\n\n**Keywords**:  \nRose Theatre, Philip Henslowe, Edward Alleyn, Elizabethan playhouse, archaeological preservation",
+      "is_seed": false,
+      "expand_score": 0.7938046455383301
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "summary": "**Title:** Sergei Korolev’s Lunar Setbacks  \n\n**Summary:**  \nSoviet Chief Designer Sergei Korolev’s insistence on adapting the 1958-era N1 rocket—built for lighter payloads—into a Moon launcher, coupled with his “build-then-test” philosophy, is portrayed as a fundamental strategic flaw that doomed the USSR’s crewed lunar effort. Chronic health decline (heart, kidney, gallbladder, gulag injuries) and a toxic rivalry with designer Vladimir Chelomey further fragmented resources and leadership, while post-Korolev successors inherited a troubled N1 program that ultimately failed four test flights and was cancelled after Apollo’s success.  \n\n**Keywords:**  \nN1 rocket, Moon race, Korolev-Chelomey rivalry, Soviet lunar program, managerial strategy",
+      "is_seed": false,
+      "expand_score": 0.7917732000350952
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "summary": "**Title**: Korolev’s Ballistic & Space Program\n\n**Summary**:  \nSergei Korolev led the Soviet Union’s post-war ballistic-missile effort, evolving captured V-2 technology into the R-7—the world’s first ICBM—which enabled Sputnik 1’s historic 1957 launch and triggered the space race. After political lobbying and rushed development, his team orbited increasingly sophisticated satellites (Sputnik 2 with Laika, Sputnik 3) and achieved lunar firsts via the Luna probes, including imaging the Moon’s far side in 1959. Persistent funding battles, technical setbacks, and secrecy shaped the program, yet Korolev’s rockets secured Soviet space prestige before the U.S.\n\n**Keywords**:  \nR-7 Semyorka, Sputnik 1, Luna missions, ICBM, space race",
+      "is_seed": false,
+      "expand_score": 0.7892056703567505
+    },
+    {
+      "community_key": "HotpotQA-validation-00003966/02_1931-Stanley-Cup-Finals.html_1",
+      "summary": "**Title**: 1931 Stanley Cup Finals  \n\n**Summary**:  \nThe 1931 Stanley Cup Finals saw the Montreal Canadiens defeat the Chicago Black Hawks in five games, securing back-to-back championships. The series featured record-setting attendance, a triple-overtime thriller that remains one of the longest Finals games ever, and Foster Hewitt’s landmark national radio broadcast. Key Canadiens like Howie Morenz and Johnny Gagnon scored decisive goals, while captain Sylvio Mantha accepted the Cup. Engraving controversies arose when Bert McCaffrey and Jean Pusie were omitted despite playing qualifying games, and owner Leo Dandurand’s managerial role was superseded by Cecil Hart’s name on the trophy.  \n\n**Keywords**:  \nStanley Cup 1931, Montreal Canadiens, Chicago Black Hawks, record overtime game, engraving omissions",
+      "is_seed": false,
+      "expand_score": 0.7811055183410645
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_0",
+      "HotpotQA-validation-00000796/01_Genpact.html_2",
+      "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_4",
+      "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_6",
+      "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_2",
+      "HotpotQA-validation-00002715/03_Chipotle-Mexican-Grill.html_7",
+      "HotpotQA-validation-00005935/00_Playing-company.html_4",
+      "HotpotQA-validation-00005935/01_The-Rose-theatre.html_4",
+      "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_7",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00003813/02_Prem-Ganapathy.html_0",
+      "HotpotQA-validation-00000994/01_Christian-Yelich.html_4",
+      "HotpotQA-validation-00004506/02_Swarth-Group.html_0",
+      "HotpotQA-validation-00003966/03_191718-Toronto-Hockey-Club-season.html_4",
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_2",
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00000796/01_Genpact.html_2",
+      "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_0",
+      "HotpotQA-validation-00001118/00_White-Bear-Theatre.html_0",
+      "HotpotQA-validation-00005935/02_Admirals-Men.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00005935/01_The-Rose-theatre.html_1",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00005935/00_Playing-company.html_4",
+      "HotpotQA-validation-00005935/01_The-Rose-theatre.html_4",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00003966/02_1931-Stanley-Cup-Finals.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_0",
+      "HotpotQA-validation-00000796/01_Genpact.html_2",
+      "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_4",
+      "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_6",
+      "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_2",
+      "HotpotQA-validation-00002715/03_Chipotle-Mexican-Grill.html_7",
+      "HotpotQA-validation-00005935/00_Playing-company.html_4",
+      "HotpotQA-validation-00005935/01_The-Rose-theatre.html_4",
+      "HotpotQA-validation-00002921/03_Great-Indian-Peninsula-Railway.html_7",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00003813/02_Prem-Ganapathy.html_0",
+      "HotpotQA-validation-00000994/01_Christian-Yelich.html_4",
+      "HotpotQA-validation-00004506/02_Swarth-Group.html_0",
+      "HotpotQA-validation-00003966/03_191718-Toronto-Hockey-Club-season.html_4",
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2",
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_2",
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00001118/00_White-Bear-Theatre.html_0",
+      "HotpotQA-validation-00005935/02_Admirals-Men.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00005935/01_The-Rose-theatre.html_1",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00003966/02_1931-Stanley-Cup-Finals.html_1"
+    ],
+    "allowed_chunk_pool_size": 80,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

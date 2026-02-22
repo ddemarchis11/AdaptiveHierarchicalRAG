@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002379",
+  "question": "Does Il trovatore have less acts than La rondine",
+  "gold_answer": "no",
+  "llm_answer": "There is insufficient evidence to determine the number of acts in Il trovatore and La rondine.",
+  "context": [
+    {
+      "text": "learned that Cammarano had completed Manrico's third-act aria, \"Di quella pira\" just eight days before his death, but now he turned to De Sanctis to find him another librettist. Leone Emanuele Bardare was a young poet from Naples who was beginning his career; eventually he wrote more than 15 librettos before 1880. Composer and librettist met in Rome around 20 December 1852 and Verdi began work on both Trovatore and La traviata . His main aim, having changed his mind about the distribution of characters in the opera, was to enhance the role of Leonora, thus making it \"a two-women opera\" and he communicated many of these ideas ahead of time via letters to De Sanctis over several months. Leonora now was to have a cantabile for the Miserere as well as retaining \"Tacea la Notte\" in act 1 with its cabaletta. Changes were also made to Azucena's \"Stride la vampa\" and to the Count's lines. Taking into account the last-minute requirements of the censor and the consequent changes, overall, the revisions and changes enhanced the opera, and the result was that it was a critical and a popular success. Performance history In Italian as Il trovatore Tenor Carlo Baucardé sang Manrico Soprano Rosina Penco sang Leonora Mezzo Emilia Goggi sang",
+      "id": "HotpotQA-validation-00002379/00_Il-trovatore.html_c_6"
+    },
+    {
+      "text": "External links La rondine : Scores at the International Music Score Library Project Ines Maria Ferraris, creator of the role of Lisette, singing the first recording of \"Chi il bel sogno di Doretta\" on YouTube , 1928 Ainhoa Arteta performing \"Chi il bel sogno di Doretta\" on YouTube , Washington National Opera production, 1998 Ainhoa Arteta and Marcus Haddock perform the alternate ending on YouTube , Washington National, 1998 Libretto (Italian and Spanish) Reviews and photos of first performance at the Metropolitan Opera in 1928 at Metropolitan Opera Archives",
+      "id": "HotpotQA-validation-00002379/01_La-rondine.html_c_12"
+    },
+    {
+      "text": "\" Doretta's Dream \" is a 1987 single by Sarah Brightman . The song is based on the aria \"Chi il bel sogno di Doretta\" (\"Doretta's Beautiful Dream\") from Giacomo Puccini 's opera La Rondine . New English lyrics were written by Charles Hart . Track listing \"Doretta's Dream\" (Theme from A Room with a View ) (Charles Hart, Giacomo Puccini) \" O mio babbino caro \" (Giacomo Puccini) References v t e",
+      "id": "HotpotQA-validation-00002379/02_Dorettas-Dream.html_c_0"
+    },
+    {
+      "text": "and Azucena's music \"where greater verbal projection of the lower voice [can be] turned to advantage\" and where \"the polarity between the two female roles [extends] into every field of comparison.\" He then sums up the musical relationship which exists between the two female characters, the men having simply been defined as being representative of their own voice types, something evident and very striking in Verdi's significant use of voice types in Ernani of 1844. Regarding Leonora, Budden describes her music as \"mov[ing] in long phrases most characterized by a soaring 'aspiring' quality\" whereas \"Azucena's melodies evolve in short, often commonplace phrases based on the repetition of short rhythmic patterns\". Cultural references Enrico Caruso once said that all it takes for a successful performance of Il trovatore is the four greatest singers in the world. On many occasions, this opera and its music have been featured in various forms of popular culture and entertainment. Scenes of comic chaos play out over a performance of Il trovatore in the Marx Brothers film A Night at the Opera (including a quotation, in the middle of the act 1 overture, of Take Me Out to the Ball Game ). Luchino Visconti used a performance of Il trovatore at La Fenice opera house for the opening sequence of his 1954 film Senso . As Manrico sings his battle cry in \"Di quella pira\", the performance is interrupted by the answering cries of",
+      "id": "HotpotQA-validation-00002379/00_Il-trovatore.html_c_21"
+    },
+    {
+      "text": "Plácido Domingo has made hundreds of opera performances, music albums, and concert recordings throughout his career as an operatic tenor . From his first operatic leading role as Alfredo in La traviata in 1961, his major debuts continued in swift succession: Tosca at the Hamburg State Opera and Don Carlos at the Vienna State Opera in 1967; Adriana Lecouvreur at the Metropolitan Opera , Turandot in Verona Arena and La bohème in San Francisco in 1969; La Gioconda in 1970; Tosca at the Royal Opera House , London, in 1971; La bohème at the Bavarian State Opera in 1972; Il trovatore at the Paris Opéra in 1973 and Don Carlo at the Salzburg Festival in 1975, Parsifal in 1992 at the Bayreuth Festival ; the same role is often recorded more than once. Other than full-length opera performance recordings, Domingo has also made many music albums, recording opera arias , live opera performances and concerts, and crossover songs in solo and duet. His albums have simultaneously appeared on Billboard charts of best-selling classical and crossover recordings; contributing to many gold and platinum records and nine Grammy Awards . Below are the lists of his recordings in full-length opera performances, music albums and compilation albums (including concerts) with other singers. However, the lists cannot be used to reflect his total number of performances",
+      "id": "HotpotQA-validation-00004210/03_Plcido-Domingo-discography.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Il trovatore has 4 acts (Novel-00002379_c_6).\n- La rondine has 3 acts (Novel-00002379_c_12).\n- No information about the number of acts in La rondine is sufficient to answer the question (Novel-00002379_c_12).\n- next_query: How many acts does La rondine have (Novel-00002379_c_12)\",\n- \"enough\": false,\n- \"missing\": \"La rondine's number of acts\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Does Il trovatore have less acts than La rondine",
+      "doc_ids": [
+        "HotpotQA-validation-00002379/00_Il-trovatore.html_c_6",
+        "HotpotQA-validation-00002379/01_La-rondine.html_c_12",
+        "HotpotQA-validation-00002379/02_Dorettas-Dream.html_c_0",
+        "HotpotQA-validation-00002379/00_Il-trovatore.html_c_21",
+        "HotpotQA-validation-00004210/03_Plcido-Domingo-discography.html_c_0"
+      ]
+    }
+  ]
+}

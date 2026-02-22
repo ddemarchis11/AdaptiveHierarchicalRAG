@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000984",
+  "question": "What is the name of the security guard protagonist portrayed by a bald action star in M. Night Shyamalan's superhero thriller about a man who discovers he cannot be physically harmed?",
+  "gold_answer": "David Dunn",
+  "llm_answer": "The security guard protagonist is David Dunn, portrayed by Bruce Willis.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the protagonist as David Dunn and mentions Bruce Willis as the actor portraying him, which is consistent with the Gold Answer and fully supported by the Retrieved Context."
+  }
+}

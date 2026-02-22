@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac7eb77d",
+  "question": "According to the text, what roles does the Sultan hold in relation to Morocco, including his power over the country and his residence in a palace within Morocco?",
+  "gold_answer": "The Sultan has power over Morocco and has a palace in Morocco.",
+  "llm_answer": "The Sultan is the absolute ruler of Morocco, holding despotic power over his subjects, who are considered his slaves. He governs the empire, maintains control over the royal cities, and must reside in Fez to secure the allegiance of the north and restrain its warlike faction, though his dynasty is from the south.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Sultan as the ruler of Morocco and mentions his residence in Fez, which aligns partially with the Gold Answer. However, it introduces unsupported claims about despotic power and subjects being considered slaves, which are not grounded in the retrieved context. Additionally, it does not explicitly mention the Sultan's palace in Morocco, as stated in the Gold Answer."
+  }
+}

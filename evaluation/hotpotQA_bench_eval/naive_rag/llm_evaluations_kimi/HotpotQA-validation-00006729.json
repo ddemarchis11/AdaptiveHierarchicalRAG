@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006729",
+  "question": "What flag features 13 stars, and has a creator who also has a memorial bridge named after her connecting Pennsylvania and New Jersey?",
+  "gold_answer": "Betsy Ross",
+  "llm_answer": "The flag that features 13 stars and was created by Betsy Ross, who has a memorial bridge named after her connecting Pennsylvania and New Jersey, is the Betsy Ross flag.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Betsy Ross as the creator of the flag with 13 stars and mentions the memorial bridge named after her connecting Pennsylvania and New Jersey. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides details about the Betsy Ross Bridge and her association with the flag."
+  }
+}

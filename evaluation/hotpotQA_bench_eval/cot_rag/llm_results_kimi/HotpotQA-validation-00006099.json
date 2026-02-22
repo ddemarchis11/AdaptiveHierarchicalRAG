@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006099",
+  "question": "Easter Airways' head office is located at which airport owned by Manchester Airports Group?",
+  "gold_answer": "Humberside Airport",
+  "llm_answer": "Easter Airways' head office is located at Humberside Airport, which was owned by Manchester Airports Group.",
+  "context": [
+    {
+      "text": "Airlink was the brand name of a helicopter shuttle service which ran between London's two main airports, Gatwick and Heathrow , between 1978 and 1986. Operated jointly by British Caledonian Airways and British Airways Helicopters using a Sikorsky S-61 owned by the British Airports Authority , the \"curious and unique operation\" connected the rapidly growing airports in the years before the M25 motorway existed. Although at one point the service was granted a licence to operate until 1994, the Secretary of State for Transport intervened and revoked the licence with effect from February 1986—by which time the continued existence of the link had become \"a highly controversial issue\" debated by Members of Parliament, airlines, airport operators, local authorities and many other interest groups. No similar service has operated between the airports since Airlink's cessation. Background Gatwick Airport pictured in 1972 Heathrow Airport is 12 nmi (22 km; 14 mi) west of central London, and Gatwick Airport is 24.7 nmi (45.7 km; 28.4 mi) south of the city. Transport connections between London and the respective airports are good, but the difficulty of travelling directly between Heathrow and Gatwick was noted as soon as the latter was designated London's second main airport. The first attempt to run an air shuttle service between the two airports started on 25 June 1969, when Westward Airways started operating",
+      "id": "HotpotQA-validation-00006099/03_Airlink-helicopter-shuttle-service.html_c_0"
+    },
+    {
+      "text": "BA Connect was a regional airline and a wholly owned subsidiary airline of British Airways . It was headquartered in Didsbury , Manchester, England, it operated a network of domestic and European services from a number of airports in the United Kingdom on behalf of British Airways . The airline operated as a low-cost carrier , with food sold via a ' buy on board ' programme (except for flights to London City Airport ). On 3 November 2006, British Airways announced the sale of BA Connect to Flybe . It formally transferred to Flybe on 25 March 2007. History Dash 8-311Q in 2006 The company was incorporated on 26 January 1970 as Brymon Aviation Limited which operated as Brymon Airways . On 30 July 1993 the company was renamed Brymon Airways Limited to reflect the operating name. The company was purchased by British Airways in 1993 and on 28 March 2002 it was merged with British Regional Airlines and was renamed British Airways Citiexpress Ltd operating as BA CitiExpress . British Airways Citiexpress is recognised for pioneering and attaining CAA approval for the print-at-home boarding pass, one of the first self-service tools of the digital era. The regional operations of British Airways at Birmingham and Manchester, and the operations of the former CityFlyer Express , were integrated into the new airline later in 2002. On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect and",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_0"
+    },
+    {
+      "text": "to replace their previously operated Embraer ERJ aircraft. They were to be used mainly on charter services to central and Eastern Europe; however, they also offered increased flexibility on the airline's scheduled flights. In July 2010, the airline named one of their BAe Jetstream 41 aircraft after the comedian Ken Dodd in celebration of the year anniversary of the start of their flights from Liverpool and Dodd's support shown in the region. In September 2010, it was announced that Eastern Airways had bought Air Southwest , however shut down the airline a year later following continued losses and changes in the growth of Flybe. In August 2012, Eastern Group purchased Manchester Airports Group 's 82% stake in Humberside Airport , becoming the primary airline serving the airport. In February 2014, Bristow Group , a major helicopter operator serving the offshore oil and gas industry, acquired a 60% interest in Eastern Airways and in 2018 acquired the remaining 40%. The airline continued to operate under the Eastern Airways brand. Bristow also acquired a controlling interest in the Australian airline Airnorth , another regional airline which operates fixed wing regional jet and turboprop aircraft. During this time, the airline's route network was focused on Aberdeen, providing service to the oil industry, as well as a smaller operation in Newcastle. The airline also commenced a number of French domestic routes in 2015, supported by public service obligation (PSO) subsidies. Facing increased",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_2"
+    },
+    {
+      "text": "route. Corporate affairs Headquarters The head office was located at Schiphol House, on the property of Humberside Airport , in Kirmington , North Lincolnshire . Interline agreements Eastern Airways formerly had Interline agreements with the following airlines: Air France Hahn Air Fleet Eastern Airways BAe Jetstream 41 Before ceasing operations these were the aircraft in the fleet: [ failed verification ] Notes References Goold, Ian (January 2009). \"Full of Eastern pragmatism\". Air International . Vol. 78, no. 1. pp. 26– 29. ISSN 0306-5634 . External links Wikimedia Commons has media related to Eastern Airways . Official website Portals : England Companies Aviation",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_8"
+    },
+    {
+      "text": "Humberside Airport ( IATA : HUY , ICAO : EGNJ ) is an international airport at Kirmington in North Lincolnshire , England, 10 NM (19 km; 12 mi) from Grimsby (east), Hull (north) and Scunthorpe (west). It is also 28 miles (45 kilometres) from Lincoln , the county's largest city. It was owned by Manchester Airports Group from 1999 until 1 August 2012, when it was sold to the Eastern Group of companies. North Lincolnshire Council retains a minority of shares in the airport. The airport's majority owner is Bristow Helicopters . History The airport was previously a Royal Air Force base, RAF Kirmington , opened in 1941 during the Second World War , from which No. 166 Squadron RAF operated the Avro Lancaster . The airfield was closed after the war in 1945, and lay unused as an airfield until 1973 when the local council decided to establish an airport at the site. Work included resurfacing the runways, installing lighting, construction of a new designated terminal building and the building of a taxiway. In 1974, construction finished and the site re-opened as Kirmington Airport. The first commercial flight took place in 1975 to Amsterdam . When the local area was renamed Humberside following local government re-organisation in England, the name was changed",
+      "id": "HotpotQA-validation-00006099/01_Humberside-Airport.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Eastern Airways’ head office is at Schiphol House on Humberside Airport property (HotpotQA-validation-00006099/00_Eastern-Airways.html_c_8).\n- Humberside Airport was owned by Manchester Airports Group 1999-2012 (HotpotQA-validation-00006099/01_Humberside-Airport.html_c_0).\n- Question satisfies “airport owned by Manchester Airports Group”.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Easter Airways' head office is located at which airport owned by Manchester Airports Group?",
+      "doc_ids": [
+        "HotpotQA-validation-00006099/03_Airlink-helicopter-shuttle-service.html_c_0",
+        "HotpotQA-validation-00001577/00_BA-Connect.html_c_0",
+        "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_2",
+        "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_8",
+        "HotpotQA-validation-00006099/01_Humberside-Airport.html_c_0"
+      ]
+    }
+  ]
+}

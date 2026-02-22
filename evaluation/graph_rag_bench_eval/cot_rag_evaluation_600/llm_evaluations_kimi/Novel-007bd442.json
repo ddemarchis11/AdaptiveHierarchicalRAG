@@ -1,0 +1,12 @@
+{
+  "id": "Novel-007bd442",
+  "question": "Through what sequence is Bruin connected to the grandmother?",
+  "gold_answer": "Bruin settled in the cottage, which was home to the grandmother.",
+  "llm_answer": "Bruin is connected to the grandmother through Toto: Bruin ↔ Toto ↔ Grandmother.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a sequence of connection (Bruin ↔ Toto ↔ Grandmother) that is partially correct but does not directly align with the Gold Answer, which states that Bruin settled in the grandmother's cottage. The retrieved context does not explicitly support the sequence described in the Model Answer, making it unfaithful to the context. While the connection between Bruin and the grandmother is mentioned, the specific fact about Bruin settling in the cottage is missing, leading to partial evidence coverage."
+  }
+}

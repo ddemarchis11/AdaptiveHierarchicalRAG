@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005156",
+  "question": "What is the name of the county that Cari Roccaro is from?",
+  "gold_answer": "Suffolk",
+  "llm_answer": "The evidence does not specify the name of the county Cari Roccaro is from.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the name of the county Cari Roccaro is from. The context explicitly mentions that Roccaro was named All-County during her high school years, which indicates Suffolk County. The Model Answer fails to provide the correct answer and misses the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-13fbbea3",
+  "question": "Which individual, related to Angeline Hall, was wounded at the Battle of Bull Run during the Civil War?",
+  "gold_answer": "Constant Woodward was wounded at Bull Run.",
+  "llm_answer": "The individual related to Angeline Hall who was wounded at the Battle of Bull Run during the Civil War is Asaph Hall, Angeline's husband.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Asaph Hall as the individual wounded at the Battle of Bull Run, whereas the Gold Answer and the Retrieved Context clearly state that Constant Woodward, related to Angeline Hall, was wounded at Bull Run. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

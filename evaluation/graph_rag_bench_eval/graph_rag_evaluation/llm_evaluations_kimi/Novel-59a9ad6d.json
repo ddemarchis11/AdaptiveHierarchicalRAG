@@ -1,0 +1,12 @@
+{
+  "id": "Novel-59a9ad6d",
+  "question": "After whom was the Dr. Elsie Inglis Memorial Hospice named, commemorating her contributions to medicine and public health?",
+  "gold_answer": "Dr. Inglis",
+  "llm_answer": "The context does not specify after whom the Dr. Elsie Inglis Memorial Hospice was named.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the namesake of the Dr. Elsie Inglis Memorial Hospice, which is technically correct based on the retrieved context. However, the Gold Answer clearly identifies Dr. Inglis as the namesake, and the Model Answer fails to provide this information. While the Model Answer is faithful to the context, it does not answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

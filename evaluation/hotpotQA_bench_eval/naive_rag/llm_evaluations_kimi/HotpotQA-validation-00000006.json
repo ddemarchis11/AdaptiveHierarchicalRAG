@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000006",
+  "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+  "gold_answer": "Eenasul Fateh",
+  "llm_answer": "The provided evidence does not mention anyone known by the stage name Aladin who worked as a consultant to help organizations improve their performance.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not mention anyone known by the stage name Aladin who worked as a consultant. However, the Gold Answer identifies Eenasul Fateh as the individual in question, which the Model Answer fails to provide. While the Model Answer is faithful to the context, it does not answer the user's question or include the key fact from the Gold Answer."
+  }
+}

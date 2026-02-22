@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21fb6323",
+  "question": "In the years following the British conquest of Canada, how did the British government treat the French language in official matters, particularly regarding its use in law-courts and its status relative to English?",
+  "gold_answer": "The French language was placed on a level with the English language, and the British government made no objection to the use of French in law-courts.",
+  "llm_answer": "Following the British conquest of Canada, the British government treated the French language with a degree of respect and accommodation. \n\nThe Quebec Act of 1774, which restored the French laws in Canada, implied that the use of the French language had been authorized, as it would have been necessary for the interpretation of these laws. \n\nMoreover, the British government made no objection to the use of French in the law-courts, suggesting that they recognized the importance of the French language in official matters. \n\nAt this time, the English population in Canada was relatively small and mostly confined to the cities, while the French population represented nearly the whole population. As a result, the French members in the Assembly pressed for the official recognition of their language on a parity with English.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the French language was treated with respect and placed on a level with English, as indicated by the Quebec Act of 1774 and the lack of objection to its use in law-courts. It also provides additional context about the demographic composition and the push for official recognition, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the answer is fully grounded in the provided context."
+  }
+}

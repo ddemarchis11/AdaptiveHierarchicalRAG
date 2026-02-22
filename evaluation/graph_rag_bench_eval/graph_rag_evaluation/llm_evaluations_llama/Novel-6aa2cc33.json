@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6aa2cc33",
+  "question": "How does the narrative chain connect Cornwall's legendary expression to Arthur and his associates, particularly through Arthur's relationship with Sir Bedevere and the pivotal event of Excalibur being thrown away?",
+  "gold_answer": "Cornwall is said to find its legendary expression in Arthur, who is connected to Sir Bedivere and pivotal events like the throwing of Excalibur, tying the region's narrative identity to Arthurian legend.",
+  "llm_answer": "The narrative chain connects Cornwall's legendary expression to Arthur and his associates by mentioning the legend of King Arthur's final battle at Camelford, where he was defeated by his nephew Mordred. The story then shifts to the scene at Dozmare Pool, where Arthur's sword Excalibur is thrown away, and he is taken away by three queens to heal his grievous wound. This event is linked to the Cornish nature, which is described as having a passionate personal fidelity, similar to that of Arthur and his faithful knight, Sir Bedevere. This connection suggests that the Cornish people still hold onto the legend of King Arthur and his associates, and that it continues to influence their culture and values.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately connects Cornwall's legendary expression to Arthur and his associates, including Sir Bedevere and the pivotal event of Excalibur being thrown away. It provides additional context about Arthur's final battle at Camelford and the Cornish nature, which aligns with the retrieved context and enhances the narrative. All key facts from the Gold Answer are included, and the details are grounded in the provided context."
+  }
+}

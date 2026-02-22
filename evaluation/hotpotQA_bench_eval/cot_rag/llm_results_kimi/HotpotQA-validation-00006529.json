@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006529",
+  "question": "What family are the genus' Sinofranchetia and Stauntonia from?",
+  "gold_answer": "a genus of flowering plant in the Lardizabalaceae family",
+  "llm_answer": "Both Sinofranchetia and Stauntonia are in the Lardizabalaceae family.",
+  "context": [
+    {
+      "text": "Sinofranchetia is a genus of flowering plant in the Lardizabalaceae family. It contains a single species , Sinofranchetia chinensis , endemic to China. Description and ecology Sinofranchetia chinensis is a deciduous , woody climber. It occurs in dense forests along valleys, forest margins, among shrubs in south-central China. References Media related to Sinofranchetia chinensis at Wikimedia Commons v t e",
+      "id": "HotpotQA-validation-00006529/00_Sinofranchetia.html_c_0"
+    },
+    {
+      "text": "Stauntonia is a genus of flowering plants in the family Lardizabalaceae . It is named after George Staunton , who brought it to Britain from China in the 19th century. Species Species accepted by the Plants of the World Online as of March 2023: Stauntonia angustifolia (Wall.) R.Br. ex Wall. Stauntonia brachyandra (H.N.Qin) Christenh. Stauntonia brunoniana (Decne.) Wall. ex Hemsl. Stauntonia cavalerieana Gagnep. Stauntonia chapaensis (Gagnep.) Christenh. Stauntonia chinensis DC. Stauntonia conspicua R.H.Chang Stauntonia coriacea (Diels) Christenh. Stauntonia crassifolia (H.N.Qin) Christenh. Stauntonia decora (Dunn) C.Y.Wu Stauntonia duclouxii Gagnep. Stauntonia filamentosa Griff. Stauntonia grandiflora (Réaub.) Christenh. Stauntonia hexaphylla (Thunb.) Decne. Stauntonia latifolia (Wall.) R.Br. ex Wall. Stauntonia libera H.N.Qin Stauntonia linearifolia (T.Chen & H.N.Qin) Christenh.",
+      "id": "HotpotQA-validation-00006529/01_Stauntonia.html_c_0"
+    },
+    {
+      "text": "Stauntonia libera H.N.Qin Stauntonia linearifolia (T.Chen & H.N.Qin) Christenh. Stauntonia maculata Merr. Stauntonia medogensis (H.N.Qin) Christenh. Stauntonia obcordatilimba C.Y.Wu & S.H.Huang Stauntonia obovata Hemsl. Stauntonia obovatifoliola Hayata Stauntonia oligophylla Merr. & Chun Stauntonia parviflora Hemsl. Stauntonia pterocaulis (T.Chen & Q.H.Chen) Christenh. Stauntonia purpurea Y.C.Liu & F.Y.Lu Stauntonia trinervia Merr. Stauntonia yaoshanensis F.N.Wei & S.L.Mo References Bibliography Don, George (1831), A General System of Gardening and Botany , vol. 1, Rivington, p. 818 v t e",
+      "id": "HotpotQA-validation-00006529/01_Stauntonia.html_c_1"
+    },
+    {
+      "text": "Silene is a genus of flowering plants in the family Caryophyllaceae . Containing nearly 900 species, it is the largest genus in the family. Common names include campion and catchfly . Many Silene species are widely distributed, particularly in the northern hemisphere. Scientific history Members of this genus have been the subject of research by preeminent plant ecologists, evolutionary biologists, and geneticists, including Charles Darwin , Gregor Mendel , Carl Correns , Herbert G. Baker , and Janis Antonovics . Many Silene species continue to be widely used to study systems, particularly in the fields of ecology and evolutionary biology. The genus has been used as a model for understanding the genetics of sex determination for over a century. Silene species commonly contain a mixture of hermaphroditic and female (or male-sterile) individuals ( gynodioecy ), and early studies by Correns showed that male sterility could be maternally inherited, an example of what is now known as cytoplasmic male sterility . Two independent groups of species in Silene have evolved separate male and female sexes ( dioecy ) with chromosomal sex determination that is analogous to the system found in humans and other mammals. Silene flowers are frequently visited by flies, such as Rhingia campestris . Silene species have also been used to study speciation, host-pathogen interactions, biological species invasions, adaptation to",
+      "id": "HotpotQA-validation-00000048/01_Silene.html_c_0"
+    },
+    {
+      "text": "Chamelaucium , also known as waxflower , is a genus of shrubs endemic to south western Western Australia . They belong to the myrtle family Myrtaceae and have flowers similar to those of the tea-trees ( Leptospermum ). The most well-known species is the Geraldton wax, Chamelaucium uncinatum , which is cultivated widely for its large attractive flowers. Description Plants of the genus Chamelaucium are woody evergreen shrubs ranging from 15 cm (6 in) to 3 m (10 ft) high. The leaves are tiny to medium-sized and arranged oppositely on the stems. They contain oil glands and are aromatic, often giving off a pleasant aroma when crushed. The flowers are small and have five petals, ten stamens, and are followed by small hardened fruit. Taxonomy The genus was first defined by French botanist René Louiche Desfontaines in 1819. The derivation of the name is unclear. They are commonly known as waxplants, or wax flowers from the waxy feel of the petals. Fourteen species are currently recognised within the genus. It gives its name to a number of closely related genera, collectively known as the Chamelaucium alliance within the family Myrtaceae; larger members include Verticordia , Calytrix , Darwinia , Micromyrtus , Thryptomene and Baeckea . Species The following species",
+      "id": "HotpotQA-validation-00006132/00_Chamelaucium.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Sinofranchetia genus placed in Lardizabalaceae family (HotpotQA-validation-00006529/00_Sinofranchetia.html_c_0)\n- Stauntonia genus also placed in Lardizabalaceae family (HotpotQA-validation-00006529/01_Stauntonia.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What family are the genus' Sinofranchetia and Stauntonia from?",
+      "doc_ids": [
+        "HotpotQA-validation-00006529/00_Sinofranchetia.html_c_0",
+        "HotpotQA-validation-00006529/01_Stauntonia.html_c_0",
+        "HotpotQA-validation-00006529/01_Stauntonia.html_c_1",
+        "HotpotQA-validation-00000048/01_Silene.html_c_0",
+        "HotpotQA-validation-00006132/00_Chamelaucium.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c4f293",
+  "question": "For which guests did Mr. Pepys arrange a special collation during the events described in his diary?",
+  "gold_answer": "Mr. Pepys had a collation for Sir Williams.",
+  "llm_answer": "Mr. Pepys arranged a special collation for the children and himself when some persons of condition came to dine with his Lady.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Mr. Pepys arranged a collation for the children and himself, which is not supported by the retrieved context or the Gold Answer. The Gold Answer specifies that the collation was for Sir Williams, and this key fact is entirely missed in the Model Answer. Additionally, the retrieved context does not provide evidence for the claim made in the Model Answer, making it unfaithful and lacking evidence coverage."
+  }
+}

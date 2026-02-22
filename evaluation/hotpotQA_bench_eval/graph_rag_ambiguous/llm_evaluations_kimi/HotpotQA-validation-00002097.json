@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002097",
+  "question": "Between a large South African genus of succulent daisy-like plants and a monotypic cycad genus native to KwaZulu-Natal, which contains more species?",
+  "gold_answer": "Othonna",
+  "llm_answer": "The large South African genus of succulent daisy-like plants, Crassothonna (formerly part of Othonna), contains more species. The monotypic cycad genus Stangeria has only one species, Stangeria eriopus.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the genus Othonna (or Crassothonna, formerly part of Othonna) contains more species compared to the monotypic genus Stangeria, which has only one species. This is consistent with the retrieved context, which mentions Othonna having approximately 90 species and Stangeria being monotypic. The Model Answer is detailed but remains accurate and grounded in the provided context."
+  }
+}

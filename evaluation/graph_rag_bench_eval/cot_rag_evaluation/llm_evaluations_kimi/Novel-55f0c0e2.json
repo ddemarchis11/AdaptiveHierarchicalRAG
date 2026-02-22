@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f0c0e2",
+  "question": "What incident in the narrative demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order?",
+  "gold_answer": "The Duke of York sent an order to Samuel Pepys.",
+  "llm_answer": "The incident is described in [Novel-4128_c_27]: the Duke of York sent Pepys and the two Sir Williams an order to report why certain ships had not been dispatched; after investigating they informed the Duke that the sole cause had been contrary winds.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the incident where the Duke of York sent an order to Samuel Pepys and the two Sir Williams to investigate the delay in dispatching ships. It provides additional context about the investigation and the conclusion that contrary winds were the cause, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded."
+  }
+}

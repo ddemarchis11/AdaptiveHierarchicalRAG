@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002698",
+  "question": "What region has the indigenous language that includes the word Catuaba?",
+  "gold_answer": "South America",
+  "llm_answer": "The word “Catuaba” is ultimately from Guarani, so the region is that of the Guarani language.",
+  "context": [
+    {
+      "text": "The Cabécar language is an indigenous American language of the Chibchan language family spoken by the Cabécar people in the inland Turrialba Region , Cartago Province , Costa Rica . As of 2007, 2,000 speakers were monolingual. It is the only indigenous language in Costa Rica with monolingual adults. The language is also known by its dialect names Chirripó, Estrella, Telire, and Ujarrás. History Cabécar is considered to be one of a few \"Chibcha-speaking tribes\", categorized by similarities in the languages that they speak. Other Chibcha speaking tribes include the Bribri and the Boruca , also of Costa Rica. It is believed that the languages of the Chibcha speaking tribes shared a common ancestor around 8,000 years ago. However, differences in the languages are thought to have come about from the influence of outside people, including influences from Mesoamerica . Geographic distribution Cabécar is an endangered language spoken in Costa Rica. It is spoken by the Cabécar people , an indigenous group located near the Talamancan mountains of Costa Rica. Dialects and varieties There are two different dialects of Cabécar, each of which has more narrow dialects within it. One of these is spoken in the north, while the other is spoken in southern parts of Costa Rica. Phonology Cabécar uses a Latin alphabet with umlauts",
+      "id": "HotpotQA-validation-00002698/03_Cabcar-language.html_c_0"
+    },
+    {
+      "text": "Bottle filled with \"Catuaba\" bark The name Catuaba ( / k ə ˈ t w ɑː b ə / kə- TWAH -bə , Brazilian Portuguese: [katuˈabɐ] ; ultimately from Guarani ) is used for the infusions of the bark of a number of trees native to Brazil . The most widely used barks are derived from the trees Trichilia catigua and Erythroxylum vaccinifolium . Other catuaba preparations use the bark of trees from the following genera or families: Anemopaegma , Ilex , Micropholis , Phyllanthus , Secondatia , Tetragastris and species from the Myrtaceae . Local synonyms are Chuchuhuasha, Tatuaba, Pau de Reposta, Piratancara and Caramuru. It is often claimed that catuaba is derived from the tree Erythroxylum catuaba , but this tree has been described only once, in 1904, and it is not known today to what tree this name referred. E. catuaba is therefore not a recognised species. Uses A commercial liquid preparation, Catuama, contains multiple ingredients, one of these being catuaba from Trichilia catigua (28.23%), in addition to Guarana (40.31%), Ptychopetalum olacoides",
+      "id": "HotpotQA-validation-00002698/00_Catuaba.html_c_0"
+    },
+    {
+      "text": "in Maléku and Spanish. According to Espinoza Romero, Mejía Marín & Ovares Barquero 2011, the school, traditionally an acculturation mechanism, has not contributed to strengthening the Maléku identity. For instance, students receive instruction of core subjects in Spanish. They have to learn how to read and write in Spanish first. When they already read and write in the mainstream language, they can learn their language. The authors claim that the norm has been the teaching of the official language: Spanish and that despite the existence of educational policies that contemplate the revitalization of the use of indigenous languages in the region, there is an absence of strategies for teaching aboriginal languages. Dialects The speakers of these three communities have declared that there are differences between the variety spoken by the communities of Margarita and El Sol and the one that is spoken by the people of Tonjibe (Avendaño 2018). Corobicí may have been a dialect. Documentation As pointed out by Constenla 1998:3, little documentation of Maléku was recorded before the latter half of the 19th century. All records from that period are included in Walter Lehmann 's 1920 volume on Central American languages. The first scholar modern linguist to deeply study the Maléku language, aside from sources reproduced by Lehmann, was Adolfo Constenla Umaña , in collaboration with many members of the Maléku",
+      "id": "HotpotQA-validation-00002698/02_Malku-language.html_c_2"
+    },
+    {
+      "text": "The Western region , located in south Ghana , spreads from the Ivory Coast ( Comoé District ) in the west to the Central region in the east, includes the capital and large twin city of Sekondi-Takoradi on the coast, coastal Axim , and a hilly inland area including Elubo . It includes Ghana's southernmost location, Cape Three Points , where crude oil was discovered in commercial quantities in June 2007. The region covers an area of 13,842 km 2 , and had a population of 2,060,585 at the 2021 Census. It has a coastline that stretches from South Ghana's border with the Ivory Coast to the boundary with the Central region on the east. Tourism The largest rivers are the Ankobra River , the Bia River, and the Pra River in the east, with the Tano River partly forming the western national border. The area is known for the UNESCO World Heritage Site, the village of Nzulezo built entirely on stilts and platforms over water and the Ankasa Protected Area . There is a series of imposing Portuguese, Dutch, British, and Brandenburgian forts along the coast, built from 1512 on. The region is an Akan region comprised Wassa, Ahanta, and Nzema. Wassa is the largest tribe in the region. However, the popular language spoken in the region is Fanti. The Western region boasts many beaches and mining companies. The popular Ghana Gold fields mine",
+      "id": "HotpotQA-validation-00006653/03_Western-Region-Ghana.html_c_0"
+    },
+    {
+      "text": "That is, for a word with a single stressed vowel, all voiced segments will be either oral or nasal, while voiceless consonants are unaffected, as in oral /ᵐbotɨ/ vs nasal /mõtɨ̃/ . Orthography Grammar Guarani is a highly agglutinative language , often classified as polysynthetic . It is a fluid-S type active language , and it has been classified as a 6th class language in Milewski's typology . It uses subject–verb–object (SVO) word order usually, but object–verb when the subject is not specified. Nouns Guarani exhibits nominal tense: past, expressed with -kue , and future, expressed with -rã . For example, tetã ruvichakue translates to \"ex-president\" while tetã ruvicharã translates to \"president-elect.\" The past morpheme -kue is often translated as \"ex-\", \"former\", \"abandoned\", \"what was once\", or \"one-time\". These morphemes can even be combined to express the idea of something that was going to be but did not end up happening. So for example, paʼirãgue is \"a person who studied to be a priest but didn't actually finish\", or rather, \"the ex-future priest\". Some nouns use -re instead of -kue and others use -guã instead of -rã .",
+      "id": "HotpotQA-validation-00002698/01_Guarani-language.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- Catuaba is ultimately from Guarani (HotpotQA-validation-00002698/00_Catuaba.html_c_0)\n- Guarani is spoken in Paraguay, Bolivia, Argentina, Brazil (HotpotQA-validation-00002698/01_Guarani-language.html_c_7)\n- Brazil explicitly named as region where catuaba trees grow (HotpotQA-validation-00002698/00_Catuaba.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What region has the indigenous language that includes the word Catuaba?",
+      "doc_ids": [
+        "HotpotQA-validation-00002698/03_Cabcar-language.html_c_0",
+        "HotpotQA-validation-00002698/00_Catuaba.html_c_0",
+        "HotpotQA-validation-00002698/02_Malku-language.html_c_2",
+        "HotpotQA-validation-00006653/03_Western-Region-Ghana.html_c_0",
+        "HotpotQA-validation-00002698/01_Guarani-language.html_c_7"
+      ]
+    }
+  ]
+}

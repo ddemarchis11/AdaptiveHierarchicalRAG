@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003482",
+  "question": "What band is a tribute to a band originally known as the Grizzly River Boys?",
+  "gold_answer": "Nashville Tribute Band",
+  "llm_answer": "The evidence does not mention any band that is a tribute to the Grizzly River Boys.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that no band is mentioned as a tribute to the Grizzly River Boys, while the Gold Answer identifies the Nashville Tribute Band as the correct response. The context supports the Gold Answer, as it mentions the Nashville Tribute Band and its connection to Diamond Rio, which originated as the Grizzly River Boys. The Model Answer is faithful to the context but fails to provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

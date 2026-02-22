@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006914",
+  "question": "What town in Piscataquis County, Maine, housed the smallest railroad in the United States in 1890?",
+  "gold_answer": "Monson, Maine",
+  "llm_answer": "The town in Piscataquis County, Maine, that housed the smallest railroad in the United States in 1890 was Monson.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Monson, Maine, as the town that housed the smallest railroad in the United States in 1890. This is consistent with the Gold Answer and is fully supported by the Retrieved Context, which explicitly mentions Monson and its railroad being the smallest in the U.S. according to Scientific American in 1890."
+  }
+}

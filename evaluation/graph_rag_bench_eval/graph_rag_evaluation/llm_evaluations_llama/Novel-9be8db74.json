@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9be8db74",
+  "question": "How does the narrative connect the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language, and what examples are given to support this linguistic relationship?",
+  "gold_answer": "The names of Egypt, Tyre, and Khati have etymology in the Maya language.",
+  "llm_answer": "The narrative connects the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language by suggesting that these names have similar meanings and origins in the Maya language. For example, the name \"Tyre\" is derived from the Maya word \"Tzur\", meaning a promontory or a number of villages, and \"Tzucub\", a province. The name \"Khati\" is derived from the Maya verb \"KAT\" or \"KATAH\", meaning to place impediments on the road, to come forth and obstruct the passage. Additionally, the name \"Canaan\" is derived from the Maya word \"Kanaan\", meaning to be tired, to be fatigued, or abundance.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the connection between the names of Egypt, Tyre, and Khati to etymological roots in the Maya language, as described in the context. It provides examples such as 'Tyre' being linked to 'Tzur' and 'Tzucub', and 'Khati' to 'KAT' or 'KATAH', which are supported by the retrieved context. The additional mention of 'Canaan' is also grounded in the context and relevant to the linguistic relationship being discussed."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003430",
+  "question": "Are Ainslee's Magazine and The Australian Women's Weekly both monthly magazines?",
+  "gold_answer": "yes",
+  "llm_answer": "The Australian Women's Weekly is a monthly magazine.  \nAinslee's Magazine was originally published as a weekly, then as a monthly from 1934 to 1938.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that The Australian Women's Weekly is a monthly magazine, as supported by the context. It also provides accurate information about Ainslee's Magazine being published as a monthly from 1934 to 1938, which aligns with the retrieved context. The additional detail about Ainslee's publication history is relevant and grounded, enhancing the response without contradicting the Gold Answer."
+  }
+}

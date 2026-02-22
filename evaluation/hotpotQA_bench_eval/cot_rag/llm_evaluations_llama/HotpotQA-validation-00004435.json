@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004435",
+  "question": "Who wrote Bring Me Sunshine and where did they write it?",
+  "gold_answer": "Bring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe",
+  "llm_answer": "I can only answer the question based on the provided evidence.\n\nThe song \"Bring Me Sunshine\" was written by Syd Barrett, but the provided evidence does not mention where he wrote it.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly attributes the authorship of 'Bring Me Sunshine' to Syd Barrett, which is not supported by the context or the Gold Answer. Additionally, the context does not provide information about the location where 'Bring Me Sunshine' was written, nor does it confirm Syd Barrett's involvement. The Model Answer fails to address the actual content of the Gold Answer and retrieved context."
+  }
+}

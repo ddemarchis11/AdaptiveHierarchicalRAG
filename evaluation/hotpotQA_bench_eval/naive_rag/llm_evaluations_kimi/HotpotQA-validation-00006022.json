@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006022",
+  "question": "Who won more Grand Slam doubles titles, Tony Roche or Jamie Murray?",
+  "gold_answer": "Anthony Dalton Roche",
+  "llm_answer": "Tony Roche won 15 Grand Slam doubles titles, while Jamie Murray has won 7 Grand Slam doubles titles (2 in men's doubles and 5 in mixed doubles).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Tony Roche as having won more Grand Slam doubles titles (15) compared to Jamie Murray (7). This is consistent with the retrieved context, which provides the relevant statistics for both players. The Model Answer also includes the breakdown of Jamie Murray's titles, which is accurate and supported by the context."
+  }
+}

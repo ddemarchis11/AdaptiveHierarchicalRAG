@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006109",
+  "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+  "gold_answer": "Anne Perry",
+  "llm_answer": "Juliet",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer 'Juliet' is incorrect. The Gold Answer 'Anne Perry' is supported by the retrieved context, which explains that Juliet Hulme changed her name to Anne Perry after her conviction and release. The Model Answer fails to provide the correct name and does not align with the context."
+  }
+}

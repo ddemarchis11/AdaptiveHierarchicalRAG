@@ -1,0 +1,12 @@
+{
+  "id": "Novel-99082e88",
+  "question": "Where did the Mayas live, as identified in the narrative's description of their primary geographic location?",
+  "gold_answer": "The Mayas lived in Central America.",
+  "llm_answer": "The narrative does not explicitly state the primary geographic location where the Mayas lived. However, it mentions that the Mayas are compared to the Egyptians, and that the customs and manners of the Mayas are similar to those of the people of Yucatan, which is a region in Mexico and Central America.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Yucatan as a region associated with the Mayas, which aligns with the Gold Answer's mention of Central America. However, the retrieved context does not explicitly confirm Yucatan as the primary geographic location of the Mayas, nor does it directly state 'Central America.' The Model Answer partially relies on inference rather than explicit grounding in the context, leading to partial correctness and faithfulness. Additionally, it misses the concise identification of 'Central America' as stated in the Gold Answer."
+  }
+}

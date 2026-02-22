@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002496",
+  "question": "What city, located in Lincoln County, Montana, United States, is Vegepet based in?",
+  "gold_answer": "Troy, Montana",
+  "llm_answer": "The city, located in Lincoln County, Montana, United States, that Vegepet is based in is not specified in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the city Vegepet is based in is not specified in the provided evidence, which is incorrect. The Gold Answer specifies Troy, Montana, and this information is supported by the Retrieved Context. The Model Answer fails to provide the correct city name, resulting in a score of 0 for correctness and evidence coverage. However, the claim that the evidence does not specify the city is faithful to the context provided."
+  }
+}

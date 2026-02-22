@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00004847",
+  "question": "In what year were the European Athletics Junior Championships held in the capital of Slovenia?",
+  "gold_answer": "1997",
+  "llm_answer": "1997",
+  "context": [
+    {
+      "text": "The 1997 European Athletics Junior Championships were held in Ljubljana , Slovenia on July 24–27. Men's results Women's results Medal table References Results - GBR Athletics Results - GBR Athletics",
+      "id": "HotpotQA-validation-00004847/00_1997-European-Athletics-Junior-Championships.html_c_0"
+    },
+    {
+      "text": "Yelena Isinbayeva set a championship record in the pole vault . Key The host country is highlighted in lavender blue See also 2001 in athletics (track and field) References General Russi, Nicholas (2006-06-14). 16th European Junior Championships 2001 - Blue sky, blue track and a lot of Italian enthusiasm . European Athletics . Retrieved on 2010-07-19. Results European Junior Championships Statistics database . European Athletics . Retrieved on 2010-07-19. European Junior Championships (Men) . GBR Athletics. Retrieved on 2010-07-19. European Junior Championships (Women) . GBR Athletics. Retrieved on 2010-07-19.",
+      "id": "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_c_2"
+    },
+    {
+      "text": "The 2001 European Athletics Junior Championships was an athletics competition for athletes under-20 which was held at the Stadio Olimpico Carlo Zecchini in Grosseto , Italy from 19 – 22 July 2001. A total of 44 events were contested, 22 by male and 22 by female athletes. Two new events were introduced into the programme: the women's 2000 metres steeplechase and the women's 10,000 m track walk (replacing the 5000 m walk event). Five new championships records were recorded over the four-day competition, in addition to the two marks set in the newly introduced events. Russia topped the medals table with eight golds and shared the honour of the greatest medal haul (17) with second placed Great Britain which won six gold medals. Poland came third with five golds, although fourth placed Germany had a larger medal total (15) but with one less gold medal. Two British sprinters were nominated as the best athletes of the tournament: Vernicha James won the women's award for her 200 metres and 4×400 metres relay gold medals, as well as a 4×400 metres relay bronze. Mark Lewis-Francis took the men's award for his 100 metres gold and for anchoring the men's sprint relay to the team title. Russian Anastasiya Ilyina won the gold in the long jump and triple jump , setting a championship record in",
+      "id": "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_c_0"
+    },
+    {
+      "text": "Oluwatosin Bamidele Oke Listen ⓘ (born 1 October 1980) is a British-Nigerian former track and field athlete, who competed in the triple jump . Born a dual national, he initially competed for Great Britain. He set the current UK junior indoor record and was 1 cm shy of the outdoor junior record. He was the 1999 European Athletics Junior Championships Champion, and came 5th at the 2002 Commonwealth Games . After multiple indoor and outdoor UK titles, he later switched to compete for Nigeria. Since competing for Nigeria he has won back-to-back African Championships in Athletics titles and the Commonwealth Games championship and is the current All-Africa Games Champion. At the 2012 Summer Olympics Oke finished seventh in the triple jump final, the best Nigerian result of the Games. Early life Oke was born in Newham , London to Yoruba Nigerian parents, and later moved to Islington, Hackney and Greenwich where he spent his late teens. Education Tosin went to Amhurst Primary School, now called Brook Community School, where he left early to attend Secondary School at King's College Lagos . After just under 2 years, he returned to London to attend Christ's College, a private School in Blackheath, followed by A-levels at Thomas Tallis sixth form. From there he went on to study Chemistry at the University of Manchester , and Osteopathy at the British School of Osteopathy . Career",
+      "id": "HotpotQA-validation-00004847/03_Tosin-Oke.html_c_0"
+    },
+    {
+      "text": "recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time of 1:09:57. Mockenhaupt said that her winter military training with the Bundeswehr had left her tired and unable to devote much time to training for the event. She came second behind Inês Monteiro at the European Cup 10000m in Marseille in June. Later that season she set a championship record to win the 10,000 m at the 2010 European Team Championships and took the national title over 5000 m at the 2010 German Athletics Championships the following month. She entered the 10,000 m at the 2010 European Athletics Championships and finished in sixth place. She turned her attentions to a debut at the Berlin Marathon in September, and even though she missed out on the podium with a fourth-place finish, she knocked a second off her best with a time of 2:26:21. She began her 2011 season on the roads, taking victories at the Rund um das Bayer-Kreuz 10K in Leverkusen and the Griesheim Half Marathon , although she dropped out mid-race at the higher profile Berlin Half Marathon . She reached the podium in Vienna in May at the Austrian Women's Run , taking third behind Ana Dulce Félix and Jéssica Augusto . That June she came third at the European Cup",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_2"
+    },
+    {
+      "text": "(1950) The Flowering Peach (1954) Director The Country Girl (1950, original Broadway production) Golden Boy (1952, revival) The Flowering Peach (1954, original Broadway production) Screenwriter The General Died at Dawn (1936) None but the Lonely Heart (1944) Humoresque (1946, screenplay adaptation, with Zachary Gold) Notorious (1946, dialogue: love scenes; uncredited) Deadline at Dawn (1946) Sweet Smell of Success (1957) The Story on Page One (1959) Wild in the Country (1961) Film director None but the Lonely Heart (1944) The Story on Page One (1959) Acting on screen The General Died at Dawn (1936) – Minor Role (uncredited) Sweet Smell of Success (1957) – Man Outside Theatre (uncredited) (final film role) Bibliography Introduction to Modern Library edition of Nikolai Gogol's Dead Souls (1936) See also List of Jewish American playwrights References External links Wikimedia Commons has media related to Clifford Odets . Wikiquote has quotations related to Clifford Odets . Archival collections Guide to the Clifford Odets Theatrical Materials. Special Collections and Archives, The UC Irvine Libraries, Irvine, California. Finding aid to Clifford Odets papers at Columbia University. Rare Book & Manuscript Library. Clifford Odets Papers, 1926–1963 held by the Billy Rose",
+      "id": "HotpotQA-validation-00002551/00_Clifford-Odets.html_c_19"
+    }
+  ],
+  "cot_scratchpad": "- Capital of Slovenia is Ljubljana (HotpotQA-validation-00004847/00_1997-European-Athletics-Junior-Championships.html_c_0).\n- 1997 European Athletics Junior Championships held in Ljubljana, Slovenia (HotpotQA-validation-00004847/00_1997-European-Athletics-Junior-Championships.html_c_0).\n- Previous search found Ljubljana hosted 1997 European Athletics Junior Championships (Novel-xxxx_c_yy).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what year were the European Athletics Junior Championships held in the capital of Slovenia?",
+      "doc_ids": [
+        "HotpotQA-validation-00004847/00_1997-European-Athletics-Junior-Championships.html_c_0",
+        "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_c_2",
+        "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_c_0",
+        "HotpotQA-validation-00004847/03_Tosin-Oke.html_c_0",
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_2"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "None",
+      "doc_ids": [
+        "HotpotQA-validation-00002551/00_Clifford-Odets.html_c_19",
+        "HotpotQA-validation-00005985/00_The-Apprentice-US-season-8.html_c_26",
+        "HotpotQA-validation-00002543/01_Jeffrey-R-MacDonald.html_c_33",
+        "HotpotQA-validation-00004571/00_Daniel-Myrick.html_c_1",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_15"
+      ]
+    }
+  ]
+}

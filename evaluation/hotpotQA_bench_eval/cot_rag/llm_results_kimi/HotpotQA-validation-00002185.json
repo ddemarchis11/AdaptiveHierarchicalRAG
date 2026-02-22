@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002185",
+  "question": "Armie Hammer stars as Oliver in a film directed by who ?",
+  "gold_answer": "Luca Guadagnino",
+  "llm_answer": "Luca Guadagnino",
+  "context": [
+    {
+      "text": "Call Me by Your Name is a 2017 coming-of-age romantic drama film directed by Luca Guadagnino . Its screenplay, by James Ivory , who also co-produced, is based on the 2007 novel by André Aciman . The film is the final installment in Guadagnino's thematic \"Desire\" trilogy, after I Am Love (2009) and A Bigger Splash (2015). Set in northern Italy in 1983, Call Me by Your Name chronicles the romantic relationship between 17-year-old Elio Perlman ( Timothée Chalamet ) and Oliver ( Armie Hammer ), a 24-year-old graduate-student assistant to Elio's father Samuel ( Michael Stuhlbarg ), an archaeology professor. The film also stars Amira Casar , Esther Garrel , and Victoire Du Bois . Development began in 2007 when producers Peter Spears and Howard Rosenman optioned the rights to Aciman's novel. Ivory was chosen to co-direct with Guadagnino, but stepped down in 2016. Guadagnino joined the project as a location scout and eventually became sole director and co-producer. Call Me by Your Name was financed by several international companies, and its principal photography took place mainly in the city and comune of Crema, Lombardy , in May and June 2016. Cinematographer Sayombhu Mukdeeprom used 35 mm film , as opposed to employing digital",
+      "id": "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_0"
+    },
+    {
+      "text": "it's always seemed phony to me.\" By contrast, Ivory cited scenes from his film Maurice (1987)—a gay romantic drama that includes male nudity—as \"a more natural way of doing things than to hide them, or to do what Luca did, which is to pan the camera out of the window toward some trees.\" Guadagnino said he understood Ivory's position, but that it was clear that there were \"no limitations on what we wanted to do.\" Casting In 2015, Shia LaBeouf and Greta Scacchi were reportedly set to be cast in the film. In September 2016, Ivory confirmed they were no longer involved in the project. Ivory said he got along with LaBeouf, who had read for the film in New York City, but the production company later felt he was unsuitable after his \"various troubles\". Ivory thought Scacchi and LaBeouf read well together and could have made it into the film, but the company disagreed. Guadagnino was impressed by Armie Hammer 's performance in The Social Network (2010), calling him a \"sophisticated actor, with a great range\". Hammer almost turned down the role of Oliver after reading the draft script because it contained nudity, saying: \"There's a lot of stuff here that I've never done on film before. But there's no way I can't do this, mostly because it scares me so much.\" Hammer had played",
+      "id": "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_14"
+    },
+    {
+      "text": "Air Mail published an article questioning the details of the accusations. Hammer admitted to consensual BDSM and emotional abuse but denied claims of sexual abuse and cannibalism . In May 2023, the LA County District Attorney declined to indict Hammer, citing insufficient evidence. In July 2024, Hammer's mother, Dru Ann, addressed the allegations in her book Hammered . He discussed the accusations and his personal changes in an interview on Piers Morgan Uncensored in July 2024, and also on The Louis Theroux Podcast in February 2025. Filmography Film Television Video games Theater Awards and nominations References External links Wikimedia Commons has media related to Armie Hammer . Armie Hammer at the American Film Institute Catalog Armie Hammer at IMDb Armie Hammer at the TCM Movie Database",
+      "id": "HotpotQA-validation-00002185/00_Armie-Hammer.html_c_14"
+    },
+    {
+      "text": "from U.N.C.L.E. , a feature film adaptation of the 1960s TV show The Man from U.N.C.L.E. , playing Illya Kuryakin , opposite Henry Cavill . 2016–2021: Career progression Hammer attending a screening of Nocturnal Animals at the 2016 BFI London Film Festival In 2016, Hammer played Sam Turner in the 2016 film The Birth of a Nation , directed by Nate Parker . The film, which premiered in competition at the Sundance Film Festival , won both the Audience Award and Grand Jury Prize in the U.S. Dramatic Competition. In January 2016, it was revealed that since 2013, Hammer was in contact with the family of the infamous drug lord Edgar Valdez Villarreal and secured the rights to film the life story of the cartel leader. He then had a role in the ensemble of Tom Ford 's psychological thriller Nocturnal Animals , played Ord in the action film Free Fire , which was written and directed by Ben Wheatley , and played U.S. Marine Mike Stevens, in Mine . In 2017, Hammer starred as Oliver in Call Me by Your Name , starring opposite Timothée Chalamet and Michael Stuhlbarg . The film, an adaptation of an André Aciman novel of the same name , was directed by Luca Guadagnino . Production began in May 2016, and the film premiered at the 2017",
+      "id": "HotpotQA-validation-00002185/00_Armie-Hammer.html_c_6"
+    },
+    {
+      "text": "The Man from U.N.C.L.E. is a 2015 spy film directed by Guy Ritchie and written by Ritchie and Lionel Wigram . It is based on the 1964 MGM television series of the same name , which was created by Norman Felton and Sam Rolfe . The film stars Henry Cavill , Armie Hammer , Alicia Vikander , Elizabeth Debicki , and Hugh Grant . The film was produced by RatPac-Dune Entertainment and Davis Entertainment while Turner Entertainment Co. , the original TV series current holder, was also involved. In 1993, John Davis obtained the rights for a film adaptation based on the original series. However, the film fell into development limbo due to multiple script rewrites. Over the years, Matthew Vaughn , David Dobkin , and Steven Soderbergh were optioned for directing until Ritchie signed on in March 2013. The film premiered at Barcelona on August 2, 2015, and was released on August 14, 2015, by Warner Bros. It received mixed reviews from critics and was a box office bomb , grossing only $110 million worldwide on a $75 million budget. Rolling Stone listed this movie 50th on the best action movies of all time. Plot In 1963, CIA Agent Napoleon Solo extracts Gaby Teller, daughter of nuclear scientist Dr. Udo Teller, from East Berlin . She does not know him, as she was left to",
+      "id": "HotpotQA-validation-00002185/02_The-Man-from-UNCLE-film.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Armie Hammer plays Oliver in Call Me by Your Name (HotpotQA-validation-00002185/00_Armie-Hammer.html_c_6)\n- Call Me by Your Name is directed by Luca Guadagnino (HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Armie Hammer stars as Oliver in a film directed by who ?",
+      "doc_ids": [
+        "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_0",
+        "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_14",
+        "HotpotQA-validation-00002185/00_Armie-Hammer.html_c_14",
+        "HotpotQA-validation-00002185/00_Armie-Hammer.html_c_6",
+        "HotpotQA-validation-00002185/02_The-Man-from-UNCLE-film.html_c_0"
+      ]
+    }
+  ]
+}

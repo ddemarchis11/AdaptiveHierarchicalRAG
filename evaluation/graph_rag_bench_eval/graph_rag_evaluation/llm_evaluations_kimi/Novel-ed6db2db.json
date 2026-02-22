@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed6db2db",
+  "question": "Trace the reasoning path from Mayab’s similarity with Hindostan to the Mayas' conflict with the Spanish.",
+  "gold_answer": "Mayab has similarity with Hindostan; Hindostan has Mayas; Mayab is a country of the Mayas, who fought the Spanish.",
+  "llm_answer": "The provided context does not trace a reasoning path from Mayab’s similarity with Hindostan to the Mayas' conflict with the Spanish.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information to trace the reasoning path from Mayab's similarity with Hindostan to the Mayas' conflict with the Spanish. However, it fails to answer the question using internal knowledge or reasoning, which is expected when the context is insufficient. Thus, the answer correctness and evidence coverage are rated as 0.0, while faithfulness to the context is rated as 1.0 since the claim aligns with the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0895dc9d",
+  "question": "During his travels in the Tunisian territory as described in the narrative, which specific locations did Captain Balfour visit, such as Kairwan, Sidi Amour Abeda, and Toser, and how was his journey characterized by being under the protection of the Bey?",
+  "gold_answer": "Captain Balfour visited Kairwan, Sidi Amour Abeda, and Toser, and was under the protection of the Bey during his travels in the Tunisian territory.",
+  "llm_answer": "Captain Balfour visited Kairwan, Sidi Amour Abeda, and Toser.  \nHis journey was conducted under the explicit protection of the Bey of the Camp, Sidi Mohammed, who took the travellers with him on his tribute-collecting expedition into the Jereed.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the locations Captain Balfour visited (Kairwan, Sidi Amour Abeda, and Toser) and accurately describes his journey as being under the protection of the Bey of the Camp, Sidi Mohammed, which is supported by the retrieved context. It aligns with the Gold Answer and includes relevant details without introducing unsupported information."
+  }
+}

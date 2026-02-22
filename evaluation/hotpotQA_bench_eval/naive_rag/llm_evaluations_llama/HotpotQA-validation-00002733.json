@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002733",
+  "question": "Season of Migration to the North  is a counter narrative to a novella by what Polish-British novelist?",
+  "gold_answer": "Joseph Conrad",
+  "llm_answer": "I cannot verify the requested information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Joseph Conrad,' as stated in the Gold Answer. Additionally, the retrieved context contains sufficient information to support the correct answer, but the model does not utilize it. Therefore, the answer is incorrect, unfaithful to the context, and lacks evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "Ruth’s educational ambitions:  \nThe records show that Ruth initially shared her sister Angeline’s desire for education; Angeline urged her to attend college, promising financial help, and Ruth did briefly return to McGrawville in 1854. However, she stayed only two months, gave up further college plans because of poor health, and instead contributed what money she could toward Angeline’s expenses.\n\nRuth’s emotional connection to Angeline:  \nRuth’s letters reveal a deep emotional dependence on Angeline. She wrote of being “very lonely” and said she had “never found … one so willing to share all my grief and joy,” underscoring the intimate, supportive bond between the sisters.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Ruth's educational ambitions and her emotional connection to Angeline, as described in the Gold Answer. It expands on the details by mentioning Ruth's brief return to McGrawville, her poor health, and her financial support for Angeline, all of which are supported by the Retrieved Context. The emotional connection is also well-explained, with direct quotes from Ruth's letters that align with the context and Gold Answer."
+  }
+}

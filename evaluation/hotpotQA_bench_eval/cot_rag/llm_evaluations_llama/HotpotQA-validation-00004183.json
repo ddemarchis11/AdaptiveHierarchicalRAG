@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004183",
+  "question": "What cast member of Flashbacks of a Fool was educated at Bryanston School in Blandford, Dorset?",
+  "gold_answer": "Emilia Fox",
+  "llm_answer": "The cast member of Flashbacks of a Fool who was educated at Bryanston School in Blandford, Dorset is Quinlan Terry.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Quinlan Terry as the cast member of Flashbacks of a Fool who was educated at Bryanston School. The correct answer, supported by the context, is Emilia Fox. Quinlan Terry is mentioned in the context but is unrelated to the film or its cast."
+  }
+}

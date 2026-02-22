@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002164",
+  "question": "The neurologist and author who compiled the first standalone introductory rulebook for a seminal fantasy tabletop roleplaying game held an academic position at which university?",
+  "gold_answer": "University of Southern California",
+  "llm_answer": "The context does not specify any academic position held by John Eric Holmes, the neurologist and author who compiled the first standalone introductory rulebook for Dungeons & Dragons.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about John Eric Holmes's academic position, which is faithful to the context. However, it fails to answer the question correctly, as the Gold Answer specifies the University of Southern California, which is not mentioned in the retrieved context. The Model Answer does not include the key fact from the Gold Answer, resulting in low evidence coverage and incorrectness."
+  }
+}

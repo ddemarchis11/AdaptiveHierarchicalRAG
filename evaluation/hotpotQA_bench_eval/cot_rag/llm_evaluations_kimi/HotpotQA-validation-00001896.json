@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001896",
+  "question": "What scientist as well as a practising Roman Cathloic described the electronic voice phenomena as typically brief, usually the length of a work or short phrase?",
+  "gold_answer": "Konstantīns Raudive",
+  "llm_answer": "Konstantīns Raudive",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Konstantīns Raudive as the scientist and practising Roman Catholic who described electronic voice phenomena as typically brief, usually the length of a word or short phrase. This aligns with the Gold Answer and is fully supported by the Retrieved Context."
+  }
+}

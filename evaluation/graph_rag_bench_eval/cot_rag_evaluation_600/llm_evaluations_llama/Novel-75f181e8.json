@@ -1,0 +1,12 @@
+{
+  "id": "Novel-75f181e8",
+  "question": "During the travelers' excursions from The Lizard, to which beach did Charles offer to drive the party for sightseeing and bathing?",
+  "gold_answer": "Charles drove to Kennack Sands.",
+  "llm_answer": "I cannot determine which beach Charles offered to drive the party for sightseeing and bathing.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct beach name, Kennack Sands, as stated in the Gold Answer. Additionally, the retrieved context does not explicitly mention Kennack Sands or provide relevant information to support the Model Answer's uncertainty. Therefore, the response is incorrect, ungrounded, and lacks coverage of the key fact."
+  }
+}

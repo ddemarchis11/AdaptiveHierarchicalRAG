@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001872",
+  "question": "What is the standard distance in kilometres of the race in which a German long-distance runner set her personal best time?",
+  "gold_answer": "42.195",
+  "llm_answer": "The standard distance in kilometres of the race in which Sabrina Mockenhaupt set her personal best time is not explicitly stated in the provided context. However, it can be inferred that the 10,000 metres is approximately 10 kilometres.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the race distance as 10 kilometers, which is not supported by the context or the Gold Answer. The correct distance, 42.195 kilometers, pertains to the marathon, which is explicitly mentioned in the context as one of Sabrina Mockenhaupt's specialties. The Model Answer fails to address the correct race distance and does not align with the Gold Answer or the retrieved context."
+  }
+}

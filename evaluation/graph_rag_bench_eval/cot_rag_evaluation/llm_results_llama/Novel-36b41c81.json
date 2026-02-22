@@ -1,0 +1,42 @@
+{
+  "id": "Novel-36b41c81",
+  "question": "In the manufacture of agglomerated artificial fuel, what substance is coal dust mixed with to create the final product?",
+  "gold_answer": "Coal dust is mixed with grains.",
+  "llm_answer": "The substance that coal dust is mixed with to create the final product in the manufacture of agglomerated artificial fuel is coal pitch.",
+  "context": [
+    {
+      "text": "the upper edge of the opening should be level with the lower side of the sweep of the fan blade, somewhat as shown in Fig. 5. [Illustration: FIG. 5] A considerable number of patents has been taken out for improvements in the construction of fans, but they all, or nearly all, relate to modifications in the form of the case and of the blades. So far, however, as is known, it appears that, while these things do exert a marked influence on the noise made by a fan, and modify in some degree the efficiency of the machine, that this last depends very much more on the proportions adopted than on the shapes--so long as easy curves are used and sharp angles avoided. In the case of fans running at low speeds, it matters very little whether the curves are present or not; but at high speeds the case is different.--_The Engineer_. MACHINE FOR COMPRESSING COAL REFUSE INTO FUEL. The problem as to how the refuse of coal shall be utilized has been solved in the manufacture from it of an agglomerated artificial fuel, which is coming more and more into general use on railways and steamboats, in the industries, and even in domestic heating. The qualities that a good agglomerating machine should present are as follows: 1. Very great simplicity, inasmuch as it is called upon to operate in an atmosphere charged with coal dust, pitch, and steam; and, under such conditions, it is",
+      "id": "Novel-8559_c_43"
+    },
+    {
+      "text": "as it is called upon to operate in an atmosphere charged with coal dust, pitch, and steam; and, under such conditions, it is important that it may be easily got at for cleaning, and that the changing of its parts (which wear rapidly) may be effected without, so to speak, interrupting its running. 2. The compression must be powerful, and, that the product may be homogeneous, must operate progressively and not by shocks. It must especially act as much as possible upon the entire surface of the conglomerate, and this is something that most machines fail to do. 3. The removal from the mould must be effected easily, and not depend upon a play of pistons or springs, which soon become foul, and the operation of which is very irregular. The operations embraced in the manufacture of this kind of fuel are as follows: The refuse is sifted in order to separate the dust from the grains of coal. The dust is not submitted to a washing. The grains are classed into two sizes, after removing the nut size, which is sold separately. The grains of each size are washed separately. The washed grains are either drained or dried by a hydro-extractor in order to free them from the greater part of the water, the presence of this being an obstacle to their perfect agglomeration. The water, however, should not be entirely extracted because the combustibles being poor conductors of heat, a certain amount of dampness must be preserved to",
+      "id": "Novel-8559_c_44"
+    },
+    {
+      "text": "water, however, should not be entirely extracted because the combustibles being poor conductors of heat, a certain amount of dampness must be preserved to obtain an equal division of heat in the paste when the mixture is warmed. After being dried the grains are mixed with the coal dust, and broken coal pitch is added in the proportion of eight to ten per cent. of the coal. The mixture is then thrown into a crushing machine, where it is reduced to powder and intimately mixed. It then passes into a pug-mill into which superheated steam is admitted, and by this means is converted into a plastic paste. This paste is then led into an agitator for the double purpose of freeing it from the steam that it contains, and of distributing it in the moulds of the compressing machine. [Illustration: IMPROVED MACHINE FOR COMPRESSING REFUSE COAL INTO FUEL.] Bilan's machine, shown in the accompanying cut, is designed for manufacturing spherical conglomerates for domestic purposes. It consists of a cast iron frame supporting four vertical moulding wheels placed at right angles to each other and tangent to the line of the centers. These wheels carry on their periphery cavities that have the form of a quarter of a sphere. They thus form at the point of contact a complete sphere in which the material is inclosed. The paste is thrown by shovel, or emptied by buckets and chain, into the hopper fixed at the upper part of the",
+      "id": "Novel-8559_c_45"
+    },
+    {
+      "text": "An automatic engine costs more than a plain slide-valve engine, but it will depend upon the cost of fuel at the location where the engine is to be placed, and the number of hours per day it is kept running, to decide which class of machine can be adopted with the greatest economy to the proprietor. The cost of lubricating materials, fuel, repairs, and percentage of cost to be put aside for depreciation, will be less in case of the high-class than in the low-class engine, while the former will also require less boiler power. Against these advantages are to be set the greater first cost of the automatic engine, and the consequent annual charge due to capital sunk. These several items should all be fairly estimated when an engine is to be bought, and the kind chosen accordingly. Let us take the item of fuel, for instance, and let us suppose this fuel to cost four dollars per ton at the place where the engine is run. Suppose the engine to be capable of developing one hundred horse-power, and that it consumes five pounds of coal per hour per horse-power, and runs ten hours per day: this would necessitate the supply of two and one-half tons per day at a cost of ten dollars per day. To be really economical, therefore, any improvement which would effect a saving of one pound of coal per hour per horse-power must not cost a greater sum per horse-power than that on which the cost of the difference of the coal saved (one pound of coal per",
+      "id": "Novel-8559_c_18"
+    },
+    {
+      "text": "east where the Sultan's palace stands. The streets are crooked, of uneven width, unpaved, and dirty in winter, and full of dust in summer. There are several public squares and marketplaces. The Kaessaria, or commercial quarter, is extensive, exhibiting every species of manufacture and natural product. The manufactures of this, as of other large places, are principally, silks, embroidery, and leather. The merchants of Mogador have magazines here; this capital has also its caravans, which trade to the interior, passing through Wadnoun to the south. The Imperial palace is without the city and fortified with strong walls. There are large gardens attached, in one of which the Emperor receives his merchants and the diplomatic agents. The air of the country, at the foot of the Atlas, is pure and salubrious. The city is well supplied with water from an aqueduct, connecting it with the river Tensift, which flows from the gorges of the Atlas. But the inhabitants, although they enjoy this inestimable blessing in an African climate, are not famous for their cleanliness; Morocco, if possessing any particular character, still must be considered as a commercial city, for its learning is at a very low ebb. Its interior wears a deeply dejected, nay a profoundly gloomy aspect.   \"Horrendum incultumque specus.\" and the European merchants, when they come up here are glad to get away as",
+      "id": "Novel-10356_c_116"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The manufacture of agglomerated artificial fuel involves mixing coal dust with another substance.\n- The substance is added in the proportion of eight to ten percent of the coal.\n- The mixture is then thrown into a crushing machine, where it is reduced to powder and intimately mixed.\n- The substance is coal pitch.\n- (Novel-8559_c_45)\",\n- \"enough\": false,",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the manufacture of agglomerated artificial fuel, what substance is coal dust mixed with to create the final product?",
+      "doc_ids": [
+        "Novel-8559_c_43",
+        "Novel-8559_c_44",
+        "Novel-8559_c_45",
+        "Novel-8559_c_18",
+        "Novel-10356_c_116"
+      ]
+    }
+  ]
+}

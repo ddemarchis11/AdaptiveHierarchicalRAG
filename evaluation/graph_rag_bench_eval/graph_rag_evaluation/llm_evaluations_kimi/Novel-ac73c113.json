@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac73c113",
+  "question": "Where is the ROYAL COURT THEATRE located?",
+  "gold_answer": "The ROYAL COURT THEATRE is located in SLOANE SQUARE.",
+  "llm_answer": "The provided context does not mention the location of the ROYAL COURT THEATRE.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the location of the ROYAL COURT THEATRE. However, it fails to answer the user's question, which is explicitly answered in the Gold Answer ('Sloane Square'). The answer is faithful to the context but does not contain the required factual information or evidence coverage."
+  }
+}

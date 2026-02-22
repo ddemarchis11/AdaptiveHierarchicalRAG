@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9be8db74",
+  "question": "How does the narrative connect the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language, and what examples are given to support this linguistic relationship?",
+  "gold_answer": "The names of Egypt, Tyre, and Khati have etymology in the Maya language.",
+  "llm_answer": "The narrative links the names Egypt, Tyre, and Khati to Maya etymologies as follows:\n\n- **Khati (Hittites):**  \n  – The people are called *Khati* because Maya *KAT / KATAH* means “to place impediments on the road,” matching their role as obstructers of Egyptian and Assyrian conquests.  \n  – Their emporium *Carchemish* is read as *cah-chemul* (“city of navigators/merchants”), from *cah* “city” + *chemul* “navigator.”  \n  – Their sacred city *Katish* is read as *cah-tich* (“city where the first-fruits ceremony is offered”), from *cah* “city” + *tich* the name of that Maya rite.\n\n- **Tyre:**  \n  – The name *Tyre* (Phoenician *Tzur*) is derived from Maya *TZUC* “promontory,” a formation suited to a rock-based port.\n\n- **Egypt (Mizraim):**  \n  – Scriptural *Mizraim* is traced to Maya *MIZ* “to clean, remove rubbish of dead trees,” evoking the need to clear the flood-silted land.  \n  – The Nile’s name *Hapimu* is read as *HA* “water” + *PIMIL* “thickness/depth,” yielding “abyss of water.”  \n  – *Thebes* (Egyptian *Ta-pe*) is linked to Maya *Teppal* “to reign, govern,” reinforcing its status as the ruling capital.\n\nThese proposed Maya roots are presented as the explicit etymologies for each name.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately connects the names Egypt, Tyre, and Khati to Maya etymological roots, as described in the Retrieved Context. It provides detailed examples, such as the derivation of Khati from Maya 'KAT/KATAH,' Tyre from 'TZUC,' and Egypt's Mizraim from 'MIZ,' all of which are supported by the context. The answer is both correct and faithful, and it covers all key facts mentioned in the Gold Answer."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Novel-79a788b8",
+  "question": "Within the narrative's depiction of famous courtesans, throughout which region did Lais become renowned for her beauty?",
+  "gold_answer": "Lais became famous throughout Greece.",
+  "llm_answer": "She became famous throughout Greece.",
+  "context": [
+    {
+      "text": "fitted loosely on the body, and was not girded when the 'stola' or outer tunic was put on. Poor people, who could not afford to purchase a 'toga,' wore the tunic alone; whence we find the lower classes called by the name of 'tunicati.'] [Footnote 056: Her flowing hair.--Ver. 10. 'Dividuis,' here means, that her hair was scattered, flowing over her shoulders and not arranged on the head in a knot.] [Footnote 057: Semiramis.--Ver. 11. Semiramis was the wife of Ninus, king of Babylon, and was famous for her extreme beauty, and the talent which she displayed as a ruler. She was also as unscrupulous in her morals as the fair one whom the Poet is now describing.] [Footnote 058: And Lais.--Ver. 12. There are generally supposed to have beén two famous courtesans of the name of Lais. The first was carried captive, when a child, from Sicily, in the second year of the 91st Olympiad, and being taken to Corinth, became famous throughout Greece for her extreme beauty, and the high price she put upon her favours. Many of the richest and most learned men resorted to her, and became smitten by her charms. The second Lais was the daughter of Alcibiades, by his mistress,",
+      "id": "Novel-47676_c_160"
+    },
+    {
+      "text": "when the night has gone, and still the day is not risen. Such light should be given to the bashful fair, in which coy modesty may hope to have concealment. Behold! Corinna [054] came, clothed in a tunic [055] hanging loose, her flowing hair [056] covering her white neck. Beauteous Semiramis [057] is said to have entered her chamber, and Lais, [058] beloved by many a hero. I drew aside the tunic; in its thinness [059] it was but a small impediment; still, to be covered with the tunic did she strive; and, as she struggled as though she was not desirous to conquer, without difficulty was she overcome, through betrayal of herself. When, her clothing laid aside, she stood before my eyes, throughout her whole body nowhere was there a blemish. What shoulders, what arms I _both_ saw and touched! The contour of her breast, how formed was it to be pressed! How smooth her stomach beneath her faultless bosom! How full and how beauteous her sides! How plump with youthfulness the thigh! _But_ why enlarge on every point? Nothing did I behold not worthy of praise; and I pressed her person even to my own. The rest, who knows not? Wearied, we both reclined. May such a midday often prove my lot.",
+      "id": "Novel-47676_c_12"
+    },
+    {
+      "text": "10. Orestes avenged the death of his father, Agamemnon, by slaying his own mother, Clytemnestra, together with her paramour, Ægistheus. He also attempted to attack the Furies, when they haunted him for the murder of his mother.] [Footnote 082: Daughter of Schceneus.--Ver. 13. Atalanta, the Arcadian, or Mae-nalian, was the daughter of Iasius, and was famous for her skill in the chase. Atalanta, the Boeotian, was the daughter of Schceneus, and was renowned for her swiftness, and for the race in which she was outstripped by Hippomenes. The Poet has here mistaken the one for the other, calling the Arcadian one the daughter of Schoeneus. The story of the Arcadian Atalanta is told in the Eighth Book of the Metamorphoses, and that of the daughter of Schceneus, at the end of the Tenth Book of the same work.] [Footnote 083: The Cretan damsel.--Ver. 16. Ariadne, the daughter of Minos, when deserted on the island of Naxos or Cea.] [Footnote 084: Cassandra.--Ver. 17. Cassandra being a priestess, would wear the sacred fillets, 'vittse.' She was",
+      "id": "Novel-47676_c_166"
+    },
+    {
+      "text": "according to tradition, African, one of the most ancient, for having come with Afrikio. \"Ben Kis Ben Taifi Ben Teba, the younger, who came from the king of the Assyrians, to the land of the west. \"None of these primitive tribes appear to have been known to the Romans, their historians, however, have transmitted to us many names of other aboriginal tribes, some of which resemble fractions now existing, as the Getules are probably the present Geudala or Geuzoula. But the present Berbers do not correspond with the names of the five original people just mentioned. In Morocco, there are Amayeegh and Shelouh, in Algeria the Kabyles, in Tunis the Aoures, sometimes the Shouwiah, and in Sahara the Touarichs. There are, besides, numerous subdivisions and admixtures of these tribes.\" [15] Monsieur Balbi is decidedly the most recent, as well as the best authority to apply to for a short and definite description of this most celebrated mountain system, called by him \"Systeme Atlantique,\" and I shall therefore annex what he says on this interesting subject, \"Orographie.\" He says--\"Of the 'Systeme Atlantique,' which derives its name from the Mount Atlas, renowned for so many centuries, and still so little known; we include in this vast system, all the heights of the region of",
+      "id": "Novel-10356_c_256"
+    },
+    {
+      "text": "Stuka, in which district are twenty settlements, or rather towns, some of which are large. They are known in general by the names of the Sheikhs who inhabit them. I stopped at Sheikh Hamed's. Tilin was distant from this spot a day's journey in the mountains towards the source of the river. If by Talent, Tissert is meant, Oferen (a town) is distant six miles.\" On the province of Sous generally, Don J.A. Conde has this note:-- \"In this region (Sous) near the sea, is the temple erected in honour of the prophet Jonas; it was there he was cast out of the belly of the whale.\" This temple, says Assed Ifriki, is made of the bones of whales which perish on this coast. A little further on, he alludes to the breaking of horses, and being skilful in bodily exercises, for the Moors and Numidians have always been renowned in that respect. In the lesser and more remote towns, I have followed generally the enumeration of Count Graeberg, but there are many other places on the maps, with varieties of names or differences of position. Our geography of the interior of Morocco, especially in the South, is still very obscure, and I have only selected those towns and places of whose present existence there is no question. My object, in the above enumeration, has been simply to give the reader a proximate estimate of",
+      "id": "Novel-10356_c_138"
+    }
+  ],
+  "cot_scratchpad": "- Lais was carried from Sicily to Corinth (Novel-47676_c_160).\n- After arriving at Corinth she became famous throughout Greece (Novel-47676_c_160).\n- Two courtesans named Lais are mentioned, but only the first is linked to Greece-wide renown (Novel-47676_c_160).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Within the narrative's depiction of famous courtesans, throughout which region did Lais become renowned for her beauty?",
+      "doc_ids": [
+        "Novel-47676_c_160",
+        "Novel-47676_c_12",
+        "Novel-47676_c_166",
+        "Novel-10356_c_256",
+        "Novel-10356_c_138"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5eb342b1",
+  "question": "During the debates in the Lower Canada Assembly regarding the grievances against the colonial government, which prominent figure opposed the Ninety-Two Resolutions that were presented as the Patriote party's demands?",
+  "gold_answer": "Quesnel opposed the Ninety-Two Resolutions.",
+  "llm_answer": "Unfortunately, the provided context does not mention any specific prominent figure who opposed the Ninety-Two Resolutions. However, it does mention that all those members of the Patriote party who had opposed the Resolutions suffered defeat at the polls in the general election that followed.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to identify Quesnel as the prominent figure who opposed the Ninety-Two Resolutions, which is the core of the Gold Answer. While the Model Answer is faithful to the retrieved context, it does not address the specific factual point required by the question, resulting in low evidence coverage and correctness."
+  }
+}

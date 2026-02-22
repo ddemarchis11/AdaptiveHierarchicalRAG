@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006772",
+  "question": "When did the man for whom St Vincents Hall, Grantham was built found his eponymous company?",
+  "gold_answer": "1828",
+  "llm_answer": "Richard Hornsby founded his eponymous company in 1828.",
+  "context": [
+    {
+      "text": "Front entrance of St Vincents Hall Cochrane , Gibson , King George VI and Whitworth discussing the Dambusters Raid. St Vincents Hall is a Gothic Revival mansion in Grantham , Lincolnshire , England. It is a Grade II listed building . History The house was designed in the Gothic Revival style and built for the industrialist Richard Hornsby , who founded Richard Hornsby & Sons , an engine and machinery manufacturer, in 1868. The Hornsby family sold the property to the Paravicini family before the building was sold to the Air Ministry . The 1920s witnessed many visitors including Tsar Nicholas of Russia's brother fleeing the Bolsheviks. St Vincents Hall is best known for being the Second World War HQ of 5 Group Bomber Command between October 1937 and November 1943 and was where Operation Chastise of May 1943 – immortalized in The Dam Busters film – was planned. On the night of 16/17 May 1943 Air Marshall Arthur Harris , Barnes Wallis and other RAF high command were in St Vincents Hall when coded radio messages were received confirming that the raid had breached the Möhne and Eder dams. Air Marshall Harris is reputed to have said to Barnes Wallis: \"Wallis, I didn't believe a word you said about this damn bomb, but you could sell me a pink elephant now\". In December 1943 the building",
+      "id": "HotpotQA-validation-00006772/00_St-Vincents-Hall.html_c_0"
+    },
+    {
+      "text": "Jackie Gilroy (1942 – 25 February 2007) was a Gaelic footballer who played for St Vincents and the Dublin county team . He was born in Drumcondra , County Dublin . He won an All-Ireland medal with Dublin in 1963 as part of the Dublin senior football panel. Dublin defeated Galway in the final at Croke Park .  Jackie won the All-Ireland Minor Football Championship with Dublin in 1958. Gilroy was the chairman of St Vincents GAA club from 1973 until 1977. He was the club secretary between 1978 and 1979 and then became the Chairman again for the term 1988 to 1989. Jackie spent his working life working in newspaper production. Jackie was the father of former Dublin senior football manager Pat Gilroy . References External links St Vincents Tribute to Gilroy v t e",
+      "id": "HotpotQA-validation-00006772/02_Jackie-Gilroy.html_c_0"
+    },
+    {
+      "text": "Hornsby chain tractor. Working scale model at Lincoln steam fair 2008 Richard Hornsby & Sons was an engine and machinery manufacturer in Grantham , Lincolnshire, England from 1828 until 1918. The company was a pioneer in the manufacture of the oil engine developed by Herbert Akroyd Stuart , which was marketed under the Hornsby-Akroyd name. The company developed an early track system for vehicles, selling the patent to Holt & Co. (predecessor to Caterpillar Inc. ) in America. In 1918, Richard Hornsby & Sons became a subsidiary of the neighbouring engineering firm Rustons of Lincoln , to create Ruston & Hornsby . Formation The company took the name of Richard Hornsby (1790–1864), an agricultural engineer. The company was founded when Hornsby opened a blacksmith 's in Grantham , Lincolnshire, in 1815 with Richard Seaman, after joining Seaman's business in 1810. The company became Richard Hornsby & Sons in 1828, when Hornsby bought out his partner's ownership, when Seaman retired. Product range and inventions Hornsby & Sons Traction engine (1894) Agricultural machinery Richard Hornsby & Sons grew into a major manufacturer of agricultural machinery at their Spittle Gate Works.  The firm went on to produce steam engines used to drive threshing machines, and other equipment such as traction engines",
+      "id": "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_c_0"
+    },
+    {
+      "text": "I didn't believe a word you said about this damn bomb, but you could sell me a pink elephant now\". In December 1943 the building became headquarters for the USAAF 's Ninth Air Force 's IX Troop Carrier Command . After the war the house was retained by the Air Ministry and in 1960 became the headquarters of the Air Ministry Works Directorate No 1 Area, housing civil, mechanical and electrical engineers and surveyors. In 1962, the property agencies of the Air Ministry, Admiralty and War Office were amalgamated into the Ministry of Public Building and Works. Two years later, the Ministry was reorganised and St Vincents became surplus to requirements. It was eventually purchased by South Kesteven District Council and became home to the local planning authority. St Vincents is now privately owned. Architecture The house is made of rock-faced limestone with ashlar dressings and steeply pitched Welsh slate roofs, with decorative ridge tiles. Ashlar coped gables with moulded kneelers and finials. North front entrance has central projecting gabled wing, with single storey, lean to, porch to the left. The doorway has a pointed arched moulded ashlar surround, with marble shafts, and hood mould. Above is a moulded ashlar parapet pierced with quatrefoils. To the right a 2-light chamfered window, with tracery, above a single plain sash, in a",
+      "id": "HotpotQA-validation-00006772/00_St-Vincents-Hall.html_c_1"
+    },
+    {
+      "text": "at Essanay was called His New Job . Another notable actress who found a beginning at Essanay Studio was Gloria Swanson . Swanson would later star in many television and film productions including the smash hit Sunset Boulevard . Despite booming success under Charlie Chaplin, Essanay Studios soon faced a downturn. Chaplin did not like Chicago due to unpredictable weather conditions. After only one month of work, Chaplin left Chicago to head west. Spoor and Anderson soon hired French comedian, Max Linder , to take the role of Chaplin. Linder's wry humor was not appreciated by the Chicago audiences. The company suffered economically due to the inability to produce a popular film. In 1918 George Kleine purchased the studio to form a merger between Vitagraph, Lubin, Selig, and Essanay known as V-L-S-E, Incorporated which would eventually be absorbed by Warner Brothers . The Essanay location would eventually be taken over by industrial film producer, Norman Wilding. Currently, the remnants of the studio are part of St. Augustine's College which built a Charlie Chaplin memorial theater on site. Motion Picture Patents Company The rise of the Chicago film industry in the early 1900s was a product of technological advancement marked by political strategy. In 1889, Thomas Edison and William Dickson patented the Kinetoscope . The Kinetoscope allowed a single viewer to watch a film reel through a small window. At this time, Edison did not",
+      "id": "HotpotQA-validation-00000829/02_Chicago-film-industry.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- St Vincents Hall, Grantham was built for industrialist Richard Hornsby (Novel-xxxx_c_0).\n- Richard Hornsby founded Richard Hornsby & Sons, an engine and machinery manufacturer, in 1868 (Novel-xxxx_c_0).\n- No further retrieval needed to answer the exact founding year of his eponymous company.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "When did the man for whom St Vincents Hall, Grantham was built found his eponymous company?",
+      "doc_ids": [
+        "HotpotQA-validation-00006772/00_St-Vincents-Hall.html_c_0",
+        "HotpotQA-validation-00006772/02_Jackie-Gilroy.html_c_0",
+        "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_c_0",
+        "HotpotQA-validation-00006772/00_St-Vincents-Hall.html_c_1",
+        "HotpotQA-validation-00000829/02_Chicago-film-industry.html_c_3"
+      ]
+    }
+  ]
+}

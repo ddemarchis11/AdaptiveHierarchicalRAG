@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7409b4bb",
+  "question": "While building her collection of medals and decorations, what item did Miss Catherwaight find on Bowery, and why was it noteworthy?",
+  "gold_answer": "Miss Catherwaight found a silver medal on Bowery.",
+  "llm_answer": "She found a medal in a Bowery pawnshop that had been stolen from Mr. Lockwood’s safe during a burglary.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Miss Catherwaight found a medal in a Bowery pawnshop and provides additional context about its origin, stating it was stolen from Mr. Lockwood's safe during a burglary. This is supported by the retrieved context. However, the Gold Answer specifies the medal was silver, which the Model Answer omits, leading to partial evidence coverage."
+  }
+}

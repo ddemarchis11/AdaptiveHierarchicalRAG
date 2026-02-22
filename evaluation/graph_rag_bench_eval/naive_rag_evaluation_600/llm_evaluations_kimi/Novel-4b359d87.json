@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4b359d87",
+  "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+  "gold_answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+  "llm_answer": "The diary shows Pepys repeatedly going “from ship to ship to give order for and take notice of their forwardness to go forth” at Woolwich and Deptford, and later escorting Lady Jemimah and Paulina to see the dancing monkeys at Bartholomew Fair after having been among the ships. These episodes—inspecting the fleet at Woolwich and Deptford and still moving in maritime company—illustrate how naval business is woven into his everyday round.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning Pepys's inspection of ships at Woolwich and Deptford, which aligns with the Gold Answer. However, the claim about escorting Lady Jemimah and Paulina to see dancing monkeys at Bartholomew Fair is unsupported by the retrieved context and irrelevant to the question of maritime involvement. The context does not confirm the specific actions described in the Model Answer, making it unfaithful to the provided evidence."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001629",
+  "question": "Who was born earlier — a contemporary Malayalam film actor known for comedic supporting roles, or a Belgian-born French silent film director active in the early twentieth century?",
+  "gold_answer": "Jacques Feyder",
+  "llm_answer": "The Belgian-born French silent film director, Jacques Feyder, was born earlier. He was born on 21 July 1885, while the context does not provide a birthdate for the contemporary Malayalam film actor.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Jacques Feyder as the individual born earlier, based on the provided birthdate of 21 July 1885. The context does not provide a birthdate for the contemporary Malayalam film actor, making the comparison valid and grounded in the retrieved information."
+  }
+}

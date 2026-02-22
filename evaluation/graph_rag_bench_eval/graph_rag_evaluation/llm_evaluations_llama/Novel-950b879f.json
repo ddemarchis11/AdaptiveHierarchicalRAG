@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "The records do not provide direct information about Ruth's educational ambitions. However, they do suggest that Ruth admired Angeline's writing and was emotionally connected to her, as evidenced by her enthusiastic response to Angeline's letter and her appreciation for Angeline's verses.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address Ruth's educational ambitions and her emotional connection to Angeline as described in the Gold Answer. It does not mention Ruth's ability to complete the scientific course in two years or her feelings of loneliness without Angeline, which are central to the Gold Answer. Additionally, the claims made in the Model Answer are not supported by the retrieved context."
+  }
+}

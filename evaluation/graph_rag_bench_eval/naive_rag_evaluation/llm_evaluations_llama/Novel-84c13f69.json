@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c13f69",
+  "question": "Who provides meals for The Dean during his time in custody, drawing upon her past experience as the Deanery cook?",
+  "gold_answer": "Hannah provides meals for The Dean.",
+  "llm_answer": "It is not explicitly stated in the provided context that The Dean is in custody. However, it is mentioned that The Dean is in a difficult situation and is being confronted by Noah and others.\n\nIt is also mentioned that Georgiana, the Dean's daughter, is providing for The Dean's needs, including ordering a hamper with a cold chicken, some French rolls, and two bottles of Heidsieck, labeled \"George Tidd.\" This suggests that Georgiana is taking care of her father's needs, possibly as a way of showing her affection and support.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Georgiana as the provider of meals for The Dean, which contradicts the Gold Answer stating that Hannah provides meals. Additionally, the context does not support the claim that Georgiana is taking care of The Dean's needs in this manner. The Model Answer fails to address the core factual point and is not grounded in the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-793b51bf",
+  "question": "Which influential social group in Lower Canada remained loyal to the British crown during the years following the conquest and throughout the early colonial period?",
+  "gold_answer": "The seigneurs were loyal to the British crown.",
+  "llm_answer": "The clergy, the seigneurs, and the professional classes (lawyers, physicians, and notaries) remained loyal to the British crown.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the seigneurs as loyal to the British crown, which aligns with the Gold Answer. Additionally, it includes other groups such as clergy and professional classes, which are supported by the Retrieved Context. However, the Gold Answer specifically focuses on the seigneurs, and the Model Answer does not emphasize them as the primary group, leading to partial evidence coverage."
+  }
+}

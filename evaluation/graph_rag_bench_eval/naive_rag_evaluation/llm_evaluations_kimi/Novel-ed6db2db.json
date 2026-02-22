@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed6db2db",
+  "question": "Trace the reasoning path from Mayab’s similarity with Hindostan to the Mayas' conflict with the Spanish.",
+  "gold_answer": "Mayab has similarity with Hindostan; Hindostan has Mayas; Mayab is a country of the Mayas, who fought the Spanish.",
+  "llm_answer": "The text never links the cultural parallels between Mayab and Hindostan to the later Spanish-Maya wars.  \nIt only argues that:\n\n- Sculptural and linguistic echoes across the Pacific show an ancient, trans-oceanic connection, not that one region civilized the other.  \n- Those shared traits (architecture, rites, the name “Maya,” etc.) are treated as evidence of very old contact, not as a cause of later historical events.  \n\nThe document ends its narrative with the observation that the Maya “innate propensity” was to exclude or kill intruders, a habit still visible among remote Maya groups in colonial times. It does not proceed from this remark to the specific Spanish conquest; therefore no reasoning path from the Hindostan parallels to the Spanish conflict is supplied.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not explicitly link the cultural parallels between Mayab and Hindostan to the Spanish-Maya wars. However, it fails to trace the reasoning path implied in the Gold Answer, which connects Mayab's similarity with Hindostan to the Mayas' identity and their conflict with the Spanish. While the Model Answer is faithful to the context, it does not fully address the reasoning path or include all key facts from the Gold Answer, such as the direct mention of Mayab being a country of the Mayas who fought the Spanish."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000586",
+  "question": "Fantasy Records is know for recordings of comedian Lenny Bruce, Creedence Clearwater Revival, and what American jazz pianist who composed the music for the animated television adaptations of the \"Peanuts\" comic strip?",
+  "gold_answer": "Vincent Anthony Guaraldi",
+  "llm_answer": "Vince Guaraldi",
+  "context": [
+    {
+      "text": "Fantasy Records is an American independent record label company founded by brothers Max and Sol Stanley Weiss in 1949. The early years of the company were dedicated to issuing recordings by jazz pianist Dave Brubeck , who was also one of its investors, but in more recent years the label has been known for its recordings of comedian Lenny Bruce , jazz pianist Vince Guaraldi , the last recordings made on the Wurlitzer organ in the San Francisco Fox Theatre before the theatre was demolished, organist Korla Pandit , the 1960s rock band Creedence Clearwater Revival , bandleader Woody Herman , and disco and R&B singer Sylvester . Formation Logo used from 1971 to the mid-2000s In 1949, Jack Sheedy, owner of a San Francisco-based record label called Coronet, was talked into making the first recording of an octet and a trio featuring Dave Brubeck (not to be confused with either the Australian Coronet Records or the New York City-based Coronet Records of the late 1950s). Sheedy's Coronet Records had recorded area Dixieland bands. But he was unable to pay his bills, and in 1949 he turned his masters over to a pressing company, the Circle Record Company, which was owned by Max and Sol Weiss. The Weiss brothers changed the name of their business to Fantasy Records and met an increasing demand for Brubeck's music by recording and issuing new records.",
+      "id": "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_0"
+    },
+    {
+      "text": "most famous with the hailed soundtrack of the classic Christmas special A Charlie Brown Christmas , the album of which itself has become a perennial Christmas best-seller. This success would lead to numerous other Peanuts compositions for the rest of Guaraldi's career, selections of which were subsequently released by Fantasy. Guaraldi departed Fantasy in 1966 after the release of Live at El Matador (a collaboration with guitarist Bola Sete ). 1968 label of Creedence Clearwater Revival debut Creedence Clearwater Revival Saul Zaentz's acquisitions had been funded in part by the success of the rock group Creedence Clearwater Revival , a group that he had managed. Creedence was signed by Fantasy Records in 1964 as the Blue Velvets, but the label renamed it the Golliwogs so it would fit in with the bands of the British Invasion . After a series of failed releases under that name on the Fantasy and Scorpio labels, the group changed its name to Creedence Clearwater Revival. In 1968, it released its first hit record, a cover version of the song \" Susie Q \". In 1971, Fantasy built its headquarters at the corner of Tenth and Parker in Berkeley, California. The building was nicknamed \"The House That Creedence Built\". In 2004, Fantasy was sold to a consortium led by American television writer, producer, and activist Norman Lear and merged with Concord Records to create Concord Music Group . Although some operations",
+      "id": "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_3"
+    },
+    {
+      "text": "Vincent Anthony Guaraldi ( / ɡ ə ˈ r æ l d i / ; né Dellaglio , July 17, 1928 – February 6, 1976) was an American jazz pianist best known for composing music for animated television adaptations of the Peanuts comic strip. His compositions for this series included their signature melody \" Linus and Lucy \" and the holiday standard \" Christmas Time Is Here \". Guaraldi is also known for his performances on piano as a member of Cal Tjader 's 1950s ensembles and for his own solo career. Guaraldi's 1962 composition \" Cast Your Fate to the Wind \" became a radio hit and won a Grammy Award in 1963 for Best Original Jazz Composition . He died of an abdominal aortic aneurysm on February 6, 1976, at age 47, moments after concluding the first half of a nightclub performance in Menlo Park, California . Early life and career Guaraldi in 1946 Vincent Anthony Dellaglio was born in San Francisco's North Beach , a neighborhood that later played a crucial role in his musical development. His surname changed to \"Guaraldi\" after his mother, Carmella (née Marcellino), divorced his biological father, Vincenzo Dellaglio, and remarried Tony Guaraldi, who adopted him. Influenced by his maternal uncles, Joe and Maurice \"Muzzy\" Marcellino",
+      "id": "HotpotQA-validation-00000586/01_Vince-Guaraldi.html_c_0"
+    },
+    {
+      "text": "Fantasy, Zaentz became president in 1967. He and a group of investors bought Fantasy from the Weiss brothers that year. He then acquired Prestige Records (1971), Riverside (1972), and Milestone (1972). Ralph Kaffel , who was vice-president of Fantasy from 1971, became president in 1973. He continued the policy of acquisitions: Stax Records (1977), Good Time Jazz (1984), Contemporary (1984), Pablo (1986), Specialty (1991), Kicking Mule (1995), and Takoma (1995). Fantasy's first subsidiary was Galaxy Records in 1951. Years later, it started the short-lived subsidiary Scorpio, which tried to capitalize on the British Invasion . During the 1980s, it had a subsidiary named Reality Records that specialized in hip-hop music and released the first two albums by Doug E. Fresh . Vince Guaraldi Vince Guaraldi proved a stand-out when he joined the company in 1955. His most famous contributions to Fantasy were his compositions involved in the film adaptations of the comic strip Peanuts by Charles M. Schulz . This association began with Guaraldi's album Jazz Impressions of A Boy Named Charlie Brown , which contained music he created for an unsold television documentary of the same name but became most famous with the hailed soundtrack of the classic Christmas special A Charlie Brown Christmas , the album of which itself has become a perennial Christmas best-seller.",
+      "id": "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_2"
+    },
+    {
+      "text": "sold to a consortium led by American television writer, producer, and activist Norman Lear and merged with Concord Records to create Concord Music Group . Although some operations were still located in Berkeley, the label was later headquartered at the Concord location in Beverly Hills, California . Shortly after Fantasy was purchased by Concord, John Fogerty , the lead singer and songwriter of Creedence Clearwater Revival, re-signed with the label after leaving it in the mid-1970s after a falling-out with Zaentz, who died in 2014. Fantasy Studios closed in 2018 with its studios being auctioned off, in response to financial difficulties. Fantasy Records recording artists (current) Bailen Ry Cooder Devon Gilfillian DIIV Natalie Hemby Valerie June Avi Kaplan The Marcus King Band Andrew McMahon in the Wilderness Gov't Mule Lucius Lukas Nelson & Promise of the Real Grace Potter L.S. Dunes Tyler Ramsey Nathaniel Rateliff & The Night Sweats Allison Russell Seether Switchfoot Taking Back Sunday James Taylor Tedeschi Trucks Band Layla Tucker Tanya Tucker Andrea von Kampen Odetta and Larry References External links Official Fantasy Records site Portals : Biography Film Music",
+      "id": "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- Vince Guaraldi is an American jazz pianist (Novel-xxxx_c_0).\n- Fantasy Records is known for recordings of Vince Guaraldi (Novel-xxxx_c_0).\n- Guaraldi composed music for Peanuts animated TV specials (Novel-xxxx_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Fantasy Records is know for recordings of comedian Lenny Bruce, Creedence Clearwater Revival, and what American jazz pianist who composed the music for the animated television adaptations of the \"Peanuts\" comic strip?",
+      "doc_ids": [
+        "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_0",
+        "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_3",
+        "HotpotQA-validation-00000586/01_Vince-Guaraldi.html_c_0",
+        "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_2",
+        "HotpotQA-validation-00000586/00_Fantasy-Records.html_c_4"
+      ]
+    }
+  ]
+}

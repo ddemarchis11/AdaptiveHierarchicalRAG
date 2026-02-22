@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "I cannot find any information about who drank with Mr. Pepys during one of his social encounters in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that it cannot find information about who drank with Mr. Pepys, which is incorrect as the Gold Answer specifies 'Mr. Starling.' The context does not explicitly mention Mr. Starling, so the Model Answer is faithful to the retrieved context but fails to provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

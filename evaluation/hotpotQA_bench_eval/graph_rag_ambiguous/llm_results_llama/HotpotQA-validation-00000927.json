@@ -1,0 +1,228 @@
+{
+  "id": "HotpotQA-validation-00000927",
+  "question": "A U.S. Navy squadron specializing in electronic suppression operates a carrier-based aircraft derived from a twin-seat multirole fighter — what is the full designation of that electronic warfare platform?",
+  "gold_answer": "Boeing EA-18G Growler",
+  "llm_answer": "The full designation of the electronic warfare platform is the Boeing EA-18G Growler.",
+  "context": [
+    {
+      "text": "The Boeing EA-18G Growler is an American carrier-based electronic warfare aircraft , a specialized version of the two-seat Boeing F/A-18F Super Hornet . The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy . The Growler's electronic warfare capability is primarily provided by Northrop Grumman . The EA-18G began production in 2007 and entered operational service with the US Navy in late 2009. Australia has also purchased thirteen EA-18Gs, which entered service with the Royal Australian Air Force in 2017. Development Requirement and testing The first EA-18G at the roll-out ceremony on 3 August 2006 On 15 November 2001, Boeing successfully completed an initial flight demonstration of F/A-18F \"F-1\" fitted with the ALQ-99 electronic warfare system to serve as the EA-18 Airborne Electronic Attack (AEA) concept aircraft. In December 2003, the US Navy awarded a development contract for the EA-18G to Boeing. As primary contractor, Boeing was to construct the forward fuselage and wings, and perform the final assembly. Northrop Grumman was the principal airframe subcontractor and they would supply the center and aft fuselage as well as the principal electronic combat system. In 2003, the Navy expected to receive 90 EA-18Gs. The first EA-18G test aircraft entered production on 22 October 2004. The first test aircraft, known as EA-1, was rolled out on 3 August 2006, before making its maiden flight at St. Louis on 15 August 2006; it was later ferried to Naval Air Station Patuxent River , Maryland on 22 September 2006. EA-1 primarily supports ground testing in the Air Combat Environment Test and Evaluation Facility (ACETEF) anechoic chamber . The second aircraft (EA-2) first flew on 10 November 2006, and was delivered to NAS Patuxent River on 29 November 2006. EA-2 is an AEA flight test aircraft, initially flying on Pax River's Atlantic Test Range (ATR) for developmental test of the AEA system before transitioning to the Electronic Combat Range (ECR, or 'Echo Range') in Naval Air Weapons Station China Lake in California. Both aircraft are assigned to VX-23 \"Salty Dogs\". EA-1 and EA-2 are F/A-18Fs F-134 and F-135, pulled from the St. Louis production line and modified by Boeing to the EA-18G configuration. However, since they were not built initially as Growlers, the Navy has designated these two test aircraft as NEA-18Gs. There were five Growlers flying in the flight test program as of June 2008. Procurement In an April 2006",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 9,
+      "score": 51.263134
+    },
+    {
+      "text": "Strike Fighter Squadron 2 (VFA-2) also known as the \"Bounty Hunters\" is a United States Navy F/A-18F Super Hornet strike fighter squadron based at Naval Air Station Lemoore , California. Their tail code is NE and their callsign is \"Bullet\". They are attached to Carrier Air Wing 2 (CVW-2), a composite unit made up of a wide array of aircraft performing a variety of combat and support missions that deploy aboard the Carl Vinson . History Four distinct squadrons have been designated VF-2. Officially, the US Navy does not recognize a direct lineage with disestablished squadrons if a new squadron is formed with the same designation. Often, the new squadron will assume the nickname, insignia, and traditions of the earlier squadrons. 1970s VF-2 F-14As aboard USS Enterprise during their first deployment, 1975 VF-2, known as the \"Bounty Hunters,\" was established on 14 October 1972 flying the F-14A Tomcat . VF-2 completed aircrew training and received its first Tomcats in July 1973, attaining full strength of 12 F-14As in the spring of 1974. VF-2's initial deployment was in 1974 with her sister squadron VF-1 aboard USS Enterprise . The squadron flew over Saigon in support of Operation Frequent Wind , the evacuation of US personnel in April, 1975. Deployed on USS Enterprise Westpac 1978 Ports of call: Pearl Harbor Hawaii, Subic Bay Philippines, Singapore, Perth Australia, Hong Kong 1980s VF-2 F-14A equipped with AIM-9 Sidewinder, AIM-7 Sparrow and AIM-54 Phoenix air-to-air missiles, 1988 VF-2 was assigned to USS Ranger for the September 1980 deployment, 4 months of which were spent in the Indian Ocean and Persian Gulf during the Iran hostage crisis . The squadron was the first Tactical Air Reconnaissance Pod System ( TARPS ) unit for both CVW-14 and later CVW-2 . VF-2 deployed aboard USS Kitty Hawk in 1984 In March 1984, Kitty Hawk participated in \" Team Spirit \" exercises in the Sea of Japan . The Soviet Victor-class nuclear attack submarine K-314 shadowed the task group. On 21 March, at the conclusion of the Sea of Japan part of the exercise, K-314 surfaced directly in front of Kitty Hawk , and at 22:05 hrs, too dark and far too close for Kitty Hawk to see and avoid the resulting collision, the vessels came in contact, resulting in minor damage to the carrier, and significant damage to the Soviet submarine. Kitty Hawk reported to the U.S. Naval Base at Subic Bay in the Philippines for repairs. A piece of one of K-314 ' s propellers was embedded in Kitty Hawk ' s",
+      "id": "HotpotQA-validation-00000927/02_VFA-2.html_c_0",
+      "doc_id": "HotpotQA-validation-00000927/02_VFA-2.html",
+      "community_id": 3,
+      "score": 44.852238
+    },
+    {
+      "text": "Sidewinder , found on the E/F Super Hornet, have been replaced with AN/ALQ-218 detection pods, six removable under wing mounted hard points (inboard pylons will carry 480 gal (1,800 L) fuel tanks, mid-board pylons will carry AN/ALQ-99 High Band Jamming Pods, and outboard pylon reserved for AGM-88 HARM missiles), two multi-mode conformal fuselage stations ( AIM-120 AMRAAM missiles), 1 centerline fuselage removable hardpoint, for AN/ALQ-99 Low Band Jamming Pod. Weapons employment: Currently, Phase I of the Growler will carry the AIM-120 AMRAAM missiles for self-protection at the two conformal fuselage stations and AGM-88 HARM missiles. The A/A-49A-2 gun system with the 20 mm M61A2 cannon has been removed and replaced by a pod of electronic boxes that control the AN/ALQ-218 and assist with coordinating AN/ALQ-99 jamming attacks. According to the possible weapon configurations which were revealed,  EA-18G would also be capable of performing \"time-sensitive\" strike missions, carrying AGM-154 JSOW under wings, or multi-sensor reconnaissance missions with SHARP and AN/ASQ-228 ATFLIR on centerline and left conformal weapon stations, respectively. Avionics Raytheon AN/APG-79 Active electronically scanned array (AESA) radar Northrop Grumman AN/ALQ-218 Tactical Jamming System Receiver EDO Corporation AN/ALQ-99 Airborne Integrated Jamming System See also Aviation portal Related development McDonnell Douglas F/A-18 Hornet Boeing F/A-18E/F Super Hornet Aircraft of comparable role, configuration, and era Shenyang J-15D Shenyang J-16D Related lists List of active United States military aircraft List of fighter aircraft List of military electronics of the United States References Notes Bibliography Thomason, Tommy H. (2009). Strike from the Sea: U.S. Navy Attack Aircraft from Skyraider to Super Hornet, 1948–present . North Branch, Minnesota: Specialty Press. ISBN 978-1-58007-132-1 . External links Wikimedia Commons has media related to Boeing EA-18G Growler . Official website EA-18G Program: The USA's Electronic Growler at DefenseIndustryDaily.com \"EA-18G \"Growler\": New platform and capabilities set to un-level the SEAD playing field\" . Flight International , 8 July 2008. \"When Hornets Growl\" . Air & Space , 1 March 2011. VAQ-141 Shadowhawks EA-18G Growler: Photo walk around of two aircraft including the CAG bird. 2013-2019 US Navy Environmental Impact Study into EA-18G Growler",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_8",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 9,
+      "score": 42.47263
+    },
+    {
+      "text": "Hornets Growl\" . Air & Space , 1 March 2011. VAQ-141 Shadowhawks EA-18G Growler: Photo walk around of two aircraft including the CAG bird. 2013-2019 US Navy Environmental Impact Study into EA-18G Growler Flight Operations at NAS Whidbey Island Archived 27 July 2014 at the Wayback Machine",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_9",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 9,
+      "score": 40.951584
+    },
+    {
+      "text": "suitable\" in February 2011. Prime contractor Boeing is working to address issues with software updates. In December 2011, Operational Test and Evaluation concluded that the EA-18G software was \"operationally effective and suitable\". On 19 December 2014, the Navy publicly reported that it wants to modify the production contract with Boeing to slow production of the Growler from three airplanes per month to two. It will also purchase an additional 15 Growlers, funded by a spending bill that will go to President Obama for signature in late December 2014. Boeing would then be able to continue running the St. Louis production line through 2017. Boeing has said it cannot sustain the production line at fewer than two airplanes per month. [ needs update ] Design An EA-18G Growler of test and evaluation squadron VX-9 , carrying external fuel tanks, jamming pods, and AGM-88 HARM and AIM-120 AMRAAM missiles. The Growler's flight performance is similar to that of the F/A-18E/F. This attribute enables the Growler to perform escort jamming as well as the traditional standoff jamming mission ( radar jamming and deception ). Growlers are able to accompany F/A-18s during all phases of an attack mission. In order to give the Growler more stable flight for the electronic warfare mission, Boeing changed the leading edge fairings and wing fold hinge fairings, and added wing fences and aileron \"tripper strips\". The Growler has more than 90% in common with the standard Super Hornet, sharing airframe, Raytheon AN/APG-79 AESA radar and weapon systems such as the AN/AYK-22 stores management system. Most of the dedicated airborne electronic attack equipment is mounted on a plate in the space that used to house the internal 20 mm cannon and on the wingtips. Nine weapons stations remain free to provide for additional weapons or jamming pods. The added electronics include AN/ALQ-218 wideband receivers on the wingtips and ALQ-99 high and low-band tactical jamming pods . The ALQ-218 combined with the ALQ-99 form a full spectrum electronic warfare suite that is able to provide detection and jamming against all known surface-to-air threats. However, the current pods may be inadequate against emerging threats. The EA-18G can be fitted with up to five ALQ-99 jamming pods and will typically add two AIM-120 AMRAAM or AGM-88 HARM missiles. The EA-18G will also use the INCANS Interference Cancellation system that will allow voice communication while jamming enemy communications, a capability not available on the EA-6B. In addition to the radar warning and jamming equipment, the Growler possesses a communications receiver and jamming system that will provide suppression and electronic attack against airborne communication threats. The poor reliability of the ALQ-99 jammer",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_2",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 9,
+      "score": 36.349342
+    },
+    {
+      "text": "that one engine's high-pressure compressor had broken into three major pieces that severely damaged the lower airframe, right tailfin, and the other engine. The aircraft was written off on 15 August and the Australian Government is attempting to claim compensation for the loss of the A$125 million aircraft. On 9 December 2020, the Royal Australian Air Force announced that the 11 EA-18G Growlers and 24 F/A-18F Super Hornets had been grounded after an incident occurred where the crew of an RAAF F/A-18F had to eject on take-off. On 30 September 2021, the US State Department approved the sale of an EA-18G to Australia to replace that lost in the 2018 accident. This aircraft was ordered in early 2022, with the price being up to US$125 million. It was acquired from the US Navy's stock of Growlers and modified to the same configuration as the other Australian aircraft before being delivered to the RAAF. The aircraft was delivered to the RAAF in February 2023. In February 2023, a A$2 billion project to upgrade the RAAF's Growlers and support infrastructure was approved and awarded to Boeing . As part of the project, new radar infrastructure will be installed at RAAF Base Amberley and the Delamere Air Weapons Range . The Growlers will also be fitted with improved sensors, longer-range missiles and new jamming pods. Potential operators Japan On 1 January 2018, it was reported that the Japanese Government is considering purchasing an electronic warfare attack aircraft and the EA-18G is a candidate for the Japan Air Self-Defense Force . Failed bids Finland Boeing and the US Navy indicated their intention to propose the F/A-18E/F and EA-18G as a package for the new fighter introduction program, HX, which would replace the F/A-18C/D fighters operated by the Finnish Air Force , and on 18 February 2019 the US Department of Defense approved the export of the EA-18G to Finland. However, the Finnish Air Force selected the F-35 Lightning II in February 2022. Operators Australia Royal Australian Air Force - 12 aircraft in service No. 6 Squadron RAAF An EA-18G prepares to launch from the aircraft carrier USS Theodore Roosevelt (CVN-71) An EA-18G pilot checks his right wing stores United States United States Air Force 390th Electronic Combat Squadron provides training for electronic warfare officers for Navy units by augmenting VAQ-129 with some USAF instructors. United States Navy - 153 aircraft in service VAQ-129 VAQ-130 VAQ-131 VAQ-132 VAQ-133 VAQ-134 VAQ-135 VAQ-136 VAQ-137 VAQ-138 VAQ-139 VAQ-140 VAQ-141 VAQ-142 VAQ-144 VAQ-209",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_6",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 6,
+      "score": 35.037395
+    },
+    {
+      "text": "The Mikoyan MiG-29 ( Russian : Микоян МиГ-29 ; NATO reporting name : Fulcrum ) is a twin-engine fighter aircraft designed in the Soviet Union . Developed by the Mikoyan design bureau as an air superiority fighter during the 1970s, the MiG-29, along with the larger Sukhoi Su-27 , was developed to counter U.S. fighters such as the McDonnell Douglas F-15 Eagle and the General Dynamics F-16 Fighting Falcon . The MiG-29 entered service with the Soviet Air Forces in 1983. While originally oriented towards combat against any enemy aircraft, many MiG-29s have been furnished as multirole fighters capable of performing a number of different operations, and are commonly outfitted to use a range of air-to-surface armaments and precision munitions . The MiG-29 has been manufactured in several major variants, including the multirole Mikoyan MiG-29M and the navalised Mikoyan MiG-29K ; the most advanced member of the family to date is the Mikoyan MiG-35 . Later models frequently feature improved engines, glass cockpits with HOTAS (\"hands-on-throttle-and-stick\")-compatible flight controls, modern radar and infrared search and track (IRST) sensors, and considerably increased fuel capacity; some aircraft have also been equipped for aerial refueling . Following the dissolution of the Soviet Union , the militaries of multiple ex-Soviet republics have continued to operate the MiG-29, the largest of them being the Russian Aerospace Forces . The Russian Aerospace Forces wanted to upgrade its existing fleet to the modernised MiG-29SMT configuration, but financial difficulties have limited deliveries. The MiG-29 has also been a popular export aircraft; more than 30 nations either operate or have operated the aircraft. As of 2024 [update] Flight Global estimates that 809 MiG-29s, of all types, are in service with air forces, making it the 5th most common active fighter. Development Origins In the mid-1960s, the United States Air Force (USAF) encountered difficulties over the skies of Vietnam. Supersonic fighter bombers that had been optimized for low altitude bombing, like the F-105 Thunderchief , were found to be vulnerable to older MiG-17s and more advanced MiGs which were much more maneuverable. In order to regain limited air superiority, the US refocused on air combat using the F-4 Phantom multirole fighter, while the Soviet Union developed the MiG-23 in response. Towards the end of the 1960s, the USAF started the \"F-X\" program to produce a fighter dedicated to air superiority, which led to the McDonnell Douglas F-15 Eagle being ordered for production in late 1969. At the height of the Cold War , a Soviet response was necessary to",
+      "id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_c_0",
+      "doc_id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html",
+      "community_id": 1,
+      "score": 32.73665
+    },
+    {
+      "text": "space, and missile squadrons as of 1 October 1995 . Maxwell AFB, Alabama: Office of Air Force History. CD-ROM. Menard, David W. (1998) Before Centuries: USAFE Fighters, 1948–1959 . Howell Press Inc. ISBN 1-57427-079-6 Manning, Thomas A. (2005), History of Air Education and Training Command, 1942–2002 . Office of History and Research, Headquarters, AETC, Randolph AFB, Texas OCLC 71006954 , 29991467 Martin, Patrick (1994). Tail Code: The Complete History of USAF Tactical Aircraft Tail Code Markings . Schiffer Military Aviation History. ISBN 0-88740-513-4 . Shaw, Frederick J. (2004), Locating Air Force Base Sites, History’s Legacy , Air Force History and Museums Program, United States Air Force, Washington DC. OCLC 57007862 , 1050653629 Aerospace Defense Command publication, The Interceptor, January 1979 (Volume 21, Number 1). USAAS-USAAC-USAAF-USAF Aircraft Serial Numbers — 1908 to present External links Global Access Victorville Archived 20 January 2010 at the Wayback Machine (redevelopment project) George AFB Hazardous, Toxic and Radioactive Waste (HTRW) (Superfund Site, EPA ID: CA2570024453)",
+      "id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_c_16",
+      "doc_id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html",
+      "community_id": 15,
+      "score": 31.603447
+    },
+    {
+      "text": "VAQ-130 VAQ-131 VAQ-132 VAQ-133 VAQ-134 VAQ-135 VAQ-136 VAQ-137 VAQ-138 VAQ-139 VAQ-140 VAQ-141 VAQ-142 VAQ-144 VAQ-209 VX-9 VX-23 VX-31 Naval Aviation Warfighting Development Center EA-18 Growler Demo Team  Specifications (EA-18G Growler) Data from Boeing brochure and U.S. Navy F/A-18E/F fact file. General characteristics Crew: 2 Length: 60 ft 1.25 in (18.31 m) Wingspan: 44 ft 8.5 in (13.62 m) (including wingtip-mounted pods) Height: 16 ft 0 in (4.88 m) Wing area: 500 sq ft (46.5 m 2 ) Empty weight: 33,094 lb (15,011 kg) Gross weight: 48,000 lb (21,772 kg) ; recovery weight Max takeoff weight: 66,000 lb (29,964 kg) Internal fuel capacity: 13,940 lb (6,323 kg) External fuel capacity: (3 x 480 gal (1,800 L) tanks), 9,774 lb (4,420 kg) Powerplant: 2 × General Electric F414-GE-400 turbofans , 14,000 lbf (62 kN) thrust each dry, 22,000 lbf (98 kN) with afterburner Performance Maximum speed: 1,030 kn (1,190 mph, 1,900 km/h) at 40,000 ft (12,190 m) Maximum speed: Mach 1.8 Range: 1,275 nmi (1,458 mi, 2,346 km) ; clean plus two AIM-9s Combat range: 390 nmi (449 mi, 722 km) ; for interdiction mission Ferry range: 1,800 nmi (2,070 mi, 3,330 km) ; range without ordnance Service ceiling: 50,000 ft (15,000 m) at least Wing loading: 92.8 lb/sq ft (453 kg/m 2 ) Thrust/weight : 0.93 Armament Guns: None Hardpoints: 9 total: 6 under-wing and 3 under-fuselage with a capacity of 17,750 lb (8,050 kg) external fuel and ordnance Notes: The two wingtip missile launcher rails for AIM-9 Sidewinder , found on the E/F Super Hornet, have been replaced with AN/ALQ-218 detection pods, six removable under wing mounted hard points (inboard pylons will carry 480 gal (1,800 L) fuel tanks, mid-board pylons will carry",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_7",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 6,
+      "score": 30.720652
+    },
+    {
+      "text": "VF-2's F-14Ds were modified to carry the LANTIRN infrared targeting pod, giving them precision strike capabilities. During their 1999 cruise, VF-2 supported Operation Southern Watch and on 9 September, attacked Surface-to-Air Missile sites and anti-aircraft guns around Basra . The same day, a VF-2 Tomcat engaged 2 Iraqi Air Force MiG-23 ’s that were heading south into the No-Fly Zone from Al-Taqaddum Air Base , west of Baghdad with AIM-54 Phoenixes . The missiles did not score as the MiGs turned north once they detected the missile launch. 2000s VF-2 F-14D landing aboard USS Constellation , in 2003 VFA-2 F/A-18Fs aboard USS Abraham Lincoln , in 2005 In mid 2001, VF-2 deployed aboard USS Constellation in support of Operation Southern Watch . During the 2002-2003 deployment, the final cruise with the Tomcat, VF-2 participated in Operation Iraqi Freedom flying a wide range of missions including reconnaissance, close air support, CAP and strike missions. On 28 February 2003, during Operation Southern Watch, a VF-2 aircraft delivered the 1st Tomcat JDAM in combat. During this deployment, VF-2 flew 483 sorties and dropped 294 Laser-guided bomb 's/JDAMs/MK-82 bombs. On 1 July 2003, VF-2 was redesignated VFA-2, and began transition to the F/A-18F Super Hornet receiving its first aircraft on 6 October 2003. VFA-2 deployed to the Western Pacific aboard USS Abraham Lincoln with CVW-2 in October, 2004. They returned in March 2005 after supporting Operation Unified Assistance which provided humanitarian support to Southeast Asia after the 2004 Indian Ocean tsunami . In 2006, VFA-2 and CVW-2 embarked on a WESTPAC deployment. On 13 March 2008, VFA-2 embarked with CVW-2 aboard USS Abraham Lincoln on a 7-month deployment to the Persian Gulf, returning home on 8 October. 2010s Between 24 and 31 March 2006, during Foal Eagle 2006 exercises, strike squadrons VFA-2, VFA-34 , VFA-137 , and VFA-151 teamed with U.S. Air Force aircraft from the 18th Wing based at Kadena Air Base to provide combat air patrols and coordinated bombing runs via the exercise's Combined Air Operations Center. On 11 September 2010, VFA-2 deployed with CVW-2 aboard USS Abraham Lincoln to the Arabian Sea and Persian Gulf . The squadron has transitioned to newer Block II F/A-18F Super Hornet equipped with the AESA radar. 2020s",
+      "id": "HotpotQA-validation-00000927/02_VFA-2.html_c_2",
+      "doc_id": "HotpotQA-validation-00000927/02_VFA-2.html",
+      "community_id": 3,
+      "score": 29.936142
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "summary": "**Title**: EA-18G Growler Electronic Warfare Aircraft\n\n**Summary**: The Boeing EA-18G Growler is a carrier-based electronic warfare aircraft derived from the F/A-18F Super Hornet, designed to replace the EA-6B Prowler. It features advanced jamming systems, including the ALQ-99 pods and the upcoming Next Generation Jammer (NGJ), and can perform both escort and standoff jamming missions. Despite its capabilities, the aircraft has faced issues with ALQ-99 reliability and radar interference. The Growler supports networked electronic attack, target geolocation, and communication jamming, and has been operationally deployed by the U.S. Navy and Royal Australian Air Force.\n\n**Keywords**: EA-18G Growler, electronic warfare, ALQ-99, Next Generation Jammer, tactical jamming",
+      "is_seed": true,
+      "expand_score": 0.8123636245727539
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "summary": "**Title**: EA-18G Growler Operations & Operators\n\n**Summary**:  \nThe EA-18G Growler, the U.S. Navy’s carrier-based electronic-warfare aircraft, has seen recent combat firsts: during 2024’s Operation Prosperity Guardian it destroyed a Houthi Hind helicopter with an AGM-88E AARGM and downed a drone for its initial air-to-air kill, while VAQ-133 became the first squadron to deploy the ALQ-249 Next-Generation Jammer. Australia is the only export customer, fielding 12 Growlers with No. 6 Sqn RAAF after converting part of its Super Hornet buy; one aircraft was lost to an engine-fire accident in 2018 and replaced in 2023 from U.S. stocks, and a A$2 billion upgrade is now adding new sensors, weapons and jamming pods. Japan has studied the type for its own electronic-attack needs, while Finland evaluated but rejected the Growler in favor of the F-35. The U.S. Navy operates 153 EA-18Gs across 14 electronic-attack squadrons and test units.\n\n**Keywords**: EA-18G Growler, electronic warfare, Operation Prosperity Guardian, Royal Australian Air Force, Next-Generation Jammer",
+      "is_seed": true,
+      "expand_score": 0.846243679523468
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_29",
+      "summary": "**Title**: MiG-29K Naval Variant Development\n\n**Summary**:  \nThe MiG-29K is a carrier-based derivative of the MiG-29M, designed with folding wings, arrestor gear, and reinforced landing gear for naval operations. Initially developed for Russia’s Admiral Kuznetsov-class carriers, the program was halted in 1992 due to budget cuts but revived in 1999, leading to a 2004 Indian Navy contract for 12 single-seat MiG-29Ks and 4 dual-seat MiG-29KUB trainers. Both variants feature radar-absorbent coatings, modern avionics including helmet-mounted targeting, and full weapon compatibility with MiG-29M/SMT standards. The MiG-29KUB, while primarily a trainer, retains full combat capability and shares the same airframe size and NATO code “Fulcrum-D” as the single-seater.\n\n**Keywords**:  \nMiG-29K, naval aviation, Indian Navy, carrier-based fighter, Fulcrum-D",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "summary": "**Title**: VAQ-138 Yellow Jackets Squadron History\n\n**Summary**: Electronic Attack Squadron 138 (VAQ-138), the \"Yellow Jackets,\" is a U.S. Navy EA-18G Growler squadron based at NAS Whidbey Island, Washington. Established in 1976, it has flown EA-6B Prowlers and now Growlers, deploying on carriers such as USS Nimitz and USS John C. Stennis. The squadron has supported major operations from Libya airstrikes and Desert Storm to Kosovo’s Operation Allied Force, firing over 60 HARM missiles, and post-9/11 missions in Enduring Freedom and Anaconda.\n\n**Keywords**: VAQ-138, Yellow Jackets, EA-18G Growler, HARM missile, NAS Whidbey Island",
+      "is_seed": true,
+      "expand_score": 0.8206280469894409
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "summary": "**Title**: VFA-2 \"Bounty Hunters\" History\n\n**Summary**:  \nStrike Fighter Squadron 2 (VFA-2), nicknamed the \"Bounty Hunters,\" has served as a frontline U.S. Navy fighter squadron since 1972, successively flying the F-14A/D Tomcat and today’s F/A-18F Super Hornet. Over five decades the unit deployed aboard carriers from Enterprise to Carl Vinson, participating in every major Middle-East contingency—Earnest Will, Nimble Archer, Desert Storm, Southern Watch, Iraqi Freedom—and humanitarian missions such as Restore Hope and Unified Assistance. Key milestones include the first carrier launch of an F-14 towing a gunnery target (1984), the first Tomcat JDAM combat drop (2003), and the 2025 Red Sea combat operations against Houthi/Iranian forces. Transitions in aircraft, carriers, and homeports (Miramar → Oceana → Lemoore) mirror broader naval-aviation evolution, while the squadron’s TARPS, LANTIRN, and AESA-radar capabilities kept it at the leading edge of reconnaissance and precision strike.\n\n**Keywords**:  \nF-14 Tomcat, F/A-18F Super Hornet, Carrier Air Wing 2, Persian Gulf operations, Red Sea 2025",
+      "is_seed": true,
+      "expand_score": 0.782428503036499
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "summary": "**Title**: George Air Force Base History\n\n**Summary**: George Air Force Base, operational from 1941 to 1992 near Victorville, California, evolved from a World War II flying school into a key Cold War tactical fighter hub, hosting units such as the 35th and 37th Tactical Fighter Wings and specializing in “Wild Weasel” radar-suppression training. It supported multiple fighter aircraft—from F-51s to F-4Gs—and deployed squadrons to Korea, NATO Europe, and Desert Storm. After closure under the 1988 Base Realignment and Closure Act, the site became an EPA Superfund location due to jet fuel, trichloroethylene, and PFAS contamination, with ongoing cleanup efforts aimed at rapid community reuse.\n\n**Keywords**: George AFB, Wild Weasel training, Base Realignment and Closure, Superfund contamination, Victorville reuse",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_1",
+      "summary": "**Title**: MiG-29 Fighter Development & Design\n\n**Summary**:  \nThe Mikoyan MiG-29 \"Fulcrum\" is a twin-engine Soviet air-superiority fighter conceived in the 1970s to counter U.S. F-15/F-16 threats, entering service in 1983. Key design features include widely-spaced Klimov RD-33 engines that reduce wing loading and boost agility, variable intake ramps under large LERXs for high-Mach flight, and rough-field adaptations such as closable main inlets and dorsal auxiliary louvers (deleted on the latest MiG-35). Range grows from 1,500 km clean to 2,100 km with drop tanks, aided on newer models by in-flight refueling probes. The mid-mounted swept wing with automatic slats, composite/aluminum 9-g airframe and hydromechanical flight controls give excellent high-alpha maneuverability, though early cockpits lacked HOTAS and modern avionics. Continuous upgrades produced variants like the MiG-29S, MiG-29K, MiG-29M/SMT and MiG-35, adding glass cockpits, improved sensors, greater fuel and multirole capability, while export success kept ~800 aircraft active worldwide.\n\n**Keywords**:  \nMiG-29, RD-33 engines, LERX intakes, fighter agility, Fulcrum variants",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_37",
+      "summary": "**Title**: MiG-29 Fighter Overview  \n\n**Summary**:  \nThe Mikoyan MiG-29 is a fourth-generation, twin-engine air-superiority fighter renowned for high agility, Mach 2.3 speed, and a thrust-to-weight ratio above 1. Standard armament centers on a 30 mm GSh-30-1 cannon plus up to 4 t of stores across seven hardpoints, including R-27, R-60/-73, R-77 AAMs, Kh-29, AGM-88 HARM, and diverse Russian or Western bombs and rockets. Upgraded variants such as the MiG-29SMT add glass cockpits, Zhuk-ME radar, extra internal fuel, and compatibility with non-Russian avionics and weapons. India operates the largest export fleet, but recent years have seen multiple peacetime losses, underscoring ongoing technical challenges. Global operators have pursued modernization programs—Romania’s Sniper effort and Bangladesh’s BM among them—while private owners in the U.S. maintain flyable examples for training and display.  \n\n**Keywords**: MiG-29, multirole fighter, avionics upgrades, Indian Air Force, fourth-generation jet",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_8",
+      "summary": "**Title**: George AFB F-4 Training Operations\n\n**Summary**: George Air Force Base, California, served as a premier USAF training hub from the 1950s through the Cold War, specializing in F-4 Phantom II and Wild Weasel (F-105F/G, F-4G) crew instruction. After the 479th Tactical Fighter Wing transitioned from F-104s to F-4s in the mid-1960s, the 35th Tactical Fighter Wing took over in 1971, operating multiple training squadrons that qualified U.S. and allied pilots in F-4C/D/E variants and advanced radar-suppression tactics. The base closed in 1993 under BRAC, later becoming the Southern California Logistics Airport.\n\n**Keywords**: George AFB, F-4 Phantom, Wild Weasel, 35th TFW, pilot training",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "summary": "**Title**: 41st Tactical Air Squadron\n\n**Summary**: The 41st Tactical Air Squadron is a Polish Air Force fighter unit formed in 2001 at Malbork’s 22nd Tactical Air Base, succeeding the 41st Tactical Air Regiment (1952-2001). It flies MiG-29B/UB jets purchased from Germany’s Jagdgeschwader 73, replacing earlier Soviet-era MiG-15, ‑17, ‑19, and ‑21 models that the regiment operated between 1954 and 2003.\n\n**Keywords**: Polish Air Force, MiG-29, 41st Tactical Air Squadron, Malbork, fighter aircraft",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_15",
+      "summary": "**Title**: No. 1 Squadron RAAF History\n\n**Summary**: No. 1 Squadron RAAF, formed in 1916, is the RAAF’s oldest fighter-bomber unit, transitioning through aircraft from WWI B.E.2s to today’s F/A-18F Super Hornets. It flew 400+ strike sorties against ISIL from Al Minhad (2014-2015, 2017-2018), dropping 113 weapons and destroying 36 targets. After centenary celebrations in 2016, the squadron absorbed 12 Super Hornets from No. 6 Squadron and shifted part of its training role to No. 82 Wing in 2020.\n\n**Keywords**: No. 1 Squadron RAAF, F/A-18F Super Hornet, ISIL operations, Al Minhad, RAAF history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "summary": "**Title**: VAQ-138 EA-6B/EA-18G Deployments\n\n**Summary**: Electronic Attack Squadron VAQ-138 repeatedly deployed from NAS Whidbey Island across the Western Pacific, Korea, Guam, Japan, Iraq, and Afghanistan between 2002 and 2018. After pioneering the EA-6B Block 89A and ICAP III upgrades, the squadron flew hundreds of combat sorties over Iraq and Afghanistan, logging more than 1,700 flight hours with a 96% sortie-completion rate during 2007 WESTPAC. Transitioning to the EA-18G Growler in 2010, the squadron shifted to land-based rotations in Iraq, Japan, the Philippines, and Guam, participating in exercises Foal Eagle, VALIANT SHIELD, and multiple RED FLAG iterations while supporting joint operations across PACOM.\n\n**Keywords**: VAQ-138, EA-6B, EA-18G, WESTPAC, combat sorties",
+      "is_seed": true,
+      "expand_score": 0.846243679523468
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_7",
+      "summary": "**Title**: No. 1 Squadron RAAF History\n\n**Summary**: No. 1 Squadron RAAF, formed in 1916, evolved from a World-War-I Bristol Fighter unit in the Middle East to a multi-role bomber, reconnaissance and maritime-patrol squadron through World War II and the Malayan Emergency. After pioneering RAAF Hudson operations in the Pacific, it conducted the first Allied air strike of the Pacific War at Kota Bharu, later suffered heavy losses in Java, re-formed with Beauforts and Mosquitos, and finally flew Lincoln bombing missions against communist guerrillas in Malaya (1950-1958). The squadron was repeatedly disbanded and re-raised, operating from Australian bases such as Laverton, Amberley and Singapore-area airfields, and transitioned through aircraft types including DH.9s, Demons, Ansons, Hudsons, Beauforts, Mosquitos and Lincolns.\n\n**Keywords**: No. 1 Squadron RAAF, Bristol Fighter, Hudson, Beaufort, Malayan Emergency",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "summary": "**Title**: VAQ-138 Global Deployments & Exercises  \n\n**Summary**:  \nElectronic Attack Squadron 138 (VAQ-138, “Rampaging Yellow Jackets”) maintained an intensive 2018-2020 operational tempo, repeatedly deploying from Whidbey Island to Misawa, Japan as its forward hub. The EA-18G unit cycled through major Indo-Pacific exercises—MALABAR, VALIANT SHIELD, KEEN SWORD, Cope North—integrating with JASDF, RAAF, USAF and USMC for large-force SEAD training in Guam, South Korea and Japan. Between deployments, the squadron conducted three Fallon detachments for missile shoots and GTI support, plus Alaska red-flag and Idaho Gunfighter Flag events, culminating in a home-base HARM shot milestone.  \n\n**Keywords**:  \nVAQ-138, Misawa, Indo-Pacific exercises, EA-18G, SEAD",
+      "is_seed": true,
+      "expand_score": 0.791103720664978
+    },
+    {
+      "community_key": "HotpotQA-validation-00003792/00_Caleb-Shomo.html_2",
+      "summary": "**Title**: Caleb Shomo’s Musical Journey\n\n**Summary**: Caleb Shomo rose from teenage keyboardist to front-man of Attack Attack!, steering their electronicore sound until clinical depression prompted his 2012 exit after two Billboard-charting albums. He simultaneously founded Beartooth as a cathartic solo studio project, writing and recording all instruments for three successive albums that refined metalcore with melodic, emotionally raw themes. Shomo also produces electronic music under the alias CLASS and operates Studio Records in Columbus, Ohio.\n\n**Keywords**: Beartooth, Attack Attack!, metalcore, depression, producer",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "summary": "**Title**: 23rd Air Base MiG-29 Crashes\n\n**Summary**: The 23rd Air Base near Mińsk Mazowiecki, established in 2001, hosts Poland’s 1st Air Tactical Squadron flying MiG-29s. The base recorded its first-ever MiG-29 crash on 18 December 2017 when a fighter came down in a nearby forest; the pilot remained with the aircraft and survived. A second MiG-29 crash occurred on 4 March 2019, again with the pilot ejecting safely.\n\n**Keywords**: 23rd Air Base, MiG-29 crashes, Polish Air Force, Mińsk Mazowiecki, 1st Air Tactical Squadron",
+      "is_seed": false,
+      "expand_score": 0.791573703289032
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_29",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_1",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_37",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_8",
+      "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_15",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_7",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00003792/00_Caleb-Shomo.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_29",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_1",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_37",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_8",
+      "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_15",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_7",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00003792/00_Caleb-Shomo.html_2",
+      "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0"
+    ],
+    "allowed_chunk_pool_size": 58,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

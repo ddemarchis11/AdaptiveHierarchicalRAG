@@ -1,0 +1,12 @@
+{
+  "id": "Novel-28728520",
+  "question": "By what nickname, referencing a character from Laurence Sterne's works, is Johann Georg Jacobi known within his literary circle?",
+  "gold_answer": "Johann Georg Jacobi is called Uncle Toby.",
+  "llm_answer": "Johann Georg Jacobi is known within his literary circle by the nickname \"Uncle Toby\" due to his enthusiasm for Sterne.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Johann Georg Jacobi's nickname as 'Uncle Toby' and provides the reason for it, which is his enthusiasm for Sterne. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which explicitly states that Jacobi was called 'Uncle Toby' in Gleim's circle for this reason."
+  }
+}

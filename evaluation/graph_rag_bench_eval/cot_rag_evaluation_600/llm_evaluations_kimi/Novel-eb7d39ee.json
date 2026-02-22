@@ -1,0 +1,12 @@
+{
+  "id": "Novel-eb7d39ee",
+  "question": "What evidence is there that the British Museum holds a significant collection of ancient musical instruments?",
+  "gold_answer": "The British Museum has bells and cymbals, a fragment of a Greek lyre, an example of a tibia, and Anglo-Saxon trumpets may be seen in a manuscript of the eighth century in the British Museum.",
+  "llm_answer": "The evidence provided does not directly state that the British Museum holds a significant collection of ancient musical instruments. However, it does mention specific instances of ancient musical instruments or representations thereof being preserved in the British Museum:\n\n1. A psalter of the seventh century (Cott. Vesp. A. I) containing an illumination of David playing the *rotta*, which is described as resembling the lyre.  \n2. A manuscript of the tenth century in the British Museum featuring a representation of the Psalmist with a kind of *rotta*.  \n3. A manuscript of the eighth century in the British Museum depicting large Anglo-Saxon trumpets.  \n4. A cluster of *yotl*-bells (Mexican antiquities) in the British Museum's collection.  \n\nWhile these examples confirm the presence of some ancient musical instruments or their depictions in the British Museum, the evidence is insufficient to conclude that the museum holds a *significant* collection of such instruments. The references are limited to a few specific items rather than a broader collection.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies specific examples of ancient musical instruments or their depictions in the British Museum, as mentioned in the Retrieved Context. It includes all key facts from the Gold Answer, such as the Anglo-Saxon trumpets and the Greek lyre, and adds relevant details supported by the context, like the *rotta* and *yotl*-bells. The answer is faithful to the context and provides a nuanced explanation about the significance of the collection."
+  }
+}

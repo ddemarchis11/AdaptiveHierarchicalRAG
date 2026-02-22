@@ -1,0 +1,12 @@
+{
+  "id": "Novel-76052a9a",
+  "question": "Within the territorial divisions described in the text, in which region is the city of El-Kesar located?",
+  "gold_answer": "El-Kesar is in Gharb.",
+  "llm_answer": "The city of El-Kesar is located in the region of Tafilett.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that El-Kesar is located in the region of Tafilett, whereas the Gold Answer specifies that El-Kesar is in Gharb. The retrieved context does not provide any information to support the claim that El-Kesar is in Tafilett, making the answer both incorrect and unfaithful to the context. Additionally, the Model Answer fails to cover the key fact from the Gold Answer."
+  }
+}

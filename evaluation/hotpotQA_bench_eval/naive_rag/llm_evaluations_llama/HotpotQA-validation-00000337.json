@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000337",
+  "question": "Did Franki Valli sing with Hellogoodbye or The Four Seasons?",
+  "gold_answer": "The Four Seasons",
+  "llm_answer": "Based on the provided evidence, it appears that Franki Valli sang with The Four Seasons, not Hellogoodbye.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Franki Valli sang with The Four Seasons, which is consistent with the Gold Answer and supported by the Retrieved Context. The answer is concise and does not introduce unsupported information."
+  }
+}

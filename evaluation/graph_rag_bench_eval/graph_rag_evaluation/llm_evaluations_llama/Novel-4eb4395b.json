@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4eb4395b",
+  "question": "Who was a contending candidate to become the foster parent of Roxie Fairfield after the separation of the Fairfield sisters?",
+  "gold_answer": "Aunt Fillis Foster was a contending candidate for Roxie.",
+  "llm_answer": "Aunt Katy Demitt was a contending candidate to become the foster parent of Suza Fairfield, and by extension, Roxie Fairfield, after the separation of the Fairfield sisters.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Aunt Katy Demitt as a contending candidate for Roxie Fairfield's foster parent, which is not supported by the retrieved context or the Gold Answer. The Gold Answer specifies Aunt Fillis Foster as the candidate, and the context does not provide evidence for the claim about Aunt Katy Demitt. Therefore, the Model Answer fails in correctness, faithfulness, and evidence coverage."
+  }
+}

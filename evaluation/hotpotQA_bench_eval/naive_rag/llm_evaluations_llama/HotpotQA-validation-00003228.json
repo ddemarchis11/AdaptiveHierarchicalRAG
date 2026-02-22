@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003228",
+  "question": "What is the scentific name of the butterfly that is widespread in the seventh-largest country in the world?",
+  "gold_answer": "I. helicon",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to answer the question, which is incorrect as the Gold Answer provides the scientific name 'I. helicon'. The context does not directly support the Gold Answer, but the Model Answer fails to utilize internal knowledge or provide any relevant information. Thus, it does not answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

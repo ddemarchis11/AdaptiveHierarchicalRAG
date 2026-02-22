@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a0a91110",
+  "question": "What is the relationship between the British Museum’s collection of cymbals and the musical instrument santir?",
+  "gold_answer": "The British Museum has cymbals used by Egyptian musicians; Assyrian musicians played the dulcimer, known as santir.",
+  "llm_answer": "The evidence does not specify any relationship between the British Museum’s collection of cymbals and the musical instrument santir.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not establish a direct relationship between the British Museum's cymbals and the santir. This aligns with the Gold Answer, which mentions cymbals used by Egyptian musicians and the santir played by Assyrian musicians without linking the two. The Model Answer is faithful to the context and covers the necessary evidence."
+  }
+}

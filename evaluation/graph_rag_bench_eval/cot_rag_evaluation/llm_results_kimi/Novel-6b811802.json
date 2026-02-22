@@ -1,0 +1,42 @@
+{
+  "id": "Novel-6b811802",
+  "question": "According to historical records, which musical instruments—specifically the drum, syrinx, and harp—were used by the ancient Greeks in their musical performances?",
+  "gold_answer": "The Greeks use the drum, syrinx, and harp as musical instruments.",
+  "llm_answer": "The provided evidence does not specify which musical instruments—specifically the drum, syrinx, and harp—were used by the ancient Greeks in their musical performances.",
+  "context": [
+    {
+      "text": "Most nations of antiquity ascribed the invention of their musical instruments to their gods, or to certain superhuman beings. The Hebrews attributed it to man; Jubal is mentioned in Genesis as “the father of all such as handle the harp and organ” (_i.e._, performers on stringed instruments and wind instruments). As instruments of percussion are almost invariably in use long before people are led to construct stringed and wind instruments it might perhaps be surmised that Jubal was not regarded as the inventor of all the Hebrew instruments, but rather as the first professional cultivator of instrumental music. CHAPTER IV. THE GREEKS. Many musical instruments of the ancient Greeks are known to us by name; but respecting their exact construction and capabilities there still prevails almost as much diversity of opinion as is the case with those of the Hebrews. It is generally believed that the Greeks derived their musical system from the Egyptians. Pythagoras and other philosophers are said to have studied music in Egypt. It would, however, appear that the Egyptian influence upon Greece, as far as regards this art, has been overrated. Not only have the more perfect Egyptian instruments--such as the larger harps, the tamboura--never been much in favour with the Greeks, but almost all the stringed instruments which the Greeks possessed are stated to have been originally derived from Asia. Strabo says: “Those who regard the whole of Asia, as far as India, as consecrated to",
+      "id": "Novel-54537_c_39"
+    },
+    {
+      "text": "was the case with the _buccina_,--originally perhaps a conch shell, and afterwards a simple horn of an animal,--and the _lituus_, which was bent at the broad end but otherwise straight. The _tympanum_ resembled the tambourine and was beaten like the latter with the hands. Among the Roman instruments of percussion the _scabillum_, which consisted of two plates combined by means of a sort of hinge, deserves to be noticed; it was fastened under the foot and trodden in time, to produce certain rhythmical effects in musical performances. The _cymbalum_ consisted of two metal plates similar to our cymbals. The _crotala_ and the _crusmata_ were kinds of castanets, the former being oblong and of a larger size than the latter. The Romans had also a _triangulum_, which resembled the triangle occasionally used in our orchestra. The _sistrum_ they derived from Egypt with the introduction of the worship of Isis. Metal bells, arranged according to a regular order of intervals and placed in a frame, were called _tintinnabula_. The _crepitaculum_ appears to have been a somewhat similar contrivance on a hoop with a handle. Through the Greeks and Romans we have the first well-authenticated proof of musical instruments having been introduced into Europe from Asia. The Romans in their conquests undoubtedly made their musical",
+      "id": "Novel-54537_c_52"
+    },
+    {
+      "text": "Temple. THE HEBREWS. As regards the musical instruments of the Hebrews, we are from biblical records acquainted with the names of many of them; but representations to be trusted are still wanting, and it is chiefly from an examination of the ancient Egyptian and Assyrian instruments that we can conjecture almost to a certainty their construction and capabilities. From various indications, which it would be too circumstantial here to point out, we believe the Hebrews to have possessed the following instruments: THE HARP. There cannot be a doubt that the Hebrews possessed the harp, seeing that it was a common instrument among the Egyptians and Assyrians. But it is uncertain which of the Hebrew names of the stringed instruments occurring in the Bible really designates the harp. THE DULCIMER. Some writers on Hebrew music consider the _nebel_ to have been a kind of dulcimer; others conjecture the same of the _psanterin_ mentioned in the book of Daniel,--a name which appears to be synonymous with the _psalterion_ of the Greeks, and from which also the present oriental dulcimer, _santir_, may have been derived. Some of the instruments mentioned in the book of Daniel may have been synonymous with some which occur in other parts of the Bible under Hebrew names; the names given in Daniel being Chaldæan. The _asor_ was a ten-stringed instrument played with a plectrum, and",
+      "id": "Novel-54537_c_28"
+    },
+    {
+      "text": "upon the real meaning of which much diversity of opinion prevails. _Jobel_ is by some commentators classed with the trumpets, but it is by others believed to designate a loud and cheerful blast of the trumpet, used on particular occasions. If _Jobel_ (from which _jubilare_ is supposed to be derived) is identical with the name _Jubal_, the inventor of musical instruments, it would appear that the Hebrews appreciated pre-eminently the exhilarating power of music. _Shalisbim_ is supposed to denote a triangle. _Nechiloth_, _gittith_, and _machalath_, which occur in the headings of some psalms, are also by commentators supposed to be musical instruments. _Nechiloth_ is said to have been a flute, and _gittith_ and _machalath_ to have been stringed instruments, and _machol_ a kind of flute. Again, others maintain that the words denote peculiar modes of performance or certain favourite melodies to which the psalms were directed to be sung, or chanted. According to the records of the Rabbins, the Hebrews in the time of David and Solomon possessed thirty-six different musical instruments. In the Bible only about half that number are mentioned. Most nations of antiquity ascribed the invention of their musical instruments to their gods, or to certain superhuman beings. The Hebrews attributed it to",
+      "id": "Novel-54537_c_38"
+    },
+    {
+      "text": "Romans we have the first well-authenticated proof of musical instruments having been introduced into Europe from Asia. The Romans in their conquests undoubtedly made their musical instruments known, to some extent, also in western Europe. But the Greeks and Romans are not the only nations which introduced eastern instruments into Europe. The Phœnicians at an early period colonized Sardinia, and traces of them are still to be found on that island. Among these is a peculiarly constructed double-pipe, called _lionedda_ or _launedda_. Again, at a much later period the Arabs introduced several of their instruments into Spain, from which country they became known in France, Germany, and England. Also the crusaders, during the eleventh and twelfth centuries, may have helped to familiarize the western European nations with instruments of the east. CHAPTER V. THE CHINESE. Allowing for any exaggeration as to chronology, natural to the lively imagination of Asiatics, there is no reason to doubt that the Chinese possessed long before our Christian era musical instruments to which they attribute a fabulously high antiquity. There is an ancient tradition, according to which they obtained their musical scale from a miraculous bird, called foung-hoang, which appears to have been a sort of phœnix. When Confucius, who lived about B.C. 500, happened to hear on a certain occasion some Chinese music, he became so greatly enraptured that he could",
+      "id": "Novel-54537_c_53"
+    }
+  ],
+  "cot_scratchpad": "- Greeks used drum (tympanum), syrinx (pan-pipes), and harp among their instruments (Novel-54537_c_52).\n- Tympanum described as tambourine-like, struck by hand; syrinx listed among wind instruments; harp classed with stringed instruments (Novel-54537_c_52).\n- Evidence explicitly names these three instruments as Greek.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to historical records, which musical instruments—specifically the drum, syrinx, and harp—were used by the ancient Greeks in their musical performances?",
+      "doc_ids": [
+        "Novel-54537_c_39",
+        "Novel-54537_c_52",
+        "Novel-54537_c_28",
+        "Novel-54537_c_38",
+        "Novel-54537_c_53"
+      ]
+    }
+  ]
+}

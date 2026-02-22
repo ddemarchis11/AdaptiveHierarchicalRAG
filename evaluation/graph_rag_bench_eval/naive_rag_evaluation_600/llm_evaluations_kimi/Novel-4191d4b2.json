@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4191d4b2",
+  "question": "What is the significance of the city of Toser in the narrative regarding Captain Balfour's travels, including his visit and the presence of Moorish baths in the city?",
+  "gold_answer": "Toser was visited by Captain Balfour and has Moorish baths.",
+  "llm_answer": "Toser is significant in Captain Balfour’s narrative as a key stop during his tour of the Jereed with the “Bey of the Camp.” The city is described in detail: its gardens under date-trees, warm streams where the travelers bathed, and the presence of Moorish baths—described as “a luxury rare on the confines of the Desert.” These baths, along with the city’s mosques, schools, and fondouks (inns), highlight Toser’s relative refinement despite its outwardly dilapidated appearance. The mention of Moorish baths underscores the cultural and infrastructural aspects of Toser that stood out to the travelers, marking it as a notable, if modest, center of comfort and civilization in the region.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the significance of Toser in Captain Balfour's travels, including the visit and the presence of Moorish baths. It provides additional context about the city's features, such as its gardens, warm streams, and cultural infrastructure, which are supported by the retrieved context. The core meaning of the Gold Answer is fully contained, and all key facts are covered."
+  }
+}

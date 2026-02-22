@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e92c0652",
+  "question": "Imagine you are a member of the Chateau Clique writing a private letter about the ongoing conflict with the Patriotes and the struggles with French Canadians.",
+  "gold_answer": "Private Letter — The situation grows tenser with each passing day. The Patriotes, emboldened by the support of their French Canadian base, stand in direct conflict with us. Their victories, such as at St Denis, have only strengthened their resolve. Our efforts are met with resistance, and the Assembly’s complaints about the expenditure of public moneys without the consent of the Executive government complicate matters further. The British government, for its part, continues to keep loyal to French Canadians, but their loyalty to the British crown is being sorely tested.",
+  "llm_answer": "The Patriotes grow bolder each week: they drill openly, fly tricolour flags, and force our loyal militia officers to resign at gun-point; even Papineau, though he hesitates at outright revolt, is swept along by the mob he inflamed.  Their aim is clear—to wrest control from the British crown and the established order we represent—while we of the Château Clique struggle to keep the province quiet with too few troops and a governor whose proclamations they simply ignore.  If London delays reinforcements much longer, I fear the countryside from St Denis to St Charles will be lost to armed bands who already treat French-Canadian “neutrals” as enemies if they refuse to join the standard of rebellion.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the core meaning of the Gold Answer, describing the escalating conflict with the Patriotes, their emboldened actions, and the challenges faced by the Château Clique. It provides additional relevant details, such as the tricolour flags and forced resignations, which are supported by the Retrieved Context. All key facts from the Gold Answer, including the tension, resistance, and the struggle for control, are present in the Model Answer."
+  }
+}

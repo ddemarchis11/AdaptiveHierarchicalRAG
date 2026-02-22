@@ -1,0 +1,12 @@
+{
+  "id": "Novel-da181948",
+  "question": "Who is identified by the initials F. B. in the narrative, particularly as the author of Dr. Elsie Inglis's biography?",
+  "gold_answer": "Lady Frances Balfour",
+  "llm_answer": "The initials F. B. are not identified in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the initials F. B. are not identified in the provided evidence. However, the retrieved context explicitly mentions Lady Frances Balfour as the author of Dr. Elsie Inglis's biography, which matches the Gold Answer. The Model Answer fails to provide the correct identification and does not utilize the relevant information from the context."
+  }
+}

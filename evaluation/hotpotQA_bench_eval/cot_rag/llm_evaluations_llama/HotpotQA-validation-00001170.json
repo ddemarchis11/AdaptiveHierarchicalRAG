@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001170",
+  "question": "Which film does \"Naked Weapon\" follow in the \"Naked\" series?",
+  "gold_answer": "\"Naked Killer\"",
+  "llm_answer": "The film \"Naked Soldier\" follows \"Naked Killer\" in the \"Naked\" series.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that 'Naked Soldier' follows 'Naked Killer' in the 'Naked' series, whereas the question specifically asks about the film 'Naked Weapon.' The correct answer is 'Naked Killer,' as supported by the context. While the Model Answer is grounded in the retrieved context, it fails to address the actual question and misses the key fact from the Gold Answer."
+  }
+}

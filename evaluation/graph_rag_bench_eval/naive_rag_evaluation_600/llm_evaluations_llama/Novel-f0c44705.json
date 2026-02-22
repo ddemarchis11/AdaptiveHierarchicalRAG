@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f0c44705",
+  "question": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+  "gold_answer": "SHEBA won money at The Races.",
+  "llm_answer": "There is no event in the story where SHEBA wins money at the St. Marvells races. However, SHEBA's aunt, GEORGIANA, is involved in the excitement of the St. Marvells races, and SHEBA is indirectly involved through her aunt's actions.\n\nGEORGIANA, SHEBA's aunt, is a gambler and is involved in betting on the Durnstone Handicap at the St. Marvells races. She convinces the DEAN to put money on a horse called \"Dandy Dick\" and later tries to persuade him to put money on another horse, but the DEAN refuses.\n\nIt is also mentioned that BLORE, the DEAN's butler, has been involved in betting on the races and has been to Tattersall's Ring at St. Marvells.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that SHEBA did not win money at the St. Marvells races, which contradicts the Gold Answer. Additionally, the Model Answer introduces details about GEORGIANA and BLORE's involvement in betting that are not directly relevant to the question and are not supported by the retrieved context. The core fact from the Gold Answer, that SHEBA won money at the races, is entirely missed."
+  }
+}

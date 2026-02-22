@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c4f293",
+  "question": "For which guests did Mr. Pepys arrange a special collation during the events described in his diary?",
+  "gold_answer": "Mr. Pepys had a collation for Sir Williams.",
+  "llm_answer": "According to the diary entry for June 25th, Mr. Pepys arranged a special collation for Captain Allen and his daughter Rebecca, and Mr. Hempson, and by and by both Sir Williams.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the guests for whom Mr. Pepys arranged a special collation, including both Sir Williams, as stated in the Gold Answer. Additionally, it provides further details about other attendees (Captain Allen, his daughter Rebecca, and Mr. Hempson), which are supported by the Retrieved Context. The extra information is relevant and grounded in the context, making the answer both correct and faithful."
+  }
+}

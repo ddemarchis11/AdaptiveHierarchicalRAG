@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9be8db74",
+  "question": "How does the narrative connect the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language, and what examples are given to support this linguistic relationship?",
+  "gold_answer": "The names of Egypt, Tyre, and Khati have etymology in the Maya language.",
+  "llm_answer": "The narrative claims that the names of Egypt, Tyre, and the Khati (Hittites) derive from Maya roots and gives these specific examples:\n\n- Egypt: the biblical name Mizraim is said to come from the Maya verbs MIZ (“to clean, remove rubbish formed by dead trees”) and MUSUR (“to cut trees by the roots”), while the Egyptian name for the Nile, Hapimu, is explained as HA (“water”) + PIMIL (“thickness of flat things”), i.e. “the abyss of water.” Thebes is called NO/NA-AMUN, and NA in Maya means “house, mansion.”\n\n- Tyre: the Phoenician name Tzur is linked to Maya TZUC, “promontory” or “a number of villages.”\n\n- Khati (Hittites): their self-designation is derived from Maya KAT/KATAH, “to place impediments on the road,” reflecting their role as obstructers of Egyptian expansion. Their cities are likewise given Maya etymologies: Carchemish is decoded as CAH (“city”) + CHEMUL (“navigator/merchant”), hence “city of merchants,” and Katish as CAH (“city”) + TICH (a Maya sacrificial ceremony), hence “city where sacrifices are offered.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core claim that the names of Egypt, Tyre, and Khati have etymological roots in the Maya language, as stated in the Gold Answer. It provides detailed examples of these connections, such as Mizraim, Hapimu, Tzur, and the Khati cities, all of which are supported by the Retrieved Context. The additional details enhance understanding without introducing unsupported information, and all key facts from the Gold Answer are included."
+  }
+}

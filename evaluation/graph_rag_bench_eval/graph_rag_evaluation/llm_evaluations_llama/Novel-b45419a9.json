@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b45419a9",
+  "question": "To whom did Muley Ismail direct his request during the historical interactions described in the text?",
+  "gold_answer": "Muley Ismail made a request to Louis XIV.",
+  "llm_answer": "I cannot find any information about Muley Ismail in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question correctly and does not provide the information that Muley Ismail directed his request to Louis XIV, as stated in the Gold Answer. Additionally, the retrieved context does not contain relevant information about Muley Ismail or his interactions, making the Model Answer ungrounded and lacking evidence coverage."
+  }
+}

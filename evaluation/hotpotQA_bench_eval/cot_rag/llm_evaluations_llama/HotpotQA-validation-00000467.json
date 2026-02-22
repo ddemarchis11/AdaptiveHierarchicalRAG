@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000467",
+  "question": "Which battle occurred first, the Battle of Manila or the Battle of Guam?",
+  "gold_answer": "Battle of Guam",
+  "llm_answer": "The Battle of Guam occurred first, in 1944 (July 21 - August 10), while the Battle of Manila occurred in 1945 (February 3 - March 3).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the Battle of Guam occurred first, providing accurate dates for both battles. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides the timeline for both battles. All key facts from the Gold Answer are included."
+  }
+}

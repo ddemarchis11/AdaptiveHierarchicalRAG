@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ceb6a99b",
+  "question": "What is the residence of The Dean in the play, serving as the main setting for much of the action?",
+  "gold_answer": "The Dean's residence is The Deanery.",
+  "llm_answer": "The residence of The Dean in the play is the Deanery.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies The Deanery as the residence of The Dean, which is consistent with the Gold Answer and supported by the Retrieved Context. It is concise and accurate, covering all necessary facts."
+  }
+}

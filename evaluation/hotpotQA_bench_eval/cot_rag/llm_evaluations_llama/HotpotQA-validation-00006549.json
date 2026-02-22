@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006549",
+  "question": "What man won an Academy Award for his work on a drama based on the life of Rocky Graziano?",
+  "gold_answer": "Francis Keogh Gleason",
+  "llm_answer": "I cannot verify who won an Academy Award for his work on a drama based on the life of Rocky Graziano.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information about Francis Keogh Gleason winning an Academy Award for his work on the drama based on Rocky Graziano's life. It does not utilize the retrieved context effectively and does not address the question."
+  }
+}

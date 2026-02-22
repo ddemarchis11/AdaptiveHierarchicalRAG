@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e179a027",
+  "question": "During the siege of the nunnery in 'Dragon's Blood', where did Rudolph go when he ascended to a higher vantage point to participate in the defense?",
+  "gold_answer": "Rudolph went up the wall.",
+  "llm_answer": "Rudolph went to the roof of the nunnery.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Rudolph went to the roof of the nunnery, which contradicts the Gold Answer that specifies he went up the wall. Additionally, the retrieved context does not provide any information to support the claim about the roof or the wall, making the answer unfaithful and lacking evidence coverage."
+  }
+}

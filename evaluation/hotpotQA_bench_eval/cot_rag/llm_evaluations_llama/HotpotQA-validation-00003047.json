@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003047",
+  "question": "What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?",
+  "gold_answer": "Teamsters leader",
+  "llm_answer": "I cannot verify the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct job of the character Jack Nicholson played in the specified film ('Teamsters leader'). It does not utilize any relevant information from the retrieved context and does not address the question effectively."
+  }
+}

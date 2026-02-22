@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5610453b",
+  "question": "Where did Mr. Inglis reside during the years following his return from India, as recounted in the family's history?",
+  "gold_answer": "Mr. Inglis lived in Edinburgh.",
+  "llm_answer": "The family moved to rooms in Melville Street after leaving their home at Bruntsfield, following Mrs. Inglis' death.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Mr. Inglis resided in Melville Street after Mrs. Inglis' death, which pertains to a different time period and individual. The Gold Answer specifies Edinburgh as Mr. Inglis' residence following his return from India, and this is not addressed in the Model Answer. Additionally, the Retrieved Context does not support the claim about Melville Street, making the answer unfaithful and lacking evidence coverage."
+  }
+}

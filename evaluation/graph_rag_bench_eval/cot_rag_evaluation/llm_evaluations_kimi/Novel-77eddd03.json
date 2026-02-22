@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77eddd03",
+  "question": "As explained in the section on the properties of alcohol, what does alcohol look like in appearance?",
+  "gold_answer": "Alcohol looks like water.",
+  "llm_answer": "Alcohol looks like water.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that alcohol looks like water, which is directly supported by the retrieved context. It aligns perfectly with the Gold Answer and includes all necessary facts without adding unsupported details."
+  }
+}

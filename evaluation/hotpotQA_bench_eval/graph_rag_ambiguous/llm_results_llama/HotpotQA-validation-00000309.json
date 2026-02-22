@@ -1,0 +1,280 @@
+{
+  "id": "HotpotQA-validation-00000309",
+  "question": "Do the film about a borough known for its ferry crossing and the biographical music documentary about a legendary rock-and-roll figure both belong to the same non-fiction genre?",
+  "gold_answer": "yes",
+  "llm_answer": "No, the film about a borough known for its ferry crossing and the biographical music documentary about a legendary rock-and-roll figure do not necessarily belong to the same non-fiction genre. The first film is likely a documentary about a place, whereas the second film is a biographical documentary about a person.",
+  "context": [
+    {
+      "text": "Sunset Strip is a 2012 documentary directed by Hans Fjellestad and produced by Tommy Alastra. The documentary explores the history of the mile and a half long stretch of road through West Hollywood known as Sunset Strip . It premiered at the South by Southwest Film Festival . Synopsis Film portal United States portal The film begins with a poem recited by Mark Mahoney, and utilizes several celebrities to discuss the history of the Sunset Strip. The Sunset Strip was born during the Roaring Twenties as a dirt road connecting Hollywood's big studios to the new development known as Beverly Hills . The so-called strip was just outside of the city, and LAPD's jurisdiction, which provided the ideal environment for speakeasies, brothels, and crime of every level, but also led to much creativity. Using the stars who worked and found success there, this film explores the stories that make up the history of the Sunset Strip. Much of the time spent is on the 1950-1970s era, but the film touches upon major events such as the Golden Age of Hollywood at Ciro's and the Trocadero , The Doors playing at the Whiskey-A-Go-Go and The Roxy , legends about Mickey Cohen , and the multiple influential rock artists who called that part of the city home. Production Tommy Alastra Productions began shooting in 2010. The film features so-called \"guerilla footage\" (amateur shots, often from the crowd's perspective) of the Strip's club and rock and roll shows, and interviews shot in different locations. Conversation-style interviews about memories are used, as opposed to the traditional \"talking at the camera\" format of documentaries. As a result, the film eschews the more structured format of shaping its ideas. Many of the interviews feature more than one actor or musician, and Tommy Alastra Productions compiled footage under multiple sources. It was a challenge to remove background noise, create smooth sound quality and ensure archival footage was presented clearly as a result. Celebrity appearances Various musicians, movie celebrities, and personalities are asked about their experiences in and around the Sunset Strip, and their recollection of important moments (such as the shutdown of Tower Records). Jane's Addiction Cisco Adler , Musician Lou Adler , Producer Ahmed Ahmed , Actor Tommy Alastra Kenneth Anger , Director Robin Antin , Choreographer Isis Aquarian Tom Arnold , Actor Dan Aykroyd , Actor André Balazs , CEO & Hotelier Gerry Beckley , Musician Rodney Bingenheimer , DJ Bobby Blotzer , Musician Steven Blush D.J. Bonebrake , Musician Dewey Bunnell , Musician Edd Byrnes , Actor Carlos Cavazo , Musician Exene Cervenka , Singer & Artist Robert Carl Cohen Clifton Collins Jr. , Actor Alice Cooper , Singer & Song Writer Sofia Coppola , Director Billy Corgan , Musician Robbie Crane , Musician Cherie Currie , Musician &",
+      "id": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_c_0",
+      "doc_id": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html",
+      "community_id": 1,
+      "score": 20.123056
+    },
+    {
+      "text": "Sathish Kalathil is an Indian film and documentary director and producer in Malayalam . His debut movie Jalachhayam (2010) was well discussed His first film was Veenavaadanam (2008), an experimental documentary about art (painting). He is also a story writer, poet, lyricist and journalist. Personal life Sathish was born to K. P. Sankaran and K. M. Komalam in Thrissur district of Kerala , India . He is the editor at Prathibhavam online periodical and associate editor at Utthareeyam Magazine . He is also a political leader of Nationalist Congress Party with the post secretary of Nationalist Labour Congress, Kerala , a Labour wing of N.C.P and state working president of Kerala Vazhi Vanibha Sabha ( H.M.S ) union. Filmography Direction Lyrics Sathish penned lyrics for his documentaries, Veenavaadanam and Jnana Saradhi . He has also written Ghazals for a musical documentary film, Arabikadalinte Ghazal Nilavu and Sithaye Suthanuve . He has experimented in song creation using Artificial intelligence and released an audio collection, Kannin Chirakiloru Mazhatthulli. He also released two video albums in the same year, Kadathanadan Thathamma and Pranayathinte neerazhiyil using various AI video generated websites. Sathish has published poems under the Pen Name 'Surya'. Book He wrote the book, ' Laloorinu Parayanullathu (What has Laloor To Say)' Published by Vidyaposhini Publications, Thrissur. Career Sathish started the news magazine Prathibhavam in 2000.  ,  He established a trust in 2010, Digital Film Makers Forum (D.F.M.F.), to help amateur digital filmmakers make and promote digital films. The trust intervened against the termination of Sree Rama Varma Music School in 2013 and made many protests for the survival of the school. References External links Wikimedia Commons has media related to Sathish Kalathil . Sathish Kalathil at IMDb Official Website D.F.M.F Trust Prathibhavam Magazine",
+      "id": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_c_0",
+      "doc_id": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html",
+      "community_id": 0,
+      "score": 17.705873
+    },
+    {
+      "text": ", Actor Carlos Cavazo , Musician Exene Cervenka , Singer & Artist Robert Carl Cohen Clifton Collins Jr. , Actor Alice Cooper , Singer & Song Writer Sofia Coppola , Director Billy Corgan , Musician Robbie Crane , Musician Cherie Currie , Musician & Actress Clive Davis , Producer Warren Demartini , Musician Bob Denver (Archived), Actor Johnny Depp , Actor & Musician Pamela Des Barres Joe DiCarlo Phyllis Diller , Actress John Doe , Singer & Song Writer Stephen Dorff , Actor Taime Downe , Musician Carmen Electra , Actress Len Fagen Perry Farrell , Musician Brent Fitz , Musician Mick Fleetwood , Musician Peter Fonda , Actor Kim Fowley , Musician Pleasant Gehman , Musician Travis Haley Argus Hamilton Nikki Haskell James Heimann Paris Hilton , Actress Barney Hoskyns , Music Critic Anton Hosney Dom Irrera , Actor Laurie Jacobson Maz Jobrani Steve Jones , Musician Jeff Klein , Musician William Knoedelseder Robby Krieger , Musician Harvey Kubernik Art Kunkin Robert Landau Darren Leader Tommy Lee Lemmy Richard Lewis , Actor Courtney Love , Musician Hugh Hefner Mark Mahoney , Artist Method Man , Actor Dirty Martini , Exotic Dancer T.J. McDonnell Duff McKagan , Musician Larry Miller , Comedian Shanna Moakler , Actress Paul Mooney , Comedian Billy Morrison , Musician Mýa Dave Navarro , Singer & Songwriter Jack Osbourne Kelly Osbourne , Actress, Singer & Songwriter Ozzy Osbourne , Songwriter Sharon Osbourne Steel Panther Corey Parks , Actor Russ Parrish , Musician Stephen Pearcy , Musician Stephen Perkins , Musician Slim Jim Phantom , Musician Domenic Priore , Author Riki Rachtman , Radio Personality Ratt Keanu Reeves , Director & Musician Tim Reid , Actor & Director Josh Richman , Actor Mickey Rourke , Actor Ralph Saenz , Musician Joshua Sandoval , Musician Johnathon Schaech , Actor George Schlatter , Producer & Director Chelsea Schwartz Neil Sedaka , Musician Slash , Musician Smashing Pumpkins Matt Sorum , Musician Seymour Stein , Music Executive Stephen Stills , Singer & Songwriter Rachel Sterling , Actress Sharon Stone , Actress Dita Von Teese , Actress Joanna Theobalds Katie Wagner , Journalist Sheila Weller Willie Wilkerson X Billy Zoom , Musician Betty Rowland (actress), Actress Music The documentary lists a total of 48 songs in the credits, ranging from \"You Set the Scene\" by Love to \"The Trip\" by Donovan as well as music from Ratt, X, The Pussycat Dolls and Jane's Addiction. Slash, Billy Corgan, Robbie Krieger of The Doors and Perry Farrell are all featured speakers in the documentary. Release and distribution",
+      "id": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_c_1",
+      "doc_id": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html",
+      "community_id": 1,
+      "score": 17.666101
+    },
+    {
+      "text": "status as a \"festival of record\". He lamented the decline of campus film societies: \"There was once a time when young people made it their business to catch up on the best works by the best directors, but the death of film societies and repertory theaters put an end to that, and for today's younger filmgoers, these are not well-known names: Buñuel , Fellini , Bergman , Ford , Kurosawa , Ray , Renoir , Lean , Bresson , Wilder , Welles . Most people still know who Hitchcock was, I guess.\" Ebert argued for the aesthetic values of black-and-white photography and against colorization, writing: Black-and-white movies present the deliberate absence of color. This makes them less realistic than color films (for the real world is in color). They are more dreamlike, more pure, composed of shapes and forms and movements and light and shadow. Color films can simply be illuminated. Black-and-white films have to be lighted ... Black and white is a legitimate and beautiful artistic choice in motion pictures, creating feelings and effects that cannot be obtained any other way. He wrote: \"Black-and-white (or, more accurately, silver-and-white) creates a mysterious dream state, a simpler world of form and gesture. Most people do not agree with me. They like color and think a black-and-white film is missing something. Try this. If you have wedding photographs of your parents and grandparents, chances are your parents are in color and your grandparents are in black and white. Put the two photographs side by side and consider them honestly. Your grandparents look timeless. Your parents look goofy. The next time you buy film for your camera, buy a roll of black-and-white. Go outside at dusk, when the daylight is diffused. Stand on the side of the house away from the sunset. Shoot some natural-light closeups of a friend. Have the pictures printed big, at least 5 x 7. Ask yourself if this friend, who has always looked ordinary in every color photograph you've ever taken, does not suddenly, in black and white, somehow take on an aura of mystery. The same thing happens in the movies.\" Ebert championed animation, particularly the films of Hayao Miyazaki and Isao Takahata . In his review of Miyazaki's Princess Mononoke , he wrote: \"I go to the movies for many reasons. Here is one of them. I want to see wondrous sights not available in the real world, in stories where myth and dreams are set free to play. Animation opens that possibility, because it is freed from gravity and the chains of the possible. Realistic films show the physical world; animation shows its essence. Animated films are not copies of 'real movies,' are not shadows of reality, but create a new existence in their own right.\" He concluded his review of Ratatouille by writing: \"Every",
+      "id": "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_13",
+      "doc_id": "HotpotQA-validation-00001066/01_Roger-Ebert.html",
+      "community_id": 8,
+      "score": 16.908396
+    },
+    {
+      "text": "I pitied and loved him. And when I saw the movie right after Mastroianni died, I thought that Fellini and Marcello had taken a moment of discovery and made it immortal. There may be no such thing as the sweet life. But it is necessary to find that out for yourself. Preferences Favorites In an essay looking back at his first 25 years as a film critic, Ebert wrote: If I had to make a generalization, I would say that many of my favorite movies are about Good People ... Casablanca is about people who do the right thing. The Third Man is about people who do the right thing and can never speak to one another as a result ... Not all good movies are about Good People. I also like movies about bad people who have a sense of humor. Orson Welles , who does not play either of the good people in The Third Man , has such a winning way, such witty dialogue, that for a scene or two we almost forgive him his crimes. Henry Hill, the hero of Goodfellas , is not a good fella, but he has the ability to be honest with us about why he enjoyed being bad. He is not a hypocrite. Of the other movies I love, some are simply about the joy of physical movement. When Gene Kelly splashes through Singin' in the Rain , when Judy Garland follows the yellow brick road, when Fred Astaire dances on the ceiling, when John Wayne puts the reins in his teeth and gallops across the mountain meadow, there is a purity and joy that cannot be resisted. In Equinox Flower , a Japanese film by the old master Yasujirō Ozu , there is this sequence of shots: A room with a red teapot in the foreground. Another view of the room. The mother folding clothes. A shot down a corridor with a mother crossing it at an angle, and then a daughter crossing at the back. A reverse shot in the hallway as the arriving father is greeted by the mother and daughter. A shot as the father leaves the frame, then the mother, then the daughter. A shot as the mother and father enter the room, as in the background the daughter picks up the red pot and leaves the frame. This sequence of timed movement and cutting is as perfect as any music ever written, any dance, any poem. Ebert credits film historian Donald Richie and the Hawaii International Film Festival for introducing him to Asian cinema through Richie's invitation to join him on the jury of the festival in 1983, which quickly became a favorite of his and would frequently attend along with Richie, lending their support to validate the festival's status as a \"festival of record\". He lamented the decline of campus film societies: \"There was once a time when young people made it their business to catch up on the best works by the best directors, but the death of film societies and repertory theaters put an end to",
+      "id": "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_12",
+      "doc_id": "HotpotQA-validation-00001066/01_Roger-Ebert.html",
+      "community_id": 8,
+      "score": 16.48039
+    },
+    {
+      "text": "Damage is the eighth studio album by American punk blues band Blues Explosion , released in 2004. This is the first album that the band has released under the abbreviated name \"Blues Explosion\" rather than their previous name, \" The Jon Spencer Blues Explosion \". Spencer said about the band name change: \"It's always been a band, never a solo project, The name change honors a band that allows the three of us to make music for a while. It may not be the best thing to do. Sometimes we shoot ourselves in the foot. The Blues Explosion is kind of a punk rock band. We do what we want.\" The album featured vocals from Martina Topley-Bird and Chuck D. Steve Jordan, Jay Braun , Dan the Automator , David Holmes and DJ Shadow were the producers of the album. The UK vinyl and CD/DVD as well as the US enhanced CD releases of Damage were in a matchbook-style design. The Enhanced section contains a 22-minute film directed by Niko Tavernese (Exclusive studio footage of the band with various producers recording Damage ). Track listing \"Damage\" – 2:25 \"Burn It Off\" – 2:56 \"Spoiled\" – 3:33 \"Crunchy\" – 3:40 \"Hot Gossip\" – 3:31 \"Mars, Arizona\" – 2:25 \"You Been My Baby\" – 3:22 \"Rivals\" – 1:55 \"Help These Blues\" – 3:50 \"Fed Up and Low Down\" – 4:06 \"Rattling\" – 4:17 \"Blowing My Mind\" – 3:46 References v t e",
+      "id": "HotpotQA-validation-00004521/02_Damage-Blues-Explosion-album.html_c_0",
+      "doc_id": "HotpotQA-validation-00004521/02_Damage-Blues-Explosion-album.html",
+      "community_id": 0,
+      "score": 15.932338
+    },
+    {
+      "text": "Hoffa may refer to: Film Hoffa (film) , a 1992 biographical film about labor leader Jimmy Hoffa People Rafael Araújo (basketball) , Brazilian NBA basketball player, nicknamed Hoffa Albert Hoffa (1859–1907), German orthopaedic surgeon James P. Hoffa (born 1941), son of Jimmy Hoffa, former leader of the Teamsters Union Jimmy Hoffa (1913–1975), former leader of the Teamsters Union and author Portland Hoffa (1905–1990), American comedian, actor, and dancer Reese Hoffa (born 1977), American shot-putter Other uses Hoffa fracture See also Hofer (disambiguation) Höfer , a surname Hoffer , a surname This disambiguation page lists articles associated with the title Hoffa . If an internal link led you here, you may wish to change the link to point directly to the intended article.",
+      "id": "HotpotQA-validation-00003047/00_Hoffa.html_c_0",
+      "doc_id": "HotpotQA-validation-00003047/00_Hoffa.html",
+      "community_id": 0,
+      "score": 15.511172
+    },
+    {
+      "text": "Kieran Crichlow (born 31 July 1981) is a retired footballer who played as a striker . Born in England, he represented Barbados at international level. Club career He played for a number of English non-league clubs, including Hounslow Borough , Molesey , Witney United and Hampton & Richmond Borough . International career Crichlow made his debut for Barbados in a May 2008 friendly match against Trinidad & Tobago . References v t e",
+      "id": "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_c_0",
+      "doc_id": "HotpotQA-validation-00002222/00_Kieran-Crichlow.html",
+      "community_id": 0,
+      "score": 15.297082
+    },
+    {
+      "text": "Raymond Clevie Carver Jr. (May 25, 1938 – August 2, 1988) was an American short story writer and poet . He published his first collection of stories, Will You Please Be Quiet, Please? , in 1976. His breakout collection, What We Talk About When We Talk About Love (1981), received immediate acclaim and established Carver as an important figure in the literary world. It was followed by Cathedral (1983), which Carver considered his watershed and is widely regarded as his masterpiece. The definitive collection of his stories, Where I'm Calling From , was published shortly before his death in 1988. In their 1989 nomination of Carver for the Pulitzer Prize for Fiction , the jury concluded, \"The revival in recent years of the short story is attributable in great measure to Carver's mastery of the form.\" Early life Carver was born in Clatskanie, Oregon , a mill town on the Columbia River , and grew up in Yakima, Washington , the son of Ella Beatrice Carter (née Casey) and Clevie Raymond Carver. His father, a sawmill worker from Arkansas , was a fisherman and a heavy drinker. Carver's mother worked on and off as a waitress and a retail clerk. His brother, James Franklin Carver, was born in 1943. Carver was educated at local schools in Yakima. In his spare time, he read mostly novels by Mickey Spillane or publications such as Sports Afield and Outdoor Life , and hunted and fished with friends and family. After graduating from Yakima High School in 1956, Carver worked with his father at a sawmill in California. In June 1957, at age 19, he married 16-year-old Maryann Burk, who had just graduated from a private Episcopal school for girls. Their daughter, Christine La Rae, was born in December 1957. Their second child, a boy named Vance Lindsay, was born a year later. Carver worked as a delivery man, janitor, library assistant, and sawmill laborer, while Maryann worked as an administrative assistant, high school English teacher, salesperson, and waitress. Writing career Carver moved to Paradise, California , with his family in 1958 to be close to his mother-in-law. He became interested in writing while attending Chico State College and enrolled in a creative writing course taught by the novelist John Gardner , then a recent doctoral graduate of the Iowa Writers' Workshop , who became a mentor and had a major influence on Carver's life and career. In 1961, Carver's first published story, \"The Furious Seasons\", appeared. More florid than his later work, the story strongly bore the influence of William Faulkner . \"Furious Seasons\" was later used as a title for a collection of stories published by Capra Press, and",
+      "id": "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_0",
+      "doc_id": "HotpotQA-validation-00003404/01_Raymond-Carver.html",
+      "community_id": 0,
+      "score": 15.071327
+    },
+    {
+      "text": "he wants us to identify with their fears and frustrations. Do the Right Thing doesn't ask its audiences to choose sides; it is scrupulously fair to both sides, in a story where it is our society itself that is not fair.\" Contrarian reviews Metacritic later noted that Ebert tended to give more lenient ratings than most critics. His average film rating was 71%, if translated into a percentage, compared to 59% for the site as a whole. Of his reviews, 75% were positive and 75% of his ratings were better than his colleagues. Ebert had acknowledged in 2008 that he gave higher ratings on average than other critics, though he said this was in part because he considered a rating of 3 out of 4 stars to be the general threshold for a film to get a \"thumbs up.\" Writing in Hazlitt about Ebert's reviews, Will Sloan argued that \"[t]here were inevitably movies where he veered from consensus, but he was not provocative or idiosyncratic by nature.\" Examples of Ebert dissenting from other critics include his negative reviews of such celebrated films as Blue Velvet (\"marred by sophomoric satire and cheap shots\"), A Clockwork Orange (\"a paranoid right-wing fantasy masquerading as an Orwellian warning\"), and The Usual Suspects (\"To the degree that I do understand, I don't care\"). He gave only two out of four stars to the widely acclaimed Brazil , calling it \"very hard to follow\" and is the only critic on RottenTomatoes to not like it. He gave a one-star review to the critically acclaimed Abbas Kiarostami film Taste of Cherry , which won the Palme d'Or at the 1997 Cannes Film Festival . Ebert later added the film to a list of his most-hated movies of all time. He was dismissive of the 1988 Bruce Willis action film Die Hard , stating that \"inappropriate and wrongheaded interruptions reveal the fragile nature of the plot\". His positive 3 out of 4 stars review of 1997's Speed 2: Cruise Control , \"Movies like this embrace goofiness with an almost sensual pleasure\" is one of only three positive reviews accounting for that film's 4% approval rating on the reviewer aggregator website Rotten Tomatoes , one of the two others having been written by his At the Movies co-star Gene Siskel. Ebert reflected on his Speed 2 review in 2013, and wrote that it was \"Frequently cited as an example of what a lousy critic I am,\" but defended his opinion, and noted, \"I'm grateful to movies that show me what I haven't seen before, and Speed 2 had a cruise ship plowing right up the main street of a Caribbean village.\" In 1999, Ebert held a contest for University of Colorado Boulder students to create short films with a Speed 3 theme about",
+      "id": "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_19",
+      "doc_id": "HotpotQA-validation-00001066/01_Roger-Ebert.html",
+      "community_id": 19,
+      "score": 14.866342
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00003404/01_Raymond-Carver.html_9",
+      "summary": "**Title**: Raymond Carver's Literary Legacy\n\n**Summary**: Raymond Carver, a seminal figure in late-20th-century American short fiction, is renowned for minimalist, “dirty-realist” portrayals of working-class despair. His tightly edited collections—shaped first by Gordon Lish’s drastic cuts and later by his own push for authorial control—include *What We Talk About When We Talk About Love*, *Cathedral*, and the posthumously restored *Beginners*. Carver’s poetics of brevity, blue-collar empathy, and precise detail spawned numerous scholarly studies, a prestigious Syracuse University reading series, and a wide array of film/theatre adaptations from Altman’s *Short Cuts* to Iñárritu’s Oscar-winning *Birdman*.\n\n**Keywords**: Raymond Carver, minimalism, short stories, Gordon Lish, adaptations",
+      "is_seed": true,
+      "expand_score": 0.867118239402771
+    },
+    {
+      "community_key": "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "summary": "**Title**: Roger Ebert’s Critical Philosophy  \n\n**Summary**:  \nRoger Ebert’s criticism centered on fairness, context, and respect for audiences of every age, resisting both the MPAA’s secrecy and Hollywood’s homogenized booking. He championed genre films when executed with skill, defended controversial works like *Do the Right Thing* and *Dogma* on moral and artistic grounds, and refused to grade children’s movies on a curve, insisting kids deserve the same narrative rigor as adults. Though statistically more lenient than his peers, he could be contrarian—panning canonized titles such as *A Clockwork Orange* while praising derided ones like *Speed 2*—always grounding judgments in how well a film achieved its own aims rather than in abstract ideology.  \n\n**Keywords**:  \nfilm criticism, MPAA ratings, genre fairness, children’s cinema, contrarian reviews",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007092/00_American-Zeitgeist.html_0",
+      "summary": "**Title**: American Zeitgeist Documentary\n\n**Summary**:  \n\"American Zeitgeist\" is a 2006 documentary by Rob McGann that explores the intersection of religion and the war on terror. The film features prominent thinkers such as Noam Chomsky, Christopher Hitchens, and Tariq Ali, and it won the best feature-length documentary award at the Houston International Film Festival. Once available on YouTube in Canada, the film is now difficult to find online, and information about its director remains scarce.\n\n**Keywords**:  \nAmerican Zeitgeist, Rob McGann, war on terror, religion, documentary",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_1",
+      "summary": "**Title**: Sunset Strip Documentary Celebrities  \n\n**Summary**:  \nThe 2012 documentary “Sunset Strip,” directed by Hans Fjellestad and produced by Tommy Alastra, chronicles the iconic Los Angeles boulevard’s evolution from a 1920s speakeasy haven to a rock-and-roll epicenter. It blends archival footage with candid, multi-celebrity interviews featuring musicians such as Slash, Billy Corgan, Robbie Krieger, and Perry Farrell, plus actors like Johnny Depp, Keanu Reeves, and Sharon Stone. Premiering at SXSW and Cannes, the film was picked up by Showtime and Netflix, and a collector’s DVD added bonus reflections from Hugh Hefner, Ozzy Osbourne, and others.  \n\n**Keywords**: Sunset Strip documentary, celebrity interviews, rock history, 2012 film, West Hollywood culture",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "summary": "**Title:** Carver’s Love & Violence Stories  \n\n**Summary:**  \nThese chunks revolve around Raymond Carver’s 1981 collection *What We Talk About When We Talk About Love*, summarizing its bleak, spare tales where affection collapses into abuse, neglect, or murder. Characters—married couples, old friends, strangers—grapple with failed communication, emotional numbness, and sudden eruptions of violence (fatal beatings, hit-and-runs, suicide). The excerpts also trace the book’s editorial history: Gordon Lish heavily cut the stories, Carver later restored originals in *Beginners*, and multiple tales were adapted into film, TV, and song, cementing Carver’s influence on minimalist fiction and popular culture.  \n\n**Keywords:**  \nCarver, minimalist fiction, love & violence, Lish editing, Beginners",
+      "is_seed": true,
+      "expand_score": 0.867118239402771
+    },
+    {
+      "community_key": "HotpotQA-validation-00004521/01_Jon-Spencer-Blues-Explosion.html_10",
+      "summary": "**Title**: Jon Spencer Blues Explosion Discography  \n\n**Summary**:  \nThe Jon Spencer Blues Explosion’s late-1990s output centers on the 1998 album *Acme* and its satellite releases, which mixed raw rock ’n’ roll with dancehall, remix, and guest-heavy experiments. Singles such as “Talk About The Blues” and “Magical Colors” charted modestly in the UK while the band courted controversy over its blues-name and media portrayal. After the *Acme* cycle, they issued collaborative and remix compilations (*Sideways Soul*, *Acme +* variants), endured a major gear theft, and continued through 2015’s *Freedom Tower* before disbanding in 2018 when guitarist Judah Bauer’s respiratory illness halted touring.  \n\n**Keywords**:  \nAcme, Talk About The Blues, remix albums, UK singles, band split",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007092/02_Billie-Jean.html_1",
+      "summary": "**Title**: Michael Jackson’s “Billie Jean” Legacy  \n\n**Summary**:  \n“Billie Jean,” released in 1983 as the second single from *Thriller*, became Michael Jackson’s best-selling solo single and a global chart-topper, helping propel *Thriller* to the status of best-selling album of all time. The song’s sparse, bass-driven post-disco/funk blend and lyrics about a paternity claim were inspired by groupies’ real-life accusations toward Jackson and his brothers. Its groundbreaking music video broke MTV’s racial barrier, while Jackson’s Emmy-nominated Motown 25 performance debuted the moonwalk and iconic fedora-and-sequined-jacket look, cementing his pop-icon status. Critically acclaimed, “Billie Jean” has garnered Grammy and American Music Awards, Diamond RIAA certification, and high rankings on Rolling Stone’s and the Rock & Roll Hall of Fame’s all-time song lists.  \n\n**Keywords**:  \nBillie Jean, Michael Jackson, Thriller, moonwalk, music-video milestone",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002533/01_Grace-OMalley.html_11",
+      "summary": "**Title**: Grace O’Malley Cultural Legacy\n\n**Summary**:  \nAcross centuries of retelling, the 16th-century Irish chieftain and pirate Grace O’Malley (Gráinne Mhaol) has evolved from historical figure to versatile cultural icon. Modern books—ranging from Judith Cook’s biography to Morgan Llywelyn’s historical fiction and Neal Stephenson & Nicole Galland’s sci-fi epistolary novel—recast her as pirate queen, nationalist symbol, and feminist heroine. Stage and music keep her alive too: Maggie Cronin’s one-woman show “A Most Notorious Woman” tours since 1989, while the sea-shanty “Óró ’Sé Do Bheatha ’Bhaile” celebrates her in folk tradition. Public memory is anchored in place and ritual: statues stand at Westport House, outside Chicago’s Old St Pat’s, and on Newport’s Medlicott Street; Howth’s Grace O’Malley Park marks her legendary 1576 castle visit; three Irish Lights tenders have carried the name Granuaile since 1948; and Tampa’s Ye Loyal Krewe of Grace O’Malley parades her colors at the Gasparilla Pirate Festival.\n\n**Keywords**:  \nGrace O’Malley, pirate queen, Irish folklore, Granuaile, cultural icon",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003047/00_Hoffa.html_0",
+      "summary": "**Title**: Hoffa Disambiguation Page\n\n**Summary**:  \nThis text is a disambiguation page clarifying multiple meanings of “Hoffa.” It lists the 1992 biographical film *Hoffa* about labor leader Jimmy Hoffa, then catalogs notable individuals sharing the surname or nickname: Jimmy Hoffa (Teamsters president), his son James P. Hoffa (also a Teamsters leader), German orthopaedic surgeon Albert Hoffa, American comedian Portland Hoffa, NBA player Rafael “Hoffa” Araújo, and shot-putter Reese Hoffa. A medical term, “Hoffa fracture,” is also mentioned, along with cross-references to similar surnames.\n\n**Keywords**:  \nHoffa, Jimmy Hoffa, disambiguation, Teamsters, Hoffa fracture",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000586/03_The-Long-Road-Home.html_0",
+      "summary": "**Title**: The Long Road Home Works  \n\n**Summary**:  \n“The Long Road Home” is a recurring title across multiple media, most prominently as a 2017 National Geographic miniseries dramatizing the 2004 siege in Sadr City, Iraq, based on Martha Raddatz’s 2006 non-fiction book. The same phrase titles novels by Danielle Steel and W. Michael Gear, a five-issue Dark Tower comic, several music albums (John Fogerty, Danny Worsnop, Charlie Simpson, Mickey Newbury), and assorted songs by Caroline Polachek and Oneohtrix Point Never. Earlier TV movies from 1991 and 1999 also share the name, while related “Long … Home” variants (Long Ride Home, Long Walk Home, etc.) appear in literature and film.  \n\n**Keywords**:  \nLong Road Home, docudrama, Danielle Steel, John Fogerty, disambiguation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001275/01_Syd-Barrett.html_1",
+      "summary": "**Title**: Syd Barrett's Life and Legacy\n\n**Summary**: Syd Barrett, co-founder and original frontman of Pink Floyd, was a pioneering figure in psychedelic rock known for his whimsical songwriting and experimental guitar techniques. After leaving the band in 1968 amid mental health struggles and heavy drug use, he recorded two solo albums with help from former bandmates before retreating from public life in 1974. Despite his brief musical career, Barrett's influence endured through Pink Floyd's tributes like \"Shine On You Crazy Diamond\" and his posthumous recognition in the Rock and Roll Hall of Fame. In later years, he focused on painting and gardening while maintaining strict privacy until his death from pancreatic cancer in 2006.\n\n**Keywords**: Pink Floyd, psychedelic rock, mental health, solo career, musical legacy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_0",
+      "summary": "**Title**: Captain Beefheart A&M Sessions  \n\n**Summary**:  \nThe Legendary A&M Sessions is a 1984 EP that anthologizes Captain Beefheart & His Magic Band’s earliest A&M recordings from 1966, issued long after Beefheart’s retirement. It compiles both singles—“Diddy Wah Diddy” b/w “Who Do You Think You’re Fooling?” and “Moonchild” b/w “Frying Pan”—plus the previously unreleased B-side “Here I Am I Always Am.” All material was produced before the band’s avant-garde breakthrough, offering a snapshot of their blues-rock origins.  \n\n**Keywords**:  \nCaptain Beefheart, A&M Sessions, 1966 singles, Diddy Wah Diddy, early recordings",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "summary": "**Title**: Sathish Kalathil – Malayalam Filmmaker & Cultural Activist  \n\n**Summary**:  \nSathish Kalathil is a multifaceted Indian artist from Kerala known for pioneering experimental Malayalam cinema and digital documentaries such as *Veenavaadanam* (2008) and *Jalachhayam* (2010). Beyond directing and producing, he writes poetry, lyrics, and journalism, and has embraced AI tools to create music videos and audio collections. As founder of the Digital Film Makers Forum trust and editor of *Prathibhavam* magazine, he champions independent digital filmmaking and has led socio-cultural campaigns, including saving a local music school. Politically active with the Nationalist Congress Party, he also heads its Kerala labour wing and trade-union affiliates.  \n\n**Keywords**:  \nMalayalam cinema, digital documentary, AI-generated music, cultural activism, Kerala filmmaker",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_0",
+      "summary": "**Title**: Kieran Crichlow Football Career\n\n**Summary**: Kieran Crichlow is a retired striker born in England on 31 July 1981 who chose to represent Barbados internationally. He spent his club career in English non-league football, turning out for Hounslow Borough, Molesey, Witney United, and Hampton & Richmond Borough. Crichlow earned his first Barbados cap in a May 2008 friendly against Trinidad & Tobago.\n\n**Keywords**: Barbados footballer, non-league striker, international debut, English-born, Caribbean football",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001066/01_Roger-Ebert.html_8",
+      "summary": "**Title:** Roger Ebert’s Critical Philosophy  \n\n**Summary:**  \nRoger Ebert viewed film as an art form whose merit lies in execution, not subject matter, insisting “it’s not what a movie is about, it’s how it’s about what it’s about.” He championed animation, documentaries, and black-and-white photography for their power to reveal emotional essence beyond literal reality. Personal favorites—*Citizen Kane*, *La Dolce Vita*, *The Third Man*—reflected his admiration for morally complex, humanistic storytelling. Even after cancer left him unable to speak, he continued writing passionate, star-rated reviews that balanced intellect with emotional honesty until his death in 2013.  \n\n**Keywords:**  \nfilm criticism, animation advocacy, black-and-white aesthetics, emotional honesty, Life Itself",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "summary": "**Title**: Raymond Carver’s Life & Works  \n\n**Summary**:  \nRaymond Carver (1938-1988) revitalized the American short story through spare, emotionally resonant prose. After modest beginnings in the Pacific Northwest, he studied under John Gardner at Chico State, published his first story in 1961, and broke through with the collections *What We Talk About When We Talk About Love* (1981) and *Cathedral* (1983). Drawing on his working-class background, heavy drinking, and turbulent marriage, Carver crafted minimalist fictions that earned widespread acclaim and a posthumous Pulitzer nomination.  \n\n**Keywords**:  \nminimalism, short-story renaissance, working-class fiction, Cathedral, Iowa Writers’ Workshop",
+      "is_seed": false,
+      "expand_score": 0.8748701810836792
+    },
+    {
+      "community_key": "HotpotQA-validation-00004521/02_Damage-Blues-Explosion-album.html_0",
+      "summary": "**Title**: Blues Explosion Damage Album  \n\n**Summary**:  \nDamage is the 2004 eighth studio album by American punk-blues trio Blues Explosion, notable for being their first release under the shortened band name instead of “The Jon Spencer Blues Explosion.” Jon Spencer framed the rechristening as recognition of the group’s collective identity, acknowledging the risks of the change. The record enlisted high-profile collaborators—Martina Topley-Bird and Chuck D on vocals, and producers Steve Jordan, Jay Braun, Dan the Automator, David Holmes, and DJ Shadow—yielding a raw, genre-blending sound. UK and US editions featured distinctive matchbook-style packaging and an enhanced disc with an exclusive 22-minute studio documentary by Niko Tavernese.  \n\n**Keywords**:  \nBlues Explosion, Damage album, Jon Spencer, punk blues, 2004 release",
+      "is_seed": false,
+      "expand_score": 0.8385595083236694
+    },
+    {
+      "community_key": "HotpotQA-validation-00001275/02_Beyond-the-Wildwood.html_0",
+      "summary": "**Title**: Beyond the Wildwood Tribute Album\n\n**Summary**:  \n\"Beyond the Wildwood – A Tribute to Syd Barrett\" is a compilation album celebrating the legacy of Pink Floyd's original frontman, Syd Barrett. It features reinterpretations of Barrett's songs by British and American indie rock artists, drawing material from Pink Floyd's early singles and first two albums, as well as Barrett's solo works *The Madcap Laughs* and *Barrett*. Despite Barrett's brief recording career (1967–1970), his influence on psychedelic, alternative, and indie rock remains profound.\n\n**Keywords**:  \nSyd Barrett, tribute album, indie rock, psychedelic rock, Pink Floyd",
+      "is_seed": false,
+      "expand_score": 0.8357526063919067
+    },
+    {
+      "community_key": "HotpotQA-validation-00002334/02_Sunset-Strip.html_2",
+      "summary": "**Title**: Sunset Strip Music Scene\n\n**Summary**:  \nThe Sunset Strip, a 1.7-mile stretch of Sunset Boulevard in West Hollywood, has been a cultural and musical epicenter since the 1920s. In the 1960s, it became a hub for rock and counterculture, hosting iconic bands like The Doors and Led Zeppelin at venues such as Whisky a Go Go and The Roxy. The 1970s and 1980s saw the rise of glam metal and heavy metal, with bands like Mötley Crüe and Guns N' Roses defining the era. Despite shifts in musical trends and the rise of \"pay to play\" policies, the Strip remained a key player in the music industry. By the 1990s, alternative music scenes moved eastward, but the Sunset Strip retained its legacy through pop culture references and historic landmarks.\n\n**Keywords**:  \nSunset Strip, rock music, glam metal, West Hollywood, music history",
+      "is_seed": false,
+      "expand_score": 0.8309971690177917
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/01_Raymond-Carver.html_5",
+      "summary": "**Title**: Raymond Carver’s Life and Legacy\n\n**Summary**:  \nRaymond Carver’s journey from a hardscrabble, alcohol-shadowed youth to celebrated American short-story writer is marked by creative triumph, addiction, and redemption. After early literary promise at Humboldt State and the Iowa Writers’ Workshop, he endured years of menial jobs, marital strain, and escalating alcoholism that derailed his teaching and almost ended his life. A 1977 decision to stop drinking launched his “second life,” yielding acclaimed collections such as *Cathedral* and prestigious awards including five O. Henry Prizes and Pulitzer nominations. His partnership with poet Tess Gallagher, whom he married shortly before his 1988 death from lung cancer, stabilized his final decade and shaped management of his literary estate. Posthumous tributes—memoirs, biographies, public art, and continued publication of his work—cement Carver’s reputation as a minimalist master whose stories probe ordinary lives with restrained lyricism.\n\n**Keywords**:  \nRaymond Carver, alcoholism recovery, Cathedral, Tess Gallagher, literary legacy",
+      "is_seed": false,
+      "expand_score": 0.825688362121582
+    },
+    {
+      "community_key": "HotpotQA-validation-00001275/03_Wish-You-Were-Here-Pink-Floyd-album.html_2",
+      "summary": "**Title**: Pink Floyd’s *Wish You Were Here* Creation  \n\n**Summary**:  \nThe 1975 sessions for Pink Floyd’s *Wish You Were Here* at Abbey Road were emotionally fraught, with the band drained after *The Dark Side of the Moon*’s success and struggling to generate new material. Roger Waters steered the project toward a concept album lamenting Syd Barrett’s mental absence and the music industry’s greed, anchored by the 20-minute tribute “Shine On You Crazy Diamond.” David Gilmour pushed for tighter integration of music and message, while interpersonal tensions—especially Nick Mason’s marital collapse—slowed progress. A poignant moment occurred when an unrecognizable Barrett briefly visited the studio during final mixing, underscoring the album’s themes of loss and disconnection.  \n\n**Keywords**:  \nPink Floyd, Wish You Were Here, Syd Barrett, concept album, Abbey Road 1975",
+      "is_seed": false,
+      "expand_score": 0.8194658756256104
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "summary": "**Title**: Raymond Carver’s Final Stories\n\n**Summary**:  \nThese chunks center on Raymond Carver’s 1988 collection *Elephant and Other Stories*, the last seven stories he completed before his death.  The pieces repeatedly return to themes of financial strain, family obligation, and emotional exhaustion: narrators are bled dry by relatives’ demands for money, haunted by failed marriages, and left wrestling with guilt, resentment, and fleeting hope.  Several plots—*Elephant*, *Intimacy*, *Menudo*, *Whoever Was Using This Bed*—feature middle-aged men caught between duty and self-preservation, while the historical vignette *Errand* closes the book with Chekhov’s dignified acceptance of mortality.  Throughout, Carver’s spare prose exposes the fragile bargains people make to keep going.\n\n**Keywords**:  \nfamily debt, marital collapse, Raymond Carver, *Elephant* stories, emotional fatigue",
+      "is_seed": false,
+      "expand_score": 0.8186811208724976
+    },
+    {
+      "community_key": "HotpotQA-validation-00004521/03_Plastic-Fang.html_1",
+      "summary": "**Title**: Jon Spencer's Plastic Fang Album  \n\n**Summary**:  \nPlastic Fang is the 2002 seventh release by Jon Spencer Blues Explosion, issued on Matador and promoted by the single/video “She Said,” whose vampire-nun storyline became a cult favorite. The record blends punk blues with guest turns from Dr. John, Bernie Worrell, and Willie Weeks, and packaging by designer Chip Kidd. Multiple regional editions appeared—US, Australian double-CD/DVD, Japanese—each adding unique tracks, remixes, and the accompanying Fang Visual video compilation of live cuts and promo clips.  \n\n**Keywords**:  \nJon Spencer Blues Explosion, Plastic Fang, She Said music video, Fang Visual DVD, Matador Records",
+      "is_seed": false,
+      "expand_score": 0.800879955291748
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_9",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "HotpotQA-validation-00007092/00_American-Zeitgeist.html_0",
+      "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_1",
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00004521/01_Jon-Spencer-Blues-Explosion.html_10",
+      "HotpotQA-validation-00007092/02_Billie-Jean.html_1",
+      "HotpotQA-validation-00002533/01_Grace-OMalley.html_11",
+      "HotpotQA-validation-00003047/00_Hoffa.html_0",
+      "HotpotQA-validation-00000586/03_The-Long-Road-Home.html_0",
+      "HotpotQA-validation-00001275/01_Syd-Barrett.html_1",
+      "HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_0",
+      "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_0",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_8"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_9",
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00004521/02_Damage-Blues-Explosion-album.html_0",
+      "HotpotQA-validation-00001275/02_Beyond-the-Wildwood.html_0",
+      "HotpotQA-validation-00002334/02_Sunset-Strip.html_2",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_5",
+      "HotpotQA-validation-00001275/03_Wish-You-Were-Here-Pink-Floyd-album.html_2",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00004521/03_Plastic-Fang.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_9",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "HotpotQA-validation-00007092/00_American-Zeitgeist.html_0",
+      "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_1",
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00004521/01_Jon-Spencer-Blues-Explosion.html_10",
+      "HotpotQA-validation-00007092/02_Billie-Jean.html_1",
+      "HotpotQA-validation-00002533/01_Grace-OMalley.html_11",
+      "HotpotQA-validation-00003047/00_Hoffa.html_0",
+      "HotpotQA-validation-00000586/03_The-Long-Road-Home.html_0",
+      "HotpotQA-validation-00001275/01_Syd-Barrett.html_1",
+      "HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_0",
+      "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_0",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_8",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00004521/02_Damage-Blues-Explosion-album.html_0",
+      "HotpotQA-validation-00001275/02_Beyond-the-Wildwood.html_0",
+      "HotpotQA-validation-00002334/02_Sunset-Strip.html_2",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_5",
+      "HotpotQA-validation-00001275/03_Wish-You-Were-Here-Pink-Floyd-album.html_2",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00004521/03_Plastic-Fang.html_1"
+    ],
+    "allowed_chunk_pool_size": 82,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

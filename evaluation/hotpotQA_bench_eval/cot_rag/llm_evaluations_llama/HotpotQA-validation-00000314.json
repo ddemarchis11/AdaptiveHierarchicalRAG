@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000314",
+  "question": "How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?",
+  "gold_answer": "29",
+  "llm_answer": "I cannot verify how many days it took the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information (29 days) as stated in the Gold Answer. It also does not attempt to answer the question using the retrieved context or internal knowledge, resulting in a lack of correctness, grounding, and evidence coverage."
+  }
+}

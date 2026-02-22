@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000866",
+  "question": "What were the occupations of the person who contributed a track to a 2005 hip-hop album co-produced with Marc Predka?",
+  "gold_answer": "professional wrestler, actor, and hip hop musician",
+  "llm_answer": "The context does not provide information about the person who contributed a track to a 2005 hip-hop album co-produced with Marc Predka.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the context does not provide information about the occupations of the person who contributed to the album, but it fails to answer the question using external knowledge or reasoning. The Gold Answer specifies the occupations (professional wrestler, actor, and hip hop musician), which are not mentioned in the Model Answer."
+  }
+}

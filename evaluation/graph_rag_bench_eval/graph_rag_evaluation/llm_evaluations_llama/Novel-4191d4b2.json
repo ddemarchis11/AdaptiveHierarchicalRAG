@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4191d4b2",
+  "question": "What is the significance of the city of Toser in the narrative regarding Captain Balfour's travels, including his visit and the presence of Moorish baths in the city?",
+  "gold_answer": "Toser was visited by Captain Balfour and has Moorish baths.",
+  "llm_answer": "I cannot find any information about the city of Toser in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about the significance of Toser in Captain Balfour's travels, including his visit and the presence of Moorish baths. While the context does not provide relevant information about Toser, the Model Answer does not utilize internal knowledge to provide a correct response, resulting in a score of 0 across all metrics."
+  }
+}

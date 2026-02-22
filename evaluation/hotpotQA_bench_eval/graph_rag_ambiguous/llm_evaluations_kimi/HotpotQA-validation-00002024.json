@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002024",
+  "question": "In which northern English town does the Northern Irish comedian who hosted a long-running ITV variety series in the 1980s currently reside?",
+  "gold_answer": "Rochdale",
+  "llm_answer": "The context does not specify the current town of residence for Jimmy Cricket, the Northern Irish comedian who hosted the 1980s ITV variety series \"And There's More.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the context does not specify the current town of residence for Jimmy Cricket, but it fails to provide the correct answer, 'Rochdale,' which is the Gold Answer. While the response is faithful to the retrieved context, it does not address the user's question accurately or include the required evidence."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-eb7d39ee",
+  "question": "What evidence is there that the British Museum holds a significant collection of ancient musical instruments?",
+  "gold_answer": "The British Museum has bells and cymbals, a fragment of a Greek lyre, an example of a tibia, and Anglo-Saxon trumpets may be seen in a manuscript of the eighth century in the British Museum.",
+  "llm_answer": "The text mentions that a _diaulos_, a double flute, found in a tomb at Athens, is in the British Museum.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the presence of a _diaulos_ in the British Museum, which is supported by the retrieved context. However, it does not address other items mentioned in the Gold Answer, such as bells, cymbals, a Greek lyre fragment, a tibia, or Anglo-Saxon trumpets. While the answer is faithful to the context, it only partially covers the evidence provided in the Gold Answer."
+  }
+}

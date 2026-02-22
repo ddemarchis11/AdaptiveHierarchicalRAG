@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006778",
+  "question": "Careers and The Really Nasty Horse Racing Game are both what kind of game?",
+  "gold_answer": "board game",
+  "llm_answer": "Both Careers and The Really Nasty Horse Racing Game are board games.",
+  "context": [
+    {
+      "text": "The Really Nasty Horse Racing Game is a board game combining luck and tactics . It was designed by Simon Knock in 1987. Contents The game set consists of an oversized game board, bookmaker 's board, betting slips, deck of specials cards, stack of money, dice , and six large plastic horses-and-jockeys and other items. Each player is assigned a horse and races it around the track by rolling a single die. Players can bet on another player's horse, and are issued cards which allow them to commit dirty tricks, for instance making a horse fall or forcing the winner to take a drug test . Reception Brian Walker reviewed The Really Nasty Horse Racing Game for Games International magazine, and gave it 3 stars out of 5, and stated that \"Undemanding families will no doubt enjoy it as it is, and for collectors, well, this will definitely go on top of the heap.\" References v t e",
+      "id": "HotpotQA-validation-00006778/01_The-Really-Nasty-Horse-Racing-Game.html_c_0"
+    },
+    {
+      "text": "Walt Disney World Quest: Magical Racing Tour , sometimes mislabeled as Disney MT Racing or Walt Disney World: Magical Racing Quest , is a 2000 kart racing video game developed by Crystal Dynamics . Set within the real-life Walt Disney World , the game centers on racing around tracks that are inspired and based on attractions at the resort's theme parks to acquire missing parts for the park's fireworks machine, which was accidentally destroyed by Chip 'n' Dale while they were gathering acorns. Gameplay The game consists of normal kart racing gameplay, racing in three-lap races around tracks inspired by Big Thunder Mountain Railroad, Blizzard Beach , Dinosaur , Rock 'n' Roller Coaster , the Haunted Mansion, the Jungle Cruise , Tomorrowland Speedway , Space Mountain, and Pirates of the Caribbean to win parts for the fireworks machine in the game's story mode. Completing the story will also unlock a track inspired by Splash Mountain . However, on tracks inspired by Test Track , Typhoon Lagoon , and Hollywood Studios , players must collect thirty coins around the driving areas of these tracks within four minutes in order to complete their events. The game features 13 playable racers. With the exception of Chip, Dale (both of whom appear in their Rescue Rangers outfits) and Jiminy Cricket , the game's cast are original characters created especially for the game. Reception Reception The Dreamcast version received \"mixed\" reviews according to the review aggregation website Metacritic . Reviewers of IGN and Eurogamer",
+      "id": "HotpotQA-validation-00004352/00_Walt-Disney-World-Quest-Magical-Racing-Tour.html_c_0"
+    },
+    {
+      "text": "Sega Rally Championship is a 1995 racing game developed and published by Sega . Originally released for arcades using the Sega Model 2 board, ports were published for the Sega Saturn in 1995 and Microsoft Windows in 1997. It is a rally racing game that simulates driving on different surfaces with varying friction, with the car's handling changing accordingly. As the first racing game to incorporate this feature, Sega Rally Championship is considered to be a milestone in the evolution of the racing game genre. The game features both cooperative and competitive multiplayer. An enhanced version was released for the Saturn in 1998, supporting analog controls with the Saturn 3D Pad and online play via the Sega Net Link . Sega Rally Championship received critical acclaim, with praise for its gameplay and controls, and it is considered one of the greatest video games of all time . The Saturn version was lauded for its accuracy to the arcade version; later ports were less well-received. The game spawned the Sega Rally series, and was followed by several ports and sequels on subsequent platforms. Gameplay Gameplay of the desert stage in the Saturn version. On-screen directions help the player stay on course. In Sega Rally Championship , players can enter a \"World Championship\" mode consisting of three stages: desert, forest and mountain. The player's finishing position at the end of one stage is carried through to the starting position of the next stage. In this mode, it is impossible to reach first place by the end of the",
+      "id": "HotpotQA-validation-00006778/03_Sega-Rally-Championship.html_c_0"
+    },
+    {
+      "text": "Reception Reception The Dreamcast version received \"mixed\" reviews according to the review aggregation website Metacritic . Reviewers of IGN and Eurogamer praised the presentation of the PlayStation ( IGN ) and Dreamcast versions ( Eurogamer ), and how the developers were able to recreate popular attractions in-game, and the \"Disney-esque\" charm it has. Both also berated the difficulty (with the CPU racers being so hard to beat), some of the graphics, and the fact that the developers only used a small sound sample from each attraction and looped it, which got annoying quickly. A reviewer of GameSpot called the Dreamcast version a good entry to the kart racing genre, while also bringing attention to its many similarities to Mario Kart . The amount of detail put into the tracks and the sound were also praised, but the reviewer was disappointed by the game's short play length. Greg Orlando of NextGen said of the same console version: \"Video game behemoth Eidos has fallen prey to the notion that wacky characters plus karts plus odd power-ups automatically equals good racing fun. It doesn't\". Nintendo Power gave the Game Boy Color version a mixed review, nearly three months before its U.S. release date. See also List of Disney video games References External links Walt Disney World Quest: Magical Racing Tour at MobyGames Walt Disney World Quest: Magical Racing Tour (Game Boy Color) at MobyGames",
+      "id": "HotpotQA-validation-00004352/00_Walt-Disney-World-Quest-Magical-Racing-Tour.html_c_1"
+    },
+    {
+      "text": "with negative consequences, such as being sent to the park bench, having a salary cut or paying hospital fees. Completion of an occupation path enables a player to pick up an 'experience' card, which they can use instead of rolling the dice. These enable the player to move one, two or three squares. If a player completes a single occupation path several times, they can pick up multiple experience cards. Other 'opportunity' cards are collected when landing on particular squares on the outer track which gives a player the option to move to an occupation path. Some of these cards are special or golden opportunities and enable the player to begin the occupation path without the usual prerequisites (usually a payment, a particular degree or having completed another occupation path). An unusual feature of this game compared to more modern board games is that individual players need to record much information on their own scoresheet, such as annual salary, degrees earned and number of times occupation paths have been completed. Towards the end of the game, players can trade cards for money or other favors (such as not knocking to the park bench). Reception Games magazine included Careers in their \"Top 100 Games of 1980\", praising it as a \"classic family game\" that is \"Good for two to six players\". Reviews Games & Puzzles The Playboy Winner's Guide to Board Games Family Games: The 100 Best References External links Careers and Careers for Girls at BoardGameGeek",
+      "id": "HotpotQA-validation-00006778/00_Careers-board-game.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- The Really Nasty Horse Racing Game is a board game (Novel-00006778_c_0).\n- Careers is explicitly called a board game (Novel-00006778_c_2).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Careers and The Really Nasty Horse Racing Game are both what kind of game?",
+      "doc_ids": [
+        "HotpotQA-validation-00006778/01_The-Really-Nasty-Horse-Racing-Game.html_c_0",
+        "HotpotQA-validation-00004352/00_Walt-Disney-World-Quest-Magical-Racing-Tour.html_c_0",
+        "HotpotQA-validation-00006778/03_Sega-Rally-Championship.html_c_0",
+        "HotpotQA-validation-00004352/00_Walt-Disney-World-Quest-Magical-Racing-Tour.html_c_1",
+        "HotpotQA-validation-00006778/00_Careers-board-game.html_c_2"
+      ]
+    }
+  ]
+}

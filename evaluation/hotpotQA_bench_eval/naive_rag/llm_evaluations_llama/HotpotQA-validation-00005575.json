@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005575",
+  "question": "Were both Roger Donaldson and André Cayatte french filmmakers?",
+  "gold_answer": "no",
+  "llm_answer": "Based on the provided evidence, the answer to the question is:\n\nNo, not both Roger Donaldson and André Cayatte were French filmmakers.\n\nAndré Cayatte was a French filmmaker, writer, and lawyer, as stated in the first piece of evidence.\n\nRoger Donaldson, on the other hand, was born in Ballarat, Victoria, Australia, and later emigrated to New Zealand, where he established a career as a film director. He is described as an Australian and New Zealand film director in the second piece of evidence.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that André Cayatte was a French filmmaker while Roger Donaldson was not, as he is described as an Australian and New Zealand film director. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides detailed information about both individuals' nationalities and careers."
+  }
+}

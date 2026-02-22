@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000911",
+  "question": "Which genus contains a greater number of species — the flowering plant genus in the carrot family that includes wild celery, or the aquatic genus of submerged freshwater plants found primarily in the Americas?",
+  "gold_answer": "Apium",
+  "llm_answer": "The genus that contains a greater number of species is the flowering plant genus in the carrot family that includes wild celery, Apiaceae, with more than 3,800 species.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Apiaceae as the genus with the greater number of species, which is not the genus being compared in the question. The correct genus is Apium, which contains 12 species, and the comparison is with Elodea, which contains 8 species. The Model Answer fails to address the specific question and does not provide the correct genus or comparison."
+  }
+}

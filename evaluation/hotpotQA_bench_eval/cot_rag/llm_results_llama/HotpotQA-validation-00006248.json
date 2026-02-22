@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006248",
+  "question": "In what county did Michael Ola attend high school?",
+  "gold_answer": "Clayton County, Georgia, United States",
+  "llm_answer": "Insufficient evidence to determine the county where Michael Ola attended high school.",
+  "context": [
+    {
+      "text": "Michael Ola (born April 19, 1988) is an American former professional football offensive tackle . He played college football at Hampton University and attended Riverdale High School in Riverdale, Georgia . He was also a member of the Jacksonville Sharks , Montreal Alouettes , Miami Dolphins , Chicago Bears , San Diego Chargers , Detroit Lions , Seattle Seahawks , New York Giants , Buffalo Bills , Los Angeles Chargers , and New Orleans Saints . Professional career Jacksonville Sharks Ola was signed by the Jacksonville Sharks on March 3, 2012. He was released on June 11, 2012. Montreal Alouettes Ola signed with the Montreal Alouettes on June 10, 2012. He played for the Alouettes during the 2012 and 2013 CFL seasons. Miami Dolphins Ola was signed to a futures contract by the Miami Dolphins on February 7, 2014. He was released by the Dolphins on May 25, 2014. Chicago Bears Ola signed with the Chicago Bears on May 28, 2014. He made his NFL debut on September 7 against the Buffalo Bills , and made his first career start the following week against the San Francisco 49ers , replacing the injured Matt Slauson . In the 2014 season, he started at four of the five offensive line positions. Ola was released by the Bears on September 5, 2015. San Diego Chargers Ola was signed to the",
+      "id": "HotpotQA-validation-00006248/00_Michael-Ola.html_c_0"
+    },
+    {
+      "text": "Laramie High School ( LHS ) is a high school (grades 9–12) in Laramie , Albany County , Wyoming , United States . In the Albany County School District, high school begins in the 9th grade (freshman year); 9th grade students are now able to attend high school in Laramie due to the building of a new high school. Many LHS students concurrently attend classes at Laramie County Community College (Albany County Campus), or the University of Wyoming. Laramie High School has an online newspaper, the CyberPlainsman. As of the opening of the new building in the 2015–2016 school year, Laramie High School has the highest elevation in the state, at 7280 ft. Sports The LHS mascot is the Plainsman (female counterpart: Lady Plainsman). The Laramie High School football team was coached for 59 years by John E. Deti (1944-1976) and his son John R. Deti (1977-2002). Following the younger Deti's retirement, the team has been coached by Phil Treick (2003-2004), Neil Waring (2005-2007), Bob Knapton (2008-2011), Ted Holmstrom (2012), Chuck Syverson (2013-2016), Clint Reed (2017-2020), and Paul Ronga",
+      "id": "HotpotQA-validation-00006248/02_Laramie-High-School-Wyoming.html_c_0"
+    },
+    {
+      "text": "Great Neck Public Schools is a public school district serving students residing in specific areas of Great Neck , North New Hyde Park , North Hills , and Manhasset Hills, New York . It is Union Free School District Number 7 in the Town of North Hempstead in Nassau County , Long Island , New York , United States. About 6,846 students according to Niche rankings, grades K-12 , attend the Great Neck Public Schools. On May 21, 2019, the voters of this district passed a budget of $234,418,944. As of the 2015-16 school year, the district's ten schools had a total enrollment of 6,399 students and 585.0 classroom teachers (on an FTE basis), for a student-teacher ratio of 10.7. List of schools Current schools Great Neck South High School, 2009 Lakeville Elementary School, July 2021 Parkville School, May 2021 There are three high schools: North High School, with an alternative program, Community School; South High School; and The Village School, a small alternative high school. There are also two middle schools, four elementary schools, and a nursery school. High schools: Great Neck North High School Great Neck South High School Great Neck Village High School (Alternative school) Middle schools: Great Neck North Middle School Great Neck South Middle School Elementary schools: Elizabeth Mellick Baker Elementary School(also known as E. M.",
+      "id": "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0"
+    },
+    {
+      "text": "2017, Ola signed with the Los Angeles Chargers . New Orleans Saints On May 14, 2018, Ola signed with the New Orleans Saints . He was released on September 12, 2018. He was re-signed on October 18, 2018. He suffered a high ankle sprain in Week 14 and was placed on injured reserve on December 11, 2018. On February 19, 2019, Ola re-signed with the Saints. He was released on August 31, 2019. He was re-signed on December 6, 2019. He was released on December 28, 2019. References External links Stats Crew NFL Draft Scout",
+      "id": "HotpotQA-validation-00006248/00_Michael-Ola.html_c_2"
+    },
+    {
+      "text": "and 17.90% of those age 65 or over. Economy The Arkansas Department of Correction , which operates the Cummins Unit and the Varner Unit in Lincoln County, is one of the county's major employers. Human resources Education Educational attainment in Lincoln County is typical for a rural Arkansas county, with a 2012 study finding 78.4% of Lincoln County residents over age 25 held a high school degree or higher and 8.9% holding a bachelor's degree or higher. The Lincoln County rates are below Arkansas averages of 84.8% and 21.1%, and significantly below national averages of 86.7% and 29.8%, respectively. Primary and secondary education One public school district is based in Lincoln County; the Star City School District , which serves the western two-thirds of the county. The remainder of the county is served by the Dumas Public School District , based in Dumas . Successful completion of the curriculum of these schools leads to graduation from Star City High School or Dumas New Tech High School , respectively. Both high schools offer Advanced Placement (AP) courses and are accredited by the Arkansas Department of Education (ADE). Dumas Public Schools is also accredited by AdvancED . Star City High School The school districts at Gould and Grady were merged into Dumas and Star City for the 2004–05 school year pursuant to the Public Education Reorganization Act passed by the Arkansas Legislature . Higher education Lincoln County does not",
+      "id": "HotpotQA-validation-00002496/03_Lincoln-County-Arkansas.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Michael Ola attended Riverdale High School in Riverdale, Georgia (HotpotQA-validation-00006248/00_Michael-Ola.html_c_0).\n- Riverdale High School is in Georgia (HotpotQA-validation-00006248/00_Michael-Ola.html_c_0).\n- Laramie High School is in Wyoming (HotpotQA-validation-00006248/02_Laramie-High-School-Wyoming.html_c_0).\n- Great Neck South High School is in New York (HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0).\n- Lincoln County is in Arkansas (HotpotQA-validation-00002496/03_Lincoln-County-Arkansas.html_c_7).\n- The question asks for the county where Michael Ola attended high school (In what county did Michael Ola attend high school?).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what county did Michael Ola attend high school?",
+      "doc_ids": [
+        "HotpotQA-validation-00006248/00_Michael-Ola.html_c_0",
+        "HotpotQA-validation-00006248/02_Laramie-High-School-Wyoming.html_c_0",
+        "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0",
+        "HotpotQA-validation-00006248/00_Michael-Ola.html_c_2",
+        "HotpotQA-validation-00002496/03_Lincoln-County-Arkansas.html_c_7"
+      ]
+    }
+  ]
+}

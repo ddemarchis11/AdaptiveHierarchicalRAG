@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e988af6",
+  "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+  "gold_answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+  "llm_answer": "The woman’s plea—first by begging the Plunger to intervene and then by gratefully accepting his help—directly spurs him to act: he stops her husband from gambling further, physically removes the couple from the casino, and insists they leave Monte Carlo that night, ensuring they keep their winnings.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, explaining how the woman's actions influence the Goodwood Plunger to intervene and ensure her husband stops gambling. It is fully supported by the retrieved context, which details the Plunger's actions in response to the woman's plea, and includes all key facts from the Gold Answer."
+  }
+}

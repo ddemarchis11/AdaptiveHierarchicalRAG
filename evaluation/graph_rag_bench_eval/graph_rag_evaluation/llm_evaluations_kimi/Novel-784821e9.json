@@ -1,0 +1,12 @@
+{
+  "id": "Novel-784821e9",
+  "question": "Who is mentioned as carrying a present to the Britannic Majesty, according to the diplomatic exchanges detailed in the narrative?",
+  "gold_answer": "The Bey carried a present to Britannic Majesty.",
+  "llm_answer": "The provided context does not mention anyone carrying a present to the Britannic Majesty.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about anyone carrying a present to the Britannic Majesty. However, the Gold Answer explicitly states that the Bey carried a present, which the Model Answer fails to address. Thus, the answer is incorrect and does not cover the key fact from the Gold Answer, but it remains faithful to the provided context."
+  }
+}

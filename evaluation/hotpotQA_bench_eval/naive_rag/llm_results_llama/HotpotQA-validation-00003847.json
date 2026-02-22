@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00003847",
+  "question": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+  "gold_answer": "Rivington Moor",
+  "llm_answer": "The town where Dean Mills Reservoir is located on the slopes of the hill is Bolton.",
+  "context": [
+    {
+      "text": "Dean Mills Reservoir is a small water reservoir to the north of the town of Bolton , Greater Manchester located high on the slopes of Winter Hill . The reservoir was constructed above the village of Barrow Bridge by John and Robert Lord. “The Lord Brothers opened a mill there in the late 18th Century using Crompton's spinning mules. With the success of this operation they built a water-powered mill further down the valley and carried out ambitious waterworks including the construction of a reservoir, waterfall and sluices to power the mill.” The dark brown appearance of the water in the reservoir is due to discolouration from the surrounding peat that naturally drains into the reservoir. It was put up for sale by auction in March 2018. References",
+      "id": "HotpotQA-validation-00003847/00_Dean-Mills-Reservoir.html_c_0"
+    },
+    {
+      "text": "Dylewska Góra ( German : Kernsdorfer Höhe ) is a hill located in northeastern Poland , south of the town of Ostróda , in the Warmian-Masurian Voivodeship . With elevation of 312 metres above sea level, it is one of the highest points of northern and central Poland. Dylewska Góra is a morainic hill, with its eastern and northern slopes covered by beech forest. On top there is a TV tower, as well as a 37-metre-high observation tower, which provides views of area up to 50 kilometres away. See also Geography of Poland v t e",
+      "id": "HotpotQA-validation-00003847/02_Dylewska-Gra.html_c_0"
+    },
+    {
+      "text": "that returned to a craft before disappearing. In 1999, in what became known as the \"Murphy Incident\", a farmer said he saw an object hovering over his cattle field. On investigation, the object moved away and the farmer reported the incident to the police. The farmer returned to the field, wearing just a cardigan, and discovered the object had reappeared. He reported the incident to the Manchester Aerial Phenomena Investigation Team (MAPIT), who investigated it. While MAPIT was conducting its investigation, they alleged they were being followed by a green moon-man in a shuttlecock-shaped flying saucer. The farmer reported that he was warned by officials from the Ministry of Agriculture, Fisheries and Food [ clarification needed ] but has not been traced since the incident, and the current owner has not spoken about it. The UK government released previously classified information on UFO sightings in May 2006; one picture appeared to show an unidentified object over Winter Hill. A panoramic view of the Greater Manchester conurbation, from Matchmoor Lane on the western side of Winter Hill. Bolton is the large town in the foreground, with all the major Manchester city landmarks visible in the middle distance. References in song The song \"Winter Hill\" on A Certain Ratio 's 1981 album To Each... , consists of drumming, whistling and a low-pitched drone alternating between two notes a tone apart for its entire length. On a visit to Winter Hill in 1988, a",
+      "id": "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_7"
+    },
+    {
+      "text": "In 1883, a local historian recorded the old name for Winter Hill as Edgar Hill, named in connection to Saxon King Edgar Burial mounds Two burial mounds dating from the Bronze Age are located near the peak. On 24 March 1957, two men discovered \"curved lines of stones\" sticking out of the peat forming a two feet high wall which surrounded a raised area in the middle. In July 1958, a group from the University of Manchester excavated the central mound only to find it had been excavated 250 years earlier. The site was thought to have originated from 1500 BC in the Middle Bronze Age. The second mound was found to the west on the southern edge of Noon Hill . The site was excavated in August 1958 by the Bolton & District Archaeological Society, revealing two lines of stones and human remains. Both are scheduled monuments . Two Lads There is a large cairn on the summit of Two Lads on Crooked Edge Hill on the south west side of Winter Hill. In the late 1700s there were apparently two close together. Another cairn was built in the late 20th century by a local man. It is smaller, some 40 metres from the large cairn. The remains of what appears to have been a third cairn is between the two that exist. It is doubtful however that it was ever a cairn as such. There is no photographic",
+      "id": "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_2"
+    },
+    {
+      "text": "Panorama of Winter Hill, taken from Blackrod Winter Hill is a hill on which the three boroughs of Chorley , Blackburn with Darwen and Bolton meet in North West England . It is located on Rivington Moor, Chorley and is 1,496 feet (456 m) high. Part of the West Pennine Moors , it is a popular walking area, and has been the site of mining activity, aeroplane disasters and a murder. Its prominent position made it the ideal site for the Winter Hill TV Mast , transmitting to a large part of North West England. There is also a number of other telecommunication masts and towers around the summit and side of the hill for mobile phones, Professional Mobile Radio users and emergency services . Lancashire Constabulary was the first to use the site for one of their base stations in 1950; they had to build the road and it is said to have been built by policemen. Paths to the summit lead from Belmont (in Blackburn with Darwen), Rivington (in Chorley), and Horwich and Blackrod (in Bolton). The summit can also be reached via a short walk from the top of a road pass 1 + 1 ⁄ 4 miles (2 km) west of Belmont. The hill is a prominent natural landmark on the skyline for the most of Chorley and further afield. Winter Hill's topographic prominence results in it being classified as a Marilyn . The",
+      "id": "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_0"
+    },
+    {
+      "text": "River flows north from the Lower Waterton Lake for approx. 32 km to reach the Waterton Reservoir (Est. 1964) by the village of Hill Spring . The Waterton Reservoir diverts water of about 20 m 3 /s to the Belly River just upstream from the Belly's own diversion weir which diverts water to the St. Mary River . The Waterton continues north from the reservoir for approx. 39 km until it reaches the confluence with the Belly River, which is a tributary of the Oldman River . Waterton River has relatively reduced sediment concentrations due to the lakes and the reservoir acting as a sediment-settling trap. The total length of the river is 80 km (50 mi). Waterton River's mean peak discharge averages about 80 m 3 /s. Tributaries to the Waterton River include: Foothill Creek Drywood Creek Yarrow Creek Dungarvan Creek Galwey Brook Cottonwood Creek Crooked Creek Waterton Reservoir has a Full Supply Level (FSL) of 1,185.67 metres, and an Irrigation Capacity of 114,334 dam 3 . References Montana portal",
+      "id": "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- The question is asking for the town where Dean Mills Reservoir is located. (Novel-00003847_c_0)\n- The current evidence mentions that Dean Mills Reservoir is located in the town of Bolton, Greater Manchester. (Novel-00003847_c_0)\n- However, the question is asking for the town where the hill is located, not the reservoir. (Novel-00003847_c_0)\n- The current evidence does not provide information about the town where the hill is located. (Novel-00003847_c_0)\n- The next query should target the hill and ask for the town where it is located. (Novel-00003847_c_0)\n- The question is asking for the town where the hill is located. (Novel-00003847_c_0)\n- The current evidence mentions that Winter Hill is located in the boroughs of Chorley, Blackburn with Darwen, and Bolton. (Novel-00003847_c_0)\n- However, the question is asking for the town where the hill is located, not the boroughs. (Novel-00003847_c_0)\n- The current evidence does not provide information about the town where the hill is located. (Novel-00003847_c_0)\n- The next query should target the hill and ask for the town where it is located. (Novel-00003847_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+      "doc_ids": [
+        "HotpotQA-validation-00003847/00_Dean-Mills-Reservoir.html_c_0",
+        "HotpotQA-validation-00003847/02_Dylewska-Gra.html_c_0",
+        "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_2",
+        "HotpotQA-validation-00003847/03_Moel-y-Gydros.html_c_0",
+        "HotpotQA-validation-00005130/02_Suraj-Tal.html_c_3"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What town is Winter Hill located in?",
+      "doc_ids": [
+        "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_7",
+        "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_2",
+        "HotpotQA-validation-00003847/00_Dean-Mills-Reservoir.html_c_0",
+        "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_0",
+        "HotpotQA-validation-00003847/01_Winter-Hill-North-West-England.html_c_8"
+      ]
+    }
+  ]
+}

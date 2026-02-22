@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3340b813",
+  "question": "How does the novel describe the commercial activities of Fez, including its trade with other parts of Morocco and its role as a departure point for caravans to Timbuctoo, within the broader African context?",
+  "gold_answer": "Fez has trade with Morocco and sends caravans to Timbuctoo.",
+  "llm_answer": "The novel describes Fez as a major commercial hub with “immense trade of every kind” that gives it “almost the air of an European city.” In the great square Al-Kaisseriah “all the commerce of Europe and Africa—nay, even of the whole world” is exhibited daily “as at a fair.” Fez sends out two annual caravans: one departs for Central Africa/Timbuctoo, the other for Mecca. The African caravan first gathers at Tafilett and Touat, and the journey from Fez to Timbuctoo takes about ninety days. Thus, within the broader African context, Fez functions as a key departure point for trans-Saharan caravans heading south to Timbuctoo and east to the Red Sea.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, describing Fez's trade with Morocco and its role as a departure point for caravans to Timbuctoo. It provides additional relevant details, such as the immense trade in Fez, the Al-Kaisseriah square, and the specifics of the caravan routes, all of which are supported by the Retrieved Context. The answer is both correct and faithful, and it includes all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001605",
+  "question": "Thomas Henry Moray Followed work down on nuclear batteries in 1912 by this English physicist?",
+  "gold_answer": "Henry Moseley",
+  "llm_answer": "The provided evidence does not mention any English physicist who worked on nuclear batteries in 1912 or that Thomas Henry Moray followed such work.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not mention an English physicist working on nuclear batteries in 1912 or any connection to Thomas Henry Moray. However, the Gold Answer explicitly identifies Henry Moseley as the physicist in question, which the Model Answer fails to include. While the Model Answer is faithful to the context, it does not answer the user's question or cover the key fact provided in the Gold Answer."
+  }
+}

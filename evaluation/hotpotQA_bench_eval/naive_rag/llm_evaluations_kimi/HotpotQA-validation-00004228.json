@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004228",
+  "question": "Where is the group of islands named after Purdue University's professor of forest ecology from 1947 to 1973?",
+  "gold_answer": "the northwest tip of Canisteo Peninsula in Amundsen Sea",
+  "llm_answer": "The group of islands named for Purdue University’s professor of forest ecology from 1947 to 1973 is the Antarctic Lindsey Islands.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the islands as the Antarctic Lindsey Islands, which aligns with the retrieved context. However, it does not specify their location at the northwest tip of Canisteo Peninsula in Amundsen Sea, as stated in the Gold Answer. The retrieved context does not explicitly confirm the location either, making the answer partially correct and partially faithful. Evidence coverage is also partial since the specific location mentioned in the Gold Answer is missing."
+  }
+}

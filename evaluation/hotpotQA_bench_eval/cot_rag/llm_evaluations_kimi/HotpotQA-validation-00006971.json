@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006971",
+  "question": "What was the Canadian movie called in Italy that stared a professional American football defensive end of the National Football League along with Michael Ironside?",
+  "gold_answer": "Anno 2053",
+  "llm_answer": "The provided evidence does not mention any Canadian movie, its Italian title, or a professional American football defensive end who starred alongside Michael Ironside. Therefore, the answer cannot be determined from the given evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the Canadian movie or its Italian title, nor does it mention a professional American football defensive end starring alongside Michael Ironside. However, the Model Answer fails to provide the correct answer ('Anno 2053') using internal knowledge, which is unrelated to the context."
+  }
+}

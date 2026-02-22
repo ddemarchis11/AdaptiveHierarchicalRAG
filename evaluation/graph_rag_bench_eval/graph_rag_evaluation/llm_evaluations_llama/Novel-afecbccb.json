@@ -1,0 +1,12 @@
+{
+  "id": "Novel-afecbccb",
+  "question": "During their conversation in the narrative, who asked Felicia for her opinion on the state of Art in England?",
+  "gold_answer": "Hinze asked Felicia for her opinion on the state of Art in England.",
+  "llm_answer": "I couldn't find any information about Felicia in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that no information about Felicia was found in the context, but the Gold Answer clearly identifies Hinze as the one who asked Felicia about the state of Art in England. The Model Answer fails to address the question and does not align with the Gold Answer or the retrieved context."
+  }
+}

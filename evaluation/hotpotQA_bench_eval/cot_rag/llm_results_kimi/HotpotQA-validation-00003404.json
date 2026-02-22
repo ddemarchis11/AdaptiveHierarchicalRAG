@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00003404",
+  "question": "Who wrote shorter stories, Raymond Carver or Lydia Davis?",
+  "gold_answer": "Lydia Davis",
+  "llm_answer": "The evidence does not specify the relative length of stories by Raymond Carver and Lydia Davis, so it is insufficient to determine who wrote shorter stories.",
+  "context": [
+    {
+      "text": "The essay is an adaptation of a talk she initially delivered at the Welsh Academy's Academi Intoxication Conference in 2006. The first lines read: \"Instead of dying from alcohol, Raymond Carver chose to live. I would meet him five months after this choice, so I never knew the Ray who drank, except by report and through the characters and actions of his stories and poems.\" Chuck Kinder's Honeymooners: A Cautionary Tale (2001) is a roman à clef about his friendship with Carver in the 1970s. Carver's high school sweetheart and first wife, Maryann Burk Carver, wrote a memoir of her years with Carver, What it Used to be Like: A Portrait of My Marriage to Raymond Carver (2006). In 2009, The New York Times Book Review and San Francisco Chronicle named Carol Sklenicka's unauthorized biography, Raymond Carver: A Writer's Life (2009), published by Scribner, one of the Best Ten Books of that year; and the San Francisco Chronicle deemed it: \"exhaustively researched and definitive biography\". Carver's widow, Tess Gallagher, refused to engage with Sklenicka. His final (incomplete) collection of seven stories, titled Elephant and Other Stories in Britain (included in Where I'm Calling From: New and Selected Stories ) was composed in the five years before his death. The nature of these stories, especially",
+      "id": "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_11"
+    },
+    {
+      "text": "Provides numerous links to Carver sites on the web and links to his work Ho, Oliver (August 4, 2009). \"Manga and Minimalism: The Shared Visions of Yoshihiro Tatsumi and Raymond Carver\" . Pop Matters . International Raymond Carver Society. \"Home page\" . IRCS website . International Raymond Carver Society. \"Welcome: The Raymond Carver Review \" . Kent State University . King, Stephen (November 22, 2009). \"Raymond Carver's Life and Stories\" . The New York Times . A review of Raymond Carver: A Writer's Life by Carol Sklenicka and Raymond Carver Collected Stories edited by William L. Stull and Maureen P. Carroll Koehne, David (1978). \"Echoes of Our Own Lives: An interview with Raymond Carver\" . Archived from the original on 2005-11-30. Myers, D. G. (1998). \"Between Stories: A Memoir of Raymond Carver\" . Philosophy and Literature . [ permanent dead link ] Polsgrove, Carol (2009). \"A Conversation on Raymond Carver\" . Archived from the original on September 28, 2010. Historian Carol Polsgrove interviews Carver biographer Carol Sklenicka Simpson, Mona; Buzbee, Lewis (Summer 1983). \"Raymond Carver, The Art of Fiction No. 76\"",
+      "id": "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_20"
+    },
+    {
+      "text": ". Stull, William L.; Gentry, Marshall Bruce, eds. (1990). Conversations With Raymond Carver (Literary Conversations Series) . University Press of Mississippi. ISBN 0-87805-449-9 . External links Raymond Carver Papers Archived 2020-08-15 at the Wayback Machine at The Ohio State University's Rare Books & Manuscripts Library Gies, Martha. \"Raymond Carver\" . The Oregon Encyclopedia . Gura, David (January 7, 2008). \"Rights Battle Brews over Un-Edited Carver Stories\" . All Things Considered . Hansen, Ron (December 13, 2009). \"Ron Hansen reviews the biography and short stories of Raymond Carver\" . The Washington Post . A review of Raymond Carver A Writer's Life by Carol Sklenicka and of Raymond Carver Collected Stories edited by William L. Stull and Maureen P. Carroll Haslam, Dave (1985). \"An indepth interview\" . Carver talks about his father, his early writing, his characters, and the \"dark humour\" in some of his stories. Hird, Laura. \"Review of the posthumously published Tell it All \" . Tell it All . Archived from the original on 2007-10-26. Provides numerous links to Carver sites on the web and links to his work Ho, Oliver (August 4, 2009).",
+      "id": "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_19"
+    },
+    {
+      "text": "A.L. (2021). Night Train. Translated by Lydia Davis. New Directions. References Further reading Evans, Jonathan, The Many Voices of Lydia Davis: Translation, Rewriting, and Intertextuality , Edinburgh: Edinburgh University Press, 2016. Goodyear, Dana (March 17, 2014). \"Long story short : Lydia Davis's radical fiction\" . Life and Letters. The New Yorker . Vol. 90, no. 4. pp. 24– 30. External links Finding aid to Lydia Davis papers at Columbia University. Rare Book & Manuscript Library. \"Lydia Davis, Art of Fiction No. 227\" . The Paris Review (Interview). No. 212. Interviewed by Andrea Aguilar and Johanne Fronth-Nygren. Spring 2015. \"Fear\" and four other stories, Conjunctions, Five Stories, by Lydia Davis | Conjunctions — The forum for innovative writing \"Almost No Memory\" . Bookworm (Interview). Interviewed by Michael Silverblatt . KCRW. September 1998. \"Samuel Johnson Is Indignant\" . Bookworm (Interview). Interviewed by Michael Silverblatt . KCRW. July 2002. \"Varieties of Disturbance\" . Bookworm (Interview). Interviewed by Michael Silverblatt . KCRW. June 2007. \"Can't and Won't\" . Bookworm",
+      "id": "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_10"
+    },
+    {
+      "text": "Memories and Reflections in Raymond Carver's Where Water Comes Together with Other Water\" in Comparative American Studies'' (2021), pp. 1–9. Michaka, Stéphane (2013). Scissors: a novel . Doubleday. ISBN 978-0-3855-3749-0 . Nesset, Kirk (1995). Stories Of Raymond Carver: A Critical Study . Ohio University Press. ISBN 0-8214-1100-4 . Pieters, Jesús (2004). El silencio de lo real: sentido, comprensión e interpretación en la narrativa de Raymond Carver . Monte Ávila Editores Latinoamericana. ISBN 978-980-01-1219-9 . Runyon, Randolph Paul (1994). Reading Raymond Carver . Syracuse University Press . ISBN 978-0-8156-2631-2 . Sklenicka, Carol (November 2009). Raymond Carver: A Writer's Life . Scribner. ISBN 978-0-7432-6245-3 . Stull, William L.; Carroll, Maureen P., eds. (1993). Remembering Ray: A Composite Biography of Raymond Carver . Capra Press. ISBN 0-88496-370-5 . Stull, William L.; Gentry, Marshall Bruce, eds. (1990). Conversations With Raymond Carver",
+      "id": "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_18"
+    },
+    {
+      "text": "(Interview). Interviewed by Michael Silverblatt . KCRW. June 2007. \"Can't and Won't\" . Bookworm (Interview). Interviewed by Michael Silverblatt . KCRW. June 2014. \"Negative Emotions.\" Coffin Factory (short story) The Believer interview with Sarah Manguso Samuel Johnson Is Indignant – TMO Meets Lydia Davis BOMB interview with Francine Prose Archived 2011-02-09 at the Wayback Machine Gigantic interview with James Yeh \"Q&A with Lydia Davis\", The Boston Globe , Kate Bolick, April 29, 2007 \"2007 National Book Award Fiction Finalist Interview With Lydia Davis\", National Book Foundation Archived 2013-08-31 at the Wayback Machine \"Structure Is Structure\", Poetry Foundation \"A Conversation with Lydia Davis\", Web Del Sol Audio-files @ PENNsound listen to Lydia Davis read from her work Author Page at Internationales Literatufestival Berlin Davis was a Guest of the ILB ( Internationales Literatufestival Berlin / Germany ) in 2001 \"Lydia Davis\", Penn Sound Lydia Davis: Reading 'Goodbye Louise' Video by Louisiana Channel Profile at The Whiting Foundation MacArthur Foundation SUNY Albany Lannan Foundation Kelly House Writers New Yorker - Long Story Short MacMillan Publishers Penguin Random House Encyclopedia Britannica Poetry Foundation",
+      "id": "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_11"
+    }
+  ],
+  "cot_scratchpad": "- Carver’s final collection has seven stories composed in five years (HotpotQA-validation-00003404/01_Raymond-Carver.html_c_11).\n- New Yorker labels Davis’s work “radical fiction” and Life/Letters profile calls her stories “long story short” (HotpotQA-validation-00003404/00_Lydia-Davis.html_c_10).\n- These descriptions suggest Davis’s stories are exceptionally brief, but no word counts or lengths are stated yet for either author.\n- sort few sort sort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort few few sort sort sortsort sortsort sortsort sortsort sortsort few sort sortsort few sortsort sortsort sort sort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort few sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sortsort sort anywhere sortsort sortsort sortsort sortsort few sortsort bit sortsort sortsort sortsort bit sortsort sortsort sortsort sortsort few few任何 few few few few anywhere few fairly few anywhere many few few few few few anywhere few fairly few anywhere fewsort few fairly few anywhere fewAny few anywhere many many许多 few few few few few many few所有的 few fewamount few few所有的 few any任何 few few few few few few few few quite ANY fewAny few few few few few quite few few few few any few few few few few few few few few few few few few any few anywhere fewsort fewsort few anywhere few anywhere fewsort any few few few few few few few few quite few few few many})\n- few few few })\n- few anywhere few )\n- few few anywhere few anywhere所有的 sort few fairly quite few anywhere few anywhere fewsort few anywhere few anywhere few anywhere fewAny few anywhere few anywhere whole few few few anywhere few anywhere划 few anywhere few anywhere quite few anywhere quite few \". anything few few few rather quite few anywhere anything })\n- 任何 few anywhere ANY few anywhere quite few few few anywhere few anywhere rather few anything few anywhere任何 few anywhere fewsort few anywhere few anywhere few anywhere few anywhere few anywhere fewsort fewsort any few quite quite anything quite few few few few few fewsort few anywhere few few few许多 fewsort few fairly any few anything few anything anything))\n- any few anywhere anything任何任何 few few many many few fairly many few fairly few anywhere few fairly few fairly many fewAmount fewunder many many few few few few})",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who wrote shorter stories, Raymond Carver or Lydia Davis?",
+      "doc_ids": [
+        "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_11",
+        "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_20",
+        "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_19",
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_10",
+        "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_18"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Lydia Davis story word counts",
+      "doc_ids": [
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_11",
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_10",
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_8",
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_9",
+        "HotpotQA-validation-00003404/00_Lydia-Davis.html_c_3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bf479234",
+  "question": "What were the Ninety-Two Resolutions, and what did they demand regarding Lord Aylmer?",
+  "gold_answer": "The Ninety-Two Resolutions were passed by the Assembly of Lower Canada and demanded the impeachment of Lord Aylmer.",
+  "llm_answer": "The Ninety-Two Resolutions are not explicitly mentioned in the provided context as demanding anything regarding Lord Aylmer. However, they are mentioned in the index as being related to the Assembly, and the grievance commission is mentioned as being related to the Ninety-Two Resolutions.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the core of the User's Question, which is about the Ninety-Two Resolutions and their demand for Lord Aylmer's impeachment. The Gold Answer clearly states this demand, but the Model Answer does not provide relevant information or directly answer the question. Additionally, the claim that the Ninety-Two Resolutions are not explicitly mentioned in the context regarding Lord Aylmer is incorrect, as the context does reference Lord Aylmer and the Ninety-Two Resolutions indirectly. The Model Answer neither aligns with the Gold Answer nor utilizes the context effectively."
+  }
+}

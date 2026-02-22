@@ -1,0 +1,12 @@
+{
+  "id": "Novel-24373ebe",
+  "question": "What is the relationship between the goddess Cybele and her priests, specifically the Galli and the Corybantes, as described in the narrative where Cybele is said to have priests called Galli and her original priests were known as Corybantes?",
+  "gold_answer": "Cybele had priests called Galli, and her original priests were called Corybantes.",
+  "llm_answer": "The provided context does not mention Cybele, the Galli, or the Corybantes, so it offers no information about their relationship.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about the relationship between Cybele, the Galli, and the Corybantes. While it correctly notes that the retrieved context does not provide relevant information, it does not use internal knowledge to answer the question, which is expected in cases where the context is irrelevant."
+  }
+}

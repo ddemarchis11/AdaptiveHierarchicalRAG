@@ -1,0 +1,12 @@
+{
+  "id": "Novel-edb040bb",
+  "question": "According to the narrative about rare bird species, what is another name for the Ocellated Pheasant?",
+  "gold_answer": "The Ocellated Pheasant is also known as Rheinardius ocellatus.",
+  "llm_answer": "I cannot verify the name of the Ocellated Pheasant from the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the name of the Ocellated Pheasant cannot be verified, despite the retrieved context explicitly mentioning 'Rheinardius ocellatus' as another name for the bird. This demonstrates a failure in correctness, faithfulness, and evidence coverage."
+  }
+}

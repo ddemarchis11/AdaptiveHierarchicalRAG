@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1c53b384",
+  "question": "What is the historical significance of Chaacmol in Maya history as described in the narrative, considering his funeral chamber at Chichen, the research conducted by Augustus Le Plongeon, and the circumstances of his death at the hands of Aac?",
+  "gold_answer": "Chaacmol had a funeral chamber at Chichen, was studied by Augustus Le Plongeon, and was killed by Aac.",
+  "llm_answer": "Chaacmol is considered a culture hero in Maya history, as evidenced by the mural paintings and sculptures at Chichen-Itza, which depict his life and the customs of his contemporaries. His funeral chamber at Chichen is a significant archaeological find, and the research conducted by Augustus Le Plongeon has shed light on his importance in Maya mythology.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning Chaacmol's funeral chamber and Augustus Le Plongeon's research, aligning with the Gold Answer. However, it fails to mention the circumstances of Chaacmol's death at the hands of Aac, which is a critical part of the Gold Answer. Additionally, the claims about Chaacmol being a 'culture hero' and the depiction of his life in mural paintings are not supported by the retrieved context, making the answer unfaithful to the provided evidence."
+  }
+}

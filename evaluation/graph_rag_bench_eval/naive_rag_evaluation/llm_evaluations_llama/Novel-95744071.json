@@ -1,0 +1,12 @@
+{
+  "id": "Novel-95744071",
+  "question": "During the period of exile and revolutionary agitation following the initial rebellion, with which fellow leader did Papineau break off negotiations regarding the future of the Patriote movement?",
+  "gold_answer": "Papineau broke off negotiations with Robert Nelson.",
+  "llm_answer": "John Neilson.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states 'John Neilson' as the leader Papineau broke off negotiations with, whereas the Gold Answer correctly identifies 'Robert Nelson.' The retrieved context does not support the claim about John Neilson, and the key fact from the Gold Answer is entirely missed."
+  }
+}

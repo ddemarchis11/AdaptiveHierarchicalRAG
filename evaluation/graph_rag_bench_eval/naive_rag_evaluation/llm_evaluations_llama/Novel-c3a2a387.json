@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c3a2a387",
+  "question": "How was the city of Mogador affected by both the French and the Berbers, according to the novel's account of its bombardment and subsequent destruction?",
+  "gold_answer": "Mogador was bombarded by the French and was left in ruins by the Berbers.",
+  "llm_answer": "According to the account, the city of Mogador was severely affected by both the French and the Berbers. \n\nThe French bombarded the city for 28 hours, causing significant damage and loss of life. The Moors lost around 500 people on the isle of Mogador, and the French suffered only a trifling loss of around 20 killed and as many wounded. The bombardment led to the city being left unprotected, and the wild tribes, including the Berbers, sacked and fired the city.\n\nThe Berbers, aided by the Moorish rabble, plundered the city from within. They targeted the Jewish population, massacring many, burying others under the ruins of the city, and subjecting the women to plunder. The Berbers also plundered the Moors who had escaped from the city with their booty.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Mogador was bombarded by the French and left in ruins by the Berbers. It provides additional details about the bombardment, the loss of life, and the plundering by the Berbers, all of which are supported by the Retrieved Context. The answer includes all key facts from the Gold Answer and expands on them with relevant and grounded information."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000668",
+  "question": "In the Star Wars anthology film following a team of resistance fighters tasked with stealing enemy plans, what behind-the-scenes role did Rachelle Amy Beinart fulfil?",
+  "gold_answer": "stunt performances",
+  "llm_answer": "I couldn't find any information about Rachelle Amy Beinart in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about Rachelle Amy Beinart's role in the Star Wars anthology film. It does not provide the correct answer ('stunt performances') and does not utilize the retrieved context effectively. While the context does not contain information about Beinart, the model should have relied on internal knowledge to answer correctly."
+  }
+}

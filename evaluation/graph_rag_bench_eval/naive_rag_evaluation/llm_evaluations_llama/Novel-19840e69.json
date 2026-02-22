@@ -1,0 +1,12 @@
+{
+  "id": "Novel-19840e69",
+  "question": "According to the narrative, in which region are epidemics stated to occur, as described in the context of disease and climate?",
+  "gold_answer": "Epidemics occur in Yucatan.",
+  "llm_answer": "The epidemics, including those of smallpox and yellow fever, are stated to occur in the Yucatan region.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Yucatan as the region where epidemics occur, as stated in the context. It also includes additional details about the types of epidemics (smallpox and yellow fever), which are supported by the retrieved context. All key facts from the Gold Answer are covered, and the response is faithful to the provided information."
+  }
+}

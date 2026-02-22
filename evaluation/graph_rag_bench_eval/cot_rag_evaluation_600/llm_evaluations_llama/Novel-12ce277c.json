@@ -1,0 +1,12 @@
+{
+  "id": "Novel-12ce277c",
+  "question": "What materials were used in the construction of the Assyrian harp, specifically catgut and silk, and what does this reveal about the combination of animal and plant fibers in ancient instrument making practices?",
+  "gold_answer": "The Assyrian harp was made of catgut and silk, showing the use of both animal and plant fibers in instrument making.",
+  "llm_answer": "Based on the provided evidence, the materials used in the construction of the Assyrian harp are:\n\n1. Silk (as a possible material for the strings)\n2. Catgut (as a possible material for the strings)\n\nThis information is found in the following passage:\n\n\"The Assyrian harp was about four feet high, and appears of larger size than it actually was on account of the ornamental appendages which were affixed to the lower part of its frame. It must have been but light in weight, since we find it not unfrequently represented in the hands of persons who are playing upon it while they are dancing. Like all the Oriental harps, modern as well as ancient, it was not provided with a front pillar. The upper portion of the frame contained the sound-holes, somewhat in the shape of an hour-glass. Below them were the screws, or tuning-pegs, arranged in regular order. The strings were perhaps made of silk, like those which the Burmese use at the present time on their harps; or they may have been of catgut, which was used by the ancient Egyptians.\"\n\nThis reveals that the Assyrian harp, like other Oriental harps, used a combination of animal and plant fibers in its construction. The use of catgut, which is derived from animal intestines, and silk, which is a plant fiber, demonstrates the ingenuity and resourcefulness of ancient instrument makers in combining different materials to create musical instruments.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the materials used in the Assyrian harp (catgut and silk) and explains their significance in combining animal and plant fibers, which aligns with the Gold Answer. The claims are fully supported by the retrieved context, and all key facts from the Gold Answer are included."
+  }
+}

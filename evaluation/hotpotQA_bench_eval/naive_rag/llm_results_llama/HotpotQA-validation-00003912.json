@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003912",
+  "question": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+  "gold_answer": "7pm",
+  "llm_answer": "I cannot verify the time that the show, in which Gordon Burns was the host, usually aired on Monday.",
+  "context": [
+    {
+      "text": "The Krypton Factor is a British game show produced by Granada Television for broadcast on ITV . The show originally ran from 7 September 1977 to 20 November 1995 and was hosted by Gordon Burns . Contestants across the United Kingdom and Ireland competed in rounds that tested their physical stamina and mental attributes. The show's title refers to Superman 's home planet, Krypton , the title perceiving that the contestants had strong superhuman \"powers\" for participating in the challenges they were set. From 1986 onwards, the contestants all had their corresponding colours: red , green , yellow , or blue . The points contestants earned through the game were referred to as their \"Krypton Factor\", e.g. \"The winner, with a Krypton Factor of 46, is the technical specialist from Birmingham , Caroline White\". The 1987 series won the prestigious Premios Ondas – Spanish Television Award for Entertainment. The show was revived for two series aired in 2009 and 2010, presented by Ben Shephard . History Original series The show's first series was shown on Wednesdays, presented by Gordon Burns and ran for eleven weeks, consisting of eight heats, two semi-finals and the final. It was then on Fridays for two years before arriving on Mondays in 1980, where it would be a staple of Monday evening schedules until its 18th and final series in 1995. In the first few series, there were no groups and",
+      "id": "HotpotQA-validation-00003912/00_The-Krypton-Factor.html_c_0"
+    },
+    {
+      "text": "joined as co-anchor of the previously single-headed main evening programme. Burns announced in April 2011 that he would be retiring from the role but would move on to present a Sunday morning show on BBC Radio Manchester and BBC Radio Lancashire in September 2011, with his last TV bulletin broadcast on 30 September.  He was the voice of \"The Chain\" feature and other features on the Radcliffe & Maconie show on BBC Radio 6 Music . He appears as a guest on the show when The Chain reaches a significant milestone, for example, for the 5,000th (musically based) item on 3 March 2015 which was the single \" Dancing Queen \" by ABBA . In 2013, Burns retired after stepping down from his radio show. Personal life Burns is married to Sheelagh and has a daughter and a stepson from his wife's first marriage. He lives in Hale, Greater Manchester . He is the second cousin of English singer/songwriter Ed Sheeran . References External links Gordon Burns at IMDb Gordon at Wallace High school",
+      "id": "HotpotQA-validation-00003912/01_Gordon-Burns.html_c_2"
+    },
+    {
+      "text": "Gordon Henry Burns (born 10 June 1942) is a Northern Irish retired journalist and broadcaster. He was the host of The Krypton Factor for its original 18-year run (1977–1995) and was the chief anchorman for the BBC regional news programme North West Tonight from January 1997 to October 2011. In November 2011, he moved back to Belfast where he was born. Due to Burns' work commitments with Granada Television on programmes such as World in Action and Granada Reports and later BBC Manchester for North West Tonight , he resided in Manchester for over thirty years. He most recently hosted a Sunday morning radio show for BBC Radio Manchester and BBC Radio Lancashire . Early life Burns was born in Wellington Park, in Belfast. When he was a child his family moved to Kent , where he attended the local primary school and then went to Dulwich College in London. The family then returned to live at Belfast's Belmont Road, where Burns attended Campbell College . Career He began his journalism career working on the Belfast Telegraph and worked on BBC radio's long-running Sports Report before joining Ulster Television as a sports editor and programme producer in 1967. Two years later, Burns began presenting the nightly news programme UTV Reports , first as a stand-in for regular frontman David Mahlowe and later as a chief anchor, during the early stages of The Troubles . In 1973, Burns joined Granada Television to anchor their nightly",
+      "id": "HotpotQA-validation-00003912/01_Gordon-Burns.html_c_0"
+    },
+    {
+      "text": "in enough viewership in the earlier time slot, forcibly changed the show's format to resemble Carson's, and added gossip reporter Rona Barrett as a co-host. The two did not get along and had an acrimonious relationship on and off the air. The agreement gave Carson's production company ownership of the timeslot following Tonight , which Carson Productions and NBC used to create Late Night with David Letterman on February 1, 1982. When NBC offered Snyder the time slot after Letterman, he refused it, having always been resentful of the forced change in format, and NBC News Overnight , a newscast, took the slot instead, some months after Tomorrow's final broadcast in 1982. During his tenure as host of The Tonight Show , Carson became known as The King of Late Night . While numerous hosts ( Merv Griffin and Dick Cavett being the best-known) attempted to compete with Carson, none was ever successful in drawing more viewers than Carson did on Tonight , not even ABC's short-lived revival of Paar's show in 1973 using the name Jack Paar Tonite (though Paar blamed erratic scheduling and his own unwillingness to succeed at the expense of Cavett, his friend and former writer). Much like Paar, Carson became tired of fulfilling the workload of 525 minutes a week, so The Tonight Show was shortened to 90 minutes and again to 60 minutes in 1980 with 15 weeks of vacation a year. Because",
+      "id": "HotpotQA-validation-00006973/02_Late-night-talk-show.html_c_8"
+    },
+    {
+      "text": "Lee Hamilton (also known as \"Hacksaw\") from 1998 to 1999, Brian Davis from 2000 to 2003, and former Seahawk Warren Moon from 2004 to 2017. Preseason games not shown on national networks were produced in-house by Seahawks Broadcasting and televised by KING-TV , channel 5 (and, in 2008, also on sister station KONG-TV since KING, an NBC affiliate, was committed to the Summer Olympics in China). Kate Scott became the announcer for Seahawks TV preseason games in 2023, replacing Curt Menefee (the host of Fox NFL Sunday ) who had been the Seahawks TV voice since the 2009 preseason. KCPQ-TV , which airs most of the Seahawks' regular-season games (as the Seattle-Tacoma area's Fox affiliate), became the television partner for the team in 2012 and replaced KING-TV as broadcaster for preseason games, but KING-TV regained the partnership in 2022; simulcasts of any Seahawks games on ESPN 's Monday Night Football air (as of the 2018 season) on CBS affiliate KIRO-TV . In addition, any Saturday or Sunday afternoon games broadcast by CBS (usually—but not always—with the Seahawks hosting an AFC opponent) will air on KIRO-TV. Radio affiliates Notes and references Explanatory notes Citations External links Wikimedia Commons has media related to Seattle Seahawks . Official website Seattle Seahawks at the National Football League official website Franchise",
+      "id": "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_39"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The Krypton Factor originally aired on Wednesdays (Novel-00003912_c_0).\n- The Krypton Factor then aired on Fridays for two years (Novel-00003912_c_0).\n- The Krypton Factor aired on Mondays starting in 1980 (Novel-00003912_c_0).\n- The show's title refers to Superman's home planet, Krypton (Novel-00003912_c_0).\n- The show was hosted by Gordon Burns (Novel-00003912_c_0).\n- The show's first series was shown on Wednesdays (Novel-00003912_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+      "doc_ids": [
+        "HotpotQA-validation-00003912/00_The-Krypton-Factor.html_c_0",
+        "HotpotQA-validation-00003912/01_Gordon-Burns.html_c_2",
+        "HotpotQA-validation-00003912/01_Gordon-Burns.html_c_0",
+        "HotpotQA-validation-00006973/02_Late-night-talk-show.html_c_8",
+        "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_39"
+      ]
+    }
+  ]
+}

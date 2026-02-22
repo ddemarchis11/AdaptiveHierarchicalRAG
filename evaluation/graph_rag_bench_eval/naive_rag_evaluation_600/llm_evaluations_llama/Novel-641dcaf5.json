@@ -1,0 +1,12 @@
+{
+  "id": "Novel-641dcaf5",
+  "question": "What is the relationship between Theophilus Stickney and Electa?",
+  "gold_answer": "Theophilus Stickney was married to Electa.",
+  "llm_answer": "Theophilus Stickney and Electa are married. Electa is the daughter of Elisha Cook, and Theophilus, a carpenter, wooed and wedded her in 1816.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the relationship between Theophilus Stickney and Electa as being married, which aligns with the Gold Answer. It also provides additional context about Electa being the daughter of Elisha Cook and the year of their marriage (1816), which is supported by the Retrieved Context. All key facts from the Gold Answer are included, and the extra details are relevant and grounded in the context."
+  }
+}

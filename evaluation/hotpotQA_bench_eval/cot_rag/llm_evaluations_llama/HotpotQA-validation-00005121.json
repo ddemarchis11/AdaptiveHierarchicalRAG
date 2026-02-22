@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005121",
+  "question": "Swingin' Down Yonder is the first full-length, 12-inch album recorded by a singer known by what nickname?",
+  "gold_answer": "\"King of Cool\"",
+  "llm_answer": "The nickname of the singer is not explicitly mentioned in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the nickname 'King of Cool' is not explicitly mentioned in the retrieved context, which is faithful to the evidence provided. However, it fails to answer the question correctly using external knowledge, missing the core fact from the Gold Answer. Additionally, the Model Answer does not cover the specific fact required ('King of Cool')."
+  }
+}

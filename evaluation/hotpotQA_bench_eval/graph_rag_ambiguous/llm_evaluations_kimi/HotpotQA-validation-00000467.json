@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000467",
+  "question": "Which engagement came earlier: the fierce urban combat that raged in the Philippine capital toward the end of the Pacific conflict, or the amphibious assault to recapture the largest island in an archipelago administered as a U.S. territory?",
+  "gold_answer": "Battle of Guam",
+  "llm_answer": "The amphibious assault to recapture Guam—the largest island in the Mariana archipelago administered as a U.S. territory—occurred from 21 July to 10 August 1944, whereas the fierce urban combat in Manila, the Philippine capital, took place from 3 February to 3 March 1945. Therefore, the Guam assault came earlier.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Battle of Guam as occurring earlier than the Battle of Manila, aligning with the Gold Answer and the timeline provided in the Retrieved Context. It provides additional details about the dates and locations, which are accurate and grounded in the context."
+  }
+}

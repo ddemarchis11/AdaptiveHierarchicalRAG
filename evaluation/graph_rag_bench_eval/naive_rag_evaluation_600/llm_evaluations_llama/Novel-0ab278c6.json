@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0ab278c6",
+  "question": "What circumstances in Miss Euphemia Trotter's early life, as described in the novel, led her to become a teacher at an Eastern seminary, considering her background as a poor girl educated at the same institution?",
+  "gold_answer": "Miss Euphemia Trotter was really a poor girl who had been educated in an Eastern seminary and later became a teacher there.",
+  "llm_answer": "The novel does not explicitly state the circumstances that led Miss Euphemia Trotter to become a teacher at an Eastern seminary. However, it can be inferred that her background as a poor girl who had to work hard for her living since she was 14 years old, and her experience of being a nurse in a hospital, an assistant in a reformatory, and observing men and women under conditions of pain and weakness, may have influenced her decision to become a teacher.\n\nIt is also mentioned that she had a hard philosophy which she used equally to herself as to others, and that she became a prematurely hard duenna, paid to look out for, restrain, and report, if necessary, any vagrant flirtation or small intrigue of her companions. This suggests that she may have had to take on a responsible role at a young age, possibly due to her family circumstances, and that she developed a practical and no-nonsense approach to life.\n\nIt is likely that her experiences and the values she developed as a result of her early life led her to become a teacher, where she could use her skills and philosophy to help others and make a positive impact on their lives.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed inference about Miss Euphemia Trotter's early life and circumstances, but it does not fully align with the Gold Answer or the Retrieved Context. While the context mentions her being a poor girl educated at an Eastern seminary and later becoming a teacher there, the Model Answer introduces additional speculative details about her experiences as a nurse and assistant in a reformatory, which are not directly tied to her becoming a teacher. These details are partially grounded in the context but are not explicitly linked to the question. The core fact that she was a poor girl educated at the seminary and later became a teacher is present but diluted by unsupported inferences."
+  }
+}

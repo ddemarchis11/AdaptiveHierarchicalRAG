@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a29916b0",
+  "question": "According to the narrative, what items are mentioned as being included alongside burnouses?",
+  "gold_answer": "Burnouses include blankets and quilts.",
+  "llm_answer": "The context only mentions that “every house presents the industrious sight of the needle or shuttle quickly moving” alongside the burnouses at Toser; no other specific items are listed.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly address the question, as it fails to mention the items 'blankets and quilts' that are included alongside burnouses, as stated in the Gold Answer. While the Model Answer is faithful to the retrieved context, it does not provide the required factual information from the Gold Answer, resulting in low correctness and evidence coverage scores."
+  }
+}

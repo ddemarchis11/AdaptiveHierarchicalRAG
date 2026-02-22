@@ -1,0 +1,28 @@
+{
+  "id": "Novel-bddc3ecd",
+  "question": "In which two cities are the offices of the publisher A. S. BARNES & COMPANY located, as stated in the publication details of the CHILD'S HEALTH PRIMER?",
+  "gold_answer": "A. S. BARNES & COMPANY has offices in NEW YORK and CHICAGO.",
+  "llm_answer": "The offices of the publisher A. S. BARNES & COMPANY are located in New York and Chicago.",
+  "context": [
+    {
+      "text": "Produced by Stephen Hope, Joseph Cooper, Emmy and the Online Distributed Proofreading Team at http://www.pgdp.net CHILD'S HEALTH PRIMER. [Illustration: WASTING MONEY. (See p. 123.)] PATHFINDER PHYSIOLOGY No. 1 CHILD'S HEALTH PRIMER FOR PRIMARY CLASSES           WITH SPECIAL REFERENCE TO THE EFFECTS OF ALCOHOLIC DRINKS,           STIMULANTS, AND NARCOTICS UPON THE HUMAN SYSTEM           INDORSED BY THE           SCIENTIFIC DEPARTMENT OF THE           WOMEN'S CHRISTIAN TEMPERANCE UNION           OF THE           UNITED STATES           COPYRIGHT, 1885           A. S. BARNES & COMPANY           NEW YORK AND CHICAGO           PATHFINDER SERIES           OF TEXT BOOKS ON           ANATOMY, PHYSIOLOGY, AND HYGIENE.",
+      "id": "Novel-25646_c_0"
+    },
+    {
+      "text": "for tobacco, yearly, in           this country?                                     Transcriber's Notes: This book contains pronunciation codes. These are indicated in the text by the following           breve: [)i]           macron: [=i]           tilde: [~i]           slash through the letter: [\\l] Obvious punctuation errors repaired. End of the Project Gutenberg EBook of Child's Health Primer For Primary Classes, by Jane Andrews",
+      "id": "Novel-25646_c_103"
+    },
+    {
+      "text": "BOOKS ON           ANATOMY, PHYSIOLOGY, AND HYGIENE.           With Special Reference to the Influence of Alcoholic           Drinks and Narcotics on the Human System.           INDORSED BY THE SCIENTIFIC DEPARTMENT OF THE           WOMEN'S CHRISTIAN TEMPERANCE UNION OF THE UNITED           STATES.           I.           FOR PRIMARY GRADES.           THE CHILD'S HEALTH PRIMER.           12mo. Cloth.           An introduction to the study of the science, suited to           pupils of the ordinary third reader grade.           Full of lively description and embellished by many apt           illustrations.           II.           FOR INTERMEDIATE CLASSES.           HYGIENE FOR YOUNG PEOPLE.",
+      "id": "Novel-25646_c_1"
+    },
+    {
+      "text": "Morocco presents five distant races and classes of people; Berbers, Arabs, Moors, Jews and <DW64>s. Turks are not found in Morocco, and do not come so far west; but sons of Turks by Moorish women in Kouroglies are included among the Moors, that have emigrated from Algeria. Maroquine Berbers, include the varieties of the Amayeegh [14] and the Shelouh, who mostly are located in the mountains, while the Arabs are settled on the plains. The Moors are the inhabitants of towns and cities, consisting of a mixture of nearly all races, a great proportion of them being of the descendants of the Moors expelled from Spain. All these races have been, and will still be, farther noticed in the progress of the work. The proximate amount of this population is six millions. The greater number of the towns and cities are situate on the coast, excepting the three or four capitals, or imperial cities. The other towns of the interior should be considered rather as forts to awe neighbouring tribes, or as market villages (_souks_), where the people collect together for the disposal and exchange of their produce. Numerous tribes, located in the Atlas, escape the notice of the imposts of imperial authority. Their varieties and amount of population are equally unknown. In the immense group of Gibel Thelge (snowy mountains), some of the tribes are said to have their faces shaved, like",
+      "id": "Novel-10356_c_69"
+    },
+    {
+      "text": "and North African Arabs. In the year 1500, a thousand Andalusian cavaliers, who had emigrated to Algiers, formed an alliance with the Barbarossas and their fleet of pirates; and, after expelling the native prince, built the modern city of Algiers. And such was the origin of the Algerine Corsairs. The general result of these observations would, therefore, lead us to consider the Moors of the Romans, as the Berbers or aborigines of North Africa, and the Moors of the Spaniards, as pure Arabians; and if, indeed, these Arabian cavaliers marshalled with them Berbers, as auxiliaries, for the conquest of Spain, this fact does not militate against the broad assumption. The so-called Moors of Senegal and the Sahara, as well as those of Morocco, are chiefly a mixture of Berbers, Arabs and <DW64>s; but the present Moors located in the northern coast of Africa, are rather the descendants from the various conquering nations, and especially from renegades and Christian slaves. The term Moors is not known to the natives themselves. The people speak definitely enough of Arabs and of various Berber tribes. The population of the towns and cities are called generally after the names of these towns and cities, whilst Tuniseen and Tripoline is applied to all the inhabitants of the great towns of Tunis and Tripoli. Europeans resident in Barbary, as a",
+      "id": "Novel-10356_c_66"
+    }
+  ]
+}

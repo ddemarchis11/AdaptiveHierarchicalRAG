@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0dd6c56f",
+  "question": "In the context of hotel accommodations described in the narrative, where is the Falmouth Hotel located?",
+  "gold_answer": "Falmouth Hotel is in Falmouth.",
+  "llm_answer": "I cannot find any information about the Falmouth Hotel in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not contain information about the Falmouth Hotel, which is accurate. However, the Gold Answer explicitly states that the Falmouth Hotel is located in Falmouth, and the Model Answer fails to provide this information, resulting in a score of 0.0 for answer_correctness and evidence_coverage. Faithfulness is rated 1.0 as the Model Answer does not contradict the context."
+  }
+}

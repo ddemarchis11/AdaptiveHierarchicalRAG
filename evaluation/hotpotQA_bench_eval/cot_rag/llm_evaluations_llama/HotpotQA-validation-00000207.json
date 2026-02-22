@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000207",
+  "question": "Who was Chamberlain and Colonel of the military staff of The Merrie Monarch?",
+  "gold_answer": "Colonel Charles Hastings Judd",
+  "llm_answer": "The Chamberlain and Colonel of the military staff of The Merrie Monarch (King Kalākaua) was:\n\n1. Charles Hastings Judd \n2. George Walter Hunter Macfarlane",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer identifies Colonel Charles Hastings Judd as the Chamberlain and Colonel of the military staff of King Kalākaua. The Model Answer lists both Charles Hastings Judd and George Walter Hunter Macfarlane, which is partially correct but introduces an unsupported claim about Macfarlane also being Chamberlain and Colonel. While Judd's role is well-supported by the context, Macfarlane's inclusion as Chamberlain and Colonel is not explicitly grounded in the retrieved context, leading to partial correctness and faithfulness. Additionally, the Model Answer does not focus solely on Judd, missing the specific emphasis of the Gold Answer."
+  }
+}

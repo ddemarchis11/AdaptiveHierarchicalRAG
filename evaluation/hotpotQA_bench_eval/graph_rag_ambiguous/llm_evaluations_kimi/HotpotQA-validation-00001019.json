@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001019",
+  "question": "Do both a succulent genus native to the rocky soils of South Africa and a flowering genus widespread across North American shrublands belong to the same botanical grouping commonly associated with crystalline-looking ground cover plants?",
+  "gold_answer": "no",
+  "llm_answer": "No.  \nThe succulent genus native to South African rocky soils mentioned in the context is Crassothonna (formerly Othonna), placed in the family Asteraceae.  \nThe flowering genus widespread across North American shrublands is Eriogonum (family Polygonaceae).  \nThese two genera belong to different botanical families and are not grouped together under any single classification commonly associated with crystalline-looking ground cover plants.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the two genera belong to different botanical families and are not grouped together under a single classification associated with crystalline-looking ground cover plants, aligning with the Gold Answer. The additional details provided about the families and characteristics of the genera are accurate and supported by the retrieved context."
+  }
+}

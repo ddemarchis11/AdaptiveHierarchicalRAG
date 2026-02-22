@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000580",
+  "question": "My Secret Hotel is a television series starring a South Korean DJ who rose to fame as the lead actress in what?",
+  "gold_answer": "Queen In-hyun's Man",
+  "llm_answer": "She rose to fame as the lead actress in Queen and I (2012).",
+  "context": [
+    {
+      "text": "Yoo In-na ( Korean : 유인나 ; born June 5, 1982) is a South Korean actress. After supporting roles in High Kick! Through the Roof (2009–10) and Secret Garden (2010), she rose to fame as the lead actress in the Queen and I (2012) and My Secret Hotel (2014). She then had starring roles in My Love from the Star (2013–14) and Guardian: The Lonely and Great God (2016–17) the latter of which was one of the highest rated cable television series in South Korea. She has since starred in the television series Touch Your Heart (2019), The Spies Who Loved Me (2020), and True to Love (2023). Aside from acting, Yoo also ventured into radio. She was the DJ of Let's Crank Up the Volume from 2011 to 2016. In 2024 she announced her return as a Radio DJ, with the formation of her radio show on YouTube titled, Yoo In Radio . Career At the age of 16, Yoo In-na joined an entertainment agency as an apprentice singer in 1998, and had nearly become part of a girl group . After 11 years and five different agencies, she could not be prominent. Yoo said she had difficulty memorizing the dance choreography required of K-pop singers, and after practicing for eight hours a day, six days a week, she",
+      "id": "HotpotQA-validation-00000580/01_Yoo-In-na.html_c_0"
+    },
+    {
+      "text": "Bang Eun-hee ( Korean : 방은희 ; born Bang Min-seo on May 7, 1967) is a South Korean actress. Bang made her acting debut in 1988, and rose to fame after being cast as the lead actress in Im Kwon-taek 's General's Son (1990). She has starred in films and television dramas such as The Day a Pig Fell into the Well (1996), No. 3 (1997), 3PM Paradise Bath House (1997), Shadows of an Old Love (1998), Legend of Hyang Dan (2007), Daebak Life (2008), and All My Love (2010). Bang married Kim Nam-hee, founder and CEO of NH Media , on September 9, 2010. As of 2016, she is now represented by the agency. Filmography Film Television series Radio program Theater Awards and nominations References External links Bang Eun-hee at HanCinema Bang Eun-hee at the Korean Movie Database Bang Eun-hee at IMDb",
+      "id": "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_c_0"
+    },
+    {
+      "text": "My Secret Hotel ( Korean : 마이 시크릿 호텔 ) is a 2014 South Korean mystery - romantic comedy television series starring Yoo In-na , Jin Yi-han , Namkoong Min and Lee Young-eun . It aired on tvN from August 18 to October 14, 2014 on Mondays and Tuesdays at 23:00 ( KST ) for 16 episodes. Synopsis Nam Sang-hyo ( Yoo In-na ) is the head of the wedding planning division of The Secret Hotel, one of Korea's most elite and luxurious hotels and considered among the top wedding destinations in the country. Optimistic, cheerful and a perfectionist, she works hard and dreams of becoming the hotel's general manager someday. Sang-hyo faces the biggest challenge of her job when her next client turns out to be architect Gu Hae-young ( Jin Yi-han ), her ex-husband. Seven years ago, Sang-hyo and Hae-young fell madly in love and got hitched in Las Vegas , but because of Hae-young's easy-come-easy-go attitude towards relationships, they fought and broke up. Since the marriage lasted only 100 days, they never filed the paperwork to legally register it, so their short-lived marriage remains a secret. Meanwhile, Sang-hyo has caught the eye of her boss Jo Sung-gyeom ( Namkoong Min ), a strict but thoughtful hotel managing director who has all the",
+      "id": "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_c_0"
+    },
+    {
+      "text": "Jin Yi-han ( Korean : 진이한 ) (born Kim Hyun-Joong on October 10, 1978) is a South Korean actor. He began his acting career in 2002 in musical theatre , notably in Footloose . Jin soon branched out into television, and among his leading roles were in critically acclaimed Conspiracy in the Court (2007), family drama My Life's Golden Age (2008), daily drama Happiness in the Wind (2010), sitcom You're Here, You're Here, You're Really Here (2011), and mystery-romance My Secret Hotel (2014). He also played supporting roles in Who Are You? (2008), Bravo, My Love! (2011), Dr. Jin (2012), and Empress Ki (2013). On September 23, 2016, Jin Yi-han changed his stage name to Kim Ji-han. Filmography Television series Film Variety show Music video Theater Awards and nominations References External links Jin Yi-han on Instagram Jin Yi-han at HanCinema Jin Yi-han at the Korean Movie Database Jin Yi-han at IMDb",
+      "id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_c_0"
+    },
+    {
+      "text": "ratings. This drama airs on a cable channel/pay TV which normally has a relatively smaller audience compared to free-to-air TV/public broadcasters ( KBS , SBS , MBC and EBS ). References External links My Secret Hotel official tvN website (in Korean) My Secret Hotel at HanCinema My Secret Hotel at IMDb",
+      "id": "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- Yoo In-na is the lead actress of My Secret Hotel (Novel-00000580/00_My-Secret-Hotel.html_c_0).\n- Yoo In-na is also a radio DJ (Novel-00000580/01_Yoo-In-na.html_c_0).\n- She rose to fame as lead actress in Queen and I (Novel-00000580/01_Yoo-In-na.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "My Secret Hotel is a television series starring a South Korean DJ who rose to fame as the lead actress in what?",
+      "doc_ids": [
+        "HotpotQA-validation-00000580/01_Yoo-In-na.html_c_0",
+        "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_c_0",
+        "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_c_0",
+        "HotpotQA-validation-00000580/03_Kim-Ji-han.html_c_0",
+        "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_c_3"
+      ]
+    }
+  ]
+}

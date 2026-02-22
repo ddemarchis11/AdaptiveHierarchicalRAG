@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "Ruth was Angeline Stickney's sister. They were both students at McGrawville College, where Angeline excelled academically and Ruth initially attended but had to leave due to poor health. Ruth later helped her sister financially and took her home when Angeline had a breakdown six weeks before graduation.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Ruth and Angeline Stickney as sisters and mentions their connection at McGrawville College. However, it misses the specific nuance from the Gold Answer about Ruth wishing to be with Angeline. Additionally, while the retrieved context supports Ruth's attendance at McGrawville and her later financial and emotional support for Angeline, the Model Answer includes details about Angeline's academic excellence and Ruth's health issues that are not explicitly grounded in the provided context. This results in partial correctness and faithfulness, as well as incomplete evidence coverage."
+  }
+}

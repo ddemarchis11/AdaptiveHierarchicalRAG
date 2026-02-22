@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007399",
+  "question": "When Copsi was made earl of Northumbria he went back to reside in a town at the confluence of which two rivers?",
+  "gold_answer": "Ouse and Foss",
+  "llm_answer": "I cannot verify the two rivers at which Copsi resided after being made Earl of Northumbria.",
+  "context": [
+    {
+      "text": "Copsi (or Copsig ; Old English : Cōpsige ; died 1067) was a Northumbrian magnate in late Anglo-Saxon England . He was a supporter of Tostig , and was exiled along with him in 1065. Copsi soon fled to Orkney (then a part of Norway ). The next year (1066), he joined Tostig at Sandwich , in Kent , with 17 ships. Copsi survived Tostig's defeat at Stamford Bridge , and when William the Conqueror prevailed at Hastings he travelled, in March 1067, to pay William homage at Barking (where William was staying while his tower was being constructed in London ). In return, William made Copsi Earl of Northumbria and sent him back to York . Copsi's rule lasted a mere five weeks, at which time he was murdered by Osulf , son of Eadulf IV of the ancient Bernician family which had historically governed the area from Bamburgh , at Newburn-upon-Tyne . Osulf led a small force which surprised Copsi during a banquet and forced him to flee to a nearby church, which was then set on fire. He was then captured and beheaded by Osulf. Osulf, however, only ruled as earl until that autumn, when he was killed by an outlaw he was tracking. Sources Stenton, Sir Frank M. Anglo-Saxon",
+      "id": "HotpotQA-validation-00007399/00_Copsi.html_c_0"
+    },
+    {
+      "text": "ruled as earl until that autumn, when he was killed by an outlaw he was tracking. Sources Stenton, Sir Frank M. Anglo-Saxon England Third Edition . Oxford University Press , 1971. External links Copsi 1 at Prosopography of Anglo-Saxon England v t e",
+      "id": "HotpotQA-validation-00007399/00_Copsi.html_c_1"
+    },
+    {
+      "text": "York is a cathedral city in North Yorkshire , England, with Roman origins , sited at the confluence of the rivers Ouse and Foss . It has many historic buildings and other structures, such as a minster , castle and city walls , all of which are Grade I listed . It is the traditional county town of Yorkshire , and the administrative centre of the City of York district. It is located 27 miles (43 km) north-east of Leeds , 90 miles (140 km) south of Newcastle upon Tyne and 207 miles (333 km) north of London . York's built-up area had a recorded population of 141,685 at the 2021 census . The city was founded under the name of Eboracum in AD 71. It then became the capital of Britannia Inferior , a province of the Roman Empire , and was later the capital of the kingdoms of Deira , Northumbria and Scandinavian York . In the Middle Ages it became the northern England ecclesiastical province 's centre, and grew as a wool-trading centre. In the 19th century it became a major railway network hub and confectionery-manufacturing centre. In the Second World War York was bombed in the Baedeker Blitz . Although York was less targeted during the war than other, more industrialised northern cities, several historic buildings were gutted and restoration lasted until the 1960s. Historic local governance of the city was as a county",
+      "id": "HotpotQA-validation-00007399/01_York.html_c_0"
+    },
+    {
+      "text": "The Two Rivers is a 7.0-mile-long (11.3 km) river in Kittson County , northwestern Minnesota , in the United States . Formed by the North Branch of the Two Rivers and the South Branch of the Two Rivers, it is a tributary of the Red River of the North , with its outflow traveling north through Lake Winnipeg and the Nelson River to Hudson Bay . The North Branch flows 61.4 miles (98.8 km) from a point 8 miles (13 km) east of Lancaster, Minnesota to its confluence with the South Branch. It runs entirely within Kittson County. The South Branch rises in Roseau County , approximately 5 miles (8 km) southeast of Badger , and flows 99.4 miles (160.0 km) west to the North Branch. It passes the town of Greenbush before entering Kittson County and passing the town of Lake Bronson . At Hallock , the Middle Branch enters from the east. The 28.0-mile (45.1 km) section of the South Branch downstream from the Middle Branch is shown on federal topographic maps as the main stem of Two Rivers. See also List of rivers of Minnesota References Minnesota Watersheds U.S. Geological Survey Geographic Names Information System: Two Rivers U.S. Geological Survey Geographic Names Information System: North Branch Two Rivers U.S. Geological Survey Geographic Names Information System: South Branch Two Rivers USGS Hydrologic Unit Map -",
+      "id": "HotpotQA-validation-00007399/02_Two-Rivers-Red-River-of-the-North.html_c_0"
+    },
+    {
+      "text": "the post-Roman era, and was taken and settled by the Angles in the 5th century. Reclamation of parts of the town was initiated in the 7th century under King Edwin of Northumbria , and York became his chief city. The first wooden minster church was built in York for the baptism of Edwin in 627, according to the Venerable Bede. Edwin ordered the small wooden church be rebuilt in stone; however, he was killed in 633, and the task of completing the stone minster fell to his successor Oswald . In the following century, Alcuin of York came to the cathedral school of York. He had a long career as a teacher and scholar, first at the school at York now known as St Peter's School , founded in AD 627, and later as Charlemagne 's leading advisor on ecclesiastical and educational affairs. In 866 Northumbria was in the midst of internecine struggles when the Vikings raided and captured York. As a prosperous economic centre, York was a target for the Vikings. Led by Ivar the Boneless and Halfdan , Scandinavian forces (referred to by the Anglo-Saxons as the \" Great Heathen Army \") attacked the town on All Saints' Day. Launching the assault on a holy day proved an effective tactical move – most of York's leaders were in the cathedral, leaving the town vulnerable to attack and unprepared for battle. After it was",
+      "id": "HotpotQA-validation-00007399/01_York.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Copsi was sent back to York (HotpotQA-validation-00007399/00_Copsi.html_c_0).\n- York is at the confluence of the rivers Ouse and Foss (HotpotQA-validation-00007399/01_York.html_c_0).\n- The question asks for two rivers, but only one pair is mentioned in the evidence (HotpotQA-validation-00007399/01_York.html_c_0).\n- The evidence does not mention the other river at the confluence with Ouse and Foss (HotpotQA-validation-00007399/01_York.html_c_0).\n- The question asks for two rivers, but the evidence only provides one pair (HotpotQA-validation-00007399/01_York.html_c_0).\n- The missing information is the name of the second river at the confluence with Ouse and Foss (HotpotQA-validation-00007399/01_York.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "When Copsi was made earl of Northumbria he went back to reside in a town at the confluence of which two rivers?",
+      "doc_ids": [
+        "HotpotQA-validation-00007399/00_Copsi.html_c_0",
+        "HotpotQA-validation-00007399/00_Copsi.html_c_1",
+        "HotpotQA-validation-00007399/01_York.html_c_0",
+        "HotpotQA-validation-00007399/02_Two-Rivers-Red-River-of-the-North.html_c_0",
+        "HotpotQA-validation-00007399/01_York.html_c_4"
+      ]
+    }
+  ]
+}

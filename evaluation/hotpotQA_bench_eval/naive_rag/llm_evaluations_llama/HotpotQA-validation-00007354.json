@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007354",
+  "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+  "gold_answer": "Gulfport, Biloxi",
+  "llm_answer": "The county seat for people living in Henderson Point, Mississippi is not explicitly stated in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct county seat for Henderson Point, Mississippi, which is Gulfport and Biloxi as stated in the Gold Answer. While the retrieved context does not explicitly mention the county seat, the Model Answer does not utilize external knowledge to address the question correctly. Thus, it is faithful to the context but incorrect and lacks evidence coverage."
+  }
+}

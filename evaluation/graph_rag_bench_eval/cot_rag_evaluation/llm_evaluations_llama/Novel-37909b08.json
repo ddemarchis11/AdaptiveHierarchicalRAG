@@ -1,0 +1,12 @@
+{
+  "id": "Novel-37909b08",
+  "question": "Within the familial relationships described in the text, who is identified as the brother of Typho?",
+  "gold_answer": "Osiris is the brother of Typho.",
+  "llm_answer": "There is insufficient evidence to identify who is the brother of Typho.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that Osiris is the brother of Typho, and this is supported by the Retrieved Context, which explicitly mentions 'Typho was the brother of Osiris and Isis.' The Model Answer incorrectly claims there is insufficient evidence to identify Typho's brother, which contradicts both the Gold Answer and the Retrieved Context."
+  }
+}

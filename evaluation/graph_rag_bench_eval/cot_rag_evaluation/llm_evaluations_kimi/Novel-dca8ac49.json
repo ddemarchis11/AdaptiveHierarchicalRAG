@@ -1,0 +1,12 @@
+{
+  "id": "Novel-dca8ac49",
+  "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+  "gold_answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+  "llm_answer": "Diary of a Launce, Lizard Cave  \nNight the boat came  \n\nThey were not meant to be here.  \nI had buried myself in the silver sand just inside the mouth, tail flicked under, gills quiet, waiting for moon-time. Then the shadow slid across the water and the walls began to sing. A boat—its belly wood, its breath oars—nosed into my darkness. Daylight leaked in behind it like a wound.  \n\nI held still, but the water heaved with their weight and the walls threw back the thud of their hearts. One of them raised a tube that cracked the air; the sound rolled through the cave like thunder through my spine. I darted deeper, past where the last rose light reaches, until only the green pulse of the surge and the taste of my own fear remained.  \n\nThey did not stay long; the black beyond frightened them more than it frightens me. When the boat turned, its wake lifted the sand and half-buried me again. I waited until the last echo died, then crept back to the entrance. The moon was not yet up; the hunt belongs to later. Tonight I shall lie closer to the open sea.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the essence of the Gold Answer, describing the intrusion of the boat into the launce's cave and the fish's reaction to the disturbance. It adds vivid, creative details about the launce's experience, which are consistent with the context and enhance the narrative without contradicting the core facts. The retrieved context supports the description of the cave, the boat's entry, and the launce's behavior, ensuring faithfulness. All key facts from the Gold Answer, such as the boat entering the cave and the launce's wariness, are included."
+  }
+}

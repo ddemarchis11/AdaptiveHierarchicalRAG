@@ -1,0 +1,42 @@
+{
+  "id": "Novel-a4dcffa3",
+  "question": "According to the customs described in the narrative, what liquid did the Romans commonly mix with their wine during meals or celebrations?",
+  "gold_answer": "Water was commonly mixed with wine by the Romans.",
+  "llm_answer": "Water",
+  "context": [
+    {
+      "text": "other. Among the Romans, the usual number of persons occupying each couch was three. Sometimes, however, four occupied one couch; while, among the Greeks, only two reclined upon it. In this instance, he describes the lady as occupying the place below her husband, and consequently warming his breast with her head. For a considerable time after the fashion of reclining at meals had been introduced into Rome, the Roman ladies sat at meals while the other sex was recumbent. Indeed, it was generally considered more becoming for females to be seated, especially if it was a party where many persons were present. Juvenal, however, represents a bride as reclining at the marriage supper on the bosom of her husband. On the present occasion, it is not very likely that the ladies were particular about the more rigid rules of etiquette. It must be remembered that before lying down, the shoes or sandals were taken off.] [Footnote 029: Damsel of Atrax.--Ver. 8. He alludes to the marriage of Hippodamia to Pirithous, and the battle between the Centaurs and the Lapithæ, described in the Twelfth-. Book of the Metamorphoses.] [Footnote 031: Do come first.--Ver. 14. He hardly knows why he asks her to do so, but still she must come before her husband; perhaps, that he may have the pleasure of gazing upon her without the",
+      "id": "Novel-47676_c_153"
+    },
+    {
+      "text": "the water in the tea-kettle is boiling, what comes out at the nose? Steam. What is steam? You can find out what it is by catching some of it on a cold plate, or tin cover. As soon as it touches any thing cold, it turns into drops of water. When we boil water and turn it into steam, and then turn the steam back into water, we have distilled the water. We say vapor instead of steam, when we talk about the boiling of alcohol. It takes less heat to turn alcohol to vapor than to turn water to steam; so, if we put over the fire some liquid that contains alcohol, and begin to collect the vapor as it rises, we shall get alcohol first, and then water. But the alcohol will not be pure alcohol; it will be part water, because it is so ready to mix with water that it has to be distilled many times to be pure. But each time it is distilled, it will become stronger, because there is a little more alcohol and a little less water. In this way, brandy, rum, whiskey, and gin are distilled, from wine, cider, and the liquors which have been made from corn, rye, or barley. The cider, wine, and beer had but little alcohol in them. The brandy, rum, whiskey, and gin are nearly one-half alcohol. A glass of strong liquor which has been made by distilling, will injure any one more,",
+      "id": "Novel-25646_c_41"
+    },
+    {
+      "text": "discreet.--Ver. 29. Sapias' is put for 'si sapias,' 'if you are discreet,' 'if you would act sensibly.'] [Footnote 041: Ask the servant.--Ver. 30. This would be the slave, whose office it was to mix the wine and water to the taste of the guests. He was called [oivôxooç] by the Greeks, 'pincerna' by the Romans.] [Footnote 042: Which you have put down.--Ver. 31. That is, which she either puts upon the table, or gives back to the servant, when she has drunk.] [Footnote 043: Touched by his mouth.--Ver. 34. This would appear to refer to some choice morsel picked out of the husband's plate, which, as a mark of attention, he might present to her.] [Footnote 044: On his unsightly breast.--Ver. 36. This, from her position, if she reclined below her husband, she would be almost obliged to do.] [Footnote 045: So close at hand.--Ver. 37. A breach of these injunctions would imply either a very lax state of etiquette at the Reman parties, or, what is more probable, that the present company was not of a very select character.] [Footnote 048: Beneath the cloth.--Ver. 48.",
+      "id": "Novel-47676_c_156"
+    },
+    {
+      "text": "larger bones, larger muscles, and a larger skin to cover the larger body. Every day, each part is also wearing out a little, and needing to be mended by some new food. People who have grown up, need their food for this work of mending. CARE OF THE STOMACH. One way to take care of the stomach is to give it only its own work to do. The teeth must first do their work faithfully. The stomach must have rest, too. I have seen some children who want to make their poor stomachs work all the time. They are always eating apples, or candy, or something, so that their stomachs have no chance to rest. If the stomach does not rest, it will wear out the same as a machine would. The stomach can not work well, unless it is quite warm. If a person pours ice-water into his stomach as he eats, just as the food is beginning to change into the gray fluid of which you have learned, the work stops until the stomach gets warm again. ALCOHOL AND THE STOMACH. You remember about the man who had the little door to his stomach. Sometimes, the doctor put in wine, cider, brandy, or some drink that contained alcohol, to see what it would do. It was carried away very quickly; but during the little time it stayed, it did nothing but harm. It injured the gastric juice, so that it could not mix with the food. If",
+      "id": "Novel-25646_c_54"
+    },
+    {
+      "text": "stalk of a plant which is common in Mexico, and which likewise the Indians call _acocotl_. The most singular characteristic of the instrument is that the performer does not blow into it, but inhales the air through it; or rather, he produces the sound by sucking the mouthpiece. It is said to require strong lungs to perform on the _acocotl_ effectively according to Indian notions of taste. [Illustration] The _botuto_, which Gumilla saw used by some tribes near the river Orinoco (of which we engrave two examples), was evidently an ancient Indian contrivance, but appears to have fallen almost into oblivion during the last two centuries. It was made of baked clay and was commonly from three to four feet long: but some trumpets of this kind were of enormous size. The _botuto_ with two bellies was usually made thicker than that with three bellies and emitted a deeper sound, which is described as having been really terrific. These trumpets were used on occasions of mourning and funeral dances. Alexander von Humboldt saw the _botuto_ among some Indian tribes near the river Orinoco. Besides those which have been noticed, other antique wind instruments of the Indians are mentioned by historians; but the descriptions given of them are too superficial to convey a distinct notion as to their form and purport. Several of these barbarous contrivances scarcely deserve to be classed with musical instruments. This may, for",
+      "id": "Novel-54537_c_92"
+    }
+  ],
+  "cot_scratchpad": "- Romans assigned a slave to mix wine and water to guest taste (Novel-47676_c_156)\n- Greek term for mixer oivôxooç, Roman term pincerna implies water-wine custom (Novel-47676_c_156)\n- No other liquids mentioned for diluting wine in cited passages",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the customs described in the narrative, what liquid did the Romans commonly mix with their wine during meals or celebrations?",
+      "doc_ids": [
+        "Novel-47676_c_153",
+        "Novel-25646_c_41",
+        "Novel-47676_c_156",
+        "Novel-25646_c_54",
+        "Novel-54537_c_92"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003219",
+  "question": "Matt McKenzie had a role on the television show that focused on the lives of teenage friends from what Wisconsin town?",
+  "gold_answer": "Point Place",
+  "llm_answer": "Point Place, Wisconsin",
+  "context": [
+    {
+      "text": "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin , from 1976 to 1979. The ensemble cast features Topher Grace , Mila Kunis , Ashton Kutcher , Danny Masterson , Laura Prepon , Wilmer Valderrama , Lisa Robin Kelly , Debra Jo Rupp , Kurtwood Smith , Don Stark , Tommy Chong , and Tanya Roberts . In 1999, the show was remade for the ITV network in the United Kingdom as Days Like These using almost verbatim scripts with minor changes to cultural references. A sequel series, That '90s Show , set in 1995 and focusing on the children of the main characters of the original show, was released on Netflix from 2023 to 2024. Premise The Circle illustrated the teens' marijuana use, usually in Eric's basement. The image is of the final scene of the series. Setting and timeline The show was set in May 1976 in the August 23, 1998 premiere. After 12 episodes, the series transitioned to 1977. The 23rd episode, \"Grandma's Dead\", was also set in 1976, because it was the 12th episode that was produced, and was",
+      "id": "HotpotQA-validation-00003219/01_That-70s-Show.html_c_0"
+    },
+    {
+      "text": "Matt McKenzie is an actor known for his voice work in games and films. He voiced Auron in the Final Fantasy games Final Fantasy X and Final Fantasy X-2 , and reprised the role in Kingdom Hearts II . He also provided the English voice of Borgoff in the film Vampire Hunter D: Bloodlust , Ptolemy in Reign: The Conqueror , Major Elliot in Final Fantasy: The Spirits Within , and several agents in The Animatrix . McKenzie also appeared as Colin Clive in Gods and Monsters and had roles in television series, including Star Trek: Voyager , Star Trek: Deep Space Nine , JAG , 7th Heaven , That '70s Show , The O.C. , 24 , House M.D. , and Mad Men . McKenzie is often typecast as grumpy or serious characters due to his somewhat \"gruff\" voice. He appeared in theater productions performed in the Pacific Resident Theatre , the Old Globe Theatre , and the Notre Dame Theatre. Shows that he appeared in include Anna Christie , Scotland Road , Barbarians , and An Ideal Wife . Filmography Films Television Video games References External links Matt McKenzie at IMDb Matt McKenzie at Anime News Network 's encyclopedia",
+      "id": "HotpotQA-validation-00003219/00_Matt-McKenzie.html_c_0"
+    },
+    {
+      "text": "Stacey McKenzie (born March 27, 1977) is a Jamaican -born Canadian model, runway coach, motivational speaker, television personality , and actress. McKenzie has been a judge on the reality television shows America's Next Top Model , Canada's Next Top Model , and Canada's Drag Race . Career Unprepared for the challenges of a modelling career, McKenzie returned to Canada to finish high school. Soon after that, she moved to Paris, France to pursue modelling further. During her first season, she modelled for top designers including Jean Paul Gaultier , Thierry Mugler and Christian Lacroix . In February 2012, McKenzie was a panellist on Canada Reads , defending Dave Bidini 's book On a Cold Road . On the first day, McKenzie controversially cast a tie-breaking vote to eliminate Prisoner of Tehran . McKenzie was a main judge on the first season of reality television show Canada's Next Top Model in 2006. In September 2019, McKenzie was announced as one of three permanent judges on Canada's Drag Race , the Canadian version of RuPaul's Drag Race . In May 2021, McKenzie and her Canada's Drag Race co-judges Brooke Lynn Hytes and Jeffrey Bowyer-Chapman won the Canadian Screen Award for Best Host or Presenter in a Factual or Reality/Competition Series at the 9th Canadian Screen Awards . Filmography McKenzie made her acting debut in the 1996 film Shadow Play",
+      "id": "HotpotQA-validation-00003219/02_Stacey-McKenzie.html_c_0"
+    },
+    {
+      "text": "concert staple.  Post-DeLorenzo years (1993–1998) In 1993, DeLorenzo departed the group to act and make solo records. Guy Hoffman , formerly of the Oil Tasters and BoDeans , was brought in to tour what was to become one of the Violent Femmes' biggest-selling records, the Add It Up (1981–1993) collection. Over the next nine years, the band, with Hoffman, recorded five full-length CDs and a handful of one-offs for motion picture soundtracks, such as \"I Swear It (I Can Change)\" from the South Park: Bigger, Longer & Uncut soundtrack , \"Color Me Once\" for the soundtrack to The Crow , and other compilation projects.  In 1997, the band appeared as themselves in the fifteenth episode of the TV show Sabrina, the Teenage Witch , \"Hilda and Zelda: the Teenage Years\". The first full studio album with Hoffman on drums, New Times ( Elektra Records ), was released in 1994, and the band scored another minor hit with the song \"Breakin' Up\". Rock!!!!! ( Mushroom Records ) was released in 1995 in Australia only, although it has since become available in the United States.  Later years and reunion with DeLorenzo (1999–2006) Gordon Gano interviewed (2000). In 1999, Viva Wisconsin , a live",
+      "id": "HotpotQA-validation-00003757/01_Violent-Femmes.html_c_4"
+    },
+    {
+      "text": "Origins Itchy and Scratchy in their first appearance in \"The Bart Simpson Show\" The Itchy & Scratchy Show first appeared in The Tracey Ullman Show short \"The Bart Simpson Show\", which originally aired on November 20, 1988. They were the first major recurring characters outside of the Simpson family to appear. As a child, series creator Matt Groening and his friends would fantasize about an ultra-violent cartoon and how much fun it would be to work on a show like that. The names \"Itchy\" and \"Scratchy\" were inspired by Pixie and Dixie, which was a segment on the cartoon show The Huckleberry Hound Show . The comic strip Squeak the Mouse is also considered an apparent inspiration for the characters. As a child, Groening really liked the 1961 Disney film One Hundred and One Dalmatians , and it was one of the reasons to why he got into cartooning. In the film, the puppies watch television, and the idea of having a cartoon within a cartoon thrilled Groening. From that idea he got the inspiration for Itchy & Scratchy . David Silverman states that Itchy and Scratchy cartoons are \"an ironic commentary on cartoon mayhem in the sense that it's taken to a more realistic level. The kids on The Simpsons are laughing at it, and we're laughing too, but part of what you're laughing at is the over-the-top excessiveness of the",
+      "id": "HotpotQA-validation-00004400/02_The-Itchy-amp-Scratchy-Show.html_c_9"
+    }
+  ],
+  "cot_scratchpad": "- That '70s Show is set in Point Place, WI (Novel-00003219_c_0)\n- Matt McKenzie appeared on That '70s Show (Novel-00003219_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Matt McKenzie had a role on the television show that focused on the lives of teenage friends from what Wisconsin town?",
+      "doc_ids": [
+        "HotpotQA-validation-00003219/01_That-70s-Show.html_c_0",
+        "HotpotQA-validation-00003219/00_Matt-McKenzie.html_c_0",
+        "HotpotQA-validation-00003219/02_Stacey-McKenzie.html_c_0",
+        "HotpotQA-validation-00003757/01_Violent-Femmes.html_c_4",
+        "HotpotQA-validation-00004400/02_The-Itchy-amp-Scratchy-Show.html_c_9"
+      ]
+    }
+  ]
+}

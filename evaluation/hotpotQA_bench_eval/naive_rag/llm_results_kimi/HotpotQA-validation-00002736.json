@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002736",
+  "question": "What country of origin does  Dana Ivey and Two Weeks Notice have in common?",
+  "gold_answer": "American",
+  "llm_answer": "Both Dana Ivey and the film Two Weeks Notice are American.",
+  "context": [
+    {
+      "text": "Dana Ivey (born August 12, 1941) is an American retired actress. She is known for her work on Broadway , earning the 1997 Drama Desk Award for Outstanding Featured Actress in a Play for her work in both Sex and Longing and The Last Night of Ballyhoo . She originated the title role in Driving Miss Daisy and was nominated for a Drama Desk award for Best Actress in a Play. She received five Tony Award nominations for her roles in Sunday in the Park with George (1984), Heartbreak House (1984), The Last Night of Ballyhoo (1997), The Rivals (2005), and Butley (2007). On film, she has acted in The Color Purple (1985), Dirty Rotten Scoundrels (1988), The Addams Family (1991), Home Alone 2: Lost in New York (1992), Sleepless in Seattle (1993), Addams Family Values (1993), Two Weeks Notice (2002), Legally Blonde 2: Red, White & Blonde (2003), Rush Hour 3 (2007), and The Help (2011). On television, she has appeared on Frasier , Sex and the City , Boardwalk Empire and The Big C . Early life and family Ivey was born in Atlanta , Georgia. Her mother, Mary Nell Ivey Santacroce ( née McKoin), was a teacher, speech therapist, and actress",
+      "id": "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_0"
+    },
+    {
+      "text": "Two Weeks Notice is a 2002 American romantic comedy film written and directed by Marc Lawrence and starring Sandra Bullock and Hugh Grant , with Alicia Witt , Dana Ivey , Robert Klein , and Heather Burns in supporting roles. In the film, an idealistic, liberal lawyer (Bullock) goes to work for a narcissistic, billionaire developer (Grant) and they form an unlikely pair. The film was released in the United States on December 20, 2002, by Warner Bros. Pictures . It received mixed reviews from critics and grossed $199 million worldwide. Plot The \"Coney Island community center\" Lucy wants to preserve was actually the Childs Restaurant location on Coney Island 's Riegelmann Boardwalk . It was declared a New York Landmark a month after the film's premiere. It closed later (as in this 2013 picture) and, after renovation, became part of the Ford Amphitheater at Coney Island . Lucy Kelson is an intelligent, highly competent liberal lawyer who specializes in historic preservation, environmental law, and pro bono cases in New York City . George Wade is an arrogant, needy billionaire real estate developer and stylish playboy, who is also quite naïve. Lucy's hard work and devotion to others contrasts sharply with George's childish recklessness and greed. Lucy meets George in an attempt to stop the destruction of the Coney Island community center from her childhood. Learning that she graduated from the prestigious Harvard Law School , he",
+      "id": "HotpotQA-validation-00002736/01_Two-Weeks-Notice.html_c_0"
+    },
+    {
+      "text": "in the 2016 production of The School for Scandal at the Lucille Lortel Theatre . In 2011, she played the role of Grace Higginbotham in the critically acclaimed film, The Help , and starred in Muhammad Ali's Greatest Fight . During this time she acted in Frasier , Oz , The Practice , Sex and the City , Ugly Betty , Boardwalk Empire , and Monk (episode \" Mr. Monk and the Other Detective \"). In December 2016, Ivey was invited by the Noël Coward Society to lay flowers on the statue of Sir Noël Coward at the Gershwin Theatre in Manhattan to celebrate the 117th birthday of \"The Master\". Acting credits Film Television Theater Awards and nominations See also List of Tony Award records References External links Official website Dana Ivey at the Internet Broadway Database Dana Ivey at the Internet Off-Broadway Database (archived) Dana Ivey at IMDb Playwrights Horizons",
+      "id": "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_4"
+    },
+    {
+      "text": "\"Though Two Weeks Notice has nothing new to add to the crowded genre, Hugh Grant and Sandra Bullock make the movie a pleasant, if predictable, sit.\" Metacritic , which uses a weighted average , assigned the film a score of 42 out of 100, based on 30 critics, indicating \"mixed or average\" reviews. Audiences polled by CinemaScore gave the film an average grade of \"B+\" on an A+ to F scale. Roger Ebert of the Chicago Sun-Times gave the film 3 out of 4 and wrote: \"… some of the dialogue has a real zing to it. There were wicked little one-liners that slipped in under the radar and nudged the audience in the ribs.\" Lisa Schwarzbaum of Entertainment Weekly wrote that it \"Knows what it needs to do for both its stars, does it, and doesn't make a federal case about it. I'd watch these two together again in a New York minute.\" David Rooney of Variety called it: \"An affable but undernourished romantic comedy that fails to match the freshness of the actress-producer and writer's previous collaboration, \"Miss Congeniality.\"\" Box office Two Weeks Notice opened at number two domestically, behind The Lord of the Rings: The Two Towers , and spent its first five weeks in the Top 10 at the box office. It grossed $93.3 million in the United States and Canada, and $105.7 million in",
+      "id": "HotpotQA-validation-00002736/01_Two-Weeks-Notice.html_c_4"
+    },
+    {
+      "text": "major screen appearance was in Steven Spielberg 's adaptation of Alice Walker 's The Color Purple later that same year. She took a bit part in Dirty Rotten Scoundrels (1988). 1990–2009: Character actor roles Among her other film credits include the 1995 remake of Sabrina , Simon Birch , Postcards from the Edge , Home Alone 2: Lost in New York , The Addams Family , Sleepless in Seattle , Addams Family Values , Legally Blonde 2: Red, White and Blonde , The Adventures of Huck Finn , Orange County , Rush Hour 3 , The Leisure Seeker , The Importance of Being Earnest , and as Sandra Bullock 's character's mother, Mrs. Kelson, in Two Weeks Notice . Ivey performed in the New York premiere in 2009 of The Savannah Disputation by Evan Smith at Playwrights Horizons . The comedy co-starred Marylouise Burke, Reed Birney, and Kellie Overbey. 2010–present: Later work In July 2010, she appeared as Winnie in Happy Days by Samuel Beckett at the Westport Playhouse . She appeared as Miss Prism in the Roundabout Theatre Company Broadway production of The Importance of Being Earnest in 2011. Ivey played Mrs Candour in the 2016 production of The School for Scandal at the Lucille Lortel Theatre . In 2011, she played the",
+      "id": "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- Dana Ivey is described as an American retired actress (HotpotQA-validation-00002736/00_Dana-Ivey.html_c_0).\n- Two Weeks Notice is labeled a 2002 American romantic comedy film (HotpotQA-validation-00002736/01_Two-Weeks-Notice.html_c_0).\n- Both share the country descriptor \"American\" in their descriptions.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What country of origin does  Dana Ivey and Two Weeks Notice have in common?",
+      "doc_ids": [
+        "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_0",
+        "HotpotQA-validation-00002736/01_Two-Weeks-Notice.html_c_0",
+        "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_4",
+        "HotpotQA-validation-00002736/01_Two-Weeks-Notice.html_c_4",
+        "HotpotQA-validation-00002736/00_Dana-Ivey.html_c_3"
+      ]
+    }
+  ]
+}

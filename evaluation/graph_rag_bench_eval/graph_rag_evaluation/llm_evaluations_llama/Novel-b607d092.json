@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b607d092",
+  "question": "According to the family and migration history detailed in the narrative, from where and to where was Ali called by his uncle?",
+  "gold_answer": "Ali was called by his uncle from Zambo into Moghrele-el-Aksa (Morocco).",
+  "llm_answer": "I cannot find any information about Ali in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide the correct information about Ali being called by his uncle from Zambo into Moghrele-el-Aksa (Morocco). Additionally, the retrieved context does not contain relevant information to support the Gold Answer or the question, but the Model Answer does not utilize internal knowledge to provide a correct response either."
+  }
+}

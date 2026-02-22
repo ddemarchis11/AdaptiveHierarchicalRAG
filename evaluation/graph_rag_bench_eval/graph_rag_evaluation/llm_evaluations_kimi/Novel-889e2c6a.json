@@ -1,0 +1,12 @@
+{
+  "id": "Novel-889e2c6a",
+  "question": "How is the city of Rabat historically connected to Yakob-el-Mansour, and what does the novel say about the Sultan's influence over Western Barbary?",
+  "gold_answer": "Rabat was built by Yakob-el-Mansour, and the Sultan has influence over Western Barbary.",
+  "llm_answer": "The provided context does not mention Yakob-el-Mansour or any historical connection between him and the city of Rabat. Regarding the Sultan's influence over Western Barbary, the text states that as a sovereign Shereef, the Sultan's influence spreads throughout Western Barbary and Central Africa wherever there are Muslims, and he can consolidate power by exciting one chief against another.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Sultan's influence over Western Barbary as mentioned in the context, but it fails to address the historical connection between Yakob-el-Mansour and Rabat, which is a key part of the question. The context does not provide information about Yakob-el-Mansour or Rabat, so the model's omission of this detail is understandable but incomplete. The Sultan's influence is described accurately, but the lack of grounding for Yakob-el-Mansour reduces faithfulness and evidence coverage."
+  }
+}

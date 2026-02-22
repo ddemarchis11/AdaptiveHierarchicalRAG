@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e894a5f5",
+  "question": "In the travel narrative 'An Unsentimental Journey through Cornwall', how is the Devil's Frying-pan geographically related to the village of Cadgwith?",
+  "gold_answer": "The Devil's Frying-pan is near Cadgwith.",
+  "llm_answer": "The Devil's Frying-pan is described as “near Cadgwith,” so geographically it is a coastal feature situated close to the village of Cadgwith.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the Devil's Frying-pan is near Cadgwith, aligning with the Gold Answer and the Retrieved Context. It provides a concise and accurate geographical relationship without introducing unsupported details."
+  }
+}

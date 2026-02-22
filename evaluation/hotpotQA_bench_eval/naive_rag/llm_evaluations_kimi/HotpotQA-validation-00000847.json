@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000847",
+  "question": "The Polar Bear and Daiquiri are both examples of what?",
+  "gold_answer": "cocktails",
+  "llm_answer": "The provided evidence does not mention \"Daiquiri\" or any connection between \"Polar Bear\" and \"Daiquiri.\" Therefore, the evidence is insufficient to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about 'Daiquiri' or its connection to 'Polar Bear.' However, the question is asking about cocktails, which the Model Answer fails to address despite the Gold Answer being clear. The retrieved context is irrelevant, but the Model Answer does not use internal knowledge to provide the correct answer."
+  }
+}

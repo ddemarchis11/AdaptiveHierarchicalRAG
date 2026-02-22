@@ -1,0 +1,12 @@
+{
+  "id": "Novel-49ff508e",
+  "question": "Near the swan-boats in Central Park, with whom did Van Bibber come face to face, leading to an unexpected encounter?",
+  "gold_answer": "Van Bibber came face to face with her brother.",
+  "llm_answer": "Van Bibber came face to face with a burglar, but not immediately. Initially, he encountered three little girls from the East Side who were sitting on a bench beside him, gazing at the swans. However, after a brief conversation with them, he decided to rent a swan-boat and take a ride around the lake. It was during this ride that he came face to face with the burglar.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Van Bibber came face to face with a burglar during a swan-boat ride, which is not supported by the retrieved context. The Gold Answer specifies that Van Bibber encountered her brother, and this key fact is entirely missed. Additionally, the retrieved context does not provide evidence for the burglar encounter or the swan-boat ride leading to such an event, making the Model Answer unfaithful and lacking evidence coverage."
+  }
+}

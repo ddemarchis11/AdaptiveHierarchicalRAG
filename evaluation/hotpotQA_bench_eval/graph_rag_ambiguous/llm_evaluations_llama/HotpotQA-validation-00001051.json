@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001051",
+  "question": "Does a health-oriented food periodical focused on lighter recipes and a culture and music publication historically associated with urban Black audiences both fall under the same medium?",
+  "gold_answer": "yes",
+  "llm_answer": "No, a health-oriented food periodical and a culture and music publication are different mediums.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the two types of publications are different mediums, which contradicts the Gold Answer ('yes'). Additionally, the Retrieved Context does not provide any relevant information to support the Model Answer's claim, making it unfaithful and lacking evidence coverage."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001316",
+  "question": "What location is shared by both Great Neck School District and Saddle Rock Elementary School?",
+  "gold_answer": "New York, United States",
+  "llm_answer": "The location shared by both Great Neck School District and Saddle Rock Elementary School is Great Neck, New York, USA.",
+  "context": [
+    {
+      "text": "Saddle Rock Elementary School or simply \"Saddle Rock\" is an elementary school , comprising grades Kindergarten through 5. It is a public school located in Great Neck, New York , USA as part of the Great Neck School District . The school has been recognized by the Blue Ribbon Schools Program . As of the 2007-08 school year, the elementary school had 73 Students in Kindergarten, 75 students in 1st grade, 80 students in 2nd grade, 97 students in 3rd grade, 83 students in 4th grade, 95 students in 5th grade and 31 ungraded students. The school had 47.4 classroom teachers (on an FTE basis), the school had a student-teacher ratio of 11.4 during the 2006-2007 academic year. Awards and recognition During the 1993-94 school year, Saddle Rock Elementary School was recognized with the Blue Ribbon School Award of Excellence by the United States Department of Education . Saddle Rock Elementary School was the subject of a November 17, 1952 Life Magazine photo essay. Information Address: 10 Hawthorne Lane Great Neck, New York 11023 Year-round schedule: No Magnet school : No Charter school : No Coeducational : Yes School district : Great Neck Union Free School District Yearbook name: Notable alumnae Roxanne Seeman - American songwriter and lyricist References External links Educational data for",
+      "id": "HotpotQA-validation-00001316/00_Saddle-Rock-Elementary-School.html_c_0"
+    },
+    {
+      "text": "Middle schools: Great Neck North Middle School Great Neck South Middle School Elementary schools: Elizabeth Mellick Baker Elementary School(also known as E. M. Baker) John F. Kennedy Elementary School Lakeville Elementary School Saddle Rock Elementary School Nursery school Parkville School Former schools Declining student population through the 1970s and 1980s resulted in a reduction in the number of operating elementary schools from eleven in 1954 to only four as of 2021. The previously operational schools included: Early schools Modern day schools Academic performance Based on the 2020 Niche rankings, the Great Neck Union Free School District is the number one public school district in New York and number three in the United States, beating out its rivals — Jericho and Manhasset Union Free School District . In 2017, 75% of all students in this district were proficient in the English Language Arts while 78% of all students in this district are considered proficient in Mathematics. See also New York (state) portal Schools portal List of school districts in New York References External links Great Neck School District Data for the Great Neck School District , National Center for Education Statistics  Match, Richard. Lucky Seven: A History of the Great Neck Public Schools, Union Free School District No. 7 , Great Neck Public Schools 150th Anniversary Committee, 1964. The Great Neck Library has provided this download to view scanned images of the book. It is a 7.2 MiB PDF",
+      "id": "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_1"
+    },
+    {
+      "text": "Neck Union Free School District Yearbook name: Notable alumnae Roxanne Seeman - American songwriter and lyricist References External links Educational data for Saddle Rock Elementary School , National Center for Education Statistics 40°47′34″N 73°44′46″W ﻿ / ﻿ 40.79278°N 73.74611°W ﻿ / 40.79278; -73.74611",
+      "id": "HotpotQA-validation-00001316/00_Saddle-Rock-Elementary-School.html_c_1"
+    },
+    {
+      "text": "Great Neck Public Schools is a public school district serving students residing in specific areas of Great Neck , North New Hyde Park , North Hills , and Manhasset Hills, New York . It is Union Free School District Number 7 in the Town of North Hempstead in Nassau County , Long Island , New York , United States. About 6,846 students according to Niche rankings, grades K-12 , attend the Great Neck Public Schools. On May 21, 2019, the voters of this district passed a budget of $234,418,944. As of the 2015-16 school year, the district's ten schools had a total enrollment of 6,399 students and 585.0 classroom teachers (on an FTE basis), for a student-teacher ratio of 10.7. List of schools Current schools Great Neck South High School, 2009 Lakeville Elementary School, July 2021 Parkville School, May 2021 There are three high schools: North High School, with an alternative program, Community School; South High School; and The Village School, a small alternative high school. There are also two middle schools, four elementary schools, and a nursery school. High schools: Great Neck North High School Great Neck South High School Great Neck Village High School (Alternative school) Middle schools: Great Neck North Middle School Great Neck South Middle School Elementary schools: Elizabeth Mellick Baker Elementary School(also known as E. M.",
+      "id": "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0"
+    },
+    {
+      "text": "Great Neck Village High School – also known as Village School or simply VS – is a public alternative high school serving students in grades 8 through 12, located in the Village of Great Neck , in Nassau County , New York , United States. A member of Coalition of Essential Schools , Village High School is one of three high schools operated by the Great Neck Union Free School District . Description The Village School offers its 52 students an outdoor education program , college preparatory program, and inclusion of students with disabilities. Co-founder Arnie Langberg has been called \"one of the most important pioneers in the field of public alternative education.\" Village School is home to the newspaper 'The Villager. As of the 2014-15 school year, the school had an enrollment of 48 students and 6.0 classroom teachers (on an FTE basis), for a student–teacher ratio of 8.0:1. There were 3 students (6.3% of enrollment) eligible for free lunch and none eligible for reduced-cost lunch. As of the 2024-25 school year, the school had an enrollment of 52 students and 8.0 classroom teachers, for a student teacher ratio of 7:1. Students Students who enroll must be considered at risk academically for an array of reasons. The students must be in danger of getting lost in Great Neck’s two large, comprehensive high schools or becoming overwhelmed by their environments. Students may have social and",
+      "id": "HotpotQA-validation-00001316/03_Village-School-Great-Neck-New-York.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Great Neck is a location (Great Neck School District.html_c_1).\n- Saddle Rock Elementary School is located in Great Neck (Saddle-Rock-Elementary-School.html_c_0).\n- Great Neck is a location shared by both Great Neck School District and Saddle Rock Elementary School (Saddle-Rock-Elementary-School.html_c_0, Great-Neck-School-District.html_c_1).\n- The question asks for a location shared by both Great Neck School District and Saddle Rock Elementary School (HotpotQA-validation-00001316/00_Saddle-Rock-Elementary-School.html_c_0, HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_1).\n- The current evidence supports that Great Neck is a location shared by both Great Neck School District and Saddle Rock Elementary School (Saddle-Rock-Elementary-School.html_c_0, Great-Neck-School-District.html_c_1).\n- The current evidence does not provide a specific address or coordinates for the location (Saddle-Rock-Elementary-School.html_c_0, Great-Neck-School-District.html_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What location is shared by both Great Neck School District and Saddle Rock Elementary School?",
+      "doc_ids": [
+        "HotpotQA-validation-00001316/00_Saddle-Rock-Elementary-School.html_c_0",
+        "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_1",
+        "HotpotQA-validation-00001316/00_Saddle-Rock-Elementary-School.html_c_1",
+        "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0",
+        "HotpotQA-validation-00001316/03_Village-School-Great-Neck-New-York.html_c_0"
+      ]
+    }
+  ]
+}

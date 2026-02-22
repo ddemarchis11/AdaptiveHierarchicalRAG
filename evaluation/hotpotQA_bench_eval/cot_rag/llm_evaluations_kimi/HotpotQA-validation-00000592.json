@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000592",
+  "question": "In what year did the actor who starred in the TV Land original series \"The Soul Man\" host the Black Movie Awards?",
+  "gold_answer": "2005",
+  "llm_answer": "2005",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the year 2005 as the year Cedric the Entertainer hosted the Black Movie Awards, which is explicitly supported by the retrieved context. The answer is concise and directly addresses the question without adding unsupported details."
+  }
+}

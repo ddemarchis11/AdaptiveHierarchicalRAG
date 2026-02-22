@@ -1,0 +1,12 @@
+{
+  "id": "Novel-459e0a03",
+  "question": "Throughout the play 'Dandy Dick', by what other names is THE DEAN, who is also referred to as Augustin and Gus, known by the characters?",
+  "gold_answer": "THE DEAN is also known as Augustin and Gus.",
+  "llm_answer": "The context does not provide any alternative names or nicknames used for the Dean (Augustin/Gus) by other characters in the play.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not provide alternative names for the Dean, while the Gold Answer explicitly mentions 'Augustin' and 'Gus' as names used for the Dean. Additionally, the retrieved context includes references to 'Gus,' confirming the Gold Answer. The Model Answer fails to address the question and contradicts the evidence in the context."
+  }
+}

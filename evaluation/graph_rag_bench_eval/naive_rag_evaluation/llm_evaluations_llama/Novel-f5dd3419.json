@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5dd3419",
+  "question": "In the aftermath of Mr. Bilson's marriage and changes at the Summit House, to whom did James Calton admit he had done a great injustice?",
+  "gold_answer": "James Calton did a great injustice to Miss Trotter.",
+  "llm_answer": "In the aftermath of Mr. Bilson's marriage and changes at the Summit House, James Calton admitted he had done a great injustice to Miss Trotter.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Miss Trotter as the person to whom James Calton admitted he had done a great injustice, which aligns with the Gold Answer and is fully supported by the Retrieved Context. All key facts are included, and the response is faithful to the context provided."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Novel-19840e69",
+  "question": "According to the narrative, in which region are epidemics stated to occur, as described in the context of disease and climate?",
+  "gold_answer": "Epidemics occur in Yucatan.",
+  "llm_answer": "Epidemics are stated to occur in Yucatan.",
+  "context": [
+    {
+      "text": "unknown. In the immense group of Gibel Thelge (snowy mountains), some of the tribes are said to have their faces shaved, like Christians, and to wear boots. We can understand why a people inhabiting a cold region of rain and mists and perpetual snow should wear boots; but as to their shaving like Christians, this is rather vague. But it is not impossible the Atlas contains the descendants of some European refugees. The nature of the soil and climate of Morocco are not unlike those of Spain and Portugal; and though Morocco does not materially differ from other parts of Barbary, its greater extent of coast on the Atlantic, along which the tradewind of the north coast blows nine months out of twelve, and its loftier ridges of the Atlas, so temper its varied surface of hill and plain and vast declivities that, together with the absence of those marshy districts which in hot climates engender fatal disease, this country may be pronounced, excepting perhaps Tunis, the most healthy in all Africa. In the northern provinces, the climate is nearly the same as that of Spain; in the southern there is less rain and more of the desert heat, but this is compensated for by the greater fertility in the production of valuable staple articles of commerce. Nevertheless, Morocco has its extremes of heat and cold, like all the North African coast. The most striking object of this portion of the crust of the globe, is the vast Atlas chain of mountains [15], which",
+      "id": "Novel-10356_c_70"
+    },
+    {
+      "text": "in the hands of the Indians of Huatusco--a village near Mirador in the Tierra templada, or temperate region, occupying the <DW72>s of the Cordilleras. Its sound is described as so very loud as to be distinctly audible at an incredibly great distance. This circumstance, which has been noticed by several travellers, may perhaps be owing in some measure to the condition of the atmosphere in Mexico. [Illustration] Instruments of percussion constructed on a principle more or less similar to the _teponaztli_ were in use in several other parts of America, as well as in Mexico. Oviedo gives a drawing of a drum from San Domingo which, as it shows distinctly both the upper and under side of the instrument, is here inserted. The largest kind of Mexican _teponaztli_ appears to have been generally of a cylindrical shape. Clavigero gives a drawing of such an instrument. Drums, also, constructed of skin or parchment in combination with wood were not unknown to the Indians. Of this description was, for instance, the _huehuetl_ of the Aztecs in Mexico, which consisted, according to Clavigero, of a wooden cylinder somewhat above three feet in height, curiously carved and painted and covered at the top with carefully prepared deer-skin. And, what appears the most remarkable, the parchment (we are told) could be tightened or slackened by means of cords in nearly",
+      "id": "Novel-54537_c_96"
+    },
+    {
+      "text": "the age, and European civilization, as likewise more consistent with the dignity of Great Britian. The treaty for the supply of provisions, especially cattle, to the garrison of Gibraltar is either a verbal one, or a secret arrangement, for no mention is made of it in the published state paper documents. It is probably a mere verbal unwritten understanding, but, neverthelesss is more potent in its working than the written treaties. This is not the first time that the unwritten has proved stronger than the written engagement. CHAPTER III. The two different aspects by which the strength and resources of the Empire of Morocco may be viewed or estimated.--Native appellation of Morocco.--Geographical limits of this country.--Historical review of the inhabitants of North Africa, and the manner in which this region was successively peopled and conquered.--The distinct varieties of the human race, as found in Morocco.--Nature of the soil and climate of this country.--Derem, or the Atlas chain of mountains.--Natural products.--The Shebbel, or Barbary salmon; different characters of exports of the Northern and Southern provinces.--The Elaeonderron Argan.--Various trees and plants.--Mines.--The Sherb-Errech, or Desert-horse. The empire of Morocco may be considered under two aspects, as to its extent, and as to its influence. It may be greatly circumscribed or expanded to an almost indefinite extent, according to the feelings, or",
+      "id": "Novel-10356_c_51"
+    },
+    {
+      "text": "outside. Notwithstanding the want of superficial water, the air is always charged with moisture; the consequence being a most equable temperature all the year round, and an extreme luxuriance of all vegetation. The climate is mild and comparatively healthy for a country situated within the tropics, and bathed by the waters of the Mexican Gulf. This mildness and healthiness may be attributed to the sea breezes that constantly pass over the peninsula, carrying the malaria and noxious gases that have not been absorbed by the forests, which cover the main portion of the land; and to the great abundance of oxygen exuded by the plants in return. This excessive moisture and the decomposition of dead vegetable matter is the cause of the intermittent fevers that prevail in all parts of the peninsula, where the yellow fever, under a mild form generally, is also endemic. When it appears, as this year, in an epidemic form, the natives themselves enjoy no immunity from its ravages, and fall victims to it as well as unacclimated foreigners. These epidemics, those of smallpox and other diseases that at times make their appearance in Yucatan, generally present themselves after the rainy season, particularly if the rains have been excessive. The country being extremely flat, the drainage is necessarily very bad: and in places like Merida, for example, where a crowding of population exists, and the cleanliness of the streets is utterly disregarded by the proper authorities, the decomposition of vegetable and animal",
+      "id": "Novel-30752_c_9"
+    },
+    {
+      "text": "day-books, [186] over which the avaricious huncks might lament his squandered substance. And have I then in reality as well as in name found you full of duplicity? [187] The very number _of you_ was not one of good omen. What, in my anger, ought I to pray, but that an old age of rottenness may consume you, and that your wax may be white with nasty mould?] [Footnote 186: And day-books.--Ver. 25. Seneca, at the end of his 19th Epistle, calls a Calendar by the name of 'Ephemeris,' while a day-book is meant by the term as used by Ausonius. The word here seems to mean a 'diary;' while 'tabula' is perhaps a 'day-book,' in which current expenses are set down, and over which the miser weeps, as the record of past extravagance.] [Footnote 187: Full of duplicity.--Ver. 27. The word 'duplex' means either 'double,' or 'deceitful,' according to the context. He plays on this twofold meaning, and says that double though they might be, still truly deceitful they were; and that the two leaves of the tablets were of no good omen to him. Two-leaved tablets were technically called 'diptycha.'] [Footnote 189: Honour the",
+      "id": "Novel-47676_c_191"
+    }
+  ],
+  "cot_scratchpad": "- Yucatan is described as having malaria/intermittent fevers and yellow-fever epidemics after the rainy season (Novel-30752_c_9)\n- Yucatan's climate is mild/healthy within tropics but marred by poor drainage, moisture, and decay (Novel-30752_c_9)\n- Morocco is called \"healthy\" due to absence of marshy districts that engender fatal disease (Novel-10356_c_70)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the narrative, in which region are epidemics stated to occur, as described in the context of disease and climate?",
+      "doc_ids": [
+        "Novel-10356_c_70",
+        "Novel-54537_c_96",
+        "Novel-10356_c_51",
+        "Novel-30752_c_9",
+        "Novel-47676_c_191"
+      ]
+    }
+  ]
+}

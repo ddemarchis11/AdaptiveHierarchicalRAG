@@ -1,0 +1,12 @@
+{
+  "id": "Novel-37b056d2",
+  "question": "Why were Judge Boompointer and Judge Fletcher rumored to be rivals for Miss Trotter's hand?",
+  "gold_answer": "Judge Boompointer and Judge Fletcher were rumored to be rivals for Miss Trotter's hand.",
+  "llm_answer": "The evidence states only that “it was finally whispered that the great Judge Boompointer was a serious rival of Judge Fletcher for her hand.”  \nNo reason for the rumor is supplied.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Judge Boompointer and Judge Fletcher were rumored to be rivals for Miss Trotter's hand, as mentioned in the context. It also accurately notes that no specific reason for the rumor is provided in the retrieved context, aligning with the Gold Answer and the evidence."
+  }
+}

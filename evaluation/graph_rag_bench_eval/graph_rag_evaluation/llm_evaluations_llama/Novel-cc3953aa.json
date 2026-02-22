@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cc3953aa",
+  "question": "How does Mr. Darbey's status as an officer of the Hussars relate to his being seen by The Dean and spoken to by Sheba?",
+  "gold_answer": "The Dean sees Darbey, Mr. Darbey is an officer of the Hussars, Sheba speaks to Mr. Darbey.",
+  "llm_answer": "Mr. Darbey is seen by The Dean and spoken to by Sheba as a visitor to the Deanery, specifically as a suitor for Salome's hand in marriage.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that Mr. Darbey is seen by The Dean and spoken to by Sheba, which aligns with the Gold Answer. However, the claim that Mr. Darbey is a suitor for Salome's hand in marriage is unsupported by the retrieved context, which does not provide evidence for this detail. This reduces faithfulness to the context and partially impacts evidence coverage."
+  }
+}

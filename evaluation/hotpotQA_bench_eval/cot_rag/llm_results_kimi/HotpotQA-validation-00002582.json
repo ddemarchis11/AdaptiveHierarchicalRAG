@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002582",
+  "question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+  "gold_answer": "Reese Witherspoon",
+  "llm_answer": "The provided evidence does not mention any actor or actress from *Overnight Delivery* or their birthplace. Therefore, I cannot determine which actor/actress from *Overnight Delivery* was born in New Orleans based on the given information.",
+  "context": [
+    {
+      "text": "The City of New Orleans is a long-distance passenger train operated by Amtrak in the Central United States between Chicago and New Orleans . The overnight train takes about 19 1 ⁄ 2 hours to complete its 934-mile (1,503 km) route, making major stops in Champaign–Urbana , Carbondale , Memphis , and Jackson as well as in other small towns. The City of New Orleans was first initiated by the Illinois Central Railroad in 1947 as the daytime complement to the Panama Limited , a night train dating back to 1911. In 1971 both routes were conveyed to Amtrak, which retained only the Panama Limited . In 1981 Amtrak revived the City of New Orleans name for the train, still on an overnight schedule, on the heels of the popular song of the same name by Steve Goodman . Additional corridor service on the northern segment of the route is provided by the Illini and Saluki between Chicago and Carbondale, Illinois. The City of New Orleans is the only Amtrak train to serve Tennessee . During fiscal year 2023, the train carried 233,876 passengers, an increase of 50.3% from FY2022. In FY2016, the last year that route-specific revenue data was given, the train had a total revenue of $ 18,706,915, a 3.7% decrease from FY2015. History Illinois Central IC #4017, an EMD",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_0"
+    },
+    {
+      "text": "in 1967. Amtrak City of New Orleans , October 2005 When Amtrak assumed operation of U.S. passenger train service on May 1, 1971, it dropped the Panama Limited in favor of retaining the City of New Orleans on the traditional daytime schedule. At that time the City of New Orleans was one of four trains that called at Chicago's Central Station , which was originally Illinois Central's terminal in Chicago. All Amtrak trains were consolidated to Union Station by March 1972. Inauspiciously, the City of New Orleans was involved in Amtrak's first fatal derailment on June 10, near Salem, Illinois . Because this train made no connections with other trains at either New Orleans or Chicago, Amtrak moved the train to an overnight schedule on November 14, 1971, and renamed it the Panama Limited . In February 1981, Amtrak restored the City of New Orleans name while retaining the overnight schedule; Amtrak hoped to capitalize on the popularity of the song written by Steve Goodman and recorded in 1972 by Arlo Guthrie . A Kansas City section, the River Cities , began operation on April 29, 1984. It separated from the City of New Orleans at Centralia, Illinois (later Carbondale) and ran to Kansas City via St. Louis. This section ended on November 4, 1994. The northbound City of New Orleans began stopping at Gilman, Illinois , on",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_2"
+    },
+    {
+      "text": "has been nominated for two Academy Awards , nine Golden Globe Awards , four Screen Actors Guild Awards (SAG Awards), and two British Academy Film Awards (BAFTAs). She won the Golden Globe Award for Best Actress – Motion Picture Comedy or Musical , the SAG Award for Outstanding Performance by a Female Actor in a Leading Role , the BAFTA Award for Best Actress in a Leading Role , and the Academy Award for Best Actress for her performance as June Carter in the film Walk the Line (2005). In 2010, Witherspoon received a star on the Hollywood Walk of Fame . Written works Witherspoon, Reese (2018). Whiskey in a Teacup: What Growing Up in the South Taught Me About Life, Love, and Baking Biscuits . Atria Books. ISBN 978-1501166273 . Witherspoon, Reese; Coben, Harlan (2025). Gone Before Goodbye . Grand Central Publishing. ISBN 978-1538774700 . Novel. References External links Reese Witherspoon at Wikipedia's sister projects Media from Commons Quotations from Wikiquote Texts from Wikisource Data from Wikidata Draper James Reese Witherspoon at IMDb",
+      "id": "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_33"
+    },
+    {
+      "text": "Lake Michigan , now CN Illinois Central Railroad Chicago Branch and main line, Chicago to Cairo, Illinois , now CN Chicago, St. Louis and New Orleans Railroad (IC), Cairo to Fulton, Kentucky , now CN Chesapeake, Ohio and Southwestern Railroad (IC), Fulton to Memphis, Tennessee , now CN Yazoo and Mississippi Valley Railroad (IC), Memphis to Jackson, Mississippi , now CN Chicago, St. Louis and New Orleans Railroad (IC), Jackson to New Orleans, Louisiana , now CN As of 2023 [update] , the southbound City of New Orleans leaves Chicago at 8 p.m., traveling overnight through southern Illinois and Kentucky for arrival at breakfast time the following morning in Memphis, lunchtime in Jackson, and mid-afternoon in New Orleans. Northbound trains leave New Orleans in early afternoon, arriving in Jackson in early evening, then traveling through Tennessee and southern Illinois overnight before arriving in Champaign-Urbana at breakfast time the following morning and Chicago just after rush hour. The train is the sole Amtrak service in Tennessee , making stops at Memphis and Newbern . In 2023, the City of New Orleans on-time performance was 75%. Stations Equipment A typical City of New Orleans consist includes: GE Genesis / Siemens ALC-42 locomotive Viewliner Baggage car Superliner Transition-sleeper Superliner Sleeper Superliner Diner-Lounge Superliner Sightseer Lounge Superliner Coach Superliner Coach Superliner Coach-baggage Folk song \" City",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_6"
+    },
+    {
+      "text": "18,706,915, a 3.7% decrease from FY2015. History Illinois Central IC #4017, an EMD E7 , leads the City of New Orleans at Kankakee, Illinois in August 1964. The Illinois Central Railroad introduced the original City of New Orleans on April 27, 1947. It was a daytime, all-coach companion to the overnight Panama Limited , which had been all- Pullman for most of its run. EMD E7 diesel locomotives pulled new lightweight Pullman Company coaches. The 921-mile (1,482 km) route, which the City of New Orleans covered in 15 hours 55 minutes, was the longest daytime schedule in the United States. The City of New Orleans exchanged St. Louis —New Orleans through cars at Carbondale, Illinois and Louisville —New Orleans cars at Fulton, Kentucky . The average speed of the new train was nearly 60 mph (97 km/h) with a maximum of 100 mph (160 km/h); a result of the largely flat route of the Illinois Central along the Mississippi River . By October 25, 1959, the timetable had lengthened to 16 hours 30 minutes. The train remained popular throughout the 1960s and gained ex- Missouri Pacific Railroad dome coaches in 1967. Amtrak City of New Orleans , October 2005 When Amtrak assumed operation of U.S. passenger train service on May",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_1"
+    },
+    {
+      "text": "by a script that too often aims for cheap laughs\" and gave it a grade C−. Nathan Rabin of The A.V. Club wrote that while the two lead actors had done good work elsewhere they were \"atrocious\" in this film, \"He's irritatingly smarmy, she's abrasively sassy, and together they're insufferable.\" Rabin concluded, \"This should be avoided by all\". Rebecca Murray, writing for About.com , disagreed and gave Overnight Delivery a more positive review. She stated that the movie did not receive the attention it deserved by going straight to video, and it should have been given a better shot. \"I actually laughed out loud at parts of Overnight Delivery and wish it had been given a better shot at [the] theatrical run.\" References External links Overnight Delivery at IMDb",
+      "id": "HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Need cast of Overnight Delivery to search for birthplaces (HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_5).\n- Current evidence only reviews film, no cast listed.\n- No actor linked to New Orleans yet found.\n- Overnight Delivery starred Reese Witherspoon and Paul Rudd (HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_0).\n- Reese Witherspoon is mentioned but birthplace not yet shown (HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_5).\n- No evidence yet states New Orleans for either actor.\n- Reese Witherspoon born 1976 Southern Baptist Hospital in New Orleans, Louisiana (HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_2).\n- Witherspoon starred in Overnight Delivery as previously established (HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+      "doc_ids": [
+        "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_0",
+        "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_2",
+        "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_6",
+        "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_1",
+        "HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_5"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "cast members of Overnight Delivery",
+      "doc_ids": [
+        "HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_5",
+        "HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_0",
+        "HotpotQA-validation-00002582/00_Overnight-Delivery.html_c_4",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_5",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_28"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Reese Witherspoon birthplace",
+      "doc_ids": [
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_33",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_21",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_2",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_10",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_18"
+      ]
+    }
+  ]
+}

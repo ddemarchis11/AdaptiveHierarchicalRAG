@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e4c114e1",
+  "question": "Which materials are sequentially involved in the containment and coverage of the retorts in the furnace?",
+  "gold_answer": "Blocks made of refractory clay contain the retorts, and slabs cover the compartment in the baking chamber.",
+  "llm_answer": "The materials sequentially involved in the containment and coverage of the retorts in the furnace are:\n\n1. Cast-iron retorts (D)\n2. Superposed blocks of refractory clay (P, Q, S)\n3. Crosspieces (R) to hold the blocks in place\n4. A cylindrical dome of refractory tiles (O) to cover the space between the retorts and the fire-place.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies materials involved in the containment and coverage of the retorts, such as cast-iron retorts and refractory clay blocks, which are supported by the context. However, it misses the specific mention of slabs covering the compartment in the baking chamber, which is a key fact from the Gold Answer. While the Model Answer provides additional details, it does not fully align with the Gold Answer's focus on blocks and slabs."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-80578893",
+  "question": "What roles did Dr. Elsie Inglis fulfill within the Women’s Liberal League and the Scottish Federation of Women’s Suffrage Societies, and how did her positions as a member and as Honorary Secretary contribute to the advancement of women's rights in Scotland?",
+  "gold_answer": "Dr. Elsie Inglis was a member of the Women’s Liberal League and served as Honorary Secretary to the Scottish Federation of Women’s Suffrage Societies.",
+  "llm_answer": "The provided context does not specify Dr. Elsie Inglis’s exact roles within the Women’s Liberal League or the Scottish Federation of Women’s Suffrage Societies, nor does it detail how any such positions advanced women’s rights in Scotland.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question directly and does not provide any information about Dr. Elsie Inglis's roles or contributions within the Women’s Liberal League or the Scottish Federation of Women’s Suffrage Societies. It also incorrectly claims that the context does not specify her roles, despite the Gold Answer clearly stating her positions. The retrieved context does not provide relevant information, but the Model Answer does not utilize internal knowledge to answer correctly either."
+  }
+}

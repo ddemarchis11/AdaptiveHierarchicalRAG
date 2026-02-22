@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac9a05e7",
+  "question": "According to the narrative in 'Vestiges of the Mayas,' between which regions is the territory known as Tierra de Guerra situated, specifically as described in its geographical context?",
+  "gold_answer": "Tierra de Guerra is located between Guatemala, Tabasco, Chiapas and Yucatan.",
+  "llm_answer": "The text places Tierra de Guerra between Santa Cruz and the rest of Yucatán, describing it as the area whose inhabitants (along with those of Santa Cruz) still bar outsiders from their land.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly identify the geographical location of Tierra de Guerra as described in the Gold Answer. It instead provides a description of the inhabitants and their behavior, which is not relevant to the question. Furthermore, the retrieved context does not explicitly support the Model Answer's claims about the location or the inhabitants barring outsiders. The Gold Answer specifies the location as being between Guatemala, Tabasco, Chiapas, and Yucatan, which is entirely missed in the Model Answer."
+  }
+}

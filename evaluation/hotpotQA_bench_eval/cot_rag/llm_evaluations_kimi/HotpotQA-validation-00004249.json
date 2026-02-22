@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004249",
+  "question": "Are Benjamin Britten and Béla Bartók from the same country?",
+  "gold_answer": "no",
+  "llm_answer": "No. The evidence shows Béla Bartók is described as a “Hungarian composer,” while Benjamin Britten is identified as British; therefore they are not from the same country.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that Béla Bartók is Hungarian and Benjamin Britten is British, aligning with the Gold Answer's 'no.' However, the retrieved context does not explicitly mention Britten's nationality, making the claim about Britten's British origin unsupported by the context. Additionally, the Model Answer does not provide specific evidence from the context to substantiate Bartók's Hungarian nationality, even though it is implied. Thus, while the answer is correct, it lacks full grounding and coverage of evidence."
+  }
+}

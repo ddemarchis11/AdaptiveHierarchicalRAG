@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ec4712e3",
+  "question": "In what way did the storm affect the journey of the coach along the mountain road, considering the storm's fury spent on the mountain and the incident where the coach ran upon the pole-straps of the arrested horses?",
+  "gold_answer": "The storm spent its fury on the mountain, and the coach ran upon the pole-straps.",
+  "llm_answer": "The storm’s fury, spent higher on the mountain, sent a sudden, heavy snowfall that burst upon the coach as it descended the road. Within minutes the ground, the vehicle, the horses and even the passengers were blanketed in thick snow, pinioning the outside travellers to their seats and forcing the coach to struggle on through the rapidly whitening road.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed description of the storm's impact, focusing on heavy snowfall blanketing the coach and its surroundings. However, this is not supported by the retrieved context, which does not mention snowfall affecting the coach's journey. The Gold Answer highlights the storm's fury spent on the mountain and the coach running upon the pole-straps, which the Model Answer partially addresses but misses the specific incident with the pole-straps. Thus, the answer is partially correct but unfaithful to the provided context."
+  }
+}

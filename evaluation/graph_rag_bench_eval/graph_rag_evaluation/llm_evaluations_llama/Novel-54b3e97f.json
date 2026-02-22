@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "During one of his social encounters, Mr. Pepys drank with Mr. Chetwind, Gregory, Hartlibb, and Mr. Kipps at the Bell at the Maypole in the Strand.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies Mr. Starling as the individual who drank with Mr. Pepys, while the Model Answer incorrectly identifies Mr. Chetwind, Gregory, Hartlibb, and Mr. Kipps as the companions. This is not supported by the retrieved context, which does not mention these individuals in relation to drinking with Mr. Pepys. The Model Answer fails to align with the Gold Answer and lacks grounding in the provided context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-948e27af",
+  "question": "What statement did Louis Joseph Papineau make about Reform ministries during his speeches criticizing British government responses to the grievances of Lower Canada?",
+  "gold_answer": "Papineau made a statement about Reform ministries.",
+  "llm_answer": "When Reform ministries, who called themselves our friends,' he said, 'have been deaf to our complaints, can we hope that a Tory ministry, the enemy of Reform, will give us a better hearing?",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the statement made by Papineau about Reform ministries, as supported by the retrieved context. It includes the relevant quote and aligns with the Gold Answer, which is a concise summary of the same point. The Model Answer is faithful to the context and covers the key fact mentioned in the Gold Answer."
+  }
+}

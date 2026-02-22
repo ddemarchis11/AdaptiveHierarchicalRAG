@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003328",
+  "question": "What day of the week does the Korean cooking-variety program featuring the owner of \"Dear. bread\" air?",
+  "gold_answer": "Mondays",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect. The Retrieved Context explicitly mentions that the Korean cooking-variety program 'Please Take Care of My Refrigerator' airs on Mondays. The Model Answer fails to provide the correct day of the week and does not utilize the relevant information from the context."
+  }
+}

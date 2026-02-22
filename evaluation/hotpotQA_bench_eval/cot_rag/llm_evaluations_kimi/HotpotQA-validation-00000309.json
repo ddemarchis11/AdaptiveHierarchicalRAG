@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000309",
+  "question": "Are Staten Island Catapult and This Is Elvis both documentaries?",
+  "gold_answer": "yes",
+  "llm_answer": "The evidence only confirms that \"This Is Elvis\" is a documentary. There is no information about \"Staten Island Catapult\" in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the context only supports 'This Is Elvis' as a documentary, but it fails to address the question fully by not confirming whether 'Staten Island Catapult' is a documentary. The Gold Answer states 'yes' for both, but the Model Answer does not provide information about 'Staten Island Catapult,' which is missing from the retrieved context."
+  }
+}

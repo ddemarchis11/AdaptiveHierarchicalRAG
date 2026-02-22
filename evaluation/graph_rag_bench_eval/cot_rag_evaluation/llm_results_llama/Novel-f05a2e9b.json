@@ -1,0 +1,42 @@
+{
+  "id": "Novel-f05a2e9b",
+  "question": "After his experiences in Monte Carlo, where did Louis intend to return with his wife, as discussed in their conversation?",
+  "gold_answer": "Louis would go back to Paris.",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "steamboats, for playing sharp tricks at three card monte upon passengers, and he had gone to work, which he never did until he was entirely out of money. Brindle Bill left the cabin, _ostensibly_ to go to work; but he sat upon the log, rubbed his hand across his forehead, and said mentally, “Susan La-s-co. By the last card in the deck, _that is the name_; if I didn't hear Simon's wife, in Shirt-Tail Bend, years ago, say her mother's name was S-u-s-a-n L-a-s-c-o. I will never play another game; and--and _twenty thousand in bank_. By hell, I've struck a lead.” The ever open ear of the Angel of observation was catching the sound of a conversation in the cabin of Sundown Hill in Shirt-Tail Bend. It was as follows-- “Many changes, Bill, since you left here; the Carlo wood yard has play'd out; Don Carlo went back to Kentucky. I heard he was blowed up on a steamboat; if he ever come down again I did'nt hear of it.” “Hope he never did,” said Bill, chawing the old grudge with his eye teeth. Hill continued: “You see, Bill, the old wood yards have given place to plantations. Simon, your old friend, is making pretentions to be called a planter,” said Sundown Hill to Brindle",
+      "id": "Novel-47558_c_53"
+    },
+    {
+      "text": "was quite unruffled, and only a black spot on the shirt front showed where the powder had burnt the linen. It had made a great impression on him then, for he was at the height of his fortunes, with crowds of sycophantic friends and a retinue of dependents at his heels. And now that he was quite alone and disinherited by even these sorry companions there seemed no other escape from the pain in his brain but to end it, and he sought this place of all others as the most fitting place in which to die. So, after Walters had given the proper papers and checks to the commissioner who handled his debts for him, he left Paris and took the first train for Monte Carlo, sitting at the window of the carriage, and beating a nervous tattoo on the pane with his ring until the old gentleman at the other end of the compartment scowled at him. But Harringford did not see him, nor the trees and fields as they swept by, and it was not until Walters came and said, \"You get out here, sir,\" that he recognized the yellow station and the great hotels on the hill above. It was half-past eleven, and the lights in the Casino were still burning brightly. He wondered whether he would have time to go over to the hotel and write a letter to his father and to her. He decided, after some difficult consideration, that he would not. There was nothing to say that they did not know already, or",
+      "id": "Novel-5956_c_147"
+    },
+    {
+      "text": "Don Carlo used no words, nor did he choose any second; Sundown Hill and Dan Carlo looked at each other, and at S. S. Simon, with a look that said, we stand by Don Carlo. S. S. Simon hallooed _fair play_, and Brindle Bill _pitched in_. Brindle Bill was the stoutest man, Don Carlo the most active, the contest was sharp, and very doubtful, notwithstanding the boasting character of Brindle Bill, true pluck was upon the side of Don Carlo. At this critical moment, Simon's wife appeared upon the scene of action, the door of the cabin was fast, Simon was on the inside. She could hear the blows and smell the blood, for a lucky lick from Don had started the blood from Brindle Bill's nose, but could not see or know the combatants. Quick as thought, she applied the fire-brand to the cane pile, on the west end of the cabin. A strong breeze from the west soon enveloped the roof of the cabin in flames. The men rushed out into the open air much frightened. Simon's wife grabbed her husband and dragged him toward their home, with loud and eloquent cries of _shame_. The contest was ended, and Don Carlo had the money. Brindle Bill appealed to the men of his party to see that he should have_ fair play_. His appeals were all in vain, the fear of him was broken, and he had no great",
+      "id": "Novel-47558_c_22"
+    },
+    {
+      "text": "Two Frenchmen who had won a hundred francs between them were jumping and dancing at his side. He remembered wondering why they did not speak in English. Then the sunlight changed to a yellow, nasty glare, as though a calcium light had been turned on the glass and colors, and he pushed his way back to his carriage, leaning heavily on the servant's arm, and drove slowly back to Paris, with the driver flecking his horses fretfully with his whip, for he had wished to wait and see the end of the races. He had selected Monte Carlo as the place for it, because it was more unlike his home than any other spot, and because one summer night, when he had crossed the lawn from the Casino to the hotel with a gay party of young men and women, they had come across something under a bush which they took to be a dog or a man asleep, and one of the men had stepped forward and touched it with his foot, and had then turned sharply and said, \"Take those girls away\"; and while some hurried the women back, frightened and curious, he and the others had picked up the body and found it to be that of a young Russian whom they had just seen losing, with a very bad grace, at the tables. There was no passion in his face now, and his evening dress was quite unruffled, and only a black spot on the shirt front showed where the powder had burnt the linen. It had made a great impression on",
+      "id": "Novel-5956_c_146"
+    },
+    {
+      "text": "I have not heard from him since my coming from him, which troubles me. To bed. 28th (Lord's day). This morning as my wife and I were going to church, comes Mrs. Ramsay to see us, so we sent her to church, and we went too, and came back to dinner, and she dined with us and was wellcome. To church again in the afternoon, and then come home with us Sir W. Pen, and drank with us, and then went away, and my wife after him to see his daughter that is lately come out of Ireland. I staid at home at my book; she came back again and tells me that whereas I expected she should have been a great beauty, she is a very plain girl. This evening my wife gives me all my linen, which I have put up, and intend to keep it now in my own custody. To supper and to bed. 29th. This morning we began again to sit in the mornings at the office, but before we sat down. Sir R. Slingsby and I went to Sir R. Ford's to see his house, and we find it will be very convenient for us to have it added to the office if he can be got to part with it. Then we sat down and did business in the office. So home to dinner, and my brother Tom dined with me, and after dinner he and I alone in my chamber had a great deal",
+      "id": "Novel-4128_c_46"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\":\n- \"- Louis had experiences in Monte Carlo (Novel-47558_c_53).\n- Louis had a conversation with his wife about returning (Novel-47558_c_53).\n- The conversation mentioned Don Carlo going back to Kentucky (Novel-47558_c_53).\n- The conversation mentioned Don Carlo being blown up on a steamboat (Novel-47558_c_53).\n- The conversation mentioned Simon, Louis' friend, making pretentions to be a planter (Novel-47558_c_53).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "After his experiences in Monte Carlo, where did Louis intend to return with his wife, as discussed in their conversation?",
+      "doc_ids": [
+        "Novel-47558_c_53",
+        "Novel-5956_c_147",
+        "Novel-47558_c_22",
+        "Novel-5956_c_146",
+        "Novel-4128_c_46"
+      ]
+    }
+  ]
+}

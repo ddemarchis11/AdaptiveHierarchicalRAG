@@ -1,0 +1,12 @@
+{
+  "id": "Novel-237238e6",
+  "question": "How can consuming candy ultimately lead to the presence of alcohol in the body, and what role does sugar play in this process?",
+  "gold_answer": "Candy contains sugar, and sugar is changed into alcohol.",
+  "llm_answer": "Based on the provided evidence, consuming candy can ultimately lead to the presence of alcohol in the body through the following process:\n\n1. Candy is often made from sugar, but sometimes it contains other substances like starch.\n2. When starch is consumed, it needs to be broken down into sugar before it can be absorbed by the body.\n3. The saliva in the mouth has the power to turn starch into sugar.\n4. However, if the starch is not broken down into sugar, it can be converted into alcohol and a gas through a process that occurs in the body, similar to the fermentation process that occurs in grape-juice to produce wine.\n\nThe role of sugar in this process is that it can be converted into alcohol and a gas through fermentation. This is evident in the production of wine, where the sugar in the grape-juice is converted into alcohol and a gas, resulting in a drink that contains alcohol.\n\nHowever, it is worth noting that the evidence does not provide a direct link between consuming candy and the presence of alcohol in the body. The process described above is more related to the fermentation of starches in the body, rather than the direct consumption of sugar from candy.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of how sugar and starch can be converted into alcohol, referencing fermentation processes. However, it introduces unsupported claims about starch conversion in the body and its relation to candy consumption, which are not explicitly grounded in the retrieved context. The Gold Answer is simpler and directly states that sugar in candy can be changed into alcohol, which is partially reflected in the Model Answer but with added speculative details."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004639",
+  "question": "Which terrorist group was the cause of the battle in which Mark E. Michell won an award for his actions?",
+  "gold_answer": "al-Qaeda",
+  "llm_answer": "The terrorist group that was the cause of the battle in which Mark E. Michell won an award for his actions was Al Ansar, a group of foreign fighters (mostly from Arabic-speaking countries of the Middle East) who were harbored by the Taliban.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'Al Ansar' as the terrorist group responsible for the battle, whereas the Gold Answer correctly states 'al-Qaeda.' The context clearly supports the Gold Answer, as it mentions that the Taliban was harboring al-Qaeda operatives, and the prisoners were interrogated for al-Qaeda connections. The Model Answer is neither correct nor faithful to the retrieved context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

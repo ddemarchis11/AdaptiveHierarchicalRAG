@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "In the narrative's depiction of poetic inspiration, the figure of \"the image of my early youth\" is described as coming to the Poet, specifically in the form of Pepin, who is seen as a vivacious and youthful representation of the Poet's own early years.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'the image of my early youth' and 'Pepin' as the figure coming to the Poet, which is not supported by the context or the Gold Answer. The Gold Answer clearly states 'Tragedy came to the Poet,' and this is not reflected in the Model Answer. Additionally, the retrieved context does not provide evidence for the claims made in the Model Answer, making it unfaithful and lacking evidence coverage."
+  }
+}

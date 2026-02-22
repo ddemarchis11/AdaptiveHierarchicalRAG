@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000796",
+  "question": "Pramod Bhasin was the former CEO of a company that provided what kind of services?",
+  "gold_answer": "IT",
+  "llm_answer": "Pramod Bhasin was the former CEO of Genpact, which provided business process outsourcing (BPO) services.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Pramod Bhasin was the former CEO of Genpact and specifies that the company provided business process outsourcing (BPO) services, which is supported by the context. However, the Gold Answer specifies 'IT' services, which is broader and includes BPO. While the Model Answer is accurate and grounded, it does not explicitly mention 'IT' services, leading to partial evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c8e42c69",
+  "question": "What was the political affiliation of Dr. Inglis, as referenced in her participation in public and political life?",
+  "gold_answer": "Liberal",
+  "llm_answer": "Dr. Inglis was a Liberal; she joined the Central Edinburgh Women’s Liberal Association in its earliest organised years, acted as its Vice-President for sixteen years, and was a member of the Women’s Liberal League.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Dr. Inglis's political affiliation as Liberal, consistent with the Gold Answer. It provides additional relevant details about her involvement in Liberal organizations, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the extra information enhances understanding without introducing unsupported claims."
+  }
+}

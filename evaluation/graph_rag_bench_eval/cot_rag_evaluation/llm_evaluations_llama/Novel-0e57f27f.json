@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e57f27f",
+  "question": "In the story, Eily expresses a desire to possess wealth greater than the Countess o' Kilmoggen and specifically wishes for diamonds and pearls to drop from her mouth whenever she speaks. What evidence from the events and Eily's own words shows that she aspired to be wealthy?",
+  "gold_answer": "Eily wanted to be richer than the Countess o' Kilmoggen, wished for diamonds and pearls, and talked about diamonds and pearls.",
+  "llm_answer": "Evidence from the events and Eily's own words that shows she aspired to be wealthy:\n\n1. Eily's desire to possess wealth greater than the Countess o' Kilmoggen: Eily expresses her desire to be richer than the Countess o' Kilmoggen herself, let alone the Queen, by the time she has talked for an hour. This shows that she aspires to wealth and status.\n\n2. Eily's wish for diamonds and pearls to drop from her mouth: Eily specifically wishes for diamonds and pearls to drop from her mouth whenever she speaks, which is a clear indication of her desire for wealth and luxury.\n\n3. Eily's reaction to the Green Man's gift: When the Green Man grants her wish, Eily is overjoyed and exclaims, \"Och! wudn't it be beautiful, entirely?\" This shows that she is thrilled with the prospect of possessing wealth and luxury.\n\n4. Eily's ability to talk extensively: Eily loves to talk and is able to do so extensively, which results in a large accumulation of diamonds and pearls. This shows that she is able to utilize her gift to accumulate wealth.\n\n5. Eily's comparison of her wealth to the doctor's: When Eily compares her wealth to the doctor's, she realizes that her wealth is not bringing her the happiness she expected. This shows that she initially aspired to wealth for its own sake, rather than for any other reason.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, elaborating on Eily's desire to be wealthier than the Countess o' Kilmoggen and her wish for diamonds and pearls to drop from her mouth. It provides additional context and details, such as her reaction to the Green Man's gift and her ability to talk extensively, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the answer remains faithful to the context provided."
+  }
+}

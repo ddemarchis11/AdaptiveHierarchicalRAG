@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1c53b384",
+  "question": "What is the historical significance of Chaacmol in Maya history as described in the narrative, considering his funeral chamber at Chichen, the research conducted by Augustus Le Plongeon, and the circumstances of his death at the hands of Aac?",
+  "gold_answer": "Chaacmol had a funeral chamber at Chichen, was studied by Augustus Le Plongeon, and was killed by Aac.",
+  "llm_answer": "Chaacmol is portrayed as a Maya culture-hero whose life, violent death at the hands of his brother Aac, and elaborate funeral chamber at Chichen-Itza were recorded in mural paintings and bas-reliefs that Augustus Le Plongeon studied and excavated, leading Le Plongeon to equate him with the Egyptian god Osiris and to make the 1875 discovery of Chaacmol’s statue and tomb central to his own archaeological claims.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Chaacmol's funeral chamber at Chichen-Itza, his death at the hands of Aac, and Augustus Le Plongeon's research, aligning with the Gold Answer. However, it introduces additional details, such as comparisons to Osiris and the significance of Le Plongeon's archaeological claims, which are not explicitly supported by the retrieved context. While these details are plausible, they lack direct grounding in the provided context, reducing faithfulness and evidence coverage."
+  }
+}

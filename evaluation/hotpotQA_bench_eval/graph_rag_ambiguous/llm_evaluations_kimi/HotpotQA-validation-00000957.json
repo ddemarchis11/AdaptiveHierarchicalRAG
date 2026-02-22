@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000957",
+  "question": "Who were the creators of the late-night comedy programme that featured a recurring puppet dog character known for his abrasive, mocking style of interviewing?",
+  "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+  "llm_answer": "The late-night comedy programme featuring the abrasive puppet dog Triumph the Insult Comic Dog was created by Robert Smigel, Michael Koman, and David Feldman.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Robert Smigel, Michael Koman, and David Feldman as the creators of the late-night comedy programme featuring Triumph the Insult Comic Dog. This information is supported by the retrieved context, which explicitly mentions these individuals as the creators of 'The Jack and Triumph Show.' The answer is accurate, grounded, and includes all key facts from the Gold Answer."
+  }
+}

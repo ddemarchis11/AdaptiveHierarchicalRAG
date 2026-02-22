@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00004506",
+  "question": "What city does the company that owns Bumble and bumble have its headquarters in?",
+  "gold_answer": "New York City",
+  "llm_answer": "The city where the company that owns Bumble and bumble has its headquarters is New York City.",
+  "context": [
+    {
+      "text": "Bumble and bumble Products, LLC , known more commonly as Bumble and Bumble is a hair salon and product company established in 1977 by hairdresser and entrepreneur Michael Gordon. The company operates two flagship salon locations in New York City. Bumble and Bumble is one of 27 brands owned by Estée Lauder Companies , Inc. References External links Official website",
+      "id": "HotpotQA-validation-00004506/00_Bumble-and-bumble.html_c_0"
+    },
+    {
+      "text": "of Estee Lauder's natural products brands. The contracted company was Common Sense Natural Soap & Bodycare, owned by a group led by cult leader Yoneq Gene Spriggs . Estee Lauder said it immediately moved to terminate the contract with the manufacturer it had been in business with for 5 years, stating it was totally unaware prior to the initial inspection. Animal testing The Estée Lauder Companies perform non-animal and human volunteer testing to assess product safety and efficacy. Estée Lauder Companies product goes through animal testing where required by law by its country government. The Chinese government requires testing on animals for many cosmetic products. This causes controversy for smaller brands that are \"cruelty free\" but were acquired by Estée Lauder. Boycott and anti-boycott QUIT activists protesting Estée Lauder Companies, 2004. Since at least February 2001, Estée Lauder and its brands have been the target of a boycott campaign led by pro- Palestine activists who have targeted the corporation because of the pro-Israel activities of Ronald Lauder . In June 2003, the San Francisco-based Queers Undermining Israeli Terrorism (QUIT) took up the boycott with their \"Estée Slaughter\" campaign. The boycott has generated an anti-boycott campaign by supporters of Israel. References External links New York City portal Companies portal Official website Business data for The Estée Lauder Companies Inc.: Google Reuters SEC filings Yahoo!",
+      "id": "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_9"
+    },
+    {
+      "text": "division went from a small and relatively unprofitable arm of Estée Lauder to one that brought in about half of the company's revenue. She oversaw the opening of the company's first location in the USSR one week after the fall of the Berlin Wall . Wagner launched marketing campaigns in over 100 countries for the company. Breast Cancer Awareness campaign In October 1992, the Breast Cancer Awareness campaign was launched by Evelyn Lauder (Estée's daughter-in-law) who co-created the \"Pink Ribbon\" with Self magazine as a symbol of breast health. The Estée Lauder Companies' annual Breast Cancer Awareness campaign involves all of the 19 brands that make up the Estée Lauder Companies. They collectively represent the Breast Cancer Research Foundation's first and largest corporate supporter. Since 1992, the Estée Lauder Companies' breast cancer campaign has raised more than $89 million globally for research, education, and medical services. Brands The Estée Lauder Companies brands include: Controversies SOPA Estée Lauder Companies appeared on lists of major companies supporting SOPA , the controversial, but unsuccessful, Congressional anti-piracy bill that was considered overreaching by critics. Child labor In 2001, it was reported that children were discovered working in a factory in Cambridge, New York , making products for Origins, one of Estee Lauder's natural products brands. The contracted company was Common Sense Natural Soap & Bodycare, owned by a group led by cult leader",
+      "id": "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_8"
+    },
+    {
+      "text": "Israel. References External links New York City portal Companies portal Official website Business data for The Estée Lauder Companies Inc.: Google Reuters SEC filings Yahoo! 40°45′49″N 73°58′22″W ﻿ / ﻿ 40.76361°N 73.97278°W ﻿ / 40.76361; -73.97278",
+      "id": "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_10"
+    },
+    {
+      "text": "The Estée Lauder Companies Inc. ( / ˈ ɛ s t eɪ ˈ l ɔː d ər / EST -ay LAW -dər ) is an American multinational cosmetics company, a manufacturer and marketer of makeup , skincare , perfume , and hair care products, based in Midtown Manhattan , New York City . It is the second largest cosmetics company in the world after L'Oréal . The company owns a diverse portfolio of brands, including La Mer, Jo Malone London , Clinique and Tom Ford Beauty , among many more, distributed internationally through both digital commerce and retail channels . History Founders Estée and Joseph H. Lauder in 1971 The company began in 1946 when Estée Lauder and her husband Joseph began producing cosmetics in New York City . They first carried only four products: Cleansing Oil, Skin Lotion , Super Rich All-purpose Creme, and Creme Pack. Two years later, in 1948 they established their first department store account with Saks Fifth Avenue in Manhattan . Over the next 15 years, they expanded the range and continued to sell their products in the United States. In 1960, the company started its first international account in the London department store Harrods . The following year it opened an office in Hong Kong . In 1964, they introduced Aramis , a line of fragrance and grooming products for men named after an exotic Turkish root",
+      "id": "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_0"
+    },
+    {
+      "text": "followed by Kiton , an Italian fashion house (1995), and with American fashion designer Donna Karan (1997). Brand acquisitions began with an investment in the Toronto-based MAC Cosmetics in 1994, which the company then acquired in 1998. Bobbi Brown Cosmetics , designed by the celebrated makeup artist, was acquired in 1995, as was La Mer – along with the original recipe for its supreme luxury product, Crème de la Mer, containing the nutrient-rich Miracle Broth. The company ventured into its first hair care and holistic beauty brand with Aveda in 1997. The fragrance house Jo Malone London was acquired in 1999. On November 16, 1995, the Estée Lauder Companies went public on the New York Stock Exchange at $26 a share ($6.50 on a post-split basis ; equivalent to $50 and $10 in 2024 ). Acquisitions and licensing continued in the 2000s as the Estée Lauder Companies bought a majority interest in the hair salon Bumble and bumble and completed its acquisition in 2006; an exclusive global licensing agreement was signed with fashion designer Michael Kors (2003). Designer Tom Ford began a project with the company and later an agreement was signed with him (2005) to develop and distribute fragrances and cosmetics under the Tom Ford Beauty brand. On July 1, 2010, the company acquired Smashbox Beauty Cosmetics, Inc.,",
+      "id": "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- The company that owns Bumble and bumble is Estée Lauder Companies.\n- Estée Lauder Companies is a New York-based company.\n- Bumble and bumble has two flagship salon locations in New York City.\n- (HotpotQA-validation-00004506/00_Bumble-and-bumble.html_c_0)\n- (HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_2)\n- The Estée Lauder Companies is headquartered in New York City.\n- New York City is a city in the state of New York.\n- (HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_10)\n- (HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What city does the company that owns Bumble and bumble have its headquarters in?",
+      "doc_ids": [
+        "HotpotQA-validation-00004506/00_Bumble-and-bumble.html_c_0",
+        "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_2",
+        "HotpotQA-validation-00002715/01_Panera-Bread.html_c_13",
+        "HotpotQA-validation-00004506/02_Swarth-Group.html_c_0",
+        "HotpotQA-validation-00000645/01_Rosie-ODonnell.html_c_19"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What city is Estée Lauder Companies headquartered in?",
+      "doc_ids": [
+        "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_9",
+        "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_8",
+        "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_10",
+        "HotpotQA-validation-00004506/01_Este-Lauder-Companies.html_c_0",
+        "HotpotQA-validation-00004506/00_Bumble-and-bumble.html_c_0"
+      ]
+    }
+  ]
+}

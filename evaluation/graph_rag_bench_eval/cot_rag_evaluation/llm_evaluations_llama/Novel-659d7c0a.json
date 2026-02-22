@@ -1,0 +1,12 @@
+{
+  "id": "Novel-659d7c0a",
+  "question": "Which musical instruments were used by the Aztecs?",
+  "gold_answer": "The Aztecs used the huehuetl and the teponaztli as musical instruments.",
+  "llm_answer": "Based on the provided evidence, the musical instruments used by the Aztecs include:\n\n1. Pipes and flutes: These were made of pottery or bone and were found frequently in Aztec tombs and other hiding places.\n2. Whistle: A small whistle formed of baked clay was found among the Aztecs.\n3. _Jobel_ (or _jubel_): Although its exact meaning is unclear, it may refer to a loud and cheerful blast of the trumpet or a musical instrument in general.\n4. _Shalisbim_: This is believed to denote a triangle.\n5. _Nechiloth_, _gittith_, and _machalath_: These are thought to be musical instruments, with _Nechiloth_ being a flute and _gittith_ and _machalath_ being stringed instruments.\n6. A sonorous metal instrument: This was struck with a mallet and was used to summon worshippers to prayer in a temple dedicated to \"The unknown god, the cause of causes.\"\n7. A rattle called _ajacaxtli_: This was made of a gourd with holes pierced in it and a wooden handle affixed. Little pebbles were enclosed in the hollowed gourd.\n8. A fiddle: This was mentioned as being used during the repasts of Montezuma, the Aztec monarch.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly identify the huehuetl and teponaztli as the musical instruments used by the Aztecs, which are explicitly stated in the Gold Answer. Instead, it lists a variety of instruments, many of which are not supported by the retrieved context as being Aztec-specific or relevant to the question. The claims made in the Model Answer are largely unsupported or speculative based on the context provided, leading to a lack of faithfulness and evidence coverage."
+  }
+}

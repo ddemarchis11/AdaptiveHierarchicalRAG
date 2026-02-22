@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007078",
+  "question": "What other things did  blind Arab philosopher who is also  Abd Allah ibn al-Fadl teacher do",
+  "gold_answer": "poet, and writer",
+  "llm_answer": "The evidence does not identify any “blind Arab philosopher” who was the teacher of ʿAbd Allāh ibn al-Faḍl, so no other activities for such a person can be given.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about the activities of the blind Arab philosopher who was Abd Allah ibn al-Fadl's teacher. The Gold Answer specifies 'poet and writer,' but the Model Answer incorrectly states that no such person is identified, which contradicts the context that mentions Abul ʿAla Al-Maʿarri, a famous poet and teacher of Arabic grammar to Abd Allah ibn al-Fadl. This results in a lack of correctness, faithfulness, and evidence coverage."
+  }
+}

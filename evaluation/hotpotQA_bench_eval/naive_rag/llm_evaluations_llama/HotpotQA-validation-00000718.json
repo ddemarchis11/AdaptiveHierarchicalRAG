@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000718",
+  "question": "Albanians in Montenegro which make up 4.91 of the county's total population could be members of the Albanian Coalation Perspect which is a what?",
+  "gold_answer": "Albanian political party in Montenegro",
+  "llm_answer": "The Albanian Coalition Perspect is a political party.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Albanian Coalition Perspect as a political party, aligning with the Gold Answer. However, the retrieved context does not explicitly mention this specific coalition or its nature as a political party, making the faithfulness to context partial. The evidence coverage is complete as the core fact from the Gold Answer is included."
+  }
+}

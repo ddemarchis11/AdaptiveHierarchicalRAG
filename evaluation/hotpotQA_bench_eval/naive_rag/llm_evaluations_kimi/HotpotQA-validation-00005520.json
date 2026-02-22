@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005520",
+  "question": "What country does Haringey Heartlands and The Mall Wood Green have in common?",
+  "gold_answer": "London",
+  "llm_answer": "England",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer 'England' is incorrect as the Gold Answer specifies 'London,' which is a more precise and relevant answer based on the context. While 'England' is technically true, it does not directly address the question's focus on the shared location of Haringey Heartlands and The Mall Wood Green. The context clearly situates both places in London, making 'London' the correct answer. The Model Answer is faithful to the context but fails to include the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30d33f79",
+  "question": "Which series of relationships connects David to the musical instrument santir, considering the involvement of Egyptian musicians?",
+  "gold_answer": "David used to suspend the kinnor, which is rendered as harp, found in the British Museum; cymbals in the museum were used by Egyptian musicians; Assyrian musicians played the dulcimer, which is known as santir.",
+  "llm_answer": "The chain is:\n\nDavid → kinnor → psalterion/psalterin → santir.\n\nThe context shows that David’s instrument, the kinnor, is taken as equivalent to the Greek psalterion (called psalterin in the book of Daniel); the name psalterion/psalterin is in turn the source of the oriental dulcimer name santir. Egyptian musicians enter the picture only as contemporary users of harps and lyres whose designs influenced Hebrew instruments, but the direct name-line runs kinnor-psalterion-santir.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the chain of relationships connecting David to the santir, aligning with the Gold Answer. It provides additional context about the influence of Egyptian musicians and the evolution of instrument names, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the explanation is faithful to the provided evidence."
+  }
+}

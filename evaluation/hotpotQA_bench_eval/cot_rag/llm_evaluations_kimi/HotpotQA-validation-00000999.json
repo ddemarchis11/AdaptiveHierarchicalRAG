@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000999",
+  "question": "What musical action does Ndebele music and Musical bow have in common?",
+  "gold_answer": "played",
+  "llm_answer": "Both Ndebele music and the musical bow use mouth-resonated bows: Ndebele employ the mouthbow (umqangala), and the musical bow is commonly played with the mouth as a resonating chamber.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer simply states 'played,' which is correct but very general. The Model Answer adds specific details about mouth-resonated bows, which are partially supported by the context but not explicitly linked to the Ndebele music or the musical bow in the retrieved context. The Model Answer misses the simplicity of the Gold Answer and introduces details that are not fully grounded in the provided context."
+  }
+}

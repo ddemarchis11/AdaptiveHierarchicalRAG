@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005979",
+  "question": "Dan Hurley is the brother of which head coach of Arizona State's men's basketball team?",
+  "gold_answer": "Robert Matthew Hurley",
+  "llm_answer": "The brother of the head coach of Arizona State's men's basketball team is Bobby Hurley.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Bobby Hurley as the brother of Dan Hurley, who is the head coach of Arizona State's men's basketball team. This information is supported by the retrieved context, which explicitly states Bobby Hurley's role and relationship to Dan Hurley."
+  }
+}

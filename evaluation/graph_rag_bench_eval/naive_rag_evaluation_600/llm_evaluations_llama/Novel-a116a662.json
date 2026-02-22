@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a116a662",
+  "question": "When discussing her personal history aboard the ship to China, what did Mrs. Forrester claim about her national background during her conversation with Rudolph?",
+  "gold_answer": "Mrs. Forrester claimed to be more French than English.",
+  "llm_answer": "There is no mention of Mrs. Forrester claiming a specific national background during her conversation with Rudolph aboard the ship to China. However, it is mentioned that the ship's doctor referred to her as \"Mrs. Forrester\" and Rudolph was surprised by this, implying that he had not known her to be married to a man with that name.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question about Mrs. Forrester's claim regarding her national background during her conversation with Rudolph. Instead, it discusses unrelated details about her marital status and Rudolph's reaction to the doctor's comment. The Gold Answer clearly states that Mrs. Forrester claimed to be more French than English, which is not mentioned or supported in the Model Answer. Additionally, the Retrieved Context does not provide evidence for the Model Answer's claims, making it unfaithful and lacking evidence coverage."
+  }
+}

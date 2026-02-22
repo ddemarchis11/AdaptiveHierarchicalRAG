@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007359",
+  "question": "In what city does the most successful American and international five-and-dime business have a historic building?",
+  "gold_answer": "Watertown, New York",
+  "llm_answer": "Watertown, New York",
+  "context": [
+    {
+      "text": "Woolworth Building, 2004 The Woolworth Building is a historic building in Watertown, New York . It is a contributing building in the Public Square Historic District . Plans for the Woolworth Building were begun in 1916 by Frank W. Woolworth , the founder of the Woolworth's chain of department stores. Entrance marker History Woolworth began his retail career at the Smith and Moore Dry Goods Store in Watertown in 1873. It was during his time here that he was given the idea of selling fixed price merchandise, which led him to create his successful chain of five and dime department stores in 1879. The Smith and Moore store later became a member of the Woolworth chain. In 1916, Woolworth purchased the American Building in Watertown, which housed the store in which he began his career. Woolworth planned to demolish this structure, and build a grander building in its place. Woolworth's death in 1919 initially halted these plans, but the Woolworth Corporation eventually decided to go ahead with his plans, and the new six story Woolworth Building opened its doors in 1921. Woolworth's Department Store occupied the building until 1971, when the store was moved into a modern facility. Many shops occupied the bottom floor of the building in the ensuing years, while the upper five floors remained occupied by various business offices. Current status Vacant Woolworth Building, 2010 In 2007, declining",
+      "id": "HotpotQA-validation-00007359/00_F-W-Woolworth-Building-Watertown-New-York.html_c_0"
+    },
+    {
+      "text": "The F. W. Woolworth Company (often referred to as Woolworth's or simply Woolworth ) was a retail company and one of the pioneers of the five-and-dime store . It was among the most successful American and international five-and-dime businesses, setting trends and creating the modern retail model that stores worldwide follow today. The first Woolworth store was opened by Frank Winfield Woolworth on February 22, 1879, as \"Woolworth's Great Five Cent Store\" in Utica, New York . Though it initially appeared to be successful, the store soon failed. [ page needed ] When Woolworth searched for a new location, a friend suggested Lancaster, Pennsylvania . Using the sign from the Utica store, Woolworth opened his first successful \"Woolworth's Great Five Cent Store\" on June 21, 1879, in Lancaster. He brought his brother, Charles Sumner Woolworth , into the business. The two Woolworth brothers pioneered and developed merchandising , direct purchasing, sales, and customer service practices commonly used today. Despite its growing to be one of the largest retail chains in the world through most of the 20th century, increased competition led to its decline beginning in the 1980s apart from the company's growing sporting goods division. The chain went out of business in July 1997, when the company decided to focus primarily on sporting goods and renamed itself Venator Group . By 2001, the company focused",
+      "id": "HotpotQA-validation-00007359/01_F-W-Woolworth-Company.html_c_0"
+    },
+    {
+      "text": "the UK in Liverpool . These counters served as general gathering places, a precursor to the modern shopping mall food court . A Woolworth's lunch counter in Greensboro, North Carolina, became the setting for the 1960 Greensboro sit-ins , protesting the company's racial segregation policies in the South , a key event of the Civil Rights Movement . The Woolworth's concept was widely imitated, and five-and-ten-cent stores (also known as five-and-dime stores or dimestores) became a 20th-century fixture in American downtowns. They would serve as anchors for suburban shopping plazas and shopping malls in the 1950s, 1960s, and 1970s. Criticisms that five-and-dime stores drove local merchants out of business would repeat themselves in the early 21st century, when big-box discount stores became popular. Front of a vintage Woolworth's store on 34th Street in New York City in 1954 Diversifications In the 1960s, the five-and-dime concept evolved into the larger discount department store format. In 1962, Woolworth's founded a chain of large, single-floor discount stores called Woolco . In that same year, Woolworth's competitors opened similar retail chains that sold merchandise at a discount: the S.S. Kresge Company opened Kmart , Dayton's opened Target , and Sam Walton opened his first Wal-Mart store. The following year, in",
+      "id": "HotpotQA-validation-00007359/01_F-W-Woolworth-Company.html_c_6"
+    },
+    {
+      "text": "Maynard Town Hall and Jail is a historic building located in Maynard, Iowa , United States. Before this building was constructed the town had no building to enact its business. They used the mayor's house or place of business for his office and council meetings. After it was completed, this building served as a jail into the late 1930s and as the city hall until 1952, when a new community building was completed. For most of the time it served as a jail it was outfitted with bars and had bunks. It was a short-term lock-up for those who committed minor infractions. It was used for a public library beginning in the 1940s. After its use as a city hall, it was bought by a local merchant for use in his grocery store in 1957. The building was listed on the National Register of Historic Places in 1997. References v t e v t e",
+      "id": "HotpotQA-validation-00007359/03_Maynard-Town-Hall-and-Jail.html_c_0"
+    },
+    {
+      "text": "The Sioux City Linseed Oil Works is a historic building located in Sioux City, Iowa , United States. It is located east of the central business district where warehouses and other industrial buildings are located. It housed the Sioux City Linseed Oil Works (initially known as Hubbard and Gere) from 1884, when it was built, until 1927 when its owner, the American Linseed Oil Company, ceased production here. The building was largely destroyed in a fire that began late in the night of May 20, 1891. Mankato, Minnesota architect William D. McLaughlin stepped in to complete the work begun by Sioux City architect E.W. Loft. The building was rebuilt and was very similar in appearance to the original structure. The gable roof on the westernmost wing was replaced by a flat roof, and two floors were added to the rebuilt press room annex in the back. The building was acquired by Bekins Van and Storage Company in 1928. They began operations here two years later and remained the primary tenant in the building until 1972. There was a variety of other tenants who were housed here over the years. The building was listed on the National Register of Historic Places in 2008. References v t e v t e",
+      "id": "HotpotQA-validation-00007359/02_Sioux-City-Linseed-Oil-Works.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Woolworth Co. was one of the most successful American & international five-and-dime chains (HotpotQA-validation-00007359/01_F-W-Woolworth-Company.html_c_0).\n- It has a historic Woolworth Building in Watertown, NY (HotpotQA-validation-00007359/00_F-W-Woolworth-Building-Watertown-New-York.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what city does the most successful American and international five-and-dime business have a historic building?",
+      "doc_ids": [
+        "HotpotQA-validation-00007359/00_F-W-Woolworth-Building-Watertown-New-York.html_c_0",
+        "HotpotQA-validation-00007359/01_F-W-Woolworth-Company.html_c_0",
+        "HotpotQA-validation-00007359/01_F-W-Woolworth-Company.html_c_6",
+        "HotpotQA-validation-00007359/03_Maynard-Town-Hall-and-Jail.html_c_0",
+        "HotpotQA-validation-00007359/02_Sioux-City-Linseed-Oil-Works.html_c_0"
+      ]
+    }
+  ]
+}

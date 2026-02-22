@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b231e0b",
+  "question": "What is the connection between Kynance and Cornwall as established by the narrative chains?",
+  "gold_answer": "Kynance Cove, which includes Kynance and the feature Devil's Throat, is in Cornwall.",
+  "llm_answer": "Kynance Cove is located in Cornwall; the narrative repeatedly treats “Kynance” and “Cornwall” as belonging together, describing the cove as a Cornish beauty-spot and guiding travellers to “Kynance Cove, Cornwall.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Kynance Cove as being located in Cornwall and emphasizes the connection between the two, which aligns with the Gold Answer. The retrieved context supports this by repeatedly referencing Kynance Cove as a notable location in Cornwall. All key facts from the Gold Answer are included, and the additional details about its description as a Cornish beauty-spot are relevant and grounded in the context."
+  }
+}

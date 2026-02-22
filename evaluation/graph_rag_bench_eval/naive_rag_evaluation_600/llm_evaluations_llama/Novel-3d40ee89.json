@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter is the housekeeper of the Summit House, a hotel. Frida Jansen is one of the girls who help at the hotel. \n\nMiss Trotter had selected Frida Jansen to especially attend to Mr. Calton, who was a guest at the hotel and was being treated by a doctor. \n\nLater, it is revealed that Mr. Calton had become engaged to Frida Jansen, but she had actually been having an affair with Mr. Bilson, the owner of the hotel. \n\nWhen Mr. Bilson announces his engagement to Frida Jansen, Miss Trotter is promoted to the entire control of the hotel, and she becomes an independent woman of means.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant details about Miss Trotter's resignation and her selection of Frida Jansen, but it introduces additional information about Frida's engagement to Mr. Calton and her affair with Mr. Bilson, which is not directly relevant to the question. While these details are partially grounded in the context, they are not central to the relationship described in the Gold Answer. The Model Answer misses the concise connection between Miss Trotter's resignation and her selection of Frida Jansen, which is the core of the Gold Answer."
+  }
+}

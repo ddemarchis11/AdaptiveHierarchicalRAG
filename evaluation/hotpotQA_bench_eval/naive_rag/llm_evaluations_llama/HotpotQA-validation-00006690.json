@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006690",
+  "question": "Dulce Maria García Rivas took part in a \"Mask vs. Hair\" match with which female wrestler at Guerra de Titanes?",
+  "gold_answer": "Faby Apache",
+  "llm_answer": "I cannot verify which female wrestler Dulce Maria García Rivas (Sexy Star) took part in a \"Mask vs. Hair\" match with at Guerra de Titanes.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Faby Apache,' as stated in the Gold Answer. Additionally, the retrieved context explicitly mentions the 'Mask vs. Hair' match between Faby Apache and Sexy Star at Guerra de Titanes 2009, making the Model Answer unfaithful to the context and lacking evidence coverage."
+  }
+}

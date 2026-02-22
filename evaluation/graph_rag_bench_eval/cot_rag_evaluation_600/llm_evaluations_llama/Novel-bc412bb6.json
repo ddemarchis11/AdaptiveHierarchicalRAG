@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bc412bb6",
+  "question": "According to the mythological events described in the text, who became the wife of the river-god Tiber?",
+  "gold_answer": "Tiber",
+  "llm_answer": "There is insufficient evidence in the provided text to determine who became the wife of the river-god Tiber.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states 'Tiber' as the wife of the river-god Tiber, which is supported by the retrieved context mentioning Ilia's nuptials with the river Tiber. The Model Answer incorrectly claims there is insufficient evidence, failing to address the question and contradicting the context."
+  }
+}

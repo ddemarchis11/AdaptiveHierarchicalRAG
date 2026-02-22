@@ -1,0 +1,42 @@
+{
+  "id": "Novel-edb040bb",
+  "question": "According to the narrative about rare bird species, what is another name for the Ocellated Pheasant?",
+  "gold_answer": "The Ocellated Pheasant is also known as Rheinardius ocellatus.",
+  "llm_answer": "_Rheinardius ocellatus_",
+  "context": [
+    {
+      "text": "| | 6 | 2 | | 9 | 3 | | 12 | 4 | | 15 | 5 | | 18 | 6 | | 21 | 7 | | 24 | 8 | | 27 | 9 | | 30 | 10 | | Oct. 3 | 11 | | 6 | 12 | | 10 | 13 | | 14 | 14 | | 19 | 15 | | 27 | 16 | Clock | Nov. 15 | 15 | slower. | 20 | 14 | | 24 | 13 | | 27 | 12 | | 30 | 11 | | Dec. 2 | 10 | | 5 | 9 | | 7 | 8 | | 9 | 7 | | 11 | 6 | | 13 | 5 | | 16 | 4 | | 18 | 3 | | 20 | 2 | | 22 | 1 | | 24 | 0 | | |------------| | 26 | 1 | | 28 | 2 | Clock | 30 | 3 | faster. |__________|____________| THE OCELLATED PHEASANT. The collections of the Museum of Natural History of Paris have just been enriched with a magnificent, perfectly adult specimen of a species of bird that all the scientific",
+      "id": "Novel-8559_c_168"
+    },
+    {
+      "text": "these become elongated, and tear-like in form. On the remiges the markings are quite regularly hexagonal in shape; and on the upper coverts of the tail and on the rectrices they are accompanied with numerous ferruginous blotches, some of which are irregularly scattered over the whole surface of the vane, while others, marked in the center with a blackish spot, are disposed in series along the shaft and resemble ocelli. This similitude of marking between the rectrices and subcaudals renders the distinction between these two kinds of feathers less sharp than in many other Gallinaceans, and the more so in that two median rectrices are considerably elongated and assume exactly the aspect of tail feathers. [Illustration: THE OCELLATED PHEASANT (_Rheinardius ocellatus_).] The true rectrices are twelve in number. They are all absolutely plane, all spread out horizontally, and they go on increasing in length from the exterior to the middle. They are quite wide at the point of insertion, increase in diameter at the middle, and afterward taper to a sharp point. Altogether they form a tail of extraordinary length and width which the bird holds slightly elevated, so as to cause it to describe a graceful curve, and the point of which touches the soil. The beak, whose upper mandible is less arched than that of the pheasants, exactly resembles that of the arguses.",
+      "id": "Novel-8559_c_172"
+    },
+    {
+      "text": "each of them a white spot near the middle; those of the neck are whitish with black streaks, and are long and erected when the bird is attacked. The bill is flat like the starling's, nearly an inch and a half long, and the legs agree in shape and in the want of the hinder toe with the bustard's, but it is not, as Golins says, the bustard, that bird being twice as big as the hobara. Nothing can be more entertaining than to see this bird pursued by the hawk, and what a variety of flights and stratagems it makes use of to escape.\" The French call the hobara, a little bustard, _poule de Carthage_, or Carthage-fowl. They are frequently sold in the market of Tunis, as ordinary fowls, but eat something like pheasant, and their flesh is red. [35] The most grandly beautiful view in Tunis is that from the Belvidere, about a mile north-west from the capital, looking immediately over the Marsa road. Here, on a hill of very moderate elevation, you have the most beautiful as well as the most magnificent panoramic view of sea and lake, mountain and plain, town and village, in the whole Regency, or perhaps in any other part of North Africa. There are besides many lovely walks around the capital, particularly among and around the craggy heights of the south-east. But these",
+      "id": "Novel-10356_c_264"
+    },
+    {
+      "text": "discovery of an individual whose state of preservation leaves nothing to be desired now comes to demonstrate the correctness of Verreaux's, Bonaparte's, and Elliot's suppositions. This bird, whose tail is furnished with feathers absolutely identical with those that the museum possessed, is not a peacock, as some have asserted, nor an ordinary Argus of Malacca, nor an argus of the race that Elliot named _Argus grayi_, and which inhabits Borneo, but the type of a new genus of the family Phasianidae. This Gallinacean, in fact, which Mr. Maingonnat has given up to the Museum of Natural History, has not, like the common Argus of Borneo, excessively elongated secondaries; and its tail is not formed of normal rectrices, from the middle of which spring two very long feathers, a little curved and arranged like a roof; but it consists of twelve wide plane feathers, regularly tapering, and ornamented with ocellated spots, arranged along the shaft. Its head is not bare, but is adorned behind with a tuft of thread-like feathers; and, finally, its system of coloration and the proportions of the different parts of its body are not the same as in the common argus of Borneo. There is reason, then, for placing the bird, under the name of _Rheinardius ocellatus_, in the family",
+      "id": "Novel-8559_c_170"
+    },
+    {
+      "text": "machine. Hank Sizing and Wringing Machine. 1 figure. Improved Coke Breaker. 2 figures. Improvements in Printing Machinery. 2 figures. II. TECHNOLOGY AND CHEMISTRY.--Apparatus for Obtaining Pure Water for Photographic Use. 3 figures. Black Phosphorus.--By P THENARD. Composition of Steep Water Schreiber's Apparatus for Revivifying Bone Black. 5 figures.-- Plant: elevation and plan.--Views of elevation.--Continuous furnace. Soap and its Manufacture from a Consumer's Point of View. (Continued from SUPPLEMENT, No. 330). Cotton seed Oil.--By S. S. BRADFORD. On some Apparatus that Permit of Entering Flames.--Chevalier Aldini's wire gauze and asbestos protectors.--Brewster's account of test experiments. III. ELECTRICITY, LIGHT. ETC.--On a New Arc Electric Lamp. By W. H. PREECE. 6 figures--The Abdank system.--The lamp.-- The Electro-magnet.--The Cut-off.--The electrical arrangement. Utilization of Solar Heat. IV. NATURAL HISTORY.--The Ocellated Pheasant. 1 figure. The Maidenhair Tree in the Gardens at Broadlands, Hants, England. 1 figure. The Woods of America.--The Jessup collection in the American Museum of Natural History, Central Park, and the characteristics",
+      "id": "Novel-8559_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Evidence shows taxon _Rheinardius ocellatus_ (Novel-8559_c_172).\n- _Rheinardius ocellatus_ is explicitly labelled \"THE OCELLATED PHEASANT\" (Novel-8559_c_172).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the narrative about rare bird species, what is another name for the Ocellated Pheasant?",
+      "doc_ids": [
+        "Novel-8559_c_168",
+        "Novel-8559_c_172",
+        "Novel-10356_c_264",
+        "Novel-8559_c_170",
+        "Novel-8559_c_1"
+      ]
+    }
+  ]
+}

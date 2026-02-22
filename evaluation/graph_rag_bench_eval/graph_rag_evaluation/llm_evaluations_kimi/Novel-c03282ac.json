@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c03282ac",
+  "question": "How is the movement of Tom Ditamus ultimately associated with the Ohio river?",
+  "gold_answer": "Tom Ditamus moved to the Ohio river.",
+  "llm_answer": "Tom Ditamus moves his family from the Cumberland mountains to the Ohio river, then decides to return; later, after his wife dies, he relocates with his daughters to the Ohio river settlement of Port William.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, stating that Tom Ditamus moved to the Ohio river. It provides additional context about his movements, including his initial relocation from the Cumberland mountains, his decision to return, and his eventual settlement in Port William after his wife's death. All details are supported by the retrieved context, and the answer includes all key facts from the Gold Answer."
+  }
+}

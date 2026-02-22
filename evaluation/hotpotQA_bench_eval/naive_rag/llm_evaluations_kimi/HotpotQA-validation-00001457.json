@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001457",
+  "question": "What is the name of the so-called reform opera for Vienna that came before the one first performed in Vienna in the presence of Empress Maria Theresa?",
+  "gold_answer": "\"Alceste\"",
+  "llm_answer": "Alceste",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Alceste' as the reform opera for Vienna that preceded the one performed in the presence of Empress Maria Theresa. This is consistent with the retrieved context, which mentions 'Alceste' as one of Gluck's reform operas for Vienna, preceding 'Orfeo ed Euridice'. The answer is concise and faithful to the context, covering the key fact from the Gold Answer."
+  }
+}

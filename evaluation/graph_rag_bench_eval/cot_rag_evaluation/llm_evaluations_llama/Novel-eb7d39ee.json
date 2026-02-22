@@ -1,0 +1,12 @@
+{
+  "id": "Novel-eb7d39ee",
+  "question": "What evidence is there that the British Museum holds a significant collection of ancient musical instruments?",
+  "gold_answer": "The British Museum has bells and cymbals, a fragment of a Greek lyre, an example of a tibia, and Anglo-Saxon trumpets may be seen in a manuscript of the eighth century in the British Museum.",
+  "llm_answer": "There is no direct evidence that the British Museum holds a significant collection of ancient musical instruments. However, there are several indirect references to the British Museum:\n\n1. A _diaulos_ (a double flute) found in a tomb at Athens is mentioned as being in the British Museum (Novel-54537_c_119).\n2. A psalter of the seventh century in the British Museum (Cott. Vesp. A. I) is mentioned as containing an illumination of king David playing the _rotta_ (Novel-54537_c_12).\n3. The author mentions that the reader can refer to the illustrations in the large catalogue of the Kensington museum for information on various instruments, but does not mention the British Museum.\n\nIt can be inferred that the British Museum may hold a collection of musical instruments, but the provided evidence does not explicitly state this.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies some references to musical instruments in the British Museum, such as the _diaulos_ and the psalter with an illumination of King David playing the _rotta_. However, it fails to mention other specific items listed in the Gold Answer, such as bells, cymbals, a fragment of a Greek lyre, and an example of a tibia. Additionally, the Model Answer incorrectly states that there is no direct evidence of a significant collection, which contradicts the Gold Answer and the context. While some claims are grounded in the context, the Model Answer misses key facts and nuances, leading to partial correctness and incomplete evidence coverage."
+  }
+}

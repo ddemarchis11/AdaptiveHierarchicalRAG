@@ -1,0 +1,12 @@
+{
+  "id": "Novel-965ad8a8",
+  "question": "Within the novel's discussions about the identity of Ovid's beloved, who was Corinna suspected to be?",
+  "gold_answer": "Julia",
+  "llm_answer": "According to the provided context, Corinna was suspected to be Julia, either the daughter or the grand-daughter of the emperor Augustus. However, this is not widely accepted by scholars, and it is more probable that Corinna was an ideal personage, existing in the imagination of the Poet, representing his favourite mistress for the time being.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Julia as the suspected identity of Corinna, aligning with the Gold Answer. It also provides additional context from the retrieved material, explaining that this suspicion is not widely accepted and suggesting Corinna might be an idealized figure. This extra detail is relevant, supported by the context, and does not contradict the core truth of the Gold Answer."
+  }
+}

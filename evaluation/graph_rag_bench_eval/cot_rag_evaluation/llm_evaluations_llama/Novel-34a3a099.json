@@ -1,0 +1,12 @@
+{
+  "id": "Novel-34a3a099",
+  "question": "In the context of food preparation before swallowing, which part of the mouth assists in making food ready for digestion?",
+  "gold_answer": "The mouth helps to prepare food.",
+  "llm_answer": "In the context of food preparation before swallowing, the part of the mouth that assists in making food ready for digestion is the tongue and the teeth, but more specifically, the saliva produced by the salivary glands.\n\nThe saliva contains enzymes that break down the starch in food into sugar, which can then be easily absorbed by the body. This process is mentioned in the text as follows:\n\n\"...the saliva is changing the starch into sugar. All your food should be eaten slowly and chewed well, so that the saliva may be able to mix with it. Otherwise, the starch may not be changed; and if one part of your body neglects its work, another part will have more than its share to do.\"\n\nThis indicates that the saliva plays a crucial role in breaking down the starch in food, making it ready for digestion.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the role of saliva in food preparation before swallowing, which is supported by the retrieved context. It expands on the Gold Answer by detailing the role of saliva and enzymes in breaking down starch into sugar, which is relevant and grounded in the provided context. All key facts from the Gold Answer are included and elaborated upon accurately."
+  }
+}

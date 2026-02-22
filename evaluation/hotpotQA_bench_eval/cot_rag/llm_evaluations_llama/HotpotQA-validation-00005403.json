@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005403",
+  "question": "Barry Murphy earned 1 cap under a footballer who was part of England's winning World Cup team in what year?",
+  "gold_answer": "1966",
+  "llm_answer": "Barry Murphy earned 1 cap under a footballer who was part of England's winning World Cup team in 1986.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the World Cup-winning year was 1986, whereas the correct year is 1966 as per the Gold Answer and the Retrieved Context. This error contradicts the context and fails to provide the correct factual information."
+  }
+}

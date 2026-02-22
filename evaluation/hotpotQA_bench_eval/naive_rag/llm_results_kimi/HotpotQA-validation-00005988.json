@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005988",
+  "question": "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne?",
+  "gold_answer": "Alan Tudyk",
+  "llm_answer": "Alan Tudyk",
+  "context": [
+    {
+      "text": "gay German drug addict in 28 Days opposite Sandra Bullock . He played Wat in A Knight's Tale , Steve the Pirate in Dodgeball: A True Underdog Story and the emotional robot Sonny in I, Robot . In 2005, he reprised his role as Hoban \"Wash\" Washburne in the film Serenity , derived from the television series Firefly by Joss Whedon . In 2007, Tudyk had a supporting role as a doctor in the western film 3:10 to Yuma . He had a brief role in the film Knocked Up and in the British film Death at a Funeral . Tudyk played Tucker in the indie horror comedy Tucker & Dale vs. Evil . He played Dutch for the film Transformers: Dark of the Moon . In Alvin and the Chipmunks: Chipwrecked , he voiced Simone (a reckless French accent speaking Chipmunk, the result after Simon was bitten by a spider). In 2012, Tudyk played Stephen A. Douglas in Timur Bekmambetov 's film Abraham Lincoln: Vampire Hunter . He played Ben Chapman in the 2013 film 42 about Jackie Robinson . Tudyk in July 2012 Tudyk played Noel in Chris Blake's quarantine comedy film Distancing Socially , which was filmed remotely at the height of the COVID-19 pandemic using iPhone 11. It was acquired and released by Cinedigm in October",
+      "id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_3"
+    },
+    {
+      "text": "Alan Wray Tudyk ( / ˈ tj uː d ɪ k / TEW -dik ; born March 16, 1971) is an American actor. His film work includes roles in 28 Days (2000), A Knight's Tale (2001), Dodgeball: A True Underdog Story (2004), 3:10 to Yuma (2007), and Trumbo (2015). He starred in the black comedy horror film Tucker & Dale vs. Evil (2010). He has voiced characters in Walt Disney Animation Studios films since 2012. Known for frequently appearing in science fiction , Tudyk's roles in the genre include Wash on the cult classic space Western drama series Firefly (2002–2003), which he reprised in the 2005 continuation film Serenity , the title role in the series Resident Alien (2021–2025), Dollhouse (2009–2010), and Eric Morden / Mr. Nobody on the series Doom Patrol (2019). He provided voice and motion capture for the robot Sonny in I, Robot (2004) and appeared in Transformers: Dark of the Moon (2011) and Maze Runner: The Scorch Trials (2015). Tudyk also works as a voice actor. Notable roles include K-2SO in the film Rogue One (2016) and its prequel series Andor (2025), the superhero series",
+      "id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_0"
+    },
+    {
+      "text": ", which was filmed remotely at the height of the COVID-19 pandemic using iPhone 11. It was acquired and released by Cinedigm in October 2021. He played Mr. Darling in the fantasy adventure film Peter Pan & Wendy . Broadway Tudyk made his Broadway debut for Epic Proportions in 1999. He was also in Wonder of the World , The Most Fabulous Story Ever Told , Misalliance , Oedipus and Bunny Bunny . Tudyk filled in for Hank Azaria 's roles in Spamalot from June to December 2005, and starred in a limited run of Prelude to a Kiss . Television Tudyk at the Man of Steel premiere in June 2013 Tudyk portrayed Hoban \"Wash\" Washburne in the 2002 television series Firefly by Joss Whedon . The series ran for one season, and Universal Studios purchased the rights to make a film, Serenity , in which Tudyk reprised his role. He did a few voices from Make Way for Noddy . In 2014, Tudyk took over the role of lead anchor on the live-action adult swim comedy, Newsreaders . He appeared as the cult leader, Father, in a two-part episode of Strangers With Candy entitled \"Blank Stare\". Among several guest spots on shows such as Arrested Development , he played a convicted child sex offender on an episode of CSI: Crime Scene",
+      "id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_4"
+    },
+    {
+      "text": "character #50 in their \"Best Second-In-Commands\", saying that \"Stepping up to fill Ben Wade's shoes is tough business, but that's the task the psycho cowboy Charlie Prince was left with when his bank robbing leader was wrangled by the police.\" Awards and nominations The film received two Academy Award nominations for the 80th Academy Awards . Marco Beltrami was nominated for Best Original Score , and Paul Massey , David Giammarco , and Jim Stuebe were nominated for Best Sound Mixing . The film also received a nomination for Best Cast at the 14th Screen Actors Guild Awards . See also List of American films of 2007 References External links Wikiquote has quotations related to 3:10 to Yuma (2007 film) . 3:10 to Yuma at IMDb 3:10 to Yuma at the TCM Movie Database (archived version) 3:10 to Yuma at the AFI Catalog of Feature Films 3:10 to Yuma at Rotten Tomatoes 3:10 to Yuma at Metacritic 3:10 to Yuma at Box Office Mojo",
+      "id": "HotpotQA-validation-00005988/00_310-to-Yuma-2007-film.html_c_13"
+    },
+    {
+      "text": "The Elihu Benjamin Washburne House , also known as the Washburne-Sheehan House , is a 1 + 1 ⁄ 2 -story Greek Revival house located at 908 Third Street in Galena, Illinois . Constructed in 1844–45, the building was built for and owned by Elihu Benjamin Washburne , a prominent Galena lawyer who served in Congress during the American Civil War , and as Secretary of State and Minister to France under President Ulysses S. Grant , another famous Galenian. The Washburne House was added to the U.S. National Register of Historic Places in 1973. History Born to a prominent political family from Maine which played a major role in founding the Republican Party , Elihu Washburne moved to Galena to practice law in 1840, and the success and social standing he gained became reflected in his house, the design and construction of which was supervised by Washburne himself. The house was enlarged to its present size in 1859, while Washburne was serving in Congress. Washburne and his wife, Adele Gratiot Washburne, owned the house until 1882, when they moved to Chicago . Washburne died in Chicago in 1887, and is buried at Greenwood Cemetery in Galena. At some point after the Washburnes moved to Chicago, the house was purchased by the Sheehan family, which owned",
+      "id": "HotpotQA-validation-00005988/02_Elihu-Benjamin-Washburne-House.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Alan Tudyk played Hoban \"Wash\" Washburne in Firefly/Serenity (Novel-01_Alan-Tudyk.html_c_3).\n- Tudyk had a supporting role as a doctor in 3:10 to Yuma (Novel-01_Alan-Tudyk.html_c_3).\n- Tudyk is an American actor (Novel-01_Alan-Tudyk.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne?",
+      "doc_ids": [
+        "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_3",
+        "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_0",
+        "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_4",
+        "HotpotQA-validation-00005988/00_310-to-Yuma-2007-film.html_c_13",
+        "HotpotQA-validation-00005988/02_Elihu-Benjamin-Washburne-House.html_c_0"
+      ]
+    }
+  ]
+}

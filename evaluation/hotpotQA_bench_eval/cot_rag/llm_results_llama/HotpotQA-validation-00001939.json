@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001939",
+  "question": "The Legendary A&M Sessions contain five songs by the singer whose work was conducted with what band?",
+  "gold_answer": "Magic Band",
+  "llm_answer": "The Legendary A&M Sessions contain five songs by the singer whose work was conducted with Captain Beefheart & His Magic Band.",
+  "context": [
+    {
+      "text": "The Legendary A&M Sessions is an extended play featuring five songs by Captain Beefheart & His Magic Band, recorded early in their career for their original record label A&M Records . The EP was released by the company in 1984 after Captain Beefheart had gone into retirement. Production The EP is compiled from two singles originally released through A&M in 1966. The first of these paired the Bo Diddley cover \" Diddy Wah Diddy \" with a track written by Don Van Vliet (Beefheart) called \"Who Do You Think You're Fooling?\" The second, \"Moonchild\", was written by producer David Gates (later of the band Bread ), and was backed with Van Vliet's \"Frying Pan\". The fifth song, \"Here I Am I Always Am\", was a rejected B-side which was initially planned as the B Side of \"Moonchild\" (and appears as such on a test pressing) but was passed over in favor of \"Frying Pan\". It was first officially released on this EP. Track listing All tracks are written by Don Van Vliet, except where noted. Personnel Captain Beefheart (Don Van Vliet) – vocals , harmonica Doug Moon – guitar Richard Hepner – guitar Jerry Handley – bass Alex St. Clair Snouffer – drums (track 1–4) PG Blakely – drums (track 5) Notes References Barnes, Mike (2000). Captain Beefheart .",
+      "id": "HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0"
+    },
+    {
+      "text": "BBC Sessions and Other Polished Turds is a compilation album by The Vandals , released August 12, 2008 by Kung Fu Records . It was released as a digital download through iTunes and the band's website, as well as on CD in Japan, and finally on CD and Vinyl in the US in 2019. The album collects rare songs by the band from compilations and out-of-print singles, as well as five songs recorded during various sessions at the BBC . It was promoted as \"A collection of the band's most rare tracks all sharing one thing in common in that they were recorded when the band didn't give a crap, so they are fun, funny, and unpretentious\". Included are cover versions of songs by the Ramones , Little Jimmy Osmond , the Falling Idols (in which Vandals singer Dave Quackenbush played guitar before joining the Vandals), Supernova , Jilted John , Alice Cooper , Sublime , ZZ Top , and Queen , as well as a cover of the song \" Heigh-Ho \" from the Walt Disney film Snow White and the Seven Dwarfs which originally appeared on a Japanese Disney tribute album. In fact, only four of the album's sixteen songs were written by The Vandals. \"Change the World with My Hockey Stick\" originally appeared on the soundtrack album to the film Glory Daze . The BBC sessions include performances of \"My Neck, My Back\" from the band's album Hollywood",
+      "id": "HotpotQA-validation-00001939/02_BBC-Sessions-and-Other-Polished-Turds.html_c_0"
+    },
+    {
+      "text": "Neman is an album by the Serbian noise-rock band Klopka Za Pionira , released in 2006 (see 2006 in music ) on the Ne-ton independent label. The album's five songs contain no lyrics and are mostly experiments with various noise-making machines that the band was building. The outcome of these experiments can be heard on the following albums, so this was a kind of a showcase of their future work. The songs do not have names, merely numbers that position them on the disk. All of the songs were recorded at once and are first takes and complete improvisations on the spot. Track listing All music by Klopka Za Pionira \"01\" – 7:58 \"02\" – 6:49 \"03\" – 5:53 \"04\" – 9:06 \"05\" – 14:13 References Neman (CD liner). Klopka Za Pionira. Ne-ton. 2006. {{ cite AV media notes }} : CS1 maint: others in cite AV media (notes) ( link ) External links Free streaming of a song on the official website",
+      "id": "HotpotQA-validation-00001939/03_Neman-album.html_c_0"
+    },
+    {
+      "text": "Derek and the Dominos were an English–American blues rock band formed in the spring of 1970 by singer-guitarist Eric Clapton , keyboardist-singer Bobby Whitlock , bassist Carl Radle and drummer Jim Gordon . All four members had previously played together in Delaney & Bonnie and Friends , during and after Clapton's brief tenure with Blind Faith . Dave Mason supplied additional lead guitar on early studio sessions and played at their first live gig. Another participant at their first session as a band was George Harrison , the recording for whose album All Things Must Pass marked the formation of Derek and the Dominos. Following the deaths of Radle in 1980, Gordon in 2023, and Whitlock in 2025, Clapton is the last surviving member of the band's official line-up. The band's only album release, Layla and Other Assorted Love Songs , was produced by Tom Dowd , and also featured extensive contributions on lead and slide guitar from Duane Allman . A double album , Layla did not immediately enjoy strong sales or receive widespread radio airplay, but went on to earn critical acclaim. Although released in 1970 it was not until March 1972 that the album's single \" Layla \" (a tale of unrequited love inspired by Clapton's infatuation with his friend George Harrison's wife, Pattie Boyd ) made the top ten in both the United States and the United",
+      "id": "HotpotQA-validation-00000684/01_Derek-and-the-Dominos.html_c_0"
+    },
+    {
+      "text": "Pomplamoose ( / ˈ p ɒ m p l ə ˌ m uː s / ) is an American musical husband-and-wife duo composed of multi-instrumentalist Jack Conte and singer-songwriter and bassist Nataly Dawn . Formed in 2008, the duo sold about 100,000 songs online in 2009. They are known for their viral YouTube videos and covers of popular songs. As of March 2025, they had more than 2.01 million subscribers and over 640 million views on their YouTube channel. Their first song, \"Hail Mary\", was featured on YouTube's front page. Their videos mostly take the form of \"VideoSongs\", a medium Conte defines with two rules: What you see is what you hear. (No lip-syncing for instruments or voice) If you hear it, at some point you see it. (No hidden sounds) Etymology The name of the band derives from a misspelling of the French word pamplemousse ( pronounced [pɑ̃pləmus] ), meaning grapefruit . History Pomplamoose performing in 2011 On April 11, 2010, the band was interviewed on NPR 's All Things Considered . Conte discussed the \"glitz-free\" manner in which they record: I guess I kinda don't like how there's such a pedestal for music culture and especially for band culture, it just feels",
+      "id": "HotpotQA-validation-00000809/03_Pomplamoose.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The Legendary A&M Sessions is an extended play featuring five songs by Captain Beefheart & His Magic Band (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).\n- Captain Beefheart & His Magic Band is the band that conducted the work of the singer (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).\n- The singer is the artist whose work was conducted with Captain Beefheart & His Magic Band (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).\n- The Legendary A&M Sessions is an extended play (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).\n- The EP was released by A&M Records in 1984 (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).\n- The band Captain Beefheart & His Magic Band was originally signed to A&M Records (HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The Legendary A&M Sessions contain five songs by the singer whose work was conducted with what band?",
+      "doc_ids": [
+        "HotpotQA-validation-00001939/00_The-Legendary-AampM-Sessions.html_c_0",
+        "HotpotQA-validation-00001939/02_BBC-Sessions-and-Other-Polished-Turds.html_c_0",
+        "HotpotQA-validation-00001939/03_Neman-album.html_c_0",
+        "HotpotQA-validation-00000684/01_Derek-and-the-Dominos.html_c_0",
+        "HotpotQA-validation-00000809/03_Pomplamoose.html_c_0"
+      ]
+    }
+  ]
+}

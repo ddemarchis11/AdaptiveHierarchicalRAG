@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7409b4bb",
+  "question": "While building her collection of medals and decorations, what item did Miss Catherwaight find on Bowery, and why was it noteworthy?",
+  "gold_answer": "Miss Catherwaight found a silver medal on Bowery.",
+  "llm_answer": "Miss Catherwaight found a silver medal on the Bowery. It was noteworthy because it had the inscription \"From Henry Burgoyne to his beloved friend Lewis L. Lockwood\" and \"Through prosperity and adversity.\" This was significant to her because it was a token of a long-lasting friendship between two men, Henry Burgoyne and Lewis L. Lockwood, and it was a reminder of the enduring nature of their bond.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the silver medal found by Miss Catherwaight on Bowery and explains why it was noteworthy, including the inscription and its significance as a symbol of friendship. All details provided are supported by the retrieved context and align with the Gold Answer, while adding relevant and accurate elaboration."
+  }
+}

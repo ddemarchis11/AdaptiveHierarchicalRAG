@@ -1,0 +1,265 @@
+{
+  "id": "HotpotQA-validation-00001663",
+  "question": "Over what production span was the four-door saloon variant of a compact Swedish estate car manufactured?",
+  "gold_answer": "1995 to 2012",
+  "llm_answer": "The production span for the four-door saloon variant of the Volvo S40, a compact Swedish executive car, was from 1995 to 2012.",
+  "context": [
+    {
+      "text": "The Volvo S40 is a series of subcompact executive cars marketed and produced by the Swedish manufacturer Volvo Cars from 1995 to 2012, offered as a more mainstream alternative to the compact executive Volvo 850 and later the Volvo S60 to compete in a lower pricing bracket. The S40 was more or less positioned against premium-leaning small family cars like the Volkswagen Jetta , as well as some mass-market large family cars . The first generation (1995–2004) was introduced in 1995 with the S40 (S from saloon) and V40 (V from versatility, estate) cars. The second generation was released in 2003, and the estate variant became differentiated from the sedan, having its name changed to V50 . The range was replaced by the Volvo V40 five door hatchback in 2012. First generation (1995–2004) During August 1995, Volvo released its new series, intending to call the cars S4 and F4. However, as Audi had already reserved the \"S4\" name, Volvo opted to name the range S40 (saloon), and V40 (estate). These cars were manufactured at the Nedcar factory at Born in the Netherlands (a pre Ford joint venture between Volvo and Mitsubishi Motors ) and based on a common platform with the Mitsubishi Carisma , later used by the Proton Waja . They were also the last Volvos to be produced at the Born plant; a lineage that had begun in the early 1970s with Volvo's collaboration with DAF that had led to the Volvo 66 and the Volvo 300 series . In the United Kingdom, it costs approximately 50% more than the related Mitsubishi Carisma. The car helped change perceptions of Volvo: \"The S40/V40 range was the car that finally persuaded buyers that Volvo really could build a credible compact executive car\", reported the RAC. For the 2000 model year, Volvo expanded the S40/V40's market to North America, where this range went on sale exclusively with the 1.9 liter turbo. The V40, with a drag coefficient of 0.32, was the first whole model to be introduced under the direction of the British designer Peter Horbury , Volvo’s design director and was marketed in Australia, South America and the Far East. The V40 was named the \"Most Beautiful Estate Car in the World\" at an Italian award ceremony. The official premiere was at the Frankfurt Motor Show in September 1995, with the V40 premiering in December 1995, at the Bologna Motor Show . In July 2000, Volvo updated the 40 Series (\"Phase II\"), implementing several technical improvements, including improved engine management, diesel direct fuel injection, extra safety features, larger brake discs, new front suspension and steering, revised rear suspension, larger tyres and a wider track. A minor facelift gave more streamlining, slightly different front wings",
+      "id": "HotpotQA-validation-00001663/01_Volvo-S40.html_c_0",
+      "doc_id": "HotpotQA-validation-00001663/01_Volvo-S40.html",
+      "community_id": 1,
+      "score": 45.001892
+    },
+    {
+      "text": "The Volvo C30 is a three-door, front-engine, front-wheel-drive premium compact hatchback manufactured and marketed by Volvo Cars from 2006 to 2013, in a single generation. Powered by inline-four and straight-five engines , the C30 is a variant of the Volvo S40/V50 / C70 range, sharing the same Ford C1/Volvo P1 platform. Volvo marketed the C30 as a premium hatchback / sports coupe . The C30's rear styling and frameless glass rear hatch recall Volvo's earlier P1800 ES and Volvo 480 . Pre-production concepts Volvo SCC (2001) The Volvo SCC (Safety Concept Car) is a concept vehicle incorporating the rear hatch design from the Volvo P1800ES and the glass hatch from Volvo 480ES . Its safety features included forward collision warning , blind spot monitor and alert, lane departure warning , adaptive cruise control , flashing brake lights during hard braking, and headlights that follow the curvature of the road as the car turns. Many of these features would become commonplace years later. The SCC also featured a head-up display and communication with the car via mobile phone. The SCC was first unveiled at the 2001 Detroit Auto Show , then in autumn 2001 at the Seville International Airport in southern Spain. Research to adapt its safety features for production began in 2002, and it led to development of the C30 which began in 2003. 2006 SEMA concepts (2006) Side view of the IPD SEMA concept Detail on the nitrous tanks The Evolve C30 show car has a twin turbo engine, all wheel drive, suspension from Evolve's 2004 S40 concept from the 2004 SEMA show, and 4-piston brake calipers. The C30, by IPD , includes a supercharged 5-cylinder engine with belt-driven supercharger with 6 psi (0.4 bar) of boost, a nitrous tank, gull wing doors, and Alcantara seats, Alpine and Apple audio system. The HEICO HS3 THOR is designed for outdoor enthusiasts, built by Heico Sportiv . It includes a 2.5L turbo engine (B5254T) rated at 300 PS (221 kW; 296 hp) and 420 N⋅m (310 lb⋅ft), Haldex AWD, Heico Volution V 8x18-in sport-alloy wheels with Toyo tires, and 4-caliper disk brakes with 320 mm (12.6 in) front rotors. The vehicles were unveiled at the 2006 SEMA Show . 2006 Essen concepts (2006) HEICO HS3 D5 includes a 5-cylinder diesel engine rated 205 PS (151 kW; 202 hp) and 400 N⋅m (295 lb⋅ft), a body kit with front and",
+      "id": "HotpotQA-validation-00001663/02_Volvo-C30.html_c_0",
+      "doc_id": "HotpotQA-validation-00001663/02_Volvo-C30.html",
+      "community_id": 2,
+      "score": 34.10889
+    },
+    {
+      "text": "'Volvo' lettering and larger characters, as in the newer Volvo models. In 2010, the new, larger, circular Volvo logo appeared on the front grille, in the United States, a manual transmission was briefly available with the T5 AWD version. In North America, the naturally aspirated five cylinder engine, all wheel drive, and manual transmission were all dropped for the model year of 2011, leaving only the automatic, front wheel drive T5 in base and R-Design trims. The model year of 2011 was the last for the S40 in the United States and Canada. Engine specifications (2011) From the end of May 2010, a new range of engines were available for the so called \"2011 model\". The range now included three petrol engines (1.6, 2.0 and T5, the latter only available with front-wheel drive and automatic transmission ), four diesel engines (the existing DRIVe and the new D2, D3 and D4) and the 2.0F flexible-fuel engine that can run either on normal petrol or E85 , an ethanol petrol mixture. Production ended in May 2012. The updated 2.0 and T5 and the new D2, D3 and D4 are compliant with the Euro 5 emission standard (the rest are Euro 4 compliant), and the DRIVe included a start-stop system for reduced fuel consumption and emissions. New six speed gearboxes are used in the D2 (manual: B6 D2 ), D3 and D4 (manual: M66D, automatic: Aisin AWF21 ). (*) Available from September 2010 Note updated: In 2012 the last variant of the S40 2.0 Comfort, was the same 2.0 Petrol Engine, but with a PowerShift 6 speed automatic transmition. Adding to this, was a little differences in headlights and tail lights. Safety S40 sales Total produced: 602,910 (1995–2012) Successor The S40 (with it siblings V50 and C30) were discontinued in 2012. The closest replacements in Volvo's lineup at the time were the V40 (introduced in 2012), along with the existing S60 and V60. With this strategy, Volvo aimed to streamline its lineup and compete more directly with manufacturers such as BMW , Audi , and Mercedes-Benz . In 2016, Volvo presented the Concept 40.1 (SUV) and 40.2 (sedan) as previews of a future 40-series. These concepts hinted at a potential successor to the S40 and V50. Reports suggested that Volvo was considering a broader 40-series lineup, including a sedan, a wagon, a hatchback, a coupe, a convertible, an SUV, and a crossover. Ultimately, Volvo introduced three models in the compact premium",
+      "id": "HotpotQA-validation-00001663/01_Volvo-S40.html_c_5",
+      "doc_id": "HotpotQA-validation-00001663/01_Volvo-S40.html",
+      "community_id": 1,
+      "score": 23.398895
+    },
+    {
+      "text": "hinted at a potential successor to the S40 and V50. Reports suggested that Volvo was considering a broader 40-series lineup, including a sedan, a wagon, a hatchback, a coupe, a convertible, an SUV, and a crossover. Ultimately, Volvo introduced three models in the compact premium segment: the XC40/EX40, the EC40, and the Polestar 2. The XC40, launched in 2017, became Volvo's primary compact model, while the fully electric EC40 followed in 2023. Meanwhile, the Polestar 2, introduced in 2020, served as a sedan-like alternative under Volvo's performance brand, Polestar. However, a direct sedan or station wagon successor to the S40 and V50 was never produced. See also Volvo V50 , estate variant of the second generation Volvo C30 , three door hatchback bearing the same design as the second generation Volvo C70 , coupé and convertible version of both the first and the second generation Volvo S70 , mid size car bearing a similar front end design with the first generation Notes References External links Media related to Volvo S40 at Wikimedia Commons",
+      "id": "HotpotQA-validation-00001663/01_Volvo-S40.html_c_6",
+      "doc_id": "HotpotQA-validation-00001663/01_Volvo-S40.html",
+      "community_id": 1,
+      "score": 23.051575
+    },
+    {
+      "text": "Series (\"Phase II\"), implementing several technical improvements, including improved engine management, diesel direct fuel injection, extra safety features, larger brake discs, new front suspension and steering, revised rear suspension, larger tyres and a wider track. A minor facelift gave more streamlining, slightly different front wings and front bumper, and larger front indicators, as well as minor instruments and fascia redesign. In late 2002, there was a subtle update to the range. On the outside, there was a new \"egg crate\" style grille and colour-keyed trim mouldings. Inside, there was a three-spoke steering wheel and new instruments with four dials. Other changes include improved fuel economy, new side-impact curtain airbags, updated seats and a new key with integrated remote. The 40 Series cars were equipped with four-cylinder engines, such as a Renault-sourced 1.9 turbo diesel or 1.6 (1587 cc), 1.8 (1731 cc, later increased to 1783 cc  ), 2.0T (1948 cc), 1.9 T4 (1855 cc, later increased to 1948 cc) or 2.0 (1948 cc) fuel injected gasoline engines. All of the gasoline engines are derivatives of the Volvo Modular series , which started life in the Volvo 960 and was seen in both 5 and 6 cylinder layouts in Volvo's bigger FWD cars. There was also a 1.8 L (1834 cc) petrol direct injection engine provided by Mitsubishi as part of the platform sharing between the 40 series and the Carisma. The Volvo S40/V40 series was a completely new car from the ground up, only one engine – the 1.9 turbo diesel – carried over from the old 400 Series. The low (2.0T) and high (1.9 T4) pressure turbo variants were positioned at the top of the motor range. The 2.0T was rounded down and badged as a 1.9T and was the only engine available in North America. The five speed manual transmission, widely available in Europe, was not certified in North American S40s, with the five speed automatic as the only option. No electric CVT was planned, unlike the 440 HTA / High Tech Auto CVT that had been released before the 400 series was completely phased out. In the United Kingdom, trim levels were S, XS, SE and CD. Later on, trim levels offered were supplemented with SE Lux and Sport Lux trim designations. A limited edition 'Xi' trim level was also offered for a short run on Phase 1 and Phase 1.5 cars, often painted yellow with black bezel headlamps. The Volvo S40 was the first car to earn a four-star Euro-NCAP safety rating. Pre facelift Volvo V40 2.0 (United",
+      "id": "HotpotQA-validation-00001663/01_Volvo-S40.html_c_1",
+      "doc_id": "HotpotQA-validation-00001663/01_Volvo-S40.html",
+      "community_id": 3,
+      "score": 18.236288
+    },
+    {
+      "text": "The Honda S660 is a sports car in the kei class manufactured by the Japanese company Honda from 2015 until 2022. It is a two-seater with a targa top and a transverse mid-engine and rear-wheel-drive layout . It is the successor to the Honda Beat (with regard to segment), and the Honda S2000 (with regard to nomenclature, as it also belongs to Honda's family of \"S\" models ). Overview The S660 is a lightweight mid-engined roadster with a targa roof. Its dimensions, due to kei car size restrictions, are nearly identical to the 1990s Beat . It is sold with either a 6-speed manual transmission or a 7-speed CVT with sports paddle shifters, both options being offered on the two trims available (Alpha and Beta). The S660 weighs approximately 830 kg with the manual transmission and 850 kg with the CVT, and have a front/rear weight balance of 45/55. The naming convention of using the letter \"S\" followed by the engine displacement is a long-held Honda tradition going back to Honda's second production car, the Honda S500 (from which the S660 draws inspiration). Performance The S660 is powered by the same turbocharged 658 cc S07A Turbo engine used in the N-One with some minor mechanical improvements. In the S660, this engine is mid-mounted and produces 64 PS (47 kW; 63 hp) at 6,000 rpm and 104 N⋅m (77 lb⋅ft) of torque at 2,600 rpm with a redline of 7,700 rpm for the manual transmission and 7,000 rpm for the CVT. Development and launch The Honda S660 Concept The development team of the S660 was led by Ryo Mukumoto, who beat out 400 other participants in Honda's in-house competition at the age of 22. Honda made him the youngest lead engineer in the company's history in spite of his lack of engineering experience, and he was given 5 years to develop the S660. The exterior design is based on the Honda EV-STER, unveiled at the 42nd Tokyo Motor Show in 2011 as a \"next-generation electric small sports concept model.\" It has been redesigned for a kei car, and is inspired by the Honda S660 CONCEPT. A prototype was shown at the November 2013 Tokyo Motor Show . The prototype and proposed production announcement were widely covered in auto enthusiast news sites and blogs. Initial reactions to the concept were favorable. First photographs The prototype S660 was photographed by car enthusiasts at a wintertime car event in early 2015 and published in the Japanese car enthusiast magazine Mag-X , and subsequently republished in the US car blog The Truth About Cars . The pictures included several exterior photos and one of the opened engine compartments. Production Honda S660 released on",
+      "id": "HotpotQA-validation-00000762/02_Honda-S660.html_c_0",
+      "doc_id": "HotpotQA-validation-00000762/02_Honda-S660.html",
+      "community_id": 2,
+      "score": 14.338718
+    },
+    {
+      "text": "Airways aircraft converted at Boeing's Wichita site and subsequent blocks of aircraft were converted by Israel Aerospace Industries and ST Aerospace Services . Modifications included the removal of passenger amenities, main deck structural reinforcement, addition of cargo handling flooring, and the installation of a 757-200PF port-side cargo door in the forward fuselage. The forward two entry doors and lobby area of the passenger aircraft are retained, resulting in a main deck cargo capacity of 14 full sized pallets and one smaller LD3 . Environmental controls can be fitted for animal cargo such as racehorses, and rear exits and window pairs are retained on some aircraft to facilitate animal handlers. ST Aerospace continued to offer 14, 14.5 and 15 Unit load device variants of the SF in 2020. In September 2006, FedEx Express announced a US$2.6 billion (~$3.88 billion in 2024) plan to acquire over 80 converted 757 freighters to replace its 727 fleet, citing a 25% reduction in operating cost along with noise benefits. The 757-200PCF is another passenger to freighter conversion developed by Precision Conversions, and was certificated in 2005. In 2019, the conversion was reported to cost $5 million (~$6.03 million in 2024) per aircraft, and has 15 pallet positions just like the SF. The forward passenger doors are removed and replaced with a small crew door, similar to the -200PF. As of April 2020 [update] , a total of 120 757-200PCFs had been delivered. 757-200M/CB Nepal Airlines ' sole 757-200M in 2012 The 757-200M, a convertible version capable of carrying cargo and passengers on its main deck, entered service with Royal Nepal Airlines in 1988. Also known as the 757-200CB (Combi), the type retains the passenger windows and cabin doors of the 757-200, while adding a forward port-side cargo door in the manner of the 757-200PF. Kathmandu-based Royal Nepal Airlines, later renamed Nepal Airlines , included the convertible model as part of an order for two 757s in 1986. Nepal Airlines ordered the 757-200M to fulfill a requirement for an aircraft that could carry mixed passenger and freight loads, and operate out of Tribhuvan International Airport , with its 4,400 ft (1,300 m) elevation, in the foothills of the Himalayas. Patterned after convertible variants of the 737 and 747, the 757-200M can carry two to four cargo pallets on its main deck, along with 123 to 148 passengers in the remaining cabin space. Nepal Airlines' 757-200M, which features Rolls-Royce RB211-535E4 engines and an increased MTOW of 240,000 lb",
+      "id": "HotpotQA-validation-00004312/01_Boeing-757.html_c_15",
+      "doc_id": "HotpotQA-validation-00004312/01_Boeing-757.html",
+      "community_id": 2,
+      "score": 14.031785
+    },
+    {
+      "text": "\" Door to Door \" is the fourth episode of the third season of the American sitcom Modern Family , and the series' 52nd episode overall. \"Door to Door\" first aired on October 5, 2011, on ABC . The episode was written by Bill Wrubel and directed by Chris Koch . Plot Claire ( Julie Bowen ) drives Alex ( Ariel Winter ) and Haley ( Sarah Hyland ) to school and while she does, she accidentally hits Phil ( Ty Burrell ) with the car. Phil gets up and continue walking saying he is OK but Claire is determined to get a stop sign at the intersection because it is dangerous not having one. She starts petition the city and goes door-to-door to get the signatures she needs but she does not get a very positive reaction from the neighbors. She asks for her family's help but everyone is busy with their own (meaningful) things, something that causes Claire's angry reaction. Claire goes to the city councilman ( David Cross ) to discuss her proposal and everyone comes to help her after feeling guilty for not doing it from the start. Alex and Haley got the extra signatures Claire needed and Phil made a video with Luke ( Nolan Gould ) to prove that not having a stop sign to that intersection is dangerous. In the meantime, Jay ( Ed O'Neill ) is determined to help Manny ( Rico Rodriguez ) sell wrapping paper for a school fundraiser and he goes door-to-door with him to teach him how to do it. Manny, however, is not a natural salesman, and after many failed tries, he manipulates Jay to buy the wrapping paper. Meanwhile, Mitchell ( Jesse Tyler Ferguson ) tries to prove a point with Cameron ( Eric Stonestreet ). Cameron wants to cook some crepes and Mitchell tells him that he is the one who always ending up cleaning the mess in the kitchen every time Cam gets creative. Cam promises to clean up when he is done but instead of this he goes out to help Gloria ( Sofía Vergara ) who is desperate to find Stella ( Brigitte ) after losing her. Mitchell comes back home and when he sees the mess he tells Cam that he will not clean up and let him do it as he promised. Cam comes home and sees that Mitchell indeed keep his promise not to do anything, despite hoping for the opposite, and when he starts cleaning he admits that he does not like doing it and he expected Mitch to do it. Mitch is happy that he was proved right and the two of them revel in further mess-making until the doorbell rings and reveals a representative from the adoption agency coming for a home-visit. Production \"Door to Door\" was written by executive producer Bill Wrubel and was directed by Chris Koch . \"Door to Door\" was filmed between August 29 and September 1, 2011. The episode marked the first appearance of David Cross as a city councilman who becomes enemies with Claire. He will appear in a recurring role. Reception Ratings",
+      "id": "HotpotQA-validation-00007006/02_Door-to-Door-Modern-Family.html_c_0",
+      "doc_id": "HotpotQA-validation-00007006/02_Door-to-Door-Modern-Family.html",
+      "community_id": 1,
+      "score": 12.818049
+    },
+    {
+      "text": "panel, 'floating' centre stack and steering wheel. Europe 2006–2008 Volvo C30 1.6 D, Germany 2008–2009 Volvo C30 T5, Australia In late 2006, the C30 was launched in Europe. Engines choices range from a 1.6L inline-4 (petrol or diesel) to a 2.5L inline-5 turbo (2.4L diesel). 2009 added the choices of a 6-speed PowerShift dual-clutch automatic with the 2.0 L petrol and diesel engines, a 1.8L E85 flex-fuel engine, and 1.6L \"DRIVe\" diesel engines with improved efficiency and optional start/stop capability. Trim lines include SE and SE Lux in the UK, and Kinetic, Momentum, and Summum (from fewest to most features) in most other European nations. The R-Design package adds interior and exterior accessories including aluminum inlays on the dashboard, R-Design emblems on the steering wheel, seats and floor mats, a rear spoiler and body kit. North America The C30 went on sale in Canada in March 2007 as a 2007 model, and in October 2007 in the United States as a 2008 model. In Canada, the 2.4i was offered until 2011, while the T5 remained available until the end of production. In the United States, the only engine available was the T5. For 2008, the US C30 debuted with two trim lines, Version 1.0 and Version 2.0. R-Design was added later in the model year, featuring unique badges and interior trim. From 2009 onwards, the US C30 was offered in T5 or R-Design trim. In 2011, the Polestar performance option (developed in partnership between Volvo Car Corporation and Polestar ) became available for several Volvo models, including 2008 to 2013 C30 T5 models. The software modification to the engine control computer increased output from 227 hp (169 kW) to 250 hp (186 kW) without a reduction in U.S. Environmental Protection Agency fuel economy ratings. Equipment Available audio systems included: Performance – with a 4x20W amplifier and six loudspeakers High Performance – with a 4x40W amplifier and eight loudspeakers Premium Sound – with a digital class D amplifier with ICE Power technology from Alpine, an output of 5x130W, Dolby Pro Logic II Surround, and ten loudspeakers from Danish Dynaudio On the High Performance and Premium Sound, it is possible to play CDs with music in MP3 and WMA formats, and they are fitted with an extra AUX connector for connecting auxiliary equipment such as a portable MP3 player. Starting in the spring of 2007, an adapter for connecting an",
+      "id": "HotpotQA-validation-00001663/02_Volvo-C30.html_c_2",
+      "doc_id": "HotpotQA-validation-00001663/02_Volvo-C30.html",
+      "community_id": 2,
+      "score": 12.246128
+    },
+    {
+      "text": "was also 1.8 L (Mazda L engine) petrol version available in the European markets. Volvo S40 parked next to Volvo V50 , the station wagon variant Engines Marketing Volvo launched an advertising campaign for the S40 titled The Mystery of Dalarö, using a documentary style video approach. The eight minute film was credited to fictitious Venezuelan film maker Carlos Soto. In fact, as was disclosed later, it was directed by Spike Jonze . The film is set on 25 October 2003, where 32 people supposedly purchased a Volvo S40, at the same local Volvo dealership in Dalarö , a small village to the south east of Stockholm . In addition to this film, a four minute documentary of the documentary, calling into question the validity of the events, was posted as Soto's \"personal edit\" on his alleged homepage. The S40 was the first Volvo car to be launched in China by the brand under the Changan Ford Mazda joint venture and commenced production in March 2006. Engines choices consisted of the 2.0, 2.4 and 2.5 litre petrol engines paired with either a 5 speed manual or 6 speed dual clutch gearbox. Facelift Facelift Volvo S40 T5 (Australia) Facelift Volvo S40 T5 (Australia) The S40 was refreshed for April 2007. Improvements include improved audio systems, increased storage space and new safety features like emergency brake lights which flash rapidly during hard braking to alert traffic behind the car. The new S40 also comes with optional active bi xenon headlights which point the light beam in the direction of the road as it curves (standard in SE Lux models). There was also an optional BLIS (blind spot information system) camera located on the side mirrors which alerts the driver of passing vehicles beside the car. Volvo released the 2.0 litre diesel Powershift on the third week of February 2008, except in Ireland, where it was released in the last week of May, because of delivery intervals. The T5 model received a new engine (the B5254T7 ) with a performance increase of 9 hp (6.7 kW), giving an output of 227 hp (169 kW)at the crank The D5 engine became available with a manual gearbox offering 520 N⋅m (380 ft⋅lbf) of torque and an automatic transmission offering 490 N⋅m (360 ft⋅lbf) in the second half of 2007. The model of 2009 saw rear end boot lid changes, with wider spacing of the 'Volvo' lettering and larger characters, as in the newer Volvo models. In 2010, the new, larger, circular Volvo logo appeared on the front grille, in the United States, a manual transmission was briefly available with the T5 AWD version. In North America, the",
+      "id": "HotpotQA-validation-00001663/01_Volvo-S40.html_c_4",
+      "doc_id": "HotpotQA-validation-00001663/01_Volvo-S40.html",
+      "community_id": 3,
+      "score": 11.77962
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "summary": "**Title**: Volvo V50 Overview\n\n**Summary**: The Volvo V50, a station wagon variant of the S40, debuted at the 2003 Bologna Motor Show and was produced until 2012, with over 519,000 units built. Built on the shared Global C-car Platform, it offered petrol and diesel engines, including a turbocharged 2.5L five-cylinder T5 AWD and a 2.4L D5 diesel. Market-specific trims and powertrain restrictions evolved annually, culminating in North America’s 2011 phase-out. A high-performance V50 SV concept with 340 hp was showcased at SEMA 2004.\n\n**Keywords**: Volvo V50, station wagon, T5 AWD, Global C-platform, production stats",
+      "is_seed": true,
+      "expand_score": 0.8459113240242004
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "summary": "**Title**: Volvo S40 Evolution  \n\n**Summary**:  \nThe Volvo S40, produced from 1995-2012, was Volvo’s sub-compact executive offering, bridging mass-market and premium segments. Two generations evolved from shared Mitsubishi platforms to Volvo-only architecture, spawning sedan, estate (V50) and hatchback (C30) variants. Continuous engine, safety and design updates kept the range competitive until it was phased out in favor of the V40 hatchback and later XC40/EX40 crossovers; no direct sedan successor was released.  \n\n**Keywords**:  \nVolvo S40, V50, compact executive, platform evolution, model lifecycle",
+      "is_seed": true,
+      "expand_score": 0.8298697471618652
+    },
+    {
+      "community_key": "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "summary": "**Title**: F. Keogh Gleason’s MGM Career  \n**Summary**: Francis Keogh Gleason spent over four decades as a resident set decorator at MGM, earning four Academy Awards between 1951 and 1958 for *An American in Paris*, *The Bad and the Beautiful*, *Somebody Up There Likes Me*, and *Gigi*, plus three additional nominations. A 1927 graduate of what is now the Minneapolis College of Art and Design, his long-standing studio tenure made him a key figure in classic Hollywood production design.  \n**Keywords**: MGM, Academy Awards, set decorator, classic Hollywood, production design",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "summary": "**Title**: Volvo S40 Second Generation (2003–2012)\n\n**Summary**:  \nThe second-generation Volvo S40, launched at the 2003 Frankfurt Motor Show and built on the Volvo P1 platform in Ghent, Belgium, marked a major redesign with shared underpinnings for the V50 estate and C30/C70 variants. It offered a range of modular five-cylinder petrol and diesel engines, including turbocharged T5 and D5 options, paired with manual, automatic, or dual-clutch transmissions. Safety innovations such as a four-star Euro-NCAP rating, side-impact curtain airbags, and optional BLIS cameras were highlights. The model garnered multiple international awards, including 2005 Car of the Year titles in Canada and South Africa, and featured a notable viral marketing campaign, “The Mystery of Dalarö.” Production spanned nearly a decade with periodic facelifts and powertrain updates, including a 2007 refresh and 2010 engine overhaul.\n\n**Keywords**:  \nVolvo S40, P1 platform, five-cylinder engines, Euro-NCAP, T5/D5 powertrains",
+      "is_seed": true,
+      "expand_score": 0.8459113240242004
+    },
+    {
+      "community_key": "HotpotQA-validation-00007006/02_Door-to-Door-Modern-Family.html_1",
+      "summary": "**Title**: Modern Family \"Door-to-Door\" Episode\n\n**Summary**:  \n\"Door to Door\" is the third-season, fourth episode of *Modern Family*, revolving around Claire's campaign to install a stop sign after accidentally hitting Phil with her car. While Claire petitions neighbors, Jay mentors Manny in a school fundraiser, and Mitchell challenges Cameron to clean up after cooking, leading to chaos when an adoption-agency representative arrives. The episode, written by Bill Wrubel and directed by Chris Koch, premiered on October 5, 2011, to 13.24 million viewers and topped its timeslot. Critics praised the ensemble performances—especially Ty Burrell and Ed O'Neill—and the sharp, character-driven humor, awarding ratings from B+ to 9.2/10.\n\n**Keywords**:  \nModern Family, Door-to-Door episode, Claire's stop-sign campaign, critical acclaim, ensemble comedy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006754/03_Dont-Stop-the-Music-Robyn-album.html_0",
+      "summary": "**Title**: Robyn's \"Don't Stop the Music\" Album  \n\n**Summary**:  \n\"Don't Stop the Music\" is Swedish pop artist Robyn’s third studio album, released on 30 October 2002 by BMG. It reached number two on the Swedish charts, achieved platinum certification in 2003, and sold over 60,000 copies domestically. The singles \"Keep This Fire Burning\" and \"Don’t Stop the Music\" both became top-10 hits, while the track \"Should Have Known\" was later re-recorded for her 2005 self-titled album. Although the singles circulated across Europe, the full album was officially available only in Sweden and Japan until its worldwide digital release on Konichiwa Records in 2019.  \n\n**Keywords**: Robyn, Don’t Stop the Music, Swedish pop, 2002 album, platinum certification",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004312/01_Boeing-757.html_2",
+      "summary": "**Title**: Boeing 757 Freighter & Variant Conversions\n\n**Summary**:  \nThe Boeing 757 has been extensively adapted into cargo and combi configurations to extend its service life and meet freight market demands. Key conversions include the 757-200SF, 757-200PCF, and 757-200M/CB, each offering different payload capacities and door configurations. Major operators like FedEx, UPS, and DHL have invested billions in these freighters, citing significant cost and noise reductions over older models. Aftermarket converters such as Precision Conversions and ST Aerospace continue to develop new variants, including 14–15 pallet configurations and combi layouts for mixed passenger-cargo operations. Nepal Airlines uniquely operated the 757-200M for high-altitude, mixed-load missions from Kathmandu.\n\n**Keywords**:  \n757 freighter conversions, 757-200SF, 757-200PCF, FedEx 757 fleet, combi aircraft",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002440/01_Lakes-Region-New-Hampshire.html_0",
+      "summary": "**Title**: New Hampshire Lakes Region\n\n**Summary**:  \nThe Lakes Region of east-central New Hampshire is anchored by Lake Winnipesaukee and dotted with dozens of smaller lakes, spanning Belknap County and parts of four adjacent counties. Beyond its famed waterfronts, the area adds low mountain scenery via the Belknap and Ossipee ranges and draws summer crowds to events like Motorcycle Week and races at New Hampshire Motor Speedway. Tourism fuels the economy, with attractions ranging from the family arcade Funspot and Gunstock ski area to the historic resort town of Wolfeboro and the Castle in the Clouds estate. The region’s picturesque settings have also served as filming locations for movies such as *On Golden Pond* and *What About Bob?*\n\n**Keywords**: Lake Winnipesaukee, tourism, Belknap County, Motorcycle Week, On Golden Pond",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003006/03_Jenny-Nystrm.html_1",
+      "summary": "**Title**: Jenny Nyström’s Jultomte Legacy  \n\n**Summary**:  \nJenny Nyström (1854-1946) was a prolific Swedish painter and illustrator who forged the modern Swedish image of the jultomte—Santa Claus merged with folkloric gnomes—on widely circulated Christmas cards and magazine covers. After studying at the Royal Swedish Academy of Arts and in Paris, she turned to the booming postcard market, supporting her family through her art when her husband’s tuberculosis curtailed his medical career. Her 1890s jultomte designs became a national Christmas icon, and her stylistic influence extended to her son Curt and brother-in-law Georg Stoopendaal, who likewise produced popular holiday cards.  \n\n**Keywords**:  \njultomte, Christmas cards, Swedish illustration, postcard art, folklore",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "summary": "**Title**: Honda S660 Kei Sports Car  \n\n**Summary**:  \nThe Honda S660 is a lightweight, mid-engined kei-class roadster produced from 2015 to 2022, succeeding the Beat and honoring Honda’s “S” nomenclature. Offered in β and α trims with 6-speed manual or 7-speed CVT, it uses a turbocharged 658 cc S07A engine producing 64 PS. Development was led by 22-year-old engineer Ryo Mukumoto, and the design evolved from the 2011 EV-STER concept. Special editions—Concept Edition (660 units), Modulo X, and final Version Z—added aerodynamic, cosmetic, and interior upgrades. Production peaked at ~10k units in 2016, then steadily declined until the model’s March 2022 discontinuation.\n\n**Keywords**: Honda S660, kei car, mid-engine roadster, S07A turbo, limited editions",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005673/03_David-Mecey.html_0",
+      "summary": "**Title**: David Mecey Photography Career\n\n**Summary**: David Mecey is an American photographer renowned for his 23-year tenure at Playboy, where he became the face of the long-running “Girls of…” collegiate pictorials and is credited with discovering 20 Playmates of the Month. After a motorcycle accident led him to photography, he joined Playboy in 1979, co-shot the annual campus-themed series, hosted Playboy TV’s *Sexy Girls Next Door*, and produced solo spreads like “Women of Wall Street.” Beyond Playboy, Mecey shot covers for *SPORT*’s swimsuit issue, contributed to international *GQ* and *MenSTYLE-France*, photographed celebrities, and founded the hands-on “FotoFantasyCamp” workshop in 2001. An avid car enthusiast and endurance racer, he served as Chief Driving Instructor for the L.A. chapter of the BMW Car Club of America while maintaining residences in Marina Del Rey and Las Vegas.\n\n**Keywords**: Playboy photographer, Girls of collegiate series, celebrity portraiture, FotoFantasyCamp, BMW driving instructor",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006433/02_Man-Next-Door.html_0",
+      "summary": "**Title**: \"Man Next Door\" Legacy\n\n**Summary**:  \n\"Man Next Door,\" written by John Holt and first recorded by The Paragons in 1968, originated as a re-working of Garnet Mimms' 1963 soul track \"Quiet Place.\" Duke Reid's production for The Paragons became a reggae staple, spawning dozens of covers and adaptations across genres. UB40, Dennis Brown, Horace Andy, The Slits, U-Roy, Dr Alimantado, I-Roy and others have reinterpreted the song, while Massive Attack fused Horace Andy's vocal with samples of Led Zeppelin and The Cure for their 1998 album Mezzanine. The enduring riddim continues to surface in rap, electronic, and comedy contexts, evidencing its cross-generational influence.\n\n**Keywords**:  \nJohn Holt, The Paragons, reggae riddim, cover versions, Massive Attack",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004472/00_Jaguar-R2.html_0",
+      "summary": "**Title**: Jaguar R2 F1 Season\n\n**Summary**: The Jaguar R2 was the Formula One car used by Jaguar in the 2001 season, driven by Eddie Irvine and initially Luciano Burti, later replaced by Pedro de la Rosa. The season marked a modest improvement over 2000, with the team scoring nine points and achieving their first podium at Monaco. Off-track drama included a failed attempt to hire designer Adrian Newey and the eventual replacement of team principal Bobby Rahal by Niki Lauda. The R2 was the last F1 car to use Texaco fuel and featured minor livery updates, including tributes post-9/11.\n\n**Keywords**: Jaguar R2, 2001 Formula One, Eddie Irvine, Niki Lauda, Monaco podium",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_14",
+      "summary": "**Title**: Codename: Kids Next Door Franchise\n\n**Summary**:  \nThe animated series *Codename: Kids Next Door* garnered multiple festival awards, including the Ottawa International Animation Festival’s Best Television Series for Children and the Collideascope Award. It aired on Cartoon Network, Kids’ WB, and Boomerang, and became available on DVD, digital platforms, and the Boomerang/Max streaming services. Beyond television, the franchise expanded into comics, books, a trading-card game, and video games such as *Operation: S.O.D.A.* and *Operation: V.I.D.E.O.G.A.M.E.*, plus browser and MMORPG titles. Characters and elements crossed over into shows like *The Grim Adventures of Billy & Mandy* and games including *FusionFall* and *Punch Time Explosion*. Creator Tom Warburton continues to pursue a sequel, *Galactic Kids Next Door*, supported by fan petitions and an online animatic pitch.\n\n**Keywords**:  \nawards, multimedia expansion, video games, crossover appearances, sequel pitch",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000337/01_The-Four-Seasons-band.html_3",
+      "summary": "**Title**: Four Seasons Band History  \n\n**Summary**:  \nThe Four Seasons, formed in 1960 by Frankie Valli, Tommy DeVito, Bob Gaudio, and Nick Massi, became one of the best-selling American rock groups with 100 million records sold. Under producer Bob Crewe, they scored three consecutive No. 1 singles—“Sherry,” “Big Girls Don’t Cry,” and “Walk Like a Man”—on Vee-Jay Records, the first rock band to achieve this feat. After a 1964 label switch to Philips, they continued thriving despite Beatlemania, landing their fourth U.S. No. 1 with “Rag Doll.” Lineup changes, financial turmoil from DeVito’s departure, and later stints at Motown and Warner Bros. preceded a 1976 comeback with “December, 1963 (Oh, What a Night).” The original quartet was inducted into the Rock and Roll Hall of Fame in 1990.  \n\n**Keywords**:  \nFour Seasons, Frankie Valli, Bob Crewe, Vee-Jay Records, British Invasion",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004472/01_Eddie-Irvine.html_9",
+      "summary": "**Title**: Eddie Irvine's Formula One Career\n\n**Summary**:  \nThe text chronicles Eddie Irvine’s Formula One tenure, focusing on his 2001-2002 seasons with Jaguar where he scored his last podium and clinched final championship points despite reliability issues and internal friction. It details contract disputes, management changes, and on-track incidents, followed by his post-F1 life encompassing media work, legal victories, business ventures, and occasional legal troubles. Earlier Jordan years (1994-1995) are also referenced, highlighting bans, controversies, and Le Mans success that framed his racing persona.\n\n**Keywords**:  \nEddie Irvine, Jaguar F1, Formula One, post-racing career, Jordan Grand Prix",
+      "is_seed": false,
+      "expand_score": 0.8150843381881714
+    },
+    {
+      "community_key": "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_2",
+      "summary": "**Title**: 2001 Monaco Grand Prix Technical Updates\n\n**Summary**:  \nAhead of the 2001 Monaco Grand Prix, teams introduced extensive aerodynamic and safety upgrades—Prost, Benetton, and Jaguar revised wings, undertrays, and crash structures, while Arrows and Jordan debuted elevated nose-wing devices that were later banned for regulatory infringement. Practice sessions saw dry conditions and multiple incidents, with Häkkinen ultimately setting the fastest lap. Championship leader Michael Schumacher, after inheriting pole from Coulthard’s stalled car, dominated the race to secure his fourth win of the season and extend Ferrari’s Constructors’ lead. Concerns over electronic launch-control reliability prompted Jordan to revert to manual starts, and the FIA warned of severe penalties for mis-configured systems.\n\n**Keywords**: Monaco Grand Prix 2001, aerodynamic upgrades, launch control, Michael Schumacher, FIA regulations",
+      "is_seed": false,
+      "expand_score": 0.8144484758377075
+    },
+    {
+      "community_key": "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "summary": "**Title**: Lochmere Archaeological District Heritage  \n\n**Summary**:  \nThe Lochmere Archaeological District in Belknap County, New Hampshire, preserves a continuous record of human activity from Middle Archaic through Late Woodland periods, later serving as the historic homeland of the Winnipesaukee Pennacook. Its strategic Winnipesaukee River location fostered early Euro-American industry starting in the 1770s, but downstream mill owners gained water rights and shuttered local mills by 1882. Ninety acres encompassing 13 prehistoric and 18 historic sites were listed on the National Register in 1982, though modern development and river-channel work have partially impacted sensitive areas.  \n\n**Keywords**: Lochmere Archaeological District, Winnipesaukee River, Pennacook, prehistoric sites, industrial heritage",
+      "is_seed": false,
+      "expand_score": 0.8025000095367432
+    },
+    {
+      "community_key": "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_9",
+      "summary": "**Title**: 2001 Monaco Grand Prix Drama  \n\n**Summary**:  \nMichael Schumacher dominated the 2001 Monaco Grand Prix, setting a new lap record and securing his fourth win of the season amid high attrition that saw only ten of 22 starters finish. The race was marked by a tense 35-lap feud between McLaren’s David Coulthard and Arrows’ Enrique Bernoldi, whose defensive driving triggered post-race threats from McLaren management and driver-association complaints. Multiple retirements—Panis, Häkkinen, Trulli, Fisichella, Frentzen and others—shuffled the order and promoted Jaguar’s Eddie Irvine to the team’s first podium in third place. Ferrari’s one-two finish extended Schumacher’s championship lead to 12 points and the team’s constructors’ cushion to 32.  \n\n**Keywords**: Monaco Grand Prix 2001, Schumacher victory, Coulthard-Bernoldi feud, high attrition, Irvine podium",
+      "is_seed": false,
+      "expand_score": 0.7976175546646118
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "summary": "**Title**: Volvo C30 Overview 2006-2013  \n\n**Summary**:  \nThe Volvo C30 is a premium three-door hatchback produced from 2006-2013, sharing the Ford C1/Volvo P1 platform with the S40/V50/C70 family. Globally offered with 1.6–2.5 L petrol/diesel engines (including flex-fuel and Polestar-tuned T5), it came in trims such as SE, Kinetic, Momentum, Summum, and R-Design. Safety innovations—BLIS blind-spot monitoring, IIHS Top Safety Pick structure, WHIPS, and IDIS driver-distraction mitigation—were core marketing pillars. Audio options ranged from 4×20 W to 5×130 W Premium Sound with Dynaudio speakers and MP3/WMA/AUX/USB/iPod support. Concept cars (SCC 2001, SEMA/Essen 2006, ReCharge plug-in hybrid 2007) previewed production features and performance upgrades.  \n\n**Keywords**: Volvo C30, premium hatchback, safety technology, engine lineup, audio systems",
+      "is_seed": false,
+      "expand_score": 0.7942003607749939
+    },
+    {
+      "community_key": "HotpotQA-validation-00004472/01_Eddie-Irvine.html_10",
+      "summary": "**Title**: Eddie Irvine’s F1 Career\n\n**Summary**:  \nEddie Irvine’s Formula One journey spanned a decade, highlighted by his role as Michael Schumacher’s Ferrari teammate and his near-miss at the 1999 Drivers’ Championship. After solid but unspectacular seasons with Jordan and Ferrari, 1999 became his breakthrough year: four wins, the championship lead after Schumacher’s injury, and a title-deciding finale in Japan where he lost to Mika Häkkinen by two points while securing Ferrari’s first Constructors’ crown since 1983. From 2000-2002 he captained the fledgling Jaguar team, scoring their first podium at Monaco 2001 but enduring reliability woes that left him 13th and 11th in successive standings. Known for blunt talk and playboy flair, Irvine nonetheless insisted his life was “90 % work,” raced under a neutral shamrock flag to defuse Northern-Irish politics, and was awarded the Hawthorn Memorial Trophy for best British/Commonwealth driver in 1999.\n\n**Keywords**:  \nFerrari, 1999 title fight, Jaguar, playboy image, Hawthorn Trophy",
+      "is_seed": false,
+      "expand_score": 0.7850924730300903
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "HotpotQA-validation-00007006/02_Door-to-Door-Modern-Family.html_1",
+      "HotpotQA-validation-00006754/03_Dont-Stop-the-Music-Robyn-album.html_0",
+      "HotpotQA-validation-00004312/01_Boeing-757.html_2",
+      "HotpotQA-validation-00002440/01_Lakes-Region-New-Hampshire.html_0",
+      "HotpotQA-validation-00003006/03_Jenny-Nystrm.html_1",
+      "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "HotpotQA-validation-00005673/03_David-Mecey.html_0",
+      "HotpotQA-validation-00006433/02_Man-Next-Door.html_0",
+      "HotpotQA-validation-00004472/00_Jaguar-R2.html_0",
+      "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_14",
+      "HotpotQA-validation-00000337/01_The-Four-Seasons-band.html_3"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "HotpotQA-validation-00004472/01_Eddie-Irvine.html_9",
+      "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_2",
+      "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_9",
+      "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "HotpotQA-validation-00004472/01_Eddie-Irvine.html_10"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "HotpotQA-validation-00007006/02_Door-to-Door-Modern-Family.html_1",
+      "HotpotQA-validation-00006754/03_Dont-Stop-the-Music-Robyn-album.html_0",
+      "HotpotQA-validation-00004312/01_Boeing-757.html_2",
+      "HotpotQA-validation-00002440/01_Lakes-Region-New-Hampshire.html_0",
+      "HotpotQA-validation-00003006/03_Jenny-Nystrm.html_1",
+      "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "HotpotQA-validation-00005673/03_David-Mecey.html_0",
+      "HotpotQA-validation-00006433/02_Man-Next-Door.html_0",
+      "HotpotQA-validation-00004472/00_Jaguar-R2.html_0",
+      "HotpotQA-validation-00007006/03_Codename-Kids-Next-Door.html_14",
+      "HotpotQA-validation-00000337/01_The-Four-Seasons-band.html_3",
+      "HotpotQA-validation-00004472/01_Eddie-Irvine.html_9",
+      "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_2",
+      "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "HotpotQA-validation-00004472/03_2001-Monaco-Grand-Prix.html_9",
+      "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "HotpotQA-validation-00004472/01_Eddie-Irvine.html_10"
+    ],
+    "allowed_chunk_pool_size": 68,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

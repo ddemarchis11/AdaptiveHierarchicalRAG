@@ -1,0 +1,12 @@
+{
+  "id": "Novel-16a39fa8",
+  "question": "According to the narrative, what literary works was C. A. S. HALL engaged with, specifically mentioning her reading of 'Prometheus Bound' and her work on 'Prometheus Unbound'?",
+  "gold_answer": "C. A. S. HALL was working on 'Prometheus Unbound' and read 'Prometheus Bound.'",
+  "llm_answer": "According to the narrative, C. A. S. HALL was engaged with the following literary works:\n\n1. 'Prometheus Bound' - She mentions the teaching of this work, emphasizing that merely material civilization is not enough and must not stand alone.\n2. 'Prometheus Unbound' - She is working on this, with the help of her son Sam, who is translating Aeschylus' fragments to understand how Aeschylus treated the subject. She has a plan of her own for the work and is willing to work hard to write something good.\n\nAdditionally, she mentions reading other literary works, including:\n\n1. Goethe's 'Faust' - Her son Sam is reading it aloud to her.\n2. George Eliot's 'Romola' - She is impressed with the power of this work and considers it a great drama.\n3. 'The Channel Islands' - This is a work by an author whose name is not mentioned, and it is reviewed by various publications in Pumpiter.\n4. Mrs. Stanton's writings - She mentions reading Mrs. Stanton's advice to her sons, which includes the quote \"When you marry do choose a woman with a spine and sound teeth.\"\n5. Taine's writings - She mentions Taine's theory of progress, which describes the boundless advance of the sciences and their applied discoveries.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that C. A. S. HALL was engaged with 'Prometheus Bound' and 'Prometheus Unbound,' which aligns with the Gold Answer. However, it includes additional literary works ('Faust,' 'Romola,' 'The Channel Islands,' Mrs. Stanton's writings, and Taine's writings) that are mentioned in the context but are not directly relevant to the question about 'Prometheus Bound' and 'Prometheus Unbound.' While these details are grounded in the context, they dilute the focus on the specific works mentioned in the Gold Answer, leading to partial evidence coverage and reduced faithfulness."
+  }
+}

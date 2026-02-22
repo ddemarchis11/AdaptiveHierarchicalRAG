@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002533",
+  "question": "Pirates Plunge, at the Grace O'Malley-inspired Pirates Adventure Park in Westport, holds which notable record?",
+  "gold_answer": "first flume ride in Ireland",
+  "llm_answer": "I cannot verify the notable record held by Pirates Plunge at the Grace O'Malley-inspired Pirates Adventure Park in Westport.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information about Pirates Plunge holding the record as the first flume ride in Ireland. It does not utilize the retrieved context, which clearly supports the Gold Answer, and instead states an inability to verify the record, which is incorrect."
+  }
+}

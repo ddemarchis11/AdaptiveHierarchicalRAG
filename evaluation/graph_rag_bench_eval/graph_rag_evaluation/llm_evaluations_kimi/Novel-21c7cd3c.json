@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21c7cd3c",
+  "question": "Which literary work did Goethe read aloud to his contemporaries, as recorded in accounts of his engagement with English literature?",
+  "gold_answer": "Goethe reads aloud Tristram Shandy.",
+  "llm_answer": "The provided context does not specify which literary work Goethe read aloud to his contemporaries.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the literary work Goethe read aloud, which is correct based on the retrieved context. However, the Gold Answer explicitly identifies 'Tristram Shandy' as the work Goethe read aloud, and the Model Answer fails to provide this information. Thus, it does not answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

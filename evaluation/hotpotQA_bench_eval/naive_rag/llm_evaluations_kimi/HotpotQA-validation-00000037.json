@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000037",
+  "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+  "gold_answer": "World War II",
+  "llm_answer": "The Livesey Hall War Memorial commemorates the fallen of World War I and World War II.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that the Livesey Hall War Memorial commemorates the fallen of both World War I and World War II, which is supported by the context. However, the User's question specifically asks about the war with over 60 million casualties, which is World War II. The Model Answer does not emphasize this specific detail, leading to partial correctness and incomplete evidence coverage."
+  }
+}

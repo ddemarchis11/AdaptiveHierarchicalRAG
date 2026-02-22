@@ -1,0 +1,12 @@
+{
+  "id": "Novel-549bea73",
+  "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+  "gold_answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+  "llm_answer": "The context does not provide a direct connection between the government neglecting its wards in Minnesota and the Indian protests. However, it mentions that the Sioux forfeited to the government, in addition to an annual annuity of $68,000 for fifty years, all the lands they held in Minnesota, amounting in the aggregate to about 750,000 acres, worth at the present time something like $15,000,000.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the connection between the government's neglect of its wards in Minnesota and the Indian protests, which is the core of the Gold Answer. It instead discusses unrelated details about the Sioux forfeiting land and annuities, which are not relevant to the question or the Gold Answer. Additionally, the retrieved context does not provide grounding for the claims made in the Model Answer, making it unfaithful and lacking evidence coverage."
+  }
+}

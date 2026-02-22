@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a4dcffa3",
+  "question": "According to the customs described in the narrative, what liquid did the Romans commonly mix with their wine during meals or celebrations?",
+  "gold_answer": "Water was commonly mixed with wine by the Romans.",
+  "llm_answer": "According to the customs described in the narrative, the Romans commonly mixed water with their wine during meals or celebrations. This is mentioned in Footnote 041, which states that the slave, whose office it was to mix the wine and water to the taste of the guests, was called [oivôxooç] by the Greeks, 'pincerna' by the Romans.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the Romans commonly mixed water with their wine during meals or celebrations, as stated in Footnote 041 of the retrieved context. It also provides additional detail about the role of the slave responsible for mixing the wine and water, which is relevant and supported by the context."
+  }
+}

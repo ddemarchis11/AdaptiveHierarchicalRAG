@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006028",
+  "question": "McLemore Avenue is to Booker T. & the M.G.s as what road in the city of Westminster in London is to the Beatles?",
+  "gold_answer": "This road is best known for the Abbey Road Studios and the 1969 album, \"Abbey Road\", by The Beatles.",
+  "llm_answer": "The answer is: Abbey Road is to the Beatles as Abbey Road is to the Beatles.",
+  "context": [
+    {
+      "text": "McLemore Avenue is the tenth studio album by the American southern soul group Booker T. & the M.G.s , consisting entirely of mostly instrumental versions of songs from the Beatles' album Abbey Road (released only months earlier, in September 1969). The title and cover are an homage to the Beatles album, 926 East McLemore Avenue being the address of the Stax Studios in Memphis , as Abbey Road was for London ’s EMI Studios , which were soon renamed Abbey Road Studios. As a nod to Abbey Road's medley, most of the M.G.s' selections are arranged into their own medleys. (\" Something \" was released as a single and reached number 76 in the US). The album itself peaked at No. 107 in the US. Booker T. Jones said, \"I was in California when I heard Abbey Road , and I thought it was incredibly courageous of The Beatles to drop their format and move out musically like they did. To push the limit like that and reinvent themselves when they had no need to do that. They were the top band in the world but they still reinvented themselves. The music was just incredible so I felt I needed to pay tribute to it.\" Track listing All songs written by Lennon–McCartney except \"Here Comes the Sun\" and \"Something\", by George Harrison Side one Medley: \" Golden Slumbers \", \" Carry That Weight \", \" The End \" (with vocals), \" Here Comes",
+      "id": "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_0"
+    },
+    {
+      "text": "Booker T. & the M.G.s Booker T. Jones – organ, piano, keyboards, guitar Steve Cropper – guitar Donald Dunn – bass guitar Al Jackson Jr. – drums Production credits Produced and arranged by Booker T. & the M.G.'s Engineers – Ron Capone, Gordon Rudd, Rik Pekkonen, Terry Manning Remix engineers – Steve Cropper, John Fry Photography – Joel Brodsky Art direction – The Graffiteria/David Krieger Art supervision – Herb Kole Charts References",
+      "id": "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_2"
+    },
+    {
+      "text": "Abbey Road is a thoroughfare in the borough of Camden and the City of Westminster in Greater London running roughly northwest to southeast through St John's Wood near Lord's Cricket Ground . It is part of the road B507. The road is best known for the Abbey Road Studios and for featuring on the cover of the Beatles ' album of the same name , which was released in September 1969. Location The northwestern end of Abbey Road begins in Kilburn at the junction with Quex Road and West End Lane . The road was once a track leading to Kilburn Priory and its associated Abbey Farm and was developed in the beginning of the nineteenth century. It continues southeast for roughly one mile crossing Priory Road , Belsize Road , Boundary Road (which forms the Camden/Westminster boundary) and Marlborough Place , ending at the junction of Grove End Road and Garden Road. It is joined from the west by Abercorn Place . History The Abbey National Building Society (now Santander UK ) was founded in 1874 as The Abbey Road & St John's Wood Permanent Benefit Building Society in one Baptist Church on Abbey Road. Abbey Road street sign EMI 's Abbey Road Studios is located at the southeastern end at 3 Abbey Road, St John's Wood. the Beatles , Kanye West , Glenn Miller , Queen , Radiohead , Lady Gaga , Shirley Bassey , Aretha Franklin , ABBA , Cliff Richard , Kate Bush , Brockhampton , Kylie Minogue , Pink Floyd",
+      "id": "HotpotQA-validation-00006028/01_Abbey-Road-London.html_c_0"
+    },
+    {
+      "text": "Lady Gaga , Shirley Bassey , Aretha Franklin , ABBA , Cliff Richard , Kate Bush , Brockhampton , Kylie Minogue , Pink Floyd , and many other famous popular music performers have recorded at this studio. The Beatles named their last studio LP after this street, and the album's cover photograph shows the four group members walking across the zebra crossing just outside the studio entrance. As a result of its association with the Beatles, this part of Abbey Road has been featured on the London tourism circuit. The crossing was given the official status of Grade II listed building by English Heritage in December 2010. The zebra crossing featured on the Beatles cover has become a popular photo opportunity area, despite the road still being a busy thoroughfare for traffic. The crossing may have been relocated several metres as part of traffic management work in the 1970s, with a spokesperson for Westminster City Council saying in 2010 that \"by comparing photographs with the Ordnance Survey maps, we believe that the crossing might have been further north nearer 3 Abbey Road, which was the front house of the EMI Studios, because the steps of Neville Court appear to the right of the crossing in original photographs of the crossing, whereas the present crossing is near the junction of Abbey Road and Grove End Road\". The Beatles' album cover has been parodied many times over the years. The street sign on the corner of Grove End Road and Abbey Road, which was frequently defaced or stolen, is now",
+      "id": "HotpotQA-validation-00006028/01_Abbey-Road-London.html_c_1"
+    },
+    {
+      "text": "by George Harrison Side one Medley: \" Golden Slumbers \", \" Carry That Weight \", \" The End \" (with vocals), \" Here Comes the Sun \", \" Come Together \" (with incidental vocals) – 15:48 \" Something \" – 4:09 Side two Medley: \" Because \", \" You Never Give Me Your Money \" – 7:26 Medley: \" Sun King \", \" Mean Mr. Mustard \", \" Polythene Pam \", \" She Came In Through the Bathroom Window \", \" I Want You (She's So Heavy) \" – 10:40 2011 Stax Remasters bonus tracks \" You Can't Do That \" – 2:47 (Originally released on Play the \"Hip Hits\" ) \" Day Tripper \" – 2:52 (Originally released on Play the \"Hip Hits\" ) \" Michelle \" – 2:52 (Originally released on The Booker T. Set ) \" Eleanor Rigby \" – 3:41 (Originally released on Soul Limbo ) \" Lady Madonna \" – 3:35 (Originally released on The Booker T. Set ) \" You Can't Do That \" (alternate take) – 3:08 It was also released digitally in a lossless and high quality version at 88.2 kHz and 24 bit. Personnel Booker T. & the M.G.s Booker T. Jones – organ, piano, keyboards, guitar Steve Cropper – guitar Donald Dunn – bass guitar",
+      "id": "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- McLemore Avenue is an album by Booker T. & the M.G.s (Novel-00006028_c_0).\n- The album is an homage to the Beatles' album Abbey Road (Novel-00006028_c_0).\n- Abbey Road is a thoroughfare in the City of Westminster in London (Novel-00006028_c_1).\n- The thoroughfare is associated with the Beatles (Novel-00006028_c_1).\n- The question asks for a road in the city of Westminster in London associated with the Beatles (Novel-00006028_c_0).\n- The answer is likely a road that is also associated with the Beatles (Novel-00006028_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "McLemore Avenue is to Booker T. & the M.G.s as what road in the city of Westminster in London is to the Beatles?",
+      "doc_ids": [
+        "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_0",
+        "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_2",
+        "HotpotQA-validation-00006028/01_Abbey-Road-London.html_c_0",
+        "HotpotQA-validation-00006028/01_Abbey-Road-London.html_c_1",
+        "HotpotQA-validation-00006028/00_McLemore-Avenue.html_c_1"
+      ]
+    }
+  ]
+}

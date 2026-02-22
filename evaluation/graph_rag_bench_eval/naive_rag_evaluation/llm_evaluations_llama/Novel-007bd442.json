@@ -1,0 +1,12 @@
+{
+  "id": "Novel-007bd442",
+  "question": "Through what sequence is Bruin connected to the grandmother?",
+  "gold_answer": "Bruin settled in the cottage, which was home to the grandmother.",
+  "llm_answer": "Bruin is connected to the grandmother through Toto. The grandmother asks Toto to take a basket to the poor old hermit, but Toto suggests that Bruin should go instead because he is not strong enough to take care of a sick person.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Bruin is connected to the grandmother through Toto, which is not supported by the context or the Gold Answer. The Gold Answer clearly states that Bruin settled in the cottage, which was home to the grandmother, establishing the connection directly. The Model Answer introduces unsupported details about Toto and the hermit, which are irrelevant to the question and not grounded in the retrieved context."
+  }
+}

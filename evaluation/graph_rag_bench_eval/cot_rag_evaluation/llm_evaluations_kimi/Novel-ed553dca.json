@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed553dca",
+  "question": "While held captive in Dr. O'Shaughnessy's house, to whom did Eileen Macarthy direct her questions regarding her condition and her wish?",
+  "gold_answer": "Eileen Macarthy asked questions to the doctor.",
+  "llm_answer": "Eileen Macarthy directed her questions regarding her condition and her wish to the Green Man.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Eileen Macarthy directed her questions to the Green Man, which is not supported by the context or the Gold Answer. The Gold Answer specifies that Eileen asked questions to the doctor, and the retrieved context confirms this interaction. The Model Answer fails to align with the Gold Answer and the context, resulting in a score of 0 across all metrics."
+  }
+}

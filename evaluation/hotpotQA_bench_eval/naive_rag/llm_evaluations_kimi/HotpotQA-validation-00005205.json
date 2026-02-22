@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005205",
+  "question": "What sibling of John D. Rockefeller III was the chairman of Chase Manhattan Corporation?",
+  "gold_answer": "David Rockefeller",
+  "llm_answer": "David Rockefeller",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies David Rockefeller as the sibling of John D. Rockefeller III who was the chairman of Chase Manhattan Corporation. This is supported by the retrieved context, which explicitly states David Rockefeller's role as chairman and chief executive of Chase Manhattan Corporation. The answer is concise but fully accurate and faithful to the context."
+  }
+}

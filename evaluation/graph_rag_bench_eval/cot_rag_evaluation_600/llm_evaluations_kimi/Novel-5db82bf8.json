@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5db82bf8",
+  "question": "Does the membership list of the Minnehaha Engine Company, as detailed in the early history of St. Paul's fire department, include Harry M. Shaw?",
+  "gold_answer": "Yes, Harry M. Shaw is a member of the Minnehaha Engine Company.",
+  "llm_answer": "Yes. The membership list of the Minnehaha Engine Company includes Harry M. Shaw.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Harry M. Shaw is a member of the Minnehaha Engine Company, which is explicitly supported by the Retrieved Context. It aligns with the Gold Answer and includes all necessary facts without adding unsupported details."
+  }
+}

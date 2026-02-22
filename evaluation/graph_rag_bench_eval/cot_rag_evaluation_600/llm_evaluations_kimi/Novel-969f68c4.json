@@ -1,0 +1,12 @@
+{
+  "id": "Novel-969f68c4",
+  "question": "How is the movement of the Itzaes explained with respect to the Nahualt and the invasion of MAYAB?",
+  "gold_answer": "The Itzaes, who spoke Maya, retreated before the Nahualt, who later invaded MAYAB.",
+  "llm_answer": "The evidence states that “many tribes, as that of the Itzaes, retreating before the Nahualt invaders … sought refuge in the islands of the lake Peten … or in the well nigh inaccessible valleys.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, stating that the Itzaes retreated before the Nahualt invaders and sought refuge in specific locations. This is fully supported by the retrieved context, which explicitly mentions the retreat of the Itzaes and their refuge in the islands of Lake Peten and inaccessible valleys. All key facts from the Gold Answer are included."
+  }
+}

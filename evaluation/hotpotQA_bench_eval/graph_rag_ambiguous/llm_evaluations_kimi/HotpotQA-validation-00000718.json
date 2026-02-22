@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000718",
+  "question": "The ethnic minority group representing roughly one in twenty residents of a small Adriatic nation could align itself with a coalition political organization — what type of entity is that organization?",
+  "gold_answer": "Albanian political party in Montenegro",
+  "llm_answer": "It is an Albanian political party in Montenegro.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the entity as an Albanian political party in Montenegro, which aligns with the Gold Answer and is supported by the Retrieved Context. It is concise but fully accurate and grounded."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-237238e6",
+  "question": "How can consuming candy ultimately lead to the presence of alcohol in the body, and what role does sugar play in this process?",
+  "gold_answer": "Candy contains sugar, and sugar is changed into alcohol.",
+  "llm_answer": "The passage does not state that eating candy itself produces alcohol in the body.  \nIt only explains that candy is mostly sugar and that sugar (along with starch, cream, rice, butter, etc.) is a “fat-making food.” The later mention of alcohol concerns fermented grape-juice turning into wine, not candy. Therefore, within the given context, consuming candy does not lead to alcohol formation; sugar’s role is simply to supply material for body-fat, not for alcoholic fermentation.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that consuming candy does not lead to alcohol formation, which contradicts the Gold Answer. The Gold Answer clearly states that sugar in candy is changed into alcohol, but the Model Answer denies this connection. However, the Model Answer is faithful to the retrieved context, as the context does not explicitly support the claim that candy consumption leads to alcohol formation. The Model Answer also fails to cover the key fact from the Gold Answer that sugar is changed into alcohol."
+  }
+}

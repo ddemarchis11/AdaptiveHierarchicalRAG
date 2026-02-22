@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002154",
+  "question": "The opening episode of the twenty-first run of a long-running adult animated satire set in a fictional Colorado mountain town, which dealt with themes of home renovation and automated job displacement, was which overall instalment of the series?",
+  "gold_answer": "278th episode",
+  "llm_answer": "I cannot verify the opening episode of the twenty-first run of a long-running adult animated satire set in a fictional Colorado mountain town.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information about the 278th episode, which is the answer to the question. Additionally, the retrieved context does not contain relevant information to support the question, and the model does not attempt to use external knowledge to answer correctly."
+  }
+}

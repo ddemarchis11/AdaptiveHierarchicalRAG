@@ -1,0 +1,12 @@
+{
+  "id": "Novel-94e134ef",
+  "question": "Which city is described as being near Mogador in the narrative's discussion of regional geography?",
+  "gold_answer": "Saffee is near Mogador.",
+  "llm_answer": "The city described as being near Mogador in the narrative's discussion of regional geography is Toser.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Toser as the city near Mogador, whereas the Gold Answer correctly states Saffee. The retrieved context supports Saffee being near Mogador, specifically mentioning it is one and a half day's journey from Mogador. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

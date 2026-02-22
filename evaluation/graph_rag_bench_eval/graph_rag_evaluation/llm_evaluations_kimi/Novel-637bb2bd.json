@@ -1,0 +1,12 @@
+{
+  "id": "Novel-637bb2bd",
+  "question": "To whom did Asaph Hall sub-let a room during his early years living in Cambridge, as he and Angeline struggled to make ends meet?",
+  "gold_answer": "Asaph Hall sub-let a room to a German pack-peddler.",
+  "llm_answer": "Asaph Hall sub-let one of their rooms to a German pack-peddler, a thrifty, free-thinking socialist.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Asaph Hall sub-let a room to a German pack-peddler, which matches the Gold Answer. Additionally, the Model Answer provides extra details about the peddler being thrifty, a free-thinker, and a socialist, all of which are supported by the Retrieved Context. The core facts are fully covered, and the additional information is relevant and grounded."
+  }
+}

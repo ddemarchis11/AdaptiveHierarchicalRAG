@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004341",
+  "question": "Bank street is sandwiched between the headquarters of the Hongkong and Shanghai Banking Corporation and which other building?",
+  "gold_answer": "Bank of China Building",
+  "llm_answer": "The building sandwiched between the headquarters of the Hongkong and Shanghai Banking Corporation and Bank Street is the Bank of China Building.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Bank of China Building as the building next to Bank Street and the headquarters of the Hongkong and Shanghai Banking Corporation. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly mentions the Bank of China Building's location relative to Bank Street and the HSBC Building."
+  }
+}

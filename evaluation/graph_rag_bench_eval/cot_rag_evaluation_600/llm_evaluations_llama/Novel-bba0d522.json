@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bba0d522",
+  "question": "Which group or people are described by Du Chaillu in the narrative, as referenced in his observations within the text?",
+  "gold_answer": "Du Chaillu describes the Fans.",
+  "llm_answer": "The group or people described by Du Chaillu in the narrative are the Africans, specifically the Ashangos, the Otamo, the Apossos, the Fans, and many other tribes of equatorial Africa.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies 'Fans' as the group described by Du Chaillu, while the Model Answer includes 'Ashangos, Otamo, Apossos, Fans, and many other tribes of equatorial Africa.' While the Fans are mentioned, the inclusion of other tribes is not directly supported by the Gold Answer but is grounded in the Retrieved Context. The Model Answer partially aligns with the Gold Answer but adds additional tribes, which dilutes the focus on the Fans."
+  }
+}

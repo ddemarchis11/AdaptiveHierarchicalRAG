@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "Ruth’s educational ambitions:  \nThe records show that Ruth initially intended to go to college, but after two months she abandoned the idea because the student fare harmed her health. Once she gave up her own college plans, she concentrated on helping her sister Angeline financially so that Angeline could finish.\n\nRuth’s emotional connection to Angeline:  \nRuth acted “like a good angel” when Angeline collapsed six weeks before graduation, coming to McGrawville and taking her sister home to recover. The two kept in close touch: Ruth returned to McGrawville the next year and they arranged to board together, and Angeline’s letters urged Ruth to resume schooling so they could be “here a year together.”",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant information about Ruth's educational ambitions and her emotional connection to Angeline, but it diverges from the Gold Answer. While the Gold Answer specifies Ruth's ability to complete the scientific course in two years and her loneliness without Angeline, the Model Answer focuses on Ruth's abandonment of college plans and her financial support for Angeline, which is partially grounded in the context but not directly aligned with the Gold Answer. Additionally, the emotional connection is described in terms of actions and letters, which is relevant but does not fully capture the sentiment of loneliness mentioned in the Gold Answer. The Model Answer includes some unsupported details and misses key facts from the Gold Answer, such as the specific timeline for Ruth's scientific course completion."
+  }
+}

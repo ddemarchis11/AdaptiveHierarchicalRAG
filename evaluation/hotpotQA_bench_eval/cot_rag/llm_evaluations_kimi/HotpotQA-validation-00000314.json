@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000314",
+  "question": "How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?",
+  "gold_answer": "29",
+  "llm_answer": "The evidence does not specify how many days it took Adele to sell 2 million copies of an album in the UK or to break a twenty-year-old record.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the number of days it took Adele to sell 2 million copies of an album in the UK or break a twenty-year-old record. However, it fails to answer the question directly, which is '29 days,' as stated in the Gold Answer. The retrieved context does not contain the relevant information, so the model's response is faithful to the context but does not provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

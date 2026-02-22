@@ -1,0 +1,12 @@
+{
+  "id": "Novel-75f181e8",
+  "question": "During the travelers' excursions from The Lizard, to which beach did Charles offer to drive the party for sightseeing and bathing?",
+  "gold_answer": "Charles drove to Kennack Sands.",
+  "llm_answer": "Charles offered to drive the party to Gunwalloe for sightseeing and bathing.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Charles drove the party to Kennack Sands for sightseeing and bathing, but the Model Answer incorrectly claims Gunwalloe as the destination. This is not supported by the retrieved context, which does not mention Gunwalloe as the location for bathing and sightseeing during the excursions from The Lizard. The Model Answer fails to align with the Gold Answer and lacks grounding in the provided context."
+  }
+}

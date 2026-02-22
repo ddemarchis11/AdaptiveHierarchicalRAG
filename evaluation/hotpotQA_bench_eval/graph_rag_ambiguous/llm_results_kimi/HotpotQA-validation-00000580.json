@@ -1,0 +1,222 @@
+{
+  "id": "HotpotQA-validation-00000580",
+  "question": "The South Korean actress who works as a radio DJ and stars in a hotel-themed romantic series first gained wide recognition through which earlier television production?",
+  "gold_answer": "Queen In-hyun's Man",
+  "llm_answer": "She first came to wide notice in the 2009 MBC sitcom *High Kick Through the Roof*.",
+  "context": [
+    {
+      "text": "Yoo In-na ( Korean : 유인나 ; born June 5, 1982) is a South Korean actress. After supporting roles in High Kick! Through the Roof (2009–10) and Secret Garden (2010), she rose to fame as the lead actress in the Queen and I (2012) and My Secret Hotel (2014). She then had starring roles in My Love from the Star (2013–14) and Guardian: The Lonely and Great God (2016–17) the latter of which was one of the highest rated cable television series in South Korea. She has since starred in the television series Touch Your Heart (2019), The Spies Who Loved Me (2020), and True to Love (2023). Aside from acting, Yoo also ventured into radio. She was the DJ of Let's Crank Up the Volume from 2011 to 2016. In 2024 she announced her return as a Radio DJ, with the formation of her radio show on YouTube titled, Yoo In Radio . Career At the age of 16, Yoo In-na joined an entertainment agency as an apprentice singer in 1998, and had nearly become part of a girl group . After 11 years and five different agencies, she could not be prominent. Yoo said she had difficulty memorizing the dance choreography required of K-pop singers, and after practicing for eight hours a day, six days a week, she had resigned from becoming an idol. In 2006, Yoo joined YG Entertainment as an aspiring actress. She said, \"If singing wasn't meant to be, I decided to give acting a go because it seemed fun. I never gave up. A lot of my friends did, though, even though they were prettier and more capable than me.\" She first came to note in 2009 with the sitcom High Kick Through the Roof on MBC . Several supporting roles followed, notably in the 2010 drama Secret Garden , which she received a Best New Actress award at the Baeksang Arts Awards , and as the second female lead in Hong sisters ' romantic comedy The Greatest Love . To maintain public visibility, Yoo Inna joined the cast of the variety show Heroes , which aired from July 18, 2010, to May 1, 2011. Yoo at the Queen and I press conference in 2012 She was an MC for TV Entertainment Tonight [ ko ] from March 3, 2011, to June 4, 2012, for which she won Best Variety Entertainer at the SBS Entertainment Awards. She was also the DJ for KBS Cool FM 's Let's Crank Up the Volume , which is the highest-rated radio program in its timeslot across both AM and FM bandwidths. Yoo's vocals were featured in Humming Urban Stereo 's 2011 digital single \"You, That Day\"",
+      "id": "HotpotQA-validation-00000580/01_Yoo-In-na.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/01_Yoo-In-na.html",
+      "community_id": 2,
+      "score": 46.464054
+    },
+    {
+      "text": "Lee So-young ( Korean : 이소영 ; January 30, 1990), known by her stage name Esom ( 이솜 ), is a South Korean actress. Career She gained recognition for her leading role in the 2014 film Scarlet Innocence , for which she was nominated for Best New Actress in five different award ceremonies. She then had notable roles in television series The Third Charm (2018), Taxi Driver (2021), and film Samjin Company English Class (2020). In January 2023, Esom signed with new agency Management MMM. Filmography Film Television series Web series Television shows Music video appearances Hosting Awards and nominations References External links Esom at HanCinema Esom at the Korean Movie Database Esom at IMDb",
+      "id": "HotpotQA-validation-00003650/02_Esom.html_c_0",
+      "doc_id": "HotpotQA-validation-00003650/02_Esom.html",
+      "community_id": 0,
+      "score": 40.990597
+    },
+    {
+      "text": "My Secret Hotel ( Korean : 마이 시크릿 호텔 ) is a 2014 South Korean mystery - romantic comedy television series starring Yoo In-na , Jin Yi-han , Namkoong Min and Lee Young-eun . It aired on tvN from August 18 to October 14, 2014 on Mondays and Tuesdays at 23:00 ( KST ) for 16 episodes. Synopsis Nam Sang-hyo ( Yoo In-na ) is the head of the wedding planning division of The Secret Hotel, one of Korea's most elite and luxurious hotels and considered among the top wedding destinations in the country. Optimistic, cheerful and a perfectionist, she works hard and dreams of becoming the hotel's general manager someday. Sang-hyo faces the biggest challenge of her job when her next client turns out to be architect Gu Hae-young ( Jin Yi-han ), her ex-husband. Seven years ago, Sang-hyo and Hae-young fell madly in love and got hitched in Las Vegas , but because of Hae-young's easy-come-easy-go attitude towards relationships, they fought and broke up. Since the marriage lasted only 100 days, they never filed the paperwork to legally register it, so their short-lived marriage remains a secret. Meanwhile, Sang-hyo has caught the eye of her boss Jo Sung-gyeom ( Namkoong Min ), a strict but thoughtful hotel managing director who has all the female employees swooning. But there's also ambitious public relations manager Yeo Eun-joo ( Lee Young-eun ), who competes with Sang-hyo for both a promotion and Sung-gyeom's heart. To make matters even more complicated, a murder turns the hotel topsy-turvy. Sung-gyeom may be connected to the case, while Eun-joo attempts to use the circumstances surrounding the murder to get a leg up on the corporate ladder. As Sang-hyo and Hae-young juggle their sudden reunion under awkward circumstances, the exes also get sucked into the murder investigation. Cast Main Yoo In-na as Nam Sang-hyo Jin Yi-han as Gu Hae-young Namkoong Min as Jo Sung-gyeom Lee Young-eun as Yeo Eun-joo Supporting Ha Yeon-joo as Jung Soo-ah, Gu Hae-young's fiancée. Choi Jung-won as Yoo Shi-chan, Gu Hae-young's best friend. Hwang So-hee as Joo Jung-eun, Gu Hae-young's stalker. Kim Jae-seung as Kim Ki-ho, Jung Soo-ah's chauffeur. Choi Jung-woo as Lee Moo-yang, general manager of The Secret Hotel. Uhm Soo-jung as Yang Kyung-hee, employee of wedding planning division of The Secret Hotel. Kim Bo-mi as Heo Young-mi,",
+      "id": "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/00_My-Secret-Hotel.html",
+      "community_id": 1,
+      "score": 30.917095
+    },
+    {
+      "text": "May 14, 2014, their respective agencies confirmed in a press release that the couple had ended their relationship. Philanthropy On January 2019 Yoo secretly donated 30 million won to salvation army 's meal support project for undernourished children. On February 9, 2023, Yoo donated 30 million won to help in 2023 Turkey–Syria earthquake through Hope Bridge National Disaster Relief Association. On 22 June 2024, Yoo participated in \"Can you say it again?\" event organised by social welfare organization Snail of Love. Yoo is a Soul Leader, a designation for high-value donors of the social welfare organization Snail of Love. She has donated a total of 230 million won, which was used to support 25 hearing-impaired children by covering the cost of cochlear implant surgeries and devices. Filmography Film Television series Web series Television shows Web shows Music video appearances Radio shows Hosting Discography Singles Awards and nominations References External links Wikimedia Commons has media related to Yoo In-na . Yoo In-na Archived October 9, 2024, at the Wayback Machine at YG Entertainment Yoo In-na at HanCinema Yoo In-na at IMDb",
+      "id": "HotpotQA-validation-00000580/01_Yoo-In-na.html_c_2",
+      "doc_id": "HotpotQA-validation-00000580/01_Yoo-In-na.html",
+      "community_id": 2,
+      "score": 30.353361
+    },
+    {
+      "text": "Bang Eun-hee ( Korean : 방은희 ; born Bang Min-seo on May 7, 1967) is a South Korean actress. Bang made her acting debut in 1988, and rose to fame after being cast as the lead actress in Im Kwon-taek 's General's Son (1990). She has starred in films and television dramas such as The Day a Pig Fell into the Well (1996), No. 3 (1997), 3PM Paradise Bath House (1997), Shadows of an Old Love (1998), Legend of Hyang Dan (2007), Daebak Life (2008), and All My Love (2010). Bang married Kim Nam-hee, founder and CEO of NH Media , on September 9, 2010. As of 2016, she is now represented by the agency. Filmography Film Television series Radio program Theater Awards and nominations References External links Bang Eun-hee at HanCinema Bang Eun-hee at the Korean Movie Database Bang Eun-hee at IMDb",
+      "id": "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/02_Bang-Eun-hee.html",
+      "community_id": 0,
+      "score": 29.997871
+    },
+    {
+      "text": "Park Sung-woong ( Korean : 박성웅 ; born January 9, 1973) is a South Korean actor. Following his acting debut in No. 3 in 1997, Park has starred in several movies and television series , notably as a gangster in New World (2013) and a serial killer in The Deal (2015). Personal life Park married actress Shin Eun-jung on October 18, 2008. They met while filming The Legend (2007), in which the characters they played were lovers. Filmography Film Television series Television show Ambassadorship PR Ambassador for the 2022 Dunamu Korea Professional Table Tennis League Awards and nominations References External links Wikimedia Commons has media related to Park Sung-woong . Park Sung-woong at C-JeS Entertainment ( Archived 2013-06-27 at the Wayback Machine ) Park Sung-woong at HanCinema Park Sung-woong at IMDb Park Sung-woong at the Korean Movie Database",
+      "id": "HotpotQA-validation-00006409/00_Park-Sung-woong.html_c_0",
+      "doc_id": "HotpotQA-validation-00006409/00_Park-Sung-woong.html",
+      "community_id": 0,
+      "score": 26.474598
+    },
+    {
+      "text": "the DJ for KBS Cool FM 's Let's Crank Up the Volume , which is the highest-rated radio program in its timeslot across both AM and FM bandwidths. Yoo's vocals were featured in Humming Urban Stereo 's 2011 digital single \"You, That Day\" (넌 그날) . She also sang for the soundtrack of her 2011 film My Black Mini Dress alongside her castmates Yoon Eun-hye , Park Han-byul , and Cha Ye-ryun . In 2012, Yoo starred in her first leading role in the tvN time-slip romance series Queen and I , and in and in 2013, she appeared in the KBS drama You Are the Best! and the SBS drama My Love from the Star , all of which recorded viewership ratings of over 30% and were greatly loved by viewers. In 2016-2017 she appeared in the tvN drama Guardian: The Lonely and Great God playing the second female lead. The drama was a commercial success with the final episode recording an 18.68% nationwide audience share, making it the seventh highest-rated drama in Korean cable television history, and she was nominated \"Best Supporting Actress\" at the 10th Korea Drama Awards . In 2024 Yoo Inna opened her own radio Youtube show titled Yoo-In Radio with the first guest, Ko Young-bae from korean band Soran. In July 2025, following YG Entertainment ’s announcement that it would discontinue its actor management division, Yoo signed his first exclusive contract in 19 years with a new agency, Chorokbaem Entertainment. Personal life Yoo Inna is best friends with fellow singer-actress and You Are the Best! co-star IU , whom she has known since they met on the television show Heroes in 2010. At a June 7, 2012, fan meeting to mark the end of Queen and I , Ji Hyun-woo made a surprise public declaration that he was in love with co-star Yoo. The declaration was covered significantly by the press in the following days, during which their agencies, and Ji and Yoo had remained quiet on the issue, except for a message to his fans that Ji posted on Twitter on June 11. Speculation about their relationship status ended on June 17, when gossip website Sportsseoul.com photographed the couple together on a midnight date at a park in Bundang , Gyeonggi , where Yoo lives. On June 18, Yoo confirmed on her radio show that they were officially dating. On May 14, 2014, their respective agencies confirmed in a press release that the couple had ended their relationship. Philanthropy On January 2019 Yoo secretly donated 30 million won to salvation army 's meal support project for undernourished children. On February 9,",
+      "id": "HotpotQA-validation-00000580/01_Yoo-In-na.html_c_1",
+      "doc_id": "HotpotQA-validation-00000580/01_Yoo-In-na.html",
+      "community_id": 1,
+      "score": 25.03905
+    },
+    {
+      "text": "Jin Yi-han ( Korean : 진이한 ) (born Kim Hyun-Joong on October 10, 1978) is a South Korean actor. He began his acting career in 2002 in musical theatre , notably in Footloose . Jin soon branched out into television, and among his leading roles were in critically acclaimed Conspiracy in the Court (2007), family drama My Life's Golden Age (2008), daily drama Happiness in the Wind (2010), sitcom You're Here, You're Here, You're Really Here (2011), and mystery-romance My Secret Hotel (2014). He also played supporting roles in Who Are You? (2008), Bravo, My Love! (2011), Dr. Jin (2012), and Empress Ki (2013). On September 23, 2016, Jin Yi-han changed his stage name to Kim Ji-han. Filmography Television series Film Variety show Music video Theater Awards and nominations References External links Jin Yi-han on Instagram Jin Yi-han at HanCinema Jin Yi-han at the Korean Movie Database Jin Yi-han at IMDb",
+      "id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html",
+      "community_id": 0,
+      "score": 24.67025
+    },
+    {
+      "text": "Lee Won-il ( Korean : 이원일 ; born December 12, 1979) is a South Korean chef and television personality. He was a cast member in the variety shows Please Take Care of My Refrigerator (seasons 1-2) and Cook Representative . Education Lee lived in Philippines from 2002 until 2008. In 2008, Lee earned a BSc degree in Hotel, Restaurant and Institution Management at the University of the Philippines Diliman in Philippines. Career Lee is the former owner and chef of Dear Bread and, as of 2020, owns and operates Lee Won-il Table, a 14-seat restaurant in Hannam-dong , Yongsan District , Seoul . On August 24, 2020, Lee and his fiancée, television producer Kim Yoo-jin, announced they would be leaving the cast of the MBC TV celebrity-couple reality show Don't Be Jealous . The announcement followed multiple media reports accusing Kim of bullying behavior, including physical abuse, dating back to 2008 and earlier. Kim was a minor at the time the incidents were alleged to have occurred. Filmography Web shows References External links Lee Won-il on Facebook v t e",
+      "id": "HotpotQA-validation-00003328/00_Lee-Won-il.html_c_0",
+      "doc_id": "HotpotQA-validation-00003328/00_Lee-Won-il.html",
+      "community_id": 0,
+      "score": 23.823334
+    },
+    {
+      "text": "Radio Cape Cod is a 2008 film directed and produced by Andrew Silver . It stars Tamzin Outhwaite as a radio interviewer coming to terms with the loss of her husband and a new love entering her life. She also must cope with her teenage daughter, played by Tamzin Merchant , who is experiencing her first love. The film also stars O. T. Fagbenle . The film won several festival awards. Plot The main character, Jill Waters, is an NPR radio show host who also performs wedding nuptials. The story involves three couples in love, and a wedding that takes place over a five-day period in the seaside community of Cape Cod . The film explores the joys and challenges of motherhood with new beginnings, life and love. Critical reception Reviews Susan Waugh, reviewing for STLBeacon.org writes, \"Radio Cape Cod is a triple love story set on the beaches of Cape Cod , Massachusetts . With gorgeous scenery and beautiful people, it's as relaxing and refreshing as a day on the beach - and uplifting to boot.\" Awards Best Feature Film - Wellfleet Harbor Actors Theater, Wellfleet, MA Best Cinematography - 2008 All American Film Festival, Durham, NC Best Cinematography - 2008 Schweitzer Lakedance Film Festival , Sandpoint, ID Best International Feature Film - 2008 End of the Pier International Film Festival, Sussex, England Best Actress Tamzin Outhwaite - 2008 End of the Pier International Film Festival, Sussex, England References External links Official website Radio Cape Cod at IMDb v t e",
+      "id": "HotpotQA-validation-00001288/03_Radio-Cape-Cod.html_c_0",
+      "doc_id": "HotpotQA-validation-00001288/03_Radio-Cape-Cod.html",
+      "community_id": 0,
+      "score": 18.366903
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000580/01_Yoo-In-na.html_2",
+      "summary": "**Title**: Yoo In-na Career & Philanthropy\n\n**Summary**:  \nSouth Korean actress Yoo In-na transitioned from an unsuccessful idol trainee to a leading TV and radio personality, gaining fame through hits like “Queen and I,” “My Love from the Star,” and “Guardian: The Lonely and Great God.” Beyond acting, she served as a popular KBS radio DJ and relaunched her radio presence on YouTube in 2024. Off-screen, Yoo is a high-profile philanthropist, donating hundreds of millions of won to disaster relief, undernourished children, and hearing-impaired youth, earning the “Soul Leader” title from the Snail of Love charity.\n\n**Keywords**:  \nYoo In-na, South Korean actress, philanthropy, radio DJ, Snail of Love",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_0",
+      "summary": "**Title**: Bang Eun-hee Acting Career\n\n**Summary**:  \nBang Eun-hee is a South Korean actress who debuted in 1988 and gained prominence through Im Kwon-taek’s film *General’s Son* (1990). Her career spans film, television, and theater, with notable works including *The Day a Pig Fell into the Well* (1996), *No. 3* (1997), and *All My Love* (2010). She married Kim Nam-hee, CEO of NH Media, in 2010 and is represented by the same agency.\n\n**Keywords**:  \nBang Eun-hee, South Korean actress, General's Son, NH Media, filmography",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_1",
+      "summary": "**Title**: My Secret Hotel Drama Overview\n\n**Summary**:  \n\"My Secret Hotel\" is a 2014 South Korean mystery-romantic comedy series that aired on tvN, starring Yoo In-na, Jin Yi-han, Namkoong Min, and Lee Young-eun. The story centers on Nam Sang-hyo, a perfectionist wedding planner at a luxury hotel, who is forced to organize her ex-husband’s wedding while navigating romantic tensions with her boss and a murder mystery unfolding at the hotel. The show blends romance, workplace drama, and suspense, with a large ensemble cast portraying hotel staff and key figures involved in the central mystery.\n\n**Keywords**:  \nMy Secret Hotel, romantic comedy, murder mystery, tvN drama, ensemble cast",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "summary": "**Title**: Park Sung-woong Profile\n\n**Summary**: Park Sung-woong is a South Korean actor born in 1973 who debuted in 1997’s “No. 3” and gained fame for gangster roles in “New World” (2013) and serial-killer portrayals in “The Deal” (2015). He married actress Shin Eun-jung in 2008 after playing on-screen lovers in the 2007 drama “The Legend”. His career spans film, television series, variety shows, and promotional work, including serving as PR ambassador for the 2022 Dunamu Korea Professional Table Tennis League.\n\n**Keywords**: Park Sung-woong, South Korean actor, New World, The Deal, Shin Eun-jung",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/01_Yoo-In-na.html_1",
+      "summary": "**Title**: Yoo In-na Career Highlights\n\n**Summary**:  \nYoo In-na is a prominent South Korean actress and radio DJ, best known for her roles in hit dramas like *Queen and I*, *You Are the Best!*, *My Love from the Star*, and *Guardian: The Lonely and Great God*, the latter earning her a Best Supporting Actress nomination. She has also contributed musically, featuring in songs and soundtracks, and hosted the top-rated KBS radio show *Let's Crank Up the Volume*. In 2024, she launched her own YouTube radio show, *Yoo-In Radio*. After 19 years with YG Entertainment, she signed with Chorokbaem Entertainment in 2025. Her personal life includes a well-publicized relationship with actor Ji Hyun-woo and a close friendship with IU.\n\n**Keywords**:  \nYoo In-na, Korean dramas, Guardian: The Lonely and Great God, radio DJ, IU",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000714/01_Paula-Patton.html_2",
+      "summary": "**Title**: Paula Patton's Acting Career\n\n**Summary**:  \nPaula Patton is an American actress and producer who rose to prominence with roles in films like *Déjà Vu* (2006) and *Precious* (2009), where she played a compassionate teacher in Harlem. She gained further recognition through major studio films including *Mission: Impossible – Ghost Protocol* (2011), *2 Guns* (2013), and *Warcraft* (2016). Her career spans a variety of genres, from romantic comedies like *Jumping the Broom* and *Baggage Claim* to action and fantasy roles. Despite several television projects that were short-lived or not picked up, Patton has maintained a steady presence in film and television into the late 2010s.\n\n**Keywords**:  \nPaula Patton, actress, filmography, Mission: Impossible, Precious",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "summary": "**Title**: Kim Ji-han Actor Profile\n\n**Summary**: Kim Ji-han, born Kim Hyun-Joong in 1978 and formerly known as Jin Yi-han, is a South Korean actor who began in musical theatre in 2002 with *Footloose*. He transitioned to television, earning acclaim for lead roles in *Conspiracy in the Court* (2007), *My Life's Golden Age* (2008), *Happiness in the Wind* (2010), and *My Secret Hotel* (2014), while also appearing in supporting roles in series like *Empress Ki* (2013). He officially changed his stage name to Kim Ji-han in September 2016.\n\n**Keywords**: Kim Ji-han, Jin Yi-han, Korean actor, television dramas, stage name change",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003650/02_Esom.html_0",
+      "summary": "**Title**: Esom Actress Profile\n\n**Summary**:  \nLee So-young, professionally known as Esom, is a South Korean actress born January 30, 1990. She rose to prominence with her 2014 leading role in *Scarlet Innocence*, earning five Best New Actress nominations. Subsequent standout performances include the dramas *The Third Charm* (2018) and *Taxi Driver* (2021), plus the film *Samjin Company English Class* (2020). In January 2023 she moved to Management MMM, and her extensive filmography spans film, television, web series, music videos, and hosting.\n\n**Keywords**: Esom, Scarlet Innocence, The Third Charm, Taxi Driver, Management MMM",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004110/03_Tereza-Viliov.html_0",
+      "summary": "**Title**: Tereza Vilišová Acting Accolades  \n**Summary**: Czech actress Tereza Vilišová (b. 1981, now Jarčevská) gained major recognition in 2013, winning both the Alfréd Radok Award and the Thalia Award for Best Actress for her portrayal of Amy in D C Jackson’s *My Romantic History* at Divadlo Petra Bezruče. She moved to Prague’s National Theatre in 2015.  \n**Keywords**: Czech actress, Alfréd Radok Award, Thalia Award, My Romantic History, National Theatre",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "summary": "**Title**: Cedric the Entertainer Career Highlights\n\n**Summary**:  \nCedric Antonio Kyles, known professionally as Cedric the Entertainer, is a multifaceted American comedian, actor, and television host. He rose to fame through stand-up comedy, notably as part of *The Original Kings of Comedy* alongside Steve Harvey, Bernie Mac, and D.L. Hughley, which was later adapted into a Spike Lee film. Cedric gained widespread recognition for his roles in *The Steve Harvey Show*, the *Barbershop* film series, and as a voice actor in animated hits like *Ice Age*, *Madagascar*, and *Planes*. He has hosted several TV shows, including *Who Wants to Be a Millionaire*, and starred in sitcoms like *The Soul Man* and *The Neighborhood*. His career spans decades and includes awards, voice roles, film appearances, and even a brief stint in professional wrestling and auto racing.\n\n**Keywords**:  \nCedric the Entertainer, stand-up comedy, The Original Kings of Comedy, Barbershop, voice acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001288/03_Radio-Cape-Cod.html_0",
+      "summary": "**Title**: Radio Cape Cod Film  \n**Summary**: *Radio Cape Cod* is a 2008 romantic drama directed by Andrew Silver, following NPR host Jill Waters as she navigates widowhood, new love, and her daughter’s first romance during a five-day Cape Cod wedding event. The intertwining stories of three couples explore motherhood, fresh beginnings, and the complexities of love. The film garnered festival accolades for Best Feature, Best Cinematography, and Best Actress for Tamzin Outhwaite.  \n**Keywords**: Cape Cod setting, romantic drama, festival awards, motherhood, love stories",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "summary": "**Title**: Emilie de Ravin's Acting Career\n\n**Summary**: Emilie de Ravin gained prominence through her role as Belle on ABC’s fantasy drama Once Upon a Time, becoming a series regular after initially guest-starring. She first rose to wider attention on the hit series Lost, which drew massive audiences throughout its run. Her filmography spans indie and mainstream cinema, including the neo-noir Brick, the horror remake The Hills Have Eyes, the romantic drama Remember Me opposite Robert Pattinson, and the indie feature The Submarine Kid. She has also appeared in Public Enemies and The Perfect Game, and was once attached to the video-game adaptation Onimusha before its cancellation.\n\n**Keywords**: Emilie de Ravin, Once Upon a Time, Lost, Remember Me, filmography",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "summary": "**Title**: Actress Allison Miller Profile\n\n**Summary**: Allison Miller is an American actress born in 1985 who rose to prominence through roles in Kings, Terra Nova, Go On, and A Million Little Things. After leaving college in 2006 to pursue acting, she built a diverse television career with recurring parts in series like Incorporated and 13 Reasons Why, along with film appearances in 17 Again and Devil's Due. Raised internationally and fluent in Italian and French, Miller trained in dance and music before establishing herself in Hollywood, where she continues to work in television and film.\n\n**Keywords**: Allison Miller, television actress, Kings, Terra Nova, A Million Little Things",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006617/02_Anna-Jobarteh.html_0",
+      "summary": "**Title**: Anna Jobarteh Acting Career\n\n**Summary**: English actress Anna Sophie Jobarteh gained prominence for her role as Ruth Kirby in the BBC school drama *Waterloo Road*, joining the series at the start of its sixth season in 2010. She previously appeared as Dionne Hudson in the 2009 thriller *Paradox* and later starred as Christie in the 2010 CBBC series *Combat Kids*. In 2020, she made a guest appearance as Kayla Miller in the BBC soap *Doctors*. Her work spans both children’s and primetime television, primarily on BBC platforms.\n\n**Keywords**: Waterloo Road, BBC, Paradox, CBBC, Doctors",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003328/00_Lee-Won-il.html_0",
+      "summary": "**Title**: Chef Lee Won-il Profile\n\n**Summary**: Lee Won-il is a South Korean chef and TV personality born in 1979, best known for appearing on *Please Take Care of My Refrigerator* and *Cook Representative*. After studying Hotel & Restaurant Management at the University of the Philippines Diliman, he opened the 14-seat Seoul restaurant Lee Won-il Table. In 2020, he and fiancée Kim Yoo-jin left the reality show *Don't Be Jealous* amid public controversy over Kim’s alleged past bullying.\n\n**Keywords**: Lee Won-il, South Korean chef, Please Take Care of My Refrigerator, Lee Won-il Table, bullying controversy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003328/01_Please-Take-Care-of-My-Refrigerator.html_1",
+      "summary": "**Title**: Please Take Care of My Refrigerator\n\n**Summary**:  \n\"Please Take Care of My Refrigerator\" is a South Korean cooking-variety show where celebrity guests bring their home refrigerators to the studio, and competing chefs create dishes using only the ingredients found inside. Each episode features two guests, four chefs per guest, and two 15-minute cooking battles judged by the guest and cast. The program originally aired on JTBC from 2014 to 2019, was rebooted in 2024 on both TV and Netflix, and includes annual chef championships. Hosts have included Kim Sung-joo and Ahn Jung-hwan, with rotating chef lineups and detailed yearly ratings tracked by AGB Nielsen and TNMS.\n\n**Keywords**:  \nSouth Korean variety show, cooking competition, celebrity refrigerators, JTBC, Netflix reboot",
+      "is_seed": false,
+      "expand_score": 0.8156450986862183
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000580/01_Yoo-In-na.html_2",
+      "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_0",
+      "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_1",
+      "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "HotpotQA-validation-00000580/01_Yoo-In-na.html_1",
+      "HotpotQA-validation-00000714/01_Paula-Patton.html_2",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00003650/02_Esom.html_0",
+      "HotpotQA-validation-00004110/03_Tereza-Viliov.html_0",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00001288/03_Radio-Cape-Cod.html_0",
+      "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "HotpotQA-validation-00006617/02_Anna-Jobarteh.html_0",
+      "HotpotQA-validation-00003328/00_Lee-Won-il.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00003328/01_Please-Take-Care-of-My-Refrigerator.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000580/01_Yoo-In-na.html_2",
+      "HotpotQA-validation-00000580/02_Bang-Eun-hee.html_0",
+      "HotpotQA-validation-00000580/00_My-Secret-Hotel.html_1",
+      "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "HotpotQA-validation-00000580/01_Yoo-In-na.html_1",
+      "HotpotQA-validation-00000714/01_Paula-Patton.html_2",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00003650/02_Esom.html_0",
+      "HotpotQA-validation-00004110/03_Tereza-Viliov.html_0",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00001288/03_Radio-Cape-Cod.html_0",
+      "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "HotpotQA-validation-00006617/02_Anna-Jobarteh.html_0",
+      "HotpotQA-validation-00003328/00_Lee-Won-il.html_0",
+      "HotpotQA-validation-00003328/01_Please-Take-Care-of-My-Refrigerator.html_1"
+    ],
+    "allowed_chunk_pool_size": 25,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

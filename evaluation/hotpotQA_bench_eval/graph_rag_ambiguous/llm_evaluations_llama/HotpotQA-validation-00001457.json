@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001457",
+  "question": "In the sequence of Viennese reform operas by the same eighteenth-century composer, which work immediately preceded the one that received its premiere before the Habsburg empress?",
+  "gold_answer": "Alceste",
+  "llm_answer": "I'm not sure I can answer this question as it is not fully supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response ('Alceste') to the question and does not utilize the retrieved context effectively. While the context includes information about operas and composers, it does not directly address the sequence of Viennese reform operas or the specific works by Gluck. The Model Answer does not attempt to answer the question based on internal knowledge either."
+  }
+}

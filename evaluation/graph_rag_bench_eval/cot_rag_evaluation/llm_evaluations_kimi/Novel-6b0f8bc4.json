@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b0f8bc4",
+  "question": "According to the narrative, by what means is the Poet encouraged to gain celebrity, specifically as described through the introduction of Roman Tragedy as an urging force?",
+  "gold_answer": "Roman Tragedy",
+  "llm_answer": "Roman Tragedy herself urges the Poet to win celebrity by abandoning light love-themes and undertaking a greater work: “Now may I, Roman Tragedy, gain a celebrity by thy means; thy conceptions will satisfy my requirements.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Roman Tragedy as the urging force encouraging the Poet to gain celebrity, aligning with the Gold Answer. It provides additional context from the retrieved passage, quoting Roman Tragedy's direct appeal to the Poet, which is faithful to the context and includes all key facts from the Gold Answer."
+  }
+}

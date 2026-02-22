@@ -1,0 +1,12 @@
+{
+  "id": "Novel-edd74751",
+  "question": "During Chris Calton's convalescence at the Summit House, which staff member was specifically assigned to attend to his needs and comfort?",
+  "gold_answer": "Frida Jansen attended to Chris Calton.",
+  "llm_answer": "The provided context does not mention Chris Calton, the Summit House, or any staff member assigned to attend to his needs and comfort.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about Chris Calton and the staff member assigned to him at the Summit House. It incorrectly states that the context does not mention relevant information, but the retrieved context does not contain any information about Chris Calton or the Summit House either. Thus, the answer is neither correct nor grounded, and it does not cover the key fact from the Gold Answer."
+  }
+}

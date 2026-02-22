@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002043",
+  "question": "One of the directors of Mediastan is well-known for founding what organisation in 2006?",
+  "gold_answer": "WikiLeaks",
+  "llm_answer": "I cannot verify which director of Mediastan is well-known for founding an organisation in 2006.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'WikiLeaks,' founded by Julian Assange in 2006. The retrieved context mentions Julian Assange as a producer of Mediastan and his association with WikiLeaks, but the model does not utilize this information to answer the question. Therefore, the answer is incorrect, ungrounded, and does not cover the key fact from the Gold Answer."
+  }
+}

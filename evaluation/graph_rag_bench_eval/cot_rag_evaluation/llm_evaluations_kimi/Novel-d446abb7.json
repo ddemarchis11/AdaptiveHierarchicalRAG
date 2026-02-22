@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d446abb7",
+  "question": "Imagine you are the Duke of Wellington. Write a diary entry about your efforts to emancipate the Catholics and your thoughts on the Irish and English relations.",
+  "gold_answer": "Diary Entry — Today I continued my advocacy for Catholic emancipation. I am aware that the Catholics of this era know the necessity of modesty, especially considering their Irish heritage. There is a sentiment in high places that the Irish have been too lenient toward the English, and yet, England itself is a nation with a sense of common descent and unity. My hope is that these reforms will foster greater harmony across all these groups.",
+  "llm_answer": "The provided evidence is insufficient to write a diary entry from the perspective of the Duke of Wellington regarding his efforts to emancipate the Catholics or his thoughts on Irish and English relations.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question or provide any relevant information about the Duke of Wellington's efforts for Catholic emancipation or his thoughts on Irish and English relations. It simply states that the evidence is insufficient without attempting to construct a response based on the retrieved context or internal knowledge. This results in a complete lack of correctness, faithfulness, and evidence coverage."
+  }
+}

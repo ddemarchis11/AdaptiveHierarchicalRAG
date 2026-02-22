@@ -1,0 +1,266 @@
+{
+  "id": "HotpotQA-validation-00001951",
+  "question": "Which Soviet-era design bureau was responsible for developing the combat aircraft operated by a tactical squadron of the Polish Air Force based in the northwest of the country?",
+  "gold_answer": "the Mikoyan design bureau",
+  "llm_answer": "The Mikoyan design bureau developed the MiG-29 fighters operated by the 41st Tactical Air Squadron of the Polish Air Force, which is based in Malbork in the northwest of the country.",
+  "context": [
+    {
+      "text": "The 41st Tactical Air Squadron ( Polish : 41 Eskadra Lotnictwa Taktycznego ) was a fighter squadron of the Polish Air Force . It was established in 2001 in Malbork , Poland and was stationed at the 22nd Tactical Air Base . The squadron operated Mikoyan MiG-29 jet fighters acquired from the German Air Force . Previously, these aircraft served with Jagdgeschwader 73 and were stationed at Rostock-Laage Airport . From 1952 to 2001 the unit was known as the 41st Tactical Air Regiment. [ unreliable source? ] Fighters Retired: MiG-15 Jet Fighters (1954 - 1958) MiG-17 Jet Fighters (1958 - 1981) MiG-19 Jet Fighters (1959 - 1963) MiG-21 Jet Fighters (1963 - 2003) Current: MiG-29B MiG-29UB References v t e",
+      "id": "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_c_0",
+      "doc_id": "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html",
+      "community_id": 0,
+      "score": 47.92705
+    },
+    {
+      "text": "Test Equipment (BITE) to reduce dependence on ground support equipment. Development of this version was initiated due to multiple systems being compromised to the West by Phazotron engineer Adolf Tolkachev . This was the final version of the MiG-29 produced before the collapse of the Soviet Union and only limited numbers were produced. Upgraded variants based on original airframe MiG-29S (Product 9.12S) Post Soviet upgrade for older 9.12 variants incorporating the changes developed for version 9.13S. MiG-29SD (Product 9.12SD) Export variant of upgraded 9.12S with downgraded versions of radar and avionics. MiG-29SE (Product 9.13SE) Export variant of the 9.13S with slightly downgraded N-019ME radar with multiple target tracking ability and RVV-AE (R-77 missile) compatibility. The first export model MiG-29 with underwing drop tanks; the inner underwing pylons can carry over 500 kg (1,100 lb) bombs in side by side tandem pairs. Its weapons mix includes R-27T1, R-27ER1 and R-27ET1 medium-range missiles. The aircraft can be fitted with active ECM systems, weapons guidance aids, improved built-in check and training systems. The MiG-29SE can simultaneously engage two air targets. MiG-29SM (Product 9.13M) Similar to the 9.13, but with the ability to carry guided air-to-surface missiles and TV- and laser-guided bombs . NATO reporting code is \"Fulcrum-C\". MiG-29SM (SyAF) For the Syrian Air Force, and based on the MiG-29SM, except the Syrian MiG-29SM uses the 9.12 airframe. RAC MiG developed a special variant for Syria. German Air Force MiG-29GT MiG-29G/MiG-29GT East German MiG-29A / 29UB upgraded to NATO standards, with work done by MiG Aircraft Product Support GmbH (MAPS), a joint venture company form between MiG Moscow Aviation Production Association and DaimlerChrysler Aerospace in 1993. MiG-29AS/MiG-29UBS Slovak Air Force performed an upgrade on their MiG-29A/-29UB for NATO compatibility. Work is done by RAC MiG and Western firms, starting from 2005. The aircraft now has navigation and communications systems from Rockwell Collins, an IFF system from BAE Systems, new glass cockpit features multi-function LC displays and digital processors and also fitted to be integrate with Western equipment in the future. However, the armaments of the aircraft remain unchanged. 12 out of 21 of the entire MiG-29 fleet were upgraded and had been delivered as of late",
+      "id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_c_26",
+      "doc_id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html",
+      "community_id": 5,
+      "score": 38.691383
+    },
+    {
+      "text": "51°33′06″N 19°10′45″E ﻿ / ﻿ 51.5516°N 19.1791°E ﻿ / 51.5516; 19.1791 32nd Air Base ( Polish : 32. Baza Lotnicza ) ( ICAO : EPLK ) is a Polish Air Force base, located in Łask , about 30 km south-west of Łódź . It is one of the two bases where Poland 's F-16 fighters are stationed, the other being 31st Air Base . 9 of them were first moved there in October 2008. The goal is to have 16 fighters, operated by the 10th Tactical Squadron . A detachment of the US Air Force has been permanently based at Łask since November, 2012. Additional units rotate to the base periodically to conduct training exercises. The force is thought to be nuclear-capable and has joined nuclear exercises with NATO . The base airfield was built in 1957. The current base unit, combining infrastructure and ground personnel, was formed in 2001. In the past there were plans to use this airfield for civilian airliners, but with the expansion of nearby Łódź Władysław Reymont Airport these have been shelved. References External links 32 Baza Lotnictwa Taktycznego – Official site in Polish v t e",
+      "id": "HotpotQA-validation-00001951/03_ask-Air-Base.html_c_0",
+      "doc_id": "HotpotQA-validation-00001951/03_ask-Air-Base.html",
+      "community_id": 0,
+      "score": 37.645187
+    },
+    {
+      "text": "The 23rd Air Base ( Polish : 23 Baza Lotnicza ) is a Polish Air Force base, located 6 km east of Mińsk Mazowiecki . It was officially established on 1 January 2001, replacing the disbanded 1st Aviation Regiment \"Warszawa\". The main unit based there is the 1st Air Tactical Squadron, which operates MiG-29 fighter jets. On 18 December 2017, one of the MiG-29's stationed here at the base crash landed in a forest near Kałuszyn while on approach to land. The pilot survived. Initial reports were contradictory as tonwhether he had ejected. On 21 December 2017, the Ministry of Defense confirmed that the pilot did not eject. This incident marked the first crash of a MiG-29 during its nearly three decades of its operational service in the Polish Air Force. The second crash followed on 4 March 2019. This time the pilot ejected and survived. References External links Official webpage 52°11′44″N 21°39′25″E ﻿ / ﻿ 52.19556°N 21.65694°E ﻿ / 52.19556; 21.65694 v t e v t e",
+      "id": "HotpotQA-validation-00001951/02_23rd-Air-Base.html_c_0",
+      "doc_id": "HotpotQA-validation-00001951/02_23rd-Air-Base.html",
+      "community_id": 0,
+      "score": 34.49277
+    },
+    {
+      "text": "Air Force , Air Marshal The Earl of Brandon . As at 2014, the Malayan Emergency marked the last occasion that the unit took part in combat operations. Jet era English Electric Canberra of the RAAF, 1964 No. 1 Squadron re-equipped with Canberra Mk.20s after returning to Australia. The RAAF's first jet bomber, the Canberra was subsonic but had long range and was highly manoeuvrable. It had been procured partly for its capacity to deliver nuclear weapons , an ordnance option the government seriously contemplated but never acquired. Initially the Canberra's envisaged mission profile was medium-to-high-altitude area bombing but its primitive bombsight and light load made this a dubious proposition, and by mid-1961 crews were training in low-level army cooperation tactics. No. 1 Squadron was awarded successive Gloucester Cups for its proficiency in 1959–60 and 1960–61. As of January 1962, its strength was eight aircraft and 53 personnel, including 18 officers. The unit effectively ceased operations in 1968, to begin converting to the General Dynamics F-111C supersonic bomber, which was expected to enter service soon afterwards. Already controversial owing to its escalating cost, the F-111 program was heavily delayed by airworthiness concerns related to its swing-wing technology. In September 1970, as an interim measure while awaiting delivery of the F-111, No. 1 Squadron relinquished its Canberras for leased McDonnell Douglas F-4E Phantoms . Although the Phantom had a multi-role capability, the RAAF employed it as a strike aircraft to maintain compatibility with the proposed F-111 mission profile. One of No. 1 Squadron's Phantoms was lost with its crew of two in June 1971, the only fatalities and hull loss of the 24 aircraft leased to the RAAF. Though not as sophisticated an aircraft as the F-111, the Phantom was a significant advance over the Canberra, and well regarded by its Australian crews. F-4E Phantom of the RAAF, 1971 No. 82 Wing accepted its first F-111Cs in June 1973. The Chief of the Air Staff , Air Marshal Charles Read , ordered that the new aircraft be flown with great caution initially, well within operational limits, to minimise the possibility of further damage to its reputation through early attrition. No. 1 Squadron was assigned 12 of the initial 24 aircraft delivered. It was No. 82 Wing's lead strike force, No. 6 Squadron's primary task being crew conversion training . The wing employed a centralised servicing regime, whereby all aircraft and maintenance personnel were held by No. 482 Squadron, which released the F-111s in line with Nos. 1 and 6 Squadrons' joint flying program. In February 1981, responsibility for operating-level servicing of the F-111s",
+      "id": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_c_10",
+      "doc_id": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html",
+      "community_id": 1,
+      "score": 32.766518
+    },
+    {
+      "text": "space, and missile squadrons as of 1 October 1995 . Maxwell AFB, Alabama: Office of Air Force History. CD-ROM. Menard, David W. (1998) Before Centuries: USAFE Fighters, 1948–1959 . Howell Press Inc. ISBN 1-57427-079-6 Manning, Thomas A. (2005), History of Air Education and Training Command, 1942–2002 . Office of History and Research, Headquarters, AETC, Randolph AFB, Texas OCLC 71006954 , 29991467 Martin, Patrick (1994). Tail Code: The Complete History of USAF Tactical Aircraft Tail Code Markings . Schiffer Military Aviation History. ISBN 0-88740-513-4 . Shaw, Frederick J. (2004), Locating Air Force Base Sites, History’s Legacy , Air Force History and Museums Program, United States Air Force, Washington DC. OCLC 57007862 , 1050653629 Aerospace Defense Command publication, The Interceptor, January 1979 (Volume 21, Number 1). USAAS-USAAC-USAAF-USAF Aircraft Serial Numbers — 1908 to present External links Global Access Victorville Archived 20 January 2010 at the Wayback Machine (redevelopment project) George AFB Hazardous, Toxic and Radioactive Waste (HTRW) (Superfund Site, EPA ID: CA2570024453)",
+      "id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_c_16",
+      "doc_id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html",
+      "community_id": 15,
+      "score": 31.392052
+    },
+    {
+      "text": "RADAR suppression aircraft. The mission was transferred to the 37th from the 35th Tactical Fighter Wing , which was TAC's primary F-4E Phantom II training organization in a mission realignment. Both wings were under the TAC's 831st Air Division . Assigned squadrons of the 37th (Tail Code: \"WW\") at George AFB were: 561st Tactical Fighter Squadron : 30 March 1981 – 5 October 1989 (Yellow Tail Stripe) 562nd Tactical Fighter Training Squadron : 30 March 1981 – 5 October 1989 (Blue Tail Stripe) As the only \"Wild Weasel\" training wing in the world, it provided instructor pilots and qualified aircrews for the other two \"Wild Weasel\" wings in the Philippines (3d TFW) and West Germany (52d TFW). As part of the training mission, the wing participated in numerous tactical, maritime, and electronic warfare exercises locally and worldwide in hunter/killer tactics, suppression of enemy air defenses, force escort operations and dissimilar air combat training with Air National Guard and Air Force Reserve squadrons, and various allies. Wing aircrews and ground personnel won the United States Air Force Worldwide Fighter gunnery meet in 1985 and 1987. In 1988, George AFB was scheduled in the first round of base closures passed by Congress under the Base Realignment and Closure program. On 5 October 1989, the 37th TFW turned over F-4G aircraft to the host 35th TFW at George AFB. Superfund site In June 2018, Military Times reported several cases of unusual medical conditions suffered by Air Force women and wives of service members, plus one case of a rare cancer that killed the Air Force husband of one of the affected women. The article claims that nearly 300 women have connected on Facebook, and shared tales of ovarian cysts , uterine tumors , birth defects in their children, hysterectomies , and miscarriages . Jet fuel, trichloroethylene , and PFOS / PFOA are said to contaminate the base's water supply. George AFB was designated a superfund site by the Environmental Protection Agency in 1990. Remedial action is still underway to clean up 33 separate hazardous wastes left there. Closure George Air Force Base was officially decommissioned in December 1992. In 1993, President Bill Clinton announced a \"Five Part Plan\" to speed economic recovery in communities where military bases were to be closed. One part of this plan called for improving public participation in the base's environmental cleanup program. George AFB was among a number of installations where environmental cleanup was placed on a \"fast track\" so base property could be quickly transferred to the community for reuse. Names of facility Air Corps Advanced Flying School, 23 June 1941 Victorville Army Flying",
+      "id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_c_14",
+      "doc_id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html",
+      "community_id": 15,
+      "score": 31.109201
+    },
+    {
+      "text": "Hornets Growl\" . Air & Space , 1 March 2011. VAQ-141 Shadowhawks EA-18G Growler: Photo walk around of two aircraft including the CAG bird. 2013-2019 US Navy Environmental Impact Study into EA-18G Growler Flight Operations at NAS Whidbey Island Archived 27 July 2014 at the Wayback Machine",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_9",
+      "doc_id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html",
+      "community_id": 9,
+      "score": 27.46924
+    },
+    {
+      "text": "whereas Mi-24 combat helicopters as well as Nanchang A-5 or, more recently, Su-25 ground-attack aircraft have been spotted and photographed on Darfurian airfields, no MiG-29s have been observed. On 10 May 2008, a Darfur rebel group, the Justice and Equality Movement (JEM) mounted an assault on the Sudanese capital. During this action, the JEM shot down a Sudanese Air Force MiG-29 with 12.7 and 14.5 mm (0.500 and 0.571 in) heavy machine gun fire while it was attacking a convoy of vehicles in the Khartoum suburb of Omdurman . The aircraft was piloted by a Russian mercenary. He was killed in action as his parachute did not open after ejecting. On 14 November 2008 Sudanese Ministry of Defence admitted that Sudan had received 12 MiG-29s from Russia. An anonymous Russian source claimed that the aircraft had been delivered before 2004. During the brief 2012 South Sudan–Sudan border conflict , on 4 April 2012, Sudan People's Liberation Army (SPLA) claimed the downing of a Sudanese MiG-29 using antiaircraft guns. The Sudan government denied the claim. On 16 April 2012, the SPLA issued a second claim about the downing of a Sudanese MiG-29. It was not clear if this second claim referred to the previous one. On 15 April 2023, a Sudanese MiG-29 was captured on film firing missiles over Khartoum during a skirmish with paramilitary forces. 25 May 2023, a Sudanese MiG-29 was filmed being shot down by the Rapid Support Forces (RSF) over Omdurman .  The pilot ejected and survived, although he was wounded and captured. A MiG-29 of the Sudanese Airforce shot down a transport Aircraft contracted by the Emiratis (who were supporting the RSF) that was carrying north of 40 Colombian Mercenaries near Nyala Airport on the 7th August 2025, this being the second such transport lost (Friendly Fire by the RSF is believed to have been the cause of another loss the year before) . United States In 1997, the US purchased 21 Moldovan MiG-29 aircraft under the Nunn–Lugar Cooperative Threat Reduction program. Fourteen were MiG-29S models, which are equipped with an active radar jammer in its spine and are capable of being armed with nuclear weapons. Part of the US' motive to purchase these aircraft was to prevent them from being sold to Iran. This purchase could also provide the tactical fighter communities of the USAF , the USN and the USMC with a working evaluation and data for the MiG-29, and possibly",
+      "id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_c_22",
+      "doc_id": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html",
+      "community_id": 5,
+      "score": 27.443325
+    },
+    {
+      "text": "in the base's environmental cleanup program. George AFB was among a number of installations where environmental cleanup was placed on a \"fast track\" so base property could be quickly transferred to the community for reuse. Names of facility Air Corps Advanced Flying School, 23 June 1941 Victorville Army Flying School, 6 February 1942 Victorville Army Air Field, 23 April 1943 Victorville Air Force Base, 13 Jan 1948 George Air Force Base, 2 June 1950 Major commands to which assigned West Coast Air Corps Training Center, 26 June 1941 Air Corps Flying Training Command, 23 January 1942 Re-designated: Army Air Forces Flying Training Command, 15 March 1942 Re-designated: Army Air Forces Training Command , 31 July 1943 Placed on standby and inactive status, 12 October 1945 Air Technical Service Command, 1 November 1945 Re-designated Air Materiel Command , 9 March 1946 Transferred to jurisdiction of Sacramento Air Materiel Area, 15 May 1947 Designated a sub-installation of San Bernardino Air Depot, 15 December 1948 Continental Air Command , 1 April 1950 Activated: 1 November 1950 Air Defense Command , 1 January 1951 Strategic Air Command , 23 July 1951 Tactical Air Command , 15 November 1951 – 1 June 1992 Air Combat Command , 1 June 1992 – 15 December 1992 Major units assigned George Air Force Base in popular culture The following projects used the base as a filming location from 1940 to 2005. Movies The Starfighters The War of the Worlds : was namechecked as Victorville in the 1953 version of the film. Jet Pilot Face Off Jarhead Television Six Million Dollar Man Roadkill (web series) and Roadkill Garage See also Aviation portal United States Air Forces in Europe United States Air Force In Thailand California World War II Army Airfields 35th Flying Training Wing (World War II) Western Air Defense Force (Air Defense Command) Base Realignment and Closure References This article incorporates public domain material from the Air Force Historical Research Agency Wikimedia Commons has media related to George Air Force Base . Wikimedia Commons has media related to Victorville Army Airfield . Bibliography Donald, David (2004) Century Jets: USAF Frontline Fighters of the Cold War . AIRtime ISBN 1-880588-68-4 Endicott, Judy G. (1999) Active Air Force wings as of 1 October 1995; USAF active flying, space, and missile squadrons as of 1 October 1995 . Maxwell AFB, Alabama: Office of Air Force History. CD-ROM. Menard, David W. (1998) Before Centuries: USAFE Fighters, 1948–1959 . Howell Press Inc. ISBN",
+      "id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_c_15",
+      "doc_id": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html",
+      "community_id": 15,
+      "score": 27.41707
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "summary": "**Title**: 41st Tactical Air Squadron\n\n**Summary**: The 41st Tactical Air Squadron is a Polish Air Force fighter unit formed in 2001 at Malbork’s 22nd Tactical Air Base, succeeding the 41st Tactical Air Regiment (1952-2001). It flies MiG-29B/UB jets purchased from Germany’s Jagdgeschwader 73, replacing earlier Soviet-era MiG-15, ‑17, ‑19, and ‑21 models that the regiment operated between 1954 and 2003.\n\n**Keywords**: Polish Air Force, MiG-29, 41st Tactical Air Squadron, Malbork, fighter aircraft",
+      "is_seed": true,
+      "expand_score": 0.791573703289032
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "summary": "**Title**: 23rd Air Base MiG-29 Crashes\n\n**Summary**: The 23rd Air Base near Mińsk Mazowiecki, established in 2001, hosts Poland’s 1st Air Tactical Squadron flying MiG-29s. The base recorded its first-ever MiG-29 crash on 18 December 2017 when a fighter came down in a nearby forest; the pilot remained with the aircraft and survived. A second MiG-29 crash occurred on 4 March 2019, again with the pilot ejecting safely.\n\n**Keywords**: 23rd Air Base, MiG-29 crashes, Polish Air Force, Mińsk Mazowiecki, 1st Air Tactical Squadron",
+      "is_seed": true,
+      "expand_score": 0.791573703289032
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/03_ask-Air-Base.html_0",
+      "summary": "**Title**: 32nd Air Base Łask\n\n**Summary**: The 32nd Air Base near Łask, Poland, is a key Polish Air Force installation housing F-16 fighters of the 10th Tactical Squadron since 2008, with a permanent US Air Force detachment added in 2012. Established on a 1957 airfield and consolidated as a base in 2001, it now hosts joint NATO nuclear-capable training. Civilian conversion plans were abandoned after Łódź airport expanded.\n\n**Keywords**: 32nd Air Base, F-16, Łask, NATO, nuclear exercises",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/02_Federal-Correctional-Complex-Victorville.html_0",
+      "summary": "**Title**: FCC Victorville Prison Complex\n\n**Summary**: The Federal Correctional Complex, Victorville (FCC Victorville) is a three-facility federal prison campus in California’s Mojave Desert, built on a former Air Force base and a designated Superfund site. Inmates and staff are exposed to 33 toxic chemicals in the water supply, which have been linked to illnesses. Operated by the Federal Bureau of Prisons, the complex includes two medium-security institutions for men and a high-security penitentiary, plus a minimum-security women’s camp.\n\n**Keywords**: FCC Victorville, Superfund prison, toxic water, Federal Bureau of Prisons, Victorville Mojave",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_3",
+      "summary": "**Title**: George Air Force Base Operations\n\n**Summary**: George Air Force Base served as a key USAF installation from WWII through the Cold War, evolving from Victorville Army Airfield’s training hub for pilots, bombardiers, and glider crews to a front-line base for air-defense and tactical-fighter units. Successive wings—the 1st Fighter-Interceptor Wing, 479th Tactical Fighter Wing, and several Fighter-Interceptor Squadrons—operated F-86, F-100, F-102, F-104, and F-106 aircraft, pioneering new jets and deploying worldwide, including MiGCAP over Vietnam and air-defense during the Berlin and Cuban crises. After closure under 1988 BRAC, the site transitioned to civilian logistics, energy, and training uses.\n\n**Keywords**: George AFB, 479th TFW, F-104/F-106, Cold War, pilot training",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "summary": "**Title**: EA-18G Growler Operations & Operators\n\n**Summary**:  \nThe EA-18G Growler, the U.S. Navy’s carrier-based electronic-warfare aircraft, has seen recent combat firsts: during 2024’s Operation Prosperity Guardian it destroyed a Houthi Hind helicopter with an AGM-88E AARGM and downed a drone for its initial air-to-air kill, while VAQ-133 became the first squadron to deploy the ALQ-249 Next-Generation Jammer. Australia is the only export customer, fielding 12 Growlers with No. 6 Sqn RAAF after converting part of its Super Hornet buy; one aircraft was lost to an engine-fire accident in 2018 and replaced in 2023 from U.S. stocks, and a A$2 billion upgrade is now adding new sensors, weapons and jamming pods. Japan has studied the type for its own electronic-attack needs, while Finland evaluated but rejected the Growler in favor of the F-35. The U.S. Navy operates 153 EA-18Gs across 14 electronic-attack squadrons and test units.\n\n**Keywords**: EA-18G Growler, electronic warfare, Operation Prosperity Guardian, Royal Australian Air Force, Next-Generation Jammer",
+      "is_seed": true,
+      "expand_score": 0.782428503036499
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_1",
+      "summary": "**Title**: No. 1 Squadron RAAF History\n\n**Summary**:  \nNo. 1 Squadron of the Royal Australian Air Force, formed in 1916, is one of the RAAF’s oldest and most decorated units, transitioning from WWI reconnaissance and bombing in the Middle East to modern multi-role strike operations. Over a century it successively operated biplanes, heavy bombers, jet bombers, swing-wing F-111s, and today flies F/A-18F Super Hornets from Amberley, Queensland. The squadron saw combat in WWI, the Malayan Emergency, and recent Middle-East campaigns against ISIS, and pioneered RAAF strike, reconnaissance and maritime-attack capabilities while accumulating honours including the Gloucester Cup and a Victoria Cross.\n\n**Keywords**:  \nRAAF, Super Hornet, F-111, Malayan Emergency, military aviation history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "summary": "**Title**: EA-18G Growler Electronic Warfare Aircraft\n\n**Summary**: The Boeing EA-18G Growler is a carrier-based electronic warfare aircraft derived from the F/A-18F Super Hornet, designed to replace the EA-6B Prowler. It features advanced jamming systems, including the ALQ-99 pods and the upcoming Next Generation Jammer (NGJ), and can perform both escort and standoff jamming missions. Despite its capabilities, the aircraft has faced issues with ALQ-99 reliability and radar interference. The Growler supports networked electronic attack, target geolocation, and communication jamming, and has been operationally deployed by the U.S. Navy and Royal Australian Air Force.\n\n**Keywords**: EA-18G Growler, electronic warfare, ALQ-99, Next Generation Jammer, tactical jamming",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_9",
+      "summary": "**Title**: MiG-29 Operational History & Upgrades\n\n**Summary**:  \nThe MiG-29 has seen extensive operational use and modernization across multiple air forces since the Cold War. Early models were agile but limited by short range and outdated avionics, while later upgrades like the MiG-29SMT and UPG variants improved avionics, weapons systems, and service life. Russia, India, and Ukraine have all undertaken significant upgrade programs, with India modernizing its fleet to the UPG standard and Russia deploying MiG-29SMTs in Syria. Ukraine, inheriting a large Soviet-era fleet, has seen its MiG-29s actively engaged in combat since 2014, including during the Donbas war and after the 2022 Russian invasion. The aircraft has also been involved in several high-profile incidents, including shoot-downs and mid-air collisions.\n\n**Keywords**:  \nMiG-29, upgrades, operational history, Ukraine, India, Russia",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "summary": "**Title**: George Air Force Base History\n\n**Summary**: George Air Force Base, operational from 1941 to 1992 near Victorville, California, evolved from a World War II flying school into a key Cold War tactical fighter hub, hosting units such as the 35th and 37th Tactical Fighter Wings and specializing in “Wild Weasel” radar-suppression training. It supported multiple fighter aircraft—from F-51s to F-4Gs—and deployed squadrons to Korea, NATO Europe, and Desert Storm. After closure under the 1988 Base Realignment and Closure Act, the site became an EPA Superfund location due to jet fuel, trichloroethylene, and PFAS contamination, with ongoing cleanup efforts aimed at rapid community reuse.\n\n**Keywords**: George AFB, Wild Weasel training, Base Realignment and Closure, Superfund contamination, Victorville reuse",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_5",
+      "summary": "**Title**: MiG-29 Global Operations & Variants\n\n**Summary**:  \nThe MiG-29 “Fulcrum” family spans multiple Soviet, export and upgrade variants (9.12, 9.13, 9.51, 9.13S, etc.) that differ in radar, avionics, countermeasures and weapons options, with later models adding beyond-visual-range R-77 missile compatibility and improved N019M/N010 radars. After the Cold War, surplus aircraft were traded worldwide: the U.S. acquired 21 Moldovan MiG-29s in 1997 to keep them from Iran and to support dissimilar-air-combat training, while Yemen, Bangladesh, Sudan and others received batches that became their most advanced fighters. Combat use ranges from Cuba’s 1996 shoot-down of U.S. civilian aircraft to Eritrean-Ethiopian clashes, Sudan’s internal wars and 2023 Khartoum clashes, illustrating the type’s continued front-line relevance despite serviceability challenges.\n\n**Keywords**: MiG-29 variants, export sales, combat record, N019 radar, U.S. acquisition",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "summary": "**Title**: Soviet & Post-Soviet “33 Best” Football Awards  \n\n**Summary**:  \nThe “List of 33 Best Football Players of the Year” was an official Soviet Union honor awarded from 1948-1991, compiled by the USSR Football Federation’s Presidium on recommendations from the National Coaches’ Council. It operated independently of the journalists’ poll-based Soviet Footballer of the Year award. After the USSR dissolved, the Russian Football Federation revived the tradition in 1992 for the Russian Premier League, while Ukraine’s newspaper Komanda created a parallel Ukrainian version, both continuing the annual recognition of top performers.  \n\n**Keywords**:  \nSoviet football, 33 Best Players, Russian Premier League, post-Soviet awards, Komanda",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "summary": "**Title**: VFA-2 \"Bounty Hunters\" History\n\n**Summary**:  \nStrike Fighter Squadron 2 (VFA-2), nicknamed the \"Bounty Hunters,\" has served as a frontline U.S. Navy fighter squadron since 1972, successively flying the F-14A/D Tomcat and today’s F/A-18F Super Hornet. Over five decades the unit deployed aboard carriers from Enterprise to Carl Vinson, participating in every major Middle-East contingency—Earnest Will, Nimble Archer, Desert Storm, Southern Watch, Iraqi Freedom—and humanitarian missions such as Restore Hope and Unified Assistance. Key milestones include the first carrier launch of an F-14 towing a gunnery target (1984), the first Tomcat JDAM combat drop (2003), and the 2025 Red Sea combat operations against Houthi/Iranian forces. Transitions in aircraft, carriers, and homeports (Miramar → Oceana → Lemoore) mirror broader naval-aviation evolution, while the squadron’s TARPS, LANTIRN, and AESA-radar capabilities kept it at the leading edge of reconnaissance and precision strike.\n\n**Keywords**:  \nF-14 Tomcat, F/A-18F Super Hornet, Carrier Air Wing 2, Persian Gulf operations, Red Sea 2025",
+      "is_seed": true,
+      "expand_score": 0.782428503036499
+    },
+    {
+      "community_key": "HotpotQA-validation-00004078/01_Special-Air-Service.html_8",
+      "summary": "**Title**: Global SAS-Inspired Special Forces\n\n**Summary**:  \nThe British Special Air Service (SAS) has served as the archetype for elite special-forces units worldwide since World War II. Commonwealth offshoots such as Australia’s SASR and Rhodesia’s C Squadron (later 1 SAS Regt.) were created by returning veterans, while non-Commonwealth nations—including Belgium, France, the United States, Israel, Ireland and the Philippines—have raised analogous formations that adopt SAS selection standards, insignia, or the “Who Dares Wins” ethos. The modern UKSF structure centres on 22 SAS (Regular) and 21/23 SAS (Reserve), each squadron subdivided into four 16-man troops specialising in boat, air, mobility or mountain warfare. A dedicated Counter Terrorist Wing trains continuously for hostage-rescue and CQB tasks, rotating every six months. Selection, open since 2018 to women, is a multi-phase ordeal (aptitude, jungle, combat survival, RTI) that eliminates ~90 % of candidates and has produced more training fatalities than combat deaths in recent years.\n\n**Keywords**: SAS, special forces, counter-terrorism, selection, global influence",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_1",
+      "summary": "**Title**: 1993 Tehran Mid-Air Collision\n\n**Summary**:  \nOn 8 February 1993, Iran Airtour Flight 962, a Tupolev Tu-154 with 131 people on board, collided mid-air with an Iranian Air Force Sukhoi Su-24 near Tehran, killing everyone on both aircraft. The Tu-154 was climbing to 6,000 ft after takeoff while five Su-24s, preparing for a ceremonial flypast, were descending to land under visual flight rules. An air-traffic controller cleared the airliner to climb without informing either crew of the converging traffic; one Su-24 drifted off assigned altitude and turned into the Tupolev’s path. Both aircraft crashed into an army depot at Shahr-e Qods. Investigators blamed the controller for permitting simultaneous climb/descent and the military pilots for altitude deviation.\n\n**Keywords**: Tehran mid-air collision, Iran Airtour Flight 962, Sukhoi Su-24, air-traffic control error, 1993 aviation disaster",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_1",
+      "summary": "**Title**: 2009 Iranian AWACS Crash\n\n**Summary**: On 22 September 2009, Iran’s sole airborne early-warning aircraft, an Il-76MD Adnan 2 (“Simorgh”), crashed during a military-parade flyby over Tehran, killing all seven crew members. Conflicting accounts blame either a mid-air collision with an F-5E/Saeqeh fighter or the detachment of its radome while the crew attempted an emergency landing after an engine fire. The loss eliminated Iran’s only operational AWACS platform, significantly degrading its aerial surveillance capability.\n\n**Keywords**: Il-76MD Adnan 2, Iranian AWACS, 2009 Tehran crash, mid-air collision, radome failure",
+      "is_seed": false,
+      "expand_score": 0.8762824535369873
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "summary": "**Title**: VAQ-138 EA-6B/EA-18G Deployments\n\n**Summary**: Electronic Attack Squadron VAQ-138 repeatedly deployed from NAS Whidbey Island across the Western Pacific, Korea, Guam, Japan, Iraq, and Afghanistan between 2002 and 2018. After pioneering the EA-6B Block 89A and ICAP III upgrades, the squadron flew hundreds of combat sorties over Iraq and Afghanistan, logging more than 1,700 flight hours with a 96% sortie-completion rate during 2007 WESTPAC. Transitioning to the EA-18G Growler in 2010, the squadron shifted to land-based rotations in Iraq, Japan, the Philippines, and Guam, participating in exercises Foal Eagle, VALIANT SHIELD, and multiple RED FLAG iterations while supporting joint operations across PACOM.\n\n**Keywords**: VAQ-138, EA-6B, EA-18G, WESTPAC, combat sorties",
+      "is_seed": false,
+      "expand_score": 0.846243679523468
+    },
+    {
+      "community_key": "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_1",
+      "summary": "**Title**: Iran Airtour Airline Profile\n\n**Summary**: Iran Airtour, founded in 1973 as a subsidiary of Iran Air and privatized in 2016, is a Mashhad-based Iranian carrier operating domestic and international scheduled and charter flights. The airline’s fleet comprises Airbus A300-600 and McDonnell Douglas MD-82 aircraft, and it recently gained access to European airspace, launching Tehran–Paris service in early 2025. Between 1993 and 2006 the company suffered three fatal Tu-154 accidents that claimed a total of 268 lives, but it has since pursued safety certifications including IATA’s IOSA. With over 1,300 employees, Iran Airtour also holds an aviation training license and plans new European routes to Germany, Spain, and Italy.\n\n**Keywords**: Iran Airtour, Iranian airline, fatal accidents, European flights, IOSA certification",
+      "is_seed": false,
+      "expand_score": 0.8232297301292419
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "summary": "**Title**: VAQ-138 Yellow Jackets Squadron History\n\n**Summary**: Electronic Attack Squadron 138 (VAQ-138), the \"Yellow Jackets,\" is a U.S. Navy EA-18G Growler squadron based at NAS Whidbey Island, Washington. Established in 1976, it has flown EA-6B Prowlers and now Growlers, deploying on carriers such as USS Nimitz and USS John C. Stennis. The squadron has supported major operations from Libya airstrikes and Desert Storm to Kosovo’s Operation Allied Force, firing over 60 HARM missiles, and post-9/11 missions in Enduring Freedom and Anaconda.\n\n**Keywords**: VAQ-138, Yellow Jackets, EA-18G Growler, HARM missile, NAS Whidbey Island",
+      "is_seed": false,
+      "expand_score": 0.8206280469894409
+    },
+    {
+      "community_key": "HotpotQA-validation-00005813/02_1955-Cincinnati-mid-air-collision.html_1",
+      "summary": "**Title**: 1955 Cincinnati Mid-Air Collision\n\n**Summary**: On January 12, 1955, Trans World Airlines Flight 694 collided mid-air with a private Douglas DC-3 shortly after takeoff from Boone County Airport, killing all aboard both aircraft. The DC-3 had entered controlled airspace without clearance or radio contact, and its left wing was struck by the climbing Martin 2-0-2, severing the latter’s right wing and causing both planes to crash two miles apart. Investigators blamed the DC-3’s unauthorized entry into the traffic zone, while TWA later filed a $2 million lawsuit against the Castleton Corporation that owned the private aircraft.\n\n**Keywords**: mid-air collision, 1955 Cincinnati, TWA Flight 694, airspace violation, aviation safety",
+      "is_seed": false,
+      "expand_score": 0.8117973804473877
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "summary": "**Title**: VAQ-138 Global Deployments & Exercises  \n\n**Summary**:  \nElectronic Attack Squadron 138 (VAQ-138, “Rampaging Yellow Jackets”) maintained an intensive 2018-2020 operational tempo, repeatedly deploying from Whidbey Island to Misawa, Japan as its forward hub. The EA-18G unit cycled through major Indo-Pacific exercises—MALABAR, VALIANT SHIELD, KEEN SWORD, Cope North—integrating with JASDF, RAAF, USAF and USMC for large-force SEAD training in Guam, South Korea and Japan. Between deployments, the squadron conducted three Fallon detachments for missile shoots and GTI support, plus Alaska red-flag and Idaho Gunfighter Flag events, culminating in a home-base HARM shot milestone.  \n\n**Keywords**:  \nVAQ-138, Misawa, Indo-Pacific exercises, EA-18G, SEAD",
+      "is_seed": false,
+      "expand_score": 0.791103720664978
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "HotpotQA-validation-00001951/03_ask-Air-Base.html_0",
+      "HotpotQA-validation-00005554/02_Federal-Correctional-Complex-Victorville.html_0",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_3",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_1",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_9",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_5",
+      "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "HotpotQA-validation-00004078/01_Special-Air-Service.html_8",
+      "HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_1",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_1",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "HotpotQA-validation-00005813/02_1955-Cincinnati-mid-air-collision.html_1",
+      "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001951/00_41st-Tactical-Squadron.html_0",
+      "HotpotQA-validation-00001951/02_23rd-Air-Base.html_0",
+      "HotpotQA-validation-00001951/03_ask-Air-Base.html_0",
+      "HotpotQA-validation-00005554/02_Federal-Correctional-Complex-Victorville.html_0",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_3",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_1",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_9",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_9",
+      "HotpotQA-validation-00005554/01_George-Air-Force-Base.html_15",
+      "HotpotQA-validation-00001951/01_Mikoyan-MiG-29.html_5",
+      "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "HotpotQA-validation-00000927/02_VFA-2.html_3",
+      "HotpotQA-validation-00004078/01_Special-Air-Service.html_8",
+      "HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_1",
+      "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_1",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_3",
+      "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_1",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_2",
+      "HotpotQA-validation-00005813/02_1955-Cincinnati-mid-air-collision.html_1",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1"
+    ],
+    "allowed_chunk_pool_size": 69,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

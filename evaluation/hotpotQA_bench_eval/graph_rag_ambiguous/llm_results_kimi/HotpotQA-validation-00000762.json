@@ -1,0 +1,344 @@
+{
+  "id": "HotpotQA-validation-00000762",
+  "question": "Which Japanese automaker, headquartered in the Minato ward of the capital, came under the controlling ownership of a rival domestic manufacturer following a financial crisis in the mid-2010s?",
+  "gold_answer": "Mitsubishi",
+  "llm_answer": "Mitsubishi Motors, headquartered in Minato, Tokyo, came under Nissan’s controlling ownership after Nissan acquired a 34 % stake in 2016 following the fuel-economy scandal that exposed Mitsubishi’s fraudulent testing data.",
+  "context": [
+    {
+      "text": "Mitsubishi Motors Corporation ( 三菱自動車工業株式会社 , Mitsubishi Jidōsha Kōgyō KK ; lit. ' Three Diamonds Automotive Industry Company ' , / m ɪ t s ʊ ˈ b iː ʃ i / , Japanese pronunciation: [mitsɯꜜbiɕi] ) is a Japanese multinational automobile manufacturer headquartered in Minato, Tokyo , Japan. In 2011, Mitsubishi Motors was the sixth-largest Japanese automaker and the 19th-largest worldwide by production. Since October 2016, Mitsubishi has been one-third (34%) owned by Nissan , and included in the Renault–Nissan–Mitsubishi Alliance . Besides being part of the Renault–Nissan–Mitsubishi Alliance, it is also a part of Mitsubishi keiretsu , formerly the biggest industrial group in Japan. The company was originally formed in 1970 from the automotive division of Mitsubishi Heavy Industries . Mitsubishi Fuso Truck and Bus Corporation , which builds commercial-grade trucks, buses, and heavy construction equipment, was formerly a part of Mitsubishi Motors, but is now owned by German automotive corporation Daimler Truck , with Mitsubishi continuing to own a small stake. History Workers at Mitsubishi Shipbuilding Co., Ltd, alongside one of the prototype Mitsubishi Model A automobiles (1917) Mitsubishi's automotive origins date back to 1917, when the Mitsubishi Shipbuilding Co., Ltd., introduced the Mitsubishi Model A , Japan's first series-production automobile. An entirely hand-built seven-seater sedan based on the FIAT Tipo 3 , it proved expensive compared to its American and European mass-produced rivals, and was discontinued in 1921 after only 22 had been built. In 1934, Mitsubishi Shipbuilding was merged with the Mitsubishi Aircraft Co., a company established in 1920 to manufacture aircraft engines and other parts. The unified company was known as Mitsubishi Heavy Industries (MHI), and was the largest private company in Japan. MHI concentrated on manufacturing aircraft , ships , railroad cars and machinery, but in 1937 developed the PX33 , a prototype sedan for military use. It was the first Japanese-built passenger car with full-time four-wheel drive , a technology the company would return to almost 50 years later in its quest for motorsport and sales success. A 1937 Mitsubishi PX33 on display at the Mondial de l'Automobile in September 2006 Post-World War history Logo of Mitsubishi Motors from 1983 to 2017 Immediately following the end of the Second World War , the company returned to manufacturing vehicles. Fuso bus production resumed, while a small three-wheeled cargo vehicle called the Mizushima and a scooter called the Silver Pigeon were also developed. However, the zaibatsu (Japan's family-controlled industrial conglomerates) were ordered to be dismantled by the Allied powers in 1950,",
+      "id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_c_0",
+      "doc_id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html",
+      "community_id": 9,
+      "score": 37.826992
+    },
+    {
+      "text": "German manufacturer Volkswagen were used for some of its mid-sized cars, such as the Lancer , Grandis , and Outlander . From 2010, they were superseded with Mitsubishi's self-developed 4N1 diesel engines. 2006–2024: Chinese joint ventures As of 2006, Mitsubishi had four joint ventures with Chinese partners: South East (Fujian) Motor Co Ltd Shenyang Aerospace Mitsubishi Motors Engine Manufacturing Co Ltd Harbin Dongan Automotive Engine Manufacturing Co Ltd – a subsidiary of Harbin Hafei Automobile Industry Group Co Ltd Hunan Changfeng Motor Co Ltd – a subsidiary of Chang Feng (Group) Co Ltd 2010–present: Nissan, Renault–Nissan–Mitsubishi In December 2010, Mitsubishi and Nissan agreed to form a joint venture (later named \" NMKV Co., Ltd.\") to develop kei cars for the Japanese market. In 2016, Nissan uncovered evidence that Mitsubishi's fuel-economy testing numbers were erroneous and had been erroneous since the start of the venture, affecting 625,000 cars produced by NMKV. The result of the \"fuel economy scandal\" was that Nissan acquired a controlling interest in Mitsubishi. 2024–present: Nissan and Honda alliance In July 2024, Mitsubishi Motors and Nissan announced a partnership with Honda for the joint development of their future electric models. On 23 December 2024, Honda officially announced an MOU had been entered to merge with Japanese car company Nissan to become the 3rd largest auto company by sales. Mitsubishi Motors, in which Nissan has 24% ownership, also agreed to join the talks of integration. In mid February 2025, Nissan, Honda, and Mitsubishi ended talks due to the talks shifting to Nissan becoming a subsidiary of Honda, which Nissan refused as it wouldn't have allowed the potential of Nissan to be realized. Despite this, Nissan, Honda, and Mitsubishi will continue forward with the partnership formed in July 2024. Japan sales channels A Mitsubishi Motors dealer in Akita Mitsubishi Motors maintained two retail sales channels that sold specific models, called \"Car Plaza\" and \"Galant Shop\". Certain models were exclusive to either channel, while some models were available at both channels, as required by local Japanese market conditions. More recently, [ when? ] due to cancellation of larger sedans, the sales channels have been combined into one franchise that sells all models, including kei cars and commercial delivery vehicles.  Historical troubles Asian economic downturn The benefits Mitsubishi Motors had seen because of its strong presence in Southeast Asia reversed themselves as a result of the economic crisis in the region , which began in 1991 with the advent of the collapse of the Japanese asset price bubble , referred to in Japan as the beginning of the Lost Decade and continued to 1997. The collapse was partly the result of the Plaza Accord agreement in 1985, which sought to equalize the United States dollar with the Japanese yen",
+      "id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_c_9",
+      "doc_id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html",
+      "community_id": 9,
+      "score": 27.309866
+    },
+    {
+      "text": "Alliance logo The Renault–Nissan–Mitsubishi Alliance , originally known as the Renault–Nissan Alliance , is a French-Japanese strategic alliance between the automobile manufacturers Renault (based in Boulogne-Billancourt , Île-de-France , France), Nissan (based in Yokohama, Kanagawa , Japan) and Mitsubishi Motors (based in Minato, Tokyo , Japan), which together sell more than one in nine vehicles worldwide. Renault and Nissan have been strategic partners since 1999, have nearly 450,000 employees, and control eight major brands: Renault, Nissan, Mitsubishi, Infiniti , Renault Korea , Dacia , Alpine , and Venucia . The car group sold 10.6 million vehicles worldwide in 2017, making it the leading light vehicle manufacturing group in the world. The Alliance adopted its current name in September 2017, one year after Nissan acquired a controlling interest in Mitsubishi and subsequently made Mitsubishi an equal partner in the Alliance. As of December 2021 [update] , the Alliance is one of the world's leading electric vehicle manufacturing groups, with global sales of over 1 million light-duty electric vehicles since 2009. The top selling vehicles of its EV line-up are the Nissan Leaf and the Renault Zoe all-electric cars . The strategic partnership between Renault, Nissan and Mitsubishi is not a merger or an acquisition. The three companies are joined through a cross-sharing agreement. The structure was unique in the auto industry during the 1990s consolidation trend and later served as a model for General Motors and the PSA Group , as well as the Volkswagen Group and Suzuki , though many of these capital alliances failed or only lasted for a few years. The Alliance itself has broadened its scope substantially, forming additional partnerships with automakers including Germany's Daimler and China's Dongfeng . Following the November 2018 arrest and imprisonment of Alliance chairman and CEO Carlos Ghosn , accompanied by his dismissal from the alliance and its components, press analysts have questioned both the stability of the Alliance's shareholding agreement and its long-term existence. These analysts also note that, because the companies' recent business strategies are interdependent, attempts to restructure the Alliance could be counter-productive for all of the members. In January 2023, Renault and Nissan moved to restructure their alliance in order to recover from Ghosn's arrest and manage through a post-Covid economy. The primary objective was to give both companies more autonomy. Corporate structure and strategy The Alliance is a strategic partnership based on the rationale that, due to substantial cross-shareholding investments, each company acts in the financial interest of the other—while maintaining individual brand identities and independent corporate cultures. For many years, Renault had a 43.4% voting stake in Nissan and Nissan held a 15% non-voting stake in Renault, effectively giving Renault control. In 2023, Renault reduced its 43.3% voting",
+      "id": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_c_0",
+      "doc_id": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html",
+      "community_id": 10,
+      "score": 20.028095
+    },
+    {
+      "text": "Yangtze River Pharmaceutical Group ( Chinese : 扬子江药业集团 , YRPG) is a Chinese multinational pharmaceutical corporation headquartered in Taizhou, Jiangsu Province in the People's Republic of China , and with its research headquarters in Shanghai . It is one of the Asia's largest pharmaceutical companies by revenues , and was listed in 2014 as being China's second largest pharmaceutical manufacturer, and leading company for technological and entrepreneurial innovation. History Founded in 1971, the Yangtze River Pharmaceutical Group started as a local firm providing drugstores and hospitals with vitamin supplements and pain medication . In a prime location between the major cities of Shanghai , Suzhou , and Hangzhou , the YRPG quickly expanded its business profile. The group has experienced significant growth in the past decade, having quadrupled their net income between 2003 and 2010. In the fiscal year 2014, board shareholders received a record 560% return on investment, and company assets rapidly expanded. Family With the company's quickly rising profile, founder Xu Jingren and his extended family—who jointly own a controlling stake in the corporation—have made a number of significant business acquisitions. Collectively, they are believed to be worth up to USD $7.5 billion. In addition to his role as president and primary shareholder of YRPG, Xu Jingren is a member of the National People's Congress and serves as an honorary minister in the Ministry of Health . He has been recognized as a leading proponent of industrial modernization, worker's rights, and governmental reform within the Chinese Communist Party . References",
+      "id": "HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html_c_0",
+      "doc_id": "HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html",
+      "community_id": 0,
+      "score": 17.568905
+    },
+    {
+      "text": "PSA Peugeot Citroën , now part of Stellantis , ceased production in April 2022. Leadership Yuji Sato (1970–1973) Tomio Kubo (1973–1979) Yoshitoshi Sone (1979–1981) Masao Suzuki (1981–1983) Toyoo Tate (1983–1989) Hirokazu Nakamura (1989–1995) Nobuhisa Tsukamura (1995–1996) Takemune Kimura (1996–1997) Katsuhiko Kawasoe (1997–2000) Takashi Sonobe (2000–2002) Rolf Eckrodt (2002–2004) Yoichiro Okazaki (2004) Hideyasu Tagaya (2004–2005) Osamu Masuko (2005–2020) Takao Kato (2020–present) See also Companies portal Urawa Red Diamonds Mitsubishi Motors Mizushima F.C. Automotive industry in Japan References External links Wikimedia Commons has media related to Mitsubishi Motors . Official website",
+      "id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_c_17",
+      "doc_id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html",
+      "community_id": 16,
+      "score": 16.805298
+    },
+    {
+      "text": "opened a production facility in the United States in Normal, Illinois. The facility was known as Diamond-Star Motors, and was initially a joint venture with Chrysler, but Chrysler sold its stake in the plant to Mitsubishi in 1993. After 1995, the facility was known as Mitsubishi Motors Manufacturing America (MMMA). At its peak in 2000, the facility produced over 222,000 vehicles per year, but following the decline of Mitsubishi Motors in North America, the plant operated well below capacity for years. In July 2015, Mitsubishi Motors announced that it would close the plant by November, but would continue to sell automobiles in North America. In 2014, the plant had produced just 69,000 vehicles, roughly one-quarter of its capacity. Production at the plant ended on 30 November 2015, and most of the employees were laid off. The plant continued to operate with a minimal staff to produce replacement parts until May 2016, after which it closed permanently. Withdrawal from UK market Mitsubishi Motors announced that the company would leave the UK market due to financial reasons by autumn 2021. Since then, Mitsubishi's British presence is limited to aftersales service. Withdrawal from Chinese market Mitsubishi Motors announced its withdrawal from its joint venture GAC Mitsubishi in the Chinese market in October 2023. As part of this exit, GAC Group will take over GAC Mitsubishi's plant in Changsha to produce GAC Aion electric vehicles. This did not affect the Shenyang Aerospace-Mitsubishi Motors engine manufacturing joint venture, which continued production to supply engines to local Chinese automakers and provide aftersales service for Mitsubishi vehicles. After being established in 1997 and beginning production in 1998 to produce engines for Mitsubishi vehicles and to prominently supply at the time fledgling local Chinese automakers, Mitsubishi announced that it was exiting the Shenyang Aerospace-Mitsubishi Motors Engine Manufacturing joint venture on 22 July 2025. Mitsubishi stated that it made the decision due to the Chinese auto industry's rapid shift to electric vehicle, and it marks the complete exit of the company from the Chinese market. Fuel economy scandal In early 2016, Mitsubishi Motors partner Nissan found discrepancies between Mitsubishi information and actual fuel consumption while working in new micro (kei) cars for both companies, the eK Wagon, eK Space, Nissan Dayz, and Nissan Dayz Roox. At the time, Mitsubishi Motors manufactured micro cars for Nissan, which had never produced that class of vehicle itself. Mitsubishi Motors admitted that they had been giving incorrect information on fuel consumption from 2002 onwards, using inaccurate test methods. Later, the company said it used fuel-economy testing methods that did not comply with Japanese regulations for 25 years, much longer than previously known. Mitsubishi Motors management said they were unaware about the issue and that the incorrect information came from the micro car development department, NMKV . They ordered an investigation led by investigators",
+      "id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_c_12",
+      "doc_id": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html",
+      "community_id": 9,
+      "score": 16.427454
+    },
+    {
+      "text": "to one of its founders, Richard Lake, in May 2019. Eastern Airways and Flybe franchise An Eastern BAe Jetstream 41 , operated for Flybe It was announced on 21 September 2017 that Eastern Airways would enter a franchise with Flybe, starting on 29 October 2017. The franchise saw all scheduled flights operated by Eastern Airways carry BE (Flybe) flight numbers. Following Loganair's decision to end its partnership with Flybe, to remain on multiple markets flyBe announced a significant expansion onto routes also operated by Loganair using Eastern Airways to operate the services, largely targeting the Scottish Highlands , including introduction jet service into Sumburgh for the first time as part of the operating plan flyBe contracted Eastern Airways to provide. The last of these new routes was dropped by the end of 2018, citing a lack of demand for two competing airlines given capacity had doubled on many with a static market size. 2020s On 5 March 2020, Flybe entered administration and ceased operations, resulting in Eastern Airways resuming flying under its own brand. Seeking to take advantage of Flybe's demise, the airline announced the opening of a base at Southampton , where Flybe had operated 95% of the airport's flights, with new routes to Manchester and Newcastle, eventually being joined by Belfast City and Dublin , along with pre-existing service to Aberdeen, Leeds Bradford and Teesside . The routes from Manchester were subsequently cancelled. In May 2021, Eastern commenced flying to Gibraltar for the first time, with services from both Birmingham and Southampton airports, however cancelled both routes a year later as international travel remained in slow recovery post Covid-19. The airline also commenced service between Cardiff and Belfast City, seeking to fill another gap left by Flybe's collapse, but suspended the route in early 2022 after the Welsh Government decided to permanently cancel the PSO service between Cardiff and Anglesey suspended during Covid-19, thus rendering the airline's Cardiff base unviable as a single route operation. PSO contracts Eastern Airways had previously operated the Welsh Government PSO service between Cardiff Airport and Anglesey Airport from 2015 until the government removed funding for the service in 2022 and did not reopen the north–south connection to the capital post Covid-19. In December 2021, Eastern Airways was awarded the PSO contract to operate a service between Newquay and London Gatwick which between 2021 and 2024 saw the growth of passenger volumes back to over 85,000 annually between Cornwall and London. Additionally in April 2022 Eastern Airways were awarded another PSO contract in Scotland to operate services between Aberdeen and Wick . The service was the only scheduled flight into Wick, operated by the Scottish Government / Transport Scotland via Highlands and Islands Airports , with the aim of revitalising air travel from the remote region. Both these PSOs remain operated in 2025 on the",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_2",
+      "doc_id": "HotpotQA-validation-00006099/00_Eastern-Airways.html",
+      "community_id": 3,
+      "score": 15.892844
+    },
+    {
+      "text": "Crossroads ( 十字路 , Jūjiro ) , also known as Crossways , Shadows of the Yoshiwara or Slums of Tokyo , is a 1928 silent Japanese drama film directed by Teinosuke Kinugasa . It is believed to be the first or one of the first Japanese films to be screened in Europe, and often mentioned in conjunction with Kinugasa's other avant-garde film , the two years earlier A Page of Madness . Plot A young man is obsessed with courtesan O-ume, but she refuses to meet him anymore, finding him too persistent. During a fight, the young man seemingly kills his rival, and is himself blinded. He hides in the flat which he shares with his sister, not knowing that the rival's death was only staged. A man approaches the sister, pretending to be a policeman who can help her to clear her brother from the charges with money. Also, a doctor whom the sister consults declares that her brother's eyes can be cured, but only if she can pay him. To collect the money, she offers herself as a prostitute to a procuress. When the alleged policeman attempts to rape the sister, she stabs him. Meanwhile, the brother has regained his eyesight on his own, goes to O-umes house and dies under her window, foaming from the mouth and ridiculed by O-ume and his rival. The last scene shows the sister standing at a crossway, calling in vain for her brother. Cast Akiko Chihaya as the sister Junosuke Bando as the brother Yukiko Ogawa as O-ume, the courtesan Minoru Takase as the policeman (as Ippei Sōma) Misao Seki as the landlord Yoshie Nakagawa as the procuress Teruko Nijō as the wrong woman Keinosuke Sawada as the rival (as Myoichiro Ozawa) Release history Crossroads was released in Japan on 11 May 1928. It was first screened in London on 26 January 1930 as Crossways and shown in New York in July of the same year as Slums of Tokyo . While favourably received by critics in Berlin and Paris, the New York Times critic stated, the film \"possesses the virtue of sincerity but its tempo is too heavy\". In later years, film historians repeatedly commented on the influence of the German expressionist film on Crossroads , in particular the works of Fritz Lang . Legacy Crossroads was screened at the Berkeley Art Museum and Pacific Film Archive in 1983, at the International Film Festival Rotterdam in 2000, at the San Francisco Silent Film Festival in 2008 and at the Berlin International Film Festival in 2014. It was included in the British Film Institute 's \"The best Japanese film of every year – from 1925 to now\" list. References External links Crossroads at IMDb Crossroads is available for free",
+      "id": "HotpotQA-validation-00002795/02_Jujiro.html_c_0",
+      "doc_id": "HotpotQA-validation-00002795/02_Jujiro.html",
+      "community_id": 1,
+      "score": 15.49305
+    },
+    {
+      "text": "at its facility at Nissan's Zama plant in Kanagawa Prefecture where annual capacity is 65,000 units. Globally, Alliance battery production capacity is expected to be 500,000 units a year by the end of 2013. Other Alliance battery production sites, announced in 2009, include France, Portugal, the UK and the U.S. The Alliance has created partnerships with more than 100 public and private organizations to create consumer buying incentives and EV infrastructure investment. The Alliance also partnered with Better Place . After implementing the first modern commercial deployment of the battery swapping model in Israel and Denmark, Better Place filed for bankruptcy in Israel in May 2013. Global sales Renault's Zero-Emissions (Z.E.) badge Combined sales of Renault and Nissan models achieved the sales milestone of 400,000 all-electric vehicles delivered globally in January 2017. Groupe Renault global electric vehicle sales passed the 100,000 unit milestone in September 2016, with Zoe sales representing 54%, the Kangoo Z.E. with 24%, and the Twizy with 18%. Nissan global electric vehicle sales passed 275,000 units in December 2016. By the end of December 2017, the Alliance achieved the sales milestone of more than 500,000 electric vehicles delivered globally, including those manufactured by Mitsubishi Motors , now part of the Alliance, and ranked as the world's top selling all-electric vehicle manufacturer. As of December 2021 [update] , the Renault–Nissan–Mitsubishi Alliance continued to be one of the world's leading all-electric vehicle manufacturers, with all-electric global sales totaling over 1 million light-duty electric vehicles, including those manufactured by Mitsubishi Motors since 2009. The Alliance listed as the world's leading all-electric vehicle manufacturer until surpassed in early 2020 by Tesla , with about 900,000 electric cars. The Nissan Leaf is the Alliance's best selling electric car, with global sales of over 470,000 units by May 2020, and listed as the all-time top selling electric car until 2019. Nissan leads global sales within the Alliance, with about 500,000 cars and vans sold by April 2020, followed by the Groupe Renault with more than 273,550 electric vehicles sold worldwide through December 2019. Mitsubishi's only all-electric vehicle is the i-MiEV , with global sales of over 50,000 units by March 2015, accounting for all variants of the i-MiEV, including the two Minicab MiEV versions sold in Japan. The Alliance best selling Nissan Leaf was the world's top selling plug-in electric car in 2013 and 2014. Until 2019, the Nissan Leaf was the world's all-time top selling highway legal electric car with global sales of almost 450,000 units by the end of 2019. The Tesla Model",
+      "id": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_c_6",
+      "doc_id": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html",
+      "community_id": 2,
+      "score": 15.303255
+    },
+    {
+      "text": "Eastern Airways was a British regional airline headquartered at Humberside Airport near the village of Kirmington , North Lincolnshire , England. The airline operated domestic, international and private charter flights. Around 1,300,000 passengers flew with the airline per rolling year including on services for KLM Cityhopper, charter operations, and government subsidised public service obligation (PSO) services which would otherwise be commercially unfeasible. The airline had its own hubs in Aberdeen and Humberside . Air Kilroe held a United Kingdom Civil Aviation Authority Type A Operating Licence. It was permitted to carry passengers, cargo and mail on aircraft with 20 or more seats and was IOSA approved. History Early years Co-founded by Bryan Huxford and Richard Lake, the airline started operations in December 1997 with a scheduled route between Humberside and Aberdeen with a leased Swearingen Metro , following KLM UK's withdrawal from the route. In February 1999, it purchased Manchester based Air Kilroe , thereby acquiring an air operator's certificate and a fleet of two BAe Jetstream 32 aircraft. In 2002, the first BAe Jetstream 41 entered the Eastern fleet, the aircraft type which formed the majority of the fleet up until the airline ceased operations. 12 aircraft and their associated routes were transferred from British Airways CitiExpress on 30 March 2003. An Embraer 145 and 135 were also wet-leased from City Airline in 2003, which were then replaced with Saab 2000 aircraft, which peaked at 8 being operated by 2013 including acquisitions from Crossair and other European carriers. In 2006, Eastern Airways wet-leased a Dornier 328 from Cirrus Airlines for six months to operate a Newcastle to London City service before switching this onto the BAe Jetstream 41. Eastern Airways also purchased a Jetstream 41 training simulator . As part of One NorthEast 's \"Passionate People Passionate Places\" campaign for North East England , Eastern Airways had a Jetstream 41 painted in promotional colours. It also featured in the 2007 Sunderland International Airshow . A Saab 2000 was also painted in a promotional 'Aberdeen City and Shire' colour scheme. The airline shut down its hub at the Isle of Man in August 2009, discontinuing routes to Birmingham and Newcastle from the airport. 2010s In July 2010, the airline took delivery of an Embraer 135 with 37 seats and signed a lease on a second, thus adding jet aircraft to their fleet for the first time since the acquisition to replace their previously operated Embraer ERJ aircraft. They were to be used mainly on charter services to central and Eastern Europe; however, they also offered increased flexibility on the airline's scheduled flights. In July 2010, the airline named one of their BAe Jetstream 41 aircraft",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_0",
+      "doc_id": "HotpotQA-validation-00006099/00_Eastern-Airways.html",
+      "community_id": 3,
+      "score": 14.944918
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html_0",
+      "summary": "**Title**: Yangtze River Pharmaceutical Group\n\n**Summary**: Yangtze River Pharmaceutical Group (YRPG), founded in 1971 in Taizhou, Jiangsu, has grown into one of Asia’s largest pharma firms by revenue and China’s second-largest drug manufacturer. Initially supplying vitamins and painkillers to local hospitals, the company leveraged its strategic location near Shanghai, Suzhou, and Hangzhou to quadruple net income from 2003-2010 and deliver a 560% ROI to shareholders in 2014. Founder Xu Jingren and his family retain controlling ownership—an estimated USD 7.5 billion stake—while Xu holds political posts including NPC member and honorary health minister, championing industrial modernization and workers’ rights.\n\n**Keywords**: Yangtze River Pharmaceutical, Xu Jingren, Chinese pharma, Taizhou Jiangsu, family-controlled conglomerate",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/03_Prince-Motor-Company.html_3",
+      "summary": "**Title**: Prince Motor Company Legacy  \n\n**Summary**:  \nPrince Motor Company evolved from wartime aircraft maker Tachikawa into a premium Japanese automaker whose Skyline and Gloria lines became Nissan cornerstones after the 1966 merger. It pioneered Japan’s first electric car (Tama, 1946), entered European rallying with factory Skylines in 1962, and fielded concept cars like the 1956 BNSJ and 1963 Sprint. Post-merger, its name survived inside Nissan’s dealer network until 1999, while its rear-drive platforms and performance DNA lived on in later Nissan/Infiniti models.  \n\n**Keywords**: Prince Skyline, Nissan merger, Tama electric car, Fuji Precision Industries, Japanese automotive history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_1",
+      "summary": "**Title**: Adelaide Lightning History  \n\n**Summary**:  \nThe Adelaide Lightning, formed in 1993, are a cornerstone of Australia’s Women’s National Basketball League (WNBL), based in Adelaide, South Australia. The club dominated the mid-1990s, winning three consecutive titles (1994-96) and a fourth in 1998, with Olympic star Rachael Sporn as captain. After private ownership changes and a 2008 championship, the team faced financial instability, multiple licence transfers, and a 2025 expulsion threat. A last-minute South Australian Government rescue package in May 2025 secured the franchise, funding a league-run team and relocating home games to the State Basketball Centre in Wayville for the 2025-26 season.  \n\n**Keywords**:  \nWNBL, Rachael Sporn, Adelaide Lightning, ownership changes, State Basketball Centre",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/02_List-of-companies-of-India.html_0",
+      "summary": "**Title**: India’s Corporate Landscape  \n\n**Summary**:  \nIndia, the world’s most populous democracy and fifth-largest economy by nominal GDP, hosts a dynamic mix of Fortune Global 500 giants and nationally headquartered conglomerates spanning telecom, IT, manufacturing and services. Post-1991 market reforms accelerated growth, turning the country into a newly industrialised, fast-expanding major economy. The list highlights top revenue-earning firms and notable domestic companies—both active and defunct—classified under the Industry Classification Benchmark, while pointing to related initiatives such as Digital India, Make in India and Brand India that shape the broader business ecosystem.  \n\n**Keywords**: Fortune Global 500, conglomerates, economic reforms, Digital India, Make in India",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005205/01_David-Rockefeller.html_1",
+      "summary": "**Title**: David Rockefeller Biography & Banking Legacy  \n\n**Summary**:  \nDavid Rockefeller (1915-2017), economist and Chase Manhattan chairman, expanded the family bank into a global financial powerhouse while cultivating elite political and corporate networks. Educated at Harvard, LSE and Chicago, he served in WWII intelligence before joining Chase National in 1946, becoming president in 1960 and CEO/chairman 1969-1981. Under his leadership Chase opened the first U.S. bank branch in Moscow (1973) and became the first correspondent bank for China’s central bank, while controlling stakes in 16 major corporations. His life is documented in numerous biographies and studies on the Rockefeller dynasty, American financial supremacy and establishment networks.  \n\n**Keywords**: David Rockefeller, Chase Manhattan, Rockefeller family, global banking, American establishment",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005840/00_Crossed-comics.html_13",
+      "summary": "**Title:** Crossed Comic Story Arcs  \n\n**Summary:**  \nThese chunks summarize multiple serialized arcs from Avatar Press’s *Crossed* franchise, a post-apocalyptic horror comic in which a pandemic turns people into homicidal \"Crossed.\" Key arcs include:  \n- *The Fatal Englishman* (issues #25–28), where four UK soldiers attempt to weaponize biowarfare against the Crossed but ultimately sacrifice themselves.  \n- *Quisling* (#29–32), following an anthropologist who collaborates with a hyper-intelligent \"Super-Crossed\" named Smokey before betraying him.  \n- *Breakdown* (#33–36), depicting Amanda’s descent into madness as she loses her delusional support system.  \n- *American Quitters* (#37–39), tracking a hippy–biker duo and a pregnant woman seeking sanctuary, all dying futilely.  \n- *Gore Angels* (#40–43), exploring an abused Japanese artist whose violent manga foreshadows the outbreak.  \n- *Grave New World* (#44–49), where Coast Guardsmen face pirates and internal collapse while searching for an island refuge.  \n- *The Thin Red Line* (#50–56), a prequel showing the British government’s futile containment efforts.  \n- Later arcs (*Five Bloody Fingers*, *Homo Tortor*, *+100*) examine Japanese survivors, a proposed prehistoric origin for the virus, and humanity’s regrowth a century later under threat of engineered \"Super-Crossed.\"  \n\n**Keywords:**  \nCrossed, post-apocalyptic, Super-Crossed, story arcs, survival horror",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002459/02_Krones.html_2",
+      "summary": "**Title**: Krones AG Beverage Packaging Systems\n\n**Summary**:  \nKrones AG is a German manufacturer that supplies complete packaging and bottling lines for the beverage industry, including PET bottle stretch-blow molders, fillers, labelers, pasteurizers, and palletizers. Since its 1951 founding as a semi-automatic labeler workshop, the company has grown through acquisitions—e.g., Anton Steinecker (1983), Sander Hansen (2000), Gernep (2015)—into a global turnkey supplier for breweries, dairies, and soft-drink producers. Headquartered in Neutraubling, Germany, Krones now operates production sites across Germany and Hungary, employs ~11,300 people, and earns >90 % of revenue abroad while holding nearly 5,900 patents.\n\n**Keywords**: beverage packaging, PET bottling, Krones AG, filling lines, global supplier",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007157/00_University-of-Rochester.html_11",
+      "summary": "**Title**: University of Rochester History & Identity\n\n**Summary**:  \nThe University of Rochester evolved from a mid-20th-century financial powerhouse—once third in endowment behind Harvard and the UT System—into a selective, resource-rich institution after mismanagement and investment declines triggered sweeping reforms. A 1980s proposal to rebrand as “Eastman University” was abandoned amid local backlash, and the subsequent “Renaissance Plan” shrank enrollment, revamped the curriculum, and nearly eliminated several doctoral programs before public outcry saved mathematics. Between 2005-2015 the $1.2 billion Meliora Challenge campaign added endowed chairs, scholarships, and major campus facilities, positioning the university for 21st-century growth while retaining its historic name and “ever better” motto.\n\n**Keywords**:  \nendowment crisis, Renaissance Plan, Meliora Challenge, name-change controversy, campus expansion",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_9",
+      "summary": "**Title:** Japanese Defense of Guam 1944\n\n**Summary:**  \nIn mid-1944, Japanese forces on Guam, totaling about 18,500 troops, organized a layered defense under Lt. Gen. Takeshi Takashina and Thirty-First Army commander Lt. Gen. Hideyoshi Obata. Reinforcements from the 29th, 1st, and 11th Divisions, plus naval units like the 54th Keibitai and construction battalions, were redeployed to protect airfields, Apra Harbor, and likely landing beaches on the west coast. Armor and artillery were concentrated around Agana and the Orote Peninsula, with tanks held in reserve at Ordot and behind Agat. Uncertain of the exact American landing sites, Takashina dispersed his forces island-wide before shifting them west once intelligence confirmed the threat. American pre-invasion bombardment, delayed until 21 July, allowed detailed reconnaissance and overwhelming force buildup, giving U.S. troops a 3-to-1 numerical advantage for the assault.\n\n**Keywords:** Guam 1944, Japanese defense, Takashina, Orote Peninsula, Thirty-First Army",
+      "is_seed": true,
+      "expand_score": 0.7894790172576904
+    },
+    {
+      "community_key": "HotpotQA-validation-00006973/02_Late-night-talk-show.html_10",
+      "summary": "**Title:** Evolution of U.S. Late-Night Talk Shows\n\n**Summary:**  \nThis collection traces the shifting landscape of American late-night television from the 1950s to the 2010s, spotlighting key hosts, network rivalries, and format changes. It details how *The Tonight Show*—under Paar, Carson, Leno, and O’Brien—set the template, while competitors like Letterman, Stewart, Ferguson, and Kimmel forged rival franchises and new styles. NBC’s scheduling maneuvers, notably the 2009 Leno/O’Brien conflict, illustrate the high stakes of the 11:35 p.m. slot. Cable and syndicated entries such as *Politically Incorrect*, *The Colbert Report*, and *Lopez Tonight* expanded the field, while economic pressures and evolving audience habits drove frequent cancellations, retoolings, and time-slot realignments across broadcast and cable networks.\n\n**Keywords:**  \nTonight Show, late-night hosts, network rivalry, time-slot battles, talk-show formats",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "summary": "**Title**: Battle of Manila 1945\n\n**Summary**: In February 1945, Japanese Rear-Adm. Sanji Iwabuchi defied orders to withdraw and instead fortified Manila with 17,000 troops, vowing to fight to the death. U.S. 1st Cavalry and 37th Infantry Divisions entered the city on 3–5 February, liberating 4,000+ civilian internees at Santo Tomas and Bilibid Prison. While MacArthur prematurely declared Manila “fallen,” bitter house-to-house combat, artillery duels, and Japanese demolition of infrastructure raged for weeks. Japanese forces, trapped and facing annihilation, perpetrated systematic massacres of Filipino civilians in churches, hospitals, and schools, killing over 100,000 and reducing much of the historic capital to rubble before the last defenders were eliminated.\n\n**Keywords**: Manila 1945, Santo Tomas liberation, Japanese massacres, urban warfare, Pacific War",
+      "is_seed": true,
+      "expand_score": 0.7894790172576904
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "summary": "**Title**: Battle of Manila 1945 Devastation  \n\n**Summary**:  \nThe month-long Battle of Manila (3 Feb–3 Mar 1945) pitted U.S. and Filipino forces against entrenched Japanese naval troops, producing the Pacific War’s fiercest urban combat and leaving at least 100,000 civilians dead. Japanese massacres, American artillery bombardment, and house-to-house fighting obliterated the city’s Spanish-colonial and early-American architectural heritage, with only two buildings in the business district surviving intact. After the Japanese garrison ignored orders to withdraw, U.S. troops systematically reduced strongholds such as Intramuros, Rizal Stadium, and Fort San Antonio Abad, counting 16,665 Japanese dead inside the Walled City alone. The battle’s aftermath saw General Yamashita executed for war crimes and Manila’s transformation from the “Pearl of the Orient” to a modernist American-style capital. Commemoration efforts, including the 1995 Memorare-Manila Monument, honor the civilian victims and the city’s cultural loss.\n\n**Keywords**:  \nManila 1945, urban warfare, civilian massacres, heritage destruction, Pacific War",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "summary": "**Title**: BA Connect Regional Airline  \n\n**Summary**:  \nBA Connect was British Airways’ wholly-owned regional carrier, headquartered in Manchester, operating domestic and European routes outside London Heathrow/Gatwick. Created through successive mergers starting with Brymon Airways in 1993, it was rebranded as BA Connect in 2006 and adopted a low-cost model with buy-on-board catering. On 3 November 2006 BA agreed to sell the airline to Flybe, retaining London City routes and a 15 % stake; the transfer completed on 25 March 2007, expanding Flybe into Europe’s largest regional airline.  \n\n**Keywords**: BA Connect, British Airways, Flybe acquisition, regional airline, low-cost carrier",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_1",
+      "summary": "**Title**: Teinosuke Kinugasa Film Legacy\n\n**Summary**: Teinosuke Kinugasa was a pioneering Japanese filmmaker and former onnagata actor whose career spanned the silent era to post-war cinema. He gained international acclaim for avant-garde silent films like *A Page of Madness* (1926) and *Crossroads* (1928), and later for the lavish jidaigeki *Gate of Hell* (1953), which won both the Palme d’Or and the Academy Award for Best International Feature Film. After starting at Nikkatsu and Shochiku, Kinugasa directed big-budget costume dramas for Daiei, helping launch the career of Kazuo Hasegawa. His rediscovery of *A Page of Madness* in 1971 revived global interest in his work and in Japanese modernist cinema.\n\n**Keywords**: Kinugasa Teinosuke, A Page of Madness, Gate of Hell, Japanese silent cinema, jidaigeki",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/02_Lea-County-Regional-Airport.html_2",
+      "summary": "**Title**: Lea County Regional Airport History\n\n**Summary**: Lea County Regional Airport (HOB) west of Hobbs, New Mexico, has evolved from a 1937 airstrip into a 898-acre commercial airport with three asphalt runways. After Continental Airlines introduced airmail and passenger service in 1940, a succession of carriers—Trans-Texas/Texas International, Mesa, New Mexico Airlines, and ultimately United Express—linked Hobbs to hubs such as Albuquerque, Dallas, Houston, and Denver. Aircraft upgraded from Lockheed Electras to regional jets, while terminal expansions in the late 2000s and 2010s accommodated growing traffic. Ownership transferred from the city to Lea County in 1945, and today the airport handles roughly 42 daily operations, 83% general aviation.\n\n**Keywords**: airline service evolution, Hobbs New Mexico, airport expansion, United Express, Lea County",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_16",
+      "summary": "**Title**: Mitsubishi Motors Racing Legacy  \n\n**Summary**:  \nMitsubishi Motors built a storied motorsport reputation through rally dominance, securing four straight drivers’ titles with Tommi Mäkinen (1996-1999) and the 1998 manufacturers’ crown, plus a record 12 Dakar Rally wins including seven consecutive victories (2001-2007). The Lancer Evolution became an icon, claiming 34 WRC wins and seven straight Group N championships, while circuit success dated back to the 1960s Macau Grand Prix. Global partnerships—ranging from Jackie Chan’s 30-year film collaboration to rebadging deals with Suzuki, PSA, and others—expanded Mitsubishi’s reach, supported by an extensive network of R&D centers and production facilities across Asia, Europe, and the Americas.  \n\n**Keywords**:  \n- Mitsubishi Lancer Evolution  \n- Dakar Rally  \n- Tommi Mäkinen  \n- Ralliart  \n- Global partnerships",
+      "is_seed": false,
+      "expand_score": 0.8259573578834534
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/03_India.html_6",
+      "summary": "**Title**: India’s Socio-Economic Landscape\n\n**Summary**:  \nIndia’s 1.4 billion residents make it the world’s most populous country, with rapid urbanization and a median age of 28.7 years. The economy ranks fifth globally by nominal GDP ($3.94 trillion) and third by PPP, driven by agriculture (43 % of workforce), a booming IT sector contributing 7.5 % of GDP, and pharmaceutical and biotech exports. Social indicators show rising life expectancy (72 years) and declining child mortality, yet persistent challenges include female infanticide, child marriage, and uneven regional development. Cultural traditions remain strong, with arranged marriages and multilingualism anchored by 22 scheduled languages, while foreign policy balances nuclear deterrence, non-alignment heritage, and strategic partnerships with the U.S., Russia, and the EU.\n\n**Keywords**:  \ndemographics, economic growth, IT & pharma, social challenges, multilingual society",
+      "is_seed": false,
+      "expand_score": 0.8249512910842896
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "summary": "**Title**: Battle of Guam 1944 Analysis\n\n**Summary**:  \nThe Battle of Guam (July-August 1944) was a pivotal U.S. operation to retake the island, marked by strategic lessons in amphibious warfare, command decisions, and post-battle infrastructure development. Initial plans faced delays due to intelligence updates, and the landing on two distant beaches was later deemed a tactical error. Poor topographical intelligence led to high casualties for the 3rd Marine Division, though naval gunfire and LVTs proved effective. Post-battle, Guam transformed into a major U.S. military hub, with extensive airfield and harbor construction supporting B-29 operations and later conflicts. Civil affairs efforts managed thousands of displaced Chamorros, and war crimes trials addressed Japanese atrocities. Japanese post-war analysis cited inadequate pre-invasion reinforcement and flawed defensive tactics.\n\n**Keywords**:  \nGuam 1944, amphibious tactics, Pacific War logistics, B-29 bases, Chamorro refugees",
+      "is_seed": false,
+      "expand_score": 0.8096729516983032
+    },
+    {
+      "community_key": "HotpotQA-validation-00003907/03_Logan-Thunder-WNBL.html_0",
+      "summary": "**Title**: Logan Thunder WNBL Team\n\n**Summary**: The Logan Thunder was an Australian professional women’s basketball team based in Logan, Queensland, competing in the Women’s National Basketball League (WNBL). Established in 2008 to replace the Christchurch Sirens, they marked the return of WNBL representation to South East Queensland after a decade. Financial difficulties led to their withdrawal from the 2014/15 season, after which the team folded.\n\n**Keywords**: Logan Thunder, WNBL, women’s basketball, Queensland, team history",
+      "is_seed": false,
+      "expand_score": 0.809599757194519
+    },
+    {
+      "community_key": "HotpotQA-validation-00002795/02_Jujiro.html_1",
+      "summary": "**Title**: 1928 Japanese Silent Film Crossroads  \n\n**Summary**:  \nCrossroads (Jūjiro, 1928) is an avant-garde silent drama by Teinosuke Kinugasa, notable as one of the first Japanese films shown in Europe. The plot follows a blinded young man, his self-sacrificing sister, and a manipulative courtesan, culminating in tragedy at a Tokyo crossroad. Released in Japan in May 1928, it traveled to London and New York by 1930, earning praise in Berlin and Paris but mixed U.S. reviews. Later retrospectives and scholars highlight its German-expressionist visuals and rank it among Japan’s canonical works.  \n\n**Keywords**:  \nCrossroads, Teinosuke Kinugasa, Japanese silent cinema, German expressionism, early Japanese film exports",
+      "is_seed": false,
+      "expand_score": 0.8077858686447144
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "summary": "**Title:** Guam 1944 Battle Campaign\n\n**Summary:**  \nThe 1944 Battle of Guam saw U.S. Marines and Army forces execute a two-beach landing to retake the island from entrenched Japanese defenders. After overcoming fierce resistance at key points like Bundschu Ridge, Chonito Cliff, and Fonte Plateau, American units linked their northern and southern beachheads. Japanese commander Takashina launched a costly counterattack that failed, after which he shifted to guerrilla tactics before being killed. The campaign concluded with U.S. forces securing central Guam, inflicting ~3,500 Japanese casualties and suffering heavy losses themselves.\n\n**Keywords:** Guam 1944, Bundschu Ridge, Fonte Plateau, 3rd Marine Division, Japanese counterattack",
+      "is_seed": false,
+      "expand_score": 0.804929256439209
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/03_India.html_43",
+      "summary": "**Title**: India’s Socio-Economic & Cultural Landscape  \n\n**Summary**:  \nThese chunks assemble a multidimensional profile of India, weaving together its economic trajectory, demographic patterns, cultural heritage, and global engagements. Sources track India’s integration into the world economy through WTO membership, IMF growth projections, and IT-BPO expansion, while also noting persistent challenges such as child under-nutrition and rural-urban divides. Demographic studies frame population distribution, migration, and language planning, whereas cultural references span Mughal architecture, caste dynamics, classical mathematics, and contemporary marriage practices. Defence and nuclear diplomacy pieces underscore India’s rising strategic profile, and environmental histories contextualize human development within the subcontinent’s ecological past.  \n\n**Keywords**:  \nIndia economy, demographics & migration, cultural heritage, strategic/defence policy, historical historiography",
+      "is_seed": false,
+      "expand_score": 0.8027524948120117
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_9",
+      "summary": "**Title**: Mitsubishi Motors Strategic Alliances & Crises\n\n**Summary**:  \nMitsubishi Motors’ history is marked by pivotal alliances and severe setbacks. After spinning off from Mitsubishi Heavy Industries in 1970, it partnered with Hyundai (1975-2003), Chrysler/Diamond-Star in the U.S., and later formed the Renault–Nissan–Mitsubishi Alliance when Nissan acquired a 34 % stake in 2016. These tie-ups aimed to share platforms and expand market reach, but alliances also brought turmoil—Nissan’s 2016 takeover followed Mitsubishi’s fuel-economy scandal, while 2024 talks for a Honda-Nissan-Mitsubishi EV bloc collapsed over governance fears. Simultaneously, Mitsubishi endured economic shocks: Asia’s 1997 crisis, a 2000s U.S. “0-0-0” finance debacle, and successive plant closures in Australia (2008), Western Europe (2012), and North America, forcing global retrenchment and repeated restructuring.\n\n**Keywords**:  \nRenault-Nissan-Mitsubishi Alliance, fuel-economy scandal, global plant closures, Hyundai partnership, Asian financial crisis",
+      "is_seed": false,
+      "expand_score": 0.8016913533210754
+    },
+    {
+      "community_key": "HotpotQA-validation-00005205/03_Walter-V-Shipley.html_1",
+      "summary": "**Title**: Walter V. Shipley Banking Career\n\n**Summary**: Walter V. Shipley led Chemical Bank and its successor Chase Manhattan as CEO from 1981-1999, orchestrating landmark mergers with Texas Commerce Bank, Manufacturers Hanover, and finally Chase. Starting as a loan officer in 1956, he rose through Chemical’s ranks after New York Trust’s acquisition, becoming president in 1981 and CEO in 1983. Beyond banking, he served on boards like Exxon Mobil and Verizon, backed bipartisan political campaigns, and supported cultural and environmental philanthropies including Goodwill, Lincoln Center, and the Greater Newark Conservancy.\n\n**Keywords**: Chemical Bank, Chase Manhattan, bank mergers, Texas Commerce Bank, philanthropy",
+      "is_seed": false,
+      "expand_score": 0.7984340786933899
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_2",
+      "summary": "**Title**: Renault-Nissan-Mitsubishi Alliance Evolution  \n\n**Summary**:  \nThe Renault-Nissan-Mitsubishi Alliance, formalized in 1999, is a strategic partnership that preserves each brand’s independence while pooling R&D, purchasing, and manufacturing to achieve scale and cost savings. It became the world’s top-selling EV group by 2017, delivering >500 k vehicles led by the Nissan Leaf, before Tesla overtook it in 2020. Beyond electrification, the Alliance expanded globally—taking control of Russia’s AvtoVAZ, building new plants in Brazil and Mexico, and co-developing engines and fuel-cell tech with Daimler and Ford. After 2023 equity realignments (Renault voting stake cut to 15 %), the partners continue joint projects in autonomous, connected, and zero-emission mobility.  \n\n**Keywords**:  \nRenault-Nissan-Mitsubishi Alliance, electric vehicles, global manufacturing, Carlos Ghosn, strategic partnerships",
+      "is_seed": false,
+      "expand_score": 0.7936892509460449
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_6",
+      "summary": "**Title**: Mitsubishi Motors Scandals & Alliances  \n\n**Summary**:  \nMitsubishi Motors’ history is marked by major compliance failures, including a 25-year fuel-economy testing fraud uncovered in 2016 that led to Nissan acquiring a 34 % controlling stake for US$2.2 billion and the resignation of president Tetsuro Aikawa. Earlier, a 2000s cover-up of vehicle defects triggered a ¥540-billion rescue by Mitsubishi group firms. These crises book-ended decades of shifting alliances: a 1980s–90s joint venture with Chrysler (Diamond-Star Motors), its dissolution amid SUV-focused independence, and later partnerships with Nissan, PSA, and others to share platforms and survive market downturns.\n\n**Keywords**: fuel-economy scandal, Nissan takeover, Chrysler alliance, product defects, Renault-Nissan-Mitsubishi Alliance",
+      "is_seed": false,
+      "expand_score": 0.7910727262496948
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_10",
+      "summary": "**Title**: Renault-Nissan-Mitsubishi Alliance Strategy  \n\n**Summary**:  \nThe Renault-Nissan-Mitsubishi Alliance operates as a strategic, cross-shareholding partnership rather than a merger, controlling eight brands and selling over 10 million vehicles annually. It leverages shared platforms like CMF-A in India, joint plants in China, South Korea, and Morocco, and leads global EV sales with models such as the Nissan Leaf and Renault Zoe. Post-Carlos Ghosn, the Alliance restructured to balance French government influence and Nissan’s autonomy while expanding cooperation with partners like Daimler for powertrain and small-car development.  \n\n**Keywords**: Alliance governance, shared platforms, electric vehicles, Daimler cooperation, global manufacturing",
+      "is_seed": false,
+      "expand_score": 0.7861169576644897
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "summary": "**Title**: Eastern Airways Operations History\n\n**Summary**:  \nEastern Airways, a British regional airline based at Humberside Airport, operated from 1997 until entering administration in November 2025. The airline evolved from a small operator using Jetstream aircraft to a multifaceted carrier providing scheduled, charter, PSO-subsidised lifeline routes, and ACMI flying for KLM Cityhopper. Key developments included franchise agreements with Flybe, expansion into oil-and-gas shuttles, acquisition by Bristow Group and later repurchase by founder Richard Lake, and fleet upgrades to ATR 72-600s and Embraer 190s. After Flybe’s 2020 collapse, Eastern attempted strategic growth at Southampton, Cardiff, and Gibraltar, but most new routes were short-lived. Long-term Public Service Obligation contracts—notably Newquay–Gatwick and Aberdeen–Wick—underpinned regional connectivity until administration ended all flights and terminated the remaining PSO services.\n\n**Keywords**:  \nregional airline, Public Service Obligation, Flybe franchise, KLM Cityhopper, administration",
+      "is_seed": false,
+      "expand_score": 0.7860527634620667
+    },
+    {
+      "community_key": "HotpotQA-validation-00005205/00_John-D-Rockefeller-III.html_2",
+      "summary": "**Title**: John D. Rockefeller III Philanthropy\n\n**Summary**: John D. Rockefeller III (1906–1978) was a third-generation American philanthropist who expanded the Rockefeller family’s legacy through major institutions focused on East-West cultural exchange, population studies, and the arts. He founded the Asia Society (1956), the Population Council (1952), and led the creation of Lincoln Center while chairing the Rockefeller Foundation for two decades. Rockefeller III also established the JDR III Fund’s Asian Cultural Program, later the Asian Cultural Council, and served on numerous boards including Princeton University and the Rockefeller Brothers Fund. His commissions on philanthropy and population growth shaped U.S. policy, and his honors include the Jefferson Awards’ S. Roger Horchow Award.\n\n**Keywords**: Rockefeller philanthropy, Asia Society, Population Council, Lincoln Center, cultural exchange",
+      "is_seed": false,
+      "expand_score": 0.7858062386512756
+    },
+    {
+      "community_key": "HotpotQA-validation-00005840/01_Garth-Ennis.html_23",
+      "summary": "**Title**: Garth Ennis Comic Bibliography  \n\n**Summary**:  \nThese chunks catalogue the extensive comics bibliography of writer Garth Ennis, spanning major works from publishers such as Dynamite, Avatar, Image, AfterShock, Rebellion, and others. Key series include *The Boys*, *Crossed: Badlands*, *War Stories*, *A Walk Through Hell*, and *Jimmy’s Bastards*, alongside one-shots and limited series like *Dan Dare*, *The Shadow*, and *Rover Red Charlie*. The entries list issue ranges, collected-edition formats, page counts, publication years, and ISBNs, providing a comprehensive reference for Ennis’s output across multiple genres—superhero deconstruction, war, horror, and dark humor—from the late 1990s through 2023.  \n\n**Keywords**:  \nGarth Ennis, The Boys, Crossed, War Stories, Comic Bibliography",
+      "is_seed": false,
+      "expand_score": 0.7838531136512756
+    },
+    {
+      "community_key": "HotpotQA-validation-00000352/01_Carnegie-Mellon-University.html_1",
+      "summary": "**Title**: Carnegie Mellon University History & Growth\n\n**Summary**: Carnegie Mellon University evolved from Andrew Carnegie’s 1900 vocational school into a globally ranked R1 research university after merging with the Mellon Institute in 1967. Under presidents Richard Cyert, Jared Cohon, and successors, it expanded interdisciplinary research, launched satellite campuses on six continents, and completed two billion-dollar fundraising campaigns that endowed faculty, student support, and new facilities. Notable milestones include the 1985 registration of cmu.edu, the 2011 Dietrich gift renaming humanities, and the 2022 Mastercard Foundation partnership for its Rwanda graduate programs.\n\n**Keywords**: Carnegie Mellon history, fundraising campaigns, satellite campuses, interdisciplinary research, presidential leadership",
+      "is_seed": false,
+      "expand_score": 0.7807109355926514
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html_0",
+      "HotpotQA-validation-00000762/03_Prince-Motor-Company.html_3",
+      "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_1",
+      "HotpotQA-validation-00003228/02_List-of-companies-of-India.html_0",
+      "HotpotQA-validation-00005205/01_David-Rockefeller.html_1",
+      "HotpotQA-validation-00005840/00_Crossed-comics.html_13",
+      "HotpotQA-validation-00002459/02_Krones.html_2",
+      "HotpotQA-validation-00007157/00_University-of-Rochester.html_11",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_9",
+      "HotpotQA-validation-00006973/02_Late-night-talk-show.html_10",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_1",
+      "HotpotQA-validation-00006411/02_Lea-County-Regional-Airport.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_16",
+      "HotpotQA-validation-00003228/03_India.html_6",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00003907/03_Logan-Thunder-WNBL.html_0",
+      "HotpotQA-validation-00002795/02_Jujiro.html_1",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00003228/03_India.html_43",
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_9",
+      "HotpotQA-validation-00005205/03_Walter-V-Shipley.html_1",
+      "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_2",
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_6",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_9",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_10",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00005205/00_John-D-Rockefeller-III.html_2",
+      "HotpotQA-validation-00005840/01_Garth-Ennis.html_23",
+      "HotpotQA-validation-00000352/01_Carnegie-Mellon-University.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html_0",
+      "HotpotQA-validation-00000762/03_Prince-Motor-Company.html_3",
+      "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_1",
+      "HotpotQA-validation-00003228/02_List-of-companies-of-India.html_0",
+      "HotpotQA-validation-00005205/01_David-Rockefeller.html_1",
+      "HotpotQA-validation-00005840/00_Crossed-comics.html_13",
+      "HotpotQA-validation-00002459/02_Krones.html_2",
+      "HotpotQA-validation-00007157/00_University-of-Rochester.html_11",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_9",
+      "HotpotQA-validation-00006973/02_Late-night-talk-show.html_10",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_1",
+      "HotpotQA-validation-00006411/02_Lea-County-Regional-Airport.html_2",
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_16",
+      "HotpotQA-validation-00003228/03_India.html_6",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00003907/03_Logan-Thunder-WNBL.html_0",
+      "HotpotQA-validation-00002795/02_Jujiro.html_1",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00003228/03_India.html_43",
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_9",
+      "HotpotQA-validation-00005205/03_Walter-V-Shipley.html_1",
+      "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_2",
+      "HotpotQA-validation-00000762/00_Mitsubishi-Motors.html_6",
+      "HotpotQA-validation-00000762/01_RenaultNissanMitsubishi-Alliance.html_10",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00005205/00_John-D-Rockefeller-III.html_2",
+      "HotpotQA-validation-00005840/01_Garth-Ennis.html_23",
+      "HotpotQA-validation-00000352/01_Carnegie-Mellon-University.html_1"
+    ],
+    "allowed_chunk_pool_size": 148,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

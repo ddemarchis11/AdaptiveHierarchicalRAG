@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d7a42746",
+  "question": "During her lifetime, Dr. Elsie Inglis supported Serbia in several significant ways: she traveled to Serbia, founded the Scottish Women’s Hospitals to provide wartime aid, and was honored by Serbian officers who carried her coffin after her death. In what ways did Dr. Elsie Inglis assist Serbia and how was her support recognized by the Serbian people?",
+  "gold_answer": "Dr. Elsie Inglis contributed to Serbia by traveling there, founding the Scottish Women’s Hospitals to aid during wartime, and being honored by Serbian officers, who carried her coffin after her death.",
+  "llm_answer": "Dr. Elsie Inglis assisted Serbia by traveling there with the Scottish Women’s Hospitals, which she founded, to combat a devastating typhus epidemic; her unit worked amid extreme hardship and was praised for its courage and effectiveness. In recognition, the Serbian people built a fountain at Mladenovatz, ceremonially opened on 7 October 1915, as a lasting memorial to her and the Hospitals’ work. After her death, Serbian officers carried her coffin and lowered it into the grave, an honor granted by the Serbian nation.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core contributions of Dr. Elsie Inglis to Serbia, including her travel, the founding of the Scottish Women’s Hospitals, and her work during the typhus epidemic. It also correctly details the recognition she received, such as the fountain built in her honor and Serbian officers carrying her coffin. All claims are supported by the retrieved context, and the additional details about the fountain and the typhus epidemic enhance the answer without contradicting the Gold Answer."
+  }
+}

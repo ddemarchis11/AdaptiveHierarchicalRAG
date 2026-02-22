@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001452",
+  "question": "Which famous mine was in service first, the Salmita Mine or the Kanichee Mine?",
+  "gold_answer": "Kanichee Mine",
+  "llm_answer": "The Kanichee Mine was in service first.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Kanichee Mine as being in service first, which aligns with the Gold Answer and is supported by the Retrieved Context. The context mentions that the Kanichee Mine was explored and mined discontinuously from as early as 1910, whereas the Salmita Mine entered production in 1983. All relevant facts are included and grounded in the context."
+  }
+}

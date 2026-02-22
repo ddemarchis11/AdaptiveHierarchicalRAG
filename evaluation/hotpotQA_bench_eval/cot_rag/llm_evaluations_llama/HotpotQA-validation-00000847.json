@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000847",
+  "question": "The Polar Bear and Daiquiri are both examples of what?",
+  "gold_answer": "cocktails",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect. The Gold Answer 'cocktails' is accurate and does not rely on the retrieved context, as the context provided is irrelevant to the question. The Model Answer fails to provide the correct response and does not address the question properly."
+  }
+}

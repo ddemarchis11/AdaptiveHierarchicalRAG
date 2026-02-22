@@ -1,0 +1,12 @@
+{
+  "id": "Novel-974ed0c9",
+  "question": "What role did Frank Moore play in bridging the worlds of journalism and military service in St. Paul, considering his work for the Minnesotian newspaper before serving in the Civil War?",
+  "gold_answer": "Frank Moore worked for the Minnesotian newspaper and later served in the Civil War, exemplifying the movement of individuals between media and military spheres in St. Paul.",
+  "llm_answer": "Frank Moore’s role in bridging journalism and military service in St. Paul is not explicitly described in the evidence provided.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Frank Moore's role in bridging journalism and military service is not explicitly described in the context, which is accurate based on the retrieved evidence. However, it fails to address the core meaning of the Gold Answer, which highlights Moore's work for the Minnesotian newspaper and his later service in the Civil War as an example of individuals moving between media and military spheres. The Model Answer does not include these key facts, resulting in low correctness and evidence coverage scores."
+  }
+}

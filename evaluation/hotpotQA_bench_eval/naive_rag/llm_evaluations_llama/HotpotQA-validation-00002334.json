@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002334",
+  "question": "Are Sunset Strip and American Hardcore both music documentaries?",
+  "gold_answer": "no",
+  "llm_answer": "Yes, both Sunset Strip and American Hardcore are music documentaries.\n\nEvidence for Sunset Strip being a music documentary:\n- The documentary explores the history of the Sunset Strip, which is known for its rock clubs and nightclubs.\n- The film features several celebrities discussing the history of the Sunset Strip, including Slash, Billy Corgan, Robbie Krieger of The Doors, and Perry Farrell.\n- The documentary touches upon major events such as The Doors playing at the Whiskey-A-Go-Go and The Roxy, and the multiple influential rock artists who called that part of the city home.\n\nEvidence for American Hardcore being a music documentary:\n- Unfortunately, there is no provided evidence for American Hardcore being a music documentary.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that both Sunset Strip and American Hardcore are music documentaries, contradicting the Gold Answer ('no'). While the context supports Sunset Strip being a documentary with music-related themes, there is no evidence in the retrieved context about American Hardcore being a music documentary. Thus, the answer is incorrect, partially faithful to the context, and fails to cover the key facts from the Gold Answer."
+  }
+}

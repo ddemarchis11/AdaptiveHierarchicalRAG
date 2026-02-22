@@ -1,0 +1,12 @@
+{
+  "id": "Novel-70d75840",
+  "question": "Where does THE DEAN place the medicine chest when he is preparing a remedy for Dandy Dick in the Deanery?",
+  "gold_answer": "THE DEAN places the medicine chest on the table.",
+  "llm_answer": "The evidence does not explicitly state where THE DEAN places the medicine chest when he is preparing a remedy for Dandy Dick in the Deanery. However, it can be inferred that he places it on the table in the Library. \n\nThis inference is based on the following lines from the evidence:\n\n\"[Novel-40700_c_73] THE DEAN. Blore, I feel it would be a humane act to administer to the poor ignorant animal in my stable a simple Bolus as a precaution against chill. I rely upon your aid and discretion in ministering to any guest in the Deanery. BLORE. [_In a whisper._] I see, sir--you ain't going to lose half a chance for to-morrow, sir--you're a knowin' one, sir, as the sayin' goes! THE DEAN. [_Shrinking from BLORE with a groan._] Oh! [_He places the medicine chest on the table and takes up the book. Handing the book to BLORE with his finger on a page._] Fetch these humble but necessary articles from the kitchen--quick. I'll mix the Bolus here.\"\n\nThis passage indicates that THE DEAN places the medicine chest on the table in the Library, as he is preparing a remedy for Dandy Dick.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that THE DEAN places the medicine chest on the table, which aligns with the Gold Answer. It also provides additional context by specifying the Library as the location, which is supported by the retrieved evidence. The answer is faithful to the context and includes all key facts from the Gold Answer."
+  }
+}

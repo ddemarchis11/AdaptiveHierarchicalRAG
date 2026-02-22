@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f10f3bc4",
+  "question": "During their encounter after the battle, did Cousin Cæsar recognize his old acquaintance Steve Brindle, and what was the outcome of their meeting?",
+  "gold_answer": "No, Cousin Cæsar did not recognize Steve Brindle.",
+  "llm_answer": "Yes. During the battle Cousin Cæsar spotted Steve Brindle in the distance and immediately recognized him. The outcome was only Cæsar’s bitter inner reaction—he branded Steve a traitor and “coward,” but they never actually met or spoke; Steve remained unaware of Cæsar’s presence, and no further contact occurred.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer incorrectly states that Cousin Cæsar recognized Steve Brindle during the battle, which contradicts the Gold Answer and the context indicating that Cousin Cæsar did not recognize Steve Brindle. While the Model Answer provides additional details about Cæsar's inner reaction and the lack of direct contact, these are partially supported by the context but do not align with the core truth of the Gold Answer. The evidence coverage is partial as the Model Answer misses the explicit denial of recognition stated in the Gold Answer."
+  }
+}

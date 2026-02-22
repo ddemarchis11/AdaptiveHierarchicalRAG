@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e894a5f5",
+  "question": "In the travel narrative 'An Unsentimental Journey through Cornwall', how is the Devil's Frying-pan geographically related to the village of Cadgwith?",
+  "gold_answer": "The Devil's Frying-pan is near Cadgwith.",
+  "llm_answer": "The Devil's Frying-pan is geographically related to the village of Cadgwith in that it is located near the village. \n\nSpecifically, it is described as being near Cadgwith in the following passages:\n\n- \"The principal thing to be seen at Cadgwith. The Devil's Frying-pan, near Cadgwith.\" (Novel-44557_c_51)\n- \"Illustration: THE DEVIL'S FRYING PAN, NEAR CADGWITH.\" (Novel-44557_c_52)\n- \"The Devil's Frying-pan looked, within and without, much as it must have looked for the last hundred years; and the ragged, unkempt, tongue-tied little girl, from whom we succeeded in getting a drink of milk in a tumbler which she took five minutes to search for, had certainly never been to a Board School. She investigated the penny which we deposited as if it were a great natural curiosity rarely attainable, and she gazed after us as we climbed the stile leading to the Frying-pan as if wondering what on earth could tempt respectable people, who had nothing to do, into such a very uncomfortable place.\" (Novel-44557_c_52)\n\nThis suggests that the Devil's Frying-pan is a nearby attraction or landmark that can be seen from Cadgwith.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the Devil's Frying-pan is geographically near Cadgwith, aligning with the Gold Answer. It provides additional context and references from the retrieved text, which are relevant and supported by the context. All key facts from the Gold Answer are included, and the detailed explanation is faithful to the retrieved information."
+  }
+}

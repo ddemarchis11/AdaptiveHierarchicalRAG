@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c516b54d",
+  "question": "In the context of the Anglo-Saxon manuscript housed in the British Museum, what connections can be drawn between the depiction of the harp—rendered from the biblical kinnor that David used to suspend—and ancient musical traditions, particularly those linking biblical and early medieval music?",
+  "gold_answer": "The kinnor, which David used to suspend, is rendered as a harp found in the Anglo-Saxon manuscript in the British museum, connecting biblical and early medieval musical traditions.",
+  "llm_answer": "The Anglo-Saxon manuscript in the British Museum shows King David with a triangular harp; this very shape is explicitly described as “the transition of the lyre into the harp,” and the same passage states that the kinnor—David’s biblical instrument—was “most likely a lyre if not a small triangular harp.” Thus the manuscript’s harp image visually links the biblical kinnor to early medieval practice by presenting the same triangular form that both the Anglo-Saxons and the ancient Hebrews were understood to have used.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the depiction of King David with a triangular harp in the Anglo-Saxon manuscript and connects it to the biblical kinnor, as described in the context. It elaborates on the transition from lyre to harp and the shared triangular form, which aligns with the Gold Answer and is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded."
+  }
+}

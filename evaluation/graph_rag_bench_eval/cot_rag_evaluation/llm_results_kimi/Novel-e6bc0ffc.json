@@ -1,0 +1,42 @@
+{
+  "id": "Novel-e6bc0ffc",
+  "question": "Which cultural groups, specifically the Celtic races and Slavonic nations, were known to favor the bagpipe as a musical instrument?",
+  "gold_answer": "The bagpipe was favored by the Celtic races and Slavonic nations.",
+  "llm_answer": "The Celtic races and the Slavonic nations were known to favor the bagpipe as a musical instrument.",
+  "context": [
+    {
+      "text": "The _bagpipe_ appears to have been from time immemorial a special favourite instrument with the Celtic races; but it was perhaps quite as much admired by the Slavonic nations. In Poland, and in the Ukraine, it used to be made of the whole skin of the goat in which the shape of the animal, whenever the bagpipe was expanded with air, appeared fully retained, exhibiting even the head with the horns; hence the bagpipe was called _kosa_, which signifies a goat. The woodcut p. 120 represents a Scotch bagpipe of the last century. The bagpipe is of high antiquity in Ireland, and is alluded to in Irish poetry and prose said to date from the tenth century. A pig gravely engaged in playing the bagpipe is represented in an illuminated Irish manuscript, of the year 1300: and we give p. 121 a copy of a woodcut from “The Image of Ireland,” a book printed in London in 1581. [Illustration] The _bell_ has always been so much in popular favour in England that some account of it must not be omitted. Paul Hentzner a German, who visited England in the year 1598, records in his journal: “The people are vastly fond of great noises that fill the ear, such as the firing of cannon, drums, and the ringing of bells; so that in London it is common for a number of them that have got a glass",
+      "id": "Novel-54537_c_144"
+    },
+    {
+      "text": "expressions, which cannot be properly rendered on any other instrument, however superior in some respects it may be to the pianoforte. Thus also the improvements which have been made during the present century in the construction of our brass instruments, and the invention of several new brass instruments, have evidently been not without influence upon the conceptions displayed in our modern orchestral works. Imperfect though this essay may be it will probably have convinced the reader that a reference to the history of the music of different nations elucidates many facts illustrative of our own musical instruments, which to the unprepared observer must appear misty and impenetrable. In truth, it is with this study as with any other scientific pursuit. The unassisted eye sees only faint nebulæ where with the aid of the telescope bright stars are revealed. INDEX. Al-Farabi, a great performer on the lute, 57 American Indian instruments, 59, 77 \" value of inquiry, 59 \" trumpets, 67 \" theories as to origin from musical instruments, 80 Arab instruments very numerous, 56 Archlute, 109, 115 Ashantee trumpet, 2 Asor explained, 19 Assyrian instruments, 16 “Aulos,” 32 Bagpipe, Hebrew, 23 \" Greek, 31 \" Celtic, 119 Barbiton, 31, 34 Bells, Hebrew, 25 \" Peruvian, 75 \" and ringing,",
+      "id": "Novel-54537_c_150"
+    },
+    {
+      "text": "work _cithara teutonica_, while the harp is called _cithara anglica_; from which it would appear that the former was regarded as pre-eminently a German instrument. Possibly its name may have been originally _chrotta_ and the continental nations may have adopted it from the Celtic races of the British isles, dropping the guttural sound. This hypothesis is, however, one of those which have been advanced by some musical historians without any satisfactory evidence. [Illustration] [Illustration] We engrave also another representation of David playing on the _rotta_, from a psalter of the seventh century in the British museum (Cott. Vesp. A. I). According to tradition, this psalter is one of the manuscripts which were sent by pope Gregory to St. Augustine. The instrument much resembles the lyre in the hand of the musician (see p. 22) who is supposed to be a Hebrew of the time of Joseph. In the _rotta_ the ancient Asiatic lyre is easily to be recognized. An illumination of king David playing the _rotta_ forms the frontispiece of a manuscript of the eighth century preserved in the cathedral library of Durham; and which is musically interesting inasmuch as it represents a _rotta_ of an oblong square shape like that just noticed and resembling the Welsh _crwth_. It has only five strings which the performer twangs with his",
+      "id": "Novel-54537_c_119"
+    },
+    {
+      "text": "regulated, and how the bow was held. The most popular instruments played with a bow, at that time, were the _treble-viol_, the _tenor-viol_, and the _bass-viol_. It was usual for viol players to have “a chest of viols,” a case containing four or more viols, of different sizes. Thus, Thomas Mace in his directions for the use of the viol, “Musick’s Monument” 1676, remarks, “Your best provision, and most complete, will be a good chest of viols, six in number, viz., two basses, two tenors, and two trebles, all truly and proportionably suited.” The violist, to be properly furnished with his requirements, had therefore to supply himself with a larger stock of instruments than the violinist of the present day. [Illustration] That there was, in the time of Shakespeare, a musical instrument called _recorder_ is undoubtedly known to most readers from the stage direction in Hamlet: _Re-enter players with recorders_. But not many are likely to have ever seen a recorder, as it has now become very scarce: we therefore give an illustration of this old instrument, which is copied from “The Genteel Companion; Being exact Directions for the Recorder: etc.” London, 1683. The _bagpipe_ appears to have been from time immemorial a special favourite instrument with the Celtic races; but it was perhaps",
+      "id": "Novel-54537_c_143"
+    },
+    {
+      "text": "and Thibet, more or less altered in the course of time, through the east as far as Japan. Another curious Hindu instrument, probably of very high antiquity, is the _poongi_, also called _toumrie_ and _magoudi_. It consists of a gourd or of the Cuddos nut, hollowed, into which two pipes are inserted. The _poongi_ therefore somewhat resembles in appearance a bagpipe. It is generally used by the _Sampuris_ or snake charmers, who play upon it when they exhibit the antics of the cobra. The name _magoudi_, given in certain districts to this instrument, rather tends to corroborate the opinion of some musical historians that the _magadis_ of the ancient Greeks was a sort of double-pipe, or bagpipe. Many instruments of Hindustan are known by different names in different districts; and, besides, there are varieties of them. On the whole, the Hindus possess about fifty instruments. To describe them properly would fill a volume. Some, which are in the Kensington museum, will be found noticed in the large catalogue of that collection. THE PERSIANS AND ARABS. Of the musical instruments of the ancient Persians, before the Christian era, scarcely anything is known. It may be surmised that they closely resembled those of the Assyrians, and probably also those of the Hebrews. [Illustration] The",
+      "id": "Novel-54537_c_70"
+    }
+  ],
+  "cot_scratchpad": "- Bagpipe long favored by Celtic races (Novel-54537_c_144)\n- Bagpipe equally admired by Slavonic nations (Novel-54537_c_144)\n- Polish/Ukrainian bagpipe made from whole goat skin, called _kosa_ (Novel-54537_c_144)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which cultural groups, specifically the Celtic races and Slavonic nations, were known to favor the bagpipe as a musical instrument?",
+      "doc_ids": [
+        "Novel-54537_c_144",
+        "Novel-54537_c_150",
+        "Novel-54537_c_119",
+        "Novel-54537_c_143",
+        "Novel-54537_c_70"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002551",
+  "question": "Clifford Odets was seen as a successor to a Nobel Prize winner known as what?",
+  "gold_answer": "American playwright and Nobel laureate in Literature",
+  "llm_answer": "The Nobel Prize winner known as Eugene O'Neill was seen as a successor to.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Eugene O'Neill as the Nobel Prize winner, which aligns with the context. However, it does not fully address the question's phrasing about Clifford Odets being seen as a successor to an 'American playwright and Nobel laureate in Literature,' as stated in the Gold Answer. While the context supports the claim about Eugene O'Neill, the Model Answer lacks the broader description of O'Neill as an American playwright and Nobel laureate, which is a key fact from the Gold Answer."
+  }
+}

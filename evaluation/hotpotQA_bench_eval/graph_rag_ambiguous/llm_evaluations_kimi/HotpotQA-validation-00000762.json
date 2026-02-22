@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000762",
+  "question": "Which Japanese automaker, headquartered in the Minato ward of the capital, came under the controlling ownership of a rival domestic manufacturer following a financial crisis in the mid-2010s?",
+  "gold_answer": "Mitsubishi",
+  "llm_answer": "Mitsubishi Motors, headquartered in Minato, Tokyo, came under Nissan’s controlling ownership after Nissan acquired a 34 % stake in 2016 following the fuel-economy scandal that exposed Mitsubishi’s fraudulent testing data.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mitsubishi Motors as the Japanese automaker headquartered in Minato, Tokyo, and explains that Nissan acquired a controlling 34% stake in 2016 following a fuel-economy scandal. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides details about the scandal and acquisition."
+  }
+}

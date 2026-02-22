@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002965",
+  "question": "Which has more species, Sonerila or Scaevola?",
+  "gold_answer": "Sonerila",
+  "llm_answer": "Based on the provided evidence, Scaevola has more species than Sonerila.\n\nScaevola has more than 130 species, as stated in the evidence [HotpotQA-validation-00002965/01_Scaevola-plant.html_c_0].\n\nSonerila has about 175 species, as stated in the evidence [HotpotQA-validation-00002965/00_Sonerila.html_c_0].\n\nHowever, a new species of Sonerila was described in 2025, which is Sonerila bababudangiriensis Karad. & Kakkal. This means that the total number of Sonerila species is now 176.\n\nSince Scaevola has more than 130 species and Sonerila has 176 species, Scaevola still has fewer species than Sonerila.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Sonerila has more species than Scaevola, aligning with the Gold Answer. It provides detailed reasoning based on the retrieved context, including the updated count of Sonerila species (176) and the comparison with Scaevola's species count (more than 130). All claims are grounded in the context, and the key fact that Sonerila has more species is covered."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e1fdc6a9",
+  "question": "What is the status of Dimenet as described in the narrative's listing of towns within Morocco?",
+  "gold_answer": "Dimenet is a town in Morocco.",
+  "llm_answer": "Dimenet or Demnet is described as a considerable town, almost entirely populated by the Shelouhs and Caraaite Jews. It is situated upon the slopes of a mountain of the same name, or Adimmei, in the district of Damnat, fifteen miles distant from Wad Tescout, which falls into the Tensift. The inhabitants are reputed to be of a bad and malignant character, but, nevertheless, learned in Mussulman theology, and fond of disputing with foreigners.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Dimenet as a town in Morocco and provides additional details about its population, location, and characteristics, all of which are supported by the retrieved context. The extra information is relevant and does not contradict the Gold Answer or the context."
+  }
+}

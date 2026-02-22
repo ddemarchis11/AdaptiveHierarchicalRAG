@@ -1,0 +1,278 @@
+{
+  "id": "HotpotQA-validation-00000999",
+  "question": "What is the common performative action shared between a traditional music style of a Southern African people and a single-stringed instrument fashioned from a curved piece of wood?",
+  "gold_answer": "played",
+  "llm_answer": "The common performative action shared between a traditional music style of a Southern African people and a single-stringed instrument fashioned from a curved piece of wood is plucking the string.",
+  "context": [
+    {
+      "text": "Ahardin is a musical bow played by southern Tuaregs consists of a curved branch held with a twisted rope of raw leather or bark of acacia. Serving as a sound box , a reversed calabash is placed on the curved part of the bow on the ground. To hold the whole, the player presses her knee on the container. With the fingers of the left hand, as with the imzad , she defines the melody, while with the thumb and forefinger of the right hand, she grip the string with a regular gesture vibrate. At present, the ahardin, an instrument whose manufacture is easily improvised, is considered above all as a game of girls. Tahardant, feminine of ahardin, is also the name of a plucked string instrument, a kind of guitar played throughout the region of the Niger River loop, by \"court craftsmen\" in the Tuaregs and by griots in the Songhai . References",
+      "id": "HotpotQA-validation-00000999/02_Ahardin.html_c_0",
+      "doc_id": "HotpotQA-validation-00000999/02_Ahardin.html",
+      "community_id": 0,
+      "score": 25.272266
+    },
+    {
+      "text": "The Ovambo people ( pronounced [ovambo] ⓘ ), also called Aawambo , Ambo , Aawambo (Ndonga, Nghandjera, Kwambi, Kwaluudhi, Kolonghadhi, Mbalantu, Mbandja), or Ovawambo (Kwanyama), are a Bantu ethnic group native to Southern Africa, primarily modern Namibia . They are the single largest ethnic group in Namibia , accounting for about half of the population. Despite concerted efforts from Christian missionaries to wipe out what they believed to be 'pagan practices', the Ovambo have retained many aspects of their traditional cultural practices. They are also found in the southern Angolan province of Cunene , where they are more commonly referred to as \"Ambo\". The Ovambo consist of a number of kindred Bantu ethnic tribes who inhabit what was formerly called Ovamboland . In Angola, they are a minority, accounting for about two percent of the total Angolan population. In the early 21st century, the Ovambo ethnic group numbered about 2 million people. They are predominantly of the Lutheran (97%) and traditional faiths (3%), the former having followed conversion by German missionaries. Demographics Ovambo people distribution (approx). The Ovambo people reside in the flat sandy grassy plains of north Namibia and the Cunene Province in southwestern Angola , sometimes referred to as Ovamboland. These plains are generally flat, without many stones, and located at a high altitude. Water courses, known as oshanas , irrigate the area. In the northern regions of Ovamboland, tropical vegetation is sustained by abundant but seasonal rainfall that floods the region, creating temporary lakes and islands. In dry season, these pools of water empty out. The Ovambo have adapted to the widely varying seasonal weather patterns with their housing, agriculture, and livestock practices. The Ovambo people are a Bantu-speaking group. In Namibia, these are the AaNdonga, Ovakwanyama, Aakwambi, Aangandjera, Aambalantu, Ovaunda, Aakolonkadhi, Aakwaluudhi and Aambandja. In Angola, they are the Ovakwanyama, Aakafima, Evale and Aandonga. The Ovakwanyama are the largest sub-tribe. History The Ovambo started migrating to their current location around the 14th century from the Zambia region to the northeast. They settled near the Angola-Namibia border, with expansion further south into Namibia in the 17th century. They have a close cultural, linguistic and historical relationship to the Herero people , who are found in more southern parts of Namibia, and Kavango people to their east,",
+      "id": "HotpotQA-validation-00002249/03_Ovambo-people.html_c_0",
+      "doc_id": "HotpotQA-validation-00002249/03_Ovambo-people.html",
+      "community_id": 4,
+      "score": 22.736826
+    },
+    {
+      "text": "useless for hunting, and that \"musical bows were not associated with hunters' beliefs and ceremonies.\" Sachs considered the musical bows important, however. He pointed out that the name for the Greek lute, pandura was likely derived from pan-tur , a Sumerian word meaning \"small bow.\" He considered this evidence in support of the theory that the musical bow was ancestral to the pierced lute. The bows used for music required a resonator, a hollowed object like a bowl, a gourd, or a musician's mouth, in order to produce audible sound. Although the musical bow could be manipulated to produce more than one tone, instruments were developed from it that used one note per string. Since each string played a single note, adding strings added new notes for instrument families such as bow harps , harps, and lyres. In turn, this led to being able to play dyads and chords . Another innovation occurred when the bow harp was straightened out and a bridge used to lift the strings off the stick-neck , creating the lute. Musical bows are still used in a number of cultures today. It can be found as far south as Eswatini , and as far east as eastern Africa, Madagascar , and Réunion . and also outside of Africa, as in the case of berimbau , malunga (derivations of the African musical bow) or the Appalachian mouth-bow . Playing ways The usual way to make the bow sound is to pluck the string, although sometimes a subsidiary bow is used to scrape the string, much as on a violin . The Onavillu of Kerala sounds when struck with a thin stick. Unlike string instruments used in classical music , however, they do not have a built-in resonator, although resonators may be made to work with the bow in a number of ways. The most usual type of resonator consists of a gourd attached to the back of the string bearer. The bow may also be stood in a pit or gourd on the ground, or one end of it may be partially placed in the mouth. This last method allows the size of the resonator to be varied as the instrument is played, thus allowing a melody to be heard consisting of the notes resonating in the player's mouth. As well as these various forms of resonators, the bow is frequently played without a resonator at all. In Africa, the musical bow is usually played by a solo performer. In capoeira , the berimbau is played as part of the roda, a musical group standing in a circle, in the centre of which the capoeiristas perform or play. The Appalachian mouth-bow can be played amplified in old-time music jams. In Africa See : Uhadi musical bow See : Umuduri The Uhadi or 'thomo' musical bow used by the Basotho people. The Umuduri musical bow used in Burundi and Rwanda is similar",
+      "id": "HotpotQA-validation-00000999/01_Musical-bow.html_c_1",
+      "doc_id": "HotpotQA-validation-00000999/01_Musical-bow.html",
+      "community_id": 4,
+      "score": 21.61327
+    },
+    {
+      "text": "Obu man playing a musical bow in Obubra , Cross River State , Nigeria An unaccompanied berimbau The berimbau is a musical bow, originally from Africa, that is now used in Brazil. Problems playing this file? See media help . The musical bow ( bowstring or string bow , a subset of bar zithers ) is a simple string instrument used by a number of African peoples as well as Indigenous peoples of the Americas. It consists of a flexible, usually wooden, stick 1.5 to 10 feet (0.5 to 3 m) long, and strung end to end with a taut cord, usually metal. It can be played with the hands or a wooden stick or branch. It is uncertain if the musical bow developed from the hunting bow , though the San or Bushmen people of the Kalahari Desert do convert their hunting bows to musical use. Types of bow include mouth-resonated string bow, earth-resonated string bow , and gourd-resonated string bow. History India, ca. 1725, Bundi style. A divine musician plays a hunting bow with its tip placed in a resonance pot. Possible pinaka vina or ravanahatha . Lithograph of scene from the Trois Frères cave , showing a figure on the wall whose bow(?) has been thought to possibly be musical. There is speculation that the hunting bow may have been used as a musical instrument from as early as circa 13,000 B.C. Henri Breuil surveyed the Trois Frères in France caves and made an engraving that attempted to reproduce a c. 13,000 B.C. cave painting into a black-and-white lithograph engraving. His engraving showed a mysterious figure, a \"man camouflaged to resemble a bison,\" in the midst of a mass of herd-animals, \"herding the beasts and playing the musical bow.\" The artwork is confused, and those who are trying to reproduce the art in color have had to work to bring out legible images. One interpretation of the \"magician-hunter\" image considers his hunting-bow to be a musical bow, used as a single-stringed musical instrument. Whether the bow in the cave illustration is a musical instrument or the hunting tool in a Paleolithic hunt, musicologists have considered whether the bow could be a possible relative or ancestor to the chordophone : the lute , lyre , harp , and zither family. Curt Sachs said that there was good reason not to consider hunters' bows as likely musical bows. One reason was that the oldest known musical bows were 10 feet long, useless for hunting, and that \"musical bows were not associated with hunters' beliefs and ceremonies.\" Sachs considered the musical bows important, however. He pointed out that the name for the Greek lute, pandura was likely derived from pan-tur , a Sumerian word meaning \"small",
+      "id": "HotpotQA-validation-00000999/01_Musical-bow.html_c_0",
+      "doc_id": "HotpotQA-validation-00000999/01_Musical-bow.html",
+      "community_id": 4,
+      "score": 21.082386
+    },
+    {
+      "text": "Ground bow dyulu tama in Fouta Djallon region of Guinea, 1908 The ground-bow , also known as an earth-bow or ground harp , is a single-string bow-shaped folk musical instrument, classified as a chordophone . It is known in cultures of equatorial and south Africa, and in other cultures with African roots. It consists of a flexible stick planted into the ground (possibly a stripped sapling or a branch ), with a string from its free end to a resonator of some kind based on a pit in the ground. It looks like a game trap or a child toy, therefore its distribution over Africa used to be overlooked. Hornbostel (1933) classified is in the category of harps , although it has combined characteristics of a harp and a musical bow . The resonator may be a pit covered by a board, with string attached to it. Kruges describes several other constructions by Venda, e.g., the other end of a string is tied to a stone dropped into the pit, with string passing through the board covering the pit, etc. Other names include kalinga or galinga by Venda people . In their language \"galinga\" means simply a hole in the ground, while the origins of \"kalinga\" are uncertain. It is known as gayumba in Haiti , Dominican Republic , and tumbandera in Haitian traditions of Cuba . Baka people call it angbindi . It is also known in Cuba under the onomatopoeic name tingo-talango ( tingotalango ). Julio Cueva 's song Tingo Talango dedicated to this musical instrument describes its construction thus: Si quieren que les describa cómo es el tingo talango tráiganme un gajo de güira o si no uno de mango. Se abre un hueco en el suelo, encima una hoja de lata, en el centro un agujero donde un alambre se ata. Translation: If you want me to describe how is the tingo talango bring me a slice of güira or if not, one of mango. A hole opens in the ground a tin sheet on top, in the center a hole where a wire is tied. Tingo Talango is also the song by Ñico Lora . The instrument is reportedly nearly-extinct in the native cultures. Playing techniques Kalinga may be struck by a stick or plucked in various ways. The bow stick may be bent to change the tension of the string, and hence the tone. It can be played in a glissando manner: the stick is bent, struck, and released, producing a peculiar sound. The produced pitches are not always stable. Kalinga is usually played to provide repetitive accompaniment to the choral song. See also Ground zither References Further reading Ground bow The Ground Bow in Zimbabwe and Beyond",
+      "id": "HotpotQA-validation-00000999/03_Ground-bow.html_c_0",
+      "doc_id": "HotpotQA-validation-00000999/03_Ground-bow.html",
+      "community_id": 0,
+      "score": 18.853535
+    },
+    {
+      "text": "Good magic in Ovambo , Finnish Anthropological Society, Helsinki, 1993, 234 p. ISBN 952-9573-02-2 Matti Kuusi, Ovambo proverbs with African parallels , Suomalainen Tiedeakatemia, Helsinki, 1970, 356 p. Carl Hugo Linsingen Hahn, The native tribes of South-West Africa : The Ovambo - The Berg Damara - The bushmen of South West Africa - The Nama - The Herero , Cape Times Ltd., Le Cap, 1928, 211 p. Seppo Löytty, The Ovambo sermon : a study of the preaching of the Evangelical Lutheran Ovambo-Kavango Church in South West Africa , Luther-Agricola Society, Tampere (Finland), 1971, 173 p. Giorgio Miescher, The Ovambo Reserve Otjeru (1911–1938) : the story of an African community in Central Namibia , Basler Afrika Bibliographien, Bâle, 2006, 22 p. Ramiro Ladeiro Monteiro, Os ambós de Angola antes da independência , Instituto Superior de Ciências Sociais e Políticas, Lisbon, 1994, 311 p. (thesis, in (in Portuguese) ) External links Wikimedia Commons has media related to Ovambo people . Language Map of Namibia",
+      "id": "HotpotQA-validation-00002249/03_Ovambo-people.html_c_5",
+      "doc_id": "HotpotQA-validation-00002249/03_Ovambo-people.html",
+      "community_id": 4,
+      "score": 17.97298
+    },
+    {
+      "text": "Ovambo people rejected these developments. In 1975 the appointed chief minister of Ovamboland was assassinated. In conjunction with the armed SWAPO movement, Namibia and its Ovambo people gained independence from South Africa in 1990. Religion Traditional religion The traditional religion of the Ovambo people is the primary faith of less than 3%. In the 21st century, most state Christianity as their primary faith. The Ovambo's traditional religion envisions a supreme being named Kalunga , with their rites and rituals centered around sacred fire . This is similar to religious traditions of many ethnic groups in southwestern Africa. The Kalunga cosmology states that the Supreme Being created the first man and first woman, who had a daughter and two sons. It is the daughter's lineage that created the Ovambo people. Their traditional beliefs are expressed through their matrilineal kinship system . The rituals involve elaborate fire making and keeping ceremonies, a rain making dance, and the use of herbs and smoke. Certain rites include throwing herbs in the fire and inhaling the rising smoke. The head priest traditionally was the king of a tribe. His role in part was to attend to the supernatural spirits and be the chief representative of the Ovambo tribe to the deities. Christianity A Lutheran church in Ongwediva . Christianity arrived among the Ovambo people in the late 19th century. The first Finnish missionaries arrived in Ovamboland in the 1870s. They were Lutheran and influenced the conversion of Ovambo people to that Protestant faith. The Finnish missions influenced both religion and cultural practices. For example, the typical dress style of contemporary Ovambo women, which includes a head scarf and loose full-length maxi, was derived from those of the 19th-century Finnish missionaries. The Ovambo now predominantly follow Christian theology, prayer rituals and festivities. Some traditional religious practices have continued, such as the use of ritual sacred fire. They also invoke their supreme creator Kalunga . Thus, the Ovamba have adopted a syncretic form of Christianity. Most weddings, for instance, feature a combination of Christian beliefs and Ovambo traditions. Their traditional dancing is done to drumming (Oshiwambo folk music).  Society and culture Huts of the Ovambo people, and their artwork (right). The traditional home is a complex of huts surrounded by a fence of large vertical poles linked by two horizontal poles on each side. The complex is a maze with two gates but it is easy to get lost within the homestead. Each hut generally has a different purpose, such as a Ondjugo (the woman of the homestead's hut) or Epata (kitchen area). The Ovambo people lead a settled life, relying mostly on a combination of agriculture and animal husbandry. The staple crops have been millet and",
+      "id": "HotpotQA-validation-00002249/03_Ovambo-people.html_c_2",
+      "doc_id": "HotpotQA-validation-00002249/03_Ovambo-people.html",
+      "community_id": 4,
+      "score": 17.222715
+    },
+    {
+      "text": "The Appalachian mouth-bow can be played amplified in old-time music jams. In Africa See : Uhadi musical bow See : Umuduri The Uhadi or 'thomo' musical bow used by the Basotho people. The Umuduri musical bow used in Burundi and Rwanda is similar to the Uhadi bow of South Africa. Two bows in which the resonator is a gourd, attached to the instrument's center and pressed into the musician's chest or stomach. Both are sounded with a stick. Due to the nature of their construction and playing, musical bows are quiet instruments, therefore needing a resonator to resound. The resonator can either be a gourd (as in uhadi , umakhweyana , segankure , xitende , berimbau , etc.) or the player's mouth (as in umrhubhe , umqangala , tshihwana , xizambi , etc.) Musical bows are the main instruments of the Nguni and Sotho people, the predominant peoples of South Africa. Historians believe that many of the musical bows came from Khoisan peoples. Although there are many differences between musical bows, all of them share two things: a resonator, and at least two fundamental notes. The strongest notes are the fundamentals , the deepest notes produced by the string, whereas the higher notes (the harmonic partials ) are produced by the resonator. There are at least two fundamental notes produced by all musical bows, an open (when the player does not shorten it or touch it) and a closed (where the string is shortened or stopped by the player's hand). In Xhosa they are called vu (from the word Vuliwe , 'open') and ba (from Banjiwe , 'held') respectively. These two notes can already be on the string, if it is divided or stopped by a string attached to the gourd, as in the case of umakhweyana , xitende , berimbau , hungu , etc. The pitch difference between a vu and a ba is usually about a whole tone . In certain places, it can be closer to a semitone (e.g. Zulu) or closer to a minor third (Tsonga). Some of those instruments have more than two notes, for example the Zulu umakhweyana and the Tsonga xitende have three, whereas the Venda tshihwana has four. Other names Samo musicians from the Upper Volta, Burkina Faso playing a musical bow, using their mouths as resonators. 1970–1971. Musical bows are known by various names in the different languages of South Africa - some refer only to musical bows using gourds as resonators, others using the mouth: Akele : ngongo Kimbundu : hungu Nguni : makhoyane Pedi :",
+      "id": "HotpotQA-validation-00000999/01_Musical-bow.html_c_2",
+      "doc_id": "HotpotQA-validation-00000999/01_Musical-bow.html",
+      "community_id": 4,
+      "score": 16.695745
+    },
+    {
+      "text": "a different purpose, such as a Ondjugo (the woman of the homestead's hut) or Epata (kitchen area). The Ovambo people lead a settled life, relying mostly on a combination of agriculture and animal husbandry. The staple crops have been millet and sorghum ( iilyavala ), and beans ( omakunde ) are another popular crop. In drier regions or seasons, pastoral activity with herds of cattle ( eengobe / eenghwandabi ), goats ( iikombo / onakamela ) and sheep ( eedi ) becomes more important. The animal husbandry is not for meat ( ombelela ), but primarily as a source of milk ( omashini ). Their food is supplemented by hunting, fishing, and gathering. During the colonial era, the Ovambo were active in elephant ( eenjaba ) hunting for their tusks to supply the ivory demand, and they nearly hunted the elephants in their region to extinction. Grasslands in rural Ovamboland. Each Ovambo tribe had a hereditary chief who is responsible for the tribe. Many tribes adapted representation by having a council of headmen who run tribal affairs. Members of the royal family of the Owamboland are known as aakwanekamba , ovakwaluvala , ovakwamalanga , ovakwaanime , aakwanyoka and many more; only those who belong to this family by birth, through the maternal line, have a claim to chieftainship. The tribes figure their descent by a matrilineal kinship system, with hereditary chiefs arising from the daughter's children, not the son's. Polygyny is accepted, with the first wife recognized as the senior. Ovambo brew a traditional liquor called ombike . It is distilled from fermented fruit mash and particularly popular in rural areas. The fruit to produce ombike are collected from makalani palms ( Hyphaene petersiana ), jackal berries ( Diospyros mespiliformis ), buffalo thorns ( Ziziphus mucronata ), bird plumes and cluster figs ( Ficus racemosa ). Ombike , with additives like sugar, is also brewed and consumed in urban areas. This liquor is then called omangelengele ; it is more potent and sometimes poisonous. New Era , a Namibian English-language daily newspaper, reported that clothes, shoes, and tyres have been found to have been brewed as ingredients of omangelengele . Ovambo clans The following table contains the names, areas, dialect names and the locations of the Ovambo according to T. E. Tirronen's Ndonga-English Dictionary. The table also contains information concerning the classification of noun class of the Proto-Bantu language for these words. See also Flag of Ovamboland Herero",
+      "id": "HotpotQA-validation-00002249/03_Ovambo-people.html_c_3",
+      "doc_id": "HotpotQA-validation-00002249/03_Ovambo-people.html",
+      "community_id": 4,
+      "score": 15.6036005
+    },
+    {
+      "text": "Musical bows are known by various names in the different languages of South Africa - some refer only to musical bows using gourds as resonators, others using the mouth: Akele : ngongo Kimbundu : hungu Nguni : makhoyane Pedi : lekope S. Sotho : lesiba , thomo , setolotolo Tepehuán : gat Tswana : segankure Tsonga : xizambi , xitende Umbundu : ombulumbumba Venda : tshihwana , lugube , tshijolo Xhosa : uhadi , umrhubhe , umqunge , inkinge Zulu : umakhweyana , ugubu , umqangala , umhubhe !Kung : m'bolumbumba Lingala : tolo-tolo umqangala In other places Richard Nunns playing a Māori musical bow The most popular musical bow today is the Brazilian adaptation of the musical bow, the berimbau , most commonly associated with the jogo de capoeira . Kse diev , a gourd resonated \"musical bow cum stick\" whose string is made out of copper , is used in Cambodia and is considered one of the oldest Cambodian instruments, with bas-reliefs going back to the 12th century AD. Has been thought of as musical bow; under Hornbostel-Sachs classification, it is a \"Musical bow cum stick\" because it has only one curved end to flex. Under Hornbostel-Sachs, musical bows are defined as flexible and curved string bearers or as stick zithers with both ends flexible and curved. Malunga , a musical bow made of bamboo , gut strings , and a coconut gourd is used by the Siddi people of India , of African origin. Belembaotuyan is found in Guam, probably introduced through trade between South America and Asia in the nineteenth century. Bobre , musical bow of Mauritius and Réunion . Kunkulkawe is the name of a musical bow found among the Mapuche people in Chile and Argentina . Piompirintzi is the name of a musical bow found among the Ashaninka people in Peru. Latajkiaswolé is the name of a musical bow found among the Wichi , Pilaga , and other tribes of the Gran Chaco region of South America . In the United States a musical bow is primarily found in the Appalachian Mountains , where it is called a \"mouthbow\" or \"mouth bow\". In northwestern Mexico, the Tepehuán Indians of Durango use the musical bow during their mitote. The Tepehuán's musical bow has a gourd attached to it. The kalumbu is played by the Tonga and Ila people of Zambia and Zimbabwe . The ku is a Maori instrument from New Zealand ,",
+      "id": "HotpotQA-validation-00000999/01_Musical-bow.html_c_3",
+      "doc_id": "HotpotQA-validation-00000999/01_Musical-bow.html",
+      "community_id": 4,
+      "score": 14.785448
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00006892/02_The-Titanic-song.html_0",
+      "summary": "**Title**: Folk Song \"The Titanic\"\n\n**Summary**:  \n\"The Titanic\" is a traditional American folk and children's song commemorating the 1912 sinking of RMS Titanic. First composed within weeks of the disaster, it spread rapidly across regions, spawning variants with differing verses but a shared lamenting chorus. Early documentation places versions in Alabama (1915–16) and North Carolina (c. 1920), while commercial recordings began with Ernest Stoneman's 1924 release. African-American performers particularly embraced the song, interpreting the exclusion of Black passengers and the ship's fate as ironic commentary on social injustice and divine retribution.\n\n**Keywords**:  \nTitanic folk song, American traditional music, disaster ballad, African-American folk, 1912 sinking",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/01_Stangeria.html_0",
+      "summary": "**Title**: Stangeria eriopus Cycad Profile  \n\n**Summary**:  \nStangeria eriopus, the sole member of its genus, is a southern-African cycad with fern-like, pinnately-veined leaves that vary from 30 cm in fire-prone grasslands to 2 m in moist forests. Its entirely subterranean carrot-shaped tuber stores carbohydrates, houses nitrogen-fixing cyanobacteria, and yields high sodium-sulfate levels that cause emetic effects. Molecular data place Stangeria closer to Ceratozamia and Zamia than to the formerly linked Bowenia, dissolving the monophyly of Stangeriaceae. Heavy traditional-medicine and veterinary demand for the tuber—sold for pennies per gram—has pushed wild populations toward endangerment.  \n\n**Keywords**:  \nStangeria eriopus, southern African cycad, traditional medicine, endangered tuber, phylogenetic reclassification",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000999/02_Ahardin.html_0",
+      "summary": "**Title**: Tuareg Ahardin Musical Bow\n\n**Summary**:  \nThe ahardin is a traditional Tuareg musical bow made from a curved branch strung with twisted raw leather or acacia bark, using an inverted calabash on the ground as its resonator. Played primarily by girls, the musician steadies the calabash with her knee, stops the string with the left hand to shape melody, and plucks it with the right thumb and forefinger in a rhythmic, vibrating motion. Easy to improvise, the instrument functions mainly as a children’s game today. The related term “tahardant” denotes a distinct plucked lute—akin to a guitar—played by Tuareg court artisans and Songhai griots throughout the Niger River loop region.\n\n**Keywords**:  \nahardin, Tuareg musical bow, calabash resonator, tahardant, Niger River loop",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/01_Stangeria.html_2",
+      "summary": "**Title**: Stangeria eriopus Cycad Biology & Conservation\n\n**Summary**:  \nStangeria eriopus is a rare South African cycad occupying a narrow 800 km coastal strip from KwaZulu-Natal to southern Mozambique, where it tolerates varied light and soil conditions but avoids salt spray. Once mistaken for a fern until its cycad cones were recognized in 1851, it carries the valid epithet “eriopus” (“woolly-footed”) honoring William Stanger. The species is vulnerable due to habitat loss and heavy harvesting for traditional medicine, and it faces additional risks from the invasive Thai scale insect Aulacaspis yasumatsui and from acting as an asymptomatic host of the citrus pathogen Guignardia mangiferae. Conservation measures include CITES Appendix I protection, tissue-culture propagation, and asexual reproduction from root fragments.\n\n**Keywords**: Stangeria eriopus, cycad conservation, traditional medicine threat, Aulacaspis yasumatsui, South African flora",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_2",
+      "summary": "**Title:** Waltzing Matilda Origins & Evolution  \n\n**Summary:**  \nThese chunks trace the complete birth-to-icon story of Australia’s unofficial anthem. In 1895 Banjo Paterson, holidaying in outback Queensland, heard Christina Macpherson play a tune she had memorised from a Warrnambool race-meeting band; he fashioned the bush-ballad lyrics about a swagman, a jumbuck and a fatal confrontation at a billabong. Within months the song was being sung in station homesteads, but its popular melody and familiar chorus were fixed only after tea merchant James Inglis bought the rights in 1903 and had Marie Cowan shorten, polish and harmonise it for an advertising jingle for Billy Tea. Subsequent copyright claims, international royalty disputes and countless recordings turned the once-local bush song into the world’s most-recorded piece of Australian music.  \n\n**Keywords:** Waltzing Matilda, Banjo Paterson, Christina Macpherson, Marie Cowan, Australian folk song",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004981/02_Africa-Magic.html_1",
+      "summary": "**Title**: Africa Magic Channel Network\n\n**Summary**:  \nAfrica Magic is a MultiChoice-owned family of Pay-TV channels launched in 2003 to showcase Nollywood and broader African storytelling, now reaching 50+ countries. The brand has evolved from a single channel into a multi-tier network including Africa Magic Showcase, Urban, Epic, Family, and language-dedicated feeds for Hausa, Yoruba, and Igbo audiences, alongside affiliated regional channels such as Maisha Magic (East Africa), Zambezi Magic (Southern Africa), Pearl Magic (Uganda), Akwaaba Magic (Ghana), and Abol TV (Ethiopia). It produces and premieres original series, reality shows, and films, and hosts the annual Africa Magic Viewers’ Choice Awards (AMVCA), Africa’s largest celebration of film and television talent.\n\n**Keywords**:  \nAfrica Magic, Nollywood, AMVCA, MultiChoice, African television",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006850/00_Old-Smokey.html_1",
+      "summary": "**Title**: Old Smokey Electric Chairs  \n\n**Summary**:  \n“Old Smokey” is the shared nickname for the electric chairs historically used for capital punishment in New Jersey, Pennsylvania, and Tennessee. New Jersey executed 159 people in its chair between 1907 and 1963, most infamously Richard Hauptmann for the Lindbergh kidnapping; the chair is now exhibited at the New Jersey State Police Museum. Pennsylvania’s chair ended 350 lives from 1915 to 1962 and is stored, never displayed, at the State Museum of Pennsylvania. Tennessee’s chair executed 125 people from 1916 to 1960, was refurbished in 2007, and became a backup execution method in 2014; it is now displayed at the Alcatraz East Crime Museum. All three states have since replaced electrocution with lethal injection or abolished the death penalty.  \n\n**Keywords**: electric chair, capital punishment, Old Smokey, execution history, lethal injection",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000999/03_Ground-bow.html_0",
+      "summary": "**Title**: Ground Bow Instruments\n\n**Summary**:  \nThe ground bow—also called earth-bow, ground harp, tingo-talango, kalinga/galinga, or angbindi—is a single-string chordophone made by planting a flexible stick in the ground, stretching a string from its tip to a pit-based resonator, and covering the pit with a board or tin sheet. Found across equatorial and southern Africa and in Afro-diasporic cultures of Haiti, the Dominican Republic, and eastern Cuba, it was historically overlooked because its trap-like appearance resembled a toy. Played by striking or plucking while bending the stick to vary tension, it supplies repetitive, often glissando accompaniment to choral songs, though it is now nearly extinct in many traditions.\n\n**Keywords**:  \nground bow, earth-bow, kalinga, tingo-talango, African chordophone",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004210/00_Tosca.html_14",
+      "summary": "**Title**: Puccini’s Tosca Analyzed\n\n**Summary**:  \nGiacomo Puccini’s *Tosca* is a through-composed opera that abandons traditional set-piece structures in favor of continuous music, using leitmotifs to represent characters and themes. Notable musical elements include the “Grand Tunes” like “Recondita armonia,” “Vissi d’arte,” and “E lucevan le stelle,” which are integrated into a dramatic narrative driven by Scarpia’s tyranny and Tosca’s jealousy. The opera’s instrumentation is rich and varied, and its recording history spans from early acoustic versions to iconic performances by Maria Callas. The final act’s emotional climax and controversial ending underscore the opera’s enduring impact and interpretive complexity.\n\n**Keywords**:  \nPuccini, Tosca, leitmotifs, opera structure, recordings",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/03_Ovambo-people.html_1",
+      "summary": "**Title**: Ovambo People Under Colonial Rule\n\n**Summary**:  \nThe Ovambo people, indigenous to northern Namibia and southern Angola, remained largely isolated from early Swahili-Arab and European trade networks due to their nomadic, pastoral lifestyle. German colonization in 1884 initially left them undisturbed, but South African annexation after World War I brought profound disruption, including plantations, ranching, and mining in Ovamboland. The South Africans enforced racial segregation through the “Police Zone,” restricting Ovambo movement while exploiting their labor in mines and cities. Despite suppression of 1920s–30s rebellions, the Ovambo resisted apartheid policies, rejecting puppet chiefs and ultimately supporting SWAPO in the struggle that led to Namibian independence in 1990.\n\n**Keywords**: Ovambo, Namibia, apartheid, migrant labor, SWAPO",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004988/01_Alf-Clausen.html_1",
+      "summary": "**Title**: Alf Clausen’s Simpsons Scoring Legacy  \n\n**Summary**:  \nAlf Clausen, sole composer for *The Simpsons* from 1990-2017, transformed TV cartoon scoring by treating the show as “drawn drama,” prioritizing character emotion over action. Conducting a weekly 35-piece orchestra, he composed in every style—from gritty jazz to Broadway parody—crafting story-specific themes rather than character leitmotifs. His rigorous schedule demanded up to 57 cues per week, earning him 30 Emmy nominations and 5 Annie Awards.  \n\n**Keywords**:  \nSimpsons composer, television scoring, orchestral drama, Emmy nominations, musical parody",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/03_Ovambo-people.html_4",
+      "summary": "**Title**: Ovambo People and Culture  \n\n**Summary**:  \nThe Ovambo, Namibia’s largest ethnic group, form a matrilineal Bantu society stretching across northern Namibia and southern Angola’s Cunene province.  \nThey blend Lutheran Christianity—introduced by Finnish missionaries in the late 19th century—with indigenous beliefs centered on the supreme deity Kalunga and sacred-fire rituals.  \nTraditional life revolves around millet and sorghum farming, cattle herding for milk, and homesteads of specialized huts governed by hereditary chiefs traced through the maternal line.  \nDespite colonial-era pressures and near extinction of local elephants from ivory hunting, the Ovambo preserved core customs such as ombike brewing, polygyny, and rain-making dances, achieving Namibian independence alongside SWAPO in 1990.  \n\n**Keywords**: Ovambo, Kalunga, matrilineal, Lutheran syncretism, ombike",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "summary": "**Title**: Cyrtanthus Genus Overview  \n\n**Summary**:  \nCyrtanthus is a genus of perennial, bulbous herbs in the Amaryllidaceae family, constituting the sole member of the African tribe Cyrtantheae. Phylogenetic studies place this tribe within the subfamily Amaryllidoideae. More than 50 species are recognized, all endemic to central and southern Africa, displaying diverse floral forms and ecological adaptations.  \n\n**Keywords**: Cyrtanthus, Amaryllidaceae, Cyrtantheae, African bulbs, plant taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007021/01_Michel-Foucault.html_26",
+      "summary": "**Title**: Foucault’s Power-Knowledge Critiques\n\n**Summary**:  \nThe chunks center on Michel Foucault’s concept of “power/knowledge,” tracing how power relations produce and circulate what counts as “truth” or “common sense.” Critics argue that Foucault’s genealogical method, while exposing hidden power structures, offers no positive ethical alternatives, leading to charges of crypto-normativism and defeatism. Historians fault his empirical rigor, feminists note his neglect of race, and conservative thinkers reject his social-constructionist view of sexuality and morality. Across debates, the tension persists between Foucault’s destabilizing analytics and the demand for normative foundations.\n\n**Keywords**:  \npower/knowledge, genealogy, social construction, critique, normativity",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0",
+      "summary": "**Title**: Haringey Heartlands Regeneration  \n\n**Summary**:  \nHaringey Heartlands is a large-scale urban regeneration initiative in north London’s Wood Green area, designed to create a new civic and cultural quarter centring on Clarendon Square and the new Mary Neuner Road spine. The project will deliver 1,300–1,500 homes, business units, a 20-storey tower, and public open spaces. Public consultation began in 2003, a development plan followed in 2005, and a £4.6 million government grant enabled construction of the spine road between 2008 and 2009.  \n\n**Keywords**:  \nurban regeneration, Haringey, Clarendon Square, Wood Green, housing development",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/02_Stangeriaceae.html_1",
+      "summary": "**Title**: Zamiaceae Cycad Family Overview  \n\n**Summary**:  \nThe text provides a detailed botanical description of the Zamiaceae, a family of cycads distributed across tropical and subtropical Africa, Australia, and the Americas. It outlines their palm-like or fern-like appearance, dioecious nature, and key morphological traits such as pinnate leaves, determinate cones, and angular seeds. The family comprises roughly 150 species across eight extant genera, plus several extinct genera, and is noted for its poisonous glycosides. Formerly recognized as a separate family, Stangeriaceae is now classified within Zamiaceae based on phylogenetic evidence.  \n\n**Keywords**:  \nZamiaceae, cycads, morphology, genera, phylogeny",
+      "is_seed": false,
+      "expand_score": 0.851351261138916
+    },
+    {
+      "community_key": "HotpotQA-validation-00004988/00_The-Simpsons-Theme.html_2",
+      "summary": "**Title:** The Simpsons Theme Variations\n\n**Summary:**  \nThe Simpsons Theme, originally composed by Danny Elfman in 1989, has become one of the most recognizable TV themes and has undergone numerous stylistic reinterpretations. While Elfman’s Lydian-dominant melody anchors the show, in-house composer Alf Clausen and guest artists have created genre-spanning alternate versions—blues, noise-rock, orchestral, a cappella, and Latin—that often reflect each episode’s plot. Notable covers include Green Day’s punk rendition for The Simpsons Movie, Weezer’s 2020 performance, and homages to Dragnet or The Addams Family in Halloween specials. These variants extend to both opening and closing credits, with arrangements tailored to episode themes or performed by featured musical guests.\n\n**Keywords:** Danny Elfman, Alf Clausen, cover versions, Green Day, Treehouse of Horror",
+      "is_seed": false,
+      "expand_score": 0.8341456651687622
+    },
+    {
+      "community_key": "HotpotQA-validation-00000999/01_Musical-bow.html_4",
+      "summary": "**Title:** Global Musical Bow Traditions\n\n**Summary:**  \nMusical bows are simple, flexible stick-and-string instruments found across Africa, the Americas, Oceania, and Asia, each culture adapting the basic form with distinct resonators—gourds, the player’s mouth, or the ground—to amplify sound. African peoples such as the Zulu, Xhosa, and Basotho developed sophisticated versions like the uhadi and umakhweyana, while diasporic and indigenous adaptations include Brazil’s berimbau, India’s malunga, Hawaii’s ukeke, and the Appalachian mouth-bow. Shared traits include two fundamental notes (open and stopped) and varied playing techniques (plucking, striking, or bowing), underscoring both the instrument’s antiquity and its global diffusion through migration, trade, and slavery.\n\n**Keywords:**  \nmusical bow, gourd resonator, mouth resonator, berimbau, uhadi",
+      "is_seed": false,
+      "expand_score": 0.8329359292984009
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "summary": "**Title**: The Mall Wood Green History\n\n**Summary**: The Mall Wood Green, originally \"Wood Green Shopping City,\" is a six-storey retail-residential complex in north London built on a disused 1970s railway station and opened by Queen Elizabeth II in 1981. After early-1990s recession and a 1992 bomb attack, The Mall Fund bought it in 2002, invested £30 million, added a 12-screen cinema and larger market hall, and won 2007 permission for a westward extension that introduced a flagship Primark. The centre now hosts 100-plus shops, 45 market stalls, Sky City housing above, its own police unit, and strong Piccadilly-line and bus links, making it Haringey’s commercial hub.\n\n**Keywords**: Wood Green Shopping City, The Mall Fund, Sky City housing, retail redevelopment, Haringey commerce",
+      "is_seed": false,
+      "expand_score": 0.8159486055374146
+    },
+    {
+      "community_key": "HotpotQA-validation-00002379/00_Il-trovatore.html_14",
+      "summary": "**Title**: Il Trovatore Analysis & Legacy  \n\n**Summary**:  \nThese chunks collectively examine Verdi’s opera *Il trovatore*, blending scholarly bibliography with plot, historical context, and cultural afterlife. They detail how the fictional narrative—featuring Manrico, Leonora, Azucena and Count di Luna—echoes the real 15th-century Aragonese succession war, particularly the losing cause of Count James II of Urgell versus the victorious Ferdinand. The text notes the opera’s structural focus on personal rivalry and doomed rebellion, analyzes key musical excerpts such as the “Miserere” and “Di quella pira,” and traces the work’s enduring presence in early recordings, concert halls, film citations (Visconti’s *Senso*, Bertolucci’s *La Luna*), and popular media.  \n\n**Keywords**:  \n- Il trovatore  \n- Verdi  \n- Aragonese civil war  \n- Miserere  \n- Anvil Chorus",
+      "is_seed": false,
+      "expand_score": 0.8046742677688599
+    },
+    {
+      "community_key": "HotpotQA-validation-00002379/00_Il-trovatore.html_8",
+      "summary": "**Title:** Il Trovatore Plot & Performance History\n\n**Summary:**  \nThese chunks recount the dramatic narrative of Verdi’s opera *Il Trovatore*, centering on the tragic love triangle between troubadour Manrico, noblewoman Leonora, and Count di Luna, complicated by Azucena’s vow of vengeance for her mother’s execution. Key scenes include Azucena’s mistaken infanticide, Manrico’s imprisonment, Leonora’s sacrificial suicide, and the lovers’ fatal reunion. Additional excerpts detail the opera’s 1853 premiere, rapid global diffusion (229 productions in three years), and Verdi’s French adaptation *Le trouvère* with added ballet, illustrating both its enduring popularity and its evolution across stages in Naples, Paris, New York, and London.\n\n**Keywords:**  \nVerdi, Il Trovatore, Leonora, Manrico, Azucena",
+      "is_seed": false,
+      "expand_score": 0.800664484500885
+    },
+    {
+      "community_key": "HotpotQA-validation-00004981/00_2015-Africa-Magic-Viewers-Choice-Awards.html_0",
+      "summary": "**Title**: 2015 Africa Magic Viewers Choice Awards\n\n**Summary**: The 3rd Africa Magic Viewers Choice Awards, held on 7 March 2015 at Eko Hotels and Suites in Lagos, celebrated excellence in African television, film, and digital content. Kunle Afolayan’s October 1 dominated with 9 wins from 13 nominations, while The Meeting secured top comedy honors. New acting laurels went to OC Ukeje and Kehinde Bankole in drama, and Rita Dominic and Femi Jacobs in comedy, alongside special awards for C.J. Obasi, Ayo Makun, and the late Amaka Igwe.\n\n**Keywords**: AMVCA 2015, October 1, The Meeting, African film awards, Lagos ceremony",
+      "is_seed": false,
+      "expand_score": 0.796393632888794
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2",
+      "summary": "**Title**: Haringey Council Governance & History\n\n**Summary**: Haringey London Borough Council, a Labour-run authority since 1971, was created in 1965 through the merger of Hornsey, Tottenham and Wood Green councils. After the 2020 closure of its Wood Green Civic Centre due to structural problems, meetings temporarily shifted to Tottenham Town Hall and George Meehan House while a refurbishment aims to reopen the Civic Centre by 2026. The council’s history includes major child-protection failures surrounding the Victoria Climbié and Baby P cases, leading to national criticism, leadership resignations, and performance rankings at the bottom of national audits in 2009; children’s services exited central government “special measures” in 2013 following sustained improvements.\n\n**Keywords**: Haringey Council, Civic Centre refurbishment, child-protection scandals, Labour control, London borough governance",
+      "is_seed": false,
+      "expand_score": 0.7856087684631348
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00006892/02_The-Titanic-song.html_0",
+      "HotpotQA-validation-00002097/01_Stangeria.html_0",
+      "HotpotQA-validation-00000999/02_Ahardin.html_0",
+      "HotpotQA-validation-00002097/01_Stangeria.html_2",
+      "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_2",
+      "HotpotQA-validation-00004981/02_Africa-Magic.html_1",
+      "HotpotQA-validation-00006850/00_Old-Smokey.html_1",
+      "HotpotQA-validation-00000999/03_Ground-bow.html_0",
+      "HotpotQA-validation-00004210/00_Tosca.html_14",
+      "HotpotQA-validation-00002249/03_Ovambo-people.html_1",
+      "HotpotQA-validation-00004988/01_Alf-Clausen.html_1",
+      "HotpotQA-validation-00002249/03_Ovambo-people.html_4",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00007021/01_Michel-Foucault.html_26",
+      "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00002097/02_Stangeriaceae.html_1",
+      "HotpotQA-validation-00004988/00_The-Simpsons-Theme.html_2",
+      "HotpotQA-validation-00000999/01_Musical-bow.html_4",
+      "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "HotpotQA-validation-00002379/00_Il-trovatore.html_14",
+      "HotpotQA-validation-00002379/00_Il-trovatore.html_8",
+      "HotpotQA-validation-00004981/00_2015-Africa-Magic-Viewers-Choice-Awards.html_0",
+      "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00006892/02_The-Titanic-song.html_0",
+      "HotpotQA-validation-00002097/01_Stangeria.html_0",
+      "HotpotQA-validation-00000999/02_Ahardin.html_0",
+      "HotpotQA-validation-00002097/01_Stangeria.html_2",
+      "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_2",
+      "HotpotQA-validation-00004981/02_Africa-Magic.html_1",
+      "HotpotQA-validation-00006850/00_Old-Smokey.html_1",
+      "HotpotQA-validation-00000999/03_Ground-bow.html_0",
+      "HotpotQA-validation-00004210/00_Tosca.html_14",
+      "HotpotQA-validation-00002249/03_Ovambo-people.html_1",
+      "HotpotQA-validation-00004988/01_Alf-Clausen.html_1",
+      "HotpotQA-validation-00002249/03_Ovambo-people.html_4",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00007021/01_Michel-Foucault.html_26",
+      "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0",
+      "HotpotQA-validation-00002097/02_Stangeriaceae.html_1",
+      "HotpotQA-validation-00004988/00_The-Simpsons-Theme.html_2",
+      "HotpotQA-validation-00000999/01_Musical-bow.html_4",
+      "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "HotpotQA-validation-00002379/00_Il-trovatore.html_14",
+      "HotpotQA-validation-00002379/00_Il-trovatore.html_8",
+      "HotpotQA-validation-00004981/00_2015-Africa-Magic-Viewers-Choice-Awards.html_0",
+      "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2"
+    ],
+    "allowed_chunk_pool_size": 84,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

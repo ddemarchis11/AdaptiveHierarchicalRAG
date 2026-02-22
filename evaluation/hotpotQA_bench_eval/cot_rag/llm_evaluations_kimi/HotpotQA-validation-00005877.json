@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005877",
+  "question": "Which musician obtained fame first, Terry Kath or Róisín Murphy?",
+  "gold_answer": "Terry Alan Kath",
+  "llm_answer": "Terry Kath obtained fame first.  \nEvidence: Terry Kath was active and gaining recognition with the band Chicago (formerly The Chicago Transit Authority) from 1969 onward, including landmark albums released in 1969 and 1970.  \nRóisín Murphy, by contrast, first became known in the 1990s as part of the duo Moloko.  \nThus, Kath’s rise to fame predates Murphy’s by more than two decades.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Terry Kath as obtaining fame first, supported by the context that Kath was active with Chicago starting in 1969, while Róisín Murphy gained recognition in the 1990s. The answer is faithful to the retrieved context and includes all relevant facts from the Gold Answer."
+  }
+}

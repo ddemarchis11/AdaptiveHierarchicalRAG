@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c618ccd3",
+  "question": "Write a diary entry from Eugenia’s perspective about the day she witnessed 'He' rolling on the ground beside her and what followed.",
+  "gold_answer": "Diary, Today was quite unexpected. As I stood by the roadside, 'He' suddenly rolled on the ground beside me. I was startled, unsure how to react. Bray soon arrived, and I held out my slim hand to him, hoping to steady myself. The air was tense; the lady nearby seemed sorry for 'He', who eventually caught hold of a woman's body—Sophy, I believe.",
+  "llm_answer": "Diary Entry – Eugenia Neworth\n\nThis morning the garden was so bright I thought I might coax the roses without being overheard. I took my little watering-pot and knelt among the lilies, when a tremendous rustle came from the wall. Before I could rise, a man—Mr. Bray—sprang from the branches, struck my tin pot, and rolled on the ground beside me. For an instant we were two astonished children; then laughter carried us back to the mountain slope where we had first met. He rose, brushing sand from his coat, and said we were “quits.” I answered that we were not on the mountains now, yet my heart confessed we were exactly where we had been then—face to face, with no words needed. He asked leave to call; I granted it. The watering-pot is dented, but the roses will open the sweeter for the disturbance.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the essence of the Gold Answer, describing the incident of Bray rolling on the ground beside Eugenia and their interaction afterward. It is faithful to the retrieved context, which details the event in the garden, and includes all key facts from the Gold Answer, such as Bray's actions, Eugenia's reaction, and the emotional undertones of the encounter. The additional details about the garden and Eugenia's thoughts are relevant and enrich the narrative without contradicting the context."
+  }
+}

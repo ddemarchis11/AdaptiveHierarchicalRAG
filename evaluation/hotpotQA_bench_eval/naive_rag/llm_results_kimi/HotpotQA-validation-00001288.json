@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001288",
+  "question": "Which character did Tamzin Outhwaite play first: Connie (on \"Inside No. 9\") or Melanie Owen (\"EastEnders\")?",
+  "gold_answer": "Melanie Owen",
+  "llm_answer": "Tamzin Outhwaite played Melanie Owen in \"EastEnders\" first.",
+  "context": [
+    {
+      "text": "Cast and filming Tamzin Outhwaite (pictured, 2015) starred in \"Empty Orchestra\" as Connie, who is in fancy dress as Amy Winehouse . \"Empty Orchestra\" stars Pemberton as Roger, who is celebrating a promotion with five colleagues: Greg, played by Shearsmith; Connie, played by Outhwaite; Fran, played by Hadland; Janet, played by Emily Howlett; and Duane, played by Prince. Rebekah Hinds also stars as Chantel. As an anthology series, Inside No. 9 features a new cast each episode, which the writers say re-energises them. During filming, Outhwaite and Hadland said that Pemberton and Shearsmith would not enjoy working with another cast more; the following week, the writers jokingly sent them pictures with Fiona Shaw and Morgana Robinson (who star in \" Private View \"), claiming to be having more fun. Howlett, like Janet, is deaf . Unlike Howlett, however, Janet is \"quite passive, quiet, sweet and generally happy looking after people, especially her boss\". As Janet sings, Howlett faced a particular acting challenge. She possesses, she explained, \"very little understanding of what constitutes music, and no idea at all about things like keys, pitch or melody – I even struggle with the concept of 'high' and 'low' sounds\". The song Janet sings—\" Only You \" by Yazoo —was particularly",
+      "id": "HotpotQA-validation-00001288/00_Empty-Orchestra.html_c_3"
+    },
+    {
+      "text": "Tamzin Maria Outhwaite ( / ˈ aʊ θ w eɪ t / ; born 5 November 1970) is an English actress, dancer, presenter and narrator. From 1998–2002, and again from 2018–2019, she played the role of Mel Owen in the BBC soap opera EastEnders . She has also starred in a number of theatre and television productions, including army series Red Cap and crime drama New Tricks . She also played Rebecca Mitchell in the BBC drama series Hotel Babylon (2006–2009). Early life The only daughter of Anna ( née Santi) and Colin Frank Outhwaite, born in Ilford, Greater London, Outhwaite has two younger brothers. She was educated at Trinity Catholic High School, Woodford Green . Her mother is of Italian heritage. Her maternal great grandfather and his eldest son were born in Barga , Italy , and became naturalised British citizens in 1957, living first in Glasgow , Scotland , and then settling in Fishburn , England running an ice cream business. Outhwaite attended the Stagestruck Theatre Company as a teenager, taking part in several productions during the mid-1980s. While at school, she studied part-time at Sylvia Young Theatre School , and on leaving school in 1987, she joined the London Studio Centre to study drama and dance. Career Early career and EastEnders On graduation from the",
+      "id": "HotpotQA-validation-00001118/01_Tamzin-Outhwaite.html_c_0"
+    },
+    {
+      "text": "Tamzin Maria Outhwaite ( / ˈ aʊ θ w eɪ t / ; born 5 November 1970) is an English actress, dancer, presenter and narrator. From 1998–2002, and again from 2018–2019, she played the role of Mel Owen in the BBC soap opera EastEnders . She has also starred in a number of theatre and television productions, including army series Red Cap and crime drama New Tricks . She also played Rebecca Mitchell in the BBC drama series Hotel Babylon (2006–2009). Early life The only daughter of Anna ( née Santi) and Colin Frank Outhwaite, born in Ilford, Greater London, Outhwaite has two younger brothers. She was educated at Trinity Catholic High School, Woodford Green . Her mother is of Italian heritage. Her maternal great grandfather and his eldest son were born in Barga , Italy , and became naturalised British citizens in 1957, living first in Glasgow , Scotland , and then settling in Fishburn , England running an ice cream business. Outhwaite attended the Stagestruck Theatre Company as a teenager, taking part in several productions during the mid-1980s. While at school, she studied part-time at Sylvia Young Theatre School , and on leaving school in 1987, she joined the London Studio Centre to study drama and dance. Career Early career and EastEnders On graduation from the",
+      "id": "HotpotQA-validation-00001288/01_Tamzin-Outhwaite.html_c_0"
+    },
+    {
+      "text": "\" Empty Orchestra \" is the fourth episode of the third series of the British dark comedy anthology television programme Inside No. 9 . Written by Steve Pemberton and Reece Shearsmith and directed by Guillem Morales , the episode was first shown on 7 March 2017, on BBC Two . \"Empty Orchestra\" is set in a karaoke booth, and follows a group of colleagues—Greg (Shearsmith), Fran ( Sarah Hadland ), Connie ( Tamzin Outhwaite ), Janet (Emily Howlett) and Duane ( Javone Prince )—celebrating the promotion of Roger (Pemberton). Rebekah Hinds also features. \"Empty Orchestra\" is close to a musical . The characters sing throughout much of the episode, with the story being told through the lyrics and the way the characters interact during songs. In comparison to other episodes of Inside No. 9 , \"Empty Orchestra\" is upbeat, features romantic elements, and lacks explicitly bloody or macabre references. The filming experience and resulting episode was a highlight of the series for Pemberton, but raised technical challenges, in part due to simultaneous singing and talking. Television critics had a mixed reaction to the episode. In both The Daily Telegraph and The National , it was characterised as weaker than others in the series. The change in tone divided commentators, some of whom found the setting and constant noise a distraction. The writing and production, however, were praised, while the cast were",
+      "id": "HotpotQA-validation-00001288/00_Empty-Orchestra.html_c_0"
+    },
+    {
+      "text": "leaving school in 1987, she joined the London Studio Centre to study drama and dance. Career Early career and EastEnders On graduation from the London Studio Centre she started her career in the theatre, taking roles in productions including Grease and Oliver! , and work at the Stephen Joseph Theatre , before landing bit parts in television series The Bill and Men Behaving Badly . She found national fame in 1998 when she was cast as Mel Healy in the popular BBC soap opera EastEnders . Her first appearance was aired in October 1998 and her final one was in April 2002. During nearly four years in Walford , Outhwaite's character was central to many storylines. Outhwaite left EastEnders in 2002, shortly after the departure from the soap of co-star Martin Kemp , who had played her on-screen husband Steve Owen . She stated in 2006 that she would not rule out returning to EastEnders and her return was confirmed on 24 October 2017. Outhwaite departed the soap for a second and final time in November 2019, when Mel was killed off. Further work In 2007, Outhwaite appeared in a revival of Boeing Boeing at the Comedy Theatre , as well as the film Cassandra's Dream , which first premiered in June. In March 2008, she had a role in the ITV drama series The Fixer . In 2009, she played",
+      "id": "HotpotQA-validation-00001118/01_Tamzin-Outhwaite.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Outhwaite played Connie on Inside No. 9 episode \"Empty Orchestra\" which first aired on 7 March 2017 (HotpotQA-validation-00001288/00_Empty-Orchestra.html_c_0).\n- She played Mel Owen on EastEnders, first appearing on 1 October 1998 (HotpotQA-validation-00001118/01_Tamzin-Outhwaite.html_c_1).\n- 1998 debut as Mel precedes 2017 debut as Connie.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which character did Tamzin Outhwaite play first: Connie (on \"Inside No. 9\") or Melanie Owen (\"EastEnders\")?",
+      "doc_ids": [
+        "HotpotQA-validation-00001288/00_Empty-Orchestra.html_c_3",
+        "HotpotQA-validation-00001118/01_Tamzin-Outhwaite.html_c_0",
+        "HotpotQA-validation-00001288/01_Tamzin-Outhwaite.html_c_0",
+        "HotpotQA-validation-00001288/00_Empty-Orchestra.html_c_0",
+        "HotpotQA-validation-00001118/01_Tamzin-Outhwaite.html_c_1"
+      ]
+    }
+  ]
+}

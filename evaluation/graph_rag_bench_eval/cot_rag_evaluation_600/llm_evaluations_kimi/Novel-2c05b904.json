@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2c05b904",
+  "question": "During the process of digestion as discussed in the narrative, what part of the human body adapts to variations in food?",
+  "gold_answer": "The digestive apparatus adapts to food.",
+  "llm_answer": "The provided evidence does not specify which part of the human body adapts to variations in food during digestion.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the digestive apparatus adapts to food, which directly answers the question. The Model Answer claims the evidence does not specify which part of the body adapts, which is incorrect as the context does not contradict the Gold Answer. The Model Answer fails to align with the Gold Answer and does not retrieve the key fact about the digestive apparatus adapting to food."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005575",
+  "question": "Were both Roger Donaldson and André Cayatte french filmmakers?",
+  "gold_answer": "no",
+  "llm_answer": "No.  \nEvidence shows André Cayatte was a French filmmaker, but Roger Donaldson is described as an Australian and New Zealand film director; nothing indicates he is French.",
+  "context": [
+    {
+      "text": "André Cayatte ( French: [kajat] ; 3 February 1909 – 6 February 1989) was a French filmmaker, writer and lawyer, who became known for his films centering on themes of crime, justice, and moral responsibility. Biography Cayatte began his directoral career at the German-controlled Continental Films during the French occupation. Some of Cayatte's earlier films that addressed his characteristic themes include Justice est faite ( Justice is Done ; 1950), Nous sommes tous des assassins ( We Are All Murderers ; 1952), and Le passage du Rhin ( Tomorrow Is My Turn ; 1960). In 1963, he undertook a bold experiment in film narrative with a set of two films: Jean-Marc ou La vie conjugale ( Anatomy of a Marriage: My Days with Jean-Marc ) and Françoise ou La vie conjugale ( Anatomy of a Marriage: My Days with Françoise ). These two films tell the same story from two different points of view. His 1973 film, There's No Smoke Without Fire , won the Silver Bear Special Jury Prize at the 23rd Berlin International Film Festival . His younger brother was the film editor Paul Cayatte . Selected filmography Thunder Over Paris (1940) The Suitors Club (1941) La fausse maîtresse (1942) The White Truck (1943) Shop Girls of Paris (1943) Pierre and Jean",
+      "id": "HotpotQA-validation-00005575/01_Andr-Cayatte.html_c_0"
+    },
+    {
+      "text": "La fausse maîtresse (1942) The White Truck (1943) Shop Girls of Paris (1943) Pierre and Jean (1943) Farandole (1945) Roger la Honte (1946) The Revenge of Roger (1946) The Ideal Couple (1946) Song of the Clouds (1946) The Last Penny (1946) The Unknown Singer (1947) Under the Cards (1948) The Lovers of Verona (1949) We Are All Murderers (1951) Before the Deluge (1954) An Eye for an Eye (1957) Two Are Guilty (1963) Les risques du métier (1967) The Pleasure Pit (1969) To Die of Love (1971) There's No Smoke Without Fire (1973) Verdict (1974) State Reasons (1978) L'amour en question (1978) References External links André Cayatte at IMDb",
+      "id": "HotpotQA-validation-00005575/01_Andr-Cayatte.html_c_1"
+    },
+    {
+      "text": "We Are All Murderers (French: Nous sommes tous des assassins , Italian: Siamo tutti assassini ) is a 1952 French-Italian crime drama film written and directed by André Cayatte and starring Marcel Mouloudji , Raymond Pellegrin and Claude Laydu . It was shot at the Boulogne Studios in Paris . The film's sets were designed by the art director Jacques Colombier . It tells the story of René, a young man from the slums, trained by the French Resistance in World War II to kill Germans. He continues to kill long after the war has ended, as it is all he knows. It was entered into the 1952 Cannes Film Festival and won the Special Jury Prize . Plot René Le Guen ( Marcel Mouloudji ) is a former resistance fighter trained as a young man as a professional killer. After World War II, he has no qualms in applying these skills and is arrested for murder. Convicted and condemned to death, he is held in a prison cell with other murderers sentenced to death. Men to be guillotined are taken out at night, so they wait in fear and only sleep after dawn. While Le Guen's lawyer ( Claude Laydu ) tries to achieve a pardon for his client, three of Le Guen's fellow inmates are executed, one by one, in the course of the film. Cayatte used his films to reveal the inequities and injustice of the",
+      "id": "HotpotQA-validation-00005575/03_We-Are-All-Murderers.html_c_0"
+    },
+    {
+      "text": "the 2018 Queen's Birthday Honours , Donaldson was appointed an Officer of the New Zealand Order of Merit , for services to film. Filmography Film Documentary film Short film Lawyers (2010) Television TV movies Survey (1972) Jocko (1981) References Further reading Schneider, Steven Jay, ed. (2007). 501 Movie Directors . London: Cassell Illustrated. p. 488. ISBN 9781844035731 . OCLC 1347156402 . External links Roger Donaldson at IMDb",
+      "id": "HotpotQA-validation-00005575/00_Roger-Donaldson.html_c_3"
+    },
+    {
+      "text": "Roger Lindsey Donaldson ONZM (born 15 November 1945) is an Australian and New Zealand film director, screenwriter, and producer. His 1977 debut film, Sleeping Dogs , is considered a landmark work of New Zealand cinema , as one of the country’s first films to attract large-scale critical and commercial success. He has subsequently directed 17 feature films, working in Hollywood and the United Kingdom, as well as his native country. Donaldson’s best-known films include the historical drama The Bounty (1984), the neo-noir No Way Out (1987), the romantic comedy Cocktail (1988), the Cuban Missile Crisis docudrama Thirteen Days (2000), the science-fiction horror film Species (1995), the disaster film Dante's Peak (1997), the Burt Munro biopic The World's Fastest Indian (2005), and the historical thriller The Bank Job (2008). Donaldson has worked twice each with actors Kevin Costner , Pierce Brosnan , Anthony Hopkins and Michael Madsen . He is a recipient of three New Zealand Film and Television Awards . He is also an AACTA Award and Palme d’Or nominee. At the 2018 Queen's Birthday Honours , Donaldson was appointed an Officer of the New Zealand Order of Merit , for services to film. Life and career Donaldson was born in Ballarat , Victoria, where he attended Ballarat High School . In 1965 he",
+      "id": "HotpotQA-validation-00005575/00_Roger-Donaldson.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- André Cayatte is a French filmmaker (HotpotQA-validation-00005575/01_Andr-Cayatte.html_c_0)\n- Roger Donaldson is an Australian and New Zealand director, not French (HotpotQA-validation-00005575/00_Roger-Donaldson.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Were both Roger Donaldson and André Cayatte french filmmakers?",
+      "doc_ids": [
+        "HotpotQA-validation-00005575/01_Andr-Cayatte.html_c_0",
+        "HotpotQA-validation-00005575/01_Andr-Cayatte.html_c_1",
+        "HotpotQA-validation-00005575/03_We-Are-All-Murderers.html_c_0",
+        "HotpotQA-validation-00005575/00_Roger-Donaldson.html_c_3",
+        "HotpotQA-validation-00005575/00_Roger-Donaldson.html_c_0"
+      ]
+    }
+  ]
+}

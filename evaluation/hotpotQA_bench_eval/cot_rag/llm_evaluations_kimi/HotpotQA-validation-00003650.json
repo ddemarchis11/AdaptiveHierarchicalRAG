@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003650",
+  "question": "In 2008, who were the two actors stared along with a South Korean actor, singer, and model who won best actor in five prestigious award ceremonies.",
+  "gold_answer": "Best Actor prize",
+  "llm_answer": "The evidence does not specify which film or year (2008) is being referenced, nor does it name two particular co-stars who appeared alongside Lee Byung-hun in that year. Therefore, the two actors cannot be identified from the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the specific film or co-stars from 2008, making it faithful to the context. However, it fails to address the Gold Answer ('Best Actor prize') and does not provide any relevant information about the actors or awards mentioned in the question, resulting in low correctness and evidence coverage."
+  }
+}

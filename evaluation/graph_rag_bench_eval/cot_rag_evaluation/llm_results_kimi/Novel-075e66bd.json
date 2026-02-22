@@ -1,0 +1,42 @@
+{
+  "id": "Novel-075e66bd",
+  "question": "Who influenced the sale of a strip of land involving the Sioux, leading to internal division among the tribe as described in the novel?",
+  "gold_answer": "Little Crow influenced the sale of a strip of land involving the Sioux.",
+  "llm_answer": "Little Crow influenced the sale of the strip of land, leading to internal division among the Sioux.",
+  "context": [
+    {
+      "text": "emissaries from the South were endeavoring to spread disease and pestilence throughout the loyal North. It was during this critical period in the great struggle for the suppression of the Rebellion that one of the most fiendish atrocities in the history of Indian warfare was enacted on the western boundaries of Minnesota. It can readily be seen that the government was illy prepared to cope with an outbreak of such magnitude as this soon proved to be. By the terms of the treaty of Traverse des Sioux and Mendota in 1851 the Sioux sold all their lands in Minnesota, except a strip ten miles wide on each side of the Minnesota river from near Fort Ridgely to Big Stone lake. In 1858 ten miles of the strip lying north of the river was sold, mainly through the influence of Little Crow. The selling of this strip caused great dissatisfaction among the Indians and Little Crow was severely denounced for the part he took in the transaction. The sale rendered it necessary for all the Indians to locate on the south side of the Minnesota, where game was scarce and trapping poor. There was nothing for them to live upon unless they adopted the habits of civilization and worked like white men. This was very distasteful to many of them, as they wanted to live the same as they did before the treaty--go where they pleased, when they pleased, and hunt game and sell fur to traders. The government built houses for those who desired to occupy them, furnished tools, seed, etc., and taught",
+      "id": "Novel-10146_c_42"
+    },
+    {
+      "text": "people rendered homeless. The entire country from Fort Ripley to the southern boundary of the state, reaching almost to the mouth of the Minnesota river, had been in a twinkling depopulated. How to repel these invaders and drive them back to their reservations and out of the state as they had forfeited all rights to the land they had occupied, was the problem that suddenly confronted both the state and national authorities. Shortly after the news of the outbreak at Redwood had been received, word was sent from Fort Ripley to the effect that the Chippewas were assuming a warlike attitude, and it was feared that the Sioux and Chippewas--hereditary enemies--had buried the hatchet, or had been influenced by other causes, and were ready to co-operate in an indiscriminate massacre of the whites. Indian Agent Walker undertook to arrest the famous chief Hole-in-the-day, but that wily warrior had scented danger and suddenly disappeared, with his entire band, which caused grave apprehension among the settlers in that locality, and they were in daily dread of an attack from these hitherto peaceable tribes. The suddenness with which the outbreak had occurred and the extraordinary rapidity with which it spread, driving the defenseless settlers from their homes and causing desolation and ruin on every side, rendered it necessary for the governor to call an extra session of the legislature for the purpose of devising means to arm and equip volunteers, and assist the homeless refugees",
+      "id": "Novel-10146_c_47"
+    },
+    {
+      "text": "has caused his adoption in the tribe of the Zunis, whose language he has learned, whose habits he has adopted. Among the other remarkable things he has discovered is \"the existence of twelve sacred orders, with their priests and their secret rites as carefully guarded as the secrets of freemasonry, an institution to which these orders have a strange resemblance.\" (From the New York _Times_.) If from Egypt we pass to Nubia, we find that the peculiar battle ax of the Mayas was also used by the warriors of that country; whilst many of the customs of the inhabitants of equatorial Africa, as described by Mr. DuChaillu[TN-29] in the relation of his voyage to the \"Land of Ashango,\" so closely resemble those of the aborigines of Yucatan as to suggest that intimate relations must have existed, in very remote ages, between their ancestors; if the admixture of African blood, clearly discernible still, among the natives of certain districts of the peninsula, did not place that _fact_ without the peradventure of a doubt. We also see figures in the mural paintings, at Chichen, with strongly marked African features. We learned by the discovery of the statue of Chaacmol, and that of the priestess found by me at the foot of the altar in front of the shrine of _Ix-cuina_, the Maya Venus, situated at the south end of _Isla Mugeres_, it was",
+      "id": "Novel-30752_c_111"
+    },
+    {
+      "text": "249; XVII, 1, p. 244. Also entitled “Begebenheiten des Herrn Redlich,” the novel was published Wittenberg, 1756-71; Frankfurt and Leipzig, 1768-71.] [Footnote 21: XXVIII, 1, pp. 199 ff. Reviewed also in _Auserlesene Bibliothek der neusten deutschen Litteratur_, Lemgo, VII, p. 234 (1775) and _Neue litterarische Unterhaltungen_, Breslau, I, pp. 660-691.] [Footnote 22: Leipzig, Crusius, 1776, pp. 120. Baker, influenced by title and authorship, includes it among the literary progeny of Yorick. It has no connection with Sterne.] [Footnote 23: See _Jahresberichte für neuere deutsche Litteratur-geschichte_, II, p. 106 (1893).] [Footnote 24: Breslau, 1792. It is included in Baker’s list.] [Footnote 25: Frankfurt and Leipzig, pp. 208. Baker regards these two editions as two different works.] [Footnote 26: Sentimental Journey, pp. 87-88.] [Footnote 27: Sentimental Journey, p. 73.] [Footnote 28:",
+      "id": "Novel-26183_c_318"
+    },
+    {
+      "text": "only amusement hall in St. Paul with a stage and drop curtain. In 1861 Peter and Caroline Richings spent a part of the summer in St. Paul, and local amusement lovers were delightfully entertained by these celebrities during their sojourn. During the war a number of dramatic and musical performances were given at the Athenaeum for the boys in blue. The cantata of \"The Haymakers,\" for the benefit of the sanitary commission made quite a hit, and old residents will recollect Mrs. Winne, Mrs. Blakeley and Prof. Perkins, who took the leading parts. Prof. Phil Roher and Otto Dreher gave dramatic performances both in German and English for some time after the close of the war. Plunkett's Dramatic company, with Susan Denin as the star, filled the boards at this hall a short time before the little old opera house was constructed on Wabasha street. During the Sioux massacre a large number of maimed refugees were brought to the city and found temporary shelter in this place. In 1853 Market hall, on the corner of Wabasha and Seventh streets, was built, and it was one of the principal places of amusement. The Hough Dramatic company, with Bernard, C.W. Couldock, Sallie St. Clair and others were among the notable performers who entertained theatergoers. In 1860 the Wide Awakes used this place for a drill hall, and so proficient did the",
+      "id": "Novel-10146_c_108"
+    }
+  ],
+  "cot_scratchpad": "- Little Crow influenced the 1858 sale of a ten-mile strip north of the Minnesota River (Novel-10146_c_42).\n- This Sioux land sale caused great dissatisfaction and internal division within the tribe (Novel-10146_c_42).\n- The sale forced all Sioux to relocate to the resource-scarce south side of the river (Novel-10146_c_42).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who influenced the sale of a strip of land involving the Sioux, leading to internal division among the tribe as described in the novel?",
+      "doc_ids": [
+        "Novel-10146_c_42",
+        "Novel-10146_c_47",
+        "Novel-30752_c_111",
+        "Novel-26183_c_318",
+        "Novel-10146_c_108"
+      ]
+    }
+  ]
+}

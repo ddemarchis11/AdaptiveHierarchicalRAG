@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007307",
+  "question": "Who is the grandfather to Frederick II and was the Holy Roman Emperor until death?",
+  "gold_answer": "Frederick I",
+  "llm_answer": "Frederick I (Frederbarossa)",
+  "context": [
+    {
+      "text": "Frederick Barbarossa (December 1122 – 10 June 1190), also known as Frederick I (German: Friedrich ; Italian: Federico ), was the Holy Roman emperor from 1155 until his death in 1190. He was elected King of Germany in Frankfurt on 4 March 1152 and crowned in Aachen on 9 March 1152. He was crowned King of Italy on 24 April 1155 in Pavia and emperor by Pope Adrian IV on 18 June 1155 in Rome . Two years later, the term sacrum (\"holy\") first appeared in a document in connection with his empire. He was later formally crowned King of Burgundy , at Arles on 30 June 1178. His nickname of Barbarossa (meaning \"Red Beard\" in Italian) \"was first used by the Florentines only in 1298 to differentiate the emperor from his grandson, Frederick II ... and was never employed in medieval Germany\" (the colour red was \"also associated in the Middle Ages with malice and a hot temper\"; in reality, Frederick's hair was \"blond\", although his beard was described by a contemporary as \"reddish\"). In German, he was known as Kaiser Rotbart , which in English means \"Emperor Redbeard\". The prevalence of the Italian nickname, even in later German usage, reflects the centrality of the Italian campaigns under his reign, and \"remains to this day one",
+      "id": "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_0"
+    },
+    {
+      "text": "The Battle of Parma was fought on 18 February 1248 between the forces of Holy Roman Emperor Frederick II and the Lombard League . The Guelphs attacked the Imperial camp when Frederick II was away. The Imperial forces were defeated and much of Frederick's treasure was lost. Background The free commune of Parma had been a longtime supporter of the Ghibelline (pro-imperial) party. However, it was also considered an important stronghold to take by the Guelphs (pro-papal), due to its flourishing economy and its position across the Via Francigena . On 25 June 1243 Innocent IV , who had several friends in the city and had held several positions in the local diocese, was elected as pope. He thus started a plan to bring Parma to the Guelph side, by replacing the current bishop with Alberto Sanvitale, who was more loyal to him, and order the local Franciscans to convince the population to change side. The already strained relationship between Emperor Frederick II and the pope worsened: the situation was further aggravated by the coup by which the city fell in the hands of a Guelph group, including Ugo Sanvitale (the brother of the new bishop of Parma) and Bernardo di Rolando Rossi (the pope's brother-in-law and a former collaborator of Frederick). The emperor knew of the rebellion when he was at Pavia . He immediately mustered an army,",
+      "id": "HotpotQA-validation-00007307/02_Battle-of-Parma.html_c_0"
+    },
+    {
+      "text": ", Barbarossa makes an appearance as a playable leader in Civilization VI . The video game Age of Empires II and its remasters feature Barbarossa as a leader in playable campaign missions. Children Frederick's first marriage, to Adelheid of Vohburg , did not produce any children and was annulled. From his second marriage to Beatrice of Burgundy , he had the following children: Beatrice (end 1162/early 1163 – at least early 1174/1179). King William II of Sicily first asked for her hand, but the marriage negotiations never came through. Frederick V, Duke of Swabia (Pavia, 16 July 1164 – 28 November 1170). Henry VI, Holy Roman Emperor (Nijmegen, November 1165 – Messina, 28 September 1197). Conrad (Modigliana, February 1167 – Acre, 20 January 1191), later renamed Frederick VI, Duke of Swabia after the death of his older brother. ?Judith (October/November 1168 – end 1184). She was betrothed to Richard, Count of Poitou (later King of England) but died before they could be married. Otto I, Count of Burgundy (June/July 1170 – killed, Besançon, 13 January 1200). Conrad II, Duke of Swabia and Rothenburg",
+      "id": "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_41"
+    },
+    {
+      "text": "had dominated the German states since the conclusion of the Investiture controversy . Due to his popularity and notoriety, in the 19th and early 20th centuries, he was used as a political symbol by many movements and regimes: the Risorgimento , the Wilhelmine government in Germany (especially under Emperor Wilhelm I ), and the Nazi movement ( Operation Barbarossa , Barbarossa decree ) resulting in mixed legacies. Biography Early life Frederick was born to Duke Frederick II of Swabia and Judith of Bavaria in mid-December 1122 in Hagenau , part of the Duchy of Swabia , Holy Roman Empire. Hagenau, now known by Haguenau, is now a commune in the French department of Bas-Rhin , Grand Est. His mother was from the Welf family , and his father was from the Hohenstaufen family, the two most powerful families in the empire . The Hohenstaufens were often called Ghibellines , which derives from the Italianized name for Waiblingen castle, the family seat in Swabia; the Welfs, in a similar Italianization, were called Guelfs . Frederick was also a descendant of the Salian dynasty through his paternal grandmother Agnes as she was the daughter of Emperor Henry IV and Bertha of Savoy . He also had ties to the Ottonian dynasty through his mother Judith as she hailed from Emperor Otto II and his wife Theophanu",
+      "id": "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_2"
+    },
+    {
+      "text": ": 119– 123. External links Wikimedia Commons has media related to Friedrich I. Barbarossa . English Wikisource has original works by or about: Frederick I MSN Encarta – Frederick I (Holy Roman Empire) ( Archived 2009-10-31) Famous Men of the Middle Ages – Frederick Barbarossa Charter given by Emperor Frederick Archived 26 March 2023 at the Wayback Machine for the bishopric of Bamberg showing the Emperor's seal, 6 April 1157. Taken from the collections of the Lichtbildarchiv älterer Originalurkunden Archived 13 January 2009 at the Wayback Machine at Marburg University Portals : Biography Holy Roman Empire Monarchy Middle Ages",
+      "id": "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_49"
+    }
+  ],
+  "cot_scratchpad": "- Frederick I (Barbarossa) was Holy Roman Emperor 1155-1190 (HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_0)\n- Called \"Barbarossa\" to distinguish him from grandson Frederick II (HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_0)\n- Therefore Frederick I is grandfather of Frederick II (HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who is the grandfather to Frederick II and was the Holy Roman Emperor until death?",
+      "doc_ids": [
+        "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_0",
+        "HotpotQA-validation-00007307/02_Battle-of-Parma.html_c_0",
+        "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_41",
+        "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_2",
+        "HotpotQA-validation-00007307/01_Frederick-I-Holy-Roman-Emperor.html_c_49"
+      ]
+    }
+  ]
+}

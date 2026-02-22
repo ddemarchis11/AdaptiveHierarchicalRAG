@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003001",
+  "question": "Which American rock band, Sugar Ray or Against the Current gained mainstream fame in the 1990's?",
+  "gold_answer": "rock",
+  "llm_answer": "Based on the provided evidence, the American rock band that gained mainstream fame in the 1990s is Sugar Ray.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Sugar Ray as the American rock band that gained mainstream fame in the 1990s, which is supported by the context detailing their success with the single 'Fly' in 1997 and subsequent popularity. The answer is faithful to the retrieved context and includes the key fact from the Gold Answer."
+  }
+}

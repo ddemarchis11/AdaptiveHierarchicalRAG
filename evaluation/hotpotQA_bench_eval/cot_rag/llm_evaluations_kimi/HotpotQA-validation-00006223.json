@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006223",
+  "question": "How many women in total competed at the Asian Games the year Lee Young-Sun achieved her personal best throw of 58.87 metres?",
+  "gold_answer": "179 women",
+  "llm_answer": "The evidence does not specify how many women competed at the 2002 Asian Games.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly states that the retrieved context does not provide information about the number of women who competed at the 2002 Asian Games. However, it fails to answer the user's question, which has a known factual answer of 179 women. The retrieved context does not contradict the model's statement, but the model does not provide the correct answer."
+  }
+}

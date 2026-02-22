@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6fcababd",
+  "question": "How is the harp’s presence in British history connected to David’s musical practices?",
+  "gold_answer": "David played the lyre and used to suspend the kinnor, which is rendered as harp and is in the Anglo-Saxon manuscript.",
+  "llm_answer": "The evidence shows that the Anglo-Saxons frequently accompanied their songs with a triangular harp, and that a representation of King David playing this harp appears in an early-eleventh-century Anglo-Saxon manuscript in the British Museum. Thus, the harp’s presence in British history is directly linked to the depiction and continuation of David’s musical practices.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly connects the harp's presence in British history to David's musical practices, as depicted in the Anglo-Saxon manuscript. It is faithful to the retrieved context, which mentions the representation of King David playing the harp in an Anglo-Saxon manuscript. Additionally, it includes all key facts from the Gold Answer, such as the connection to David's musical practices and the manuscript evidence."
+  }
+}

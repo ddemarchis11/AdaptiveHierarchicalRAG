@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002712",
+  "question": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+  "gold_answer": "265 million",
+  "llm_answer": "The company that created the Data Universal Numbering System (Dun & Bradstreet) has a database that contains over 500 million business records.",
+  "context": [
+    {
+      "text": "The Data Universal Numbering System , abbreviated as DUNS or D-U-N-S , is a proprietary system developed and managed by Dun & Bradstreet (D&B) that assigns a unique numeric identifier, referred to as a \"DUNS number\" to a single business entity. It was introduced in 1963 to support D&B's credit reporting practice. It is standard worldwide. DUNS users include the European Commission , the United Nations , Google , and Apple . More than 50 global industry and trade associations recognize, recommend, or require DUNS. The DUNS database contains over 300 million entries for businesses throughout the world. DUNS numbers can be represented using ISO/IEC 6523 using ICD 0060. Details The DUNS number is a nine-digit number, issued by D&B, assigned to each business location in the D&B database, having a unique, separate, and distinct operation for the purpose of identifying them. The DUNS number is random, and the digits have no apparent significance. Until approximately December 2006, the DUNS number contained a mod-10 check digit to support error detection. Discontinuing the check digit increased the inventory of available DUNS numbers by 800 million. As of 25 February 2017, the website shows that there is no charge to get a DUNS number, and the time to create the number is 24 to 48 hours. When obtaining a DUNS number online, the wait is usually",
+      "id": "HotpotQA-validation-00002712/00_Data-Universal-Numbering-System.html_c_0"
+    },
+    {
+      "text": "In 1859, Douglass transferred the company to Robert Graham Dun, who immediately changed the firm's name to R. G. Dun & Company. Over the next 40 years, Graham Dun continued to expand the business across international boundaries. 20th century In March 1933, R. G. Dun & Company merged with competitor John M. Bradstreet to form today's Dun & Bradstreet. The merger was engineered by Dun's CEO, Arthur Whiteside. Whiteside's successor, J. Wilson Newman, worked to extend the company's range of products and services, expanding the company dramatically during the 1960s by engineering ways to apply new technologies to evolving operations. Moody's , a credit reporting agency, was acquired by Dun & Bradstreet in 1962. The Dun & Bradstreet Data Universal Numbering System ( D&B D-U-N-S Number) was invented in 1963. Other companies acquired during this time included R.H. Donnelley , Official Airline Guides , Thomas Y. Crowell Co. , Funk & Wagnalls , Technical Publishing, McCormack & Dodge , and Corinthian Broadcasting , all since divested.  In 1986, Dun & Bradstreet acquired the education data company Market Data Retrieval (MDR). That year, Dun & Bradstreet sold Technical Publishing to Cahners Publishing . In 1996, the company restructured, creating three entities: Dun & Bradstreet, Nielsen , and the",
+      "id": "HotpotQA-validation-00002712/01_Dun-amp-Bradstreet.html_c_1"
+    },
+    {
+      "text": "The Dun & Bradstreet Holdings, Inc. (D&B) is an American company that provides commercial data, analytics, and insights for businesses. Headquartered in Jacksonville, Florida , the company offers a wide range of products and services for risk and financial analysis, operations and supply, and sales and marketing professionals, as well as research and insights on global business issues. It serves customers in government and industries such as communications, technology, strategic financial services, and retail, telecommunications, and manufacturing markets. The company's database contains over 500 million business records worldwide. History 19th century Dun & Bradstreet traces its history to July 20, 1841, with formation of The Mercantile Agency in New York City by Lewis Tappan . Recognizing the need for a centralized credit reporting system, Tappan formed the company to create a network of correspondents who would provide reliable, objective credit information to subscribers. As an advocate for civil rights, Tappan used his abolitionist connections to expand and update the company's credit information. Despite accusations of personal privacy invasion, by 1844 the Mercantile Agency had over 280 clients. The agency continued to expand, opening offices in Boston , Philadelphia , and Baltimore . By 1849, Tappan retired, allowing Benjamin Douglass to take over the booming business. In 1859, Douglass transferred the company to Robert Graham Dun, who immediately changed the firm's name to R. G. Dun &",
+      "id": "HotpotQA-validation-00002712/01_Dun-amp-Bradstreet.html_c_0"
+    },
+    {
+      "text": "The Plant DNA C-values Database ( https://cvalues.science.kew.org/ ) is a comprehensive catalogue of C-value ( nuclear DNA content, or in diploids , genome size ) data for land plants and algae . The database was created by Prof. Michael D. Bennett and Dr. Ilia J. Leitch of the Royal Botanic Gardens, Kew , UK. The database was originally launched as the \"Angiosperm DNA C-values Database\" in April 1997, essentially as an online version of collected data lists that had been published by Prof. Bennett and colleagues since the 1970s. Release 1.0 of the more inclusive Plant DNA C-values Database was launched in 2001, with subsequent releases 2.0 in January 2003 and 3.0 in December 2004. In addition to the angiosperm dataset made available in 1997, the database has been expanded taxonomically several times and now includes data from pteridophytes (since 2000), gymnosperms (since 2001), bryophytes (since 2001), and algae (since 2004) (see (1) for update history). (Note that each of these subset databases is cited individually as they may contain different sets of authors). The most recent release of the database (release 7.1) went live in April 2019. It contains data for 12,273 species",
+      "id": "HotpotQA-validation-00002712/02_Plant-DNA-C-values-Database.html_c_0"
+    },
+    {
+      "text": "most recent release of the database (release 7.1) went live in April 2019. It contains data for 12,273 species of plants comprising 10,770 angiosperms, 421 gymnosperms, 303 pteridophytes (246 ferns and fern allies and 57 lycophytes), 334 bryophytes, and 445 algae. A similar Animal Genome Size Database was created in 2001 by Dr. T. Ryan Gregory of the University of Guelph , Canada. References Bennett, M.D. and J.B. Smith. 1976. Nuclear DNA amounts in angiosperms. Philosophical Transactions of the Royal Society of London B 274: 227–274. Bennett, M.D. and J.B. Smith. 1991. Nuclear DNA amounts in angiosperms. Philosophical Transactions of the Royal Society of London B 334: 309–345. Bennett, M.D. and I.J. Leitch. 1995. Nuclear DNA amounts in angiosperms. Annals of Botany 76: 113–176. Bennett, M.D. and I.J. Leitch. 1997. Nuclear DNA amounts in angiosperms – 583 new estimates. Annals of Botany 80: 169–196. Bennett, M.D., P. Bhandol, and I.J. Leitch. 2000. Nuclear DNA amounts",
+      "id": "HotpotQA-validation-00002712/02_Plant-DNA-C-values-Database.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- D&B created the Data Universal Numbering System (HotpotQA-validation-00002712/00_Data-Universal-Numbering-System.html_c_0).\n- D&B's database contains over 500 million business records (HotpotQA-validation-00002712/01_Dun-amp-Bradstreet.html_c_0).\n- DUNS database has over 300 million entries (HotpotQA-validation-00002712/00_Data-Universal-Numbering-System.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+      "doc_ids": [
+        "HotpotQA-validation-00002712/00_Data-Universal-Numbering-System.html_c_0",
+        "HotpotQA-validation-00002712/01_Dun-amp-Bradstreet.html_c_1",
+        "HotpotQA-validation-00002712/01_Dun-amp-Bradstreet.html_c_0",
+        "HotpotQA-validation-00002712/02_Plant-DNA-C-values-Database.html_c_0",
+        "HotpotQA-validation-00002712/02_Plant-DNA-C-values-Database.html_c_1"
+      ]
+    }
+  ]
+}

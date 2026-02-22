@@ -1,0 +1,12 @@
+{
+  "id": "Novel-48c2f6ad",
+  "question": "How did the Portuguese and French actions affect the cities of Mazagran and Mogador?",
+  "gold_answer": "The Portuguese abandoned Mazagran, while the French bombarded Mogador.",
+  "llm_answer": "The Portuguese rebuilt the castle at Mazagran in 1506 and named it Castillo Real; they abandoned the town in 1769, making Mazagran their last Moroccan stronghold. No information is given about any French actions, nor about any Portuguese or French effects on Mogador.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the core question about the Portuguese and French actions affecting Mazagran and Mogador. While it correctly mentions the Portuguese abandoning Mazagran in 1769, it does not mention the French bombardment of Mogador, which is a key part of the Gold Answer. Additionally, the claim that 'no information is given about any French actions' is incorrect, as the Gold Answer clearly states the French bombarded Mogador. The retrieved context partially supports the abandonment of Mazagran but does not provide details about Mogador, leading to partial faithfulness."
+  }
+}

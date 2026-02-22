@@ -1,0 +1,12 @@
+{
+  "id": "Novel-395b9708",
+  "question": "What was Earle S. Goodrich's involvement with the Pioneer and the Minnesotian?",
+  "gold_answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+  "llm_answer": "Earle S. Goodrich's involvement with the Pioneer and the Minnesotian:\n\n- He was the editor of the Pioneer.\n- He heard of the Minnesotian's editors obtaining papers from the Pioneer's pressroom and prepared a huge joke on the Minnesotian.\n- He prepared four or five columns of bogus telegraph news and had it set up and printed for the Minnesotian.\n- He was a versatile writer and his bogus news was so convincing that it was not questioned.\n- He was provided with a stick and rule and set up about half a column of editorial without copy when the old Press removed from Bridge Square in 1869 to the new building on the corner of Third and Minnesota streets.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Earle S. Goodrich as the editor of the Pioneer and details his preparation of a joke on the Minnesotian, which aligns with the Gold Answer and the Retrieved Context. The additional details about his versatility and editorial work are relevant and supported by the context, enhancing the completeness of the response without introducing unsupported claims."
+  }
+}

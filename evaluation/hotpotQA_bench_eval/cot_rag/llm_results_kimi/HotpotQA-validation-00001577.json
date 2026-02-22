@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00001577",
+  "question": "In the 2011 census what was the population of suburban area in which BA Connect is headquartered ?",
+  "gold_answer": "26,788",
+  "llm_answer": "The population of the suburban area in which BA Connect is headquartered (Didsbury) at the 2011 census was 26,788.",
+  "context": [
+    {
+      "text": "BA Connect was a regional airline and a wholly owned subsidiary airline of British Airways . It was headquartered in Didsbury , Manchester, England, it operated a network of domestic and European services from a number of airports in the United Kingdom on behalf of British Airways . The airline operated as a low-cost carrier , with food sold via a ' buy on board ' programme (except for flights to London City Airport ). On 3 November 2006, British Airways announced the sale of BA Connect to Flybe . It formally transferred to Flybe on 25 March 2007. History Dash 8-311Q in 2006 The company was incorporated on 26 January 1970 as Brymon Aviation Limited which operated as Brymon Airways . On 30 July 1993 the company was renamed Brymon Airways Limited to reflect the operating name. The company was purchased by British Airways in 1993 and on 28 March 2002 it was merged with British Regional Airlines and was renamed British Airways Citiexpress Ltd operating as BA CitiExpress . British Airways Citiexpress is recognised for pioneering and attaining CAA approval for the print-at-home boarding pass, one of the first self-service tools of the digital era. The regional operations of British Airways at Birmingham and Manchester, and the operations of the former CityFlyer Express , were integrated into the new airline later in 2002. On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect and",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_0"
+    },
+    {
+      "text": "integrated into the new airline later in 2002. On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect and operations moved to a low-cost carrier model, with food sold via a ' buy on board ' programme (except for flights to London City Airport ). However, allocated seating and a baggage valet service were still available, while lounge access, tier points and BA Miles remained unaffected for those in the Executive Club. Operationally the new service came into effect on 26 March 2006. BAe 146-200 departing Manchester Airport in 2007 BA Connect handled most of British Airways' domestic and European services that do not serve London’s Heathrow or Gatwick airports. It had hubs in Birmingham , Bristol , London–City , Manchester and Southampton . From these locations the carrier operated services to several northwest European destinations and also to Glasgow , Edinburgh and Aberdeen . A few services also operated from Gatwick. In total, BA Connect flew from 17 airports in the UK and Ireland on 63 routes to major or central regional airports. On 3 November 2006, British Airways chief executive said that he had reached an agreement for Flybe to purchase BA Connect. BA would ensure that Flybe has sufficient funding in order to achieve its growth targets and the transition out of current BA Connect fleet. In return BA would acquire a 15% stake in the new business. The acquisition (which did not include BA Connect routes to London City or from",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_1"
+    },
+    {
+      "text": "In return BA would acquire a 15% stake in the new business. The acquisition (which did not include BA Connect routes to London City or from Manchester to New York) would significantly increase the Flybe route network in both the UK and continental Europe, making Flybe the largest regional airline in Europe. Retention of the London City routes would result in BA retaining the RJ100 aircraft for these domestic and European services. BA had to pay Flybe a sum of money to take on the company due to Flybe actually taking on a company that would cost them money rather than make profits for the foreseeable future. Much concern was expressed at the shedding of routes across Scotland, but Flybe stated that BA Connect routes would be kept and expanded. On 6 March 2007 Flybe stated that they would not be operating any former BA Connect services from Bristol. Consequently, the last flights on any of BA Connect's routes from Bristol was on 24 March 2007. Services BA Connect operated from several destinations that were also served by the parent company, and were part of British Airways destinations . Those that were not served by British Airways itself, mainly UK regional destinations, are listed in British Airways franchise destinations . Fleet Embraer ERJ-145 The BA Connect fleet included the following aircraft, before the sale to Flybe (March 2007) 1 BAe 146-100 (to Flybe) 2 BAe 146-200 (to Flybe) 1",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_2"
+    },
+    {
+      "text": "Holambi Kalan is a village in the Narela Sub Division of the North Delhi district of Delhi , India . The area has a railway station named Holambi Kalan (HUK). Its distance from the Delhi Junction railway station is 21 km. It is 22 km away from New Delhi railway station . Metro Vihar is a rehabilitated colony in Holambi Kalan. The population of Metro Vihar is 42,392 according to the 2011 Census of India . It falls under the Narela assembly constituency . Demographics Haryanvi, Hindi is the local language of Holambi Kalan but the English , Urdu , and Punjabi languages are also spoken. Metro Vihar is a large rehabilitated colony which is a part of Holambi Kalan, Narela of North West Delhi district, Delhi with total 8157 families residing. The Holambi Kalan along with Metro Vihar has population of 42,392 of which 22,933 are males while 19,459 are females as per Population Census 2011. There are 6091 0-6 year olds, making up 14.37% of total population of the area. The average sex ratio of Holambi Kalan is 849, which is lower than Delhi state average of 868. The child sex ratio for Holambi Kalan is 903, higher than the Delhi average of 871. Holambi Kalan has a lower literacy rate compared to",
+      "id": "HotpotQA-validation-00001577/02_Holambi-Kalan.html_c_0"
+    },
+    {
+      "text": "1 BAe 146-100 (to Flybe) 2 BAe 146-200 (to Flybe) 1 BAe 146-300 (to Flybe) 10 Avro RJ100 (to BA CityFlyer ) 6 Bombardier Dash 8 Q300 (to Flybe) 28 Embraer ERJ 145 (to Flybe) See also List of defunct airlines of the United Kingdom References External links Wikimedia Commons has media related to BA Connect . BA Connect BA Connect Fleet Age BA Connect Fleet Portals : Greater Manchester Companies Aviation",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_3"
+    },
+    {
+      "text": "Didsbury is a suburb of Manchester , England, on the north bank of the River Mersey , 5 miles (8 kilometres) south of Manchester city centre . The population at the 2011 census was 26,788. Within the boundaries of the historic county of Lancashire , there are records of Didsbury existing as a small hamlet as early as the 13th century. Its early history was dominated by being part of the Manor of Withington , a feudal estate that covered a large part of what is now the south of Manchester. Didsbury was described during the 18th century as a township separate from outside influence. In 1745 a section of the Jacobite army including the Duke of Perth crossed the Mersey at Didsbury in the Jacobite march south from Manchester to Derby. Didsbury was largely rural until the mid-19th century, when it underwent development and urbanisation during the Industrial Revolution . It became part of Manchester in 1904. The Royal Society for the Protection of Birds was formed in Didsbury in 1889. History Toponymy Didsbury derives its name from the Anglo-Saxon Dyddi's burg , probably referring to a man known as Dyddi whose stronghold or township it was on a low cliff overlooking a place where the River Mersey could be forded. In the 13th century Didsbury was variously referred to as Dydesbyre,",
+      "id": "HotpotQA-validation-00001577/01_Didsbury.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- BA Connect HQ in Didsbury, Manchester (HotpotQA-validation-00001577/00_BA-Connect.html_c_0)\n- Didsbury is a suburban area; need 2011 population\n- BA Connect HQ in Didsbury (HotpotQA-validation-00001577/00_BA-Connect.html_c_0)\n- Evidence states Didsbury 2011 population was 26,788 (HotpotQA-validation-00001577/01_Didsbury.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the 2011 census what was the population of suburban area in which BA Connect is headquartered ?",
+      "doc_ids": [
+        "HotpotQA-validation-00001577/00_BA-Connect.html_c_0",
+        "HotpotQA-validation-00001577/00_BA-Connect.html_c_1",
+        "HotpotQA-validation-00001577/00_BA-Connect.html_c_2",
+        "HotpotQA-validation-00001577/02_Holambi-Kalan.html_c_0",
+        "HotpotQA-validation-00001577/00_BA-Connect.html_c_3"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Didsbury 2011 census population",
+      "doc_ids": [
+        "HotpotQA-validation-00001577/01_Didsbury.html_c_0",
+        "HotpotQA-validation-00001577/01_Didsbury.html_c_12",
+        "HotpotQA-validation-00001577/01_Didsbury.html_c_13",
+        "HotpotQA-validation-00002733/02_Dehradun.html_c_16",
+        "HotpotQA-validation-00001577/01_Didsbury.html_c_14"
+      ]
+    }
+  ]
+}

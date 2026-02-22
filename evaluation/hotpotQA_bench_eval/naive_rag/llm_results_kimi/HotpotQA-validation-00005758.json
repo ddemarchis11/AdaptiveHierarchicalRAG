@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005758",
+  "question": "What city is the women's Vans Triple Crown of Surfing event hosted at?",
+  "gold_answer": "City and County of Honolulu",
+  "llm_answer": "The evidence does not specify a single city for the women’s Vans Triple Crown of Surfing; it only lists the three venue locations—Haleiwa, Sunset, and Pipeline—on the North Shore of Oahu.",
+  "context": [
+    {
+      "text": "The Triple Crown of Surfing is a specialty series of professional surfing events that have been held annually since 1983 on the North Shore of Oahu , a coastline whose winter swells can reach 50 feet (15 m) in height. The Triple Crown was founded by former World Champion (1968) Fred Hemmings, and Randy Rarick, who produced the Triple Crown events. The Series came under Vans' ownership in 1998. The three venues of Haleiwa, Sunset, and Pipeline are the last three major events of the professional surfing season; the Pipe Masters being the final event of the World Surf League Championship Tour up until 2020 when it became the first event of the 2020-21 wraparound season in December 2020. In 2020, under challenges of the global COVID-19 pandemic , the series went fully digital. Surfers had from December 21, 2020, to January 15, 2021, to upload their two best video clips from each of the three venues. The women's division returned to Pipeline. The digital Vans Triple Crown of Surfing awarded individual location titles for Haleiwa, Sunset and Pipeline, as well as overall Vans Triple Crown champion titles to the top performing man and woman across all three locations, with a total prize purse of $200,000 split equally among men and women. There was also a digital Fan Vote title, for fan favorites, for the first",
+      "id": "HotpotQA-validation-00005758/00_Triple-Crown-of-Surfing.html_c_0"
+    },
+    {
+      "text": "prize purse of $200,000 split equally among men and women. There was also a digital Fan Vote title, for fan favorites, for the first time. The Pipeline event is not to be confused with the 2020 Pipeline Masters tournament that was held to start the 2020-21 wraparound season. The events are: The Hawaiian Pro at Haleiwa Ali'i Beach Park (Nov. 12 - Nov. 24) The World Cup of Surfing at Sunset Beach (Nov. 25 - Dec. 6) The Pipeline Masters at Ehukai Beach Park (in Pūpūkea , and home to the Banzai Pipeline ) (Dec. 8 - Dec. 20). In addition to individual event champions, the Vans Triple Crown of Surfing crowns an overall champion each year. This goes to the surfer who has performed best across all three competitions. Men's & Women's Triple Crown Champions References External links Official website",
+      "id": "HotpotQA-validation-00005758/00_Triple-Crown-of-Surfing.html_c_1"
+    },
+    {
+      "text": "Philip Andrew Irons (July 24, 1978 – November 2, 2010) was an American professional surfer . He began surfing with his brother Bruce on the shallow and dangerous waves of Kauai , Hawaii, before being spotted by a local surfboard brand and flown to North Shore , Oahu, Hawaii, to compete and develop his skill. Over the course of his professional career, Irons won three world titles (2002, 2003, 2004), three Quiksilver Pro France titles (2003, 2004, 2005), two Rip Curl Pro Search titles (2006 and 2007), and 20 elite-tour victories, including the Vans Triple Crown of Surfing four times from 2002 to 2006. He won at nearly every venue on the ASP calendar, only missing Gold Coast, Brazil, and Portugal. Career His younger brother Bruce Irons is a former competitor on the World Championship Tour of Surfing . During his childhood, Andy regularly lost to Bruce in contests, but that changed once he entered the World Championship Tour. During his professional career, he won three world titles (2002, 2003, 2004), three Quiksilver Pro France titles (2003, 2004, 2005), two Rip Curl Pro Search titles (2006 and 2007) and 20 elite-tour victories, including the Vans Triple Crown of Surfing four times",
+      "id": "HotpotQA-validation-00005758/03_Andy-Irons.html_c_0"
+    },
+    {
+      "text": "Pro Search titles (2006 and 2007) and 20 elite-tour victories, including the Vans Triple Crown of Surfing four times from 2002 to 2006. On September 3, 2010, he won the Billabong Pro Teahupoo in Tahiti. In 2009, Irons withdrew from doing the full ASP World Tour season for personal reasons, though he did participate in a few events. He requested a wildcard entry for the 2010 ASP World Tour season, which was granted by ASP president Wayne Bartholomew . As a result, Irons did not have to re-qualify in 2010 via the World Qualifying Series (WQS). Irons won the Billabong Pro Tahiti 2010. He was inducted into the Surfing Walk of Fame in Huntington Beach, California , in 2008. The governor of Hawaii declared February 13 forever \"Andy Irons Day\". Billabong produced an Andy Irons line of board shorts. Films The 2018 movie Andy Irons: Kissed by God (directed by adventure-sport documentarians Steve and Todd Jones) is about the three-time world champion who died at 32 after a lifelong struggle with bipolar disorder and addiction . The film features in-depth interviews with Andy's brother Bruce Irons , his wife Lyndie Irons, Joel Parkinson , Nathan Fletcher, Sunny Garcia , and Kelly Slater . In",
+      "id": "HotpotQA-validation-00005758/03_Andy-Irons.html_c_1"
+    },
+    {
+      "text": "Andrew Joseph Finch (born March 20, 1981) is an American snowboarder . His accomplishments include winning the overall U.S. Grand Prix Halfpipe Title in 2003 and 2004, taking first place in the Arctic Challenge in Norway in April 2004, winning the Vans Triple Crown in February 2004, winning the O'Neill Snowboard Jam in January 2005, and finishing in second place in Northstar Resort's Vans Tahoe Cup. In addition, Finch competed in the 2006 Winter Olympics for the United States. He lives in Truckee, California and attended Bullard High School in Fresno , California . Finch and his friend Tommy Czeschin participated on the 19th season of The Amazing Race . They ended up in 4th place out of 11 teams and were the eighth team eliminated in Casco Viejo , Panama . He and Tommy are one of the few teams who won 6 out of 12 legs on The Amazing Race 19 . References External links Official website Andy and Tommy's The Amazing Race 19 Official Profile v t e",
+      "id": "HotpotQA-validation-00005758/02_Andy-Finch.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Triple Crown held on North Shore of Oahu (Novel-xxxx_c_0)\n- Haleiwa, Sunset, Pipeline are the three venues (Novel-xxxx_c_0)\n- Women's division returned to Pipeline (Novel-xxxx_c_0)\n- Pipeline is at Ehukai Beach Park in Pūpūkea (Novel-xxxx_c_1)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What city is the women's Vans Triple Crown of Surfing event hosted at?",
+      "doc_ids": [
+        "HotpotQA-validation-00005758/00_Triple-Crown-of-Surfing.html_c_0",
+        "HotpotQA-validation-00005758/00_Triple-Crown-of-Surfing.html_c_1",
+        "HotpotQA-validation-00005758/03_Andy-Irons.html_c_0",
+        "HotpotQA-validation-00005758/03_Andy-Irons.html_c_1",
+        "HotpotQA-validation-00005758/02_Andy-Finch.html_c_0"
+      ]
+    }
+  ]
+}

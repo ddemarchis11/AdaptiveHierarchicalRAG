@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002024",
+  "question": "In what town does the one-time star of \"And There's More\" now live?",
+  "gold_answer": "Rochdale",
+  "llm_answer": "The provided evidence does not mention the town where the one-time star of \"And There's More\" now lives.",
+  "context": [
+    {
+      "text": "next show there'll be a hundred. When the hundred is there, I'm like, 'There's one or two people who really need us to be here,' and it should be focused on them and I shouldn't care if there's a big crowd or not, but I struggle with it. I was in Korn and we sold like 25 million albums, and I can't even fill this little bar up? Of all those fans, 300–400 people can't just show up here? It's like starting over, totally.\" Save Me From Myself peaked at No. 63 on the Billboard 200 while also peaking at 13 and 21 on the Hard Rock and Rock charts, respectively. Unreleased songs According to an interview with the Great Falls Tribune , Welch returned to the studio to begin work on a second album. Concerning his career at the time, Welch said that \"I feel like I was created to do what I'm doing right now. Everything I learned in my life before I changed it all over, it set me up for what I'm doing now. That's the satisfaction. That's the peace in knowing, without a doubt, that you're on the road you're supposed to be on. There's nothing more content than that.\" In November 2009, Welch announced that his second effort would be produced by Grammy-nominee Rob Graves ( Red , Pillar ), and that the band was recording in Nashville, expecting to complete",
+      "id": "HotpotQA-validation-00003792/01_Brian-Welch.html_c_11"
+    },
+    {
+      "text": "managed to finance 26 episodes until the show was picked up by CBS. The show ran for six seasons and 143 episodes. Star Alan Young recalled the producer-director: He was a very lovable character, but he was a character. He wanted to rush through and get things done quickly, and he didn't want to stay around the studio too long. I'll never forget one line he used. He didn't like people fooling around on the set, cracking jokes. He really didn't have a great sense of humor for a man who did so many comedies! I'll never forget when he said: \"Stop that! Stop all this laughing! This is comedy, there's no time for laughter!\" Well, we just all broke up. He didn't realize what he said, he didn't care. As a longtime friend of Mae West , Lubin got her to appear on an episode of Mister Ed . He directed the occasional feature, such as The Thief of Baghdad (1961), The Incredible Mr. Limpet (1964, with Don Knotts ) and Hold On! (1966, with Herman's Hermits ). Peter Noone who appeared in the latter remembers, \"Arthur Lubin was really talented. He made us better than we actually were, which is what a good director does. I mean, this band was not exactly ready for Stanislavski.\" Lubin's last feature was Rain for a Dusty Summer (1971). His",
+      "id": "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_13"
+    },
+    {
+      "text": "us into the wispy narrative.\" Pauline Kael of The New Yorker stated: \"Nicholson's prankish performance dominates the movie, and with his prankishness also coming out in the casting and the directing, the movie hasn't any stabilizing force; there's nothing to balance what he's doing—no one with a straitjacket.\" Stanley Kauffmann of The New Republic wrote that Goin' South \"is boring after about the sixth minute, an especially irritating bore because there's an idea in it for a good Nicholson picture\". Mary Steenburgen earned a nomination for the Golden Globe Award for New Star of the Year – Actress . References External links Goin' South at IMDb",
+      "id": "HotpotQA-validation-00003047/03_Goin-South.html_c_6"
+    },
+    {
+      "text": "of Britain\". Hewlett described Carousel in a 2008 interview as \"even bigger and more difficult than Monkey ... It's sort of like a film but not with one narrative story. There's many stories, told around a bigger story, set to music, and done in live action, animation, all different styles. Originally it was a film but now we think it's a film and it's a stage thing as well. Damon's written around 70 songs for it, and I've got great plans for the visuals.\" The Carousel concept was eventually dropped with Albarn and Hewlett's work evolving into the third Gorillaz studio album, Plastic Beach . Drawing upon environmentalist themes, Plastic Beach was inspired by the idea of a \"secret floating island deep in the South Pacific... made up of the detritus, debris and washed up remnants of humanity\" inspired by marine pollution such as plastic that Albarn had found in a beach near one of his homes in Devon as well as the Great Pacific Garbage Patch . Unlike previous Gorillaz albums, Albarn made the decision to produce Plastic Beach by himself, with no co-producer. The album was recorded throughout 2008 and 2009 in London, New York City and Syria although production of the album was briefly interrupted so that Albarn could join Blur for a reunion tour in the summer of 2009, with Albarn explaining \"there's no way you can do that and that [Blur and Gorillaz]",
+      "id": "HotpotQA-validation-00002243/03_2-D-character.html_c_13"
+    },
+    {
+      "text": "in the summer of 2009, with Albarn explaining \"there's no way you can do that and that [Blur and Gorillaz] at the same time.\" Plastic Beach saw Gorillaz move into a more electronic pop sound, with Albarn describing the album as \"the most pop record I've ever made\" and saying that he took special care to make the album's lyrics and melodies clear and focused compared to previous albums. Plastic Beach also featured the largest cast of collaborators featured yet on a Gorillaz album, fulfilling Albarn's goal of \"work[ing] with an incredibly eclectic, surprising cast of people\" including artists such as Snoop Dogg , Mos Def , Bobby Womack , Little Dragon , the former Velvet Underground frontman Lou Reed and Gruff Rhys among others, and also included orchestral contributions from Sinfonia Viva and the Syrian National Orchestra for Arabic Music . Albarn explained the expanded roster of featured artists represented his and Hewlett's new vision of Gorillaz as a project, explaining in a July 2008 interview that \"Gorillaz now to us is not like four animated characters any more – it's more like an organisation of people doing new projects... That's my ideal model.\" The 2010 live shows supporting Plastic Beach saw the touring band performing in full view of the audience for the first time. Released on 3 March 2010, Plastic Beach debuted at No. 2 on both the UK",
+      "id": "HotpotQA-validation-00002243/03_2-D-character.html_c_14"
+    }
+  ],
+  "cot_scratchpad": "",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what town does the one-time star of \"And There's More\" now live?",
+      "doc_ids": [
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_11",
+        "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_13",
+        "HotpotQA-validation-00003047/03_Goin-South.html_c_6",
+        "HotpotQA-validation-00002243/03_2-D-character.html_c_13",
+        "HotpotQA-validation-00002243/03_2-D-character.html_c_14"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fb8d613d",
+  "question": "Within the apparatus for baking refractory products, the smoking furnace is part of what larger system?",
+  "gold_answer": "The smoking furnace is part of the gas furnace.",
+  "llm_answer": "The smoking furnace is part of a larger system for baking refractory products, which includes a gas furnace and a smoking chamber.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the smoking furnace as part of the gas furnace system, which aligns with the Gold Answer. Additionally, it mentions the smoking chamber, which is supported by the retrieved context and provides relevant additional detail without contradicting the core truth. All claims are grounded in the context, and the key fact from the Gold Answer is included."
+  }
+}

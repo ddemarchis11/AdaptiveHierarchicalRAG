@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004556",
+  "question": "Kevin House Jr. played professionally for the team that is in what NFL conference?",
+  "gold_answer": "National Football Conference (NFC) West",
+  "llm_answer": "Kevin House Jr. played professionally for the Seattle Seahawks. The Seattle Seahawks are a member of the National Football Conference (NFC) West division.",
+  "context": [
+    {
+      "text": "Kevin Nathaniel House Jr. (born January 9, 1979) is an American former professional football player. He played for the San Diego Chargers and Seattle Seahawks of the National Football League (NFL). House graduated from Chamberlain High School in Tampa, Florida in 1997 where he played football and baseball. His father Kevin Sr. was a former wide receiver . References v t e",
+      "id": "HotpotQA-validation-00004556/00_Kevin-House-Jr.html_c_0"
+    },
+    {
+      "text": "The Seattle Seahawks are a professional American football team based in Seattle . The Seahawks compete in the National Football League (NFL) as a member of the National Football Conference (NFC) West division. They have played their home games at Lumen Field in Seattle's SoDo neighborhood since 2002, during which time the field was known at various points as Seahawks Stadium, Qwest Field, and CenturyLink Field. The team is named for the osprey , a species of bird also referred to as the sea hawk. The Seahawks joined the NFL in 1976, as an expansion team in the NFC West. From 1977 to 2001, Seattle was assigned to the American Football Conference (AFC) West ; the team rejoined the NFC in 2002 . From 1976 to 1999, the Seahawks played in the Kingdome , alongside fellow 1970s Seattle sports establishments in the Mariners , SuperSonics , and Sounders . The Seahawks briefly played in Husky Stadium from 2000 to 2001, before moving to Lumen Field, on the former ground of the Kingdome, which they share with Sounders FC and Reign FC . Seahawks fans, collectively referred to as the \" 12th man \", set the Guinness World Record for the loudest crowd noise at a sporting event twice within the span of a few months during the 2013 NFL season , with the latter event also registering on seismographs . As the",
+      "id": "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_0"
+    },
+    {
+      "text": "event twice within the span of a few months during the 2013 NFL season , with the latter event also registering on seismographs . As the only NFL team in the Pacific Northwest , the Seahawks attract support from a wide geographical area including the U.S. states of Alaska , Idaho , Montana , Oregon , and Utah , as well as the Canadian province of British Columbia . The Seahawks have won 12 division titles and four conference championships, and are the only team to have played in both the AFC and NFC Championship Games. They achieved their greatest success in the 2010s, led by head coach Pete Carroll and the historic Legion of Boom defense, achieving five consecutive 10+ win seasons and appearing in back-to-back Super Bowls . That Seahawks team achieved the first Super Bowl victory in franchise history, blowing out the Denver Broncos at Super Bowl XLVIII . Twelve seasons later, they defeated the New England Patriots in Super Bowl LX . The Seahawks have also appeared in Super Bowl XL and Super Bowl XLIX . Since joining the division in the 2002 reorganization , the Seahawks have led the NFC West in division titles, having won the division 10 times, most recently in 2025 . From 2011 to 2016, the Seahawks set an NFL record for playing 95 consecutive games without losing by more than 10 points. Seahawks players Kenny Easley , Walter Jones , Steve Hutchinson , Cortez Kennedy , and Steve Largent have been voted into the Pro Football Hall",
+      "id": "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_1"
+    },
+    {
+      "text": "song has since been played by marching bands at various colleges, including Boston College and the University of Southern California . The song has been chanted by NFL fans and played by NBA and NHL teams, and it was once chanted by Formula One racing driver Nico Rosberg . Audiences often replace the \"oh\"s in the chant with the names of members of sports teams, as with Kevin De Bruyne of Manchester City , Thiago Silva of Chelsea , Maximiliano Moralez and Andrea Pirlo of New York City FC , Santi Cazorla , formerly of Arsenal , and Divock Origi of Liverpool . \"Seven Nation Army\" has served as an official anthem at various sporting events; NPR ' s Rick Karr remarked that the song is \"arguably... the world's most popular sports anthem\". It has been played at each UEFA European Football Championship since 2008, and it was played prior to the start of each game during the 2018 FIFA World Cup . Karr estimated that the song has reached \"hundreds of millions of television viewers around the world\" as a result of its usage in the latter tournament. Multiple sports teams and personalities have also used \"Seven Nation Army\" as their official song or walkout music, including boxers Gennady Golovkin and Anthony Joshua , American football teams the Baltimore Ravens , the Buffalo Bills (specifically when Buffalo kicks off to the opposing team) and the Detroit Lions , ice hockey team the New Jersey Devils , baseball team",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_14"
+    },
+    {
+      "text": "Jake Christopher Delhomme ( / d ə ˈ l oʊ m / də- LOHM ; born January 10, 1975) is an American former professional football player who was a quarterback in the National Football League (NFL). Delhomme played college football at the University of Louisiana at Lafayette , then known as the University of Southwestern Louisiana, before being signed by the New Orleans Saints as an undrafted free agent after the 1997 NFL draft . Delhomme began his professional career as a practice squad player with the Saints in 1997 and 1998 and played in the NFL Europe for two years in between NFL seasons. Returning to the Saints, Delhomme played his first NFL games in 1999 . Delhomme played as the Carolina Panthers starting quarterback from 2003 to 2009 . Delhomme held many of Carolina's quarterback records until Cam Newton broke most of them. Delhomme led the team to Super Bowl XXXVIII in his first season with Carolina. After his departure from Carolina, Delhomme also played for the Cleveland Browns in 2010 and Houston Texans in 2011 . Early life Delhomme was born to Jerry and Marcia Delhomme, both Cajuns . Delhomme's grandfather bred horses, and his father was a jockey who began racing at eight years old. Delhomme has called horses his \"first love\", and he, his father, and his brother own and train thoroughbreds. Delhomme played both quarterback",
+      "id": "HotpotQA-validation-00004556/03_Jake-Delhomme.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Kevin House Jr. played for the Seattle Seahawks (HotpotQA-validation-00004556/00_Kevin-House-Jr.html_c_0).\n- The Seattle Seahawks are in the National Football Conference (NFC) (HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_0).\n- NFC is a conference in the National Football League (NFL) (HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_0).\n- The question asks for the NFL conference of the team Kevin House Jr. played for (Kevin House Jr. played professionally for the team that is in what NFL conference?).\n- The Seattle Seahawks are the team Kevin House Jr. played for (HotpotQA-validation-00004556/00_Kevin-House-Jr.html_c_0).\n- The Seattle Seahawks are in the NFC (HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Kevin House Jr. played professionally for the team that is in what NFL conference?",
+      "doc_ids": [
+        "HotpotQA-validation-00004556/00_Kevin-House-Jr.html_c_0",
+        "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_0",
+        "HotpotQA-validation-00004556/01_Seattle-Seahawks.html_c_1",
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_14",
+        "HotpotQA-validation-00004556/03_Jake-Delhomme.html_c_0"
+      ]
+    }
+  ]
+}

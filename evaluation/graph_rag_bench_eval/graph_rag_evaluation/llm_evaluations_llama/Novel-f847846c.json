@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f847846c",
+  "question": "Imagine you are Young Simon. Write a diary entry about your family connections and your feelings about the events involving your cousin Cæsar and Roxie.",
+  "gold_answer": "As the only son of S. S. Simon, I often hear stories about our family. My cousin, Cæsar, has been at the center of recent events, from delivering a note to the Governor to helping Simon learn about Roxie's family. I hear Roxie has been charged, and I worry for her. Our family feels so interconnected, especially with big-sis raising Cæsar and our ties to the Carlow and Brindle families.",
+  "llm_answer": "Dear Diary,\n\nI am still reeling from the revelation about my family connections. I had always thought I was an orphan, but it seems I have a large estate in Arkansas left to me by my uncle, S. S. Simon. I am both astonished and bewildered by this news. I can hardly believe that I am now a wealthy young man.\n\nBut what's even more astonishing is the story of Roxie Daymon, who has been revealed to be my cousin. I had met her on a pleasure trip to the West Indies, and we had become engaged to be married. Her story is one of hardship and struggle, and I am deeply moved by her courage and determination. I am grateful to have had the chance to know her, even if it was for a short time.\n\nAs I reflect on the events that have transpired, I am filled with a sense of wonder and awe. I had never imagined that I would be connected to such a large and complex family, with secrets and mysteries that have been hidden for so long. I am excited to learn more about my family's history and to explore the possibilities that this new information has opened up for me.\n\nYours truly,\nYoung Simon",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer introduces several unsupported claims, such as Young Simon being an orphan, inheriting an estate, and being engaged to Roxie Daymon, which are not grounded in the retrieved context. While it captures some elements of family connections and feelings about Roxie, it diverges significantly from the Gold Answer and lacks faithfulness to the provided context. Additionally, it misses key facts like Cæsar delivering a note to the Governor and the interconnectedness of the Carlow and Brindle families."
+  }
+}

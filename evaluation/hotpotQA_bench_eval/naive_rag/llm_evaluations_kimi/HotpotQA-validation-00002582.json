@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002582",
+  "question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+  "gold_answer": "Reese Witherspoon",
+  "llm_answer": "Reese Witherspoon",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Reese Witherspoon as the actress from 'Overnight Delivery' who was born in New Orleans. This is supported by the retrieved context, which explicitly states her birthplace as New Orleans, Louisiana. The answer is concise and matches the Gold Answer, covering all necessary facts."
+  }
+}

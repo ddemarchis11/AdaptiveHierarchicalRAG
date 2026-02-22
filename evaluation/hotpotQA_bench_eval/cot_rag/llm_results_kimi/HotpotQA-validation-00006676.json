@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006676",
+  "question": "Following The Simple Things a featurette directed by Burny Mattinson was produced, called what?",
+  "gold_answer": "Mickey's Christmas Carol",
+  "llm_answer": "Mickey's Christmas Carol",
+  "context": [
+    {
+      "text": "Mickey's Christmas Carol is a 1983 American animated Christmas fantasy featurette , directed and produced by Burny Mattinson . The cartoon is an adaptation of Charles Dickens 's 1843 novella A Christmas Carol , and stars Scrooge McDuck as Ebenezer Scrooge . The rest of the cast was filled mostly using characters from pre-existing Disney animated properties; notably from the Mickey Mouse universe , Jiminy Cricket from Pinocchio (1940), The Adventures of Ichabod and Mr. Toad (1949), and Robin Hood (1973). The featurette was produced by Walt Disney Productions and released by Buena Vista Distribution on December 16, 1983, with the re-issue of The Rescuers (1977). In the United States, it was first aired on television on NBC , on December 10, 1984. Mickey's Christmas Carol was largely adapted from the 1974 Disneyland Records audio musical An Adaptation of Dickens' Christmas Carol , featuring similar dialogue and a similar cast of characters. The primary differences between the record album and animated featurette are the collectors for the poor were played by Honest John and Gideon from Pinocchio , the Ghost of Christmas Past was played by Merlin from The Sword in the Stone and the Ghost of Christmas Future was played by the Evil Queen in her peddler disguise from Snow White and the Seven Dwarfs , but in the animated version, the collectors for the poor are played by",
+      "id": "HotpotQA-validation-00006676/01_Mickeys-Christmas-Carol.html_c_0"
+    },
+    {
+      "text": "The Great Mouse Detective (released as Basil the Great Mouse Detective in some countries and The Adventures of the Great Mouse Detective during its 1992 re-release) is a 1986 American animated mystery adventure film produced by Walt Disney Feature Animation and released by Walt Disney Pictures . Based on the children's book series Basil of Baker Street by Eve Titus and Paul Galdone , the film is written and directed by John Musker , Dave Michener, Ron Clements , and Burny Mattinson . Featuring the voices of Vincent Price , Barrie Ingham , Val Bettin , Susanne Pollatschek, Candy Candido , Diana Chesney , Eve Brenner , and Alan Young , the plot follows the titular mouse detective, Basil of Baker Street, who undertakes to help a young mouse find and save her father from the criminal mastermind Professor Ratigan. The Great Mouse Detective draws heavily on the tradition of Sherlock Holmes with a heroic mouse who consciously emulates the detective. Titus named the main character after actor Basil Rathbone , who is best remembered for playing Holmes in film (and whose voice, sampled from a 1966 reading of \" The Red-Headed League \" was the voice of Holmes in this film, 19 years after his death). Sherlock Holmes also mentions \"Basil\" as one of his aliases in the Arthur Conan Doyle story \" The Adventure of Black Peter \". The Great Mouse Detective was released to theaters on July 2, 1986, to",
+      "id": "HotpotQA-validation-00006676/03_The-Great-Mouse-Detective.html_c_0"
+    },
+    {
+      "text": "The Simple Things is an animated short film , part of the Mickey Mouse series, produced by Walt Disney Productions . Released by RKO Radio Pictures on March 27, 1953, the short is notable as the 126th and final regular entry in the Mickey Mouse theatrical cartoon series. Following this short, one-shot Mickey shorts were produced: the featurettes Mickey's Christmas Carol (1983) and The Prince and the Pauper (1990), and the shorts Runaway Brain (1995), Get a Horse! (2013), and Once Upon a Studio (2023). Plot At the start of the cartoon, Mickey is seen whistling to the tune of the song \"The Simple Things\" while walking along a rocky seashore, fishing gear in hand. Pluto , sniffing behind him, spots a mussel as he tries to cover up miniature geysers along the way. The mussel then squirts water at him. Pluto barks at the mussel and the mussel barks back. The mussel gets trapped on Pluto's tail after they fight. He pulls the mussel up and attempts to shove it off his tail but instead, he pulls the mussel up and down like a yo-yo. The mussel accidentally gets stuck in his mouth. Pluto then rushes to Mickey for assistance. At first, Mickey thinks that Pluto is asking for food and feeds him a hot dog. The mussel then steals Mickey's sandwich and a full pepper",
+      "id": "HotpotQA-validation-00006676/00_The-Simple-Things.html_c_0"
+    },
+    {
+      "text": "In 1982, Ron Clements proposed adapting the children's book series into an animated feature and, along with story artist Pete Young, it was pitched to Disney president Ron Miller , who approved the project. Earlier in his career, Clements created a 15-minute Sherlock Holmes animated short recorded on Super 8 film . Because the animators were displeased with the direction The Black Cauldron was heading, Basil of Baker Street was approved as an alternative project. Burny Mattinson and John Musker were assigned as the original directors while Dave Michener was also added as co-director. Miller became the producer for the film. The first idea for the victim was for Olivia—then an older and potential love interest whom Dawson falls for, but Miller suggested the character be \"a little girl, someone they [the audience] can feel sorry for.\" One of the dropped characters was a stool pigeon who always hung around Buckingham Palace and tipped Basil off about the skullduggery. The writers dropped the characters deciding for Basil to figure it out for himself. With the departure of Miller in 1984, the board of directors appointed Michael Eisner , who had resigned from Paramount Pictures , to become the new CEO. Eisner recruited former production head Jeffrey Katzenberg to become studio chairman over Disney's film division. Following a story reel screening of Basil , Eisner and Katzenberg complained about the slow pacing of the story and ordered for rewrites before animation would commence. Although the",
+      "id": "HotpotQA-validation-00006676/03_The-Great-Mouse-Detective.html_c_6"
+    },
+    {
+      "text": "seagulls to chase Mickey and Pluto away. The short ends with the seagull floating away with his portable radio and fish in his mouth singing the song \"The Simple Things\". Other appearances The cartoon was featured in the video game Disney's Magical Mirror Starring Mickey Mouse . Voice cast Mickey Mouse: Jimmy MacDonald Pluto: Pinto Colvig Reception In Mickey's Movies: The Theatrical Films of Mickey Mouse , Gijs Grob writes: \"It would have been nice if Mickey went out with a bang, but The Simple Things is anything but that. It's a quiet, unassuming film, in which we find Mickey at his most relaxed... Both storylines are executed routinely, and the whole comedy feels tired and uninspired.\" Home media The short was released on May 18, 2004, on Walt Disney Treasures: Mickey Mouse in Living Color, Volume Two: 1939-Today . See also Mickey Mouse (film series) References External links The Simple Things at IMDb",
+      "id": "HotpotQA-validation-00006676/00_The-Simple-Things.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- The Simple Things is followed by featurettes Mickey's Christmas Carol (1983) and The Prince and the Pauper (1990) (HotpotQA-validation-00006676/00_The-Simple-Things.html_c_0)\n- Mickey's Christmas Carol was directed by Burny Mattinson (HotpotQA-validation-00006676/01_Mickeys-Christmas-Carol.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Following The Simple Things a featurette directed by Burny Mattinson was produced, called what?",
+      "doc_ids": [
+        "HotpotQA-validation-00006676/01_Mickeys-Christmas-Carol.html_c_0",
+        "HotpotQA-validation-00006676/03_The-Great-Mouse-Detective.html_c_0",
+        "HotpotQA-validation-00006676/00_The-Simple-Things.html_c_0",
+        "HotpotQA-validation-00006676/03_The-Great-Mouse-Detective.html_c_6",
+        "HotpotQA-validation-00006676/00_The-Simple-Things.html_c_2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cfc21569",
+  "question": "When Raegen is fleeing the police after a violent encounter, where does he wish to hide in order to avoid being caught, and why does he consider these locations safe?",
+  "gold_answer": "Raegen wanted to lie hidden in his own cellar and his own garret.",
+  "llm_answer": "There is no information provided about a character named Raegen fleeing the police after a violent encounter. The provided text appears to be a collection of excerpts from various sources, including literature and educational materials, but it does not mention a character named Raegen.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about Raegen's desired hiding places and reasons for considering them safe. It incorrectly states that there is no information about Raegen in the context, despite the Gold Answer providing specific details. The retrieved context does not contain relevant information about Raegen, but the Model Answer does not utilize internal knowledge to provide a correct response either."
+  }
+}

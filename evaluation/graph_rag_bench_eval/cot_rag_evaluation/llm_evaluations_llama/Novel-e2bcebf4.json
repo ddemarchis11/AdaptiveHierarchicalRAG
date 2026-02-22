@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "The creatures in the story that are depicted as eating nuts are:\n\n1. Mole\n2. Cracker (a squirrel)\n3. Cracker's uncle, Uncle Munkle (although it is mentioned that he is disappointed in Cracker's diet)\n4. The parrot\n5. The raccoon\n6. The squirrel (Cracker)\n7. Bruin (a bear)\n8. Pigeon Pretty\n9. Miss Mary\n10. Granny\n11. Speckle (an old hen)\n12. Cluckety (an old hen)\n\nThe specific types of nuts mentioned as part of their diet are:\n\n1. Butternuts\n2. Chestnuts\n3. Beech-nuts\n4. Hickories\n5. Hazels\n6. Almonds\n7. Acorns (of several kinds, including long slender brown-satin ones and fat red-and-brown ones with a woolly down on them)\n8. Sassafras-bark is not a type of nut, but rather a plant used for flavoring.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer lists a wide range of creatures eating nuts, but the Gold Answer specifically associates star-nosed moles with eating nuts, which is not clearly supported by the retrieved context. The Model Answer also includes additional creatures and types of nuts, some of which are unsupported or irrelevant to the question. While it partially aligns with the Gold Answer, it introduces unsupported claims and misses the specific association of star-nosed moles with the mentioned nuts."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002354",
+  "question": "OU812 was the second album to feature a vocalist that also played what instrument in \"Finish What Ya Started\"?",
+  "gold_answer": "rhythm guitar",
+  "llm_answer": "Guitar",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer 'Guitar' is partially correct but lacks specificity. The Gold Answer specifies 'rhythm guitar,' which is a more precise term supported by the context. The Model Answer is faithful to the context, as it correctly identifies the instrument played by Sammy Hagar in 'Finish What Ya Started.' However, it does not fully cover the specific detail of 'rhythm guitar' mentioned in the Gold Answer."
+  }
+}

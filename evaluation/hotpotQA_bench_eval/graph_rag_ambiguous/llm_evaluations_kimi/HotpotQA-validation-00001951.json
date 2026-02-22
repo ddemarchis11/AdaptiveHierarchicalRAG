@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001951",
+  "question": "Which Soviet-era design bureau was responsible for developing the combat aircraft operated by a tactical squadron of the Polish Air Force based in the northwest of the country?",
+  "gold_answer": "the Mikoyan design bureau",
+  "llm_answer": "The Mikoyan design bureau developed the MiG-29 fighters operated by the 41st Tactical Air Squadron of the Polish Air Force, which is based in Malbork in the northwest of the country.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Mikoyan design bureau as responsible for developing the MiG-29 fighters operated by the Polish Air Force's 41st Tactical Air Squadron, which is based in Malbork in the northwest of Poland. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which mentions the squadron operating MiG-29 fighters developed by Mikoyan."
+  }
+}

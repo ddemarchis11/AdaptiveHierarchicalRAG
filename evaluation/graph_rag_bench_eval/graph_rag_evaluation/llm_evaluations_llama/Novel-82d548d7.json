@@ -1,0 +1,12 @@
+{
+  "id": "Novel-82d548d7",
+  "question": "Drawing from Augustus Le Plongeon's analysis in 'Vestiges of the Mayas,' what evidence is presented for connections between the Mayas and the Egyptians, and what relationships or comparisons are described between the Mayas and the civilizations of the Asiatic peninsulas?",
+  "gold_answer": "The Mayas had many customs and attainments identical to those of the Egyptians, were compared to the Egyptians, and had relations with Asiatic peninsulas.",
+  "llm_answer": "Augustus Le Plongeon presents several pieces of evidence for connections between the Mayas and the Egyptians, including similarities in their religious beliefs, customs, and scientific attainments. He notes that the Mayas and Egyptians both worshiped the sun as a supreme god, and that the Egyptians called their land the \"Land of the Sun,\" while in Maya, \"RA\" or \"LA\" signifies \"that which exists\" or \"the truth.\" Additionally, Le Plongeon points out that the Egyptians and Mayas both used similar systems of writing and that their tombs and monuments share similarities in design and decoration.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant details about connections between the Mayas and Egyptians, such as shared religious beliefs and similarities in tomb designs, but it does not address the relationships or comparisons between the Mayas and civilizations of the Asiatic peninsulas, which is a key part of the question. Additionally, while some claims are supported by the context, others, like the interpretation of 'RA' or 'LA,' are not explicitly grounded in the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed6db2db",
+  "question": "Trace the reasoning path from Mayab’s similarity with Hindostan to the Mayas' conflict with the Spanish.",
+  "gold_answer": "Mayab has similarity with Hindostan; Hindostan has Mayas; Mayab is a country of the Mayas, who fought the Spanish.",
+  "llm_answer": "The text does not provide a direct reasoning path from Mayab's similarity with Hindostan to the Mayas' conflict with the Spanish. However, it mentions that the Mayas had many signs and characters identical to the Egyptians and the Carians, and that the Carians' customs and mode of life were similar to those of the people of Yucatan. It also mentions that the goddess Maia, the daughter of Atlantis, was worshiped in Greece, and that the name of the CARAS is found over a vast extension of country in America. \n\nThe text then jumps to a discussion about the author's habit of giving an account of the characters he meets, and his own self-reflection. It does not provide a clear connection between Mayab's similarity with Hindostan and the Mayas' conflict with the Spanish.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide a direct reasoning path from Mayab's similarity with Hindostan to the Mayas' conflict with the Spanish. However, it fails to synthesize the reasoning path implied in the Gold Answer, which connects Mayab's similarity with Hindostan, the presence of Mayas in Hindostan, and the Mayas' conflict with the Spanish. The Model Answer includes some relevant details but does not fully address the question or align with the Gold Answer's reasoning path. Additionally, the Model Answer introduces unsupported details about the author's self-reflection, which are not grounded in the retrieved context."
+  }
+}

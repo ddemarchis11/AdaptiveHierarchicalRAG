@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7409b4bb",
+  "question": "While building her collection of medals and decorations, what item did Miss Catherwaight find on Bowery, and why was it noteworthy?",
+  "gold_answer": "Miss Catherwaight found a silver medal on Bowery.",
+  "llm_answer": "On the Bowery she found a gold medal with diamonds that had been presented to Colonel James F. Placer by the men of his regiment; it was noteworthy because every soldier in the regiment had contributed toward it, yet the colonel gambled it away in a poker game.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Miss Catherwaight found a gold medal with diamonds on Bowery, whereas the Gold Answer specifies she found a silver medal. Additionally, the context does not support the claim about the gold medal with diamonds being found on Bowery, making the Model Answer unfaithful and missing the key fact from the Gold Answer."
+  }
+}

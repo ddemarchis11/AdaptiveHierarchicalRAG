@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "Unfortunately, the provided text does not specify the venue where Samuel Pepys observed the Duke of York during his attendance at a performance. However, it does mention that Pepys attended a performance at the Theatre on July 2nd, 1661, where the King, Duke, and Duchess, and Madame Palmer, were present.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the Duke of York was present at a performance attended by Pepys, but it does not explicitly confirm the venue as 'the Opera,' which is stated in the Gold Answer. The context does not provide direct evidence for 'the Opera,' but the Model Answer faithfully uses the retrieved context to mention the Theatre as the location. Evidence coverage is partial because the Gold Answer's specific venue ('the Opera') is not addressed."
+  }
+}

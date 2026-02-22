@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a29916b0",
+  "question": "According to the narrative, what items are mentioned as being included alongside burnouses?",
+  "gold_answer": "Burnouses include blankets and quilts.",
+  "llm_answer": "There is insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to answer the question, but the Gold Answer clearly identifies 'blankets and quilts' as items included alongside burnouses. The retrieved context does not provide relevant information to support or contradict the Gold Answer, but the Model Answer fails to address the question correctly or align with the Gold Answer."
+  }
+}

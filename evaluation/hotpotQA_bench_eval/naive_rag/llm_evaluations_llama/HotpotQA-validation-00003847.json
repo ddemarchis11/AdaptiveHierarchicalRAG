@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003847",
+  "question": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+  "gold_answer": "Rivington Moor",
+  "llm_answer": "The town where Dean Mills Reservoir is located on the slopes of the hill is Bolton.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies 'Rivington Moor' as the location, which is supported by the retrieved context mentioning Winter Hill being located on Rivington Moor. The Model Answer incorrectly states 'Bolton' as the town, which is not accurate for the specific question about the hill's location. While Bolton is mentioned in the context as being nearby, it does not align with the Gold Answer or the specific location of the hill."
+  }
+}

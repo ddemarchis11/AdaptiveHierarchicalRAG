@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004521",
+  "question": "Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?",
+  "gold_answer": "Unwritten Law",
+  "llm_answer": "Based on the provided evidence, Unwritten Law was formed earlier than Jon Spencer Blues Explosion.\n\nUnwritten Law was formed in 1990 (not explicitly stated in the evidence, but it is mentioned that Jon Spencer attended Brown University in Providence, Rhode Island where he was part of the noise rock band Shithaus, with Tod Ashley (Cop Shoot Cop, Firewater) in 1985, and later formed Pussy Galore in 1986, and then Jon Spencer Blues Explosion in 1991), but it is mentioned that Jon Spencer Blues Explosion was formed in 1991.\n\nHowever, Unwritten Law was formed in 1990, which is before Jon Spencer Blues Explosion was formed in 1991.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Unwritten Law was formed earlier than Jon Spencer Blues Explosion, aligning with the Gold Answer. However, the formation year of Unwritten Law (1990) is not explicitly supported by the retrieved context, making the faithfulness score lower. Additionally, the Model Answer does not provide specific evidence from the context to confirm the formation year of Unwritten Law, which impacts evidence coverage."
+  }
+}

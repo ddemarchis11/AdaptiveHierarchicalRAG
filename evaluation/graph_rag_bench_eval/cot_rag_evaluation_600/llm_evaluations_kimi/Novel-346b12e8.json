@@ -1,0 +1,12 @@
+{
+  "id": "Novel-346b12e8",
+  "question": "What is the relationship between St. Michael's Mount and Marazion?",
+  "gold_answer": "St. Michael's Mount was opposite Marazion.",
+  "llm_answer": "St. Michael’s Mount stands in Mount’s Bay opposite the town of Marazion; at low tide a sea-weedy causeway links the two, and boats are used when the tide is high.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the relationship between St. Michael's Mount and Marazion, stating that the Mount is opposite Marazion in Mount's Bay. It also provides additional relevant details about the causeway and boats, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the extra information enhances understanding without introducing unsupported claims."
+  }
+}

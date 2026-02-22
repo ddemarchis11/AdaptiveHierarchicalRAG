@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "Creatures depicted as eating nuts: the mole, Cracker the squirrel, and the general company of guests at the supper.\n\nSpecific types of nuts mentioned as part of their diet: hazels, butternuts, chestnuts, beech-nuts, hickories, acorns, and almonds.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer identifies multiple creatures eating nuts, including the mole, Cracker the squirrel, and the general company of guests, which is partially correct but not fully aligned with the Gold Answer that specifically mentions star-nosed moles. The types of nuts listed in the Model Answer are mostly accurate and supported by the context, but the inclusion of almonds is not grounded in the retrieved context. Additionally, the Gold Answer focuses solely on star-nosed moles, while the Model Answer expands to other creatures without clear evidence from the context."
+  }
+}

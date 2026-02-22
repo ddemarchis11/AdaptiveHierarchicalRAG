@@ -1,0 +1,12 @@
+{
+  "id": "Novel-26033837",
+  "question": "In the correspondence featured within the narrative, which individuals wrote letters to Sabinus, as indicated by the exchange of letters among mythological figures?",
+  "gold_answer": "Ulysses, Phaon, Hippolytus, Jason, and Demophoôn wrote letters to Sabinus.",
+  "llm_answer": "The evidence lists pairs of mythological letter-writers and addressees, among them “Demophoôn to Phyllis” and “Ulysses to Penelope.”  \nSince these epistles are described as “works of Sabinus,” they are letters addressed to Sabinus.  \n\nTherefore, the individuals who wrote letters to Sabinus are Demophoôn and Ulysses.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies only Demophoôn and Ulysses as letter-writers to Sabinus, omitting Phaon, Hippolytus, and Jason, which are explicitly mentioned in the Gold Answer. While the context mentions 'works of Sabinus' and pairs of mythological figures, it does not support the claim that only Demophoôn and Ulysses wrote letters to Sabinus. The Model Answer fails to fully align with the Gold Answer and misses key facts."
+  }
+}

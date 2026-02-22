@@ -1,0 +1,12 @@
+{
+  "id": "Novel-90cd19b2",
+  "question": "Where within the fortified nunnery compound were the orange trees located, providing a rare sense of peace amid the chaos of the siege?",
+  "gold_answer": "The orange trees were in the compound.",
+  "llm_answer": "The orange trees were located in the compound, specifically in the area near the water gate, where Rudolph, Heywood, and the padre were building a rough barricade.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the orange trees as being located in the compound, aligning with the Gold Answer. However, the additional detail about the water gate and the barricade is not explicitly supported by the retrieved context, which does not confirm this specific location. While the core fact is correct, the extra detail reduces faithfulness and evidence coverage."
+  }
+}

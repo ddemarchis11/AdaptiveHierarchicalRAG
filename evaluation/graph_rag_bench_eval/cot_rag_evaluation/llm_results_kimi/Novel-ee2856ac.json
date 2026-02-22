@@ -1,0 +1,57 @@
+{
+  "id": "Novel-ee2856ac",
+  "question": "According to the CHILD'S HEALTH PRIMER, how does the consumption of alcohol impact the brain's ability to function, specifically in terms of poisoning the mind, preventing clear thinking, and interfering with the nerves that carry the brain's messages?",
+  "gold_answer": "Alcohol poisons the mind and prevents the brain from thinking well by affecting the nerves through which the brain sends messages.",
+  "llm_answer": "Alcohol “deadens the nerves, so that they can not carry their messages correctly,” and “injures the brain and nerves so that they can not work well, and send their messages properly.”",
+  "context": [
+    {
+      "text": "for going without the rum.\" STRENGTH OF MIND. We have been talking about the strength of muscles; but the very best kind of strength we have is brain strength, or strength of mind. Alcohol makes the head ache and deadens the nerves, so that they can not carry their messages correctly. Then the brain can not think well. Alcohol does not strengthen the mind. Some people have little or no money, and no houses or lands; but every person ought to own a body and a mind that can work for him, and make him useful and happy. Suppose you have a strong, healthy body, hands that are well-trained to work, and a clear, thinking brain to be master of the whole. Would you be willing to change places with a man whose body and mind had been poisoned by alcohol, tobacco, and opium, even though he lived in a palace, and had a million of dollars? If you want a mind that can study, understand, and think well, do not let alcohol and tobacco have a chance to reach it. REVIEW QUESTIONS.           1. What things were left out of our bill of fare?           2. How could you measure your strength?           3. How can you gain strength?           4. Why does drinking beer not make",
+      "id": "Novel-25646_c_74"
+    },
+    {
+      "text": "Produced by Stephen Hope, Joseph Cooper, Emmy and the Online Distributed Proofreading Team at http://www.pgdp.net CHILD'S HEALTH PRIMER. [Illustration: WASTING MONEY. (See p. 123.)] PATHFINDER PHYSIOLOGY No. 1 CHILD'S HEALTH PRIMER FOR PRIMARY CLASSES           WITH SPECIAL REFERENCE TO THE EFFECTS OF ALCOHOLIC DRINKS,           STIMULANTS, AND NARCOTICS UPON THE HUMAN SYSTEM           INDORSED BY THE           SCIENTIFIC DEPARTMENT OF THE           WOMEN'S CHRISTIAN TEMPERANCE UNION           OF THE           UNITED STATES           COPYRIGHT, 1885           A. S. BARNES & COMPANY           NEW YORK AND CHICAGO           PATHFINDER SERIES           OF TEXT BOOKS ON           ANATOMY, PHYSIOLOGY, AND HYGIENE.",
+      "id": "Novel-25646_c_0"
+    },
+    {
+      "text": "one part of the brain has to take care of all the rest of the body, and keep every organ at work, of course it can never go to sleep itself. If it did, the heart would stop pumping, the lungs would leave off breathing, all other work would stop, and the body would be dead. But there is another part of the brain which does the thinking, and this part needs rest. When you are asleep, you are not thinking, but you are breathing and other work of the body is going on. If the thinking part of the brain does not have good quiet sleep, it will soon wear out. A worn-out brain is not easy to repair. If well cared for, your brain will do the best of work for you for seventy or eighty years without complaining. The nerves are easily tired out, and they need much rest. They get tired if we do one thing too long at a time; they are rested by a change of work. IS ALCOHOL GOOD FOR THE NERVES AND THE BRAIN? Think of the wonderful work the brain is all the time doing for you! You ought to give it the best of food to keep it in good working order. Any drink that contains alcohol is not a food to make one strong; but is a poison to hurt, and at last to kill. It injures the brain and nerves so that they can not work well, and send their messages properly. That is why the drunkard does not",
+      "id": "Novel-25646_c_25"
+    },
+    {
+      "text": "10. Why do not the nerve messages get mixed and           confused?           11. Why could you not feel, if you had no nerves?           12. State some ways in which the nerves give us           pain.           13. State some ways in which they give us           pleasure.           14. What part of us has the most work to do?           15. How must we keep the brain strong and well?           16. What does alcohol do to the nerves and brain?           17. Why does not a drunken man know what he is           about?           18. What causes most of the accidents we read of?           19. Why could not the man who had been drinking           tell the difference between a railroad track and a",
+      "id": "Novel-25646_c_29"
+    },
+    {
+      "text": "for tobacco, yearly, in           this country?                                     Transcriber's Notes: This book contains pronunciation codes. These are indicated in the text by the following           breve: [)i]           macron: [=i]           tilde: [~i]           slash through the letter: [\\l] Obvious punctuation errors repaired. End of the Project Gutenberg EBook of Child's Health Primer For Primary Classes, by Jane Andrews",
+      "id": "Novel-25646_c_103"
+    },
+    {
+      "text": "Kingdom of God. There was no Erie Canal in those early days. The red men had hardly quitted the unbroken forests. Not many years had passed since Fort Stanwix resounded with the warwhoops of St. Leger’s Indians. Indeed, Huldah Cook herself—she was Huldah Pratt then, a little girl of ten years—had been in Albany when Burgoyne surrendered. No doubt as the emigrants entered the Mohawk Valley, little Electa Cook heard from her mother’s lips something about Arnold and Morgan and their victorious soldiers. Perhaps she saw in imagination what her mother had actually seen—soldiers in three-cornered hats, some in uniform and some in plain homespun, every man armed with powder horn and musket, hurrying through the streets of the quaint old town to the American camp beyond. Perhaps she saw the fiery Arnold himself, mounted on his fiery warhorse. Perhaps she saw Daniel Morgan and his men—of all the heroes of the Revolution none was braver and truer than he, and of all the soldiers in Washington’s army none could shoot straighter than the men that magnanimous general sent to Gates—Morgan’s riflemen. Moses Stickney was a crack shot, too. I have seen a long-barreled musket of fine workmanship which he carried in the Revolution, and have listened to tales of his marksmanship still preserved in the Vermont valley whither his sons treked westward",
+      "id": "Novel-58553_c_4"
+    }
+  ],
+  "cot_scratchpad": "- Alcohol injures the brain and nerves so messages aren't sent properly (Novel-25646_c_25).\n- Alcohol deadens nerves, so they can’t carry messages correctly; brain can’t think well (Novel-25646_c_74).\n- Alcohol is a poison that hurts and can kill the brain (Novel-25646_c_25).\n- Alcohol is a poison that harms the brain (Novel-25646_c_25).\n- It deadens nerves so messages aren’t carried and thinking is unclear (Novel-25646_c_74).\n- Brain injury from alcohol blocks proper nerve signaling (Novel-25646_c_25).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the CHILD'S HEALTH PRIMER, how does the consumption of alcohol impact the brain's ability to function, specifically in terms of poisoning the mind, preventing clear thinking, and interfering with the nerves that carry the brain's messages?",
+      "doc_ids": [
+        "Novel-25646_c_74",
+        "Novel-25646_c_0",
+        "Novel-25646_c_25",
+        "Novel-25646_c_29",
+        "Novel-25646_c_103"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "None",
+      "doc_ids": [
+        "Novel-58553_c_4",
+        "Novel-41603_c_220",
+        "Novel-41603_c_221",
+        "Novel-58553_c_52",
+        "Novel-25646_c_35"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006892",
+  "question": "Where is the summer retreat the American mining engineer, inventor, and self-made member of fashionable society and his wife, who was a survivor of the \"RMS Titanic\"?",
+  "gold_answer": "Denver, Colorado",
+  "llm_answer": "The summer retreat of the American mining engineer, inventor, and self-made member of fashionable society and his wife, who was a survivor of the \"RMS Titanic\", is located in southwest Denver, Colorado near Bear Creek.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the location of the summer retreat as southwest Denver, Colorado near Bear Creek, which aligns with the Gold Answer and is supported by the Retrieved Context. It provides additional detail about the specific area near Bear Creek, which is relevant and grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001222",
+  "question": "What are the IATA and ICAO codes assigned to the Baltic capital's main aviation hub, which was the base of operations for an airline that folded in 2015?",
+  "gold_answer": "IATA: VNO, ICAO: EYVI",
+  "llm_answer": "The IATA code is VNO and the ICAO code is EYVI, assigned to Vilnius Čiurlionis International Airport, the main aviation hub of the Baltic capital Vilnius.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the IATA and ICAO codes (VNO and EYVI) for Vilnius Čiurlionis International Airport, which is the main aviation hub of Vilnius, the Baltic capital. This information is supported by the retrieved context and matches the Gold Answer. The additional detail about the airport's name and location is relevant and accurate."
+  }
+}

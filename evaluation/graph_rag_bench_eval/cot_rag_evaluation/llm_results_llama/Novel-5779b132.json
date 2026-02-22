@@ -1,0 +1,42 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The process of making sugar is described in the following subgraphs:\n\n1. From sugar-cane, maple-trees, or beets: \n   - The earth sends us sugar from these sources.\n   - The starch in these sources is changed into sugar.\n\n2. From grain: \n   - The brewer does something to the barley to make its starch turn into sugar.\n   - The brewer puts something into the malt to start the working.\n\n3. From fruit: \n   - The sun ripens fruit, changing its starch to sugar.\n   - The starch in fruit is changed into sugar, which is then mixed with the blood to feed the body.\n\n4. From grapes: \n   - Ripe grapes are gathered and put into vats.\n   - The juice is squeezed out of the grapes.\n   - The grape-juice is left standing in a warm place, where bubbles begin to rise and cover the top with froth.\n   - The juice is all in motion, and the sugar in the juice is changed into something else (alcohol).",
+  "context": [
+    {
+      "text": "would try to write what I could about the Sugar Maple. The Sugar Maple is a very beautiful as well as useful tree. In the summer the beasts retire to its kind shade from the heat of the sun. And though the lofty Oak and pine tower above it, perhaps they are no more useful. Sugar is made from the sap of this tree, which is a very useful article. It is also used for making furniture such as tables bureaus &c. and boards for various uses. It is also used to cook Our victuals and to keep us warm. But its usefulness does not stop here even the ashes are useful; they are used for making potash which with the help of flint or sand and a good fire to melt it is made into glass which people could not very well do without. Glass is good to help the old to see and to give light to our houses. Besides all this teliscopes are made of glass by the help of which about all the knowledge of the mighty host of planetary worlds has been discovered. This tree is certainly very useful. In the first place sugar is made from it. Then it gives us all sorts of beautiful furniture. Then it warms our houses and cooks our victuals and then even then we get something from the ashes yes something very useful. No more at present. ANGELINE STICKNEY. Teacher’s comment: I wish there was a good deal more. This is well written. Write more next time.",
+      "id": "Novel-58553_c_20"
+    },
+    {
+      "text": "the body which need it, comes from fat-making foods. In cold weather, we need more fatty food than we do in summer, just as in cold countries people need such food all the time. The Esquimaux, who live in the lands of snow and ice, catch a great many walrus and seal, and eat a great deal of fat meat. You would not be well unless you ate some fat or butter or oil. WHAT WILL MAKE FAT? Sugar will make fat, and so will starch, cream, rice, butter, and fat meat. As milk will make muscle and fat and bones, it is the best kind of food. Here, again, it is the earth that sends us our food. Fat meat comes from animals well fed on grain and grass; sugar, from sugar-cane, maple-trees, or beets; oil, from olive-trees; butter, from cream; and starch, from potatoes, and from corn, rice, and other grains. Green apples and other unripe fruits are not yet ready to be eaten. The starch which we take for food has to be changed into sugar, before it can mix with the blood and help feed the body. As the sun ripens fruit, it changes its starch to sugar. You can tell this by the difference in the taste of ripe and unripe apples. CANDY. Most children like candy so well, that they are in danger of eating more sugar than is good for them.",
+      "id": "Novel-25646_c_61"
+    },
+    {
+      "text": "How does it affect his manners? [Illustration: _Bones of the human body._] CHAPTER IV. WHAT IS ALCOHOL? [Illustration: R]IPE grapes are full of juice. This juice is mostly water, sweetened with a sugar of its own. It is flavored with something which makes us know, the moment we taste it, that it is grape-juice, and not cherry-juice or plum-juice. Apples also contain water, sugar, and apple flavor; and cherries contain water, sugar, and cherry flavor. The same is true of other fruits. They all, when ripe, have the water and the sugar; and each has a flavor of its own. Ripe grapes are sometimes gathered and put into great tubs called vats. In these the juice is squeezed out. In some countries, this squeezing is done by bare-footed men who jump into the vats and press the grapes with their feet. The grape-juice is then drawn off from the skins and seeds and left standing in a warm place. Bubbles soon begin to rise and cover the top of it with froth. The juice is all in motion. [Illustration: _Picking grapes and making wine._] If the cook had wished to use this grape-juice to make jelly, she would say: \"Now, I can not make my grape-jelly, for the grape-juice is spoiled.\" WHAT",
+      "id": "Novel-25646_c_31"
+    },
+    {
+      "text": "to work for him. Which of these two do you think he will select? A few years later, a young man is wanted who can be trusted with the care of an engine or a bank. It is a good chance. Which of these young men will be more likely to get it? REVIEW QUESTIONS.           1. Is there sugar in grain?           2. What is in the grain that can be turned into           sugar?           3. What can you do to a seed that will make its           starch turn into sugar?           4. What does the brewer do to the barley to make           its starch turn into sugar?           5. What is malt?           6. What does the brewer put into the malt to start           the working?           7. What gives the bitter taste to beer?           8. How does the brewer know when sugar begins to",
+      "id": "Novel-25646_c_39"
+    },
+    {
+      "text": "one cup of alcohol. Cider often makes its drinkers ill-tempered and cross. Cider and wine will turn into vinegar if left in a warm place long enough. REVIEW QUESTIONS.           1. What two things are in all fruit-juices?           2. How can we tell the juice of grapes from that           of plums?           3. How can we tell the juice of apples from that           of cherries?           4. What is often done with ripe grapes?           5. What happens after the grape-juice has stood a           short time?           6. Why would the changed grape-juice not be good           to use in making jelly?           7. Into what is the sugar in the juice changed?           8. What becomes of the gas?           9. What becomes of the alcohol?",
+      "id": "Novel-25646_c_34"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Sugar is made from the sap of the Sugar Maple tree (Novel-58553_c_20).\n- Sugar is also made from sugar-cane, maple-trees, or beets (Novel-25646_c_61).\n- The starch in grain can be turned into sugar (Novel-25646_c_39).\n- The brewer puts malt into the malt to start the working (Novel-25646_c_39).\n- The starch in seeds can be turned into sugar by ripening (Novel-25646_c_31).\n- The brewer does not explicitly make sugar from the barley (Novel-25646_c_39).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the process of making sugar as described in the subgraphs?",
+      "doc_ids": [
+        "Novel-58553_c_20",
+        "Novel-25646_c_61",
+        "Novel-25646_c_31",
+        "Novel-25646_c_39",
+        "Novel-25646_c_34"
+      ]
+    }
+  ]
+}

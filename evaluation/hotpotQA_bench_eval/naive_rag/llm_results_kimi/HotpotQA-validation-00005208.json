@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005208",
+  "question": "The Van cat's eyes have what feline form of complete heterochromia, a condition that occurs in some other animals?",
+  "gold_answer": "odd-eyed",
+  "llm_answer": "The Van cat’s eyes exhibit the feline form of complete heterochromia—one blue eye and one amber eye.",
+  "context": [
+    {
+      "text": "An odd-eyed blue and white cat An odd-eyed cat showing complete heterochromia (amber and blue eye) and sectoral heterochromia in the blue eye (partially brown-coloured) An odd-eyed cat has one blue eye and one eye either green, yellow, amber, or brown. This is a feline form of complete heterochromia , a condition that occurs in some other animals, including humans. There is also sectoral (partial) heterochromia , where two different colours occur within the same iris. The condition most commonly affects solid white cats, but may be found in cats of any coat colour . Genetics A rare predominantly black cat with odd eyes The odd-eyed colouring is caused when either the epistatic (recessive) white gene or dominant white (which masks any other colour genes and turns a cat completely solid white) or the white spotting gene (which is the gene responsible for bicolour coats) prevents melanin ( pigment ) development , resulting in a cat with one blue eye and one green, yellow, amber, or brown eye. Approximately 15–40% of the solid white cats have one or two blue eyes. The odd-eye condition only rarely occurs in cats that lack both the dominant white and the white spotting gene. These cats carry a dominant blue eye-gene, which is not linked to coat colouration. A famous example of this case is the extinct Ojos Azules cat. Cat breeds Odd-eyes are",
+      "id": "HotpotQA-validation-00005208/01_Odd-eyed-cat.html_c_0"
+    },
+    {
+      "text": "genetic, environmental, nutritional) play a role in this multifactorial disease. Feline idiopathic cystitis Feline idiopathic cystitis (FIC) is by far the most common form of FLUTD in young to middle-aged cats. It is a disease whose cause is not fully understood but is thought to be related to stress events and a cat's pre-disposition to anxiety, as well as certain lifestyle choices (e.g. a dry food diet, no access to outdoor space). Most cases of FIC (85%) are self-limiting and resolve themselves within 7 days, with or without treatment. A small minority of cases do not resolve themselves and can escalate into blockage of a male cat's urethra which is a life-threatening condition if not relieved (female cats, with a wider urethra, do not tend to block as a rule). GP-51, a specific glycosaminoglycan , lines healthy bladders of felines, where it prevents bacterial adherence and protects the bladder from the toxic properties of urine. Cats suffering from idiopathic cystitis, (i.e. unexplained inflammation of the bladder) excrete lower amounts of GP-51 along with other glycosaminoglycans, leaving the lining of the bladder exposed. Substances from the urine come into contact with sensory neurons in the bladder, causing pain and neurogenic bladder inflammation, producing the urge in the cat to strain and void frequently to minimise the intense discomfort resulting",
+      "id": "HotpotQA-validation-00005208/03_Feline-lower-urinary-tract-disease.html_c_2"
+    },
+    {
+      "text": "The Van cat ( Turkish : Van kedisi ; Kurdish : Pisîka Wanê ; Western Armenian : Վանայ կատու , romanized: Vana gadu ; Eastern Armenian : Վանա կատու , romanized : Vana katu ) is a distinctive landrace (or natural \"breed\") of the domestic cat found around Lake Van in the Eastern Anatolia region of Turkey . Van cats are relatively large, have a chalky solid white coat, sometimes with ruddy colouration on the head and hindquarters, and have blue or amber eyes or have heterochromia (one eye of each colour). The variety has been referred to as \"the swimming cat \", and has been observed to swim in Lake Van. The naturally occurring Van cat type is popularly believed to be the basis of the Turkish Van breed, as standardised and recognised by many cat fancier organisations ; it has been internationally selectively bred to consistently produce the ruddy head-and-tail colouring pattern on the white coat. However, one of the breed founders' own writings indicate that the four original cats used to found the formal breed came from parts of Turkey other than the Lake Van area. The run-together term \"Turkish Vankedisi\" is confusingly used by some organisations as a name for solid white specimens of the",
+      "id": "HotpotQA-validation-00005208/00_Van-cat.html_c_0"
+    },
+    {
+      "text": "area. The run-together term \"Turkish Vankedisi\" is confusingly used by some organisations as a name for solid white specimens of the standardised Turkish Van breed. History Van cats have been reported living in the vicinity of the city of Van and the general Lake Van area for centuries; how long is uncertain. Genetic research has shown that the domestic cat's ancestor, the African wild cat ( Felis lybica ), was domesticated, for rodent control, about 9,000 years ago in the Near East when tribes transitioned from hunter-gathering to crop farming and settled life. In addition, the white-spotting in domestic cats appeared at the earliest stage of cat domestication, and is one of the points of evidence of early artificial selection. However, this does not necessarily mean that white cats have been in the Van area the entire time. Breed registration An adult female Van cat photographed at the Van Cat Research Centre, Van Yüzüncü Yıl University , 2006 Van cats form a landrace (naturally occurring, random-bred variety, often feral ), and are not a standardised breed of cat. They can still be found in east Turkey, near Lake Van, although their numbers have diminished (a 1992 survey found only 92 pure Van cats in their native area). There is a breeding programme for the solid white variety, operated by the Van Cat Research Centre (a.k.a. the Van Cat House), established in",
+      "id": "HotpotQA-validation-00005208/00_Van-cat.html_c_1"
+    },
+    {
+      "text": "the white gene occasionally causing the degeneration of the cochlea , beginning a few days after birth. In odd-eyed white cats, the ear on the blue-eyed side may be deaf, while the other ear usually has normal hearing. The established link between deafness and odd-eyes is found in the link between deafness, blue eyes and solid white coats. There are multiple different genes responsible for blue (incl. odd eyes), and several of these genes are not linked to white coats or deafness (e.g., \" Siamese \" colourpoint-gene , Ojos Azules -gene, etc.). For example solid white blue-eyed Foreign White or Ojos Azules cats are not linked to deafness. Deafness depends on the cat's genotype (genetic make-up), and not its phenotype (physical appearance). Therefore, not all solid white cats with one or two blue eyes are deaf. It is not advisable to breed from deaf white cats, as this would pass the trait along. BAER-testing ( Brainstem Auditory Evoked Response ) is used to test deafness in cats. Scientists estimate that about 10–20% of non-blue-eyed solid white cats of are born deaf, or become deaf as part of the feline aging process, while about 30–40% of the solid white odd-eyed cats are deaf. For solid white cat with two blue eyes, 60–80% are deaf. Cats are classified as deaf, when one or both",
+      "id": "HotpotQA-validation-00005208/01_Odd-eyed-cat.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- Van cats exhibit heterochromia—one blue and one amber eye (00_Van-cat.html_c_0).\n- Odd-eyed cats represent feline complete heterochromia (01_Odd-eyed-cat.html_c_0).\n- Odd-eyed cats have one blue eye and one green/yellow/amber/brown eye (01_Odd-eyed-cat.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The Van cat's eyes have what feline form of complete heterochromia, a condition that occurs in some other animals?",
+      "doc_ids": [
+        "HotpotQA-validation-00005208/01_Odd-eyed-cat.html_c_0",
+        "HotpotQA-validation-00005208/03_Feline-lower-urinary-tract-disease.html_c_2",
+        "HotpotQA-validation-00005208/00_Van-cat.html_c_0",
+        "HotpotQA-validation-00005208/00_Van-cat.html_c_1",
+        "HotpotQA-validation-00005208/01_Odd-eyed-cat.html_c_2"
+      ]
+    }
+  ]
+}

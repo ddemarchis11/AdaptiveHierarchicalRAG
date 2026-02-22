@@ -1,0 +1,12 @@
+{
+  "id": "Novel-48c2f6ad",
+  "question": "How did the Portuguese and French actions affect the cities of Mazagran and Mogador?",
+  "gold_answer": "The Portuguese abandoned Mazagran, while the French bombarded Mogador.",
+  "llm_answer": "The provided context does not mention any Portuguese or French actions affecting the cities of Mazagran and Mogador.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about Portuguese or French actions affecting Mazagran and Mogador. However, it fails to answer the question using external knowledge, which is necessary since the Gold Answer provides the required information. The Model Answer is faithful to the context but does not address the core facts from the Gold Answer, resulting in low correctness and evidence coverage."
+  }
+}

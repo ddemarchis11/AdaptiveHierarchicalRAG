@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006223",
+  "question": "How many women in total competed at the Asian Games the year Lee Young-Sun achieved her personal best throw of 58.87 metres?",
+  "gold_answer": "179 women",
+  "llm_answer": "Based on the provided evidence, I can determine that Lee Young-Sun achieved her personal best throw of 58.87 metres at the 2002 Asian Games in Busan.\n\nTo find the total number of women who competed at the Asian Games that year, I need to refer to the evidence about the 2002 Asian Games. \n\nAccording to the evidence, a total of 459 athletes from 39 nations competed in athletics at the 2002 Asian Games. However, it does not specify the exact number of women who competed.\n\nTo find the number of women who competed, I need to refer to the evidence about the participating nations. \n\nUnfortunately, the evidence does not provide a comprehensive list of the number of women who competed from each nation. However, it does provide a list of the number of athletes from each nation, but it does not specify the gender of the athletes.\n\nHowever, I can try to estimate the number of women who competed by looking at the number of athletes from each nation and making an educated guess based on the typical ratio of men to women in athletics competitions.\n\nUnfortunately, I do not have enough information to provide an accurate estimate of the number of women who competed at the 2002 Asian Games.\n\nHowever, I can say that a total of 459 athletes from 39 nations competed in athletics at the 2002 Asian Games, but I do not know the exact number of women who competed.",
+  "context": [
+    {
+      "text": "Lee Young-Sun ( Korean : 이영선 ; RR : I Yeong-seon , born 21 February 1974) is a retired female javelin thrower from South Korea . Her personal best throw is 58.87 metres, achieved at the 2002 Asian Games in Busan . International competitions * New model javelin References Evans, Hilary; Gjerde, Arild; Heijmans, Jeroen; Mallon, Bill ; et al. \"Lee Young-sun\" . Olympics at Sports-Reference.com . Sports Reference LLC . Archived from the original on 2020-04-17. External links Lee Young-Sun at World Athletics Lee Young-Sun at Olympedia Lee Young-Sun at InterSportStats v t e",
+      "id": "HotpotQA-validation-00006223/00_Lee-Young-sun.html_c_0"
+    },
+    {
+      "text": "Kristin \"Kris\" Kuehl (born July 30, 1970) is a retired track and field athlete from the United States, who competed in the discus throw event. Kuehl attended Division III Concordia College in Moorhead, Minnesota . Kuehl was the 2002 USA champion, and won the silver medal at the 1999 Pan American Games in Winnipeg , Manitoba, Canada, after gaining the bronze four years earlier in Mar del Plata . Her personal best throw is 65.34 metres (214.37 feet), achieved in April 2000 in St Paul. International competitions External links Kris Kuehl at World Athletics Kris Kuehl at Olympics.com Kris Kuehl at TeamUSA.org (archived) Kris Kuehl at Olympedia Kris Kuehl at InterSportStats v t e",
+      "id": "HotpotQA-validation-00006223/02_Kris-Kuehl.html_c_0"
+    },
+    {
+      "text": "Pavel Kanstantsinavich Lyzhyn ( Belarusian : Павел Канстанцінавіч Лыжын, Pavieł Łyžyn , born 24 March 1981 in Vysokaye ) is a Belarusian shot putter . His personal best throw is 21.21 metres from 2010. He threw a personal best throw of 20.98 metres at the 2008 Olympics in Beijing which originally translated into a fourth place, just 5 cm short of the bronze medal winner and 11 cm short of the silver . However, on 25 November 2016 the IOC disqualified him from the 2008 Olympic Games and struck his results from the record for failing a drugs test in a re-analysis of his doping sample from 2008. He competed at the 2012 Summer Olympics, finishing in 8th, with a throw of 20.69 m. Lyzhyn also throws the discus, and has a personal best throw of 61.72 metres Achievements References Notes Source Pavel Lyzhyn at World Athletics v t e",
+      "id": "HotpotQA-validation-00006223/03_Pavel-Lyzhyn.html_c_0"
+    },
+    {
+      "text": "metres at the 2005 European Indoor Championships , finished seventeenth in 10,000 metres at the 2005 World Championships and sixth in 5000 metres at the 2005 World Athletics Final . At the 2006 European Championships she finished sixth in the 5000 m and eighth in the 10,000 m. Toward the end of the season she competed at the 2006 World Cup , finishing sixth in 5000 metres. She finished fourth in 3000 metres at the 2007 European Indoor Championships . In October 2007 she made her marathon debut at the Cologne Marathon and won the race with a time of 2:29:33. Mockenhaupt won and qualified for the 2008 Summer Olympics in Beijing . At the Olympic Games she finished thirteenth in the 10,000 metres , in a new personal best time of 31:14.21 minutes. She won the Frankfurt Marathon in October 2008 with a personal best run of 2:26:22. A return to the Cologne event in 2009 brought her a second victory at the competition. She won the 2009 Berlin Half Marathon by timing 1:08:45, a new personal best. She followed this up with a victory in the national championships in the 10000 metres, recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_1"
+    },
+    {
+      "text": "Athletics was contested from October 7 to October 14 at the 2002 Asian Games in Busan Asiad Main Stadium , Busan , South Korea . A total of 459 athletes from 39 nations took part in the competition. Afghanistan , Bhutan , Brunei , Laos and Maldives were the only nations without a representative in the events. Schedule Medalists Men Women Medal table Participating nations A total of 459 athletes from 39 nations competed in athletics at the 2002 Asian Games: Bahrain (6) Bangladesh (2) Cambodia (1) China (64) Chinese Taipei (14) Hong Kong (6) India (37) Indonesia (3) Iran (4) Japan (63) Jordan (1) Kazakhstan (19) Kuwait (7) Kyrgyzstan (2) Lebanon (3) Macau (2) Malaysia (8) Mongolia (1) Myanmar (2) Nepal (5) North Korea (3) Oman (5) Pakistan (3) Palestine (2) Philippines (13) Qatar (31) Saudi Arabia (26) Singapore (1) South Korea (62) Sri Lanka (13) Syria (1) Tajikistan (4) Thailand (23) Timor-Leste (2) Turkmenistan (1) United Arab Emirates (2) Uzbekistan (12) Vietnam (4) Yemen (1) References 2002 Asian Games Official Report, Pages 112–172 External links Results - GBR Athletics",
+      "id": "HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Lee Young-Sun competed at the 2002 Asian Games (HotpotQA-validation-00006223/00_Lee-Young-sun.html_c_0).\n- The 2002 Asian Games had 459 athletes from 39 nations (HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0).\n- The question asks for the total number of women competing at the 2002 Asian Games (HotpotQA-validation-00006223/00_Lee-Young-sun.html_c_0).\n- The evidence does not provide the total number of women competing at the 2002 Asian Games (HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0).\n- The evidence does not provide the total number of women competing at the 2002 Asian Games (HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0).\n- The evidence does not provide the total number of women competing at the 2002 Asian Games (HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "How many women in total competed at the Asian Games the year Lee Young-Sun achieved her personal best throw of 58.87 metres?",
+      "doc_ids": [
+        "HotpotQA-validation-00006223/00_Lee-Young-sun.html_c_0",
+        "HotpotQA-validation-00006223/02_Kris-Kuehl.html_c_0",
+        "HotpotQA-validation-00006223/03_Pavel-Lyzhyn.html_c_0",
+        "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_1",
+        "HotpotQA-validation-00006223/01_Athletics-at-the-2002-Asian-Games.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001653",
+  "question": "A Jesuit secondary school in Central America offers instruction rooted in a classical educational tradition — what were the three foundational disciplines of that tradition's lower division?",
+  "gold_answer": "Grammar, logic, and rhetoric",
+  "llm_answer": "I'm unable to answer the question as the provided context does not fully support an answer.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct foundational disciplines of the classical educational tradition (grammar, logic, and rhetoric) as stated in the Gold Answer. Additionally, the retrieved context contains relevant information about the trivium and the seven liberal arts, but the Model Answer does not utilize this information to address the question. Therefore, the response is incorrect, ungrounded, and lacks evidence coverage."
+  }
+}

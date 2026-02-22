@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006973",
+  "question": "\"Collateral Damage\" is an episode of the television series \"Millennium\" and features the host of a late night talk show that airs how often?",
+  "gold_answer": "seven nights a week",
+  "llm_answer": "I cannot verify how often the late-night talk show \"Coast to Coast AM\" airs.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct frequency of the late-night talk show 'Coast to Coast AM,' which is stated in the context as airing seven nights a week. It also incorrectly claims an inability to verify the information, despite the retrieved context clearly supporting the Gold Answer."
+  }
+}

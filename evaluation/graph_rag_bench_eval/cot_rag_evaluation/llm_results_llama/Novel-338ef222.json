@@ -1,0 +1,42 @@
+{
+  "id": "Novel-338ef222",
+  "question": "In the novel 'Dragon's Blood', which character in the Chinese district is referred to by the nickname 'the Sword-Pen' due to his dangerous influence and reputation?",
+  "gold_answer": "Fang was known as the Sword-Pen.",
+  "llm_answer": "The character in the Chinese district referred to by the nickname 'the Sword-Pen' due to his dangerous influence and reputation is Fang.",
+  "context": [
+    {
+      "text": "very strict; keen reader; might be a mandarin, but prefers the country gentleman sort; bally mischief-maker, he's done more people in the eye than all the Yamen hacks and all their false witnesses together! Hence his nickname--the Sword-Pen.\" Dr. Earle sharpened his heavy brows, and studied the floor. \"Fang, the Sword-Pen,\" he growled; \"yes, there will be trouble. He hates us. Given this chance--Humph! Saul of Tarsus.--We're not the Roman Church,\" he added, with his first trace of irritation. \"Always occurring, this thing.\" Once more he meditated; then heaved his big shoulders to let slip the whole burden. \"One day at a time,\" he laughed. \"Thank you for telling us.--You see, Mr. Hackh, they're not devils. The only fault is, they're just human beings. You don't speak the language? I'll send you my old teacher.\" They talked of things indifferent; and when the young men were stumbling along the streets, he called after them a resounding \"Good-night! Thanks!\"--and stood a resolute, gigantic silhouette, filling, as a right Doone filled their doorframe, the entrance to his deserted chapel. At his gate, felt Rudolph, they had unloaded some weight of responsibility. He had not only accepted it, but lightened them further, girt them, by",
+      "id": "Novel-10321_c_67"
+    },
+    {
+      "text": "the darkness. For all his haste, the gait was not the gait of a coolie. \"That,\" said Heywood, turning into their former path, \"that was Fang, the Sword-Pen, so-called. Very clever chap. Of the two most dangerous men in the district, he's one.\" They had swung along briskly for several minutes, before he added: \"The other most dangerous man--you've met him already. If I'm not mistaken, he's no less a person than the Reverend James Earle.\" \"What!\" exclaimed Rudolph, in dull bewilderment. \"Yes,\" grunted his friend. \"The padre. We must find him to-night, and report.\" He strode forward, with no more comment. At his side, Rudolph moved as a soldier, carried onward by pressure and automatic rhythm, moves in the apathy of a forced march. The day had been so real, so wholesome, full of careless talk and of sunlight. And now this senseless picture blotted all else, and remained,--each outline sharper in memory, the smoky lamp brighter, the blow of the hilt louder, the smell of peanut oil more pungent. The episode, to him, was a disconnected, unnecessary fragment, one bloody strand in the whole terrifying snarl. But his companion stalked on in silence, like a man who saw a pattern in the web of things, and was not pleased. CHAPTER",
+      "id": "Novel-10321_c_60"
+    },
+    {
+      "text": "is more earnest in its conception. Its author says in the preface that his desire was to attack “Empfindsamkeit” on its dangerous and not on its comic side, hence the book avoids in the main the lighthearted and telling burlesque, the Hudibrastic satire of Timme’s novel. He works along lines which lead through increasing trouble to a tragic _dénouement_. The preface contains a rather elaborate classification of kinds of “Empfindsamkeit,” which reminds one of Sterne’s mock-scientific discrimination. This classification is according to temperament, education, example, custom, reading, strength or weakness of the imagination; there is a happy, a sad, a gentle, a vehement, a dallying, a serious, a melancholy, sentimentality, the last being the most poetic, the most perilous. The leading character, Wilhelmine, is, like most characters which are chosen and built up to exemplify a preconceived theory, quite unconvincing. In his foreword Wezel analyzes his heroine’s character and details at some length the motives underlying the choice of attributes and the building up of her personality. This insight into the author’s scaffolding, this explanation of the mechanism of his puppet-show, does not enhance the aesthetic, or the satirical force of the figure. She is not conceived in flesh and blood, but is made to order.",
+      "id": "Novel-26183_c_368"
+    },
+    {
+      "text": "GRIFFIN     II. THE PIED PIPER    III. UNDER FIRE     IV. THE SWORD-PEN      V. IN TOWN     VI. THE PAGODA    VII. IPHIGENIA   VIII. THE HOT NIGHT     IX. PASSAGE AT ARMS      X. THREE PORTALS     XI. WHITE LOTUS    XII. THE WAR BOARD   XIII. THE SPARE MAN    XIV. OFF DUTY     XV. KAU FAI    XVI. THE GUNWALE   XVII. LAMP OF HEAVEN  XVIII. SIEGE    XIX. BROTHER MOLES     XX. THE HAKKA BOAT    XXI. THE DRAGON'S SHADOW ILLUSTRATIONS _\"Good-by! A pleasant voyage\"_ ... Frontispiece _Rudolph was aware of crowded bodies, of yellow faces grinning_ _He let the inverted cup dangle from his hands_ _He went leaping from sight over the crest_ CHAPTER I A LADY AND A GRIFFIN It was \"about first-drink time,\" as the captain of the Tsuen-Chau, bound for Shanghai and Japan ports, observed to his friend Cesare",
+      "id": "Novel-10321_c_1"
+    },
+    {
+      "text": "point the English novel stepped in as a guide, and the gradual shaping of the German novel in the direction of an art-form is due primarily to the prevailing admiration of English models. The novel has never been a characteristic method of German self-expression, while if any form of literary endeavor can be designated as characteristically English, the novel may claim this distinction; that is, more particularly the novel as distinguished from the romance. “Robinson Crusoe” (1719) united the elements of the extraordinary and the everyday, being the practical, unromantic account of a remarkable situation; and its extensive vogue in Germany, the myriad confessed imitations, may be said to form a kind of transition of interests. In it the commonplace gains interest through the extraordinary situation. Such an awakening assures a certain measure of interest remaining over for the detailed relation of the everyday activities of life, when removed from the exceptional situation. Upon this vantage ground the novel of everyday life was built. Near the mid-century comes another mighty influence from England, Richardson, who brings into the narration of middle-class, everyday existence, the intense analysis of human sensibilities. Richardson taught Germany to remodel her theories of heroism, her whole system of admirations, her conception of deserts. Rousseau’s voice from France spoke out a stirring appeal for the recognition of human feelings. Fielding, though attacking Richardson’s exaggeration of manner, and opposing him in his excess of emotionalism, yet added a forceful influence still",
+      "id": "Novel-26183_c_6"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The character referred to by the nickname 'the Sword-Pen' is Fang. (Novel-10321_c_67)\n- Fang is in the Chinese district. (Novel-10321_c_67)\n- Fang's nickname 'the Sword-Pen' is due to his dangerous influence and reputation. (Novel-10321_c_67)\n- Fang is a mandarin, but prefers the country gentleman sort. (Novel-10321_c_67)\n- Fang is a mischief-maker. (Novel-10321_c_67)\n- Fang is hated by Dr. Earle. (Novel-10321_c_67)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the novel 'Dragon's Blood', which character in the Chinese district is referred to by the nickname 'the Sword-Pen' due to his dangerous influence and reputation?",
+      "doc_ids": [
+        "Novel-10321_c_67",
+        "Novel-10321_c_60",
+        "Novel-26183_c_368",
+        "Novel-10321_c_1",
+        "Novel-26183_c_6"
+      ]
+    }
+  ]
+}

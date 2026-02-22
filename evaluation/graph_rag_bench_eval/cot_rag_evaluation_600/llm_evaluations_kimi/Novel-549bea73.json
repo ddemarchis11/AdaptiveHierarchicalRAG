@@ -1,0 +1,12 @@
+{
+  "id": "Novel-549bea73",
+  "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+  "gold_answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+  "llm_answer": "The connection is that the government’s failure to deliver the annuities owed to the Sioux in Minnesota—because its resources were tied up in the Civil War—left the tribes destitute and convinced that payment would never come. This neglect directly triggered the Indian protests and ultimately the 1862 Sioux outbreak.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the connection between the government's neglect in delivering annuities to the Sioux in Minnesota and the resulting Indian protests. It explains the context of the Civil War diverting resources, leading to destitution among the tribes and their belief that payments would not be made, which aligns with the Gold Answer and the Retrieved Context. All claims are supported by the context, and the key facts from the Gold Answer are included."
+  }
+}

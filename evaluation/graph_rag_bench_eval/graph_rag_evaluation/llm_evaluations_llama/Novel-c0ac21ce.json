@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c0ac21ce",
+  "question": "To whom did Heinse address his correspondence, as documented among exchanges between German literary figures?",
+  "gold_answer": "Heinse wrote to Gleim.",
+  "llm_answer": "I cannot find any information about Heinse addressing correspondence to anyone in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question correctly, as it does not provide the information that Heinse wrote to Gleim, which is the core of the Gold Answer. Additionally, the retrieved context does not contain relevant information about Heinse's correspondence, so the Model Answer is not grounded in the context and does not cover the key fact from the Gold Answer."
+  }
+}

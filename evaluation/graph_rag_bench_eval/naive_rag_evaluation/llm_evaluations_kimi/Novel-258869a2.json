@@ -1,0 +1,12 @@
+{
+  "id": "Novel-258869a2",
+  "question": "How do multiple characters interact with Doctor O'Shaughnessy in the narrative—for example, when Mrs. O'Shaughnessy stands by the window to watch him, he is given charge of Eileen, and Eileen stares at him—and what does this suggest about his central role among the story's characters?",
+  "gold_answer": "Doctor O'Shaughnessy is watched by Mrs. O'Shaughnessy, is given charge of Eileen, and is stared at by Eileen, indicating his central importance across different social circles.",
+  "llm_answer": "Doctor O’Shaughnessy is the pivot around whom every other character is forced to move.\n\n- Mrs. O’Shhaughnessy, though his wife, is reduced to a lookout: she “stands by the window to watch him,” receiving the child at his bidding and piling jewels with her broom only because he has commanded it.  \n- Dennis Macarthy hands his daughter over completely—“the doctor was given charge of Eileen”—trusting (or powerless to resist) the man’s authority.  \n- Eileen herself stares at the doctor in terror, wedged into his gig and carried off; her silence or speech is turned on and off by his threats or bargains.\n\nEach interaction shows the same pattern: others look, yield, or obey, while O’Shaughnessy decides, takes, and profits. The cumulative effect is to place him at the narrative’s center—not as a healer, but as the single figure who controls both the plot’s action and every other character’s fate.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the interactions of Doctor O'Shaughnessy with Mrs. O'Shaughnessy, Dennis Macarthy, and Eileen, as described in the Gold Answer. It elaborates on these interactions with detailed examples from the context, such as Mrs. O'Shaughnessy piling jewels, Dennis Macarthy handing over Eileen, and Eileen's fear and silence under the doctor's control. These details are grounded in the retrieved context and align with the Gold Answer's assertion of Doctor O'Shaughnessy's central importance in the narrative. The Model Answer is both correct and faithful, with complete evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-aba4e30c",
+  "question": "When Heywood interacted with Rudolph during the tense events at the nunnery, how did Heywood treat Rudolph, and what name was Heywood called by in the narrative?",
+  "gold_answer": "Heywood scoffed at Rudolph, and Heywood was called Maurice.",
+  "llm_answer": "Heywood treated Rudolph with reassurance and camaraderie, clapping him on the shoulder and calling him “Rudie, you blooming German.”",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly describes Heywood's treatment of Rudolph as reassuring and camaraderie-filled, which is not supported by the retrieved context. The Gold Answer states that Heywood scoffed at Rudolph, and the name Heywood was called by in the narrative was Maurice. The Model Answer fails to include these key facts and does not align with the context provided."
+  }
+}

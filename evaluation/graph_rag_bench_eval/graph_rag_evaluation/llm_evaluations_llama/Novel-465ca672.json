@@ -1,0 +1,12 @@
+{
+  "id": "Novel-465ca672",
+  "question": "What is the Egyptian term for the Sistrum, the musical instrument used in ancient Egyptian religious ceremonies?",
+  "gold_answer": "Seshesh is the Egyptian name for the Sistrum.",
+  "llm_answer": "The answer is not directly provided in the given context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the answer is not directly provided in the context, which is incorrect. The Gold Answer specifies 'Seshesh' as the Egyptian name for the Sistrum, and this information is not contradicted or supported by the retrieved context. The Model Answer fails to provide the correct term and does not address the question accurately."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003006",
+  "question": "What is another name, in Swedish, for a seductive forest creature found in Scandinavian folklore?",
+  "gold_answer": "Rå",
+  "llm_answer": "Skogsrå",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer 'Skogsrå' is a valid name for a seductive forest creature in Swedish folklore, as supported by the context. However, the Gold Answer 'Rå' is a broader term that encompasses various types of 'keeper' or 'warden' creatures, including the Skogsrå. The Model Answer is partially correct but does not fully align with the Gold Answer's broader scope. Faithfulness is high as the context supports the term 'Skogsrå,' but evidence coverage is partial since 'Rå' is not explicitly mentioned."
+  }
+}

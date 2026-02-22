@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7904dba7",
+  "question": "What notable feature did the settler's cabin possess that caught the attention of the stranded coach passengers as they considered seeking shelter from the storm?",
+  "gold_answer": "The cabin had the light.",
+  "llm_answer": "The only detail the passengers actually notice is the glow of the cabin’s open door shining out through the storm-tossed trees; that distant light is what draws their attention as they think of taking shelter.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the notable feature of the settler's cabin as the glow of its open door, which aligns with the Gold Answer stating 'The cabin had the light.' The retrieved context supports this detail, describing the glow of the cabin's light through the storm-tossed trees. The Model Answer is faithful to the context, includes all key facts, and provides a slightly more detailed explanation without introducing unsupported information."
+  }
+}

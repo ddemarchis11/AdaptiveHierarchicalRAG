@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002527",
+  "question": "What term is the current chairman of Prince William County serving?",
+  "gold_answer": "fourth term",
+  "llm_answer": "The evidence does not specify the term that the current chairman, Deshundra Jefferson, is serving.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the term Deshundra Jefferson is serving, which is faithful to the context. However, it fails to answer the question, which is explicitly about the current chairman's term, and does not align with the Gold Answer ('fourth term'). The Model Answer does not provide the required factual information, resulting in low correctness and evidence coverage scores."
+  }
+}

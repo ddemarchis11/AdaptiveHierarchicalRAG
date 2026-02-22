@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e5676a79",
+  "question": "Who taught Roxie Fairfield, later known as Roxie Daymon, the art of penmanship during her upbringing?",
+  "gold_answer": "Old Ben Robertson taught Roxie the art of penmanship.",
+  "llm_answer": "The evidence does not mention who taught Roxie Fairfield, later known as Roxie Daymon, the art of penmanship during her upbringing.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not mention who taught Roxie Fairfield penmanship, whereas the context explicitly states that 'old Ben Robertson' taught her this skill in a country school. The Model Answer fails to provide the correct information and contradicts the retrieved context."
+  }
+}

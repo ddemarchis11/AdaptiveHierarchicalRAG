@@ -1,0 +1,12 @@
+{
+  "id": "Novel-040ac0aa",
+  "question": "How do the actions of the Green Man, such as meeting Eileen Macarthy, granting Eily a wish, asking questions of Eily, and receiving answers from Eily, overlap or differ in his interactions with both Eily and Eileen Macarthy within the story?",
+  "gold_answer": "The Green Man meets Eileen Macarthy, gives Eily a wish, asks Eily questions, and receives answers from Eily, showing his interactions with both Eily and Eileen Macarthy.",
+  "llm_answer": "Overlap  \n- The Green Man addresses the same person—Eileen Macarthy—using both her full name and her home nickname “Eily,” so the questioning, the wish-making, and the granting all occur within one continuous conversation with a single child.  \n- He asks for her name, she gives it as “Eileen Macarthy” and adds “They calls me Eily,” and he immediately uses “Eily” when he questions her and when he grants the wish.  \n\nDifference  \n- There is no separate encounter with anyone else: every action—meeting, asking, answering, wish-making, wish-granting—belongs to the one scene between the Green Man and Eileen Macarthy/Eily.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the overlap and differences in the Green Man's interactions with Eileen Macarthy/Eily, aligning with the Gold Answer and the Retrieved Context. It accurately explains that all actions occur within one continuous interaction with Eileen Macarthy, addressing her by both her full name and nickname. The details provided are grounded in the context and include all key facts from the Gold Answer."
+  }
+}

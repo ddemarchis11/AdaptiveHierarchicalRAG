@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "I cannot verify the venue where Samuel Pepys observed the Duke of York during his attendance at a performance.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct venue, which is 'the Opera,' as stated in the Gold Answer. Additionally, the retrieved context does not directly support the Model Answer's claim of inability to verify the venue, making it unfaithful to the context. The Model Answer also does not cover the key fact from the Gold Answer."
+  }
+}

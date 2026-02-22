@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005678",
+  "question": "Where does the founder of The International Grenfell Association act as a missionary to?",
+  "gold_answer": "Newfoundland and Labrador",
+  "llm_answer": "Newfoundland",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Newfoundland as a location where the founder acted as a missionary, which is supported by the context. However, it omits Labrador, which is also part of the Gold Answer and explicitly mentioned in the context. While the answer is faithful to the context, it does not fully cover the evidence provided in the Gold Answer."
+  }
+}

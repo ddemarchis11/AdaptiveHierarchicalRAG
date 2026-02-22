@@ -1,0 +1,42 @@
+{
+  "id": "Novel-0d21d2d6",
+  "question": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+  "gold_answer": "Brindle Bill did not believe Rose.",
+  "llm_answer": "Insufficient evidence to determine which character Brindle Bill expressed disbelief toward during the discussion about the inheritance and family matters.",
+  "context": [
+    {
+      "text": "Don Carlo used no words, nor did he choose any second; Sundown Hill and Dan Carlo looked at each other, and at S. S. Simon, with a look that said, we stand by Don Carlo. S. S. Simon hallooed _fair play_, and Brindle Bill _pitched in_. Brindle Bill was the stoutest man, Don Carlo the most active, the contest was sharp, and very doubtful, notwithstanding the boasting character of Brindle Bill, true pluck was upon the side of Don Carlo. At this critical moment, Simon's wife appeared upon the scene of action, the door of the cabin was fast, Simon was on the inside. She could hear the blows and smell the blood, for a lucky lick from Don had started the blood from Brindle Bill's nose, but could not see or know the combatants. Quick as thought, she applied the fire-brand to the cane pile, on the west end of the cabin. A strong breeze from the west soon enveloped the roof of the cabin in flames. The men rushed out into the open air much frightened. Simon's wife grabbed her husband and dragged him toward their home, with loud and eloquent cries of _shame_. The contest was ended, and Don Carlo had the money. Brindle Bill appealed to the men of his party to see that he should have_ fair play_. His appeals were all in vain, the fear of him was broken, and he had no great",
+      "id": "Novel-47558_c_22"
+    },
+    {
+      "text": "Shirt-Tail Bend. S. S. Simon had joined the company of the other two. After Brindle Bill had related to Simon the events above described, the following questions and answers, passed between the two: “Mrs. Simon's mother was named Susan Lasco?” “Undoubtedly; and her father's name was Tom Fairfield. She is the brave woman who broke up, or rather burned up, the gambling den in Shirt-Tail Bend. We were married in Tennessee. Mrs. Simon was the adopted daughter of Mrs. Evaline Estep, her parents having died when she was quite young. The old lady Estep tried to horn me off; but I _beat her_. Well the old Christian woman gave Rose a good many things, among which was a box of family keep sakes; she said they were given to her in consideration of her taking the youngest child of the orphan children. There may be something in that box to identify the family.” At this point Brindle Bill winked his right eye--it is my deal, you play the cards I give you. As Simon was about to' leave the company, to break the news to his wife, Brindle Bill said to him very confidentially: “You find out in what part of the country this division of the orphan children took place, and whenever you find that place, be where it will, right there is where I was raised--the balance of them children is _dead_, Simon,” and he again",
+      "id": "Novel-47558_c_55"
+    },
+    {
+      "text": "were two parties, or two spirits--one was to improve the other to degrade society. As we have said, Brindle Bill was the leading spirit of his party. He was always ready to fill the jug and play a social game at cards--he only bet, _as he said_, to keep up a little interest in the game. Brindle Bill always had a pocket full of money. He loved to tell long stories, and frequently related previous combats, in which he came off the victor. As the test of manhood was physical strength, Brindle Bill was the bully of the settlement--no one desired a personal quarrel with him. Some said that S. S. Simon, the proprietor of a wood yard, sided with Brindle Bill--whether this was true or not--Simon's wife, was one of the leading spirits of the other party. She was a woman of few words, but the force of her character was felt by the whole neighborhood. Cord, or steam wood, was the principal source of revenue, and large quantities were annually sold, thousands of dollars come into Shirt-tail Bend, but there was no improvement, they had no school house, and a church and post-office were not thought of. Don and Dan Carlo, proprietors of one of the principal wood yards, _dear brothers_, were animated by different spirits. Dan was a fast friend of Brindle Bill. Don was a silent spirit of the other party. They were equal",
+      "id": "Novel-47558_c_18"
+    },
+    {
+      "text": "The money was paid over. Rose did not believe a word that Bill said but she had promised Simon that she would let him manage the business, and few people will refuse money when it is thrust upon them. The party returned to Shirt-Tail Bend. Simon deceived Rose with the plea of some little debts, paid over to Brindle Bill and Sundown Hill three hundred dollars each. Brindle Bill soon got away with three hundred dollars; “Strop'd again,” he said mentally, and then continued, “Some call it blackmailin' or backmailin', but I call it a _back-handed_ game. It is nothing but making use of power, and if a fellow don't use power when it's put in his hands he had better bunch tools and quit.” Brindle Bill said to S. S. Simon, “I have had a streak of bad luck; lost all my money; want to borrow three hundred dollars. No use to say you havn't got it, for I can find them sisters of your wife in less than three weeks,” and he winked his right eye. Simon hesitated, but finally with many words of caution paid over the money. Soon after these events S. S. Simon was greatly relieved by reading in a newspaper the account of the sentence of Brindle Bill to the state prison for a long term of years. S. S. Simon now stood in the front rank of the planters of his neighborhood; had built a new",
+      "id": "Novel-47558_c_58"
+    },
+    {
+      "text": "his character upon the memories of all who witnessed the blossom of society in the woods on the Mississippi river. Brindle Bill was a wood-chopper, but he never worked much at his profession. He was one of the class of woodcutters that were generally termed the floating part of the population. This class were employed by the proprietors of the wood yards, to cut wood by the cord--for one hundred cords they received fifty dollars. Brindle Bill was five feet and eight inches high, with square shoulders and as strong as a buffalo--and although he was classed with the floating population, he had been in that locality for more than a year and was a shining light at _headquarters._ This was the resort of all who claimed to be fond of fun. It was an old cabin that was built by some early backwoodsmen, who had deserted it and moved on. It was some distance from the river, and left unoccupied by the woodmen. Situated in the edge of a small cane-brake, a large quantity of cane had been cut to clear the way, and piled against the west end of the cabin. Here the jug was kept. These men had no brilliantly lighted saloon for a resort, but human nature is the same under all circumstances. In this locality, like all others, there were two parties, or two spirits--one was to improve the other to degrade society. As we have said, Brindle Bill was the leading spirit",
+      "id": "Novel-47558_c_17"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Brindle Bill is the leading spirit of his party (Novel-47558_c_18).\n- Brindle Bill is a bully in the settlement (Novel-47558_c_18).\n- Brindle Bill appeals to his party for fair play (Novel-47558_c_22).\n- Brindle Bill is involved in a physical contest with Don Carlo (Novel-47558_c_22).\n- Brindle Bill's party includes Dan Carlo and Sundown Hill (Novel-47558_c_22).\n- Brindle Bill's party also includes S. S. Simon (Novel-47558_c_55).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+      "doc_ids": [
+        "Novel-47558_c_22",
+        "Novel-47558_c_55",
+        "Novel-47558_c_18",
+        "Novel-47558_c_58",
+        "Novel-47558_c_17"
+      ]
+    }
+  ]
+}

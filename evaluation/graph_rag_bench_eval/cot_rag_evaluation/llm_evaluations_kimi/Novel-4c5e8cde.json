@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4c5e8cde",
+  "question": "In the narrative surrounding the mysterious attacks at the Ramierez fonda, how does Richards's attraction to Cota influence his actions, and what similar experience does he share with Colonel Starbottle regarding being assaulted near the fonda?",
+  "gold_answer": "Richards is attracted to Cota and was attacked like Colonel Starbottle.",
+  "llm_answer": "Richards’s attraction to Cota makes him arrange a private visit for her to the printing-office so she can see the press; he dresses in his best clothes and watches her “with beaming face” and “simple tenderness,” showing that his feelings override his usual caution.\n\nRichards and Colonel Starbottle share the experience of being mysteriously assaulted near the Ramierez fonda; both attacks are mentioned together as the “mysterious attacks on Starbottle and Richards.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures Richards's attraction to Cota and how it influences his actions, as well as the shared experience of being attacked near the Ramierez fonda, aligning with the Gold Answer. The details about Richards's behavior and feelings toward Cota are supported by the Retrieved Context, and the mention of the mysterious attacks on both Richards and Colonel Starbottle is faithful to the context and includes all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001577",
+  "question": "In the 2011 census what was the population of suburban area in which BA Connect is headquartered ?",
+  "gold_answer": "26,788",
+  "llm_answer": "The population of the suburban area in which BA Connect is headquartered, Didsbury, Manchester, England, is not directly mentioned in the provided evidence. However, the evidence does mention that the population of Metro Vihar, a part of Holambi Kalan, is 42,392 according to the 2011 Census of India. \n\nThere is no direct connection between Metro Vihar and Didsbury, Manchester, England.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct population of Didsbury, Manchester, England, as stated in the Gold Answer (26,788). Instead, it discusses irrelevant information about Metro Vihar, which is unrelated to the question or the context. The retrieved context does not contain the population data for Didsbury, but the Model Answer does not use internal knowledge to provide the correct answer either."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-99f59665",
+  "question": "How are the padres' actions with the lasso ultimately linked to their mission?",
+  "gold_answer": "The padres used a lasso, which caught a heathen; the heathen fled from the padres, who had a mission.",
+  "llm_answer": "I cannot answer this question as it is not present in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states it cannot answer the question due to lack of relevant context, which is accurate given the retrieved context does not contain information about the padres' actions with the lasso or their mission. However, the Model Answer fails to address the Gold Answer, which provides a concise explanation. Thus, correctness and evidence coverage are rated as 0.0, while faithfulness is rated as 1.0 since the Model Answer does not contradict the context."
+  }
+}

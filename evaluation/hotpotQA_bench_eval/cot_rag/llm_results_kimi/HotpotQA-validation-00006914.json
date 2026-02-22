@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006914",
+  "question": "What town in Piscataquis County, Maine, housed the smallest railroad in the United States in 1890?",
+  "gold_answer": "Monson, Maine",
+  "llm_answer": "Monson",
+  "context": [
+    {
+      "text": "Monson station building and a short length of restored track, 2007 The Monson Railroad was a 2 ft ( 610 mm ) narrow gauge railway , which operated between Monson Junction on the Bangor and Aroostook Railroad and Monson, Maine . The primary purpose of this railroad was to serve several slate mines and finishing houses in Monson. According to the Scientific American of 17 May 1890, it was the smallest railroad in the United States. Equipment was never modernized, and the railroad used antique stub switches and link-and-pin couplers to the end of operations in 1943. The line was the last commercial carrier in the United States to use such couplers or to run above ground on a 2 ft ( 610 mm ) gauge. (The 2 ft ( 610 mm ) gauge Chicago Tunnel Company continued underground operation as a common carrier freight subway until 1959.) Construction The slate underlying what became the town of Monson, Maine had very low ionizable mineral content, and was well suited for manufacture of electric switchboards . Quarrying commenced in the 1860s and slate finishing operations began in 1870. Slate was shaped into sinks , bathtubs , tabletops, chalkboards , roof shingles , and headstones . Transporting these heavy slate products was difficult in any weather, and became nearly impossible when spring thaw turned the roads to slush and mud. The Monson and Athens Railroad Company was chartered",
+      "id": "HotpotQA-validation-00006914/00_Monson-Railroad.html_c_0"
+    },
+    {
+      "text": "Dover-Foxcroft is the largest town in and the seat of Piscataquis County , Maine , United States. The population was 4,422 at the 2020 census . The town is located near the geographic center of the state. It contains a census-designated place of the same name. History Dover-Foxcroft was originally two towns, Dover and Foxcroft, separated by the Piscataquis River . Dover was to the south of the river, and Foxcroft was to the north. Dover was purchased from Massachusetts by Boston merchants Charles Vaughan and John Merrick, both of whom had emigrated from England. It was first permanently settled in 1803 by Eli Towne from Temple, New Hampshire , then incorporated on January 19, 1822. Agriculture was the principal early occupation, producing potatoes, corn and grain. Originally known as T5 R7 NWP, Foxcroft was one of five towns conveyed by Massachusetts in 1796 to Bowdoin College . It was purchased from the college in 1800 by Joseph E. Foxcroft of New Gloucester and settled by John, Eleazer and Seth Spaulding in 1806, when they built the first mill . It was dubbed Spauldingtown until February 29, 1812, when it was incorporated as Foxcroft, taking its proprietor's name. The Piscataquis River offered water power sites for mills . In 1859 the population of Dover was",
+      "id": "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_c_0"
+    },
+    {
+      "text": "the Maine Whoopie Pie Festival , an annual one-day event which takes place in late June each year. It started in 2009 to honor the whoopie pie . The whoopie pie became the official state treat of Maine in 2013. The 2012 festival brought 5,000 people to the town while the 2014 event brought in more than 7,500 attendees. Blethen House c. 1910 Lincoln Street c. 1905 High water in 1909 Geography According to the United States Census Bureau , the town has a total area of 71.18 square miles (184.36 km 2 ), of which 67.81 square miles (175.63 km 2 ) is land and 3.37 square miles (8.73 km 2 ) is water. Dover-Foxcroft is drained by the Piscataquis River . The town is crossed by state routes 6 , 7 , 15 , 16 and 153 . It is the commercial center of the county. Climate This climatic region is typified by large seasonal temperature differences, with warm to hot (and often humid) summers and cold (sometimes severely cold) winters. According to the Köppen Climate Classification system, Dover-Foxcroft has a humid continental climate , abbreviated \"Dfb\" on climate maps. Demographics 2010 census As of the census of 2010, there were 4,213 people,",
+      "id": "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_c_2"
+    },
+    {
+      "text": "Monson is a town in Piscataquis County , Maine , United States. The population was 609 at the 2020 census . The town is located on Route 15 which is a significant route north into the well known Moosehead Lake Region, to which Monson can be considered a gateway. This route eventually leads to the Canadian Province of Quebec . The town is well known in local and state history, and contributions by the town and its location are notable. It is the last town located on the Appalachian Trail at the beginning (or end) of the Hundred-Mile Wilderness . It is not uncommon to see many hikers in town resting before (or after) their trip into the Wilderness, and several lodging places in town cater directly to these hikers. History Flooded slate quarry at Monson Monson was founded on February 8, 1822, by an act of the state legislature. It was named after Monson, Massachusetts . Previously the town was part of a piece of land granted to both Hebron Academy and Monson Academy by the state of Massachusetts in 1811. On April 22, 1822, the town had its first town meeting to form a government. However, the first settler came here in 1816 after being here the previous fall to clear trees out for a settlement. Monson is also referenced in the book The Maine Woods by Henry David Thoreau , wherein a drawing of moose antlers depicting the direction and",
+      "id": "HotpotQA-validation-00006914/01_Monson-Maine.html_c_0"
+    },
+    {
+      "text": "WSYY-FM (94.9 FM ) is a radio station broadcasting a full-service adult hits format. Licensed to Millinocket, Maine , United States, the station's broadcast signal serves Central Penobscot County , Eastern Piscataquis County , and Southern Aroostook County , from its tower site in Millinocket. The station is owned by Katahdin Communications, Inc. WSYY-FM plays a mix of oldies / classic hits , adult contemporary , rock music , and some country crossovers. The station also features programming from CBS News Radio (and has been an affiliate of that network for many decades). WSYY-FM also airs When Radio Was . [ failed verification ] History In 1978, WSYY-FM was founded on 97.7 FM as WKTR, upgrading to its current facilities in 1984 on 94.9. Prior to their The Mountain 94.9 branding, WSYY-FM used to be referred to as North Country 95 , airing country music full-time. The current format, branding, and slogan was probably adopted around March 1, 2004, when Katahdin Communications, Inc. assumed control of WSYY-FM and WSYY from Katahdin Timberlands, LLC as a result of the radio station facing increasing land disputes, initially as a short term lease agreement, but the transfer of ownership became permanent. Those land disputes would lead to a loss of",
+      "id": "HotpotQA-validation-00006914/02_WSYY-FM.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Monson Railroad mentioned as smallest railroad in US in 1890 (HotpotQA-validation-00006914/00_Monson-Railroad.html_c_0)\n- Monson Railroad connected Monson Junction to Monson, Maine (HotpotQA-validation-00006914/00_Monson-Railroad.html_c_0)\n- Monson is a town in Piscataquis County, Maine (HotpotQA-validation-00006914/01_Monson-Maine.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What town in Piscataquis County, Maine, housed the smallest railroad in the United States in 1890?",
+      "doc_ids": [
+        "HotpotQA-validation-00006914/00_Monson-Railroad.html_c_0",
+        "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_c_0",
+        "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_c_2",
+        "HotpotQA-validation-00006914/01_Monson-Maine.html_c_0",
+        "HotpotQA-validation-00006914/02_WSYY-FM.html_c_0"
+      ]
+    }
+  ]
+}

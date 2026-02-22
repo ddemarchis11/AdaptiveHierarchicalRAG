@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006860",
+  "question": "What two singers who worked together on the song I Would Like to See You Again also performed as part of a country music group which was active between 1985 and 1995?",
+  "gold_answer": "Johnny Cash, Waylon Jennings",
+  "llm_answer": "Based on the provided evidence, the two singers who worked together on the song \"I Would Like to See You Again\" and also performed as part of a country music group which was active between 1985 and 1995 are:\n\n1. Johnny Cash\n2. Waylon Jennings\n\nThey were part of the country music supergroup \"The Highwaymen\" along with Willie Nelson and Kris Kristofferson.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Johnny Cash and Waylon Jennings as the two singers who worked together on the song 'I Would Like to See You Again' and were part of the country music group 'The Highwaymen' active between 1985 and 1995. This is fully supported by the retrieved context, which explicitly mentions their collaboration on the song and their involvement in the group. The answer also includes all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9f3a0a90",
+  "question": "In the context of the mythological epistolary exchanges described in the narrative, what did Hypsipyle receive from Jason?",
+  "gold_answer": "Hypsipyle received a sad letter from Jason.",
+  "llm_answer": "I cannot find any information about Hypsipyle receiving anything from Jason in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question correctly and does not align with the Gold Answer. It does not provide the information that Hypsipyle received a sad letter from Jason, nor does it attempt to answer the question using internal knowledge or the retrieved context. Additionally, the retrieved context is irrelevant to the question, and the model does not use internal knowledge to compensate for the lack of relevant context."
+  }
+}

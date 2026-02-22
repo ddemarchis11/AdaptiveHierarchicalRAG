@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000548",
+  "question": "In the 2012-13 FC Sion they brought in Gennaro Gattuso and a player who now plays for what Scottish team?",
+  "gold_answer": "Scottish Premiership club Hearts",
+  "llm_answer": "Johnstone Burgh",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies that the player now plays for Hearts, a Scottish Premiership club. The Model Answer incorrectly states Johnstone Burgh, which is not supported by the context. While the context confirms Kyle Lafferty's current team as Johnstone Burgh, it does not align with the Gold Answer, which is the correct response to the question. Thus, the Model Answer is faithful to the context but incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

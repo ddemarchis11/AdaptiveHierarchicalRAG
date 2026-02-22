@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003430",
+  "question": "Are Ainslee's Magazine and The Australian Women's Weekly both monthly magazines?",
+  "gold_answer": "yes",
+  "llm_answer": "Based on the provided evidence, the answer to the question is:\n\nAinslee's Magazine was published from 1897 to December 1926, and then revived in 1934 as a \"sophisticated love-story monthly\" and later renamed to Smart Love Stories. It was discontinued in 1938.\n\nThe Australian Women's Weekly is a monthly magazine, as stated in the evidence: \"In 1982, publication frequency was reduced from weekly to monthly.\"",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies The Australian Women's Weekly as a monthly magazine, which is supported by the context. However, it does not confirm whether Ainslee's Magazine was a monthly publication, as the context does not provide explicit information about its frequency. The Gold Answer is 'yes,' but the Model Answer does not fully address both magazines' publication frequencies, leading to partial correctness and evidence coverage."
+  }
+}

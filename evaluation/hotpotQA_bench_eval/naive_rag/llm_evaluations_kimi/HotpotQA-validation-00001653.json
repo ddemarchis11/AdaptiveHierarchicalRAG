@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001653",
+  "question": "St. John's College, Belize offers an education in a tradition in which what three subjects were the core?",
+  "gold_answer": "Grammar, logic, and rhetoric",
+  "llm_answer": "The evidence does not specify which three subjects formed the core of the education tradition at St. John's College, Belize.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the three core subjects, which is incorrect as the Gold Answer clearly identifies grammar, logic, and rhetoric as the core subjects. While the Model Answer is faithful to the retrieved context, it fails to provide the correct information and misses the key facts entirely."
+  }
+}

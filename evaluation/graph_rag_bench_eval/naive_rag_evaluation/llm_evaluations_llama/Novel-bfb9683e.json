@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfb9683e",
+  "question": "Which educational book includes a dedicated section on the topic of TOBACCO as part of its contents?",
+  "gold_answer": "TOBACCO is included as part of the CHILD'S HEALTH PRIMER.",
+  "llm_answer": "The educational book that includes a dedicated section on the topic of TOBACCO as part of its contents is not explicitly mentioned in the provided text. However, it is mentioned that the book is about \"the effects of alcohol, tobacco, opium, and other truths of hygiene\" and is dedicated to children in the Primary Schools of the country.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the book discusses tobacco in the context of hygiene and is aimed at children in Primary Schools, which aligns with the retrieved context. However, it fails to explicitly name the book 'Child's Health Primer,' as stated in the Gold Answer. While the response is faithful to the context, it misses the specific identification of the book, leading to partial correctness and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-667a422d",
+  "question": "Who constructed the Rice house, recognized as one of the first brick buildings and principal hotels in early St. Paul?",
+  "gold_answer": "Henry M. Rice constructed the Rice house.",
+  "llm_answer": "The Rice house, recognized as one of the first brick buildings and principal hotels in early St. Paul, was constructed by Henry M. Rice.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Henry M. Rice as the constructor of the Rice house, aligning with the Gold Answer and the Retrieved Context. It is concise, accurate, and fully supported by the context provided."
+  }
+}

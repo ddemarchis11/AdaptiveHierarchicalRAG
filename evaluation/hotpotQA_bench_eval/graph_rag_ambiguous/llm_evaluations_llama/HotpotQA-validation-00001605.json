@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001605",
+  "question": "An American fringe inventor working in the early twentieth century reportedly built upon nuclear battery research published in 1912 by which English physicist, who died young during the First World War?",
+  "gold_answer": "Henry Moseley",
+  "llm_answer": "I cannot verify the answer to your question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide any relevant information or attempt to answer the question. It neither identifies Henry Moseley nor provides any contextually grounded response. This results in a complete lack of correctness, faithfulness, and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1b8745a9",
+  "question": "To whom did Angeline Hall plead during a difficult financial and personal period in her marriage, as she and her husband faced hardship?",
+  "gold_answer": "Angeline pleaded with Asaph Hall.",
+  "llm_answer": "The text does not explicitly state to whom Angeline Hall pleaded during a difficult financial and personal period in her marriage. However, it does mention that her husband, Asaph Hall, was a Unitarian and initially disbelieved in woman-suffrage and wasted little sympathy on the downtrodden.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the text does not explicitly mention to whom Angeline Hall pleaded during a difficult period in her marriage. The Gold Answer clearly identifies Asaph Hall as the person Angeline pleaded with, and this is supported by the context. The Model Answer fails to provide the correct information and does not align with the retrieved context or the Gold Answer."
+  }
+}

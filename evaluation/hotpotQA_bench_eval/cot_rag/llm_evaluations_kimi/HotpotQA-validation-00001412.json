@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001412",
+  "question": "What Mexican singer released the song Todos Me Miran?",
+  "gold_answer": "Gloria Trevi",
+  "llm_answer": "The Mexican singer who released the song \"Todos Me Miran\" is Gloria Trevi.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Gloria Trevi as the Mexican singer who released 'Todos Me Miran,' which is consistent with the Gold Answer and fully supported by the Retrieved Context. All relevant facts from the Gold Answer are included."
+  }
+}

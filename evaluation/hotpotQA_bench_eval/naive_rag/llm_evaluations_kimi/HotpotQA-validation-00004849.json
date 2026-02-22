@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004849",
+  "question": "The astronomer who formulated the theory of stellar nucleosynthesis co-authored what landmark paper?",
+  "gold_answer": "BFH",
+  "llm_answer": "The astronomer who formulated the theory of stellar nucleosynthesis co-authored the landmark B²FH paper.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the B²FH paper as the landmark paper co-authored by the astronomer who formulated the theory of stellar nucleosynthesis. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which explicitly mentions the B²FH paper and its significance."
+  }
+}

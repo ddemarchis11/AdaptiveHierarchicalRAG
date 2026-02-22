@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003912",
+  "question": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+  "gold_answer": "7pm",
+  "llm_answer": "The evidence does not specify the exact time the show aired on Mondays.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not specify the time the show aired on Mondays, whereas the context clearly mentions that 'The Krypton Factor' was a staple of Monday evening schedules until its final series in 1995, implying it aired at 7pm as per the Gold Answer. While the Model Answer is faithful to the context in its claim, it fails to retrieve the relevant information and misses the core fact entirely."
+  }
+}

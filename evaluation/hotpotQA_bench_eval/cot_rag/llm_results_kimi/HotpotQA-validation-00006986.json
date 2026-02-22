@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006986",
+  "question": "While at the University of Michigan, Louis Smith played with what American jazz trumpeter, bandleader, and composer?",
+  "gold_answer": "Miles Dewey Davis III",
+  "llm_answer": "Miles Davis",
+  "context": [
+    {
+      "text": "Edward Louis Smith (May 20, 1931 – August 20, 2016) was an American jazz trumpeter from Memphis, Tennessee . After graduating from Tennessee State University he attended graduate school at the University of Michigan. While studying at the University of Michigan , he played with visiting musicians such as Dizzy Gillespie , Miles Davis , Thad Jones and Billy Mitchell, before going on to play with Sonny Stitt , Count Basie and Al McKibbon , Cannonball Adderley , Percy Heath , Philly Joe Jones , Lou Donaldson , Donald Byrd , Kenny Dorham and Zoot Sims . Smith decided to forgo being a full-time musician to take a music teaching job at Atlanta's Booker T. Washington High School. During this time he continued playing jazz in clubs, eventually going on to record two albums for Blue Note Records . Smith's first session as a leader, Here Comes Louis Smith (1957), originally recorded for the Boston-based Transition Records, featured Cannonball Adderley (then under contract to Mercury) playing under the pseudonym \"Buckshot La Funke\", Tommy Flanagan , Duke Jordan , Art Taylor and Doug Watkins . He also replaced Donald Byrd for Horace Silver's Live at the Newport 1958 set. His playing on the set was one of his best efforts and was described by one critic as \"monstrous\". He was a prolific composer and successful band director leaving Booker T. Washington to become director of the Jazz",
+      "id": "HotpotQA-validation-00006986/00_Louis-Smith-musician.html_c_0"
+    },
+    {
+      "text": "described by one critic as \"monstrous\". He was a prolific composer and successful band director leaving Booker T. Washington to become director of the Jazz Ensemble at the University of Michigan and a teacher in Ann Arbor's public school system. He later recorded for the SteepleChase label. Smith suffered a stroke in 2006, and was seen occasionally enjoying live jazz in the Detroit/Ann Arbor area, but did not return to performing. His cousin Booker Little was also a trumpeter. Smith died on August 20, 2016, at age 85. Discography As leader 1958: Here Comes Louis Smith ( Blue Note ) 1958: Smithville (Blue Note) 1978: Just Friends ( SteepleChase , 1978) 1979: Prancin' (SteepleChase) 1990: Ballads for Lulu (SteepleChase) 1994: Silvering (SteepleChase) 1994: Strike up the Band (SteepleChase) 1995: The Very Thought of You (SteepleChase) 1996: I Waited for You (SteepleChase) 1997: There Goes My Heart (SteepleChase) 2000: Once in a While (SteepleChase) 2000: Soon (SteepleChase) 2001: The Bopsmith",
+      "id": "HotpotQA-validation-00006986/00_Louis-Smith-musician.html_c_1"
+    },
+    {
+      "text": ", trumpeter Frances Klein , and trumpeter and flugelhornist Bill Hardman . The Jazz Temple was an important jazz venue in Cleveland from 1962-63. Columbus -born jazz musicians include multi-instrumentalist Rahsaan Roland Kirk , bandleader and trombonist Bobby Byrne , trumpeter Harry Edison , organist and pianist Hank Marr , organist Don Patterson , pianist John Sheridan , saxophonist Steve Potts , and bassist and composer Foley . Zanesville jazz artists include singer and pianist Una Mae Carlisle , ragtime composer Harry P. Guy , and trumpeter Andy Gibson . Springfield has produced pianist, organist, and arranger Charles Thompson , drummer Johnny Lytle , clarinetist Cecil Scott , pianist Call Cobbs, Jr. , trombonist Quentin Jackson , multi-instrumentalist Garvin Bushell , saxophonist Earle Warren , and singer Ada Lee . Dayton was the birthplace of trombonist Booty Wood , guitarist John Scofield , trumpeter Snooky Young , drummer J.C. Heard , alto saxophonist and flautist Bud Shank , and Billy Strayhorn , a close collaborator of Duke Ellington . Cincinnati -born jazz musicians include pianist, composer, arranger, and theorist George Russell , saxophonist and bandleader Frank Foster , pianist and composer Mike Longo , guitarist Kenny Poole , tenor saxophonist Don Braden , singer Amy",
+      "id": "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_4"
+    },
+    {
+      "text": "Springfield. Jump blues singer H-Bomb Ferguson was from Cincinnati. Guitarist Sonny Moorman was born in Cincinnati. Singer Bessie Brown was born in Marysville . Jazz Art Tatum , widely acknowledged as one of the greatest and most influential jazz pianists of all time, was born in Toledo . Double bassist Gene Taylor , singer Teresa Brewer , and pianists Stanley Cowell and Larry Fuller were also born in \"The Glass City\". Cleveland has an important place in jazz as a stop on the club circuit. Artists from Cleveland include Freddie Webster , a trumpeter cited by Miles Davis as an early influence, and Tadd Dameron , a prominent pianist, composer, and arranger of the bop era . Benny Bailey was a trumpeter who followed Dameron and in turn influenced Cleveland jazz musicians in his wake, including Albert Ayler , avant-garde jazz saxophonist, who was born in Cleveland Heights . Also from Cleveland are vocalist Jimmy Scott , pianist Bobby Few , saxophonist Ernie Krivda , saxophonist Joe Lovano , guitarist Bill DeArango , pianist Shelly Berg , bassists Ike Isaacs and Albert Stinson , pianist and composer Hale Smith , cellist Abdul Wadud , trombonist and bandleader John Fedchock , saxophonist Rich Perry , trumpeter Frances Klein , and trumpeter and flugelhornist Bill Hardman . The Jazz Temple was an important jazz venue in Cleveland from",
+      "id": "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_3"
+    },
+    {
+      "text": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music . In a career spanning nearly five decades, Davis was at the forefront of several major stylistic developments in jazz, including—but not limited to— bebop , cool jazz , hard bop , third stream , modal jazz , avant-garde jazz , and jazz fusion . Davis's legacy extends beyond jazz into the realms of rock , funk , classical , and hip-hop . Born into an upper-middle-class family in Alton, Illinois , and raised in East St. Louis , Davis started on the trumpet in his early teens. He left to study at Juilliard in New York City, before dropping out and making his professional debut as a member of saxophonist Charlie Parker 's bebop quintet from 1944 to 1948. Shortly afterwards, he recorded the Birth of the Cool sessions for Capitol Records , which were instrumental to the development of cool jazz. In the early 1950s, while addicted to heroin, Davis recorded some of the earliest hard bop music under Prestige Records . After a widely acclaimed comeback performance at the Newport Jazz Festival , he signed a long-term contract with Columbia Records , and recorded the album 'Round About Midnight in 1955. It was his first work with",
+      "id": "HotpotQA-validation-00006986/01_Miles-Davis.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Louis Smith played with Miles Davis while at the University of Michigan (Louis-Smith-musician_c_0).\n- Miles Davis was a jazz trumpeter, bandleader, and composer (Miles-Davis_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "While at the University of Michigan, Louis Smith played with what American jazz trumpeter, bandleader, and composer?",
+      "doc_ids": [
+        "HotpotQA-validation-00006986/00_Louis-Smith-musician.html_c_0",
+        "HotpotQA-validation-00006986/00_Louis-Smith-musician.html_c_1",
+        "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_4",
+        "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_3",
+        "HotpotQA-validation-00006986/01_Miles-Davis.html_c_0"
+      ]
+    }
+  ]
+}

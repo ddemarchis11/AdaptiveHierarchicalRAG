@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003907",
+  "question": "Which Australian professional women's basketball team has an American playing in it?",
+  "gold_answer": "Adelaide Lightning",
+  "llm_answer": "The provided evidence does not specify any American players on an Australian professional women's basketball team.",
+  "context": [
+    {
+      "text": "The Logan Thunder in white battle for the ball in a game against the Canberra Capitals on 20 January 2012 The Logan Thunder was an Australian professional women's basketball team competing in the Women's National Basketball League ( WNBL ). The team was based in Logan , Queensland . History The Logan Thunder started in 2008 replacing New Zealand -based team Christchurch Sirens . They were the first team to represent South East Queensland in over 10 years.  Thunder withdrew from the 2014/15 WNBL season due to financial difficulties and the team later folded. See also Sports portal Australia portal References External links Official WNBL website Logan Thunder official website",
+      "id": "HotpotQA-validation-00003907/03_Logan-Thunder-WNBL.html_c_0"
+    },
+    {
+      "text": "The Adelaide Lightning are an Australian professional basketball team competing in the Women's National Basketball League (WNBL). The club is based in the city of Adelaide , South Australia , and will play their home games at the State Basketball Centre in Wayville from the 2025–26 season. History The Adelaide Lightning were formed in 1993 as a South Australian composite team following multiple Adelaide team entries in the Women's National Basketball League (WNBL) since the league's inception in 1981. The Lightning originally played at the Clipsal Powerhouse . Under coach Jan Stirling , the Lighting won three straight WNBL championships between 1994 and 1996 . After a runner-up finish in 1997 , the Lighting won their fourth championship in 1998 . They finished runners-up again in 2000 . Between 1993 and 2009, the team played in the WNBL playoffs every year. The club's captain during its glory years of the 1990s was Rachael Sporn . Sporn represented Australia at three Olympic Games, winning two silver and one bronze medal, and three World Championships. She played 377 WNBL games and was named MVP in 1996 and 1997 and was a key member of the Lightning's four championships. She was inducted into the Australian Basketball Hall of Fame in 2007. Her number 14 jersey was retired in 2007. The team changed to private ownership in 2005–06 , with",
+      "id": "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_c_0"
+    },
+    {
+      "text": "2008 Beijing Olympic Games. The most successful female Olympic swimmer is Kirsty Coventry (swimming for her home country of Zimbabwe ) who won gold, silver, and bronze medals at the 2004 Summer Olympics in Athens , plus one gold and three silvers in Beijing. Coventry became president of the International Olympic Committee in 2025. While the football team is far more well known nationally and in the media, Auburn swimming and diving is the most dominant athletics program for the university. Men's basketball The Auburn men's basketball team has enjoyed off-and-on success over the years. Its best known player is Charles Barkley . Other professional basketball players from Auburn are John Mengelt , Rex Fredicks, Eddie Johnson , Mike Mitchell , Chuck Person , Chris Morris , Wesley Person , Chris Porter , Mamadou N'diaye , Jamison Brewer , Moochie Norris , Marquis Daniels , and Pat Burke . Women's basketball The Auburn University women's basketball team has been consistently competitive both nationally and within the SEC. Despite playing in the same conference as perennial powerhouse Tennessee and other competitive programs such as LSU , Georgia , and Vanderbilt , Auburn has won four regular season SEC championships and four SEC Tournament championships. AU has made sixteen appearances in the NCAA women's basketball tournament and only once, in their first appearance in 1982, have the Tigers lost in the first round. Auburn played in three consecutive national championship games from 1988 to 1990 and won the WNIT in",
+      "id": "HotpotQA-validation-00001644/01_Auburn-University.html_c_25"
+    },
+    {
+      "text": "Liaoning Zhongda Aluminium Flying Eagles ( simplified Chinese : 辽宁忠大铝业飞鹰 ; traditional Chinese : 遼寧忠大鋁業飛鷹 ; pinyin : liáo níng zhōng dà lǚ yè fēi yīng ) is a Chinese professional women's basketball club in Liaoning , playing in the Women's Chinese Basketball Association (WCBA). Liaoning Zhongda Aluminum Co. has been the team's corporate sponsor since 2015. From 2005 to 2015, the team was known as Liaoning Hengye Golden Leopards and sponsored by Liaoning Hengye Group. Before 2005 it was known as Liaoning Big Dipper ( 辽宁北斗星女篮 ). Season-by-season records Current players Notable former players Valerie Muoneke (2004) Larissa Anderson (2004) Janell Burse (2004–05) Kim Gipson (2005–06) Tangela Smith (2008–09) Kara Braxton (2009–11, 2015–16) Ruth Riley (2011–12) Yelena Leuchanka (2012–13) DeMya Walker (2013) Jayne Appel (2013–14) Janel McCarville (2014–15) Kelsey",
+      "id": "HotpotQA-validation-00003907/02_Liaoning-Flying-Eagles.html_c_0"
+    },
+    {
+      "text": "New Caledonia , losing the final to New Zealand in extra time . It was the first time the Australians faced a team other than the \"Football Ferns\" of New Zealand. A team would not be assembled again until the next edition of the tournament in 1986 tournament in New Zealand, which featured Australia, New Zealand and Taiwan , as well as New Zealand's B team. Australia lost in the final again, beaten 4–1 by Taiwan. Throughout the 1980s, the team did not have an official playing kit of its own. The only playing kits available were hand-me-downs that had been donated or discarded by men's teams. Although the players were proud to be wearing an Australian strip, they were never supplied with a kit that fitted them properly. Moreover, on the eve of one international tour, several players famously had to sew the team crest onto their tracksuit jackets with a needle and thread. The late 1980s had Australia encountering the American and European teams for the first time in the 1987 Women's World Invitational Tournament in Taiwan, and the 1988 FIFA Women's Invitation Tournament in China. For the latter tournament, the players had to sew themselves their own Australian crests onto the team tracksuits. Two years later, Australia hosted the 1989 Oceania Cup in Brisbane with Australia entering two teams: Australia A and Australia B. After originally being separated in two groups, neither team made it to the final with Chinese",
+      "id": "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which Australian professional women's basketball team has an American playing in it?",
+      "doc_ids": [
+        "HotpotQA-validation-00003907/03_Logan-Thunder-WNBL.html_c_0",
+        "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_c_0",
+        "HotpotQA-validation-00001644/01_Auburn-University.html_c_25",
+        "HotpotQA-validation-00003907/02_Liaoning-Flying-Eagles.html_c_0",
+        "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_2"
+      ]
+    }
+  ]
+}

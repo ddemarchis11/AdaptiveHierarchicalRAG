@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fd224da5",
+  "question": "Imagine you are Johann Christian Bock. Write a diary entry about your inspiration from Maria of Moulines and your literary achievements.",
+  "gold_answer": "Diary Entry — Jacobi has been a true muse. His story inspired me to pursue my own literary journey, leading to my latest production, 'Die Tagereise'. However, I remain aware of the shifting tides, as Schummel’s lack of influence on my work and the reviews from the Allgemeine deutsche Bibliothek suggest our field is ever-changing.",
+  "llm_answer": "I am unable to determine whose eccentric and tasteless enthusiasm inspired the laying out of the park at Marienwerder near Hanover, but I am Johann Christian Bock, the actor, and I must say that I am flattered to be mentioned alongside Maria of Moulines in Matthison's letter to Bonstetten.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question about Johann Christian Bock's inspiration from Maria of Moulines or his literary achievements. Instead, it incorrectly focuses on the park at Marienwerder and Matthison's letter, which are irrelevant to the question. The answer fails to provide any relevant or grounded information from the retrieved context or align with the Gold Answer."
+  }
+}

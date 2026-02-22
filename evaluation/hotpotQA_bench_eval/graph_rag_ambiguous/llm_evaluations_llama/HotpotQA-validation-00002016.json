@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002016",
+  "question": "Of two high-altitude peaks — one straddling the border between Nepal and Sikkim in the eastern Himalayas, the other situated in a plateau region governed by an autonomous territory of a large East Asian nation — which lies within that nation's borders?",
+  "gold_answer": "Kangpenqing (also Gang Benchhen) is a mountain in the Baiku Himalayas of Tibet, China.",
+  "llm_answer": "The first peak, Kirat Chuli or Tent Peak, lies on the border between Nepal and India, but since it is situated in the extreme northeast of Nepal and northwest of Sikkim, it is not entirely within India. The second peak, Chandra Taal, is not a peak but a lake, and it is located in the upper Chandra valley of the Lahul and Spiti district of Himachal Pradesh, India.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the peaks and provides irrelevant information about Chandra Taal, which is not mentioned in the question or context. It fails to address the question about which peak lies within the borders of the East Asian nation. The Gold Answer correctly identifies Kangpenqing in Tibet, China, but the Model Answer does not mention this peak at all, nor does it provide any relevant or grounded information from the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004571",
+  "question": "Who was born first, Marino Girolami or Daniel Myrick?",
+  "gold_answer": "Marino Girolami",
+  "llm_answer": "Marino Girolami was born on 1 February 1914. Daniel Myrick was born on September 3, 1963. Therefore, Marino Girolami was born first.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Marino Girolami as being born first, providing the birth dates of both individuals for clarity. This information is fully supported by the retrieved context and includes all relevant facts from the Gold Answer."
+  }
+}

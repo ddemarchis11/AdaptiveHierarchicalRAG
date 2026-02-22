@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003069",
+  "question": "Mr. Wilson's Cabinet of Wonder: Pronged Ants, Horned Humans, Mice on Toast, and Other Marvels of Jurassic Technology is a book about a museum that is located in which city ?",
+  "gold_answer": "Los Angeles",
+  "llm_answer": "The Museum of Jurassic Technology is located in Los Angeles, California.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Los Angeles, California as the location of the Museum of Jurassic Technology, which is consistent with the Gold Answer and fully supported by the Retrieved Context."
+  }
+}

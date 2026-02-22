@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e988af6",
+  "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+  "gold_answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+  "llm_answer": "The woman’s desperate plea for the Goodwood Plunger to stop her husband from gambling moves him enough to intervene: he seeks the man out, tells him to quit while ahead, and thus briefly acts against his own detached, non-interfering nature.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the woman's plea as influencing the Goodwood Plunger to intervene, which aligns with the retrieved context. However, it does not mention the specific actions described in the Gold Answer, such as the woman pointing to her husband, Louis shoving the Plunger's hand off, and the Plunger turning away from the woman. Additionally, the claim about the Plunger acting against his detached nature is not explicitly supported by the retrieved context, making the answer partially faithful and incomplete in evidence coverage."
+  }
+}

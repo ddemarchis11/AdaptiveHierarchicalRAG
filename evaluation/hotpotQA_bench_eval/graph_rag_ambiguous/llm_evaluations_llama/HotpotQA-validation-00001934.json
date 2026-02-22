@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001934",
+  "question": "How many albums did the record label that issued a North Carolina singer-songwriter's debut release go on to put out for that same artist?",
+  "gold_answer": "two",
+  "llm_answer": "I cannot verify how many albums the record label that issued a North Carolina singer-songwriter's debut release went on to put out for that same artist.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information, which is 'two,' as stated in the Gold Answer. Additionally, the retrieved context contains sufficient information to determine the correct answer, but the model does not utilize it effectively. Therefore, the answer is incorrect, ungrounded, and lacks evidence coverage."
+  }
+}

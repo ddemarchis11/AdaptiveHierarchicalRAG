@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000467",
+  "question": "Which battle occurred first, the Battle of Manila or the Battle of Guam?",
+  "gold_answer": "Battle of Guam",
+  "llm_answer": "The Battle of Guam occurred first.  \nEvidence: The Battle of Guam took place 21 July – 10 August 1944, while the Battle of Manila was fought 3 February – 3 March 1945.",
+  "context": [
+    {
+      "text": "February 1995, the Memorare-Manila 1945 Foundation dedicated a memorial called the Shrine of Freedom to honor the memory of the over 100,000 civilians killed in the battle. It is also known as the Memorare Manila Monument and is located at Plazuela de Santa Isabel in Intramuros . The inscription for the memorial was penned by National Artist for Literature Nick Joaquin and reads: \"This memorial is dedicated to all those innocent victims of war, many of whom went nameless and unknown to a common grave, or even never knew a grave at all, their bodies having been consumed by fire or crushed to dust beneath the rubble of ruins.\" \"Let this monument be the gravestone for each and every one of the over 100,000 men, women, children and infants killed in Manila during its battle of liberation, 3 February – 3 March 1945. We have not forgotten them, nor shall we ever forget.\" \"May they rest in peace as part now of the sacred ground of this city: the Manila of our affections.\" Battle of Manila (1945) Historical Marker, Malacañang Palace Battle of Manila Historical Marker installed in Freedom Triangle Plaza, Manila City Hall Battle of Manila Commemorative Marker in Filipino Language Memorare Manila at Plazuela de Santa Isabel Memorare Manila Monument List of documented sites where Japanese massacres occurred during the battle Memorare Manila 1945 Historical Marker See also Battle of Bataan",
+      "id": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_16"
+    },
+    {
+      "text": "Manila Monument List of documented sites where Japanese massacres occurred during the battle Memorare Manila 1945 Historical Marker See also Battle of Bataan (1945) Manila massacre History of the Philippines Military history of Japan Military history of the Philippines during World War II Military history of the United States References This article incorporates public domain material from websites or documents of the United States Army Center of Military History . Bibliography Battle of Manila Footnotes: Battle for Manila by Richard Connaughton , John Pimlott and Duncan Anderson (2002) Presidio Press ISBN 0-89141-771-0 World War II in the Pacific: An Encyclopedia (Military History of the United States) by S. Sandler (2000) Routledge ISBN 0-8153-1883-9 By sword and fire: The Destruction of Manila in World War II , 3 February – 3 March 1945 (Unknown Binding) by Alphonso J. Aluit (1994) National Commission for Culture and the Arts ISBN 971-8521-10-0 History of United States Naval Operations in World War II. Vol. 13: The Liberation of the Philippines—Luzon, Mindanao, the Visayas, 1944–1945 by Samuel Eliot Morison (2002) University of Illinois Press ISBN 0-252-07064-X Further reading Andrade, Dale. Luzon . The U.S. Army Campaigns of",
+      "id": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_17"
+    },
+    {
+      "text": "of Illinois Press ISBN 0-252-07064-X Further reading Andrade, Dale. Luzon . The U.S. Army Campaigns of World War II. United States Army Center of Military History . CMH Pub 72-28. Archived from the original on 15 December 2008 . Retrieved 17 August 2010 . Scott, James M. Rampage: MacArthur, Yamashita, and the Battle of Manila (W. W. Norton, 2018) online book review External links Wikimedia Commons has media related to Battle of Manila (1945) . The Battle of Manila Scrapbook The Battle of Manila – a 1959 documentary with newsreel footages on YouTube Col. Orin D. \"Hard Rock\" Haugen Archived 1 February 2016 at the Wayback Machine 18 Rare Vintage Photographs That Show Manila Before and After World War II Silverlens: Teodulo Protomartir , photos of war-damaged Manila Manila Photo Album – Mike Sturm , American photos of war-damaged Manila A View to Hugh: Battle of Manila , American photos of war-damaged Manila",
+      "id": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_18"
+    },
+    {
+      "text": "Map of the battle The Battle of Guam (21 July – 10 August 1944) was the American recapture of the Japanese-held island of Guam , an American territory in the Mariana Islands captured by the Japanese in the First Battle of Guam in 1941 during the Pacific campaign of World War II . The battle was a critical component of Operation Forager . The recapture of Guam and the broader Mariana and Palau Islands campaign resulted in the destruction of much of Japan's naval air power and allowed the United States to establish large airbases from which it could bomb the Japanese home islands with its new strategic bomber , the Boeing B-29 Superfortress . The invasion of Saipan was scheduled for 15 June 1944, with landings on Guam tentatively set for just three days later, but the Battle of the Philippine Sea and stubborn resistance by the unexpectedly large Japanese garrison on Saipan led to the invasion of Guam being postponed for over a month. On 21 July, American forces landed on both sides of the Orote Peninsula on the western side of Guam, planning to secure Apra Harbor . The 3rd Marine Division landed at Asan near Agana to the north of Orote, and the 1st Provisional Marine Brigade landed near Agat to the south. The Marines at the two beachheads were pinned down by heavy Japanese fire, making initial progress inland quite slow. Supply was very difficult; landing ships could not come closer than",
+      "id": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_c_0"
+    },
+    {
+      "text": "wounded during the battle. At least 100,000 Filipino civilians had been killed, both deliberately by the Japanese in the various massacres, and from artillery and aerial bombardment by U.S. and Japanese forces. 16,665 Japanese military dead were counted within Intramuros alone. In the following months, the 6th Army and Filipino guerrillas shifted towards their operations east of Manila to confront the Shimbu Group in mountain warfare in the Battle of Wawa Dam , and secure Manila's water sources. In 1946, General Yamashita was executed for war crimes committed by Japanese forces under his command during the battle. Destruction of the city A TBF-1 Avenger dropping a bomb over Manila The battle for Manila was both the first and the fiercest urban fighting experienced by American forces during the Pacific War . Few battles in the closing months of World War II exceeded the destruction and the brutality and destruction of the fighting in Manila. In Manila's business district only two buildings remained undamaged, and both were looted of their plumbing. Today, a steel flagpole still stands at the entrance of the old U.S. Embassy building in Ermita, pockmarked by bullets and shrapnel, and is seen as a testament to the intense, bitter fighting for Manila. The people of the Philippines lost an irreplaceable cultural and historical treasure during the battle of Manila, and the destruction of the city is remembered today as a national tragedy in the Philippines. Hundreds of",
+      "id": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_14"
+    }
+  ],
+  "cot_scratchpad": "- Battle of Manila dates: 3 Feb – 3 Mar 1945 (Novel-xxxx_c_16)\n- Battle of Guam dates: 21 Jul – 10 Aug 1944 (Novel-xxxx_c_0)\n- Guam battle occurred before Manila battle (Novel-xxxx_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which battle occurred first, the Battle of Manila or the Battle of Guam?",
+      "doc_ids": [
+        "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_16",
+        "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_17",
+        "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_18",
+        "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_c_0",
+        "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_c_14"
+      ]
+    }
+  ]
+}

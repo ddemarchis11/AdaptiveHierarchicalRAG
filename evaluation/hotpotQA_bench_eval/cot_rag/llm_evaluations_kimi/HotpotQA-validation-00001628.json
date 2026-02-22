@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "Tim Cluess has led his team for a longer period of time.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Tim Cluess as the head coach who has led his team for a longer period of time, consistent with the Gold Answer and supported by the Retrieved Context. The context shows that Tim Cluess was in his fifth year as head coach in the 2014–15 season and sixth year in the 2015–16 season, while Steve Prohm started as head coach in the 2011–12 season and was in his first year at Iowa State in 2015–16. This confirms Cluess's longer tenure."
+  }
+}

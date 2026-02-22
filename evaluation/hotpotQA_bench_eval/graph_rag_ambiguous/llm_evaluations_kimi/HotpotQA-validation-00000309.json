@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000309",
+  "question": "Do the film about a borough known for its ferry crossing and the biographical music documentary about a legendary rock-and-roll figure both belong to the same non-fiction genre?",
+  "gold_answer": "yes",
+  "llm_answer": "The context only mentions one documentary—Sunset Strip (2012), a non-fiction film about the history of the Sunset Strip. It does not describe any film “about a borough known for its ferry crossing,” nor does it mention a separate biographical music documentary focused on a single rock-and-roll figure. Therefore, the context does not support the claim that both specified films exist or that they belong to the same non-fiction genre.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly denies the existence of the two films mentioned in the question and does not address whether they belong to the same non-fiction genre. While the context does not explicitly confirm the details of the question, the Gold Answer ('yes') directly answers the query, and the Model Answer fails to align with it. The Model Answer is faithful to the context but does not provide the required information or evidence coverage."
+  }
+}

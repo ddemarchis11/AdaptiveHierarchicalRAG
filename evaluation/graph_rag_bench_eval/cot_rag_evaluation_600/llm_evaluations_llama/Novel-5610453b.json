@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5610453b",
+  "question": "Where did Mr. Inglis reside during the years following his return from India, as recounted in the family's history?",
+  "gold_answer": "Mr. Inglis lived in Edinburgh.",
+  "llm_answer": "The evidence does not provide a clear answer to the question of where Mr. Inglis resided during the years following his return from India, as recounted in the family's history. However, it does mention that after his return from India in 1857, he brought his family home on three years' furlough, and that he was sent to Bareilly to take part in the suppression of the Mutiny in 1858. \n\nIt also mentions that in 1868, he was made a member of the Board of Revenue in the North-West Provinces, and that from 1875 to 1877, he was Chief Commissioner of Oude. \n\nHowever, it does not provide information on where he resided during the years following his return from India, specifically after 1868.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about Mr. Inglis's residence after his return from India, which is clearly stated in the Gold Answer as Edinburgh. While the Model Answer is faithful to the context and provides accurate details about Mr. Inglis's career, it does not include the key fact of his residence in Edinburgh, missing the central point of the question."
+  }
+}

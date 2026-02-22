@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001676",
+  "question": "Between a genus of flowering shrubs and small trees distributed across tropical and subtropical regions worldwide and a genus of trees and shrubs known for their fragrant resinous bark, which encompasses the greater number of species?",
+  "gold_answer": "Myrsine",
+  "llm_answer": "The context does not mention any genus of trees and shrubs known for fragrant resinous bark, so we cannot compare it.  \nThe only genus described as having worldwide tropical/subtropical distribution is Myrsine, which contains over 280 species.  \nTherefore, based solely on the provided information, Myrsine is the genus with the greater number of species.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Myrsine as the genus with the greater number of species, consistent with the Gold Answer and supported by the context, which states Myrsine contains over 280 species. The Model Answer also notes the absence of information about a genus with fragrant resinous bark, which is accurate based on the retrieved context."
+  }
+}

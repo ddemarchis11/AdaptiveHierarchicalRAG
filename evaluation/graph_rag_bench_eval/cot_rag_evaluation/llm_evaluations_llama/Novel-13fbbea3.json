@@ -1,0 +1,12 @@
+{
+  "id": "Novel-13fbbea3",
+  "question": "Which individual, related to Angeline Hall, was wounded at the Battle of Bull Run during the Civil War?",
+  "gold_answer": "Constant Woodward was wounded at Bull Run.",
+  "llm_answer": "Based on the provided evidence, the individual related to Angeline Hall who was wounded at the Battle of Bull Run during the Civil War is Jasper Woodward, her step-brother.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Constant Woodward was wounded at Bull Run, and the context supports this by describing how Constant was wounded after pausing to take a last shot in revenge. The Model Answer incorrectly identifies Jasper Woodward as the individual wounded at Bull Run, which contradicts both the Gold Answer and the Retrieved Context. Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

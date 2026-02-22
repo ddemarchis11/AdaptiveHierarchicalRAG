@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005853",
+  "question": "Who is the American actress that stars in the movie \"Innocesnce\" and is best known for her role as Alexandra Cabot in a long-running NBC series?",
+  "gold_answer": "Stephanie Caroline March",
+  "llm_answer": "The American actress that stars in the movie \"Innocence\" and is best known for her role as Alexandra Cabot in a long-running NBC series is not directly stated in the provided evidence. However, the evidence does mention that the actress who stars in the movie \"Innocence\" is Esom, a South Korean actress. \n\nThe evidence does not mention the actress who stars in the movie \"Innocence\" as being American.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Esom, a South Korean actress, as the star of 'Innocence,' which is irrelevant to the question. The correct answer, Stephanie Caroline March, is supported by the context but not mentioned in the Model Answer. The Model Answer fails to address the question and is not grounded in the retrieved context."
+  }
+}

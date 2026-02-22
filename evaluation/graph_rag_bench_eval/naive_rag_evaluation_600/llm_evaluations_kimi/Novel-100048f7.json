@@ -1,0 +1,12 @@
+{
+  "id": "Novel-100048f7",
+  "question": "How is the character of Augustin involved in the sequence between Sir Tristram and The Dean’s family?",
+  "gold_answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean, The Dean is father of Sheba.",
+  "llm_answer": "Augustin is the Dean of St. Marvells—i.e. “the Dean” himself—so every reference to “the Dean” is a reference to him.  \nIn the stretch of play that concerns Sir Tristram and the Dean’s household, Augustin is therefore:\n\n- the absent father whose unexplained disappearance the night before has upset the household;  \n- the owner (through Georgiana’s secret arrangement) of half of the race-horse Dandy Dick, the very horse Sir Tristram has come to run at the Durnstone meeting;  \n- the person whose supposed “suicide” is momentarily theorised by Noah;  \n- the clergyman whose dignity and authority are being undermined by the racing activities of his sister Georgiana and his daughters Sheba and Salome;  \n- the prospective brother-in-law of Sir Tristram, who is engaged to Georgiana.\n\nThus Augustin/“the Dean” is the pivotal figure whose domestic authority and personal reputation are at stake in the comic conflict between Sir Tristram and the rest of the family.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Augustin as 'The Dean' and elaborates on his involvement in the sequence, including his familial relationships, his connection to the racehorse Dandy Dick, and the comic conflict surrounding his authority and reputation. All details provided are relevant, supported by the retrieved context, and consistent with the core truth of the Gold Answer."
+  }
+}

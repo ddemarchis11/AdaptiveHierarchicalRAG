@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8217a825",
+  "question": "According to the narrative's description of coastal towns, near which location is the town of Falmouth situated?",
+  "gold_answer": "Falmouth is located near FLUSHING.",
+  "llm_answer": "The context does not specify the exact location of Falmouth, but it places the town in the Lizard district of Cornwall, describing its coastal features and land divisions.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly address the question about Falmouth's location near Flushing, as stated in the Gold Answer. Furthermore, the retrieved context does not provide any information about Falmouth's location or its proximity to Flushing, making the Model Answer ungrounded and irrelevant to the question."
+  }
+}

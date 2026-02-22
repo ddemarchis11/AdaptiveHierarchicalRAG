@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0c731c0a",
+  "question": "Within the narrative’s examination of national sentiment, on what fundamental point are Englishmen portrayed as being in agreement?",
+  "gold_answer": "Englishmen are agreed that England itself shall not be subject to foreign rule.",
+  "llm_answer": "Englishmen are portrayed as unanimously agreeing that England itself must never be subjected to foreign rule.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Englishmen agree England must not be subjected to foreign rule. This is fully supported by the retrieved context, which explicitly mentions this sentiment. The Model Answer also includes all key facts from the Gold Answer without omission or contradiction."
+  }
+}

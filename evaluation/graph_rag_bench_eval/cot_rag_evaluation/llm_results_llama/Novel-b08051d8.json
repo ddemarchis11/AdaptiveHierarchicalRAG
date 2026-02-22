@@ -1,0 +1,42 @@
+{
+  "id": "Novel-b08051d8",
+  "question": "According to the subgraphs, how is potash involved in the manufacturing of telescopes?",
+  "gold_answer": "Potash is used for making glass, which is then used to make telescopes.",
+  "llm_answer": "There is no information in the provided evidence about potash being involved in the manufacturing of telescopes.",
+  "context": [
+    {
+      "text": "pounds of excellent potash soap. If this soap is made with tallow or grease it will be nearly as hard as soda soap. When made by farmers or householders tallow or grease will generally be taken, as it is the cheapest, and ready to hand on the spot. For manufacturers, or for making laundry soap, nothing could be better than cotton seed oil. A magnificent soap can be made with this article, lathering very freely. When made with oil it is better to remelt in a kettle the potash soap, made according to the above directions, with half its weight of water, using very little heat, stirring constantly, and removing the fire as soon as the water is mixed with and taken up by the soap. A beautifully bright soap is obtained in this way, and curiously the soap is actually made much harder and stiffer by this addition of water than when it is in a more concentrated state previously to the water being added. With reference to the caustic potash for making the soap, it can be obtained in all sizes of drums, but small packages just sufficient for a batch of soap are generally more economical than larger packages, as pure caustic potash melts and deteriorates very quickly when exposed to the air. The Greenbank Alkali Co., of St. Helens, seems to have appreciated this, and put upon the market pure caustic potash in twenty pound canisters, which are very convenient for potash soft soap",
+      "id": "Novel-8559_c_80"
+    },
+    {
+      "text": "potash soap, suitable either for the woolen manufacturer for washing his wool, and the cloth afterward made from it, or for household and laundry purposes, for which uses it will be found far superior to any soda soap, no matter how pure or well made it may be. Dissolve twenty pounds of pure caustic potash in two gallons of water. Pure caustic potash is very soluble, and dissolves almost immediately, heating the water. Let the lye thus made cool until warm to the hand--say about 90 F. Melt eighty pounds of tallow or grease, which must be free from salt, and let it cool until fairly hot to the hand--say 130 F.; or eighty pounds of any vegetable or animal oil may be taken instead. Now pour the caustic potash lye into the melted tallow or oil, stirring with a flat wooden stirrer about three inches broad, until both are thoroughly mixed and smooth in appearance. This mixing may be done in the boiler used to melt the tallow, or in a tub, or half an oil barrel makes a good mixing vessel. Wrap the tub or barrel well up in blankets or sheepskins, and put away for a week in some warm dry place, during which the mixture slowly turns into soap, giving a produce of about 120 pounds of excellent potash soap. If this soap is made with tallow or grease it will be nearly as hard as soda soap. When made",
+      "id": "Novel-8559_c_79"
+    },
+    {
+      "text": "have appreciated this, and put upon the market pure caustic potash in twenty pound canisters, which are very convenient for potash soft soap making by consumers for their own use. While on this subject of caustic potash, it cannot be too often repeated that _caustic potash_ is a totally different article to _caustic soda_, though just like it in appearance, and therefore often sold as such. One of the most barefaced instances of this is the so-called \"crystal potash,\" \"ball potash,\" or \"rock potash,\" of the lye packers, sold in one pound packages, which absolutely, without exception, do not contain a single grain of potash, but simply consist of caustic soda more or less adulterated--as a rule very much \"more\" than \"less!\" It is much to be regretted that this fraud on the public has been so extensively practiced, as potash has been greatly discredited by this procedure. The subject of fleece scouring or washing the wool while growing on the sheep, with a potash soap made on the spot with the waste tallow generally to be had on every sheep farm, seems recently to have been attracting attention in some quarters, and certainly would be a source of profit to sheep owners by putting their wool on the market in the best condition, and at the same time cleaning the skin of the sheep. It therefore appears to be a move in",
+      "id": "Novel-8559_c_81"
+    },
+    {
+      "text": "be gained by the use of potash soap as compared with soda soap were pointed out, and the reasons of this superiority, especially in the case of washing wool or woolen fabrics, were pretty fully gone into. It was also further explained why the potash soaps generally sold to the public were unfit for general use, owing to their not being neutral--that is to say, containing a considerable excess of free or unsaponified alkali, which acts injuriously on the fiber of any textile material, and causes sore hands if used for household or laundry purposes. It was shown that the cause of this defect was owing to the old-fashioned method of making potash or soft soap, by boiling with wood ashes or other impure form of potash; but that a perfectly pure and neutral potash soap could readily be made with pure caustic potash, which within the last few years has become a commercial article, manufactured on a large scale; just in the same manner as the powdered 98 per cent. caustic soda, which was recommended in our previous articles on making hard soap without boiling. The process of making pure neutral potash soap is very simple, and almost identical with that for making hard soap with pure powdered caustic soda. The following directions, if carefully and exactly followed, will produce a first-class potash soap, suitable either for the woolen manufacturer for washing his wool, and the cloth afterward made from it, or for household and laundry",
+      "id": "Novel-8559_c_78"
+    },
+    {
+      "text": "that this explanation is not in all cases admissible. A specimen of black or rather dark gray phosphorus, which the author submitted to the Academy, became white if melted and remained white if suddenly cooled, but if allowed to enter into a state of superfusion it became again black on contact with either white or black phosphorus. A portion of the black specimen being dissolved in carbon disulphide there remained undissolved merely a trace of a very pale yellow matter which seemed to be amorphous phosphorus.--_Comptes Rendus_. COMPOSITION OF STEEP WATER. According to M. C. Leeuw, water in which malt has been steeped has the following composition: Organic matter. 0.56 per cent. Mineral matter. 0.52 \" ---- Total dry matter. 1.08 \" ---- Nitrogen. 0.033 \" The mineral matter consists of-- Potash. 0.193 \" Phosphoric acid. 0.031 \" Lime. 0.012 \" Soda. 0.047 \" Magnesia. 0.016 \" Sulphuric acid. 0.007 \" Oxide of iron. traces. Chlorine and silica. 0.212 \" SCHREIBER'S APPARATUS FOR REVIVIFYING BONE-BLACK. We give opposite illustrations of Schreiber's apparatus for revivifying bone-black or animal charcoal. The object of revivification is to",
+      "id": "Novel-8559_c_71"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Potash is used to make soap. (Novel-8559_c_79)\n- Potash soap is made by dissolving caustic potash in water and mixing it with tallow or oil. (Novel-8559_c_79)\n- The process of making potash soap is simple and produces a first-class soap. (Novel-8559_c_78)\n- Potash soap is superior to soda soap, especially for washing wool or woolen fabrics. (Novel-8559_c_78)\n- Potash soap can be made with pure caustic potash, which is a commercial article. (Novel-8559_c_78)\n- The use of potash soap has several advantages over soda soap. (Novel-8559_c_78)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the subgraphs, how is potash involved in the manufacturing of telescopes?",
+      "doc_ids": [
+        "Novel-8559_c_80",
+        "Novel-8559_c_79",
+        "Novel-8559_c_81",
+        "Novel-8559_c_78",
+        "Novel-8559_c_71"
+      ]
+    }
+  ]
+}

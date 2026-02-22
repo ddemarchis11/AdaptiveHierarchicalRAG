@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001155",
+  "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+  "gold_answer": "no",
+  "llm_answer": "Based on the provided evidence, it appears that Valeria Sarmiento is indeed an author, specifically a film editor, director, and screenwriter. \n\nHowever, there is no evidence to suggest that Leopold Lummerstorfer is an author. The provided text describes him as a film director, but it does not mention him as an author.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Valeria Sarmiento is an author in the sense of being a film editor, director, and screenwriter, while Leopold Lummerstorfer is not described as an author in the retrieved context. This aligns with the Gold Answer ('no') and is fully supported by the context provided."
+  }
+}

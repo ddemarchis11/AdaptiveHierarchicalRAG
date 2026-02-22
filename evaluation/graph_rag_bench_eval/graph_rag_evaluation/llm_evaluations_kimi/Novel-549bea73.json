@@ -1,0 +1,12 @@
+{
+  "id": "Novel-549bea73",
+  "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+  "gold_answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+  "llm_answer": "The provided context does not mention any connection between government neglect of its wards in Minnesota and Indian protests.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the connection between government neglect in Minnesota and Indian protests. However, it fails to answer the question using internal knowledge or reasoning, which is expected when the context is irrelevant. The Gold Answer provides a clear connection, but the Model Answer does not address it, resulting in low correctness and evidence coverage scores."
+  }
+}

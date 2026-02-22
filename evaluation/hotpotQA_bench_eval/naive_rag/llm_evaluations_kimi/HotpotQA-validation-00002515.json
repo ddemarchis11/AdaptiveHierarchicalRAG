@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002515",
+  "question": "Which Canadian artist is credited with first coming up with the title of Various Positions?",
+  "gold_answer": "Leonard Cohen",
+  "llm_answer": "The evidence provided does not specify which Canadian artist is credited with first coming up with the title *Various Positions*.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the artist credited with the title 'Various Positions,' whereas the Gold Answer clearly identifies Leonard Cohen as the artist. The retrieved context contains sufficient references to Leonard Cohen and his work, supporting the Gold Answer. The Model Answer fails to address the question correctly and does not utilize the context effectively."
+  }
+}

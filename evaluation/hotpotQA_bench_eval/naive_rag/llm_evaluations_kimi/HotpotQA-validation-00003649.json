@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003649",
+  "question": "Are both Papa John's Pizza and Papa Gino's specialized in Pizza?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes.  \nPapa Gino’s “specializ[es] in traditional thin crust pizza,” and Papa John’s is described as “an American pizza restaurant chain” and “the world’s third-largest pizza delivery company.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that both Papa John's and Papa Gino's specialize in pizza, aligning with the Gold Answer. It provides additional context from the retrieved information, such as Papa Gino's focus on thin crust pizza and Papa John's status as a major pizza delivery chain, which are supported by the context. All key facts from the Gold Answer are included."
+  }
+}

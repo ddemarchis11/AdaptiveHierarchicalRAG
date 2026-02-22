@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006114",
+  "question": "Which system of parliament was modeled after the United Kingdom and is also used in Canada?",
+  "gold_answer": "Westminster system",
+  "llm_answer": "The Westminster system.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Westminster system as the parliamentary system modeled after the United Kingdom and used in Canada. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides detailed information about the Westminster system and its adoption in Canada."
+  }
+}

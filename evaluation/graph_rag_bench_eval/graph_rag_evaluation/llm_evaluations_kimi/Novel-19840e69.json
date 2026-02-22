@@ -1,0 +1,12 @@
+{
+  "id": "Novel-19840e69",
+  "question": "According to the narrative, in which region are epidemics stated to occur, as described in the context of disease and climate?",
+  "gold_answer": "Epidemics occur in Yucatan.",
+  "llm_answer": "The context does not explicitly name a region where epidemics occur; it only mentions that small-pox was prevalent in Washington city during the Civil War.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not name a region where epidemics occur, while the Gold Answer specifies Yucatan as the region. The retrieved context does mention epidemics in relation to Yucatan, but the Model Answer fails to address this and instead focuses on small-pox in Washington, which is irrelevant to the question."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007399",
+  "question": "When Copsi was made earl of Northumbria he went back to reside in a town at the confluence of which two rivers?",
+  "gold_answer": "Ouse and Foss",
+  "llm_answer": "I cannot verify the two rivers at which Copsi resided after being made Earl of Northumbria.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information about the confluence of the rivers Ouse and Foss, which is clearly stated in the Gold Answer and supported by the Retrieved Context. It does not attempt to answer the question and incorrectly claims an inability to verify the information."
+  }
+}

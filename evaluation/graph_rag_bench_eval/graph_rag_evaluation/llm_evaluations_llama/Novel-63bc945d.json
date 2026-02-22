@@ -1,0 +1,12 @@
+{
+  "id": "Novel-63bc945d",
+  "question": "How are the legal, familial, and romantic storylines intertwined through the engagement of Roxie Daymon to Simon, Simon's obtaining a promise from Rose Simon, and Governor Morock's offer to arrange testimony for Roxie Daymon?",
+  "gold_answer": "Roxie Daymon was engaged to Simon, Simon obtained a promise from Rose Simon, and Governor Morock offered to arrange the testimony for Roxie Daymon.",
+  "llm_answer": "The legal, familial, and romantic storylines are intertwined through the engagement of Roxie Daymon to Simon, Simon's obtaining a promise from Rose Simon, and Governor Morock's offer to arrange testimony for Roxie Daymon, as they all revolve around Roxie Daymon's inheritance of the Simon estate and her relationships with the Simon family. Roxie's marriage to Simon and her connections to his family members, such as Rose and Suza, are central to the plot, while Governor Morock's offer to arrange testimony for Roxie suggests that the legal aspects of her inheritance are being manipulated for her benefit.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, detailing the engagement of Roxie Daymon to Simon, Simon's promise from Rose Simon, and Governor Morock's offer to arrange testimony for Roxie. However, it introduces additional context about Roxie's inheritance and relationships with the Simon family, which is not explicitly supported by the retrieved context. While the Gold Answer's key facts are mentioned, the Model Answer misses some direct grounding in the provided context, such as the specific details of Simon's promise from Rose Simon and Governor Morock's testimony arrangement."
+  }
+}

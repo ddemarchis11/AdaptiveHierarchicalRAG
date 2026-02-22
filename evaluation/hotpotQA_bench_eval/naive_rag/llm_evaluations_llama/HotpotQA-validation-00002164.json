@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002164",
+  "question": "The first edition of the Dungeons & Dragons Basic Set was written by a professor at what university?",
+  "gold_answer": "University of Southern California",
+  "llm_answer": "The first edition of the Dungeons & Dragons Basic Set was written by a professor at the University of Southern California School of Medicine.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the University of Southern California as the institution where the professor who wrote the first edition of the Dungeons & Dragons Basic Set was affiliated. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly states that John Eric Holmes was an associate professor of neurology at the University of Southern California School of Medicine. The Model Answer also includes the specific school within the university, which is accurate and relevant."
+  }
+}

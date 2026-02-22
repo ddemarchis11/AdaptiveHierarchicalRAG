@@ -1,0 +1,246 @@
+{
+  "id": "HotpotQA-validation-00001629",
+  "question": "Who was born earlier — a contemporary Malayalam film actor known for comedic supporting roles, or a Belgian-born French silent film director active in the early twentieth century?",
+  "gold_answer": "Jacques Feyder",
+  "llm_answer": "Based on the provided context, the Belgian-born French silent film director, Jacques Feyder, was born on July 21, 1885. The contemporary Malayalam film actor, Jin Yi-han, was born on October 10, 1978. Therefore, Jacques Feyder was born earlier.",
+  "context": [
+    {
+      "text": "Jacques Feyder ( French: [fɛ.dɛʁ] ; 21 July 1885 – 24 May 1948) was a Belgian film director, screenwriter and actor who worked principally in France, but also in the US, Britain and Germany. He was a director of silent films during the 1920s, and in the 1930s he became associated with the style of poetic realism in French cinema . He adopted French nationality in 1928. Career Born Jacques Léon Louis Frédérix in Ixelles , Belgium, he was educated at the École régimentaire in Nivelles, and was destined for a military career. At age twenty-five however he moved to Paris where he pursued an interest in acting, first on stage and then in film, adopting the name Jacques Feyder . He joined the Gaumont Film Company and in 1914 he became an assistant director with Gaston Ravel . He started directing films for Gaumont in 1916, but his career was interrupted by service with the Belgian Army from 1917 to 1919 during World War I . Henry Roussel and Albert Préjean (right) in Les Nouveaux Messieurs (1929) After the end of the war, he returned to filmmaking and quickly built a reputation as one of the most innovative directors in French cinema. L'Atlantide (1921) (based on the novel by Pierre Benoit ), and Crainquebille (1922) (from the novel by Anatole France ) were his first major films to achieve public and critical attention. He followed these with Visages d'enfants (filmed in 1923 but not released until 1925) which proved to be one of his most personal and enduring films. Shortly after this, Feyder was offered a post as artistic director of a new film company, Vita Films, in Vienna, along with a contract to make three films. He made Das Bildnis ( L'Image ) (1923), but the company failed and he returned to Paris. He re-established himself with Gribiche (1926) and the literary adaptations of Carmen (1926) and Thérèse Raquin (1928). He also contributed screenplays of films for other directors, notably Poil de carotte (1925) for Julien Duvivier , and Gardiens de phare (1929) for Jean Grémillon . His last silent film in France was Les Nouveaux Messieurs , a topical political satire which provoked calls for it to be banned in France for \"insulting the dignity of parliament and its ministers\". By this time Feyder had accepted an offer from MGM to work in Hollywood, where in 1929 his first project was directing Greta Garbo in The Kiss , her last silent film. It was in Hollywood that he made the transition to sound films;",
+      "id": "HotpotQA-validation-00001629/01_Jacques-Feyder.html_c_0",
+      "doc_id": "HotpotQA-validation-00001629/01_Jacques-Feyder.html",
+      "community_id": 3,
+      "score": 42.694557
+    },
+    {
+      "text": "Nicolas Kim Coppola (born January 7, 1964), known professionally as Nicolas Cage , is an American actor and film producer. He is the recipient of various accolades , including an Academy Award , a Screen Actors Guild Award , and a Golden Globe Award as well as nominations for two BAFTA Awards . Known for his versatility as an actor, Cage's work across diverse film genres has gained him a significant cult following . Films in which he has appeared have grossed over $6.4 billion worldwide. Born into the Coppola family , Cage began his career in films such as Fast Times at Ridgemont High (1982) and Valley Girl (1983), as well as various films by his uncle Francis Ford Coppola such as Rumble Fish (1983), The Cotton Club (1984), and Peggy Sue Got Married (1986). He received critical success for his roles in Moonstruck and Raising Arizona (both 1987), before earning an Academy Award for Best Actor for the dramatic film Leaving Las Vegas (1995). He was Oscar-nominated for playing twins Charlie and Donald Kaufman in the comedy-drama film Adaptation (2002). Cage established himself in mainstream action films, such as The Rock (1996), Con Air (1997), Face/Off (1997), Gone in 60 Seconds (2000), the National Treasure film series (2004–2007), the Ghost Rider film series (2007–2011), and Kick-Ass (2010). He also took on dramatic roles in City of Angels (1998), Bringing Out the Dead (1999), The Family Man (2000), Matchstick Men (2003), and The Wicker Man (2006), voiced characters in The Ant Bully (2006), Astro Boy (2009), The Croods film series (2013–2020), Teen Titans Go! To the Movies (2018), and played Spider-Man Noir in Spider-Man: Into the Spider-Verse (2018), Spider-Noir (2026), and Spider-Man: Beyond the Spider-Verse (2027). He earned renewed critical recognition for his starring roles in Mandy (2018), Pig (2021), The Unbearable Weight of Massive Talent (2022), Dream Scenario (2023) and Longlegs (2024). Cage owns the production company Saturn Films and has produced films such as Shadow of the Vampire (2000) and The Life of David Gale (2003), and has directed Sonny (2002). For his contributions to the film industry, he was inducted into the Hollywood Walk of Fame in 1998. He was ranked No. 40 in Empire magazine's The Top 100 Movie Stars of All Time list in 2007 and was placed No. 37 in Premiere ' s 100 Most Powerful People in Hollywood in 2008. Nicolas Cage was also voted one of the 50 greatest actors",
+      "id": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_c_0",
+      "doc_id": "HotpotQA-validation-00001559/00_Nicolas-Cage.html",
+      "community_id": 1,
+      "score": 29.298807
+    },
+    {
+      "text": "Nicolas Kim Coppola (born January 7, 1964), known professionally as Nicolas Cage , is an American actor and film producer. He is the recipient of various accolades , including an Academy Award , a Screen Actors Guild Award , and a Golden Globe Award as well as nominations for two BAFTA Awards . Known for his versatility as an actor, Cage's work across diverse film genres has gained him a significant cult following . Films in which he has appeared have grossed over $6.4 billion worldwide. Born into the Coppola family , Cage began his career in films such as Fast Times at Ridgemont High (1982) and Valley Girl (1983), as well as various films by his uncle Francis Ford Coppola such as Rumble Fish (1983), The Cotton Club (1984), and Peggy Sue Got Married (1986). He received critical success for his roles in Moonstruck and Raising Arizona (both 1987), before earning an Academy Award for Best Actor for the dramatic film Leaving Las Vegas (1995). He was Oscar-nominated for playing twins Charlie and Donald Kaufman in the comedy-drama film Adaptation (2002). Cage established himself in mainstream action films, such as The Rock (1996), Con Air (1997), Face/Off (1997), Gone in 60 Seconds (2000), the National Treasure film series (2004–2007), the Ghost Rider film series (2007–2011), and Kick-Ass (2010). He also took on dramatic roles in City of Angels (1998), Bringing Out the Dead (1999), The Family Man (2000), Matchstick Men (2003), and The Wicker Man (2006), voiced characters in The Ant Bully (2006), Astro Boy (2009), The Croods film series (2013–2020), Teen Titans Go! To the Movies (2018), and played Spider-Man Noir in Spider-Man: Into the Spider-Verse (2018), Spider-Noir (2026), and Spider-Man: Beyond the Spider-Verse (2027). He earned renewed critical recognition for his starring roles in Mandy (2018), Pig (2021), The Unbearable Weight of Massive Talent (2022), Dream Scenario (2023) and Longlegs (2024). Cage owns the production company Saturn Films and has produced films such as Shadow of the Vampire (2000) and The Life of David Gale (2003), and has directed Sonny (2002). For his contributions to the film industry, he was inducted into the Hollywood Walk of Fame in 1998. He was ranked No. 40 in Empire magazine's The Top 100 Movie Stars of All Time list in 2007 and was placed No. 37 in Premiere ' s 100 Most Powerful People in Hollywood in 2008. Nicolas Cage was also voted one of the 50 greatest actors",
+      "id": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_c_0",
+      "doc_id": "HotpotQA-validation-00007198/00_Nicolas-Cage.html",
+      "community_id": 1,
+      "score": 29.298807
+    },
+    {
+      "text": "Shaheed K. Woods (born Shaheed Kamal Jihad Woods) is an American actor, comedian born and raised in Jersey City, New Jersey . He is best known for A Gentleman , Midnight Delight , Life! Camera Action... earning him accolades. Early life Woods grew up in Jersey City and attended Fred W. Martin Elementary school. Acting career Woods first came to prominence with his lead role in Life! Camera Action... playing as Mike for which he won his first international award for the 'Best Supporting Lead Actor'. He first took to acting in theater, having done several local plays including 'Underneath It All' at Newark Symphony Hall . Having performed at several venues, members of the Newark art scene have dubbed him \"The Beacon of Light\". One performance was a fundraiser benefit for the documentary \"Face of Darkness\" hosted by Kenneth Todd Nelson and Squeaky Moore. After performing in several short films, he met filmmaker Rohit Gupta on the set of a short directed by a fellow alum of the New York Film Academy . It was then that they formed their friendship, and began discussing a short film project which ended up as the critically acclaimed film Life! Camera Action... marking Woods debut as lead in a feature. Woods took to directing with the short play \"Off the Bridge\" written by Akua Doku. He then was selected to direct a reading with an all female ensemble cast titled \"Rebirth of the Black Woman\" in New York. He has also worked with Playwright Carol White several short plays. Any Minute Now, written by White, won first place in the Short Play Lab at Roy Arias studios in Manhattan. He has worked in the background on Pariah with Dee Rees and played the role of Meat in the pilot of an upcoming series titled \"Boys and Girls\". Woods went to gain further acclaim with his lead role in the cult-comedy Midnight Delight winning acclaim and awards. He features in three vignettes in the film including \"Epiphanation\", \"Free Will\" and the voice of mouse as the main character in the \"Animation\" vignette of the film. Woods got noticed in Life! Camera Action... & Midnight Delight and was offered a prominent role by Fox Star Studios to feature in a Bollywood film A Gentleman which released worldwide on 25 August 2017. Filmography Television Accolades Won, Best Supporting Actor - Life! Camera Action... @ 28th Goldie Film Awards, USA. Nominated, Best Supporting Actor - Life! Camera Action... @ Golden Door Film Festival , USA. References External links Shaheed K. Woods at IMDb",
+      "id": "HotpotQA-validation-00000645/03_Shaheed-Woods.html_c_0",
+      "doc_id": "HotpotQA-validation-00000645/03_Shaheed-Woods.html",
+      "community_id": 0,
+      "score": 28.003023
+    },
+    {
+      "text": "Tom Terriss (1921) My Country First (1916) Thomas Herbert F. Lewin (28 September 1872 – 8 February 1964), known professionally as Tom Terriss , was a British actor, screenwriter, and film director. After trying various occupations, he became an actor playing a variety of roles, beginning in 1890, in plays, pantomime and Edwardian musical comedy . After the First World War , he left the stage and pursued a decade-long film career. He was the brother of the musical comedy star Ellaline Terriss and son of leading man actor William Terriss . Life and career Terriss was born in Barnes, London , son of the actor William Terriss and his wife Isabel (née Lewis). He was educated at Christ's Hospital , and being, in his own words, \"like his father before him … of roving disposition\", he tried several occupations before becoming an actor. He was an apprentice at sea, a sheep farmer in Australia, a miner in Colorado, and a clerk on the London Stock Exchange. His sister, Ellaline Terriss , became one of the most famous musical theatre stars of the day. He made his first appearance on the professional stage at the Globe Theatre in March 1890, as Osric in Hamlet with F.R. Benson 's company. In May of the same year he began a three-year association with the Theatre Royal, Drury Lane , playing first in Paul Kauvar and then A Million of Money , The Prodigal Daughter (1892), and three pantomimes . Over the next decade he played in a range of productions from musical comedies such as The Shop Girl to melodrama including The Colleen Bawn . In 1902 he went to the US, where he remained for four years, appearing in musical comedies under the managements of Charles Frohman and others. He returned to the West End stage in 1906, taking over the role of Mr Beverley in The Beauty of Bath in which his sister Ellaline starred in the title role. During 1909 Terriss toured in the US and the UK in The Vampire , and in 1910–11 he made another American tour in Scrooge . During 1913–15 he played in Britain in three Dickens adaptations: A Christmas Carol , A Tale of Two Cities , and Nicholas Nickleby . After that he abandoned the stage for a film career, becoming a director for Vitagraph Pictures . Filmography Charlie Chaplin and Tom Terris in Sunnyside (1919) The Mystery of Edwin Drood (1914) The Fettered Woman (1917) The Song of the Soul (1918) Everybody's Girl (1918) The Woman Between Friends (1918) The Captain's Captain (1919) The Lion and the Mouse (1919) The Cambric Mask (1919) The",
+      "id": "HotpotQA-validation-00000511/02_Tom-Terriss.html_c_0",
+      "doc_id": "HotpotQA-validation-00000511/02_Tom-Terriss.html",
+      "community_id": 1,
+      "score": 27.396997
+    },
+    {
+      "text": "Jin Yi-han ( Korean : 진이한 ) (born Kim Hyun-Joong on October 10, 1978) is a South Korean actor. He began his acting career in 2002 in musical theatre , notably in Footloose . Jin soon branched out into television, and among his leading roles were in critically acclaimed Conspiracy in the Court (2007), family drama My Life's Golden Age (2008), daily drama Happiness in the Wind (2010), sitcom You're Here, You're Here, You're Really Here (2011), and mystery-romance My Secret Hotel (2014). He also played supporting roles in Who Are You? (2008), Bravo, My Love! (2011), Dr. Jin (2012), and Empress Ki (2013). On September 23, 2016, Jin Yi-han changed his stage name to Kim Ji-han. Filmography Television series Film Variety show Music video Theater Awards and nominations References External links Jin Yi-han on Instagram Jin Yi-han at HanCinema Jin Yi-han at the Korean Movie Database Jin Yi-han at IMDb",
+      "id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html",
+      "community_id": 0,
+      "score": 27.288183
+    },
+    {
+      "text": "Sathish Kalathil is an Indian film and documentary director and producer in Malayalam . His debut movie Jalachhayam (2010) was well discussed His first film was Veenavaadanam (2008), an experimental documentary about art (painting). He is also a story writer, poet, lyricist and journalist. Personal life Sathish was born to K. P. Sankaran and K. M. Komalam in Thrissur district of Kerala , India . He is the editor at Prathibhavam online periodical and associate editor at Utthareeyam Magazine . He is also a political leader of Nationalist Congress Party with the post secretary of Nationalist Labour Congress, Kerala , a Labour wing of N.C.P and state working president of Kerala Vazhi Vanibha Sabha ( H.M.S ) union. Filmography Direction Lyrics Sathish penned lyrics for his documentaries, Veenavaadanam and Jnana Saradhi . He has also written Ghazals for a musical documentary film, Arabikadalinte Ghazal Nilavu and Sithaye Suthanuve . He has experimented in song creation using Artificial intelligence and released an audio collection, Kannin Chirakiloru Mazhatthulli. He also released two video albums in the same year, Kadathanadan Thathamma and Pranayathinte neerazhiyil using various AI video generated websites. Sathish has published poems under the Pen Name 'Surya'. Book He wrote the book, ' Laloorinu Parayanullathu (What has Laloor To Say)' Published by Vidyaposhini Publications, Thrissur. Career Sathish started the news magazine Prathibhavam in 2000.  ,  He established a trust in 2010, Digital Film Makers Forum (D.F.M.F.), to help amateur digital filmmakers make and promote digital films. The trust intervened against the termination of Sree Rama Varma Music School in 2013 and made many protests for the survival of the school. References External links Wikimedia Commons has media related to Sathish Kalathil . Sathish Kalathil at IMDb Official Website D.F.M.F Trust Prathibhavam Magazine",
+      "id": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_c_0",
+      "doc_id": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html",
+      "community_id": 0,
+      "score": 26.33288
+    },
+    {
+      "text": "in Bigg Boss Kannada 4 along with Rishika Singh , Tsunami Kitty, N. C. Ayyappa and Bigg Boss Kannada 3 winner Shruti . She also was a part of box cricket league where she was a player for the team Davangere Lions, which emerged runners up. Early life Neethu was born in Mangalore , in the Karnataka State of India. Her father, Manjunath Shetty, was from the Bunt community and her mother, Mohini is from a Konkani speaking family. Neethu has a younger sister. They grew up and were educated in Mangalore. Her father died in 2011.  Filmography Note: all films are in Kannada, unless otherwise noted. Television Awards and nominations Wikimedia Commons has media related to Neethu . References External links Neethu at IMDb",
+      "id": "HotpotQA-validation-00005631/02_Neethu.html_c_1",
+      "doc_id": "HotpotQA-validation-00005631/02_Neethu.html",
+      "community_id": 1,
+      "score": 24.657328
+    },
+    {
+      "text": "Cedric Antonio Kyles (born April 24, 1964), known professionally as Cedric the Entertainer , is an American stand-up comedian, actor and television host. He hosted BET 's ComicView during the 1993–1994 season and Def Comedy Jam in 1995. He is best known for co-starring with Steve Harvey on The WB sitcom The Steve Harvey Show , as one of The Original Kings of Comedy , and for starring as Eddie Walker in Barbershop . He starred in the TV Land original series The Soul Man , which aired from 2012–16 and hosted the 12th season of the daytime version of Who Wants to Be a Millionaire from 2013–14 . He has also done voice work for Ice Age , the Madagascar film series, Charlotte's Web , Planes and Planes: Fire & Rescue . He currently stars on the CBS sitcom The Neighborhood . In 2019, he received a star on the Hollywood Walk of Fame . Early life Cedric was born on April 24, 1964, in Jefferson City, Missouri , the son of Rosetta (née Boyce), a schoolteacher, and Kittrell Kyles, an employee of the Missouri Pacific Railroad . He has a younger sister, Sharita Kyles Wilson, a communications professor at Pepperdine University in Malibu, California . Cedric was raised in Caruthersville, Missouri , but after junior high school he moved to Berkeley, Missouri , a northern suburb of St. Louis . He is a graduate of Berkeley High School . Cedric majored in mass communication at Southeast Missouri State University and worked as a State Farm Insurance claims adjuster and substitute high school teacher before becoming a full-time comedian. He is a member of Kappa Alpha Psi . Career Cedric's stage name came about when he felt that his real name, Cedric Kyles, sounded too formal. Inspired by an entertainer named Kodak, he came up with the name \"Cheerio\", but received a cease and desist letter from General Mills over their cereal Cheerios . He settled on his stage name when someone introduced him as \"an entertainer, Cedric the entertainer\" and the name stuck. After appearing on It's Showtime at the Apollo in 1992, Cedric hosted BET 's ComicView during the 1993–1994 season, and Def Comedy Jam in 1995. He then moved into acting, auditioning for and receiving his first-ever role as The Cowardly Lion in the 1995 Apollo Theater Revival of The Wiz . He expanded his career by playing Steve Harvey 's friend Cedric Jackie Robinson on The Steve Harvey Show . While his acting career grew, Cedric continued to perform stand-up comedy and traveled the country as one of the Kings of Comedy headliners with Steve Harvey, D. L. Hughley and Bernie Mac . The act was later made into",
+      "id": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_c_0",
+      "doc_id": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html",
+      "community_id": 1,
+      "score": 23.573206
+    },
+    {
+      "text": "Neethu , also known as Neethu Shetty , is an Indian actress who predominantly appears in Kannada -language films and a few Tulu and Malayalam films. She won acclaim and praise for movies like Joke Falls (2004), Beru (2005), Photographer (2006), Koti Chennaya (2007), Gaalipata (2008), Krishna Nee Late Aagi Baaro (2009) and many others. She has done cameos in other successful movies like Abhinetri and Fair & Lovely . Neethu is also socially active and recently studied Dream Tracking and is currently practicing it. With a career spanning over 2 decades, she has been a part of 35+ movies and many television projects. Career Neethu Shetty acted in Punya , a serial directed by Nagathihalli Chandrashekhar and made her debut through the Jaggesh and Komal-starrer Govinda Gopala and then went on to act in a horror flick Yahoo , which was an average grosser. Her first commercially successful movie was Joke Falls , where she was paired alongside Ramesh Aravind , which was positively reviewed, and was directed by Ashok Patil. She then starred in the movie Beru , directed by P. Sheshadri, which received many accolades such as National Film Award for Best Feature Film in Kannada and Karnataka State Film Award for Best Film . She made her Malayalam debut alongside Mohanlal in the Malayalam film Photographer . She is a recipient of the Karnataka State Film Award for Best Supporting Actress for her performance in the Tulu language film Koti Chennaya . Her performance in her next movie, Poojari , opposite Aadhi Lokesh, brought her closer to the Kannada audience. She received positive reviews for her performance in the 2008 movie Gaalipata , which was a multi-starrer and a blockbuster hit. She received a Filmfare Award for Best Supporting Actress – Kannada nomination. She later starred in films which some were successful, like Krishna Nee Late Aagi Baaro , Abhinetri and a few others. She also starred in movies such as Aithalakkadi and others that received negative reviews and failed at the box office. She was a contestant in Bigg Boss Kannada 2 , where she survived 80 days, hence becoming the first contestant in the history of Bigg Boss Kannada to be kept in a \"secret room\". She was a part of the comedy show Bengaluru Benne Dose alongside Arun Sagar . She later appeared as a guest in Bigg Boss Kannada 4 along with Rishika Singh , Tsunami Kitty, N. C. Ayyappa and Bigg Boss Kannada 3 winner Shruti . She also was a part of box cricket league where she was a player for the team Davangere Lions,",
+      "id": "HotpotQA-validation-00005631/02_Neethu.html_c_0",
+      "doc_id": "HotpotQA-validation-00005631/02_Neethu.html",
+      "community_id": 1,
+      "score": 23.390823
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00005631/02_Neethu.html_1",
+      "summary": "**Title**: Neethu Shetty Filmography\n\n**Summary**: Neethu Shetty is a prolific Indian actress known for her extensive work in Kannada cinema, with additional appearances in Tulu and Malayalam films. Over her two-decade career, she has starred in more than 35 films, earning critical acclaim and awards including the Karnataka State Film Award for Best Supporting Actress for the Tulu film *Koti Chennaya*. Her notable performances span hits like *Joke Falls*, *Beru*, *Photographer*, and *Gaalipata*, while her television presence includes reality shows such as *Bigg Boss Kannada 2* and *Bengaluru Benne Dose*. Born in Mangalore to a Bunt father and Konkani-speaking mother, Neethu remains active in both film and television.\n\n**Keywords**: Kannada cinema, Neethu Shetty, film awards, Bigg Boss Kannada, Tulu films",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000511/02_Tom-Terriss.html_1",
+      "summary": "**Title**: Tom Terriss Filmography & Career\n\n**Summary**:  \nTom Terriss (born Thomas Herbert F. Lewin, 1872–1964) transitioned from a varied pre-theatre life—sailor, Australian sheep farmer, Colorado miner, and London stock clerk—into a prolific Edwardian stage career before becoming a silent-era film director and actor. After debuting in 1890 at the Globe Theatre and spending years in West End musical comedies and American tours, he abandoned the stage post-WWI for Hollywood, directing more than thirty features for Vitagraph and other studios between 1914 and 1929. Notable titles include “The Fettered Woman,” “Sunnyside,” and “The Heart of Maryland,” with his final credited film appearance in 1935.\n\n**Keywords**:  \nTom Terriss, silent film director, Vitagraph Pictures, Edwardian actor, Terriss family",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001629/01_Jacques-Feyder.html_3",
+      "summary": "**Title**: Jacques Feyder’s Cinematic Legacy\n\n**Summary**:  \nJacques Feyder was a pioneering Belgian-French director whose career spanned silent and early sound cinema, noted for his commitment to realism and poetic storytelling. His films explored recurring themes such as unattainable love, the tension between perception and reality, and maternal devotion, often realized through meticulous visual composition and strong collaborations with actors and designers like Lazare Meerson. After early success in France, Feyder worked in Hollywood, Germany, and Britain, adapting to sound cinema and directing multilingual versions of films. His mid-1930s French works, especially *Le Grand Jeu*, *Pension Mimosas*, and *La Kermesse héroïque*, helped define poetic realism and influenced future filmmakers like Marcel Carné. Despite critical neglect post-WWII, Feyder’s craftsmanship and international scope mark him as a key transitional figure in European film history.\n\n**Keywords**:  \nJacques Feyder, poetic realism, French cinema, silent to sound transition, La Kermesse héroïque",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "summary": "**Title**: Kim Ji-han Actor Profile\n\n**Summary**: Kim Ji-han, born Kim Hyun-Joong in 1978 and formerly known as Jin Yi-han, is a South Korean actor who began in musical theatre in 2002 with *Footloose*. He transitioned to television, earning acclaim for lead roles in *Conspiracy in the Court* (2007), *My Life's Golden Age* (2008), *Happiness in the Wind* (2010), and *My Secret Hotel* (2014), while also appearing in supporting roles in series like *Empress Ki* (2013). He officially changed his stage name to Kim Ji-han in September 2016.\n\n**Keywords**: Kim Ji-han, Jin Yi-han, Korean actor, television dramas, stage name change",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "summary": "**Title**: Robin Chalk Acting Career\n\n**Summary**: Robin Chalk is an English actor active in film, theatre, and video games, best known for playing Neil Kellerman in the West End production of *Dirty Dancing* and serving as Sam Rockwell’s body double in Duncan Jones’ sci-fi film *Moon*. After studying Social Anthropology at the University of Edinburgh, he performed in fringe productions such as *Young Woodley* and *Tea and Sympathy* before transitioning to mainstream roles. His credits span stage, screen, and interactive media, including voice work for *Until Dawn* and *Need for Speed: Payback*.\n\n**Keywords**: Robin Chalk, West End, Moon, Dirty Dancing, actor",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "summary": "**Title**: Park Sung-woong Profile\n\n**Summary**: Park Sung-woong is a South Korean actor born in 1973 who debuted in 1997’s “No. 3” and gained fame for gangster roles in “New World” (2013) and serial-killer portrayals in “The Deal” (2015). He married actress Shin Eun-jung in 2008 after playing on-screen lovers in the 2007 drama “The Legend”. His career spans film, television series, variety shows, and promotional work, including serving as PR ambassador for the 2022 Dunamu Korea Professional Table Tennis League.\n\n**Keywords**: Park Sung-woong, South Korean actor, New World, The Deal, Shin Eun-jung",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006973/03_Joey-Bishop.html_3",
+      "summary": "**Title**: Joey Bishop Career Overview\n\n**Summary**:  \nJoey Bishop, born Joseph Abraham Gottlieb, was an American comedian, actor, and member of the Rat Pack, best known for his stand-up, television, and film work from the 1950s through the 1990s. He rose to fame as Frank Sinatra’s opening act and became a staple of early television, guest-hosting *The Tonight Show* over 175 times and starring in his own sitcom and late-night talk show. Bishop appeared in numerous films, including *Ocean’s 11* and *Sergeants 3*, often alongside Rat Pack members. His career spanned decades, with his final film role in 1996’s *Mad Dog Time*, directed by his son.\n\n**Keywords**:  \nJoey Bishop, Rat Pack, television host, comedian, Ocean’s 11",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "summary": "**Title**: Sathish Kalathil – Malayalam Filmmaker & Cultural Activist  \n\n**Summary**:  \nSathish Kalathil is a multifaceted Indian artist from Kerala known for pioneering experimental Malayalam cinema and digital documentaries such as *Veenavaadanam* (2008) and *Jalachhayam* (2010). Beyond directing and producing, he writes poetry, lyrics, and journalism, and has embraced AI tools to create music videos and audio collections. As founder of the Digital Film Makers Forum trust and editor of *Prathibhavam* magazine, he champions independent digital filmmaking and has led socio-cultural campaigns, including saving a local music school. Politically active with the Nationalist Congress Party, he also heads its Kerala labour wing and trade-union affiliates.  \n\n**Keywords**:  \nMalayalam cinema, digital documentary, AI-generated music, cultural activism, Kerala filmmaker",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000645/02_Bokuzen-Hidari.html_0",
+      "summary": "**Title**: Bokuzen Hidari Film Career\n\n**Summary**: Bokuzen Hidari (1894–1971) was a celebrated Japanese actor and comedian from Saitama Prefecture, best known for his collaborations with director Akira Kurosawa in classics such as *Seven Samurai*, *The Lower Depths*, and *Ikiru*. He specialized in portraying meek, downtrodden characters and was particularly acclaimed for his realistic drunk performances despite being a teetotaller. Hidari’s work left a lasting impact on Japanese cinema and comedy.\n\n**Keywords**: Bokuzen Hidari, Akira Kurosawa, Seven Samurai, Japanese actor, comedy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000645/03_Shaheed-Woods.html_0",
+      "summary": "**Title**: Shaheed K. Woods Acting Career\n\n**Summary**: Shaheed K. Woods is a Jersey City-born actor and comedian who gained recognition through his award-winning lead role in *Life! Camera Action...*, which marked his transition from local theater to international film. His breakout performances in *Midnight Delight* and the Bollywood film *A Gentleman* expanded his global profile. Beyond acting, Woods has directed acclaimed short plays, including *Off the Bridge* and *Rebirth of the Black Woman*, collaborating with artists like Rohit Gupta and Carol White. His theater roots in Newark, where he was dubbed \"The Beacon of Light,\" laid the foundation for his diverse career spanning indie films and mainstream cinema.\n\n**Keywords**: actor, comedian, Life! Camera Action..., Midnight Delight, theater",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "summary": "**Title**: Cedric the Entertainer Career Highlights\n\n**Summary**:  \nCedric Antonio Kyles, known professionally as Cedric the Entertainer, is a multifaceted American comedian, actor, and television host. He rose to fame through stand-up comedy, notably as part of *The Original Kings of Comedy* alongside Steve Harvey, Bernie Mac, and D.L. Hughley, which was later adapted into a Spike Lee film. Cedric gained widespread recognition for his roles in *The Steve Harvey Show*, the *Barbershop* film series, and as a voice actor in animated hits like *Ice Age*, *Madagascar*, and *Planes*. He has hosted several TV shows, including *Who Wants to Be a Millionaire*, and starred in sitcoms like *The Soul Man* and *The Neighborhood*. His career spans decades and includes awards, voice roles, film appearances, and even a brief stint in professional wrestling and auto racing.\n\n**Keywords**:  \nCedric the Entertainer, stand-up comedy, The Original Kings of Comedy, Barbershop, voice acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career & Legacy\n\n**Summary**:  \nNicolas Cage, born Nicolas Kim Coppola, is an Oscar-winning American actor and producer whose eclectic, genre-spanning career has earned him both blockbuster success and cult-icon status. After changing his name to avoid nepotism, he rose from early roles in *Fast Times at Ridgemont High* and *Valley Girl* to critical acclaim in *Moonstruck* and an Academy Award for *Leaving Las Vegas*. Known for intense, unpredictable performances—termed “mega-acting”—Cage has starred in action hits (*The Rock*, *National Treasure*), indie gems (*Mandy*, *Pig*), and voice roles (*Spider-Verse*, *The Croods*). Beyond acting, he owns Saturn Films, has directed *Sonny*, and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**:  \nOscar winner, versatile actor, cult icon, Coppola family, mega-acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "summary": "**Title**: Actress Allison Miller Profile\n\n**Summary**: Allison Miller is an American actress born in 1985 who rose to prominence through roles in Kings, Terra Nova, Go On, and A Million Little Things. After leaving college in 2006 to pursue acting, she built a diverse television career with recurring parts in series like Incorporated and 13 Reasons Why, along with film appearances in 17 Again and Devil's Due. Raised internationally and fluent in Italian and French, Miller trained in dance and music before establishing herself in Hollywood, where she continues to work in television and film.\n\n**Keywords**: Allison Miller, television actress, Kings, Terra Nova, A Million Little Things",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006035/02_Lady-Harrington.html_0",
+      "summary": "**Title**: 1926 Silent Film Lady Harrington\n\n**Summary**:  \nLady Harrington is a 1926 French silent film adaptation of Maurice Level’s novel, co-directed by Hewitt Claypoole Grantham-Hayes and Fred LeRoy Granville. The drama features Claude France in the title role, supported by Maurice de Féraudy and Warwick Ward, and follows the intrigues surrounding the aristocratic Lady Harrington. The cast list highlights a blend of French and international actors portraying characters entangled in romance and deception within high society.\n\n**Keywords**: silent film, Maurice Level, Claude France, 1926 French cinema, Lady Harrington",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000596/00_Auguste-Brancart.html_0",
+      "summary": "**Title**: Auguste Brancart’s Pornographic Publishing\n\n**Summary**: Auguste Brancart was a 19th-century Belgian publisher specializing in erotic and pornographic literature, best known for the first publication of the anonymous memoir *My Secret Life*. Operating across linguistic markets, he translated English pornography into French and vice versa for London publishers like Edward Avery. Beyond obscenity, he issued avant-garde Decadent works such as Rachilde’s *Monsieur Vénus*. Repeatedly investigated by Belgian police from 1885 onward, Brancart relocated to Antwerp in 1894, only to attract fresh scrutiny in 1895.\n\n**Keywords**: Auguste Brancart, pornographic publishing, My Secret Life, Decadent movement, censorship",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career Overview\n\n**Summary**: Nicolas Cage, born Nicolas Kim Coppola, is an Academy Award-winning American actor and producer whose films have grossed over $6.4 billion worldwide. After changing his name to avoid nepotism claims related to his uncle Francis Ford Coppola, Cage rose from early roles in \"Valley Girl\" and \"Rumble Fish\" to critical acclaim in \"Moonstruck\" and an Oscar win for \"Leaving Las Vegas.\" Known for his versatile and often eccentric acting style described as \"mega-acting,\" Cage has starred in both blockbuster action films like \"The Rock\" and \"National Treasure\" series, as well as acclaimed independent films like \"Mandy\" and \"Pig.\" Beyond acting, he owns Saturn Films, has directed \"Sonny,\" and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**: actor, Academy Award, filmography, Coppola family, versatile performer",
+      "is_seed": false,
+      "expand_score": 0.9472348690032959
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "summary": "**Title**: Nicolas Cage Career Trajectory  \n\n**Summary**:  \nThese chunks trace Nicolas Cage’s evolving reputation from early cult oddities like *Vampire’s Kiss* through his Oscar-winning turn in *Leaving Las Vegas* and subsequent reinvention as a bankable action hero in *The Rock*, *Con Air*, and *Face/Off*. They chart his oscillation between blockbuster franchises (*National Treasure*, *Ghost Rider*) and critically praised off-beat roles (*Adaptation.*, *Bad Lieutenant*), noting periodic box-office disappointments, critical re-evaluations, and forays into independent and genre cinema that keep his status as a polarizing but enduring screen presence.  \n\n**Keywords**:  \nOscar win, action stardom, critical rebounds, cult performances, franchise blockbusters",
+      "is_seed": false,
+      "expand_score": 0.8632423877716064
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career lull, Nicolas Cage rebounded with a string of critically praised, genre-spanning roles from 2018 onward, including Mandy, Pig, Dream Scenario, and Longlegs. He simultaneously embraced self-parody in The Unbearable Weight of Massive Talent and franchise fare like Renfield and The Flash, while preparing to headline the Spider-Noir series. This resurgence has been fueled by his self-devised “Nouveau Shamanic” acting style—an uninhibited, imagination-driven approach that turns even outlandish characters into emotionally resonant performances. Off-screen, Cage remains a prolific producer via Saturn Films and a high-profile philanthropist supporting children’s rights, disaster relief, and humanitarian causes.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror comeback, Pig, Mandy, Saturn Films",
+      "is_seed": false,
+      "expand_score": 0.8136320114135742
+    },
+    {
+      "community_key": "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8",
+      "summary": "**Title:** Jack Nicholson’s Acting Legacy  \n\n**Summary:**  \nJack Nicholson’s career is marked by a series of iconic, psychologically complex roles that showcase his intelligence and improvisational skill, from the unhinged Jack Torrance in *The Shining* to the anti-authoritarian Randle McMurphy in *One Flew Over the Cuckoo’s Nest*. Directors like Kubrick, Forman, and Antonioni praised his ability to embody literate, edgy characters while bringing spontaneity and depth to every performance. Despite frequent Oscar recognition, Nicholson remains modest about his method-acting roots, emphasizing instinct and adaptability over technique. His collaborations with legendary actors and directors, along with memorable turns in films like *Chinatown*, *Terms of Endearment*, and *Batman*, cement his status as one of cinema’s most magnetic and versatile stars.  \n\n**Keywords:**  \nJack Nicholson, method acting, iconic roles, improvisation, Oscar winner",
+      "is_seed": false,
+      "expand_score": 0.7842363119125366
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00005631/02_Neethu.html_1",
+      "HotpotQA-validation-00000511/02_Tom-Terriss.html_1",
+      "HotpotQA-validation-00001629/01_Jacques-Feyder.html_3",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "HotpotQA-validation-00006973/03_Joey-Bishop.html_3",
+      "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "HotpotQA-validation-00000645/02_Bokuzen-Hidari.html_0",
+      "HotpotQA-validation-00000645/03_Shaheed-Woods.html_0",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "HotpotQA-validation-00006035/02_Lady-Harrington.html_0",
+      "HotpotQA-validation-00000596/00_Auguste-Brancart.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00005631/02_Neethu.html_1",
+      "HotpotQA-validation-00000511/02_Tom-Terriss.html_1",
+      "HotpotQA-validation-00001629/01_Jacques-Feyder.html_3",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "HotpotQA-validation-00006409/00_Park-Sung-woong.html_0",
+      "HotpotQA-validation-00006973/03_Joey-Bishop.html_3",
+      "HotpotQA-validation-00001629/00_Sathish-Kalathil.html_0",
+      "HotpotQA-validation-00000645/02_Bokuzen-Hidari.html_0",
+      "HotpotQA-validation-00000645/03_Shaheed-Woods.html_0",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00005853/02_Allison-Miller.html_1",
+      "HotpotQA-validation-00006035/02_Lady-Harrington.html_0",
+      "HotpotQA-validation-00000596/00_Auguste-Brancart.html_0",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "allowed_chunk_pool_size": 58,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

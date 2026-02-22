@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004939",
+  "question": "Where is the American Hockey League, that Dan Frawley played in, located?",
+  "gold_answer": "United States and Canada",
+  "llm_answer": "The American Hockey League (AHL) is located in Springfield, Massachusetts.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the AHL is located in Springfield, Massachusetts, which refers to the league's offices rather than its geographical scope. The Gold Answer correctly identifies the AHL's location as spanning the United States and Canada, which is supported by the Retrieved Context. The Model Answer fails to address the actual question about the league's geographical presence."
+  }
+}

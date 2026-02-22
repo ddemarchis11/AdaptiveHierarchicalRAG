@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006132",
+  "question": "what species of plants are Chamelaucium and Vanilla derived from?",
+  "gold_answer": "flowers",
+  "llm_answer": "Chamelaucium is derived from the species Chamelaucium uncinatum (Geraldton wax).  \nVanilla is derived from the species Vanilla planifolia (flat-leaved vanilla).",
+  "context": [
+    {
+      "text": "Vanilla orchids form the flowering plant genus Vanilla made of about 110 species in the orchid family ( Orchidaceae ). These orchids are found in tropical and subtropical regions worldwide, from tropical America to tropical Asia , New Guinea and West Africa . Five species are known from the contiguous United States, all limited to southern Florida. The most widely known member is the flat-leaved vanilla ( V. planifolia ), native to Mexico and Belize, from which commercial vanilla flavoring is derived. It is the only orchid widely used for industrial purposes in flavoring such products as foods, beverages and cosmetics, and is recognized as the most popular aroma and flavor . The key constituent imparting its flavour is the phenolic aldehyde vanillin . The genus was established in 1754 by Plumier, after J. Miller. The word vanilla , derived from the diminutive of the Spanish word vaina ( vaina itself meaning sheath or pod), simply translates as little pod. Description Flat-leaved vanilla ( Vanilla planifolia ) habitus This genus of vine -like plants has a monopodial climbing habitus . They can form long thin stems with a length of more than 35 m, with alternate leaves spread along their length. The short, oblong, dark green leaves of Vanilla are thick and leathery, even fleshy in some species. But there are also a significant number of species that have their leaves reduced to scales or have become nearly or",
+      "id": "HotpotQA-validation-00006132/03_Vanilla-genus.html_c_0"
+    },
+    {
+      "text": "Chamelaucium , also known as waxflower , is a genus of shrubs endemic to south western Western Australia . They belong to the myrtle family Myrtaceae and have flowers similar to those of the tea-trees ( Leptospermum ). The most well-known species is the Geraldton wax, Chamelaucium uncinatum , which is cultivated widely for its large attractive flowers. Description Plants of the genus Chamelaucium are woody evergreen shrubs ranging from 15 cm (6 in) to 3 m (10 ft) high. The leaves are tiny to medium-sized and arranged oppositely on the stems. They contain oil glands and are aromatic, often giving off a pleasant aroma when crushed. The flowers are small and have five petals, ten stamens, and are followed by small hardened fruit. Taxonomy The genus was first defined by French botanist René Louiche Desfontaines in 1819. The derivation of the name is unclear. They are commonly known as waxplants, or wax flowers from the waxy feel of the petals. Fourteen species are currently recognised within the genus. It gives its name to a number of closely related genera, collectively known as the Chamelaucium alliance within the family Myrtaceae; larger members include Verticordia , Calytrix , Darwinia , Micromyrtus , Thryptomene and Baeckea . Species The following species",
+      "id": "HotpotQA-validation-00006132/00_Chamelaucium.html_c_0"
+    },
+    {
+      "text": "or more leaf nodes, a root opposite each leaf. The two lower leaves are removed, and this area is buried in loose soil at the base of support. The remaining upper roots cling to the support, and often grow down into the soil. Growth is rapid under good conditions.  Cultivars A bottle of vanilla extract Bourbon vanilla or Bourbon-Madagascar vanilla , produced from V. planifolia plants introduced from the Americas, is from Indian Ocean islands such as Madagascar , the Comoros , Mauritius and Réunion , formerly named the Île Bourbon . It is also used to describe the distinctive vanilla flavor derived from V. planifolia grown successfully in tropical countries such as India. However, there is no Bourbon whiskey in Bourbon vanilla extract, despite common confusion about this. Mexican vanilla , made from the native V. planifolia , is produced in much less quantity and marketed as the vanilla from the land of its origin. Tahitian vanilla is from French Polynesia , made with V. tahitensis . Genetic analysis shows this species is possibly a cultivar from a hybrid of V. planifolia and V. odorata . The species was introduced by French Admiral François Alphonse Hamelin to French Polynesia from the Philippines , where it was introduced from Guatemala by the Manila Galleon trade. It comprises less than one percent of vanilla production and is only grown by a handful of skilled growers and preparers. West Indian vanilla is made from V.",
+      "id": "HotpotQA-validation-00006132/01_Vanilla.html_c_9"
+    },
+    {
+      "text": "Chamelaucium roycei N.G.Marchant Chamelaucium uncinatum Schauer – Geraldton waxflower, Geraldton wax Chamelaucium virgatum Endl. Chamelaucium xanthocladum N.G.Marchant Distribution and habitat Restricted to the southwest of Western Australia, Chamelaucium species grow most commonly in heathland communities growing on sand near the coast or inland, and in granite outcrops. Some grow in more semi arid climates. Cultivation In cultivation, they do well in dryer climates with good drainage and sunny aspect. They are hardy to frost and drought, although sensitive to Phytophthora cinnamomi . The best known and most widely cultivated member of the genus by far is C. uncinatum , which is widely grown in gardens across Southern Australia , and for the cut flower industry in the USA and Israel . Chamelaucium uncinatum Chamelaucium ciliatum References \"Chamelaucium uncinatum\" . Australian Native Plants Society (Australia). Archived from the original on 2007-09-01 . Retrieved 2008-04-12 . Wilson, Peter G., O'Brien, Marcelle M., Gadek, Paul A., and Quinn, Christopher J. 2001. \"Myrtaceae Revisited: A Reassessment of Infrafamilial Groups\". American Journal of Botany 88 (11):",
+      "id": "HotpotQA-validation-00006132/00_Chamelaucium.html_c_2"
+    },
+    {
+      "text": ", and pollinia of Vanilla pompona are carried by males of Eulaema cingulata in Peru. Hand pollination is the most reliable method in commercially grown vanilla. Vanilla species are used as food plants by the larvae of some Lepidoptera species, such as the woolly bear moths Hypercompe eridanus and H. icasia . Off-season or when abandoned, they may serve as habitat for animals of open forest, e.g. on the Comoros for Robert Mertens's day gecko ( Phelsuma robertmertensi ). Selected species The taxonomy of the genus Vanilla is complex. This is a partial list of species or synonyms: Pompona vanilla ( Vanilla pompona ) Vanilla albida Vanilla andamanica Vanilla andina Vanilla aphylla Blume – Leafless vanilla Vanilla atropogon Vanilla bahiana Vanilla barbellata – Small bearded vanilla, wormvine orchid, \"leafless vanilla\" Vanilla chamissonis Klotzsch – Chamisso's vanilla Vanilla claviculata – Green withe Vanilla dilloniana – Dillon's vanilla, \"leafless vanilla\" Vanilla edwallii – Edwall's vanilla Vanilla humblotii Vanilla imperialis Vanilla mexicana Mill. – Mexican vanilla Vanilla moonii Vanilla odorata C.Presl Vanilla phaeantha – Leafy vanilla Vanilla phalaenopsis Vanille Sauvage (leafless succulent) Vanilla pilifera",
+      "id": "HotpotQA-validation-00006132/03_Vanilla-genus.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- Chamelaucium is the genus; the text lists species within Chamelaucium e.g. C. uncinatum (HotpotQA-validation-00006132/00_Chamelaucium.html_c_2).\n- Vanilla is the genus; commercial flavor comes from V. planifolia (HotpotQA-validation-00006132/03_Vanilla-genus.html_c_0).\n- Evidence answers “what species” by naming example species for each genus (Novel-xxxxxxxx).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "what species of plants are Chamelaucium and Vanilla derived from?",
+      "doc_ids": [
+        "HotpotQA-validation-00006132/03_Vanilla-genus.html_c_0",
+        "HotpotQA-validation-00006132/00_Chamelaucium.html_c_0",
+        "HotpotQA-validation-00006132/01_Vanilla.html_c_9",
+        "HotpotQA-validation-00006132/00_Chamelaucium.html_c_2",
+        "HotpotQA-validation-00006132/03_Vanilla-genus.html_c_3"
+      ]
+    }
+  ]
+}

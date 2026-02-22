@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001424",
+  "question": "The boxer who lost a light middleweight world title in early 2017 was defeated by a challenger from which U.S. state?",
+  "gold_answer": "Maryland",
+  "llm_answer": "The context does not specify the U.S. state of the challenger who defeated the boxer who lost a light middleweight world title in early 2017.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the U.S. state of the challenger, which is accurate based on the retrieved context. However, the Gold Answer clearly identifies Maryland as the state, which the Model Answer fails to provide. Thus, the answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

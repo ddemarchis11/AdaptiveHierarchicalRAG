@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000668",
+  "question": "In the Star Wars anthology film following a team of resistance fighters tasked with stealing enemy plans, what behind-the-scenes role did Rachelle Amy Beinart fulfil?",
+  "gold_answer": "stunt performances",
+  "llm_answer": "The provided context does not mention Rachelle Amy Beinart or any behind-the-scenes role she fulfilled in Rogue One: A Star Wars Story.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not mention Rachelle Amy Beinart or her role in Rogue One. However, it fails to answer the user's question, which is about her behind-the-scenes role, and does not provide the Gold Answer ('stunt performances'). The retrieved context does not support the Gold Answer, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

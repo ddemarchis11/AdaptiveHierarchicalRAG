@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "Based on the provided evidence, I can determine that Tim Cluess has led the Iona Gaels for a longer period of time than Steve Prohm.\n\nEvidence for Tim Cluess:\n- 2014-2015 season: fifth year head coach\n- 2015-2016 season: sixth year head coach\n\nEvidence for Steve Prohm:\n- 2011-2012 season: first year head coach\n- 2015-2016 season: first year head coach at Iowa State, but it is unclear how many years he was head coach at Murray State before that.",
+  "context": [
+    {
+      "text": "The 2014–15 Iona Gaels men's basketball team represented Iona College during the 2014–15 NCAA Division I men's basketball season . The Gaels, led by fifth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference . They finished the season 26–9, 17–3 in MAAC play to finish win the MAAC regular season championship. They defeated Siena and Monmouth to advance to the championship game of the MAAC tournament where they lost to Manhattan. As a regular season champion who failed to win their conference tournament, they received an automatic bid to the National Invitation Tournament where they lost in the first round to Rhode Island. Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2011–12 Murray State Racers men's basketball team represented Murray State University during the 2011–12 NCAA Division I men's basketball season . The Racers, led by first year head coach Steve Prohm , played their home games at the CFSB Center and were members of the Ohio Valley Conference . They were the Ohio Valley regular season champions and champions of the 2012 OVC Basketball tournament to earn the conference's automatic bid into the 2012 NCAA tournament . This was the Racers 15th tournament appearance. They defeated Colorado State in the second round before falling to Marquette in the third round to finish the season 31–2. Roster Dexter Fields was ineligible this season under NCAA rules as a transfer. After this season, he had two years of eligibility remaining Schedule Rankings References",
+      "id": "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2015–16 Iona Gaels men's basketball team represented Iona College during the 2015–16 NCAA Division I men's basketball season . The Gaels, led by sixth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference (MAAC). They finished the season 22–11, 16–4 in MAAC play to finish in second place. They defeated Canisius , Siena , and Monmouth to be champions of the MAAC tournament and earn the conference's automatic bid to the NCAA tournament where, as a #13 seed, they lost in the first round to Iowa State . Previous season The Gaels finished the 2014–15 season 26–9, 17–3 in MAAC play to win the MAAC regular season championship. Iona lost to Manhattan in the championship game of the MAAC tournament and earned an automatic bid to the National Invitation Tournament . In the NIT, they lost in the first round to Rhode Island . Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results Rankings Awards and honors References",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1"
+    },
+    {
+      "text": "The 2015–16 Iowa State Cyclones men's basketball team represented Iowa State University during the 2015–16 NCAA Division I men's basketball season . The Cyclones were coached by Steve Prohm , who was in his 1st season. They played their home games at Hilton Coliseum in Ames, Iowa and competed in the Big 12 Conference . They finished the season 23–12 10–8 in Big 12 play to finish tied for 5th place. They lost to Oklahoma in the quarterfinals of the Big 12 Conference tournament . They received an at-large bid to the NCAA tournament where they defeated Iona and Little Rock to advance to the Sweet Sixteen where they lost to Virginia . Previous season Iowa State finished the season 25–9, 12–6 in Big 12 play to finish in second place. They defeated Texas , Oklahoma , and Kansas to become champions of the Big 12 Conference tournament to earn and automatic bid to the NCAA tournament . In the NCAA Tournament they were upset by UAB in the second round. After months of speculation, it was announced on June 2, 2015, that Fred Hoiberg would be accepting the head coach position with the Chicago Bulls of the NBA . On June 8, 2015, it was announced that Iowa State would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "New York state politician George Murray Hulbert , New York state politician and judge Herbert Kelcey , actor Steve Levy , New York state politician Sal LoCascio , lacrosse player Josef Maleček , ice hockey player Lewis Smith Parks , United States Navy rear admiral Regis Henri Post , Governor of Puerto Rico Effie Shannon , actress Stephen Edward Smith , businessman, financial analyst , political strategist , and brother-in-law of John F. Kennedy Régis de Trobriand , United States Army . major general during the American Civil War Photos of Bayport Original 1891 uniforms of the Bayport Fire Department Bayport FD previous rescue boat 1971 and 2006 water rescue squad trucks of the Bayport Fire Department. Homan's Creek in Bayport looking south towards Fire Island Photos of Bayport References External links Wikimedia Commons has media related to Bayport, New York .",
+      "id": "HotpotQA-validation-00001692/01_Bayport-New-York.html_c_8"
+    }
+  ],
+  "cot_scratchpad": "- Tim Cluess has led Iona Gaels for 6 years (Novel-00001628_c_0).\n- Steve Prohm has led Murray State Racers for 1 year (Novel-00001628_c_3).\n- Steve Prohm has led Iowa State Cyclones for 1 year (Novel-00001628_c_1).\n- Tim Cluess has led Iona Gaels for 5 years in 2014-2015 (Novel-00001628_c_2).\n- Tim Cluess has led Iona Gaels for 6 years in 2015-2016 (Novel-00001628_c_0).\n- Steve Prohm has led Murray State Racers for 1 year in 2011-2012 (Novel-00001628_c_3).\n- Tim Cluess has led Iona Gaels for 6 years (Novel-00001628_c_0).\n- Steve Prohm has led Murray State Racers for 1 year (Novel-00001628_c_3).\n- Steve Prohm has led Iowa State Cyclones for 1 year (Novel-00001628_c_1).\n- Tim Cluess has led Iona Gaels for 5 years in 2014-2015 (Novel-00001628_c_2).\n- Tim Cluess has led Iona Gaels for 6 years in 2015-2016 (Novel-00001628_c_0).\n- Steve Prohm has led Murray State Racers for 1 year in 2011-2012 (Novel-00001628_c_3).\n- Steve Prohm has led Murray State Racers for 1 year (Novel-00001628_c_3).\n- Steve Prohm has led Iowa State Cyclones for 1 year (Novel-00001628_c_1).\n- Tim Cluess has led Iona Gaels for 6 years (Novel-00001628_c_0).\n- Steve Prohm has led Murray State Racers for 1 year in 2011-2012 (Novel-00001628_c_3).\n- Tim Cluess has led Iona Gaels for 5 years in 2014-2015 (Novel-00001628_c_2).\n- Tim Cluess has led Iona Gaels for 6 years in 2015-2016 (Novel-00001628_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "How long has Tim Cluess led Iona Gaels?",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00005636/03_Sixpack-Annie.html_c_3",
+        "HotpotQA-validation-00005840/03_Comic-book.html_c_29",
+        "HotpotQA-validation-00000615/00_The-Simpsons-season-23.html_c_7"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "How long has Steve Prohm led Murray State Racers?",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001692/01_Bayport-New-York.html_c_8",
+        "HotpotQA-validation-00001692/01_Bayport-New-York.html_c_7"
+      ]
+    }
+  ]
+}

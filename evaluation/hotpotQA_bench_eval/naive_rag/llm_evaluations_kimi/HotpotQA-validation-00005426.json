@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005426",
+  "question": "What 2-year worldwide tour had a round stage and a band that performed a song never before performed live?",
+  "gold_answer": "U2 360° Tour",
+  "llm_answer": "The U2 360° Tour (2009–2011) had a round stage and featured the band performing “in the round.” However, the provided evidence does not mention any song that had never before been performed live.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the U2 360° Tour as the tour with a round stage, aligning with the Gold Answer. However, it does not confirm the detail about a song never before performed live, which is part of the question. The Retrieved Context does not provide information about such a song, so the Model Answer is faithful to the context but incomplete in evidence coverage and correctness."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002043",
+  "question": "One of the co-directors of a documentary about Central Asian media landscapes is best known for establishing what radical transparency organisation in the mid-2000s?",
+  "gold_answer": "WikiLeaks",
+  "llm_answer": "The provided context does not mention any co-director of a documentary about Central Asian media landscapes or the establishment of a radical transparency organization in the mid-2000s.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model correctly identifies that the retrieved context does not contain information relevant to the question. However, the model fails to provide the correct answer, 'WikiLeaks,' which is not dependent on the retrieved context but could have been generated from internal knowledge. The retrieved context does not support the answer, so faithfulness is rated high, but correctness and evidence coverage are rated low."
+  }
+}

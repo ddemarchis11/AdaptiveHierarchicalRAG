@@ -1,0 +1,12 @@
+{
+  "id": "Novel-19840e69",
+  "question": "According to the narrative, in which region are epidemics stated to occur, as described in the context of disease and climate?",
+  "gold_answer": "Epidemics occur in Yucatan.",
+  "llm_answer": "There is insufficient evidence to determine in which region epidemics are stated to occur, as described in the context of disease and climate.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies that epidemics occur in Yucatan, which is clearly supported by the Retrieved Context. The Model Answer incorrectly states that there is insufficient evidence to determine the region, contradicting the context and failing to provide the correct information."
+  }
+}

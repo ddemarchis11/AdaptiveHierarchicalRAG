@@ -1,0 +1,12 @@
+{
+  "id": "Novel-72938445",
+  "question": "In the apple jelly factory described in the report, what do the storage bins hold before processing begins?",
+  "gold_answer": "The bins hold apples.",
+  "llm_answer": "I'm unable to answer the question as there is no mention of an apple jelly factory in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about an apple jelly factory or storage bins holding apples. However, it fails to answer the question using internal knowledge or reasoning, which would have been possible given the simplicity of the Gold Answer. Thus, the answer is incorrect, but it remains faithful to the context provided."
+  }
+}

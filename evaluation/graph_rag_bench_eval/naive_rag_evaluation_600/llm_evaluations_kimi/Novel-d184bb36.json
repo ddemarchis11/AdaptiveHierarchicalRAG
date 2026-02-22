@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d184bb36",
+  "question": "Who were the notable individuals interested in the Ivanhoe mine during the mining excitement described in the text?",
+  "gold_answer": "Senator Plumb and Robert Ingersoll were interested in Ivanhoe.",
+  "llm_answer": "The notable individuals interested in the Ivanhoe mine were Colonel Gillette (the manager), Robert Ingersoll, and Senator Plumb of Kansas.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Robert Ingersoll and Senator Plumb as notable individuals interested in the Ivanhoe mine, which aligns with the Gold Answer. However, it also includes Colonel Gillette as a notable individual, which is not supported by the Gold Answer or explicitly stated in the context as being 'interested' in the mine. While Colonel Gillette is mentioned as the manager, this does not necessarily imply the same level of interest as Ingersoll and Plumb. Thus, the answer is partially correct and fully faithful to the context but misses the precise alignment with the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003326",
+  "question": "Leonard Logsdail had a cameo role in the biographical film directed by whom?",
+  "gold_answer": "Martin Scorsese",
+  "llm_answer": "The evidence does not specify which biographical film Leonard Logsdail had a cameo role in, nor does it name the director of such a film.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the director of the biographical film in which Leonard Logsdail had a cameo role. The context clearly mentions Martin Scorsese as one of the directors Logsdail worked with and identifies 'The Wolf of Wall Street,' directed by Scorsese, as a film in which Logsdail had a cameo. The Model Answer fails to provide the correct information and does not align with the retrieved context."
+  }
+}

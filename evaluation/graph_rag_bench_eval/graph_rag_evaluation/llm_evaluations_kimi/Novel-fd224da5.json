@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fd224da5",
+  "question": "Imagine you are Johann Christian Bock. Write a diary entry about your inspiration from Maria of Moulines and your literary achievements.",
+  "gold_answer": "Diary Entry — Jacobi has been a true muse. His story inspired me to pursue my own literary journey, leading to my latest production, 'Die Tagereise'. However, I remain aware of the shifting tides, as Schummel’s lack of influence on my work and the reviews from the Allgemeine deutsche Bibliothek suggest our field is ever-changing.",
+  "llm_answer": "Diary of Johann Christian Bock, 10 October 1785  \nMarienwerder – The poplar-shaded walk is finished; at its crest the little cemetery waits, its crosses already bearing the beloved names—Maria of Moulines foremost among them.  Whenever I read Sterne’s gentle sufferer I feel her sorrow settle upon me like dew, and today I set her epitaph with my own hand: “Weed her grave clean, ye men of goodness, for she was your sister.”  If my park can keep her memory alive for every unprepared stranger, then my labour will have matched, in its humble way, the fame the Herr Hofrath assures me my acting and my translations have already won.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer provides a creative diary entry but diverges significantly from the Gold Answer's focus on Jacobi's inspiration and literary achievements, such as 'Die Tagereise' and the reviews from the Allgemeine deutsche Bibliothek. The Model Answer instead emphasizes Maria of Moulines and a cemetery, which are tangentially related to the retrieved context but not directly relevant to the user's question or the Gold Answer. Additionally, the Model Answer introduces unsupported details about epitaphs and park construction, which are not grounded in the retrieved context."
+  }
+}

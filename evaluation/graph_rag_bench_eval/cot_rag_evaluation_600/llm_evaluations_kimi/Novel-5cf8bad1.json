@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5cf8bad1",
+  "question": "Throughout her life, Dr. Elsie Inglis made significant contributions to medicine and humanitarian work, such as founding and leading the Scottish Women's Hospitals, aiding the Serbian Army during wartime, addressing the Sanitary Congress, and extending the work of the Red Cross among many nations. She also earned her M.B., C.M. in 1899 from the University of Edinburgh. What were some of these major achievements, and what formal recognitions did Dr. Inglis receive for her efforts?",
+  "gold_answer": "Dr. Inglis founded and led the Scottish Women's Hospitals, helped the Serbian Army, addressed the Sanitary Congress, carried the work of the Red Cross among many nations, and graduated M.B., C.M. in 1899 from the University of Edinburgh.",
+  "llm_answer": "Major achievements  \n- Founded and led the Scottish Women’s Hospitals.  \n- Raised and commanded a hospital unit that served with the Serbian Army on the Balkan and Russian fronts, remaining with the troops for fifteen months.  \n- Extended Red-Cross work across several nations.  \n- Addressed the Sanitary Congress.  \n- Graduated M.B., C.M. from the University of Edinburgh in 1899.  \n\nFormal recognitions  \nThe evidence records no civil or military decorations awarded to Dr. Inglis by the British Crown; it only notes public questioning as to why none were given.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately lists Dr. Inglis's major achievements, including founding the Scottish Women's Hospitals, aiding the Serbian Army, addressing the Sanitary Congress, extending Red Cross work, and earning her medical degree in 1899. It also correctly notes the lack of formal recognitions from the British Crown, which aligns with the retrieved context. All claims are supported by the context, and the answer includes all key facts from the Gold Answer."
+  }
+}

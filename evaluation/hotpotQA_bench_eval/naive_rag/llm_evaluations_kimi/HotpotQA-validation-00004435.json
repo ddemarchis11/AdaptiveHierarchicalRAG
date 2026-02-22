@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004435",
+  "question": "Who wrote Bring Me Sunshine and where did they write it?",
+  "gold_answer": "Bring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe",
+  "llm_answer": "The evidence does not state who wrote “Bring Me Sunshine” or where it was written.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about who wrote 'Bring Me Sunshine' or where it was written. However, the Gold Answer specifies that 'Bring Me Sunshine' was a three-part retrospective tribute to Eric Morecambe, which the Model Answer fails to address. Thus, it does not align with the Gold Answer and misses the required factual points."
+  }
+}

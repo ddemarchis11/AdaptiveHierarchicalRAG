@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002344",
+  "question": "Was Suzanne Chun Oakland a member of the upper of lower chamber of the Hawaii State Legislature?",
+  "gold_answer": "lower chamber",
+  "llm_answer": "Suzanne Chun Oakland was a member of the upper chamber (Hawaii State Senate) from 1996 to 2016 and previously a member of the lower chamber (Hawaii House of Representatives) from 1990 to 1996.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Suzanne Chun Oakland was a member of the lower chamber (Hawaii House of Representatives) from 1990 to 1996, which directly answers the question. It also provides additional context about her subsequent role in the upper chamber (Hawaii State Senate), which is accurate and supported by the retrieved context. All relevant facts from the Gold Answer are included."
+  }
+}

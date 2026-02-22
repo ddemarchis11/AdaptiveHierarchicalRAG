@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00000989",
+  "question": "Which film is newer, The Apple Dumpling Gang or Heavyweights?",
+  "gold_answer": "Heavyweights",
+  "llm_answer": "The Apple Dumpling Gang is a 1975 film.  \nHeavyweights was released in 1995.  \nTherefore, Heavyweights is the newer film.",
+  "context": [
+    {
+      "text": "role, Ed Begley Jr. in the Conway role and Arte Johnson in the Knotts role. One year later saw the premiere of a television series, Gun Shy , with a completely different cast, including Barry Van Dyke in the Bixby role. Six episodes were produced. References External links Wikiquote has quotations related to The Apple Dumpling Gang (film) . Official website The Apple Dumpling Gang at IMDb The Apple Dumpling Gang at the TCM Movie Database (archived version) The Apple Dumpling Gang at Box Office Mojo The Apple Dumpling Gang at Rotten Tomatoes",
+      "id": "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_7"
+    },
+    {
+      "text": "The Apple Dumpling Gang is a 1975 American comedy - Western film directed by Norman Tokar . It follows a slick gambler named Russell Donovan ( Bill Bixby ) who is duped into taking care of three orphans who eventually strike gold. It was produced by Walt Disney Productions . The film is based on the 1971 novel of the same name by Jack M. Bickham . Don Tait wrote the screenplay. The so-called \"Apple Dumpling Gang\" are named after their favorite American dessert treat, the apple dumpling . It is also known as being the first film to feature the comedy duo of Don Knotts and Tim Conway . Buddy Baker composed the music for the film and its sequel, The Apple Dumpling Gang Rides Again , with Joseph Dubin performing the orchestration. The song \"The Apple Dumpling Gang\", as heard in the opening and closing credits , was composed by Shane Tatum and was performed by Randy Sparks and the Back Porch Majority . Plot In the Wild West in 1879, a slick gambler named Russell Donovan comes to the town of Quake City en route to open a casino in New Orleans . There, he meets his old associate, John Wintle, who is leaving for San Francisco and asks Donovan to sign for valuables coming in on the next day's stagecoach . Donovan accepts a down payment and promises to pick them up. The next day, he realizes he has been duped into taking care of",
+      "id": "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_0"
+    },
+    {
+      "text": "Bickham would benefit by some sharp editing of certain Knotts-Conway routines but otherwise picture generally is a fast-paced situation caper\". Kevin Thomas of the Los Angeles Times called it \"a pleasant and funny Disney family comedy\" that was \"a bit long but amiable enough to get away with overstaying its welcome\". Home media In 1980, The Apple Dumpling Gang was among the first Disney movies to be released on videocassette . Walt Disney Home Entertainment released The Apple Dumpling Gang on DVD twice: a special edition release on September 2, 2003, and a 2-movie collection release with its sequel, The Apple Dumpling Gang Rides Again , on February 10, 2008. The film was released on Blu-ray as a Disney Movie Club exclusive on September 9, 2014. Sequel and TV series In 1979, Knotts and Conway reprised their roles in the sequel The Apple Dumpling Gang Rides Again . Bill Bixby , Susan Clark , and the rest of the cast did not appear. Harry Morgan was the only other member of the cast to appear in the sequel, although he plays a different character. In January 1982, Disney aired Tales of the Apple Dumpling Gang , a television film remake starring John Bennett Perry in the Bixby role, Ed Begley Jr. in the Conway role and Arte Johnson in the Knotts role. One year later saw the premiere of a television",
+      "id": "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_6"
+    },
+    {
+      "text": "Children's literature portal The Apple Dumpling Gang is a 1971 novel by Jack Bickham , about a group of orphaned children during the California gold rush . They encounter a gambler who reluctantly helps them, as well as a pair of hapless robbers who are after the gold the children have found. In 1975 Disney made a film based on the book . The name of the gang refers to the American dessert . References Bickham, Jack (1971). The Apple Dumpling Gang . New York: Doubleday.",
+      "id": "HotpotQA-validation-00000989/02_The-Apple-Dumpling-Gang.html_c_0"
+    },
+    {
+      "text": "Gun Shy is an American sitcom that was shown on CBS from March 15 to April 19, 1983. The series, produced by Walt Disney Productions , was based on its popular comedy Western films The Apple Dumpling Gang (1975) and The Apple Dumpling Gang Rides Again (1979). Premise Set in 1869, a gambler ( Barry Van Dyke ) wins two children (Keith Mitchell and later Adam Rich , and Bridgette Andersen ) in a poker game and moves to Quake City, California . Cast Barry Van Dyke as Russell Donovan Tim Thomerson as Theodore Ogilvie Geoffrey Lewis as Amos Tucker Keith Mitchell as Clovis (episodes 1–4) Adam Rich as Clovis (episodes 5–6) Bridgette Andersen as Celia Henry Jones as Homer McCoy Janis Paige as Nettie McCoy Pat McCormick as Col. Mound US TV ratings Episodes References External links Gun Shy at IMDb Gun Shy at TV Guide",
+      "id": "HotpotQA-validation-00000989/03_Gun-Shy-TV-series.html_c_0"
+    },
+    {
+      "text": "on 10 reviews, with an average score of 5.4/10. On Metacritic , the film has a weighted average score of 42 out of 100 based on 16 critics, indicating \"mixed or average\" reviews. Audiences surveyed by CinemaScore gave the film a grade \"A−\" on an A+ to F scale. According to Stephen Holden of The New York Times , \" Heavyweights is really two movies in one, and they don't mesh. One movie is a no-holds-barred spoof of a Tony Little - or Susan Powter -style fitness merchant [...] The other movie is a conventional family comedy that pokes lighthearted fun at the chubby young campers.\" In a positive review, Hal Hinson of The Washington Post wrote, \"Make no mistake about it, Disney's 'Heavyweights' is the best movie about calorically challenged pubescent boys at summer camp ever made. Bar none.\" In 2012, on the release of the Blu-ray, critic Brian Ordorff gave the film a grade of \"B\" and wrote: \"Time has been kind to the discarded fat camp movie, finding Heavyweights more digestible these days, after years spent processing the askew sense of humor shared by Apatow and Company.\" Rapper MC Lars has stated he took his stage name from the character Lars in Heavyweights , a further example of the film’s cult legacy. Box office The film made",
+      "id": "HotpotQA-validation-00000989/01_Heavyweights.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- The Apple Dumpling Gang film released in 1975 (HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_0)\n- No release year for Heavyweights found in current evidence\n- The Apple Dumpling Gang released 1975 (HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_0)\n- Heavyweights released 17 Feb 1995 (HotpotQA-validation-00000989/01_Heavyweights.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which film is newer, The Apple Dumpling Gang or Heavyweights?",
+      "doc_ids": [
+        "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_7",
+        "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_0",
+        "HotpotQA-validation-00000989/00_The-Apple-Dumpling-Gang-film.html_c_6",
+        "HotpotQA-validation-00000989/02_The-Apple-Dumpling-Gang.html_c_0",
+        "HotpotQA-validation-00000989/03_Gun-Shy-TV-series.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Heavyweights film release year",
+      "doc_ids": [
+        "HotpotQA-validation-00000989/01_Heavyweights.html_c_5",
+        "HotpotQA-validation-00000989/01_Heavyweights.html_c_6",
+        "HotpotQA-validation-00000989/01_Heavyweights.html_c_4",
+        "HotpotQA-validation-00000989/01_Heavyweights.html_c_0",
+        "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_1"
+      ]
+    }
+  ]
+}

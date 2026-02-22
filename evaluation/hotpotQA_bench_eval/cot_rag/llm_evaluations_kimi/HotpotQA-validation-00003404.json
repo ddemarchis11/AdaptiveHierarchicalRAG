@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003404",
+  "question": "Who wrote shorter stories, Raymond Carver or Lydia Davis?",
+  "gold_answer": "Lydia Davis",
+  "llm_answer": "The evidence does not specify the relative length of stories by Raymond Carver and Lydia Davis, so it is insufficient to determine who wrote shorter stories.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the retrieved context does not provide information about the relative length of stories by Raymond Carver and Lydia Davis, which is accurate based on the context provided. However, the Gold Answer clearly identifies Lydia Davis as the writer of shorter stories, and the Model Answer fails to address this fact. While the Model Answer is faithful to the context, it does not correctly answer the question or cover the key fact from the Gold Answer."
+  }
+}

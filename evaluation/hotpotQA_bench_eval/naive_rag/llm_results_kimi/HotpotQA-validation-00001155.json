@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001155",
+  "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+  "gold_answer": "no",
+  "llm_answer": "Valeria Sarmiento is listed as a co-author of the book *Nomadías. El cine de Marilú Mallet, Valeria Sarmiento y Angelina Vásquez* (Ediciones Metales Pesados, 2016).  \nNo evidence shows Leopold Lummerstorfer as an author.",
+  "context": [
+    {
+      "text": "Nomadías. El cine de Marilú Mallet , Valeria Sarmiento y Angelina Vásquez (Ediciones Metales Pesados, 2016) ISBN 9568415882 , ISBN 9789568415884 External links Valeria Sarmiento at IMDb MUBI's Sarmiento page 2012 cineuropa interview 2018 Film Comment interview",
+      "id": "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_2"
+    },
+    {
+      "text": ". Sarmiento made her directorial debut with the documentary Un sueño como de colores (1972) about a group of Chilean women dedicated to striptease . Her later work as a director, usually in melodrama , romantic drama and costume drama , has also often featured strong female characters who face machismo and sexism . Her debut feature Notre mariage (1984) was a Grand Prix winner for Best New Director at the San Sebastián International Film Festival , her 1991 film Amelia Lópes O'Neill was entered into the 41st Berlin International Film Festival and her Napoleonic war epic Lines of Wellington competed for the Golden Lion at the 69th Venice International Film Festival . A symposium on Sarmiento's feminism was held at Stanford University in May 2008, the Cinémathèque Française ran a Sarmiento retrospective in October 2018, and a Ruiz/Sarmiento retrospective will take place at the Filmoteca de Catalunya in October 2025. Filmography References Bibliography Bruno Cuneo and Fernando Pérez V. (eds.) Una mirada oblicua. El cine de Valeria Sarmiento (Universidad Alberto Hurtado, 2021) ISBN 9789563573015 Elizabeth Ramírez and Catalina Donoso (eds.) Nomadías. El cine de Marilú Mallet , Valeria Sarmiento y Angelina Vásquez (Ediciones Metales",
+      "id": "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_1"
+    },
+    {
+      "text": "1995: \"Vienne en densant\", short, 18mins. 1993: \"Some time with Joseph\", doc., 70mins. (\"Tage mit Josef\") 1992: \"A letter for You\", 15mins. / \"The land surveyour\", 20mins. / part for \"Wienminuten\", episodic film, 44 min. 1990: \"My country in pink\", feature f., 83min. (aka \"Rosa Heimat\") 1987: \"Walking\", short, 10min. Awards Film scholarship 2003, Austrian Federal Chancellery Foundation award „Film Art“ 1998, Austrian Federal Chancellery Talent award 1997 of Upper Austria for documentary films Vienna film award 1996: Special mention Script award 1995 Upper Austria External links Leopold Lummerstorfer at IMDb Leopold Lummerstorfer",
+      "id": "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_c_4"
+    },
+    {
+      "text": "work has received numerous festival invitations (among others, San Francisco , São Paulo , Saarbruecken, Istanbul , Cinéma du réel Paris ) and awards. Leopold Lummerstorfer lives in Vienna , where he also now regularly directs the ORF feature, “Show without a Name”, an individual youth format with most satisfying viewer numbers, also above the 50. Films 2011-2021 \"Science Busters\" (TV -series, ORF/3Sat, 106 episodes, 20/30/45/60min; Director/Co-Screenplay) 2005: \"Deaf-mute lane\", short, 4min. (original title: \"Taubstummengasse\") 2003-07: \" Show without a name \", TV-series. (original title: \"Sendung ohne Namen\" aka SON) - episodes directed by Leopold Lummerstorfer: \"Sleep“ - SON 37, 10/2003, 25mins., guests: Heather Nova , Thomas Maurer, Florian Scheuba „Drugs“ - SON 42, 11/2003, 25mins., guests: Shantel , Chicks on Speed , Christoph Krall „Pain“ - SON 45, 12/2003, 25mins., guests: The Mars Volta , Wohlstandskinder „Family partys“ - SON 47,",
+      "id": "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_c_1"
+    },
+    {
+      "text": "Valeria Sarmiento (born 29 October 1948) is a film editor , director and screenwriter best known for her work in France, Portugal and her native Chile. She has worked both in film and television , directing 20 feature films, documentaries and television series '. She is the widow of Chilean film director Raúl Ruiz (1941-2011) with whom she collaborated for decades as regular editor and co-writer. She has also edited films for Luc Moullet , Robert Kramer and Ventura Pons and is a Guggenheim Fellow (1988) . Biography Sarmiento was born in the Chilean municipality of Valparaíso and was first exposed to film at the age of five, becoming familiar with the work of Orson Welles , Alfred Hitchcock and others. She rarely saw French films due to censorship but, thanks to what she refers to as a \"moment of magic\", was able to watch Jean-Luc Godard 's Breathless (1960) at the age of twelve. She went on to study film and philosophy at the University of Valparaíso and married filmmaker Raúl Ruiz in 1969. In 1974, the couple were forced to move to Paris due to the 1973 Chilean coup d'état of Augusto Pinochet . Sarmiento made her directorial debut with the documentary Un sueño como de colores (1972) about a group of Chilean women",
+      "id": "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Valeria Sarmiento is a director & screenwriter; her books exist about her films but she is not listed as an author (Novel-xxxx_..._c_1).\n- Leopold Lummerstorfer is a film director; no evidence he has published books (Novel-xxxx_..._c_1,4).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+      "doc_ids": [
+        "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_2",
+        "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_1",
+        "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_c_4",
+        "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_c_1",
+        "HotpotQA-validation-00001155/01_Valeria-Sarmiento.html_c_0"
+      ]
+    }
+  ]
+}

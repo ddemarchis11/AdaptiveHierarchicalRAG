@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002693",
+  "question": "Myron F. Diduryk's exploits were described in a book by an author holding what military rank?",
+  "gold_answer": "lieutenant general",
+  "llm_answer": "General",
+  "context": [
+    {
+      "text": "Fort Benning, Georgia. He served tours of duty at Fort Benning and in Germany. He was married and the father of two children. During Myron Diduryk's first tour of duty in Vietnam he served as the company commander of Bravo Company 2nd Battalion, 7th Cavalry Regiment , 1st Cavalry Division (Airmobile) . In November 1965 he played a key role in the Battle of the Ia Drang , the first major battle of the Vietnam War. His exploits in that battle are described by General Hal Moore in his best-selling book, We Were Soldiers Once and Young ... in which Moore describes Diduryk as \"… the finest battlefield company commander I had ever seen, bar none.\" Diduryk was subsequently promoted to major and returned to South Vietnam in October 1969, as the operations officer of the 2nd Battalion, 12th Cavalry, 1st Cavalry Division. On April 24, 1970, his battalion commander ordered his command helicopter to land and check out a North Vietnamese soldier who had been killed by the door gunner. As Major Diduryk emerged from his helicopter, he was fatally shot in the stomach by ambushing North Vietnamese soldiers. Diduryk is buried at Fort Benning Main Post Cemetery , Georgia. The Ukrainian American Veterans Post 30 in South River, New Jersey was named in his honor. Diduryk's name is listed on Panel 11W,",
+      "id": "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_c_1"
+    },
+    {
+      "text": "Myron F. Diduryk (July 15, 1938 – April 24, 1970) was a United States Army major , who played a key role as an infantry company commander in the Battle of Ia Drang , the first major battle of the Vietnam War . His exploits in that battle were described by Hal Moore in, We Were Soldiers Once and Young . Moore said that Diduryk was, \"… the finest battlefield company commander I had ever seen, bar none.\" Diduryk was killed in action on his second tour in South Vietnam. Early life and education Born in Mużyłów , Tarnopol Voivodeship (today Muzhyliv in western Ukraine ), in 1938, Diduryk emigrated to the United States with his parents in 1950. His family settled in Somerville, New Jersey . After graduating from St. Peter's Preparatory School in Jersey City, New Jersey , he enrolled at Saint Peter's College in Jersey City, New Jersey, where he was a member of Company N-8 National Society of Pershing Rifles and earned a Bachelor of Science degree in physics from Saint Peter's and was commissioned as a Regular Army Officer on June 5, 1960. Career Diduryk completed Airborne School and Ranger School at Fort Benning, Georgia. He served tours of duty at Fort Benning and in Germany. He was married and the father of two children. During",
+      "id": "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_c_0"
+    },
+    {
+      "text": "Another effect of Unification was to delete the appointments of lance-corporal and lance-sergeant (a corporal holding the acting rank of sergeant). The former is still common in other Commonwealth militaries. Corporal is deemed to be the substantive rank of the members carrying the appointment of master corporal. On pay documents, corporal was formerly listed as \"Cpl (A)\" and master corporal as \"Cpl (B)\". In rifle regiments, a distinction was historically drawn between a corporal and an acting corporal; The Queen's Own Rifles of Canada had a special insignia to distinguish between the two. Germany Corporal or Korporal was the most junior NCO grade in many German partial states of Deutscher Bund , before the term was replaced by the word Unteroffizier in the middle of the 19th century. In September 2021, the Bundeswehr reimplemented the grade of Korporal, but this time as a senior enlisted rank below NCO level. Additionally, a completely new rank was created with the grade of Stabskorporal what is the most senior enlisted rank now. Both ranks are classified OR-4 in the NATO rank code system . In the Bundeswehr, both ranks share paygrade A6 with the junior NCO rank Stabsunteroffizier . France There are three ranks of corporal ( French : caporal ). In the French Army , these are not NCO ranks, but",
+      "id": "HotpotQA-validation-00002693/02_Corporal.html_c_3"
+    },
+    {
+      "text": "Literature In addition to his philosophical work, Foucault also wrote on literature. Death and the Labyrinth: The World of Raymond Roussel , published in 1963 and translated in English in 1986, is Foucault's only book-length work on literature. He described it as \"by far the book I wrote most easily, with the greatest pleasure, and most rapidly\". Foucault explores theory, criticism, and psychology with reference to the texts of Raymond Roussel , one of the first notable experimental writers. Foucault also gave a lecture responding to Roland Barthes' famous essay \" The Death of the Author \" titled \" What Is an Author? \" in 1969, later published in full. According to literary theoretician Kornelije Kvas, for Foucault, \"denying the existence of a historical author on account of his/her irrelevance for interpretation is absurd, for the author is a function of the text that organizes its sense\". Power Foucault's analysis of power comes in two forms: empirical and theoretical . The empirical analyses concern themselves with historical (and modern) forms of power and how these emerged from previous forms of power. Foucault describes three types of power in his empirical analyses: sovereign power, disciplinary power, and biopower . Foucault is generally critical of \"theories\" that try to give absolute answers to \"everything\". Therefore, he considered his own \"theory\" of power to be closer to",
+      "id": "HotpotQA-validation-00007021/01_Michel-Foucault.html_c_39"
+    },
+    {
+      "text": "voices were such messages as \"This is G!\", \"Hot dog, Art!\", and \"Merry Christmas and Happy New Year to you all\". Von Szalay and Raymond Bayless's work was published by the Journal of the American Society for Psychical Research in 1959. Bayless later went on to co-author the 1979 book, Phone Calls From the Dead . In 1959, Swedish painter and film producer Friedrich Jürgenson was recording bird songs. Upon playing the tape later, he heard what he interpreted to be his dead father's voice and then the spirit of his deceased wife calling his name. He went on to make several more recordings, including one that he said contained a message from his late mother. Raudive voices Konstantin Raudive , a Latvian psychologist who had taught at Uppsala University , Sweden, and who had worked in conjunction with Jürgenson, made over 100,000 recordings which he described as being communications with discarnate people. Some of these recordings were conducted in an RF-screened laboratory and contained words Raudive said were identifiable. In an attempt to confirm the content of his collection of recordings, Raudive invited listeners to hear and interpret them. He believed that the clarity of the voices heard in his recordings implied that they could not be readily explained by normal means. Raudive published his first book, Breakthrough: An Amazing Experiment in Electronic Communication with the Dead in",
+      "id": "HotpotQA-validation-00001896/01_Electronic-voice-phenomenon.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- Diduryk's exploits in Ia Drang battle described by Hal Moore in book (Novel-00002693/00_Myron-F-Diduryk.html_c_1).\n- Evidence explicitly mentions the author is General Hal Moore (Novel-00002693/00_Myron-F-Diduryk.html_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Myron F. Diduryk's exploits were described in a book by an author holding what military rank?",
+      "doc_ids": [
+        "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_c_1",
+        "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_c_0",
+        "HotpotQA-validation-00002693/02_Corporal.html_c_3",
+        "HotpotQA-validation-00007021/01_Michel-Foucault.html_c_39",
+        "HotpotQA-validation-00001896/01_Electronic-voice-phenomenon.html_c_2"
+      ]
+    }
+  ]
+}

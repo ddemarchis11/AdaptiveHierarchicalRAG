@@ -1,0 +1,12 @@
+{
+  "id": "Novel-db4551ac",
+  "question": "Imagine you are Dipsas. Write a diary entry about your knowledge of magic arts and the charms of Ææa.",
+  "gold_answer": "Diary Entry — My reputation as a mistress of the magic arts and the charms of Ææa precedes me. These stories, told in Metamorphoses, travel far and wide, even as Jupiter’s utter hatred of the Telchines echoes through Olympus. Ovid’s words ensure my legend endures.",
+  "llm_answer": "Diary of Dipsas, this night:\n\nI know the magic arts and the charms of Ææa; by that skill I can turn the flowing stream back to its source. I know what herbs, what thrums impelled around the…",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially captures the essence of Dipsas' knowledge of magic arts and the charms of Ææa, as mentioned in the Gold Answer. However, it lacks the broader context of her reputation and the enduring legend as described in the Gold Answer. While the claim about turning streams back to their source is supported by the Retrieved Context, the Model Answer does not fully integrate the details about Ovid's words or Jupiter's hatred of the Telchines, which are key elements of the Gold Answer. Additionally, the Model Answer is incomplete and abruptly ends, missing critical aspects of the diary entry format and narrative depth."
+  }
+}

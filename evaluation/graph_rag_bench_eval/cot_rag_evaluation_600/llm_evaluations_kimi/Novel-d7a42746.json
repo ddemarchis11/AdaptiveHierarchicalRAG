@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d7a42746",
+  "question": "During her lifetime, Dr. Elsie Inglis supported Serbia in several significant ways: she traveled to Serbia, founded the Scottish Women’s Hospitals to provide wartime aid, and was honored by Serbian officers who carried her coffin after her death. In what ways did Dr. Elsie Inglis assist Serbia and how was her support recognized by the Serbian people?",
+  "gold_answer": "Dr. Elsie Inglis contributed to Serbia by traveling there, founding the Scottish Women’s Hospitals to aid during wartime, and being honored by Serbian officers, who carried her coffin after her death.",
+  "llm_answer": "Dr. Elsie Inglis assisted Serbia by:\n\n- Travelling to Serbia in May 1915 and leading the Scottish Women’s Hospitals unit to work during the typhus epidemic.  \n- Organising and personally directing the unit that treated typhus-stricken patients in overcrowded Serbian hospitals.  \n- Turning the unit’s hospital at Mladenovatz into an effective medical centre amid famine and disease.  \n- Procuring essential medical supplies and equipment for Serbian patients.  \n\nThe Serbian people recognised her support by:\n\n- Building and dedicating a fountain at Mladenovatz on 7 October 1915, with a religious service, as a permanent memorial to her and the Scottish Women’s Hospitals.  \n- Referring to her as “the angel of their people.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Dr. Elsie Inglis's contributions to Serbia, including her travel, leadership of the Scottish Women’s Hospitals, and efforts during the typhus epidemic. It also accurately describes the Serbian people's recognition of her support, such as the dedication of a fountain and referring to her as 'the angel of their people.' However, it omits the detail about Serbian officers carrying her coffin after her death, which is a key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8ddd613c",
+  "question": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+  "gold_answer": "Derem is the native name for Mount Atlas, and Dyris is the ancient name for Mount Atlas.",
+  "llm_answer": "Mount Atlas has been known by the historical name **Dyris** (used by the ancient aborigines) and the native name **Derem** (used by the modern aborigines).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the historical name 'Dyris' and the native name 'Derem' for Mount Atlas, as stated in the Gold Answer and supported by the Retrieved Context. It is concise and faithful to the provided information, covering all key facts."
+  }
+}

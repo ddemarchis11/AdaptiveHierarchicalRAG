@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002424",
+  "question": "In The Passion of the Christ, who did Monica Bellucci play?",
+  "gold_answer": "Mary Magdalene",
+  "llm_answer": "Monica Bellucci played Mary Magdalene.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Monica Bellucci's role as Mary Magdalene in 'The Passion of the Christ,' which aligns with the Gold Answer and is fully supported by the Retrieved Context. While concise, the answer contains all necessary information without adding unsupported details."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00007374",
+  "question": "What type of diet does the author of Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss advocate?",
+  "gold_answer": "micronutrient-rich",
+  "llm_answer": "The author advocates a diet that is vegetarian, vegan, low-salt, low-fat, and gluten-free for the first six weeks, after which animal products may be added.",
+  "context": [
+    {
+      "text": "Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss is a book written in 2003 by Joel Fuhrman . A revised version was released in 2011. The book offers a formula for weight loss that health equals nutrients divided by calories. The diet is vegetarian, vegan, low-salt, low-fat, and gluten-free for the first six weeks, after which animal products may be added. The diet is considered \"extremely restrictive\" for its restrictions against snacks, sugar, and oils. Notes",
+      "id": "HotpotQA-validation-00007374/00_Eat-to-Live.html_c_0"
+    },
+    {
+      "text": "Weight Loss (2003) ISBN 978-0316120913 Disease-Proof Your Child: Feeding Kids Right (2006) ISBN 978-0312338084 Eat for Health: Lose Weight, Keep It off, Look Younger, Live Longer (2008) ISBN 978-0983795223 The End of Diabetes: The Eat to Live Plan to Prevent and Reverse Diabetes (2012) ISBN 978-0062219985 Super Immunity: The Essential Nutrition Guide for Boosting Your Body's Defenses to Live Longer, Stronger, and Disease Free (2013) ISBN 9780062080653 The End of Dieting: How to Live for Life (2014) ISBN 978-0062249326 The End of Heart Disease: the eat to live plan to prevent and reverse heart disease (2016) ISBN 978-0062249357 Eat to Live Quick and Easy Cookbook: 131 Delicious Recipes for Fast and Sustained Weight Loss, Reversing Disease, and Lifelong Health (2017) ISBN 978-0062684950 Fast Food Genocide: How Processed Food Is Killing Us and What We Can Do about It (2017) ISBN 978-0062571212 Transformation 20 - Blood Pressure and Cholesterol (2018) ISBN 9780999223529 Eat for Life: The Breakthrough Nutrient-Rich Program for Longevity, Disease Reversal, and Sustained Weight",
+      "id": "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_4"
+    },
+    {
+      "text": "has promoted a vitalistic view of food and the pseudoscientific idea of detoxification . Dietitian Carolyn Williams has described Fuhrman's Nutritarian diet as a fad diet . According to Williams \"This can be helpful for people who feel stuck in their weight loss journey and want to totally reset or detox their diet following a holiday or vacation. Although this diet is marketed as an eating pattern, it is essentially a fad diet. Those who do try this diet should go into it knowing that it is not sustainable for everyone long-term, and is only a temporary quick fix to lose weight.\" Harriet Hall , a founder of Science-Based Medicine , a website owned and operated by the New England Skeptical Society, reviewed Fuhrman's Nutritarian diet and commented that he tends to incorrectly assume association studies show causation and that his diet has not been tested in controlled trials. Hall stated that \"Fuhrman makes extraordinary claims for the Nutritarian diet, but extraordinary claims must be supported by extraordinary evidence, and the evidence he presents is far from compelling.\" Books Fasting and Eating for Health: A Medical Doctor's Program for Conquering Disease (1995) ISBN 978-0312187194 Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss (2003) ISBN 978-0316120913 Disease-Proof Your Child: Feeding Kids Right (2006) ISBN",
+      "id": "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_3"
+    },
+    {
+      "text": "Eat for Life: The Breakthrough Nutrient-Rich Program for Longevity, Disease Reversal, and Sustained Weight Loss (2020) ISBN 978-0062249319 See also Neal D. Barnard T. Colin Campbell Michael Greger Michael Klaper John A. McDougall Michael Pollan References External links Wikiquote has quotations related to Joel Fuhrman . Official website Joel Fuhrman at IMDb",
+      "id": "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_5"
+    },
+    {
+      "text": "what conditions could lead to starvation and how to rehabilitate safely to eating, such as the Minnesota Starvation Experiment , in an effort to reduce the casualties caused by famine following the war. VLCD is used for clinical purposes since at least the 1980s. In 1978, 58 people died in the United States after following very-low-calorie liquid protein diets. Following this event, the FDA requires since 1984 that protein VLCDs providing fewer than 400 calories a day carry a warning that they can cause serious illness and need to be followed under medical supervision. However, newer regulations require this warning only on protein products that aim to provide more than half of a person's calories and are promoted for weight loss or as a food supplement . This enabled protein VLCD drinks such as Slim-Fast that provide fewer than 400 calories to avoid warnings by recommending that users \"also eat one sensible meal each day\". In 1991, the Federal Trade Commission charged three liquid VLCD companies, Optifast, Medifast and Ultrafast, with deceptive advertising. The case was settled after the companies agreed to stop using what the FTC alleged to be deceptive claims about the long-term results and the safety of these diets. See also Dieting Fasting and longevity Ketogenic diet Ketosis List of diets Management of obesity Negative-calorie food Protein-sparing modified fast , a type of very-low-calorie diet, aiming to spare proteins and thus preserve muscle tissues . References External links",
+      "id": "HotpotQA-validation-00007374/02_Very-low-calorie-diet.html_c_4"
+    },
+    {
+      "text": "(1950) The Flowering Peach (1954) Director The Country Girl (1950, original Broadway production) Golden Boy (1952, revival) The Flowering Peach (1954, original Broadway production) Screenwriter The General Died at Dawn (1936) None but the Lonely Heart (1944) Humoresque (1946, screenplay adaptation, with Zachary Gold) Notorious (1946, dialogue: love scenes; uncredited) Deadline at Dawn (1946) Sweet Smell of Success (1957) The Story on Page One (1959) Wild in the Country (1961) Film director None but the Lonely Heart (1944) The Story on Page One (1959) Acting on screen The General Died at Dawn (1936) – Minor Role (uncredited) Sweet Smell of Success (1957) – Man Outside Theatre (uncredited) (final film role) Bibliography Introduction to Modern Library edition of Nikolai Gogol's Dead Souls (1936) See also List of Jewish American playwrights References External links Wikimedia Commons has media related to Clifford Odets . Wikiquote has quotations related to Clifford Odets . Archival collections Guide to the Clifford Odets Theatrical Materials. Special Collections and Archives, The UC Irvine Libraries, Irvine, California. Finding aid to Clifford Odets papers at Columbia University. Rare Book & Manuscript Library. Clifford Odets Papers, 1926–1963 held by the Billy Rose",
+      "id": "HotpotQA-validation-00002551/00_Clifford-Odets.html_c_19"
+    }
+  ],
+  "cot_scratchpad": "- Joel Fuhrman wrote \"Eat to Live\" in 2003 (HotpotQA-validation-00007374/00_Eat-to-Live.html_c_0)\n- The book prescribes a diet that is vegetarian, vegan, low-salt, low-fat, and gluten-free at first (HotpotQA-validation-00007374/00_Eat-to-Live.html_c_0)\n- Fuhrman calls his regimen the Nutritarian diet (HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_3)\n- Evidence from step 1 shows the diet is vegetarian, vegan, low-salt, low-fat, gluten-free (HotpotQA-validation-00007374/00_Eat-to-Live.html_c_0)\n- Fuhrman labels this approach the Nutritarian diet (HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_3)\n- No further info on overall diet type beyond the above attributes",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What type of diet does the author of Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss advocate?",
+      "doc_ids": [
+        "HotpotQA-validation-00007374/00_Eat-to-Live.html_c_0",
+        "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_4",
+        "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_3",
+        "HotpotQA-validation-00007374/01_Joel-Fuhrman.html_c_5",
+        "HotpotQA-validation-00007374/02_Very-low-calorie-diet.html_c_4"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "None",
+      "doc_ids": [
+        "HotpotQA-validation-00002551/00_Clifford-Odets.html_c_19",
+        "HotpotQA-validation-00005985/00_The-Apprentice-US-season-8.html_c_26",
+        "HotpotQA-validation-00002543/01_Jeffrey-R-MacDonald.html_c_33",
+        "HotpotQA-validation-00004571/00_Daniel-Myrick.html_c_1",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_15"
+      ]
+    }
+  ]
+}

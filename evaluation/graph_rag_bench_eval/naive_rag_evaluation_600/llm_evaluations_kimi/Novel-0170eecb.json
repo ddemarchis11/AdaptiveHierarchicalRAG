@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0170eecb",
+  "question": "What types of musical instruments were found in the Kensington museum, such as the cither, harpsichord, clavichord, spinet, and virginal, and which cultures—like the North American Indians—are represented by the specimens in the museum's collection?",
+  "gold_answer": "The Kensington museum contained the cither, harpsichord, clavichord, spinet, virginal, and specimens of musical instruments of the North American Indians.",
+  "llm_answer": "The Kensington museum houses a variety of historical musical instruments, including the **cither, harpsichord, clavichord, spinet, and virginal**, as well as specimens from **North American Indians**, such as **rattles, drums, flutes, and whistles**.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the types of musical instruments found in the Kensington museum, including the cither, harpsichord, clavichord, spinet, virginal, and instruments from North American Indians. It also provides additional details about the Indian instruments (rattles, drums, flutes, and whistles), which are supported by the retrieved context. All key facts from the Gold Answer are included, and the response is faithful to the context."
+  }
+}

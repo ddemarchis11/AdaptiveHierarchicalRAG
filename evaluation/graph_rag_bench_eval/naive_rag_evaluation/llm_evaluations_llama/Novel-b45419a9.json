@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b45419a9",
+  "question": "To whom did Muley Ismail direct his request during the historical interactions described in the text?",
+  "gold_answer": "Muley Ismail made a request to Louis XIV.",
+  "llm_answer": "Muley Ismail directed his request to the Princesse de Conti (Mademoiselle de Blois), the natural daughter of the Grand Monarch Louis XIV.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Princesse de Conti as the subject of Muley Ismail's request, but it does not explicitly state that the request was directed to Louis XIV, as mentioned in the Gold Answer. The context supports the Model Answer's claim about the princess, but it misses the key fact that the request was made to Louis XIV, which is central to the Gold Answer."
+  }
+}

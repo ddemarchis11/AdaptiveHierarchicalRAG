@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002379",
+  "question": "Does Il trovatore have less acts than La rondine",
+  "gold_answer": "no",
+  "llm_answer": "There is insufficient evidence to determine the number of acts in Il trovatore and La rondine.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to determine the number of acts in Il trovatore and La rondine, while the Gold Answer clearly states 'no,' implying that Il trovatore does not have fewer acts than La rondine. The retrieved context does not provide direct information about the number of acts in either opera, but the Model Answer fails to align with the Gold Answer and does not provide a correct or grounded response."
+  }
+}

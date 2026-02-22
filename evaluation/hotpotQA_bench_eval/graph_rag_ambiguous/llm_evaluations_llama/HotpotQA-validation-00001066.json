@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001066",
+  "question": "What professional role was shared by a New York poet and novelist known for blending noir with myth and the Chicago-born film critic who became the first in his field to win a Pulitzer Prize?",
+  "gold_answer": "author",
+  "llm_answer": "I'm not sure I can answer the question as it is phrased. However, I can tell you that the Chicago-born film critic who became the first in his field to win a Pulitzer Prize was Roger Ebert.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the shared professional role between the New York poet and novelist and the Chicago-born film critic, which is 'author' as stated in the Gold Answer. While the information about Roger Ebert is accurate and grounded in the context, it fails to answer the specific question and misses the key fact from the Gold Answer."
+  }
+}

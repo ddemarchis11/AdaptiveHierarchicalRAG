@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What did both Karel Bossart and Sergei Korolev design?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both Karel Bossart and Sergei Korolev designed experimental cruise missiles: Bossart created the Atlas ICBM, and Korolev developed the Soviet 212 cruise missile.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states that both Karel Bossart and Sergei Korolev designed rockets, which is correct. The Model Answer specifies experimental cruise missiles, mentioning Bossart's Atlas ICBM and Korolev's Soviet 212 cruise missile. While the Atlas ICBM is indeed a rocket, the retrieved context does not confirm that Korolev's 212 missile was a cruise missile or that it fits the broader category of rockets. Additionally, the Model Answer misses the general term 'rocket' and instead focuses on specific designs, which partially aligns with the Gold Answer but introduces unsupported details about Korolev's work."
+  }
+}

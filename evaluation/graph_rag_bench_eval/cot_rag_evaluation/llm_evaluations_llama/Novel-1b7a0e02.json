@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1b7a0e02",
+  "question": "During the first evening at The Lizard, what did Charles call out excitedly upon seeing the lights, as described in the narrative?",
+  "gold_answer": "Charles called out 'The Lizard Lights'.",
+  "llm_answer": "There is insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to answer the question, but the Gold Answer ('The Lizard Lights') is directly supported by the Retrieved Context, which mentions Charles calling out excitedly upon seeing the Lizard Lights. The Model Answer fails to provide the correct response and does not utilize the available context effectively."
+  }
+}

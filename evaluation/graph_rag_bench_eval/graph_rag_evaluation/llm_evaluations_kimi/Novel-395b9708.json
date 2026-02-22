@@ -1,0 +1,12 @@
+{
+  "id": "Novel-395b9708",
+  "question": "What was Earle S. Goodrich's involvement with the Pioneer and the Minnesotian?",
+  "gold_answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+  "llm_answer": "Earle S. Goodrich was editor-in-chief of the Pioneer and, when the Press moved to a new building in 1869, he asked to set the first type in the new composing room. The context does not mention any direct involvement of his with the Minnesotian.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific involvement of Earle S. Goodrich with the Pioneer and the Minnesotian as described in the Gold Answer. It does not mention his role as editor of the Pioneer or his preparation of a joke on the Minnesotian, which are key facts from the Gold Answer. Additionally, the claim about setting the first type in the new composing room in 1869 is irrelevant to the question and unsupported by the retrieved context."
+  }
+}

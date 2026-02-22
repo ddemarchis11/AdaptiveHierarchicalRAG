@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002137",
+  "question": "What are some other areas that share a common deer species with the forests of Mara and Mondrem?",
+  "gold_answer": "New Zealand, Canada, the United States, the Falkland Islands, and Peru.",
+  "llm_answer": "The evidence does not name any other specific areas that share a common deer species with the forests of Mara and Mondrem.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that no specific areas are named, whereas the Gold Answer lists New Zealand, Canada, the United States, the Falkland Islands, and Peru as areas sharing a common deer species with the forests of Mara and Mondrem. While the Model Answer is faithful to the retrieved context, it fails to provide the correct information and misses the key facts from the Gold Answer."
+  }
+}

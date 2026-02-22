@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001577",
+  "question": "According to the 2011 census, what was the recorded population of the affluent south Manchester suburb where a British regional airline has its administrative base?",
+  "gold_answer": "26,788",
+  "llm_answer": "According to the provided context, the population of Didsbury at the 2011 census was 26,788.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states the population of Didsbury as 26,788 according to the 2011 census, which matches the Gold Answer and is supported by the Retrieved Context. All key facts are included."
+  }
+}

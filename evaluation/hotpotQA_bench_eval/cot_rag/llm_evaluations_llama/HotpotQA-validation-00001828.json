@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001828",
+  "question": "Who was hung for assisting the attempted surrender of a defector from the American Continental Army to the British Army?",
+  "gold_answer": "John André",
+  "llm_answer": "The person who was hung for assisting the attempted surrender of a defector from the American Continental Army to the British Army was Major John André.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Major John André as the person who was hung for assisting the attempted surrender of Benedict Arnold, a defector from the American Continental Army to the British Army. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which details André's role in the espionage plot and his subsequent execution."
+  }
+}

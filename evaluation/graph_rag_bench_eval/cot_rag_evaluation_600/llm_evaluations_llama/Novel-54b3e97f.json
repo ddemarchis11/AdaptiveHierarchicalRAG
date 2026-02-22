@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "According to the diary, the individuals who drank with Mr. Pepys during one of his social encounters are:\n\n1. Mr. Gauden (on June 1st, at Woolwich)\n2. Greatorex (on June 2nd, at Mr. Pepys' house)\n3. Mr. Moore (on June 3rd, in the City)\n4. Mr. Salisbury (on June 3rd, at Hercules Pillars)\n5. Mr. Whore (on June 3rd, at Hercules Pillars)\n6. Mr. Pechell, Sanchy, and others (on August 3rd, at the Rose)\n7. Mr. Turner (on July 15th, at the Rose tavern)\n8. Mr. Sanchy (on July 15th, at the Rose tavern)\n9. Dr. Williams (on July 28th, at the Exchange)\n10. Mr. Philips (on July 28th, at home, but the diary does not specify that they drank together, only that they advised with him about the bond of Mr. Pepys' aunt)",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer lists multiple individuals who drank with Mr. Pepys, but none of them match the Gold Answer ('Mr. Starling'). Furthermore, the retrieved context does not support the inclusion of these names as individuals who drank with Mr. Pepys. The Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000809",
+  "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style?",
+  "gold_answer": "Carnatic music",
+  "llm_answer": "Carnatic music",
+  "context": [
+    {
+      "text": "Radha (1932 - 28 September 2025) and Jayalakshmi (1932 - 2014), popularly known as Radha Jayalakshmi ( Tamil : ராதா ஜெயலட்சுமி ), were an Indian Carnatic music vocalist duo as well as playback singers in films in the 1940s and 1950s. They later became teachers and trained notable Carnatic music singers. Jayalakshmi was the playback singer of the duo, but was credited as Radha Jayalakshmi in the cine field. Radha was her cousin and singing partner on stage performances. They were early vocalists in the duo singing trend in Carnatic music which started in the 1950s and includes performers like Bombay Sisters and Soolamangalam Sisters . In recent times, the trend has been continued by popular Carnatic music singers like Priya Sisters , their disciples, Ranjani Gayatri , Bellur sisters, Mambalam Sisters, Akkarai sisters , and others. The duo was awarded the 1981 Sangeet Natak Akademi Award in Carnatic Music – Vocal, given by the Sangeet Natak Akademi , India's National Academy for Music, Dance and Drama Vidushi Jayalakshmi died in Chennai on 27 May 2014. Early life and training Radha and",
+      "id": "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_0"
+    },
+    {
+      "text": "Shanmukhapriya and Haripriya , popularly known as the Priya Sisters , are Carnatic music singers. Early life They attended Little Flower School in Chittoor, Andhra Pradesh. They started learning Carnatic music from their father, Sri V.V.Subbaram, at an early age. In order to nurture their musical talent, their father shifted base to Chennai. Later they became the disciples of the renowned duo Radha and Jayalakshmi who were disciples of the legendary G. N. Balasubramaniam . They learnt many nuances and subtleties of music during the five-year tenure under Radha and Jayalakshmi including the advice that the singing should be so clear that the listener should be able to notate the entire kriti. Career Improving their repertoire was a major project and learning, a continuous process. Hence they joined Professor T.R.Subramaniam. They learnt many pallavis and kritis from him. They are part of the trend of duo singing in Carnatic music , which started in the 1950s, with performers like Radha Jayalakshmi , Soolamangalam Sisters and later continued by Bombay Sisters References External links Official site Artist Profiles : Shanmukha Priya and Hari Priya",
+      "id": "HotpotQA-validation-00000809/01_Priya-Sisters.html_c_0"
+    },
+    {
+      "text": "Music, Dance and Drama Vidushi Jayalakshmi died in Chennai on 27 May 2014. Early life and training Radha and Jayalakshmi's singing style belongs to the G. N. Balasubramaniam school, and they received their training in classical vocal music from the noted vocalist and teacher himself. Career Jayalakshmi has rendered songs in her trained, cultured and 'ringing' sweet voice in Tamil, Malayalam, Telugu and Kannada movies from the late 1940s to the early 60s. She also has a few playback singing credits from the 1970s. In Deivam, Kunnakkudi Vaidyanathan had both Radha and Jayalakshmi render Thiruchendooril Por Purindhu , a devotional song set in Thiruthani. This is perhaps the only film song sung by Radha of the duo. But both have given stage performances throughout India. The singers had no longer been giving performances towards the time of Jayalakshmi's death, but instead had shifted their efforts to teaching Carnatic music and were regarded as great teachers. Shanmukhapriya and Haripriya, popularly known as the Priya Sisters , were their students. Music composers Jayalakshmi sang for Jayalakshmi's most memorable songs date from the 50s films. S. Balachander S. M.",
+      "id": "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_1"
+    },
+    {
+      "text": "Govindarajan and A. M. Rajah . Other male singers she sang with include T. A. Mothi, Ghantasala , S. Balachander , Thiruchi Loganathan , K. Prasad Rao, V. N. Sundaram , Subrahmanyam and Pithapuram Nageswara Rao . She also sang duets with female singers, most notably with P. Leela and Soolamangalam Rajalakshmi . Others are M. L. Vasanthakumari , P. A. Periyanayaki , N. L. Ganasaraswathi , A. P. Komala , T. V. Rathnam , M. S. Rajeswari , S. Janaki , K. Rani and Jikki . The singing actors she sang with were K. R. Ramasamy and S. Varalakshmi . Death Jayalakshmi of the duo, died, aged 82, in Chennai on 26 May 2014. Radha died, aged 93, on 28 September 2025. Filmography List of film songs recorded by Radha Jayalakshmi: References External links Radha Jayalakshmi at last.fm Radha Jayalakshmi songs Archived 7 March 2012 at the Wayback Machine Reliving Beautiful Moments with Vidushis Radha Jayalakshmi, 1962",
+      "id": "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_3"
+    },
+    {
+      "text": "7 March 2012 at the Wayback Machine Reliving Beautiful Moments with Vidushis Radha Jayalakshmi, 1962 on Friday, April 27, 2012 Wikimedia Commons has media related to Radha Jayalakshmi .",
+      "id": "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- Radha Jayalakshmi were a Carnatic music vocalist duo (HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_0)\n- Priya Sisters are Carnatic music singers (HotpotQA-validation-00000809/01_Priya-Sisters.html_c_0)\n- Priya Sisters were disciples of Radha and Jayalakshmi (HotpotQA-validation-00000809/01_Priya-Sisters.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style?",
+      "doc_ids": [
+        "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_0",
+        "HotpotQA-validation-00000809/01_Priya-Sisters.html_c_0",
+        "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_1",
+        "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_3",
+        "HotpotQA-validation-00000809/00_Radha-Jayalakshmi.html_c_4"
+      ]
+    }
+  ]
+}

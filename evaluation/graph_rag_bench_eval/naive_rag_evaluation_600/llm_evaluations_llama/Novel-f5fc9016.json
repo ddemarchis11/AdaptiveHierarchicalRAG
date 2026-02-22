@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "In the narrative's depiction of poetic inspiration, the figure of a Deity within the Poet is described as coming to the Poet. This is mentioned in Footnote 613, which states that in the Sixth Book of the Fasti, 1. 6, Ovid says, 'There is a Deity within us (Poets): under his guidance we glow with inspiration; this poetic fervour contains the impregnating particles of the mind of the Divinity.'",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the figure described as coming to the Poet as a 'Deity within the Poet,' which is not aligned with the Gold Answer ('Tragedy came to the Poet'). While the context mentions poetic inspiration and a Deity within poets, it does not support the claim that this is the specific figure described as coming to the Poet in the narrative. The Model Answer fails to address the core fact from the Gold Answer and misses the key entity 'Tragedy.'"
+  }
+}

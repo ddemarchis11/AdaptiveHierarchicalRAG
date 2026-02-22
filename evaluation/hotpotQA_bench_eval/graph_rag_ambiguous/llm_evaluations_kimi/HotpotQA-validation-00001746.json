@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001746",
+  "question": "A modern card game shares with a British card game dating back to the sixteenth century the notable characteristic of having no wagering element — what is the older game?",
+  "gold_answer": "In Crash, there is no betting, as in Brag",
+  "llm_answer": "The older British card game is Crash.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model incorrectly identifies Crash as the older British card game, whereas the Gold Answer specifies Brag as the older game. The retrieved context supports Brag's historical precedence, dating back to the 18th century and its origins in Post and Pair from 1528. The model's answer is neither correct nor faithful to the context, and it fails to cover the key fact that Brag is the older game."
+  }
+}

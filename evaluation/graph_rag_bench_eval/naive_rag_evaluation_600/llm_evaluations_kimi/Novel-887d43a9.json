@@ -1,0 +1,12 @@
+{
+  "id": "Novel-887d43a9",
+  "question": "Is Mogador considered to be part of Morocco, according to the territorial definitions given in the narrative?",
+  "gold_answer": "Mogador is part of Morocco.",
+  "llm_answer": "Yes. The narrative treats Mogador as a Moroccan port whose merchants operate within the empire of Morocco; it is listed alongside other Moroccan towns without any suggestion that it lies outside the country’s territory.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Mogador is considered part of Morocco, aligning with the Gold Answer. It provides additional context by mentioning Mogador's role as a Moroccan port and its merchants operating within the empire, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

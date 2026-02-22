@@ -1,0 +1,12 @@
+{
+  "id": "Novel-48843076",
+  "question": "How are Ramierez and Cota connected in the narrative, and what is Ramierez's role at the fonda, given that Ramierez keeps the fonda and Cota is the daughter of Senora Ramierez?",
+  "gold_answer": "Ramierez keeps the fonda, and Cota is the daughter of Senora Ramierez.",
+  "llm_answer": "Ramierez is the husband of Señora Ramierez and the keeper of the fonda (inn).  \nCota is the daughter of Señora Ramierez but is not Ramierez’s biological child; she is the child of Señora Ramierez and the former Spanish landlord. Thus, within the household Ramierez functions as Cota’s step-father while running the fonda.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Ramierez as the keeper of the fonda and explains the relationship between Cota and Señora Ramierez, including the detail that Cota is not Ramierez's biological child but the daughter of the former Spanish landlord. This additional detail is supported by the retrieved context and does not contradict the Gold Answer. All key facts from the Gold Answer are included, and the Model Answer provides relevant elaboration grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001559",
+  "question": "In what movie did the male star of a movie about a widowed 37-year-old woman also star in in the year 1993?",
+  "gold_answer": "\"Red Rock West\"",
+  "llm_answer": "The evidence provided does not mention a movie about a widened 37-year-old woman or identify the male star of such a movie. Therefore, it is impossible to determine which movie he starred in during 1993 based on the given evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response ('Red Rock West') and does not utilize external knowledge to answer the question. Additionally, the retrieved context does not contain relevant information to support the answer, leading to a lack of grounding and evidence coverage."
+  }
+}

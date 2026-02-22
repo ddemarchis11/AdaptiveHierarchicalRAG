@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2b0a2dfb",
+  "question": "What notable feature is described as belonging to the town of Toser, according to the text's depiction of its environment?",
+  "gold_answer": "Toser has gardens.",
+  "llm_answer": "The text does not mention the town of Toser. However, it does mention the town of St. Ives, which is described as having \"dark, narrow streets, pervaded by a 'most ancient and fish-like smell'.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the text does not mention Toser and instead discusses St. Ives, which is irrelevant to the question. The Gold Answer clearly identifies gardens as a notable feature of Toser, but the Model Answer fails to address this or provide any relevant information about Toser's environment."
+  }
+}

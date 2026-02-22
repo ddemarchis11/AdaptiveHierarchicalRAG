@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d6b88dbd",
+  "question": "During the vote on the Ninety-Two Resolutions in the Assembly of Lower Canada, which member, known for his moderate stance, voted against these resolutions?",
+  "gold_answer": "Augustin Cuvillier voted against the Ninety-Two Resolutions.",
+  "llm_answer": "The member known for his moderate stance who voted against the Ninety-Two Resolutions was **Neilson**.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Augustin Cuvillier voted against the Ninety-Two Resolutions, while the Model Answer incorrectly identifies Neilson as the member who voted against them. The retrieved context does not provide explicit support for either claim, but the Model Answer contradicts the Gold Answer and fails to align with the correct information."
+  }
+}

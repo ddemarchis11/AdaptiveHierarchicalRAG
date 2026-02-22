@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f83e84a2",
+  "question": "To which professional association did Elsie Maud Inglis write, seeking support or collaboration during the organization of medical units?",
+  "gold_answer": "Elsie Maud Inglis wrote to the Registered Medical Women's Association.",
+  "llm_answer": "The National Union of Women's Suffrage Societies (N.U.W.S.S.) adopted the plan of campaign on 15th October, and the London society was soon taking up the work of procuring money to start new units, and to send Dr. Inglis out on her last enterprise, with a unit fully equipped to work with the Serbian army.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the National Union of Women's Suffrage Societies (N.U.W.S.S.) as the association Elsie Maud Inglis wrote to for support or collaboration during the organization of medical units. The Gold Answer specifies the Registered Medical Women's Association, and there is no evidence in the retrieved context to support the Model Answer's claim. Therefore, the Model Answer is incorrect, unfaithful to the context, and does not cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "id": "HotpotQA-validation-00000570",
+  "question": "In which city and country were the 2015 Pacific Games held, at which a small Pacific island nation's basketball side failed to win a single match across four outings?",
+  "gold_answer": "Port Moresby, Papua New Guinea",
+  "llm_answer": "The 2015 Pacific Games were held in Port Moresby, Papua New Guinea, where Kiribati’s national basketball team lost all four of its games.",
+  "context": [
+    {
+      "text": "The Kiribati national basketball team are the basketball side that represent Kiribati in international competitions. They competed at the 2015 Pacific Games , where they finished with an 0–4 record. Performance at the Pacific Games 2015 - 9th place References External links Kiribati Basketball Federation v t e v t e",
+      "id": "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_c_0",
+      "doc_id": "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html",
+      "community_id": 0,
+      "score": 40.131935
+    },
+    {
+      "text": "Basketball at the 2015 Pacific Games in Port Moresby , Papua New Guinea was held at the BSP Arena and PNG Power Dome on 3–12 July 2015. Guam won the gold medal in the men's tournament, defeating Fiji by 78–61 in the final. Tahiti secured the bronze medal by beating hosts Papua New Guinea by 83–73. Fiji won the gold medal in the women's tournament, defeating American Samoa by 75–61. Tahiti beat Papua New Guinea by 62–51 to win the bronze medal. Medal summary Medal table Results Participating nations Ten countries competed in basketball at the 2015 Pacific Games: American Samoa Fiji French Polynesia Guam Kiribati Nauru New Caledonia Papua New Guinea Samoa Solomon Islands Men's tournament Group A Source: pg2015 (archived) Rules for classification: a. points; b. win–loss record; c. goal average d. head-to-head records; e. quotient system Group B Source: pg2015 (archived) Rules for classification: a. points; b. win–loss record; c. overall goal average d. head-to-head records; e. quotient system Notes: Classification playoffs Source: pg2015 (archived) Top six playoffs Source: pg2015 (archived) Finals Semi-finals and medal finals were played at the Power Dome on Saturday 11 July and Sunday 12 July, respectively. Semi-finals Third place Final Women's tournament Group A Source: pg2015 (archived) Group B Source: pg2015 (archived) Classification playoffs Source pg2015 (archived) Top four playoffs Source pg2015 (archived) Finals The medal matches were played at the PNG Power Dome on Saturday 11 July. Third place Final See also Basketball at the Pacific Games References",
+      "id": "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_c_0",
+      "doc_id": "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html",
+      "community_id": 0,
+      "score": 38.551224
+    },
+    {
+      "text": "Powerlifting at the 2015 Pacific Games was held from 9–10 July 2015 in the Sir John Guise Indoor Power Dome at Port Moresby , Papua New Guinea. The host nation Papua New Guinea was the dominant team, particularly in the women's divisions where it claimed six of the seven possible gold medals. Nauru was the strongest team in the men's divisions, winning four of the eight weight categories. Telupe Iosefa received the first ever gold medal won by Tuvalu at the Pacific Games in the 120 kg male division. Medal summary Medal table * Host nation ( Papua New Guinea ) Men Women References",
+      "id": "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_c_0",
+      "doc_id": "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html",
+      "community_id": 0,
+      "score": 31.937506
+    },
+    {
+      "text": "The 2014–15 Iona Gaels men's basketball team represented Iona College during the 2014–15 NCAA Division I men's basketball season . The Gaels, led by fifth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference . They finished the season 26–9, 17–3 in MAAC play to finish win the MAAC regular season championship. They defeated Siena and Monmouth to advance to the championship game of the MAAC tournament where they lost to Manhattan. As a regular season champion who failed to win their conference tournament, they received an automatic bid to the National Invitation Tournament where they lost in the first round to Rhode Island. Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+      "doc_id": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html",
+      "community_id": 0,
+      "score": 27.102629
+    },
+    {
+      "text": "Australia competed at the 2015 Pacific Games in Port Moresby , Papua New Guinea from 4 to 18 July 2015. Australia qualified 43 athletes. It was the first time that Australia had competed in the Pacific Games. Australia was ranked 6th at the Games, with 47 medals ( 17 gold - 19 silver - 11 bronze ). Rugby sevens Australia qualified a team of 12 athletes. Women – Women's tournament . Nicole Beck (captain) (NSW) Brooke Anderson (NSW) Dominique du Toit (NSW) Nikki Etheridge (NSW) Georgie Friedrichs (QLD) Mollie Gray (NSW) Sarah Halvorsen (NSW) Mahalia Murphy (NSW) Taleena Simon (NSW) Tanisha Stanton (NSW) Laura Waldie (QLD) Brooke Walker (QLD) Sailing Australia qualified 3 athletes. Women Carissa Bridge (QLD) Men Thomas Vincent (VIC) Mark Spearman (WA) Taekwondo Australia qualified 12 athletes. Women Deanna Kyriazopoulos (NSW) Keshena Waterford (ACT) Catherine Risbey (ACT) Caroline Marton (VIC) Carmen Marton (NSW) Nicole Men (ACT) Tassya Stevens (SA) Men Thomas Auger (SA) Tom Afonczenko (VIC) Jack Marton (VIC) Hayder Shkara (NSW) Daniel Safstrom (VIC) Safwan Khalil (NSW) Weightlifting Australia qualified 15 athletes. Women Mary Barter (née Witham) (QLD) Erika Ropati-Frost (née Yamasaki) (QLD) Tia-Clair Toomey (QLD) Kiana Elliott (NSW) Philippa Malone (NSW) Camilla Fogagnolo (TAS) Belinda van Tienen (VIC) Men Matthew Munns (WA) Benjamin Shaw (QLD) Mitchell Delbridge (QLD) Malek Chamoun (NSW) Francois Etoundi * (VIC) Liam Larkins (VIC) Zac Grgurevic (VIC) Philip Wood (VIC) * Subject to selection conditions References",
+      "id": "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html_c_0",
+      "doc_id": "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html",
+      "community_id": 0,
+      "score": 24.232128
+    },
+    {
+      "text": "The 2015–16 Iona Gaels men's basketball team represented Iona College during the 2015–16 NCAA Division I men's basketball season . The Gaels, led by sixth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference (MAAC). They finished the season 22–11, 16–4 in MAAC play to finish in second place. They defeated Canisius , Siena , and Monmouth to be champions of the MAAC tournament and earn the conference's automatic bid to the NCAA tournament where, as a #13 seed, they lost in the first round to Iowa State . Previous season The Gaels finished the 2014–15 season 26–9, 17–3 in MAAC play to win the MAAC regular season championship. Iona lost to Manhattan in the championship game of the MAAC tournament and earned an automatic bid to the National Invitation Tournament . In the NIT, they lost in the first round to Rhode Island . Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+      "doc_id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html",
+      "community_id": 0,
+      "score": 23.996006
+    },
+    {
+      "text": "was stationed in Misawa, Japan with detachments participating in joint exercises in South Korea and Guam. Starting in March 2018, the cycle begins again with VAQ-138 flying to Nellis AFB, Nevada, for RED FLAG 18–2. From May to December, the Rampaging Yellow Jackets once again found themselves stationed at Misawa, Japan for one of their most busy deployments yet by participating in the following exercises: MALABAR (Guam), THROWING KNIVES (Japan), NUDAY HUNTER (Guam), VALIANT SHIELD (Guam), PACIFIC THUNDER (South Korea), and KEEN SWORD (Japan). After finishing the 2018 deployment, 2019's training cycle started in February for the squadron's first trip to NAS Fallon for a missile shoot. The next trip to Fallon lasted just shy of two weeks, beginning 31 March; the final trip to Fallon occurred in mid June, also for two weeks. In between the detachments, three times throughout 2019, VAQ-138 supported GTI operations in Fallon. The final detachment took the Rampaging Yellow Jackets up to Eielson AFB, Alaska, for a red flag integration exercise with various platforms from the United States Air Force. In October 2019, VAQ-138 was sent West, back to Misawa AFB, Japan, in support of Seventh Fleet and national tasking requirements. While on detachment, the Yellow Jackets seized the opportunity to partner with the esteemed F-16 \"Wild Weasels\" of the 13th Fighter Squadron to accomplish unique training opportunities, increasing joint capabilities. Towards the end of January in 2019, while still stationed at Misawa AFB, a detachment was sent to Andersen AFB, Guam, to participate in Cope North for 5 weeks. At Cope North, VAQ-138 integrated with the Royal Australian Air Force (RAAF), Japanese Air Self-Defense Force (JASDF), United States Air Force (USAF), and the United States Marine Corps (USMC) assets to conduct multiple simulated large force strike. By the end of April, VAQ-138 and completed their mission and returned home to Whidbey Island, Washington. Later that year, the squadron played a role in Gunfighter Flag: a multi-branch/international integration exercise at Mountain Home AFB, Idaho, to practice SEAD (suppression of enemy air defenses). The highlight of 2020 for VAQ-138 took place in September, as the squadron made base history: becoming the first squadron to execute a high-speed anti-radiation missile (HARM) shoot from home base NASWI. See also Wikimedia Commons has media related to Electronic Attack Squadron 138 (United States Navy) . Naval aviation Modern US Navy carrier air operations List of United States Navy aircraft squadrons Notes References Bibliography {CVWP Command Operations Report (COR)",
+      "id": "HotpotQA-validation-00000927/00_VAQ-138.html_c_2",
+      "doc_id": "HotpotQA-validation-00000927/00_VAQ-138.html",
+      "community_id": 1,
+      "score": 21.862972
+    },
+    {
+      "text": "Map of the battle The Battle of Guam (21 July – 10 August 1944) was the American recapture of the Japanese-held island of Guam , an American territory in the Mariana Islands captured by the Japanese in the First Battle of Guam in 1941 during the Pacific campaign of World War II . The battle was a critical component of Operation Forager . The recapture of Guam and the broader Mariana and Palau Islands campaign resulted in the destruction of much of Japan's naval air power and allowed the United States to establish large airbases from which it could bomb the Japanese home islands with its new strategic bomber , the Boeing B-29 Superfortress . The invasion of Saipan was scheduled for 15 June 1944, with landings on Guam tentatively set for just three days later, but the Battle of the Philippine Sea and stubborn resistance by the unexpectedly large Japanese garrison on Saipan led to the invasion of Guam being postponed for over a month. On 21 July, American forces landed on both sides of the Orote Peninsula on the western side of Guam, planning to secure Apra Harbor . The 3rd Marine Division landed at Asan near Agana to the north of Orote, and the 1st Provisional Marine Brigade landed near Agat to the south. The Marines at the two beachheads were pinned down by heavy Japanese fire, making initial progress inland quite slow. Supply was very difficult; landing ships could not come closer than the reef, several hundred yards from the beach, and amphibious vehicles were scarce. The 1st Provisional Brigade blocked off the Orote Peninsula on 25 July, and that night the Japanese counterattacked , in coordination with an attack against the 3rd Marine Division to the north. The effort was a failure. On 28 July the two beachheads were linked, and by 29 July the Americans had secured the Orote peninsula. The Japanese counterattacks against the beachheads and the fierce fighting beforehand had exhausted them. By the start of August, they were running out of food and ammunition, and they had only a handful of tanks left. They withdrew from southern Guam, planning to make a stand in the mountainous central and northern part of the island, and to engage in a delaying action. The Marines and the Army's 77th Infantry Division overran the rest of the island. Rain and thick jungle made conditions difficult for the Americans, but after an engagement with the main Japanese line of defense around Mount Barrigada from 2 to 4 August, the Japanese line collapsed. On 10 August organized Japanese resistance ended, and Guam was declared secure, but 7,500 Japanese soldiers were estimated to still be at large. Geography Guam , at 225 square miles (580 km 2 ), is the largest of the Mariana Islands , larger than the other fourteen major islands combined. It is 32 miles (51 km) long from north to south,",
+      "id": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_c_0",
+      "doc_id": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html",
+      "community_id": 0,
+      "score": 21.59625
+    },
+    {
+      "text": "worth $32.1M. In July 2024, he signed an extension worth $50M over six years. In the 2023–24 season, Hurley led the Huskies to a school-record 37 wins, a Big East regular season title, a Big East tournament championship, a #1 overall seed in the NCAA tournament for the first time in school history, and a second-straight NCAA national championship. He was named the Naismith College Coach of the Year and received the Sporting News National Coach of the Year Award . In the days after winning the 2024 Final Four, Hurley received and declined a lucrative head coaching offer from Kentucky . In June 2024 he interviewed with the Los Angeles Lakers , but declined their offer as well, choosing to return to UConn to attempt to win a third straight championship. Personal life Hurley married Andrea Sirakides in 1997. They met while they were both students at Seton Hall. They have two sons: Danny (born July, 1999) and Andrew (born January 30, 2002). Danny graduated from Seton Hall in 2021. Andrew attends the University of Connecticut, where he was on his father's 2023 and 2024 NCAA championship teams. On September 6, 2019, Hurley had surgery to replace two disks in his neck with artificial ones. Doctors told Hurley the condition was part hereditary and part the result of years of wear and tear associated with being a lifelong athlete. He returned to work less than two weeks after surgery. Hurley is a practicing Catholic. During his years at Seton Hall, Hurley met psychologist Sister Catherine Waters, who changed his life. He often talks with and thanks Sr. Catherine, even after his NCAA championship in 2023. He is an avid fan of the Cincinnati Bengals . Head coaching record References External links Connecticut profile",
+      "id": "HotpotQA-validation-00005979/00_Dan-Hurley.html_c_1",
+      "doc_id": "HotpotQA-validation-00005979/00_Dan-Hurley.html",
+      "community_id": 1,
+      "score": 19.856985
+    },
+    {
+      "text": "(Task Force 51), Vice Admiral Richmond K. Turner ; and the commander of the Expeditionary Troops (Task Force 56), Lieutenant General Holland M. Smith . Task Force 51 was divided into the Northern Attack Force (Task Force 52), under Turner, which would land and support the troops on Saipan and Tinian, and the Southern Attack Force (Task Force 53), under Rear Admiral Richard L. Conolly , the commander of Amphibious Group 3, which would land and support the troops on Guam. In addition to the two defense battalions, Brigadier General Pedro Augusto del Valle 's III Amphibious Corps Artillery had the 1st and 2nd 155 mm Howitzer Battalions and the 7th 155 mm Gun Battalion. A Marine Corps observation squadron, VMO-1 , was also assigned. Senior Navy and Marine Corps commanders. Left to right: Admiral Raymond A. Spruance , Lieutenant General Holland M. Smith , Rear Admiral Richard L. Conolly , Major General Henry L. Larsen and Major General Roy S. Geiger In Nimitz's preliminary order of 20 March 1944, the task was recapturing Guam was assigned to Major General Roy S. Geiger 's I Marine Amphibious Corps, which was renamed the III Amphibious Corps on 15 April. For this operation, Geiger had the 3rd Marine Division , the 1st Provisional Marine Brigade and the 9th and 14th Defense Battalions . The 3rd Marine Division was commanded by Major General Allen H. Turnage . The 1st Provisional Marine Brigade was activated at Pearl Harbor on 22 March, and Brigadier General Lemuel C. Shepherd Jr. assumed command on 16 April. The brigade was built around the 4th Marine Regiment on Emirau and the 22nd Marine Regiment , which was in the Marshall Islands; both were ordered to move to Guadalcanal. The 27th Infantry Division was designated the reserve for both the Northern and Southern Attack Forces. The Pacific Ocean Areas reserve was the 77th Infantry Division , which was still in the United States, but under orders to move to Hawaii. Geiger's headquarters was on Guadalcanal in the Solomon Islands , so he flew to Pearl Harbor on 29 March with members of his staff to confer with Spruance, Turner, Smith and Conolly. The plan they drew up, Operation Plan (OpPlan) 1-44, was approved by Smith on 3 April and Turner and Spruance the following day. It called for simultaneous landings on either side of the Orote Peninsula , with a northern attack group commanded by Conolly landing the 3rd Marine Division between Adelup Point and the Tatgua River, while a south attack group under Rear Admiral Lawrence F. Reifsnider landed the",
+      "id": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_c_4",
+      "doc_id": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html",
+      "community_id": 0,
+      "score": 18.944164
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_0",
+      "summary": "**Title**: Kiribati Basketball Team\n\n**Summary**: The Kiribati national basketball team represents Kiribati in international competitions. At the 2015 Pacific Games, the team finished in 9th place after losing all four of its games. The Kiribati Basketball Federation oversees the national squad.\n\n**Keywords**: Kiribati, basketball, Pacific Games, 2015, national team",
+      "is_seed": true,
+      "expand_score": 0.8061474561691284
+    },
+    {
+      "community_key": "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_0",
+      "summary": "**Title**: 2015 Pacific Games Powerlifting\n\n**Summary**: Powerlifting at the 2015 Pacific Games took place 9–10 July at Port Moresby’s Sir John Guise Indoor Power Dome. Papua New Guinea dominated the women’s events, capturing six of seven golds, while Nauru led the men’s competition with four titles across eight weight classes. Tuvalu earned historic recognition when Telupe Iosefa claimed its first-ever Pacific Games gold in the 120 kg male division.\n\n**Keywords**: 2015 Pacific Games, powerlifting, Papua New Guinea, Nauru, Tuvalu",
+      "is_seed": true,
+      "expand_score": 0.8459011912345886
+    },
+    {
+      "community_key": "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_0",
+      "summary": "**Title**: 2015 Pacific Games Basketball  \n\n**Summary**:  \nBasketball at the 2015 Pacific Games took place 3–12 July in Port Moresby, Papua New Guinea, using the BSP Arena and PNG Power Dome. Guam captured the men’s gold by defeating Fiji 78-61, while Tahiti claimed bronze over the host nation. Fiji reversed the outcome in the women’s draw, winning gold against American Samoa 75-61, with Tahiti again earning bronze. Ten nations entered round-robin groups followed by classification and knockout rounds, culminating in medal finals on 11–12 July.  \n\n**Keywords**:  \nPacific Games 2015, Port Moresby basketball, Guam men’s gold, Fiji women’s gold, BSP Arena",
+      "is_seed": true,
+      "expand_score": 0.8429007530212402
+    },
+    {
+      "community_key": "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html_0",
+      "summary": "**Title**: Australia’s 2015 Pacific Games Debut\n\n**Summary**: Australia made its inaugural appearance at the 2015 Pacific Games in Port Moresby, fielding 43 athletes who secured 47 medals and a 6th-place finish. The delegation competed across rugby sevens, sailing, taekwondo, and weightlifting, with women’s rugby sevens claiming a full squad and taekwondo and weightlifting each entering 12 and 15 competitors respectively. Notable athletes included rugby captain Nicole Beck and future CrossFit champion Tia-Clair Toomey.\n\n**Keywords**: Pacific Games 2015, Australia debut, rugby sevens, taekwondo, weightlifting",
+      "is_seed": true,
+      "expand_score": 0.8459011912345886
+    },
+    {
+      "community_key": "HotpotQA-validation-00004939/01_American-Hockey-League.html_3",
+      "summary": "**Title:** AHL Franchise Relocations and Expansion\n\n**Summary:**  \nThe American Hockey League (AHL) has undergone significant franchise relocations and realignments, particularly influenced by NHL parent clubs seeking closer geographic ties with their affiliates. Between 2011 and 2021, numerous teams moved or were rebranded, including the Manitoba Moose, St. John's IceCaps, and Iowa Wild. A major shift occurred in 2015 when five AHL teams relocated to California to form a new Pacific Division, all affiliated with NHL Pacific Division clubs. Additional moves included the Hamilton Bulldogs becoming the IceCaps, and later the Laval Rocket, while other teams like the Binghamton Senators and Albany Devils also relocated. These changes reflect the AHL’s evolving role as a development league closely tied to NHL strategies.\n\n**Keywords:**  \nAHL relocations, NHL affiliates, Pacific Division, franchise realignment, minor league hockey",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_0",
+      "summary": "**Title**: 2015–16 Iona Gaels Season\n\n**Summary**: The 2015–16 Iona Gaels men’s basketball team, coached by Tim Cluess, posted a 22–11 record and captured the MAAC tournament title by defeating Canisius, Siena, and Monmouth, earning an automatic NCAA bid as a #13 seed before falling to Iowa State in the first round. After winning the MAAC regular-season crown the previous year but missing the NCAA tournament, the Gaels rebounded to secure the conference championship and return to March Madness. Home games were played at the Hynes Athletic Center.\n\n**Keywords**: Iona Gaels, MAAC tournament, Tim Cluess, NCAA bid, 2015–16 season",
+      "is_seed": true,
+      "expand_score": 0.811403751373291
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "summary": "**Title**: Myrsine Plant Diversity\n\n**Summary**:  \nThe genus Myrsine, now classified within Primulaceae, comprises over 280 species of leathery-leaved shrubs and small trees distributed mainly in tropical and subtropical regions worldwide. Notable adaptive radiations occur in New Zealand (e.g., red matipo, mapou) and Hawaiʻi (kōlea), with additional endemics across French Polynesia, Australia, Peru, Africa, and the Pacific islands. Formerly segregated genera Rapanea and Suttonia are merged into Myrsine, expanding its morphological and geographic range. Many species exhibit delayed fruit maturation and flowers that appear on leafless branches, contributing to their distinctive ecology and ornamental appeal.\n\n**Keywords**: Myrsine, Primulaceae, Pacific flora, adaptive radiation, tropical shrubs",
+      "is_seed": true,
+      "expand_score": 0.792529821395874
+    },
+    {
+      "community_key": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_0",
+      "summary": "**Title**: 2015–16 Iowa State Cyclones Season  \n\n**Summary**:  \nThe 2015–16 Iowa State Cyclones men’s basketball team, led by first-year head coach Steve Prohm, posted a 23–12 record and reached the NCAA Sweet Sixteen after wins over Iona and Little Rock. Finishing fifth in the Big 12 at 10–8, they bowed out to Oklahoma in the conference-tournament quarterfinals before earning an at-large NCAA bid. The season followed a 2014–15 campaign in which Iowa State won the Big 12 tournament under Fred Hoiberg, who left for the Chicago Bulls in June 2015, prompting the hiring of Prohm from Murray State.  \n\n**Keywords**:  \nIowa State Cyclones, Steve Prohm, 2015–16 season, NCAA Sweet Sixteen, Big 12 Conference",
+      "is_seed": true,
+      "expand_score": 0.811403751373291
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "summary": "**Title**: Dan Hurley Coaching Career\n\n**Summary**: Dan Hurley, born in 1973 to Hall-of-Fame high-school coach Bob Hurley Sr., built a decorated basketball résumé from St. Anthony HS standout to Seton Hall guard. After transforming St. Benedict’s Prep into a national powerhouse, he set Wagner’s single-season wins record, revived Rhode Island with two NCAA-tournament berths, and since 2018 has led UConn to back-to-back national titles (2023, 2024), a 37-win school record, and his own Naismith Coach-of-the-Year honors. Known for intense sideline energy, Hurley turned down lucrative offers from Kentucky and the Los Angeles Lakers in 2024, staying at UConn to pursue a third straight championship while guiding son Andrew on the roster.\n\n**Keywords**: UConn basketball, NCAA championships, Dan Hurley, college coaching, Big East",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_0",
+      "summary": "**Title**: Battle of Guam 1944\n\n**Summary**:  \nThe Battle of Guam (21 July – 10 August 1944) was a pivotal U.S. operation to retake the island from Japanese control during World War II. Part of Operation Forager, the campaign aimed to secure airbases for B-29 Superfortress bombers to strike Japan. After a month-long delay, U.S. forces landed on both sides of the Orote Peninsula, facing fierce resistance and logistical challenges. By linking the beachheads and overcoming Japanese counterattacks, American troops secured the island by 10 August, significantly weakening Japan’s air power and advancing the Pacific offensive.\n\n**Keywords**:  \nGuam, Operation Forager, B-29 Superfortress, Pacific War, Orote Peninsula",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "summary": "**Title**: Scaevola Plant Genus Overview\n\n**Summary**:  \nScaevola is a large genus of flowering plants in the Goodeniaceae family, comprising over 130 species with a primary center of diversity in Australia and Polynesia. The genus is notable for its distinctive fan-shaped, half-flowers, which have inspired both common names like \"fan-flower\" and \"naupaka,\" as well as Hawaiian legends. Scaevola species have dispersed widely across the Pacific Basin and beyond, with some species like *S. taccada* becoming invasive in non-native regions. The genus includes both dry-fruited, herbaceous Australian species and fleshy-fruited, shrubby species elsewhere, adapted for animal-mediated seed dispersal.\n\n**Keywords**:  \nScaevola, fan-flower, naupaka, Goodeniaceae, plant dispersal",
+      "is_seed": true,
+      "expand_score": 0.792529821395874
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "summary": "**Title:** Guam 1944 Battle Campaign\n\n**Summary:**  \nThe 1944 Battle of Guam saw U.S. Marines and Army forces execute a two-beach landing to retake the island from entrenched Japanese defenders. After overcoming fierce resistance at key points like Bundschu Ridge, Chonito Cliff, and Fonte Plateau, American units linked their northern and southern beachheads. Japanese commander Takashina launched a costly counterattack that failed, after which he shifted to guerrilla tactics before being killed. The campaign concluded with U.S. forces securing central Guam, inflicting ~3,500 Japanese casualties and suffering heavy losses themselves.\n\n**Keywords:** Guam 1944, Bundschu Ridge, Fonte Plateau, 3rd Marine Division, Japanese counterattack",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "summary": "**Title**: VAQ-138 Global Deployments & Exercises  \n\n**Summary**:  \nElectronic Attack Squadron 138 (VAQ-138, “Rampaging Yellow Jackets”) maintained an intensive 2018-2020 operational tempo, repeatedly deploying from Whidbey Island to Misawa, Japan as its forward hub. The EA-18G unit cycled through major Indo-Pacific exercises—MALABAR, VALIANT SHIELD, KEEN SWORD, Cope North—integrating with JASDF, RAAF, USAF and USMC for large-force SEAD training in Guam, South Korea and Japan. Between deployments, the squadron conducted three Fallon detachments for missile shoots and GTI support, plus Alaska red-flag and Idaho Gunfighter Flag events, culminating in a home-base HARM shot milestone.  \n\n**Keywords**:  \nVAQ-138, Misawa, Indo-Pacific exercises, EA-18G, SEAD",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000352/00_Rutgers-University.html_19",
+      "summary": "**Title**: Rutgers Scarlet Knights Athletics\n\n**Summary**:  \nRutgers University’s Scarlet Knights compete in 27 NCAA Division I sports and have a storied athletic history dating back to the first intercollegiate football game in 1869. The program has transitioned through multiple conferences, most recently joining the Big Ten in 2014, and has claimed Big East tournament titles in men’s soccer, baseball, women’s basketball, and men’s track & field. Notable achievements include a 1976 men’s basketball Final Four run, a 2006 football season that peaked at No. 6 nationally, and 2019 NCAA wrestling championships. Women’s rowing won the 2025 Island Challenge Cup at Henley, and the men’s lacrosse team reached its first Final Four in 2022. Budget-driven cuts in 2007 eliminated several men’s sports, though some continue as club teams.\n\n**Keywords**:  \nScarlet Knights, Big Ten, NCAA Division I, Rutgers football, women’s basketball",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_12",
+      "summary": "**Title**: Reese Witherspoon’s TV & Film Empire  \n\n**Summary**:  \nReese Witherspoon pivoted from leading film roles to powerhouse television production, co-creating and starring in HBO’s Big Little Lies and Apple TV+’s The Morning Show—both earning her Golden Globe nominations and multi-season renewals. She consolidated her influence by founding Pacific Standard and Hello Sunshine, companies dedicated to female-driven film and TV projects, and extended her brand into streaming rom-coms (Your Place or Mine, You’re Cordially Invited) and unscripted series (Truth Be Told, My Kind of Country). Even pandemic shutdowns only briefly delayed The Morning Show, whose scripts were rewritten to incorporate COVID-19 themes before its 2021 return. Across platforms, Witherspoon consistently produces and stars in content that spotlights complex women, turning her acting cachet into a scalable media business.  \n\n**Keywords**:  \nHello Sunshine, The Morning Show, Big Little Lies, female-led production, streaming television",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "summary": "**Title**: Myrsine Genus Overview  \n\n**Summary**:  \nMyrsine is a large, nearly worldwide genus of ~280 evergreen shrubs and trees in the Primulaceae family, centered in tropical and subtropical regions. Formerly split among Myrsinaceae, Rapanea, and Suttonia, it now unites all species under Myrsine, characterized by leathery alternate leaves, small flowers, and one-seeded drupes that often mature a year after flowering. The genus includes notable island radiations such as the kōlea of Hawaiʻi and the matipo of New Zealand, plus ornamental species like M. africana.  \n\n**Keywords**: Myrsine, Primulaceae, island radiation, kōlea, matipo",
+      "is_seed": false,
+      "expand_score": 0.9443215131759644
+    },
+    {
+      "community_key": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_0",
+      "summary": "**Title**: 2014–15 Iona Gaels Season\n\n**Summary**: The 2014–15 Iona Gaels men’s basketball team, coached by Tim Cluess, dominated Metro Atlantic Athletic Conference play with a 17–3 record to secure the regular-season title. After reaching the MAAC tournament final, they lost to Manhattan but earned an automatic NIT bid, where they were eliminated in the first round by Rhode Island. The Gaels finished the year 26–9 overall, marking a highly successful campaign.\n\n**Keywords**: Iona Gaels, 2014–15 season, MAAC champions, Tim Cluess, NIT appearance",
+      "is_seed": false,
+      "expand_score": 0.936105489730835
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "summary": "**Title**: Bob Hurley’s St. Anthony Dynasty  \n\n**Summary**:  \nLegendary coach Bob Hurley built St. Anthony High School into a national powerhouse, capturing 26 state titles and five undefeated seasons in 39 years while sending every senior to a Division I scholarship. His 1989, 2003-04 and 2007-08 squads are regarded among the greatest in U.S. high-school history, chronicled in the book *The Miracle of St. Anthony* and the PBS documentary *The Street Stops Here*. Despite the school’s tiny, under-resourced enrollment, Hurley produced six NBA first-round picks and over 150 Division I players, all while working full-time as a probation officer and declining every college offer. Inducted into the Naismith Hall of Fame in 2010, he now extends his impact through the free Hurley Family Foundation clinics for Jersey City youth.  \n\n**Keywords**: Bob Hurley, St. Anthony basketball, 26 state championships, undefeated seasons, Naismith Hall of Fame",
+      "is_seed": false,
+      "expand_score": 0.8503310680389404
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "summary": "**Title**: Bobby Hurley Basketball Journey\n\n**Summary**:  \nBobby Hurley, born in 1971 in Jersey City, is the NCAA all-time assists leader and a two-time national champion at Duke under Coach K. Drafted 7th overall by the Sacramento Kings in 1993, his NBA career was derailed by a near-fatal car crash his rookie season; he later played briefly for Vancouver before retiring in 1999. Hurley transitioned to coaching, first as an assistant alongside brother Dan at Wagner and Rhode Island, then as head coach at Buffalo (first NCAA berth) and Arizona State (Pac-12 program resurgence). Off the court, he owned racehorse Songandaprayer, faced foreclosure on Devil Eleven Stables, and has a family with wife Leslie.\n\n**Keywords**:  \nDuke point guard, NCAA assists leader, NBA draft #7, Arizona State coach, thoroughbred owner",
+      "is_seed": false,
+      "expand_score": 0.8390386700630188
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "summary": "**Title**: Sonerila Genus Diversity  \n\n**Summary**:  \nThe text chunks collectively catalogue the genus Sonerila (family Melastomataceae), a primarily Asian group of ~175 herbaceous or sub-shrub species distinguished by three-petaled flowers, opposite leaves, and scorpioid cymes. The lists enumerate roughly 200 accepted taxa—ranging from Sonerila affinis to S. zeylanica—highlighting centers of diversity in India, Sri Lanka, and the Indo-Pacific. Many species are micro-endemics with small populations, implying high conservation risk, although formal IUCN assessments remain incomplete.  \n\n**Keywords**:  \nSonerila, Melastomataceae, three-petaled, Asian flora, conservation",
+      "is_seed": false,
+      "expand_score": 0.8251665234565735
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "summary": "**Title**: Battle of Manila 1945\n\n**Summary**: In February 1945, Japanese Rear-Adm. Sanji Iwabuchi defied orders to withdraw and instead fortified Manila with 17,000 troops, vowing to fight to the death. U.S. 1st Cavalry and 37th Infantry Divisions entered the city on 3–5 February, liberating 4,000+ civilian internees at Santo Tomas and Bilibid Prison. While MacArthur prematurely declared Manila “fallen,” bitter house-to-house combat, artillery duels, and Japanese demolition of infrastructure raged for weeks. Japanese forces, trapped and facing annihilation, perpetrated systematic massacres of Filipino civilians in churches, hospitals, and schools, killing over 100,000 and reducing much of the historic capital to rubble before the last defenders were eliminated.\n\n**Keywords**: Manila 1945, Santo Tomas liberation, Japanese massacres, urban warfare, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.804929256439209
+    },
+    {
+      "community_key": "HotpotQA-validation-00004939/02_Metropolitan-Junior-Hockey-League.html_1",
+      "summary": "**Title**: Metropolitan Junior Hockey League Evolution  \n\n**Summary**:  \nThe Metropolitan Junior Hockey League (MJHL), founded in 1966 by New York Rangers GM Emile Francis, was a Tier III Junior B league operating across the eastern United States. Over five decades it rebranded from MetJHL to MJHL, expanded to 23 teams, and fed players mainly into NCAA Division III programs. After the 2015–16 season the North American Hockey League acquired operations, renaming it the North American 3 Atlantic Hockey League (NA3AHL), only for most remaining clubs to migrate to the Eastern Hockey League or the tuition-free NCDC by 2017, effectively dissolving the league.  \n\n**Keywords**:  \nMJHL, Tier III junior hockey, NA3AHL, Eastern Hockey League, NCAA placements",
+      "is_seed": false,
+      "expand_score": 0.7960696816444397
+    },
+    {
+      "community_key": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "summary": "**Title**: EA-18G Growler Operations & Operators\n\n**Summary**:  \nThe EA-18G Growler, the U.S. Navy’s carrier-based electronic-warfare aircraft, has seen recent combat firsts: during 2024’s Operation Prosperity Guardian it destroyed a Houthi Hind helicopter with an AGM-88E AARGM and downed a drone for its initial air-to-air kill, while VAQ-133 became the first squadron to deploy the ALQ-249 Next-Generation Jammer. Australia is the only export customer, fielding 12 Growlers with No. 6 Sqn RAAF after converting part of its Super Hornet buy; one aircraft was lost to an engine-fire accident in 2018 and replaced in 2023 from U.S. stocks, and a A$2 billion upgrade is now adding new sensors, weapons and jamming pods. Japan has studied the type for its own electronic-attack needs, while Finland evaluated but rejected the Growler in favor of the F-35. The U.S. Navy operates 153 EA-18Gs across 14 electronic-attack squadrons and test units.\n\n**Keywords**: EA-18G Growler, electronic warfare, Operation Prosperity Guardian, Royal Australian Air Force, Next-Generation Jammer",
+      "is_seed": false,
+      "expand_score": 0.791103720664978
+    },
+    {
+      "community_key": "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_0",
+      "summary": "**Title**: 2011–12 Murray State Racers Season  \n\n**Summary**:  \nThe 2011–12 Murray State Racers men’s basketball team, coached by first-year head coach Steve Prohm, dominated the Ohio Valley Conference with a 31–2 record. They secured both the OVC regular-season and tournament titles, earning an automatic NCAA tournament bid for their 15th appearance. After a second-round win over Colorado State, their run ended with a third-round loss to Marquette. Notably, guard Dexter Fields sat out the season due to NCAA transfer rules.  \n\n**Keywords**: Murray State, 2011–12 season, Ohio Valley Conference, NCAA tournament, Steve Prohm",
+      "is_seed": false,
+      "expand_score": 0.7899793982505798
+    },
+    {
+      "community_key": "HotpotQA-validation-00002303/00_University-of-Virginia.html_10",
+      "summary": "**Title**: University of Virginia Athletics Excellence  \n\n**Summary**:  \nThe University of Virginia (UVA) Cavaliers have become a powerhouse in NCAA sports, capturing 22 national titles since 2000 across men’s and women’s basketball, lacrosse, baseball, soccer, tennis, rowing, and swimming & diving. Under athletics directors Craig Littlepage and Carla Williams, UVA added marquee coaches—Tony Bennett, Lars Tiffany, Brian O’Connor, Todd DeSorbo—who delivered multiple championships, including the 2019 NCAA men’s basketball and lacrosse double. The men’s tennis team owns a 2013–17 “three-peat” plus 2022–23 repeats, while women’s swimming & diving has won five straight NCAA crowns (2021-25). UVA also dominates ACC rivalries, especially against Virginia Tech, and ranks first among ACC men’s programs with 23 NCAA titles.\n\n**Keywords**:  \nCavaliers, NCAA championships, Tony Bennett, ACC dominance, Virginia Tech rivalry",
+      "is_seed": false,
+      "expand_score": 0.7884008884429932
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "summary": "**Title**: Battle of Manila 1945 Devastation  \n\n**Summary**:  \nThe month-long Battle of Manila (3 Feb–3 Mar 1945) pitted U.S. and Filipino forces against entrenched Japanese naval troops, producing the Pacific War’s fiercest urban combat and leaving at least 100,000 civilians dead. Japanese massacres, American artillery bombardment, and house-to-house fighting obliterated the city’s Spanish-colonial and early-American architectural heritage, with only two buildings in the business district surviving intact. After the Japanese garrison ignored orders to withdraw, U.S. troops systematically reduced strongholds such as Intramuros, Rizal Stadium, and Fort San Antonio Abad, counting 16,665 Japanese dead inside the Walled City alone. The battle’s aftermath saw General Yamashita executed for war crimes and Manila’s transformation from the “Pearl of the Orient” to a modernist American-style capital. Commemoration efforts, including the 1995 Memorare-Manila Monument, honor the civilian victims and the city’s cultural loss.\n\n**Keywords**:  \nManila 1945, urban warfare, civilian massacres, heritage destruction, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.786066472530365
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "summary": "**Title**: Aspidistra Genus Diversity\n\n**Summary**: Aspidistra is a genus of shade-loving, rhizomatous perennial herbs in the asparagus family (Asparagaceae, subfamily Convallariodeae) native to eastern and southeastern Asia, especially China and Vietnam. Long overlooked by botanists, only 8–10 species were known before the 1980s, but intensive fieldwork—primarily in China and Vietnam—has since raised the accepted total to roughly 100 species. The plants bear ground-level, often inconspicuous, bell- or cup-shaped flowers and are cultivated worldwide as tough indoor or shade-garden foliage plants. Taxonomic revisions continue, with regional floras and monographs (e.g., Tillich 2008) enumerating over 90 named species, many recently described and narrowly endemic.\n\n**Keywords**: Aspidistra, species discovery, China, Vietnam, taxonomy",
+      "is_seed": false,
+      "expand_score": 0.784982442855835
+    },
+    {
+      "community_key": "HotpotQA-validation-00004130/00_Lincoln-Memorial-Railsplitters.html_1",
+      "summary": "**Title**: Lincoln Memorial Railsplitters Athletics\n\n**Summary**:  \nThe Lincoln Memorial Railsplitters represent Lincoln Memorial University in NCAA Division II sports, primarily within the South Atlantic Conference. Established in 1907, the program has evolved through multiple conferences, including the Gulf South Conference and NAIA leagues. The university fields a range of varsity teams—excluding football—and has achieved national tournament appearances in basketball, soccer, golf, and cross-country. Recent additions include field hockey and men’s and women’s wrestling, with women’s wrestling joining the NCAA Emerging Sports for Women program. Academically, several teams have earned recognition for high GPAs, and in 2019, LMU appointed its first African American Athletics Director, Jasher Cox.\n\n**Keywords**:  \nNCAA Division II, South Atlantic Conference, Lincoln Memorial University, Railsplitters, athletic history",
+      "is_seed": false,
+      "expand_score": 0.7835102081298828
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_0",
+      "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00004939/01_American-Hockey-League.html_3",
+      "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_0",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_0",
+      "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00000352/00_Rutgers-University.html_19",
+      "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_12"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_0",
+      "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_0",
+      "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_0",
+      "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_0",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00004939/02_Metropolitan-Junior-Hockey-League.html_1",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_0",
+      "HotpotQA-validation-00002303/00_University-of-Virginia.html_10",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00004130/00_Lincoln-Memorial-Railsplitters.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_0",
+      "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00000570/03_Australia-at-the-2015-Pacific-Games.html_0",
+      "HotpotQA-validation-00004939/01_American-Hockey-League.html_3",
+      "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_0",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_0",
+      "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00000927/00_VAQ-138.html_1",
+      "HotpotQA-validation-00000352/00_Rutgers-University.html_19",
+      "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_12",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_0",
+      "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00004939/02_Metropolitan-Junior-Hockey-League.html_1",
+      "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_6",
+      "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_0",
+      "HotpotQA-validation-00002303/00_University-of-Virginia.html_10",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00004130/00_Lincoln-Memorial-Railsplitters.html_1"
+    ],
+    "allowed_chunk_pool_size": 81,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

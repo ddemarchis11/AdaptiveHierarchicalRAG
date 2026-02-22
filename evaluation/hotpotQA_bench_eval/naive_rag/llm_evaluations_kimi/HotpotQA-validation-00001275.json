@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001275",
+  "question": "Which of the singers has more things to be known for, Greg Puciato or Syd Barrett?",
+  "gold_answer": "Gregory John \"Greg\" Puciato",
+  "llm_answer": "Syd Barrett has more things to be known for.  \nEvidence lists: multiple biographies, a dedicated official website, an archives site, a 2003 documentary, a 2023 documentary, song lists, and extensive discography entries.  \nGreg Puciato evidence only lists: rankings in two “greatest front-person” lists, praise for his vocals, and standard discography links.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Syd Barrett has more things to be known for, contradicting the Gold Answer which identifies Greg Puciato as the correct choice. While the Model Answer provides some evidence for Syd Barrett's prominence, it does not faithfully compare the two singers based on the retrieved context. Additionally, it fails to include key facts about Greg Puciato's achievements mentioned in the context, such as his rankings and praise from other musicians."
+  }
+}

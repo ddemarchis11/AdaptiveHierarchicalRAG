@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1c53b384",
+  "question": "What is the historical significance of Chaacmol in Maya history as described in the narrative, considering his funeral chamber at Chichen, the research conducted by Augustus Le Plongeon, and the circumstances of his death at the hands of Aac?",
+  "gold_answer": "Chaacmol had a funeral chamber at Chichen, was studied by Augustus Le Plongeon, and was killed by Aac.",
+  "llm_answer": "Chacmol’s historical significance rests on three converging points:\n\n1. He is the central figure in a dynastic tragedy recorded in the mural cycle of his own funeral chamber at Chichen-Itzá: younger brother Aac, enraged because the marriage law forced Moo to wed the younger Chaacmol instead of himself, murdered the ruler by driving a spear three times into his back.  \n2. The chamber itself—decorated with paintings and bas-reliefs that show Aac wearing the flayed heads of Chaacmol, the high-priest Cay and Queen Moo around his belt—was excavated and photographed by Augustus Le Plongeon in the 1870s; Le Plongeon’s work first revealed the narrative and fixed the name “Chaacmol” (later normalized to Chacmool) for both the individual ruler and the famous reclining statue type found inside the room.  \n3. Thus, through Le Plongeon’s documentation, Chaacmol became the first historically identified Maya personage whose life, violent death, and post-mortem veneration could be read directly from the building erected to house his remains.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing Chaacmol's funeral chamber at Chichen, his study by Augustus Le Plongeon, and his death at the hands of Aac. It provides additional context about the mural cycle, the tragic circumstances of his death, and Le Plongeon's role in documenting the narrative, all of which are supported by the Retrieved Context. The extra details enhance understanding without deviating from the core facts, and all key facts from the Gold Answer are included."
+  }
+}

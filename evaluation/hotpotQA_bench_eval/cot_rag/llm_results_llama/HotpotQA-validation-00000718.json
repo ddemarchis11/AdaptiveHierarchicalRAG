@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000718",
+  "question": "Albanians in Montenegro which make up 4.91 of the county's total population could be members of the Albanian Coalation Perspect which is a what?",
+  "gold_answer": "Albanian political party in Montenegro",
+  "llm_answer": "The Albanian Coalition Perspect is a political party.",
+  "context": [
+    {
+      "text": "Albanians in Montenegro ( Albanian : Shqiptarët e Malit të Zi ; Montenegrin : Албанци у Црној Гори , romanized : Albanci u Crnoj Gori ) are ethnic Albanians who constitute 4.97% of Montenegro's total population. They are the largest non- Slavic ethnic group in Montenegro. Albanians are particularly concentrated in southeastern and eastern Montenegro alongside the border with Albania in the following municipalities including Ulcinj (73.5% of total population), Tuzi (62.6%), Gusinje (34.4%), Plav (9.4%), and Rožaje (5.1%). The largest Montenegrin town with significant Albanian population is Ulcinj , where the Albanian National Council is located. In 2022, Dritan Abazović became the first ethnic Albanian to hold the office of Prime Minister of Montenegro . Geography Albanians in Montenegro are concentrated along the Albania-Montenegro border in areas that were incorporated in Montenegro after the Congress of Berlin (1878) and the Balkan Wars (1912-13). Coastally, they live in the Ulcinj (Ulqin) and Bar (Tivar) municipalities which formed part of Venetian Albania . Within the Municipality of Bar, Albanians are also found in the regions of",
+      "id": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_0"
+    },
+    {
+      "text": "of the populations respectively). A large number of Albanians also live in the following regions: Bar (Tivar) and Skadarska Krajina (Krajë) in Bar Municipality (1,919 Albanians or 4% of the population), Gusinje (Guci) in Gusinje Municipality (1,352 or 34%), Plav (Plavë) in Plav Municipality (853 or 9%) and Rožaje (Rozhajë) in Rožaje Municipality (1,176 or 5%). The largest Albanian settlement is Ulcinj , followed by Tuzi . Municipalities with an Albanian majority Of the 24 municipalities in the country, two have an ethnic Albanian majority. Anthropology The Albanians in Montenegro are Ghegs . 15th-16th century Albanian tribes in the territory of modern-day Montenegro Tribes The historical Albanian tribes which exist in Montenegro up to the modern era are: Hoti , Gruda , and Koja e Kuçit . Other Albanian tribes also existed in the past, but either formed other tribes or assimilated into the neighbouring Slavic population. Examples include Mataruge and Španje in Old Herzegovina , Kriči in the region of Mojkovac , Kryethi and Pamalioti around the city of Ulcinj, Mahine above Budva ,",
+      "id": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_25"
+    },
+    {
+      "text": "appear to have been predominantly a romanized people, nevertheless Albanian names also appear among them, as was the case with one of their leaders, katunar Šimrak . The name of the Nikšići , appears to have developed from the diminutive Albanian Niksh plus the Slavic suffix ić . Culture Right : Traditional female clothing from Grudë Left : Traditional male clothing from Krajë Montenegrin Albanian culture in this region is closely related to the culture of Albanians in Albania, and the city of Shkodër in particular. Their Albanian language dialect is Gheg as of Albanians in Northern Albania . Religion According to the 2003 census, 73.86% of Albanians living in Montenegro were Muslim and 26.13% were Roman Catholic . The religious life of Muslim Albanians is organized by the Islamic Community of Montenegro , comprising not only Albanians, but also other Muslim minorities in Montenegro. Catholic Albanians, generally living in Šestani , Malesija , and some in the Bar and Ulcinj municipalities, are members of Roman Catholic Archdiocese of Bar , whose members are mainly Albanians, but which also includes a small number of Slavs. The current archbishop, Rrok Gjonlleshaj , is an ethnic Albanian. During the Middle Ages, Eastern Orthodox Albanians also inhabited Montenegro, with some examples including the Mahine near Budva,",
+      "id": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_27"
+    },
+    {
+      "text": "Rek Bisheva. [ page needed ] The first political party created by Albanians in this country is the Democratic League in Montenegro , founded by Mehmet Bardhi in 1990. Most Albanians support the country's integration into the EU : during the 2006 Montenegrin independence referendum , in Ulcinj Municipality, where Albanians at that time accounted over 72% of the population, 88.50% of voters voted for an independent Montenegro. Overall, the vote of the Albanian minority secured the country's secession from Serbia and Montenegro . In 2008, the Albanian National Council ( Albanian : Këshilli Kombëtar i Shqiptarëve , abb . KKSH) was established to represent the political interests of the Albanian community. The current chairman of the KKSH is Faik Nika. In 2022, Dritan Abazović became the first ethnic Albanian to hold the office of Prime Minister of Montenegro. Prominent Individuals See also Albania–Montenegro relations Serbo-Montenegrins in Albania Malësia Malesija, Montenegro Albanians Gallery Albanians in Montenegro from 1921 to 2011. Percent of Albanians by municipalities, 1953. Percent of Albanians by settlements, 1961. Percent of Albanians by settlements, 1971. Percent of Albanians by settlements,",
+      "id": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_30"
+    },
+    {
+      "text": "and the Yugoslav army after 1919 in Plav-Gusinje was accompanied by repressive policies against the local population. An Albanian revolt, which later came to be known as the Plav rebellion rose up in the Rožaje, Plav and Gusinje districts, fighting against the inclusion of Sandžak in the Kingdom of Serbs, Croats and Slovenes . As a result, during the Serbian army's second occupation of Rožaje , which took place in 1918–1919, seven hundred Albanian citizens were slaughtered in Rožaje. In 1919, Serb forces attacked Albanian populations in Plav and Gusinje, which had appealed to the British government for protection. About 450 local civilians were killed after the uprising was quelled. These events resulted in a large influx of Albanians migrating to Albania . With the creation of the Kingdom of Serbs, Croats and Slovenes after World War I , Albanians in Montenegro became discriminated. The position would improve somewhat in Tito's Yugoslavia . In the mid-twentieth century, 20,000 Albanians lived in Montenegro and their number would grow by the end of the century. By the end of the 20th century the number of Albanians began to fall as a result of immigration. During the Second World War, Chetnik forces based in Montenegro conducted a series of ethnic cleansing operations against Muslims in the Bihor region. In",
+      "id": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_22"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Albanians in Montenegro are a distinct ethnic group (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_0).\n- They are the largest non-Slavic ethnic group in Montenegro (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_0).\n- Albanian National Council is located in Ulcinj (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_0).\n- Albanian National Council is a political organization (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_30).\n- The first political party created by Albanians in Montenegro is the Democratic League in Montenegro (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_30).\n- Albanian National Council was established in 2008 (HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_30).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Albanians in Montenegro which make up 4.91 of the county's total population could be members of the Albanian Coalation Perspect which is a what?",
+      "doc_ids": [
+        "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_0",
+        "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_25",
+        "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_27",
+        "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_30",
+        "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_c_22"
+      ]
+    }
+  ]
+}

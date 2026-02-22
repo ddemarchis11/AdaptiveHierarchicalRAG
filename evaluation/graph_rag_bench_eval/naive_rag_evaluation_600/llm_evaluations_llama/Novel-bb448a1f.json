@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bb448a1f",
+  "question": "In the scene where an ill-looking man enters Toto's cottage and searches the kitchen, what objects did the man open while looking for valuables?",
+  "gold_answer": "Boxes",
+  "llm_answer": "The ill-looking man opened the following objects while searching the kitchen:\n\n1. The cupboard\n2. A drawer in which lay the six silver teaspoons and the porringer that Toto had inherited from his great-grandfather.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the cupboard and drawer as objects opened by the ill-looking man, which is supported by the context. However, it misses mentioning 'boxes,' which is explicitly stated in the Gold Answer. While the additional details about the drawer's contents are accurate and grounded in the context, the omission of 'boxes' reduces evidence coverage and answer correctness."
+  }
+}

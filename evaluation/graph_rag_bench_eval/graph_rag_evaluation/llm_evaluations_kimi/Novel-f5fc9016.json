@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "The context does not describe any specific figure or concept coming to the Poet; it only reflects the youthful speaker’s sense that he himself might supply the insight poets had lacked.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that 'Tragedy came to the Poet,' but the Model Answer claims the context does not describe any specific figure or concept coming to the Poet. This directly contradicts the Gold Answer and fails to address the question correctly. Additionally, the retrieved context does not provide evidence to support the Model Answer's claim, making it unfaithful and lacking coverage of the key fact from the Gold Answer."
+  }
+}

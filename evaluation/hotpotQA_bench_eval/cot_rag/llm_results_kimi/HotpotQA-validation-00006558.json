@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00006558",
+  "question": "Who is the English Professional Footballer that is the niece of a former footballer born in the same place as where he plays?",
+  "gold_answer": "Trent Alexander-Arnold",
+  "llm_answer": "The English professional footballer who is the nephew of a former footballer born in the same place as where he plays is Trent Alexander-Arnold.",
+  "context": [
+    {
+      "text": "John Alexander (born 5 October 1955) is an English former footballer who holds the post of club secretary at Manchester United . Born in Liverpool , Alexander began his football career with a club called Ulysses , before being picked up by Millwall , for whom he made his league debut in 1976. After scoring twice in 15 appearances over the course of two years with Millwall, he moved to Reading ; he enjoyed greater success with Reading, scoring nine goals in 25 games. In 1981, he joined Northampton Town, but spent just one season with them before retiring from football at the age of 26 in 1982. Upon retiring from football, Alexander got a job with the BBC, but he later returned to football as club secretary at Watford . In 2000, he took up the same post at Tottenham Hotspur , spending ten years there before applying for the same job at Manchester United , where he would replace the retiring Ken Ramsden. He took over at Manchester United on 1 July 2010. He is the uncle of Real Madrid player Trent Alexander-Arnold . References External links John Alexander at Post War English & Scottish Football League A–Z Player's Transfer Database",
+      "id": "HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0"
+    },
+    {
+      "text": "Nick Schmidt ( ニック・シュミット , Nikku Shumitto ; born 12 September 2007) is a professional footballer who plays as a midfielder for FC St. Pauli . Born in Germany, he is a Japan youth international. Early life Schmidt was born on 9 March 2005 in Kiel , Germany. Born to a Japanese mother and a German father, he started playing football at the age of three. Club career As a youth player, Schmidt joined the youth academy of German side FC St. Pauli and was promoted to the club's senuor team ahead of the 2025–26 season . International career Schmidt is a Japan youth international. During February 2025, he played for the Japan national under-20 football team at the 2025 AFC U-20 Asian Cup . References External links Nick Schmidt at WorldFootball.net",
+      "id": "HotpotQA-validation-00000994/02_Nick-Schmidt.html_c_0"
+    },
+    {
+      "text": "the Season: 2024–25 Notes References External links Wikimedia Commons has media related to Trent Alexander-Arnold . Profile at the Real Madrid CF website Profile at the Liverpool F.C. website Profile at the Football Association website Trent Alexander-Arnold – UEFA competition record ( archive )",
+      "id": "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_27"
+    },
+    {
+      "text": "a Man of the Match award and helped Schmeichel set a new record for minutes without conceding a goal for Denmark, surpassing his father's record. During the Round of 16 match against Croatia , Schmeichel was named Man of the Match after saving a penalty-kick taken by Luka Modrić in extra-time and two penalties during the subsequent shootout , although his opposing counterpart Danijel Subašić saved three penalties in that shootout to eliminate Denmark. On 7 July 2021, in the semi-finals of UEFA Euro 2020 against England at Wembley Stadium , Schmeichel saved a penalty from Harry Kane in extra-time, who subsequently scored from the rebound, which proved to be the decisive goal as England prevailed 2–1. In November 2022, he was named in the 26-man squad for the 2022 FIFA World Cup in Qatar. On 23 March 2024, he earned his 100th international cap in a friendly match against Switzerland . Personal life Schmeichel is married to Stine Gyldenbrand. Together, they have three children: a son born in 2010, a daughter born in 2012 and a second daughter born in 2021. He is the son of Peter Schmeichel , a Danish former professional footballer who played as a goalkeeper during eight seasons at English club Manchester United where he won 15 trophies. Career statistics Club As of match played 11 February",
+      "id": "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_22"
+    },
+    {
+      "text": "Kyle Joseph George Lafferty (born 16 September 1987) is a Northern Irish professional footballer who plays as a striker for West of Scotland League Premier Division side Johnstone Burgh . Lafferty began his professional career with English side Burnley , where he made 89 appearances. He signed for Rangers in 2008 for £3.25 million and won three Scottish Premier League titles, the Scottish Cup once and the Scottish League Cup twice with the club. In 2012 Lafferty chose not to transfer over to the new company, moving to Switzerland's FC Sion . He signed for Serie B club Palermo in 2013 and led them to promotion as champions in his only season before joining Norwich City . He spent time on loan with Turkish club Çaykur Rizespor and back in England with Birmingham City . After just over a year back in Scotland with Heart of Midlothian , Lafferty re-signed for Rangers in August 2018, and he has since had short spells with Sarpsborg 08 , Sunderland , Reggina , Kilmarnock and Anorthosis Famagusta . In January 2022, he returned to Kilmarnock , joining the club for the second time. He would then return to his native Northern Ireland to play for Linfield for a short while, before dropping down to the Scottish seventh tier to play for Johnstone Burgh . He made his first international appearance for Northern Ireland in",
+      "id": "HotpotQA-validation-00000548/01_Kyle-Lafferty.html_c_0"
+    },
+    {
+      "text": "Trent John Alexander-Arnold (born 7 October 1998), sometimes known mononymously as Trent , is an English professional footballer who plays as a right-back or midfielder for La Liga club Real Madrid and the England national team . Considered one of the best right-backs in the world, he is known for his range of passing, crossing and assists, as well as his set-piece taking ability. Owing to such capabilities, Alexander-Arnold has also occasionally been deployed as a midfielder for both club and country. Alexander-Arnold joined Liverpool 's academy in 2004 and captained the club across its youth levels. He made his senior debut in 2016, at age 18, and played in back-to-back UEFA Champions League finals in 2018 and 2019 , winning the latter, and being named in the Champions League Squad of the Season. These appearances made him the youngest player to start in consecutive finals in the competition. In the same year, he won the UEFA Super Cup and the FIFA Club World Cup . In domestic football, Alexander-Arnold was named the 2019–20 PFA Young Player of the Year and the inaugural Premier League Young Player of the Season , has thrice been named in the PFA Team of the Year , and helped end Liverpool's 30-year league title drought by winning the 2019–20 Premier League . His success in 2020 led to his selection in the FIFA",
+      "id": "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- John Alexander (born Liverpool) is uncle of Trent Alexander-Arnold (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- Trent Alexander-Arnold is an English professional footballer.\n- Need to confirm Trent Alexander-Arnold plays for a club located in Liverpool.\n- Trent Alexander-Arnold is an English pro footballer (HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0).\n- Trent's uncle John Alexander was born in Liverpool (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- Trent grew up in West Derby, Liverpool and joined Liverpool FC academy (HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_1).\n- Trent formerly played for Liverpool FC (HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0).\n- Evidence shows Trent is male, not a niece; query seeks niece so another player is needed.\n- Evidence does not link a female player with same profile (uncle ex-footballer & same birthplace as club).\n- Trent Alexander-Arnold is male, not a niece, so does not satisfy query (HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0).\n- No evidence names a female English pro footballer linked to John Alexander or another ex-footballer born in Liverpool.\n- Liverpool FC is based in Liverpool, Merseyside (HotpotQA-validation-00006471/02_List-of-Liverpool-FC-managers.html_c_0).\n- Need a niece (female) with same profile: uncle former player born in Liverpool, and she plays for a Liverpool club.\n- Evidence lacks any female footballer meeting these criteria.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who is the English Professional Footballer that is the niece of a former footballer born in the same place as where he plays?",
+      "doc_ids": [
+        "HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0",
+        "HotpotQA-validation-00000994/02_Nick-Schmidt.html_c_0",
+        "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_22",
+        "HotpotQA-validation-00000548/01_Kyle-Lafferty.html_c_0",
+        "HotpotQA-validation-00006558/02_Arthur-Millard.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Trent Alexander-Arnold Liverpool club",
+      "doc_ids": [
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_27",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_17",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_1",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_26"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "female English footballer Liverpool club niece",
+      "doc_ids": [
+        "HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_0",
+        "HotpotQA-validation-00006471/02_List-of-Liverpool-FC-managers.html_c_0",
+        "HotpotQA-validation-00006558/01_Trent-Alexander-Arnold.html_c_13",
+        "HotpotQA-validation-00006471/02_List-of-Liverpool-FC-managers.html_c_7"
+      ]
+    }
+  ]
+}

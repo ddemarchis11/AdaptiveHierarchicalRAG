@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001141",
+  "question": "Who directed and wrote the 2016 film featuring the voice of Townsend Coleman?",
+  "gold_answer": "Garth Jennings",
+  "llm_answer": "The provided evidence does not specify the title of the 2016 film featuring Townsend Coleman, nor does it name the director or writer of that film.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the director or writer of the 2016 film featuring Townsend Coleman. However, it fails to answer the question, which is asking for the name 'Garth Jennings,' as provided in the Gold Answer. The retrieved context does not contain relevant information to support the Gold Answer, so the Model Answer is faithful to the context but does not meet the correctness or evidence coverage criteria."
+  }
+}

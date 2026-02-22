@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002276",
+  "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+  "gold_answer": "Brady Seals",
+  "llm_answer": "Nick Carter has released four solo albums: *Now or Never* (2002), *I'm Taking Off* (2011), *All American* (2015), and *Love Life Tragedy* (2025). Brady Seals has released four solo albums: *The Truth* (1996), *Brady Seals* (1998), *Thompson Street* (2003), and *Play Time* (2009). Therefore, both have released the same number of solo albums.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer incorrectly states that Nick Carter and Brady Seals have released the same number of solo albums, which contradicts the Gold Answer ('Brady Seals'). However, the Model Answer is fully grounded in the Retrieved Context and accurately lists the solo albums of both artists. The error lies in the interpretation of the data rather than the retrieval or grounding of facts."
+  }
+}

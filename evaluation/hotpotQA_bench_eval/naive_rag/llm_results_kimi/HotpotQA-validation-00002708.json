@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002708",
+  "question": "Are McFarland, USA and The Black Hole both sports films?",
+  "gold_answer": "no",
+  "llm_answer": "McFarland, USA is a sports film.  \nThe evidence does not indicate that The Black Hole is a sports film.",
+  "context": [
+    {
+      "text": "cinema audiences gave the film an average grade of \"A\" on an A+ to F scale. Stephen Farber of The Hollywood Reporter gave a positive review, writing that, \"While the beats of the story are often stock, the picture benefits from sensitive direction by New Zealander Niki Caro and from a most appealing performance by Kevin Costner .\" James Rocchi of TheWrap wrote \"A feel-good movie that earns all those good feelings, McFarland, USA might be running on a predetermined track, but the heart it shows along the journey is what makes it a winner.\" A. O. Scott of The New York Times described the film favorably as \"a slick and safe Disney version of a fascinating and complicated reality\", and that \"Mr. Costner, with his knack for grumpy understatement, manages both to dominate the film and to deflect attention from himself.\" Accolades McFarland, USA was nominated at the 2015 Teen Choice Awards in the category Choice Movie: Drama . See also List of films about the sport of athletics References External links Official website McFarland, USA at IMDb",
+      "id": "HotpotQA-validation-00002708/00_McFarland-USA.html_c_7"
+    },
+    {
+      "text": "McFarland, USA (also known as McFarland ) is a 2015 American sports drama film directed by Niki Caro , produced by Mark Ciardi and Gordon Gray, written by Christopher Cleveland, Bettina Gilois and Grant Thompson with music composed by Antônio Pinto . The film was co-produced by Walt Disney Pictures and Mayhem Pictures. Based on the true story of a 1987 cross country team from a mainly Latino high school in McFarland, California , the film stars Kevin Costner as Jim White , the school's coach, who leads the team to win a state championship. The film also stars Maria Bello and Morgan Saylor . McFarland, USA was released on February 20, 2015, received positive reviews from critics, and grossed over $45 million. The film was released on DVD and Blu-ray on June 2, 2015, by Walt Disney Studios Home Entertainment . Plot In the town of Boise, Idaho in 1987, high school football coach Jim White loses his temper and accidentally injures a player in the locker room. As a result, White is fired and has to relocate his family to his new job at McFarland High School in McFarland, California , which is predominantly Latino. They have trouble adjusting to the Hispanic neighborhood and lament being unable to afford to live in Bakersfield . White is first put as assistant football coach but ultimately loses his coaching status after pulling an injured",
+      "id": "HotpotQA-validation-00002708/00_McFarland-USA.html_c_0"
+    },
+    {
+      "text": "Disney Studios Home Entertainment . Soundtrack The soundtrack was released on February 17, 2015, through Walt Disney Records . It features original score composed by Antônio Pinto and songs heard in the film, with the original song \" Juntos (Together) \", performed by Juanes , released as a single on January 20, 2015. Reception Box office McFarland, USA grossed $44.5 million in North America and $1.2 million in other territories for a total gross of $45.7 million. The film opened in North America on February 20, 2015 and earned $11 million in its opening weekend, finishing fourth at the box office. Critical response The review aggregator website Rotten Tomatoes has reported an 80% approval rating, based on 133 reviews, with a rating average of 6.7/10. The site's critical consensus reads, \"Disney's inspirational sports drama formula might be old hat, but McFarland, USA proves it still works—especially with a talented director and eminently likable star in the mix.\" On Metacritic , which assigns a normalized rating, the film has a score of 60 out of 100, based on 32 critics, indicating \"mixed or average reviews\". In CinemaScore polls conducted during the opening weekend, cinema audiences gave the film an average grade of \"A\" on an A+ to F scale. Stephen Farber of The Hollywood Reporter gave a",
+      "id": "HotpotQA-validation-00002708/00_McFarland-USA.html_c_6"
+    },
+    {
+      "text": "A black hole is a region of extreme gravitational pull. Black hole or blackhole may also refer to: Computing Black hole (networking) , in computer networking, a place where traffic is silently discarded Blackhole server , a DNS server that handles reverse lookups of invalid IP ranges A storage engine provided by MySQL data Film and television The Black Hole (1979 film) , a 1979 science fiction film Black Holes (film) , a 1995 film The Black Hole (2006 film) , a science fiction film Black Hole (2015 film) , a documentary film The Black Hole (2016 film) , a 2016 science fiction thriller Black Hole (House) , a 2010 episode of House Black Hole (The Ren & Stimpy Show) , an episode of the American TV series The Ren & Stimpy Show Games Black Hole (pinball) , a 1981 pinball machine manufactured by Gottlieb Black Hole (1981 video game), an arcade game by TDS Blackhole (video game) , a 2015 video game by FiolaSoft Studio Black Hole (2016 video game) , a video game by Dufgames Black Hole (solitaire) , a solitaire card game Black Hole Entertainment , a video game developer Black Hole (board game) , a 1978 two-player space combat game published by Metagaming Concepts A faction in the Advance Wars games Music Black Hole Recordings , a record label Blackhole",
+      "id": "HotpotQA-validation-00002708/01_The-Black-Hole.html_c_0"
+    },
+    {
+      "text": "two-player space combat game published by Metagaming Concepts A faction in the Advance Wars games Music Black Hole Recordings , a record label Blackhole (band) , a British hardcore punk band Albums The Black Hole (album) , by Misty's Big Adventure Black Holes (album) , by The Blue Stones Songs \"Black Hole\" (song) , a song by Griff from One Foot in Front of the Other , 2021 \"Black Hole\", by Ana Johnsson from The Way I Am , 2004 \"Black Hole\", by Lindsay Lohan from A Little More Personal (Raw) , 2005 \"Black Hole\", by 3OH!3 from Omens , 2013 \"Black Hole\", by The Browning from Hypernova , 2013 \"Black Hole\", by Wussy from What Heaven Is Like , 2018 \"Black Hole\", by Band-Maid from Unseen World , 2021 \"Black Hole\", by Betraying the Martyrs from Silver Lining , 2022 \"Black Hole\", by We Came as Romans from Darkbloom , 2022 \"Black Hole\", by Lil Uzi Vert from Eternal Atake 2 , 2024 \"Black Hole\", by Funker Vogt , 2025 \"Blackhole\", by Beck from Mellow Gold , 1994 \"Blackhole\", by Psy'Aviah from Eclectric , 2010 \"Blackhole\", by Architects from The Sky, the Earth &",
+      "id": "HotpotQA-validation-00002708/01_The-Black-Hole.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- McFarland, USA is labeled a \"sports drama film\" about a cross-country team (HotpotQA-validation-00002708/00_McFarland-USA.html_c_0).\n- The Black Hole (1979) is described as a \"science fiction film,\" not sports (HotpotQA-validation-00002708/01_The-Black-Hole.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are McFarland, USA and The Black Hole both sports films?",
+      "doc_ids": [
+        "HotpotQA-validation-00002708/00_McFarland-USA.html_c_7",
+        "HotpotQA-validation-00002708/00_McFarland-USA.html_c_0",
+        "HotpotQA-validation-00002708/00_McFarland-USA.html_c_6",
+        "HotpotQA-validation-00002708/01_The-Black-Hole.html_c_0",
+        "HotpotQA-validation-00002708/01_The-Black-Hole.html_c_1"
+      ]
+    }
+  ]
+}

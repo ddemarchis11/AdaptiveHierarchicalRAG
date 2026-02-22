@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b016ff7a",
+  "question": "What is the significance of the mustang in the interactions between Grey and Cota at the Ramierez fonda, considering that Grey threw himself across the mustang and Cota cared only for the horse?",
+  "gold_answer": "Grey threw himself across the mustang, and Cota cared only for the horse.",
+  "llm_answer": "The mustang is the focal point of Grey’s and Cota’s first real contest of wills at the Ramierez fonda.  \nGrey throws himself across the pinto mare to prove he can master what Cota values; Cota, in turn, shows she cares only for the horse, not for Grey’s victory or its wounds.  \nThus the mustang becomes the single object through which each character tests and reveals their power over the other.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the significance of the mustang in the interactions between Grey and Cota, aligning with the Gold Answer and the Retrieved Context. It elaborates on the dynamics of their contest of wills and the symbolic role of the mustang, which is supported by the context. All key facts from the Gold Answer are included, and the additional details provided are relevant and grounded."
+  }
+}

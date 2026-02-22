@@ -1,0 +1,12 @@
+{
+  "id": "Novel-665744e5",
+  "question": "During the steel processing operation, in what medium does an ingot soak within the soaking pit?",
+  "gold_answer": "An ingot soaks in gas.",
+  "llm_answer": "The ingot soaks within the soaking pit in a medium that is entirely composed of hydrogen, nitrogen, and carbonic oxide, which is a perfectly non-oxidizing medium.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the medium in which the ingot soaks as being composed of hydrogen, nitrogen, and carbonic oxide, which aligns with the Gold Answer stating 'gas.' The retrieved context supports this information, explicitly describing the gas composition and its role in the soaking pit process. The Model Answer provides additional detail about the gas being non-oxidizing, which is relevant and grounded in the context."
+  }
+}

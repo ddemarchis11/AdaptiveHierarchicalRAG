@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "Ruth was Angeline Stickney's sister, and they were inseparable companions. They spent their childhood playing together, and Ruth was three years younger than Angeline.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Ruth as Angeline Stickney's sister and mentions their close companionship, which aligns partially with the Gold Answer. However, it does not address their connection during their educational journey at McGrawville, as stated in the Gold Answer. Additionally, the Retrieved Context does not provide grounding for the claim about their inseparable companionship or childhood activities, making the answer unfaithful to the context."
+  }
+}

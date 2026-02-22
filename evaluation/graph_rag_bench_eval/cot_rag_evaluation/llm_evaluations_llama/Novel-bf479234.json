@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bf479234",
+  "question": "What were the Ninety-Two Resolutions, and what did they demand regarding Lord Aylmer?",
+  "gold_answer": "The Ninety-Two Resolutions were passed by the Assembly of Lower Canada and demanded the impeachment of Lord Aylmer.",
+  "llm_answer": "The Ninety-Two Resolutions were a document introduced by Elzear Bedard in 1834, which was inspired by Louis-Joseph Papineau. They constituted the political platform of the extreme wing of the _Patriote_ party and were a sort of Declaration of Right.\n\nRegarding Lord Aylmer, the Ninety-Two Resolutions demanded his impeachment.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Ninety-Two Resolutions as a political document introduced in 1834 and inspired by Papineau, aligning with the context. It also accurately states that the Resolutions demanded the impeachment of Lord Aylmer, which is the core fact from the Gold Answer. The additional details about the Resolutions being a political platform and Declaration of Right are relevant and supported by the context."
+  }
+}

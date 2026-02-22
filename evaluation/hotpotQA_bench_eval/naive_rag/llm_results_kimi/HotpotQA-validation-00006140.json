@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006140",
+  "question": "The song by English indie rock band Florence and the Machine written by Florence Welch and Francis \"Eg\" White and released in 2011 is named after the painting which was completed in which year?",
+  "gold_answer": "1938",
+  "llm_answer": "1938",
+  "context": [
+    {
+      "text": "\" What the Water Gave Me \" is a song by English indie rock band Florence and the Machine from their second studio album, Ceremonials (2011). The song was written by lead singer Florence Welch and Francis \"Eg\" White , and produced by Paul Epworth . It was released on 23 August 2011 as the first promotional single from Ceremonials . After the band performed the song in Berkeley, California , on 12 June 2011, the studio version premiered on Florence and the Machine's official website. Welch decided to name the song \"What the Water Gave Me\" after seeing the 1938 Frida Kahlo painting of the same name . During an interview, she confirmed that the song was inspired by English writer Virginia Woolf . \"What the Water Gave Me\" is a pop , pop rock and soul song performed in tempo of 124 beats per minute. It incorporates several instruments into its composition, most notably harps and guitar . The accompanying music video for the song was filmed at Abbey Road Studios and it showed the band recording and singing the song. Upon its release, the song made its way into several chart most notably at number 24 on the UK Singles Chart . It also became the second song by Florence and the Machine which charted on the US Billboard Hot 100 . Background The song was recorded at Abbey Road Studios in London \"What the Water Gave Me\" was written by Florence Welch and Francis \"Eg\" White",
+      "id": "HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_0"
+    },
+    {
+      "text": "\" Lover to Lover \" is a song by English indie rock band Florence and the Machine . The song was released on 30 November 2012, as a digital download on iTunes as the fifth and final single from their second studio album Ceremonials (2011). The song was written by Florence Welch and Francis \"Eg\" White and produced by Paul Epworth . The Ceremonials Tour version of \"Lover to Lover\" is an edited version of the original with further production by Chris Hayden. The song became the band's first single to miss the top 200 in the UK Singles Chart . Critical reception \"Lover to Lover\" received acclaim from music critics. In a review of Ceremonials , Allison Fitts of Dart News Online praised the song, calling it \"one of the most unique [songs] on Ceremonials\" and saying, \"'Lover to Lover' is basically what the band would have sounded like 50 years ago\", and compared it to the works of Fitz & the Tantrums. American magazines Rolling Stone and Billboard , in their reviews of the album, compared the song to the work of Adele . Music video A music video to accompany the release of Lover to Lover was first released onto YouTube on 19 November 2012 at a total length of four minutes and twenty seconds. The video stars Welch alongside Australian actor Ben Mendelsohn and was directed by Vincent Haycock, who previously worked with the band when he directed the music",
+      "id": "HotpotQA-validation-00006140/02_Lover-to-Lover.html_c_0"
+    },
+    {
+      "text": "The song was recorded at Abbey Road Studios in London \"What the Water Gave Me\" was written by Florence Welch and Francis \"Eg\" White and produced by Paul Epworth . It was recorded in London at Abbey Road Studios . The song was debuted by Florence and the Machine during a live show in Berkeley, California on 12 June 2011. After that, the band added the song to the set list of their tour, Lungs Tour and on 23 August 2011 the album version of the song premiered on Florence and the Machine ' s official website. Welch elaborated on the title and meaning of the song: \"It's a song for the water, because in music and art what I'm really interested in are the things that are overwhelming. The ocean seems to me to be nature's great overwhelmer. When I was writing this song I was thinking a lot about all those people who've lost their lives in vain attempts to save their loved ones from drowning. It's about water in all forms and all bodies. It's about a lot of things; Virginia Woolf creeps into it, and of course Frida Kahlo , whose painfully beautiful painting gave me the title\". During an interview with NME , Welch revealed how she looked in Frida Kahlo painting by saying, \"At lot of the time when I'm writing, things will just appear. I was writing the song and this book on symbolism was lying around, and it had the painting in",
+      "id": "HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_1"
+    },
+    {
+      "text": "\" Never Let Me Go \" is a song by English indie rock band Florence and the Machine from their second studio album, Ceremonials (2011). The song was written by Florence Welch and Paul Epworth while production was handled by Epworth. Island Records released the song as the third single from the album on 30 March 2012. The band first premiered the song during one of their concerts before the release of the album on 15 October 2011. A Clams Casino remix of the song was placed on the 12\" white vinyl single which was available for pre-order on 22 March 2012. Musically, \"Never Let Me Go\" is a downtempo baroque pop and indie pop ballad in the key of A major completed with piano and drums while backing vocals repeatedly sing \"never let me go\" throughout the song. Many critics noted similarities between the song's composition and materials by other artists including Enya , Evanescence and Ryan Tedder -produced songs. The song received acclaim by critics who praised Welch's vocals and its balladry nature. Commercially, \"Never Let Me Go\" reached the top 10 in Israel and Australia, where it has been certified multi-platinum. An accompanying music video for the song was released online on 8 March 2012. It was directed by Tabitha Denholm and stars actor Jamie Campbell Bower , who plays Welch's love interest. The video features the pair together skating and",
+      "id": "HotpotQA-validation-00006140/03_Never-Let-Me-Go-Florence-and-the-Machine-song.html_c_0"
+    },
+    {
+      "text": "by reality itself!\" For Breton, this work was exemplary of her Surrealism. Namesakes What the Water Gave Me: Poems after Frida Kahlo is a collection of poems by Pascale Petit released in 2010 that were inspired by and reference Kahlo's work. With regards to the present painting, Petit makes Kahlo say that it reveals \"my half-drowned thoughts bobbing around my legs\". Other descriptions of various elements seen in the painting include \"The Empire State Building spewing gangrene / over my shin\" and a \"giant / one-legged quetzal pierced by a tree\". \" What the Water Gave Me \" is a song by Florence and the Machine , and the first song released from their second studio album, Ceremonials (2011). It was written by Florence Welch with Francis White and produced by Paul Epworth . Welch decided to give the name to the song after viewing a Frida Kahlo work. See also List of paintings by Frida Kahlo References",
+      "id": "HotpotQA-validation-00006140/01_What-the-Water-Gave-Me-painting.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Song \"What the Water Gave Me\" written by Welch & White, released 2011 (HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_0)\n- Song titled after Frida Kahlo's 1938 painting \"What the Water Gave Me\" (HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_0)\n- Painting completion year: 1938 (HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The song by English indie rock band Florence and the Machine written by Florence Welch and Francis \"Eg\" White and released in 2011 is named after the painting which was completed in which year?",
+      "doc_ids": [
+        "HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_0",
+        "HotpotQA-validation-00006140/02_Lover-to-Lover.html_c_0",
+        "HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_1",
+        "HotpotQA-validation-00006140/03_Never-Let-Me-Go-Florence-and-the-Machine-song.html_c_0",
+        "HotpotQA-validation-00006140/01_What-the-Water-Gave-Me-painting.html_c_5"
+      ]
+    }
+  ]
+}

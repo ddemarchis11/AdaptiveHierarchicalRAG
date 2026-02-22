@@ -1,0 +1,12 @@
+{
+  "id": "Novel-076be3e2",
+  "question": "What alternate name is used for Figheegh, according to the naming conventions presented in the text?",
+  "gold_answer": "Figuiq is another name for Figheegh.",
+  "llm_answer": "Insufficient evidence is provided to determine an alternate name for Figheegh.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to determine an alternate name for Figheegh. The Gold Answer clearly identifies 'Figuiq' as another name for Figheegh, and this is supported by the Retrieved Context, which mentions 'Figheegh, or Figuiq.' The Model Answer fails to provide the correct information and does not utilize the context effectively."
+  }
+}

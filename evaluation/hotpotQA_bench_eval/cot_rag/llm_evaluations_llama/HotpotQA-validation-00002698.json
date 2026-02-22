@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002698",
+  "question": "What region has the indigenous language that includes the word Catuaba?",
+  "gold_answer": "South America",
+  "llm_answer": "The region with the indigenous language that includes the word \"Catuaba\" is Brazil.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states South America as the region, which is broader and correct. The Model Answer specifies Brazil, which is part of South America but narrows the scope without explicit support from the retrieved context. The context mentions Brazil in relation to Catuaba as a medicinal plant but does not confirm it as part of an indigenous language. Thus, the Model Answer partially aligns with the Gold Answer but lacks grounding in the provided context."
+  }
+}

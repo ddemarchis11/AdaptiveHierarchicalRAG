@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006549",
+  "question": "What man won an Academy Award for his work on a drama based on the life of Rocky Graziano?",
+  "gold_answer": "Francis Keogh Gleason",
+  "llm_answer": "The evidence does not name any man who individually won an Academy Award for his work on the drama “Somebody Up There Likes Me.”",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that no man is named as an individual Academy Award winner for 'Somebody Up There Likes Me,' while the Gold Answer specifies Francis Keogh Gleason as the winner. The Retrieved Context does not explicitly mention Gleason but does confirm that the film won Oscars for Best Cinematography and Best Art Direction, which aligns with Gleason's award. The Model Answer fails to provide the correct information and is not grounded in the context."
+  }
+}

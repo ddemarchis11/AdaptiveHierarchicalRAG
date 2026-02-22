@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001084",
+  "question": "For which open-world action game set in the American frontier, developed by the studio behind the Grand Theft Auto series, did voice actor Tyler Bunch provide performances?",
+  "gold_answer": "Red Dead Redemption",
+  "llm_answer": "The context does not mention Tyler Bunch performing in any open-world action game set in the American frontier developed by Rockstar Games.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not mention Tyler Bunch's involvement in an open-world action game set in the American frontier developed by Rockstar Games, which is true based on the retrieved context. However, the Model Answer fails to provide the correct answer, 'Red Dead Redemption,' which is the Gold Answer. The retrieved context does not directly support the Gold Answer, but the Model Answer does not attempt to provide the correct response either, resulting in a score of 0 for correctness and evidence coverage."
+  }
+}

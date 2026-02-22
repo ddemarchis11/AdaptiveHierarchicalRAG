@@ -1,0 +1,12 @@
+{
+  "id": "Novel-793b51bf",
+  "question": "Which influential social group in Lower Canada remained loyal to the British crown during the years following the conquest and throughout the early colonial period?",
+  "gold_answer": "The seigneurs were loyal to the British crown.",
+  "llm_answer": "Based on the provided evidence, the influential social group in Lower Canada that remained loyal to the British crown during the years following the conquest and throughout the early colonial period was the clergy, the seigneurs, and the great body of French Canadians. \n\nThis loyalty was maintained due to the conciliatory policy of the British government, which included measures such as the Quebec Act of 1774, the Act of 1791, and the assurance of property and civil rights in 1760. These measures strengthened the position of the French race in Canada, made Canadians more jealous of their national identity, and led them to press for still wider liberties.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the seigneurs as loyal to the British crown, aligning with the Gold Answer. It also expands on this by including the clergy and the broader French Canadian population, which is supported by the context. The additional details about British policies and their impact are relevant and grounded in the retrieved context. However, the Model Answer does not specifically emphasize the seigneurs as the primary group, which slightly diminishes evidence coverage."
+  }
+}

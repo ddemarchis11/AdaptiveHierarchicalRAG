@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bb448a1f",
+  "question": "In the scene where an ill-looking man enters Toto's cottage and searches the kitchen, what objects did the man open while looking for valuables?",
+  "gold_answer": "Boxes",
+  "llm_answer": "The objects the man opened while looking for valuables in the kitchen are:\n\n1. The cupboard\n2. A mutton-bone (which had been put away for Bruin)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies 'boxes' as the objects opened by the man, but the Model Answer mentions 'the cupboard' and 'a mutton-bone,' which are supported by the context. However, the Model Answer does not explicitly mention 'boxes,' which is the key fact from the Gold Answer. While the Model Answer is faithful to the context, it partially aligns with the Gold Answer and misses the specific mention of 'boxes.'"
+  }
+}

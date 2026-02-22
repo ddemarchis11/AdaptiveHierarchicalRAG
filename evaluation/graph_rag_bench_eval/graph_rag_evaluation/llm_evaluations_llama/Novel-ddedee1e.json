@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddedee1e",
+  "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+  "gold_answer": "French Canadians struggled with the Chateau Clique, and the Chateau Clique conflicted with the Patriotes, shaping attempts at reform.",
+  "llm_answer": "The struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, significantly influenced the shaping and pursuit of reform within the colony. The French Canadians' fight for official recognition of their language and national identity, as well as their struggle with the Chateau Clique, contributed to the growing tensions and ultimately led to the rebellion of 1837. The Patriotes' direct conflict with the Chateau Clique, which included the government and loyalists, further escalated the situation, leading to the outbreak of violence and the eventual rebellion.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly captures the essence of the Gold Answer, emphasizing the struggles between French Canadians, the Chateau Clique, and the Patriotes in shaping reform. However, it introduces details about the rebellion of 1837 and the fight for language recognition, which are not explicitly supported by the retrieved context. While the retrieved context mentions tensions and conflicts, it does not directly link these to the rebellion or language recognition, making the grounding incomplete. Additionally, the Model Answer misses specific entities like 'attempts at reform' mentioned in the Gold Answer, reducing evidence coverage."
+  }
+}

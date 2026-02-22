@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002795",
+  "question": "Who was older when they died, Teinosuke Kinugasa or Don O. Newland",
+  "gold_answer": "Teinosuke Kinugasa",
+  "llm_answer": "Teinosuke Kinugasa was born on 1 January 1896 and died on 26 February 1982, so he was 86 years old at death.  \nDon O. Newland was born on 8 June 1896 and died in 1951, so he was 54 or 55 years old at death.  \n\nTherefore, Teinosuke Kinugasa was older when he died.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Teinosuke Kinugasa as older at the time of his death, consistent with the Gold Answer. It provides additional details about their birth and death dates, which are supported by the Retrieved Context. All relevant facts from the Gold Answer are included."
+  }
+}

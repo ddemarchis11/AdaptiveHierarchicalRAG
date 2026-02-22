@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003482",
+  "question": "What band is a tribute to a band originally known as the Grizzly River Boys?",
+  "gold_answer": "Nashville Tribute Band",
+  "llm_answer": "The Nashville Tribute Band",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Nashville Tribute Band as the tribute band to the Grizzly River Boys, which aligns with the Gold Answer. The retrieved context supports this information, mentioning the Nashville Tribute Band and its connection to Dan Truman of Diamond Rio, which was originally known as the Grizzly River Boys. All key facts from the Gold Answer are included."
+  }
+}

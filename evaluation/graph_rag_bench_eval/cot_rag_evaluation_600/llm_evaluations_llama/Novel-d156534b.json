@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d156534b",
+  "question": "How is the goddess Ceres linked to Jupiter through a chain involving Love and Iasius?",
+  "gold_answer": "Love inflamed Ceres, who beheld Iasius, who was the son of Jupiter.",
+  "llm_answer": "The goddess Ceres is linked to Jupiter through a chain involving Love and Iasius as follows:\n\n1. Ceres was familiar with Iasius, who was said to be the son of Jupiter and Electra (according to most accounts).\n2. Ceres was said to have been inflamed with love for Iasius, and her shame was conquered by her love for him.\n3. This love affair between Ceres and Iasius is said to have resulted in the fertility of the land, as Ceres was the goddess of agriculture and fertility.\n4. The story of Ceres and Iasius is used by the poet to illustrate the power of love and fertility, and to contrast with the idea that Ceres is a goddess who takes delight in the tears of lovers and is propitiated with misery and single-blessedness.\n\nTherefore, the chain of connection between Ceres and Jupiter through Love and Iasius is as follows: Jupiter (father of Iasius) → Iasius (son of Jupiter and Electra) → Ceres (who was familiar with and in love with Iasius).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the connection between Ceres and Jupiter through Love and Iasius, aligning with the Gold Answer. It provides additional context about Iasius being the son of Jupiter and Electra, Ceres's love for him, and the implications of their relationship on fertility, all of which are supported by the Retrieved Context. The core facts from the Gold Answer are fully included, and the extra details are relevant and grounded."
+  }
+}

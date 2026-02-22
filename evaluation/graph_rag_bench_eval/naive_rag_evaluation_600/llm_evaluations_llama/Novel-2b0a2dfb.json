@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2b0a2dfb",
+  "question": "What notable feature is described as belonging to the town of Toser, according to the text's depiction of its environment?",
+  "gold_answer": "Toser has gardens.",
+  "llm_answer": "According to the text, a notable feature of the town of Toser is the presence of a little rocky mountain that commands the town from the north-west. This mountain is the source of an abundant spring called Meshra, which runs along the walls of the city and divides into three branches to water the gardens.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the gardens as a notable feature of Toser, supported by the context. However, it emphasizes the rocky mountain and the spring as notable features, which are not the primary focus of the Gold Answer. While the spring and mountain are relevant to the gardens, the core emphasis on 'gardens' is diluted. The answer is faithful to the context but partially misses the central factual point of the Gold Answer."
+  }
+}

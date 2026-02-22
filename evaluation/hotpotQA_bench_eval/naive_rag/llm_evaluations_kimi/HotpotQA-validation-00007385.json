@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007385",
+  "question": "Elizabeth Austin wrote for a fitness magazine founded by who?",
+  "gold_answer": "Christine MacIntyre",
+  "llm_answer": "Christine MacIntyre",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Christine MacIntyre as the founder of the fitness magazine Shape, which aligns with the Gold Answer and is fully supported by the Retrieved Context. The answer is concise but accurate, containing all necessary information without adding unsupported details."
+  }
+}

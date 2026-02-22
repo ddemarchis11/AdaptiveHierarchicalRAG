@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000911",
+  "question": "Which genus has more species, Apium or Elodea?",
+  "gold_answer": "Apium",
+  "llm_answer": "Apium has more species. The evidence states that Apium is a genus of 12 species, while Elodea is a genus of eight species.",
+  "context": [
+    {
+      "text": "Elodea is a genus of eight species of aquatic plants often called the waterweeds described as a genus in 1803. Classified in the frog's-bit family ( Hydrocharitaceae ), Elodea is native to the Americas and is also widely used as aquarium vegetation and laboratory demonstrations of cellular activities. It lives in fresh water. An older name for this genus is Anacharis , which serves as a common name in North America. The introduction of some species of Elodea into waterways in parts of Europe, Australia, Africa, Asia, and New Zealand has created a significant problem and it is now considered a noxious weed in these areas. Species Elodea bifoliata H.St.John – Canada ( AB , SK ), W United States ( OR + CA to NM + MN ) Elodea callitrichoides (Rich.) Casp. – Argentina, Uruguay Elodea canadensis Michx. – most of United States + Canada Elodea densa (Planch.) Casp. Elodea granatensis Bonpl. – much of South America Elodea heterostemon (S.Koehler & C.P.Bove) Byng & Christenh. Elodea najas (Planch.) Casp. Elodea nuttallii (Planch.) H.St.John – much of United States + Canada Elodea potamogeton (Bertero) Espinosa – Chile,",
+      "id": "HotpotQA-validation-00000911/01_Elodea.html_c_0"
+    },
+    {
+      "text": "Apium is a genus , as currently circumscribed by Plants of the World Online , of 12 species of flowering plants in the family Apiaceae , with an unusual highly disjunct distribution with one species in the temperate Northern Hemisphere in the Western Palaearctic ( Europe , western Asia , north Africa ), and the rest in the temperate Southern Hemisphere in southern Africa, southern South America , Australia , and New Zealand . They are prostrate to medium-tall annual , biennial or perennial herbs growing up to 1 m high in wet soil, often marshes and salt marshes , and have pinnate to bipinnate leaves and small white flowers in compound umbels . Some species are edible, notably Apium graveolens , which is the wild ancestor of the commercially important vegetables celery , celeriac and leaf celery . The genus is the type genus of the family Apiaceae and the order Apiales; the type species of the genus is Apium graveolens . Species As of September 2024 [update] , Plants of the World Online accepts the following species: Western Palaearctic Apium graveolens L. - wild celery Australia Apium annuum P.S.Short Apium insulare P.S.Short - Flinder's Island celery Apium prostratum Labill. ex Vent. (also in New Zealand, southern Africa, and southern South America) - sea celery New Zealand Apium prostratum Labill. ex",
+      "id": "HotpotQA-validation-00000911/00_Apium.html_c_0"
+    },
+    {
+      "text": "Vent. (also in New Zealand, southern Africa, and southern South America) - sea celery New Zealand Apium prostratum Labill. ex Vent. (also in Australia, southern Africa, and southern South America) - sea celery Southern Africa Apium prostratum Labill. ex Vent. (also in Australia, New Zealand, and southern South America) - sea celery Southern South America Apium australe Thouars Apium chilense Hook. & Arn. Apium commersonii DC. Apium fernandezianum Johow Apium larranagum M.Hiroe Apium panul (Bertero ex DC.) Reiche Apium prostratum Labill. ex Vent. (also in Australia, New Zealand and southern Africa) - sea celery Apium santiagoensis M.Hiroe Apium sellowianum H.Wolff Former species Species formerly placed in this genus include: Apium bermejoi → Helosciadium bermejoi Apium inundatum → Helosciadium inundatum - lesser marshwort Apium leptophyllum → Cyclospermum leptophyllum - marsh parsley, or fir-leafed celery Apium nodiflorum → Helosciadium nodiflorum - fool's-water-cress Apium repens → Helosciadium repens - creeping marshwort Ecology Apium species, including garden celery, are eaten by the larvae of some Lepidoptera species including angle",
+      "id": "HotpotQA-validation-00000911/00_Apium.html_c_1"
+    },
+    {
+      "text": "Apiaceae ( / ˌ eɪ p i ˈ eɪ s i . iː , - ˌ aɪ / ⓘ ), also called Umbelliferae , is a family of mostly aromatic flowering plants named after the type genus Apium , and commonly known as the celery , carrot , or parsley family , or simply as umbellifers . It is the 16th-largest family of flowering plants, with more than 3,800 species in about 446 genera , including such well-known, and economically important plants as ajwain , angelica , anise , asafoetida , caraway , carrot , celery , chervil , coriander , cumin , dill , fennel , lovage , cow parsley , parsley , parsnip and sea holly , as well as silphium , a plant whose exact identity is unclear and which may be extinct. The family Apiaceae includes a significant number of phototoxic species, such as giant hogweed , and a smaller number of highly poisonous species, such as poison hemlock , water hemlock , spotted cowbane , fool's parsley , and various species of water dropwort . Description Most Apiaceae are annual , biennial or perennial herbs (frequently with the leaves aggregated toward the base), though a minority are woody shrubs or small trees such as Bupleurum fruticosum . Their leaves are of variable",
+      "id": "HotpotQA-validation-00000911/03_Apiaceae.html_c_0"
+    },
+    {
+      "text": "Tricholoma apium is a mushroom of the agaric genus Tricholoma that is found in Europe. It is classified as vulnerable in the IUCN Red List of Threatened Species . See also List of North American Tricholoma List of Tricholoma species References v t e",
+      "id": "HotpotQA-validation-00000911/02_Tricholoma-apium.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Elodea genus has 8 species (HotpotQA-validation-00000911/01_Elodea.html_c_0)\n- Apium genus has 12 species (HotpotQA-validation-00000911/00_Apium.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which genus has more species, Apium or Elodea?",
+      "doc_ids": [
+        "HotpotQA-validation-00000911/01_Elodea.html_c_0",
+        "HotpotQA-validation-00000911/00_Apium.html_c_0",
+        "HotpotQA-validation-00000911/00_Apium.html_c_1",
+        "HotpotQA-validation-00000911/03_Apiaceae.html_c_0",
+        "HotpotQA-validation-00000911/02_Tricholoma-apium.html_c_0"
+      ]
+    }
+  ]
+}

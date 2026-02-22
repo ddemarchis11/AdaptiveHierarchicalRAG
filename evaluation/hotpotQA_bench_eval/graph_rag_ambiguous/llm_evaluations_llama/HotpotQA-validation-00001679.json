@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001679",
+  "question": "On what date was the Irish comedian and chat show host who presided over a major British television awards ceremony in 2009 born?",
+  "gold_answer": "4 April 1963",
+  "llm_answer": "I cannot verify the date of birth of the Irish comedian and chat show host who presided over a major British television awards ceremony in 2009.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct date of birth for Graham Norton, which is clearly stated in the Retrieved Context as 4 April 1963. The model does not utilize the available context to answer the question and instead claims it cannot verify the information, which is incorrect."
+  }
+}

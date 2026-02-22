@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001679",
+  "question": "When was the host of \"British Academy Television Awards 2009\" born?",
+  "gold_answer": "4 April 1963",
+  "llm_answer": "I cannot verify the birth date of the host of the \"British Academy Television Awards 2009\".",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the birth date of the host of the 'British Academy Television Awards 2009,' which is 4 April 1963 according to the Gold Answer. Additionally, the retrieved context does not directly support the answer or provide relevant information about the host's birth date. The Model Answer neither answers the question nor utilizes the context effectively."
+  }
+}

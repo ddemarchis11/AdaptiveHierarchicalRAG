@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ba546455",
+  "question": "How did Elsie Maud Inglis leverage both local support, such as sending Miss Burke as a representative, and international resources, including American influence and aid, to support the work of the Scottish Women's Hospitals in Serbia?",
+  "gold_answer": "By leveraging local support through colleagues and international aid via American influence, Elsie Inglis mobilized resources for the Scottish Women's Hospitals’ mission in Serbia.",
+  "llm_answer": "Based on the provided evidence, Elsie Maud Inglis leveraged both local support and international resources, including American influence and aid, to support the work of the Scottish Women's Hospitals in Serbia as follows:\n\nLocal Support:\n\n- She sent Miss Burke as a representative to speak and fill the Treasury chest of the S.W.H.\n- Miss Burke was able to influence her countrymen in America, who then nobly aided 'the great adventure' through their efforts.\n\nInternational Resources:\n\n- The National Union of Women's Suffrage Societies (N.U.W.S.S.) adopted the plan of campaign on 15th October 1914, and the London society was soon taking up the work of procuring money to start new units and send Dr. Inglis out on her last enterprise.\n- The London society was able to equip a unit fully to work with the Serbian army, then fighting on the Bulgarian front.\n- American influence and aid were also crucial in supporting the work of the Scottish Women's Hospitals in Serbia, as Miss Burke's efforts in America were able to secure aid for the cause.\n\nIt is worth noting that the evidence does not provide specific details on how Elsie Maud Inglis directly leveraged American influence and aid, but it does suggest that Miss Burke's efforts in America were instrumental in securing aid for the Scottish Women's Hospitals in Serbia.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing how Elsie Maud Inglis leveraged local support (Miss Burke's representation) and international resources (including American aid) to support the Scottish Women's Hospitals in Serbia. It is fully grounded in the retrieved context, which mentions Miss Burke's role and the efforts of the London society and American aid. Additionally, the Model Answer includes all key facts from the Gold Answer and expands with relevant details supported by the context."
+  }
+}

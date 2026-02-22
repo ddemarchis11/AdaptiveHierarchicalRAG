@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001141",
+  "question": "Who both wrote and directed the 2016 animated musical in which a veteran voice actor known for superhero cartoon roles contributed a character?",
+  "gold_answer": "Garth Jennings",
+  "llm_answer": "Garth Jennings both wrote and directed the 2016 animated musical *Sing*, in which veteran voice actor Townsend Coleman—known for superhero cartoon roles—contributed a character.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Garth Jennings as the writer and director of the 2016 animated musical 'Sing,' which aligns with the Gold Answer. It also adds relevant detail about Townsend Coleman contributing a character, supported by the context mentioning his voice acting career. All claims are accurate and grounded in the retrieved context."
+  }
+}

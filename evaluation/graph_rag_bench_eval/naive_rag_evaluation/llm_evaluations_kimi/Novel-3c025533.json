@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c025533",
+  "question": "In the context of surveying as discussed in the text, for what purpose is the determination of latitude needed?",
+  "gold_answer": "Latitude is needed for determination of true meridian.",
+  "llm_answer": "In the context described, the determination of latitude is needed in order to find the azimuth of Polaris, which is essential for establishing a true meridian.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that latitude is needed for establishing a true meridian, which aligns with the Gold Answer. Additionally, it provides further context by explaining that latitude is used to find the azimuth of Polaris, a step in determining the true meridian. This extra detail is relevant, supported by the retrieved context, and does not contradict the core truth of the Gold Answer."
+  }
+}

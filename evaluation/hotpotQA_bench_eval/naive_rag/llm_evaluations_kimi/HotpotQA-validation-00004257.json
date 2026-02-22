@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004257",
+  "question": "Which lake is located further south, Dal Lake or Waterton Lake?",
+  "gold_answer": "Dal Lake",
+  "llm_answer": "Waterton Lake is located further south than Dal Lake.\n\nEvidence: Waterton Lake’s geocoordinates are given as 49°03′00″N, placing it at approximately 49.05° N latitude. Dal Lake is described as being in Srinagar, Kashmir; Srinagar’s latitude is about 34.1° N. Since 49.05° N is farther north than 34.1° N, Dal Lake lies south of Waterton Lake.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Dal Lake as being further south than Waterton Lake, aligning with the Gold Answer. It provides detailed reasoning based on latitude coordinates, which are supported by the Retrieved Context. All relevant facts from the Gold Answer are included, and the explanation is grounded in the context provided."
+  }
+}

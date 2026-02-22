@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004341",
+  "question": "Bank street is sandwiched between the headquarters of the Hongkong and Shanghai Banking Corporation and which other building?",
+  "gold_answer": "Bank of China Building",
+  "llm_answer": "I cannot verify which building is sandwiched between the headquarters of the Hongkong and Shanghai Banking Corporation and Bank Street.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct building name, 'Bank of China Building,' as stated in the Gold Answer. Additionally, the retrieved context does not directly address the question or provide relevant information to support the Model Answer. The response neither answers the question nor aligns with the Gold Answer or context."
+  }
+}

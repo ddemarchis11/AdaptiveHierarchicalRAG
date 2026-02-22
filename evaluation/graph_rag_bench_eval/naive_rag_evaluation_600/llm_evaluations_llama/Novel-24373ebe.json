@@ -1,0 +1,12 @@
+{
+  "id": "Novel-24373ebe",
+  "question": "What is the relationship between the goddess Cybele and her priests, specifically the Galli and the Corybantes, as described in the narrative where Cybele is said to have priests called Galli and her original priests were known as Corybantes?",
+  "gold_answer": "Cybele had priests called Galli, and her original priests were called Corybantes.",
+  "llm_answer": "According to the narrative, the Galli, or priests of Cybele, performed her rites in imitation of the Corybantes, the original priests of Cybele. The Corybantes were known for performing Cybele's rites to the sound of pipes and tambourines, and running to and fro in a frenzied manner. The Galli followed this same practice, suggesting a close relationship between the two groups of priests. The Galli seem to have adopted the rituals and practices of the Corybantes, indicating a continuity and tradition in the worship of Cybele.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the relationship between Cybele and her priests, detailing that the Galli performed rites in imitation of the Corybantes, as described in the context. It aligns with the Gold Answer and provides additional relevant details supported by the retrieved context, such as the frenzied manner and use of pipes and tambourines in the rituals."
+  }
+}

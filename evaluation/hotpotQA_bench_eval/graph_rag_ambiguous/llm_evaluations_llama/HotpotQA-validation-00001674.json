@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What class of vehicle did both a Belgian-born American aerospace engineer and the chief engineer behind the Soviet space programme independently develop?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both a Belgian-born American aerospace engineer (Karel Jan Bossart) and the chief engineer behind the Soviet space programme (Sergei Korolev) independently developed an Intercontinental Ballistic Missile (ICBM).",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies 'rocket' as the class of vehicle developed by both individuals, while the Model Answer incorrectly states 'Intercontinental Ballistic Missile (ICBM).' The context does not support the claim that both individuals independently developed ICBMs, as it primarily discusses rockets and their development. The Model Answer fails to align with the Gold Answer and the retrieved context."
+  }
+}

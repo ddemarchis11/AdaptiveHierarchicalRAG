@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1a2f9abd",
+  "question": "How are the cities of Rabat and Salee geographically related?",
+  "gold_answer": "Rabat is opposite to Salee.",
+  "llm_answer": "The cities of Rabat and Salee are geographically related in that they are situated on opposite sides of the river Wad-Bouragrag. Rabat is located on the left side of the river, while Salee is located on the right side.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Rabat and Salee are geographically opposite to each other, separated by the river Wad-Bouragrag. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which describes their positions on opposite sides of the river. All key facts from the Gold Answer are included."
+  }
+}

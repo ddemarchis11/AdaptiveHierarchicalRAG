@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f0c44705",
+  "question": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+  "gold_answer": "SHEBA won money at The Races.",
+  "llm_answer": "There is no mention of SHEBA winning money at the St. Marvells races in the story. However, SHEBA and her sister SALOME were initially excited about winning money at the races, as their aunt GEORGIANA had agreed to bet on a horse called \"Dandy Dick\" for them.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies SHEBA's excitement about winning money at the races and mentions the horse 'Dandy Dick,' which is supported by the context. However, it incorrectly states that there is no mention of SHEBA winning money at the races, whereas the Gold Answer explicitly states that SHEBA won money at 'The Races.' The Model Answer partially aligns with the Gold Answer but misses the core fact of SHEBA winning money."
+  }
+}

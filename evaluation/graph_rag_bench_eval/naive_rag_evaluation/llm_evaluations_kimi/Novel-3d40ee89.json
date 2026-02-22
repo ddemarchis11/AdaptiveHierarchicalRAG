@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter is the manager of the Summit House, and when Mr. Bilson leaves for a year she is given full charge of the hotel.  \nShe personally selects Frida Jansen to be one of the girls who wait on the convalescent guest, young Mr. Calton.  \nThere is no mention of Miss Trotter resigning from the Summit House; she remains in control of it throughout the events described.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Miss Trotter's role as the manager of the Summit House and her selection of Frida Jansen for a position, which aligns partially with the Gold Answer. However, it explicitly denies Miss Trotter's resignation, which contradicts the Gold Answer and is not clearly supported by the retrieved context. The context does not provide definitive evidence about her resignation, leaving the Model Answer partially faithful and incomplete in evidence coverage."
+  }
+}

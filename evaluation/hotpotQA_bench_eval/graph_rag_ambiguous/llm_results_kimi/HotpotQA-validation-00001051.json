@@ -1,0 +1,294 @@
+{
+  "id": "HotpotQA-validation-00001051",
+  "question": "Does a health-oriented food periodical focused on lighter recipes and a culture and music publication historically associated with urban Black audiences both fall under the same medium?",
+  "gold_answer": "yes",
+  "llm_answer": "The context does not provide enough information to determine whether a health-oriented food periodical focused on lighter recipes and a culture and music publication historically associated with urban Black audiences both fall under the same medium.",
+  "context": [
+    {
+      "text": "Andrea Nguyen (born 1969) is a Vietnamese-born, American teacher, food writer, cookbook author and chef living in the San Francisco area. An expert on Asian cuisine and cooking methods, Nguyen has written numerous cookbooks on the food of her native Vietnam , as well as an account of her family's escape during the Fall of Saigon . Later in life, she turned to plant-based cooking. She writes an active blog, newsletter, as well as articles for newspapers and food magazines and teaches cooking classes throughout the country. She won a 2018 James Beard Foundation Award (Single Subject) for The Pho Cookbook . She also received two additional James Beard cookbook nominations: Into the Vietnamese Kitchen: Treasured Foodways, Modern Flavors (Best Asian, 2007) and Ever-Green Vietnamese: Super-Fresh Recipes, Starring Plants from Land and Sea (Vegetable-Focused Cooking, 2024). Early life Andrea Quynhgiao Nguyen was born in 1969 in Vietnam and fled with her family of seven when Saigon fell in 1975. Fleeing the communist regime , her family emigrated with only enough belongings for a vacation, but brought with them a notebook filled with her mother's recipes. They settled in Southern California and attempted to buy foods they were familiar with, but the dishes were mass-produced and not very tasty. Nguyen's mother suggested they replicate foods from their homeland, by making the dishes themselves. After a childhood spent in San Clemente , Nguyen attended the University of Southern California and graduated with a B.S. in banking and finance and M.A. in communication management. Career General cookbooks Upon completing her schooling, Nguyen first worked as a bank auditor and then a university administrator, while she and husband were living in Los Angeles before she began writing restaurant reviews. In 1997, she wrote her first book, an autobiographical tale, Trip to Freedom (1997) which was written to explain her family's migration and the events surrounding the decision to children. Nguyen wrote a letter to pitch an article on her mother's mooncakes to Saveur and they accepted it. She then developed her website and worked on a proposal for her first cookbook. She continued writing articles about the food of Vietnam in various newspapers and magazines, like the Los Angeles Times , Saveur, The Wall Street Journal , and Rodale's Organic Life . Starting fall 2017, she has had a monthly column in Cooking Light called \"The Teacher.\" Nguyen's first cookbook Into the Vietnamese Kitchen (2006) has been called \"indispensable\" for those wanting to cook Vietnamese foods, as Nguyen sees culinary history as integrally entwined with culture. Her detailed instructions were clear and precise with photographs and explanatory techniques provided in sidebar. It was a finalist in the 2007 James Beard Foundation Award , as best Asian cookbook and was nominated for best first book and best international cookbook by the International Association of Culinary Professionals that same",
+      "id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_0",
+      "doc_id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html",
+      "community_id": 1,
+      "score": 25.588463
+    },
+    {
+      "text": "2016). \"The Bánh Mì Handbook by Andrea Nguyen\" . Chopsticks Alley . San Jose, California . Retrieved 7 November 2016 . Nguyen, Andrea (25 October 2016). \"How to make a great bowl of pho at home\" . Los Angeles Times . Los Angeles, California. Archived from the original on 27 October 2016 . Retrieved 7 November 2016 . Sutton, Judith (November 15, 2006). \"Review: Nguyen, Andrea (text) & Leigh Beisch (photogs.) \"Into the Vietnamese Kitchen: Treasured Foodways, Modern Flavors\" \" . Library Journal . 131 (19). London, England: Reed Business Information . ISSN 0363-0277 . Retrieved 7 November 2016 – via EBSCOHost . \"Andrea Nguyen\" . Fresh Fiction . 2010. Archived from the original on 11 August 2016 . Retrieved 7 November 2016 . \"Andrea Nguyen Talks Vietnamese: Fish Sauce, Lemongrass and the Best Pho in San Francisco\" . SpiceLines . Los Angeles, California. May 14, 2008. Archived from the original on 7 November 2016 . Retrieved 7 November 2016 . \"Review of \"Asian Dumplings: Mastering Gyoza, Spring Rolls, Samosas, and More,\" by Andrea Nguyen\" . Publishers Weekly . 256 (29). New York City, New York: PWxyz LLC. July 20, 2009. ISSN 0000-0019 . Retrieved 7 November 2016 – via EBSCOHost . External links Official website",
+      "id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_3",
+      "doc_id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html",
+      "community_id": 1,
+      "score": 22.153294
+    },
+    {
+      "text": "Ever-Green Vietnamese: Super-Fresh Recipes, Starring Plants from Land and Sea, was nominated for a James Beard Award (Vegetable-Focused Cooking). It also won an International Association of Culinary Professional award (best photography and styling) . Additional work Nguyen also collaborates with others. She co-founded the podcast Everything Cookbooks and is working on \"Cooking Thai\" with multi-Michelin star chef Pim Techamuanvivit, to be released in 2026. Nguyen is a recognized authority on Asian cuisines and has taught cooking classes throughout the United States. References Bibliography Bates, Karen Grigsby (November 29, 2014). \" 'The Banh Mi Handbook': A Guide To A Viet-French Sandwich\" . Washington, D.C.: NPR . Archived from the original on 15 May 2016 . Retrieved 7 November 2016 . Campbell, Lisa (December 1, 2011). \"Review: Nguyen, Andrea (text) & Maren Caruso (photogs.) \"Asian Tofu: Discover the Best, Make Your Own, and Cook It at Home\" \" . Library Journal . 136 (20). Plain City, Ohio: Media Source Inc. ISSN 0363-0277 . Retrieved 7 November 2016 – via EBSCOHost . Duggan, Tara (November 17, 2014). \"Andrea Nguyen adapts Asian recipes to Santa Cruz availability\" . SF Gate . San Francisco, California. Archived from the original on August 5, 2015 . Retrieved 7 November 2016 . Kierzek, Kristine M. (July 29, 2014). \"Andrea Nguyen shares secret to sublime banh mi sandwiches in fourth cookbook\" . Milwaukee Journal Sentinel . Milwaukee, Wisconsin. Archived from the original on 7 November 2016 . Retrieved 7 November 2016 . Knoblauch, Mark (July 1, 2014). \"Review: \"The Banh Mi Handbook: Recipes for Crazy-Delicious Vietnamese Sandwiches\" by Andrea Nguyen\" . Booklist . 110 (21). Chicago, Illinois: American Library Association . ISSN 0006-7385 . Retrieved 7 November 2016 – via EBSCOHost . McKeever, Amy (February 16, 2016). \"In Vietnam, Pho Is a Breakfast Tradition Changing With the Times\" . Eater . Washington, D.C.: Vox Media, Inc. Archived from the original on 27 May 2016 . Retrieved 7 November 2016 . Ngo, Quyen (July 4, 2016). \"The Bánh Mì Handbook by Andrea Nguyen\" . Chopsticks Alley . San Jose, California . Retrieved 7 November 2016 . Nguyen, Andrea (25 October 2016). \"How to make a great bowl of pho at home\" .",
+      "id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_2",
+      "doc_id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html",
+      "community_id": 1,
+      "score": 19.53156
+    },
+    {
+      "text": "Girlfriends was a women's magazine that provided critical coverage of culture, entertainment, and world events from a lesbian perspective. It was founded by five women Jacob and Diane Anderson-Minshall , Heather Findlay, Bonnie Simon and Zannah Noe . It also offered relationship, health and travel advice. Published monthly from San Francisco since 1993, it was distributed nationwide by Disticor. It had the same publisher as lesbian erotica magazine On Our Backs , but distanced itself from its pornographic counterpart by refusing to carry sexual ads. Girlfriends magazine ceased publication in 2006. One of the major features of the magazine was its annual list on the best cities for a lesbian to live in, which it began publishing in 1994. The magazine also ran an online personals service through its website while it was still in operation. See also LGBT culture in San Francisco Notes v t e",
+      "id": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_c_0",
+      "doc_id": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html",
+      "community_id": 0,
+      "score": 18.14817
+    },
+    {
+      "text": "the music paid homage to Davis' past, \"respecting space, solos, form, and fixed rhythms, though there are also hints throughout that [the band] will soon find some other way to organize this music to play it live.\" In Corea's opinion, the record was an accurate document of how this particular band of Davis' played in concert. Release and reception Black Beauty was originally released only in Japan in 1973. It contained four side -long tracks spread across a double album , grouping the songs as medleys titled \"Black Beauty Part I\", \"Black Beauty Part II\", and so on, all of which credited Davis as the composer. He did not want the actual segments specified on the track listing out of a distaste for critics and listeners who arduously analyzed his music; according to DeJohnette's wife Lydia, \"Miles really felt that critics and people spent too much time in their mental mind, analyzing and talking for hours about something that really just is.\" Columbia spent several years identifying some of the individual compositions to ensure royalty payment for the actual composers. The Japanese release also mistakenly credited Michael Henderson —Davis' other bassist during this period—rather than Holland in the liner notes . The record was only available in the United States as an import until 1997, when it was remastered on CD in 20- bit resolution and released by Legacy Recordings as a limited edition digipak . Robert Christgau reviewed the reissue that year in The Village Voice : Black Beauty preserved an inkling of why the jazz-rock idea seemed so auspicious before it found form in [fusion's] flash and filigree. Wailing through 'Directions' or blasting the blues from out 'Miles Runs the Voodoo Down,' Chick Corea's keybs sound more audacious and grounded than they ever will again, with an uncommonly muscular Miles challenging his facility and fledgling soprano whiz Steve Grossman mimicking it, and beyond a few dollops of needless noodle, Jack DeJohnette keeps the troops in order, injecting more notes and accents than Ginger Baker on double amphetamines into a beat that rocks. Yet this unique sound is evolving fast. Still nominally beholden to theme-and-variation , Black Beauty is soloists' music, and as such the corniest electric Miles on record. Davis biographer Jack Chambers was more critical, finding the sound quality and Grossman's performance poor, especially on the first disc, where he indulged in a \"nervous downpour of notes that is narrow in range and unimaginative\". In general, Chambers complained that the concert's largely improvised format was risky and inauspicious: \"It can inspire creative bridges and emotive playing melded into a spontaneous suite or degenerate into a babble of voices bogged down in search of the musical means to get from one theme to the next.\" In Tingen's opinion, the quality of the",
+      "id": "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html_c_3",
+      "doc_id": "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html",
+      "community_id": 5,
+      "score": 14.868918
+    },
+    {
+      "text": "G3 Prince Bass (2016) A guitar virtuoso, Prince was also known to have a stylish and flamboyant custom guitar collection, which consisted of 121 guitars. One notable series is his Cloud Guitars, which were commissioned and released in colored versions of white, yellow and purple. The white version is prominently shown in the Purple Rain film and the \"Raspberry Beret\" video. Other notable guitars are The Love Symbol guitars, which were designed in the separate colors of gold and purple. The guitar that was used for the majority of Prince's music career was the H.S. Anderson Madcat guitar – a Telecaster copy created by Hohner . Several versions of the guitar were used throughout his career – due to one being donated for charitable reasons, while one or more were stolen. Another guitar primarily used in his later years was the Vox HDC-77 , which was introduced to him by 3rdeyegirl member Ida Kristine Nielsen, both a Blackburst version, and a White Ivory version. Two other noteworthy guitars are the G1 Purple Special, and the black-and-gold Gus G3 Prince bass, which would become the last two guitars to ever be made for him. Legal issues Pseudonyms In 1993, during negotiations regarding the release of The Gold Experience , a legal battle ensued between Warner Bros. and Prince over the artistic and financial control of his musical output. During the lawsuit, Prince appeared in public with the word \"slave\" written on his cheek. He explained that he had changed his name to an unpronounceable symbol to emancipate himself from his contract with Warner Bros., and that he had done it out of frustration because he felt his own name now belonged to the company. Prince sometimes used pseudonyms to separate himself from the music he had written, produced or recorded, and at one point stated that his ownership and achievement were strengthened by the act of giving away ideas. Pseudonyms he adopted, at various times, include: Jamie Starr and The Starr Company (for the songs he wrote for the Time and many other artists from 1981 to 1984), Joey Coco (for many unreleased Prince songs in the late 1980s, as well as songs written for Sheena Easton and Kenny Rogers ), Alexander Nevermind (for writing the song \" Sugar Walls \"  by Sheena Easton), and Christopher (used for his songwriting credit of \"Manic Monday\"  for the Bangles). Copyright issues On September 14, 2007, Prince announced that he was going to sue YouTube and eBay , because they hosted his copyrighted material, and he hired the international Internet-policing company Web Sheriff . In October, Stephanie Lenz filed a lawsuit against Universal Music Publishing Group claiming that they were abusing copyright law after the music publisher had YouTube take down Lenz's home movie in which the Prince song \"Let's Go Crazy\" played faintly in the",
+      "id": "HotpotQA-validation-00002256/00_Prince-musician.html_c_29",
+      "doc_id": "HotpotQA-validation-00002256/00_Prince-musician.html",
+      "community_id": 33,
+      "score": 14.464518
+    },
+    {
+      "text": "it continued to be on the same site of the Australian Consolidated Press (ACP) building (corner of Park and Castlereagh Streets) in Sydney. The Test Kitchen's first 'Best Ever' recipes compilation was published in 1976, collating the most-requested recipes from the issues of the Weekly. The cookbook sold out in days and had many reprints. The Test Kitchen had a team of 16 people in 2006, comprising chefs, home economists, food editors and support staff. In 2012, ACP was sold to Bauer Media Group. The Test Kitchen triple-tests recipes which are then published in the magazine, as well as Woman's Day and the AWW cookbooks. Surveys have shown that over 90 per cent of readers buy the magazine for the recipes. See also Australian Women's Weekly Children's Birthday Cake Book List of women's magazines References Further reading Rebecca Johinke, Queens of Print: Interviews with Australia's Iconic Women's Magazine Editors , Australian Scholarly Publishing, 2019. Denis O'Brien, The Weekly: A Lively and Nostalgic Celebration of Australia through 50 Years of its Most Popular Magazine , Ringwood, Victoria: Penguin Books, 1985. External links Official website Bauer Media The Australian Women's Weekly (1933 - 1982) at Trove Pat Buckridge 'Good Reading in The Australian Women's Weekly 1933–1970, JASAL 1 2002 Women's Weekly Singapore Edition Official Website The Australian Women's Weekly at the Internet Archive Jackson, Sally Cost-cutting at mags over: Law The Australian 12 Oct 2009 pp 30, 32 (Retrieved 17 February 2010) The Australian Women's Weekly Index on Research Data Australia",
+      "id": "HotpotQA-validation-00003430/01_The-Australian-Womens-Weekly.html_c_3",
+      "doc_id": "HotpotQA-validation-00003430/01_The-Australian-Womens-Weekly.html",
+      "community_id": 3,
+      "score": 13.250838
+    },
+    {
+      "text": "Nobody knew how they could do it. It was like magic. What happened was that King Oliver would play the phrase during the bars before. Louis would hear it and so when it came around the next time he would play it. I learned from Miles how these kind of cues can be used to change direction, or introduce a new section. Miles often used phrases to show us where we'd go next. When we were playing a tune, Miles would superimpose something on top of it, and as soon as he did that we'd know that we were moving to another song, or that this or that rhythmic thing was about to happen. That's the great thing about a working band, you start to develop an intuitive sense for what's going on. You're listening all the time and you build up this language which becomes very personal to the group. According to Los Angeles Times critic Don Heckman , the resulting textures heard in Black Beauty ' s music exhibited \"an almost pointillistic quality, with bits and pieces of sounds darting in and out of the overall texture, and Davis' trumpet skimming through the mix\". In Spin , Erik Davis highlighted Grossman's \"squonking sax\", Corea's \"nastily distorted\" keyboards, and Davis' \"milky, yearning, sometimes angry\" trumpet playing. Because they were playing around a preceding vamp or theme when Davis signaled the next, Tingen said the musical shifts heard on the record had the effect of post-production crossfades , similar to those used by producer Teo Macero on the studio recordings In a Silent Way (1969), Bitches Brew , and Jack Johnson . Macero claimed Davis conceived his onstage approach from him: \"It was because of me, because we always overlapped sections in our edits.\" \"Black Beauty Part IV\" A 30-second sample featuring the band's segue from \"Masqualero\" to \"Spanish Key\" Problems playing this file? See media help . Some of the songs, including \"I Fall in Love Too Easily\", \"Masqualero\", and \"The Theme\", were from Davis' 1950s and 1960s repertoire. \"The Theme\" was originally recorded in 1955 by his first great quintet and was used to close most of his concerts from the late 1950s to 1970, after which he began to favor \"Sanctuary\" as a closing number. \"Masqualero\" was performed in a similar rock-influenced fashion as the newer material, with DeJohnette and Holland carrying aggressive vamps and Corea playing distorted riffs on his electric piano. John Szwed believed the music paid homage to Davis' past, \"respecting space, solos, form, and fixed rhythms, though there are also hints throughout that [the band] will soon find some other way to organize this music to play it live.\" In Corea's opinion, the record was an accurate",
+      "id": "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html_c_2",
+      "doc_id": "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html",
+      "community_id": 5,
+      "score": 12.418898
+    },
+    {
+      "text": "Ainslee's Magazine was an American literary periodical published from 1897 to December 1926. It was originally published as a humor magazine called The Yellow Kid , based on the popular comic strip character. It was renamed Ainslee's the following year. The magazine's publishers were Howard, Ainslee & Co., a division of the Street & Smith publishing house in New York City. Contributors Among those who contributed essays, short stories, or poetry to Ainslee's : Stephen Crane Arthur Conan Doyle Theodore Dreiser Frances Gaither Maud Hart Lovelace Bret Harte O. Henry Anthony Hope Jack London Edna St. Vincent Millay E. Phillips Oppenheim Constance Lindsay Skinner Albert Payson Terhune Stanley J. Weyman P. G. Wodehouse I. A. R. Wylie From 1920 to 1923 Dorothy Parker wrote the monthly drama reviews column, \"In Broadway Playhouses\". Edith Isaacs worked as a critic for the magazine prior to her tenure at Theatre Arts . Ainslee's was published until December 1926, after which it was merged into Far West Illustrated , a western-fiction magazine. In 1934, Street & Smith revived Ainslee's Magazine as a \"sophisticated love-story monthly\" edited by Daisy Bacon . In 1936, the title changed to Ainslee’s Smart Love Stories , then finally Smart Love Stories . It was discontinued in 1938. Publication details Ainslee's switched from a 10¢ cover price to 15¢ with the October 1902 issue, allegedly the first magazine with a 15¢ price. The magazine switched from slick to pulp paper with the February 1914 issue (it had slick ad sections front and back throughout). References External links Media related to Ainslee's Magazine at Wikimedia Commons Works related to Ainslee's Magazine at Wikisource Gallery of Covers v t e",
+      "id": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_c_0",
+      "doc_id": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html",
+      "community_id": 0,
+      "score": 12.382886
+    },
+    {
+      "text": "with culture. Her detailed instructions were clear and precise with photographs and explanatory techniques provided in sidebar. It was a finalist in the 2007 James Beard Foundation Award , as best Asian cookbook and was nominated for best first book and best international cookbook by the International Association of Culinary Professionals that same year. In March 2012, both Into the Vietnamese Kitchen and Nguyen's second cookbook, Asian Dumplings were selected as two of seven cookbooks honored in the Asian section of Cooking Light ′s Best 100 Cookbooks of the Past 25 Years Award. Asian Dumplings covered a wide array of dumplings from throughout Asia, dividing the recipes by dough and wrapping type. The detailed instructions included line drawings to demonstrate how to form the dough into traditional shapes, as well as sections on sauces , stocks , seasonings and ingredients and various cooking equipment needed to make the dishes. Asian Tofu (2012) was more than a guide to making tofu , as Nguyen included buying guides, as well as tips on selecting ready-made tofu. Her recipes featured both vegetarian and meat dishes, which could use either homemade or store-bought tofu and was noted as an \"essential\" guide. With The Banh Mi Handbook (2014), Nguyen added another layer to her history of cooking in Vietnam, showing how the marriage of French colonial staples, such as the baguette were combined with Asian pâtés , barbecue and pickles to create a \"delightful balance of tastes and textures\". Her 2017 book The Pho Cookbook explores variants in the dish, noting that traditionally pho was a simple, rustic soup, which mirrored the sensibility of Hanoi . As it made its way southward toward Saigon , the dish became sweeter and spicier and more cosmopolitan, with custom additions of sauces and herbs, representing the more capitalist influences of the commercialized south. In 2018, Nguyen won a James Beard Award (Single Subject) for The Pho Cookbook . Vietnamese Food Any Day (2019) presented recipes, techniques, and know-how to cooks to prepare dishes from American supermarket ingredients. No Asian market shopping was required. It has become the go-to cookbook for many people who crave Vietnamese food and want to fit it into their repertoire any day of the week. Plant-based cooking Following the release of Vietnamese Food Any Day, Nguyen suffered a midlife, menopause-related health scare. She thus retooled her diet and lifestyle to focus on plant-based cooking , which is basis of traditional Vietnamese cooking. The result of her pivot resulted in Ever-Green Vietnamese: Super-Fresh Recipes, Starring Plants from Land and Sea, (2024). In 2024, Ever-Green Vietnamese: Super-Fresh Recipes, Starring Plants from Land and Sea, was nominated for a James Beard Award (Vegetable-Focused Cooking). It also won an International Association of Culinary Professional award (best photography and styling) . Additional work Nguyen also collaborates",
+      "id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_1",
+      "doc_id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html",
+      "community_id": 1,
+      "score": 12.232775
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_1",
+      "summary": "**Title**: Andrea Nguyen’s Vietnamese Cookbooks  \n\n**Summary**:  \nAndrea Nguyen, Vietnamese-American food writer and chef, has produced a string of award-winning cookbooks that trace Vietnamese cuisine from traditional roots to modern, plant-forward adaptations. Beginning with *Into the Vietnamese Kitchen* (2006), her clear, culturally grounded recipes earned James Beard and IACP nominations, while later titles—*Asian Dumplings*, *Asian Tofu*, *The Banh Mi Handbook*, and *The Pho Cookbook*—each deepened a specific culinary niche and collectively won further honors, including a 2018 Beard Award. After a health-driven shift to plant-based eating, she released *Ever-Green Vietnamese* (2024), nominated for a Beard vegetable-focused award and praised for its photography. Nguyen also co-founded the *Everything Cookbooks* podcast and teaches nationwide, cementing her authority on Vietnamese and broader Asian cooking.  \n\n**Keywords**:  \nVietnamese cuisine, James Beard Awards, plant-based cooking, Asian dumplings, pho",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "summary": "**Title**: Ainslee's Magazine History\n\n**Summary**: Ainslee's Magazine began in 1897 as the humor title *The Yellow Kid*, was renamed the next year, and became a respected literary periodical until its first closure in December 1926. Published by Street & Smith's Howard, Ainslee & Co., it featured major writers such as Stephen Crane, Jack London, Edna St. Vincent Millay, and Dorothy Parker. After a 1926 merger into *Far West Illustrated*, the brand was revived in 1934 as a \"sophisticated love-story monthly,\" underwent two title changes, and finally ceased publication in 1938.\n\n**Keywords**: Ainslee's Magazine, literary periodical, Street & Smith, early 20th-century fiction, publishing history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003430/01_The-Australian-Womens-Weekly.html_3",
+      "summary": "**Title**: Australian Women's Weekly Legacy\n\n**Summary**:  \nThe Australian Women's Weekly, founded in 1933 as a weekly and later becoming a monthly, is Australia’s most-read women’s magazine, renowned for shaping national culture through fiction, recipes, and social commentary. Its influential Test Kitchen, established post-WWI, triple-tests recipes that drive 90 % of reader purchases, while iconic editors—from Ita Buttrose to Nicole Byers—steered editorial direction and cultural milestones like the Obamas’ historic 2009 cover. Ownership evolved from Packer’s ACP to Bauer and finally Are Media, with circulation peaking above one million for special editions. Over decades the magazine promoted school uniforms, motherhood ideals, and Australian talent, embedding itself as a cultural institution.\n\n**Keywords**:  \nAustralian Women’s Weekly, Test Kitchen recipes, magazine editors, cultural influence, circulation history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/01_Miles-Davis.html_17",
+      "summary": "**Title**: Miles Davis's Electric-Funk Evolution  \n\n**Summary**:  \nBetween 1970-1975 Miles Davis aggressively fused jazz with rock, funk and avant-garde electronics, weathering accusations of “selling out” while courting young Black and rock audiences. Landmark albums—*Bitches Brew*, *Jack Johnson*, *On the Corner*, *Get Up with It*—and marathon live sets at the Fillmores, Isle of Wight and Osaka document a rotating cast (Corea, Jarrett, Henderson, Cosey, Mtume) shifting from improvisatory jazz-rock to dense, groove-based “space music” shaped by Stockhausen’s influence. Despite chart-topping jazz success, Columbia’s pop marketing frustrated Davis, while deteriorating health, substance abuse and critical hostility culminated in a five-year retirement after the 1975 Japanese tour.  \n\n**Keywords**:  \nelectric period, funk-jazz fusion, Bitches Brew, Stockhausen influence, 1970s hiatus",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "summary": "**Title**: Girlfriends Lesbian Magazine\n\n**Summary**:  \nGirlfriends was a San Francisco-based monthly magazine (1993-2006) created by five women that delivered news, culture, entertainment, health, travel and relationship content from a lesbian viewpoint. Distributed nationwide by Disticor, it deliberately avoided sexual advertising to distinguish itself from its sister publication, the erotica magazine On Our Backs. Among its most popular features was the annual “Best Cities for Lesbians” list, launched in 1994, and an online personals service run through its website.\n\n**Keywords**: lesbian magazine, Girlfriends, San Francisco, LGBT media, best cities list",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004183/02_Quinlan-Terry.html_3",
+      "summary": "**Title**: Quinlan Terry’s Classical Architecture\n\n**Summary**:  \nQuinlan Terry, Britain’s leading New Classical architect, extends the Palladian tradition through civic, ecclesiastical and domestic works whose design he frames as an expression of divine order. Notable projects include the Regent’s Park villas, the re-oriented St Helen’s Bishopsgate, Brentwood Cathedral’s Baroque extension, and the U.S. Abercrombie Residence, all executed in historically grounded idioms. Championed by David Watkin and King Charles III, Terry’s practice—founded with mentor Raymond Erith—rejects Modernism, emphasizes craftsmanship and sustainable traditional building, and has earned both the Driehaus Prize and a CBE, despite criticism that his work is pastiche.\n\n**Keywords**:  \nNew Classical architecture, Palladian revival, Quinlan Terry, traditional building, divine order",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "summary": "**Title**: Roger Ebert’s Critical Philosophy  \n\n**Summary**:  \nRoger Ebert’s criticism centered on fairness, context, and respect for audiences of every age, resisting both the MPAA’s secrecy and Hollywood’s homogenized booking. He championed genre films when executed with skill, defended controversial works like *Do the Right Thing* and *Dogma* on moral and artistic grounds, and refused to grade children’s movies on a curve, insisting kids deserve the same narrative rigor as adults. Though statistically more lenient than his peers, he could be contrarian—panning canonized titles such as *A Clockwork Orange* while praising derided ones like *Speed 2*—always grounding judgments in how well a film achieved its own aims rather than in abstract ideology.  \n\n**Keywords**:  \nfilm criticism, MPAA ratings, genre fairness, children’s cinema, contrarian reviews",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "summary": "**Title:** Sergei Korolev’s Lunar Setbacks  \n\n**Summary:**  \nSoviet Chief Designer Sergei Korolev’s insistence on adapting the 1958-era N1 rocket—built for lighter payloads—into a Moon launcher, coupled with his “build-then-test” philosophy, is portrayed as a fundamental strategic flaw that doomed the USSR’s crewed lunar effort. Chronic health decline (heart, kidney, gallbladder, gulag injuries) and a toxic rivalry with designer Vladimir Chelomey further fragmented resources and leadership, while post-Korolev successors inherited a troubled N1 program that ultimately failed four test flights and was cancelled after Apollo’s success.  \n\n**Keywords:**  \nN1 rocket, Moon race, Korolev-Chelomey rivalry, Soviet lunar program, managerial strategy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001051/00_Cooking-Light.html_0",
+      "summary": "**Title**: Cooking Light Magazine History  \n\n**Summary**:  \nCooking Light is an American food-and-lifestyle magazine launched in 1987 that merged with EatingWell in 2018 while continuing to release separate special issues. Published by Dotdash Meredith, it now appears quarterly at a cover price of $12.99. Leadership evolved through five editors-in-chief from its founding until the merger, reflecting shifts in editorial direction over three decades.  \n\n**Keywords**:  \nCooking Light, Dotdash Meredith, magazine merger, EatingWell, quarterly publication",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005355/01_Avengers-Assemble-TV-series.html_7",
+      "summary": "**Title**: Avengers Assemble Animated Series\n\n**Summary**:  \nAvengers Assemble is a Marvel animated series that premiered in 2013 on Disney XD, designed to mirror the tone of the 2012 Avengers film while targeting younger audiences. The show underwent multiple reinventions across five seasons, each with new titles and story arcs such as *Ultron Revolution*, *Secret Wars*, and *Black Panther’s Quest*. Critics praised its ability to balance kid-friendly storytelling with continuity nods to the Marvel Cinematic Universe, introducing characters like Falcon and featuring team dynamics that emphasize teamwork and growth. Despite some criticism for its reliance on action and simplified narratives, the series was lauded for its engaging villains, humor, and loyalty to both comic and film portrayals.\n\n**Keywords**:  \nAvengers Assemble, Disney XD, Marvel animation, superhero series, kid-friendly reboot",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006973/00_Collateral-Damage-Millennium.html_2",
+      "summary": "**Title:** Millennium “Collateral Damage” Episode  \n\n**Summary:**  \n“Collateral Damage” is the eleventh episode of Millennium’s third season, airing 22 Jan 1999, in which FBI agents Frank Black and Emma Hollis probe the abduction of Taylor Watts, daughter of Millennium Group member Peter Watts. Evidence links the kidnappers—ex-soldiers Eric Swan and an accomplice—to a classified Gulf-War pathogen test, implicating military cover-ups and Gulf War syndrome conspiracy theories. The investigation intertwines with Black’s personal vendetta after discovering the same pathogen killed his wife, forcing confrontations about loyalty, family, and the Group’s secrets. Guest stars James Marsters and radio host Art Bell enhance the episode’s exploration of conspiracy culture, earning strong critical praise for acting and moral complexity.  \n\n**Keywords:**  \nMillennium, Gulf War pathogen, Eric Swan, Frank Black, conspiracy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004351/00_Conan-the-Barbarian-1982-film.html_41",
+      "summary": "**Title**: Conan the Barbarian 1982 Production\n\n**Summary**:  \nThe 1982 film *Conan the Barbarian* combined meticulous practical effects, handcrafted weaponry, and an operatic score to create its epic fantasy world. Director John Milius emphasized realism over supernatural spectacle, employing full-scale mechanical snakes, duralumin frameworks, and vulcanized foam for creatures, while actors performed their own stunts after intensive martial-arts training under sword-master Kiyoshi Yamazaki. Custom-forged carbon-steel swords (costing $10,000 each) were balanced with lighter aluminum/fiberglass duplicates for combat sequences. Basil Poledouris composed the Wagnerian score pre-shoot, using the pioneering Musync system to synchronize live orchestral tempos with storyboards and final cuts, producing over two hours of music that Milius envisioned as an opera.\n\n**Keywords**:  \nspecial effects, sword design, Basil Poledouris, John Milius, Musync",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007399/01_York.html_20",
+      "summary": "**Title:** Historic York Landmarks & Culture  \n\n**Summary:**  \nYork’s medieval core is showcased through preserved streets like The Shambles and Goodramgate, ancient gateways such as Micklegate Bar, and the towering Gothic York Minster. The city celebrates its heritage with revived 14th-century Mystery Plays, centuries-old pubs, and traditional food events like the Festival of Food & Drink and the Assize of Ale. Cultural life thrives via the Theatre Royal, the National Centre for Early Music, and the UNESCO-recognized media-arts scene, while institutions ranging from the University of York to historic schools like St Peter’s and All Saints anchor its educational legacy.  \n\n**Keywords:** medieval streets, York Minster, Mystery Plays, historic pubs, UNESCO City of Media Arts",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/01_Miles-Davis.html_1",
+      "summary": "**Title**: Miles Davis's Evolution and Legacy\n\n**Summary**:  \nMiles Davis was a transformative force in jazz, pioneering multiple genres from bebop to jazz fusion. His career spanned nearly five decades, marked by constant reinvention and experimentation with rock, funk, and electronic music. After a controversial electric period in the 1970s and a health-induced hiatus, Davis returned in the 1980s with pop-infused albums that achieved commercial success despite critical skepticism. His influence extended beyond music into visual arts and culture, cementing his legacy as one of the most innovative and respected figures in 20th-century music.\n\n**Keywords**:  \nMiles Davis, jazz fusion, musical innovation, electric period, cultural legacy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005518/03_Bosko.html_1",
+      "summary": "**Title**: Bosko, First Looney Tunes Star\n\n**Summary**: Bosko, created in 1928 by Hugh Harman and Rudolf Ising, was the inaugural recurring character of Warner Bros.' Looney Tunes series, headlining 39 early shorts. Initially conceived as a caricatured Black boy speaking Southern dialect, Bosko later lost the accent and racial specificity, becoming a more ambiguous cartoon boy. The 1929 pilot *Bosko, the Talk-Ink Kid* pioneered synchronized speech-driven cartoons, setting Harman-Ising apart from Disney’s music-focused sound shorts. Rights to Bosko and the Looney Tunes films are now held by Turner Entertainment, with many shorts in the public domain.\n\n**Keywords**: Bosko, Looney Tunes, Harman-Ising, synchronized speech, animation history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/03_Agharta-album.html_18",
+      "summary": "**Title**: Miles Davis Agharta Era  \n\n**Summary**:  \nIn the mid-1970s, Miles Davis pushed jazz into abrasive electric-funk territory, alienating traditionalists while captivating younger rock crowds. Recorded live in Osaka on 1 Feb 1975, the double album *Agharta* captures his septet—anchored by Henderson, Foster, Lucas, Mtume and sparked by Cosey’s effects-laden guitar and Fortune’s sax—stretching grooves into dark, cathartic improvisations under Davis’ gestural direction. Released in Japan that August, the album’s mythic artwork and uncompromising sound were met with critical scorn, yet later generations hailed it as the apex of Davis’ electric period and a foundational text for experimental rock, hip-hop and Afrofuturist art.  \n\n**Keywords**:  \nAgharta, electric fusion, Pete Cosey, 1975 Japan tour, Afrofuturism",
+      "is_seed": false,
+      "expand_score": 0.8764486312866211
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/03_Agharta-album.html_0",
+      "summary": "**Title:** Miles Davis Agharta Analysis  \n\n**Summary:**  \nThese chunks dissect the 1975 live album *Agharta*, capturing Miles Davis’s Japanese tour performance at Osaka’s Festival Hall. The texts detail how Davis fused jazz improvisation with rock amplification, Afrocentric rhythms, and electronic effects, creating a dense, groove-driven sound that critics label both jazz-rock and avant-garde. Key contributions from guitarist Pete Cosey and percussionist James Mtume are highlighted, especially their use of ring modulators, EMS Synthi A synthesizer, and drum machines to craft psychedelic, ambient textures. Davis’s on-stage direction—abrupt stops, dynamic extremes, and organ drones—structured the concert’s tension-release arcs, while his physical ailments and medication regimen underscored the performance’s intensity.  \n\n**Keywords:**  \nAgharta, Miles Davis, jazz-rock fusion, electronic effects, Japanese tour",
+      "is_seed": false,
+      "expand_score": 0.8515244126319885
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/03_Agharta-album.html_13",
+      "summary": "**Title**: Miles Davis’ Agharta Album\n\n**Summary**:  \nMiles Davis’ 1975 live double album *Agharta* captures the apex of his electric-era band, blending funk-rock and jazz into an enduring, abrasive masterpiece. Critics later hailed it as the greatest electric jazz-funk record ever, praising the septet’s cathartic improvisations and guitarist Pete Cosey’s groundbreaking sounds. The Japanese release’s artwork by Tadanori Yokoo visualizes the mythical subterranean city Agharta, merging Hollow-Earth legends, Atlantis, Lemuria, Afrofuturism, and UFO lore into psychedelic collages that mirror the music’s cosmic scope. Though initially divisive, the album profoundly influenced British jazz, new-wave, punk, and experimental rock guitarists, and its legend persists through venues like Prague’s AghaRTA Jazz Centrum.\n\n**Keywords**:  \nAgharta, Miles Davis electric period, Tadanori Yokoo artwork, Hollow Earth myth, jazz-funk fusion",
+      "is_seed": false,
+      "expand_score": 0.8514251708984375
+    },
+    {
+      "community_key": "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html_5",
+      "summary": "**Title**: Miles Davis at Fillmore West  \n\n**Summary**:  \nBlack Beauty: Miles Davis at Fillmore West captures the trumpeter’s April 10, 1970 concert—his second night opening for the Grateful Dead—marking a deliberate pivot from jazz clubs to rock venues to promote Bitches Brew. Davis led a septet through a single, unbroken suite, using coded trumpet phrases to cue seamless shifts between old staples and new electric pieces, creating an improvisational jazz-rock hybrid. The performance won over a hall of initially indifferent hippies, expanded Davis’ counter-culture audience, and was documented on a Japan-only 1973 double LP that finally saw U.S. release in 1997. Critics praised the audacious fusion energy but split over sound quality, Steve Grossman’s sax work, and the risks of an entirely improvised set.  \n\n**Keywords**:  \nFillmore West, Bitches Brew era, jazz-rock fusion, live improvisation, trumpet cues",
+      "is_seed": false,
+      "expand_score": 0.8435600399971008
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "summary": "**Title**: Soviet Lunokhod Moon Rovers  \n\n**Summary**:  \nThe 2007 French documentary *Tank on the Moon* chronicles the secret Soviet Lunokhod program (1970-1973) that landed two robotic rovers on the Moon, covering 50 km of terrain while the world focused on Apollo. Drawing on newly declassified Soviet archives and interviews with surviving engineers, the film highlights chief designer Alexander Kemurdzhian and the technological feats achieved amid Cold War secrecy. It premiered internationally, won multiple festival awards, and is distributed digitally in English, French, and Portuguese.  \n\n**Keywords**: Lunokhod, Soviet Moon rover, Cold War space race, Alexander Kemurdzhian, *Tank on the Moon*",
+      "is_seed": false,
+      "expand_score": 0.8179470300674438
+    },
+    {
+      "community_key": "HotpotQA-validation-00002256/00_Prince-musician.html_33",
+      "summary": "**Title**: Prince’s Musical Genius & Legacy  \n\n**Summary**:  \nPrince is portrayed as a once-in-a-generation virtuoso who fused funk, rock, R&B and pop while mastering dozens of instruments, pioneering drum-machine/synth techniques, and amassing a vast vault of unreleased material. Beyond his own hits, he quietly supplied chart-toppers to artists from the Bangles to Celine Dion, often under pseudonyms, and fiercely protected his copyrights through high-profile lawsuits and takedowns. Revered by peers ranging from Miles Davis to Beyoncé, his influence persists in posthumous tributes such as the Pantone “Love Symbol #2” purple and global “Prince Nights.”  \n\n**Keywords**: virtuoso, multi-instrumentalist, songwriting, copyright battles, cultural icon",
+      "is_seed": false,
+      "expand_score": 0.8059612512588501
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "summary": "**Title**: Karel Bossart and the Atlas Rocket\n\n**Summary**:  \nKarel Jan Bossart was a pioneering Belgian-American rocket engineer whose monocoque design for the Atlas ICBM became a cornerstone of U.S. spaceflight. Despite early Air Force skepticism and classified constraints, Bossart’s Atlas evolved from a faltering missile into the nation’s most reliable expendable launch vehicle, enabling America’s first communications satellite, crewed orbital missions, and deep-space probes to Mars, Venus, Jupiter, and Saturn. His technical leadership at Convair/General Dynamics and advocacy of high-energy cryogenic fuels also produced the Centaur upper stage, cementing his legacy alongside von Braun and Korolev.\n\n**Keywords**: Atlas rocket, ICBM, monocoque design, space launch history, Karel Bossart",
+      "is_seed": false,
+      "expand_score": 0.8008849024772644
+    },
+    {
+      "community_key": "HotpotQA-validation-00004113/01_Count-Basie.html_9",
+      "summary": "**Title:** Count Basie’s Legacy and Collaborations  \n\n**Summary:**  \nCount Basie, a pioneering jazz pianist and bandleader, sustained the Big Band era by collaborating with iconic vocalists such as Ella Fitzgerald, Frank Sinatra, Joe Williams, and Tony Bennett, producing landmark albums from the 1950s through the 1970s. His orchestra, noted for the “New Testament” band sound, featured arrangements by Quincy Jones, Neal Hefti, and Sammy Nestico, yielding Grammy-winning and Hall-of-Fame recordings. Basie’s later life was marked by personal losses—his wife Catherine in 1983 and his own death to pancreatic cancer in 1984—yet his influence endures through honors including the Presidential Medal of Freedom, a U.S. postage stamp, and multiple inductions into music Halls of Fame.  \n\n**Keywords:**  \nCount Basie, Big Band jazz, Ella Fitzgerald, Frank Sinatra, Grammy Hall of Fame",
+      "is_seed": false,
+      "expand_score": 0.7992646098136902
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "summary": "**Title**: Soviet 212 Cruise Missile  \n\n**Summary**:  \nThe 212 was an early Soviet experimental cruise missile conceived in 1936 under Sergei Korolev, featuring a winged rocket launched from a catapult or TB-3 bomber. After repeated control-system failures and engine issues, including explosions with Glushko’s ORM-65, the missile—renamed 803—underwent four unsuccessful flight tests between 1936 and 1939. Korolev’s arrest in 1938 did not halt the program, but persistent guidance problems led to its cancellation in 1939.  \n\n**Keywords**:  \nSergei Korolev, 212 cruise missile, Soviet rocketry, 1930s aviation, ORM-65 engine",
+      "is_seed": false,
+      "expand_score": 0.7917732000350952
+    },
+    {
+      "community_key": "HotpotQA-validation-00004113/01_Count-Basie.html_4",
+      "summary": "**Title:** Count Basie’s Jazz Legacy  \n\n**Summary:**  \nCount Basie rose from Harlem stride-piano contests to become a swing-era titan, forming the nine-piece Barons of Rhythm in 1935 after Bennie Moten’s death and creating his signature “One O’Clock Jump.” His Kansas City-based orchestra—powered by the “All-American Rhythm Section,” dual tenor duels, and head arrangements—conquered New York’s Roseland and Savoy ballrooms, besting Chick Webb and setting a loose, blues-driven big-band template. Over five decades Basie recorded for Decca, Roulette and Capitol, showcased Holiday, Rushing and Williams, adopted the yachting-cap persona, and remained a global touring, TV and film presence until his 1984 death from pancreatic cancer.  \n\n**Keywords:** Count Basie, One O’Clock Jump, Kansas City swing, big-band blues, jazz orchestra",
+      "is_seed": false,
+      "expand_score": 0.7856267690658569
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_1",
+      "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "HotpotQA-validation-00003430/01_The-Australian-Womens-Weekly.html_3",
+      "HotpotQA-validation-00006986/01_Miles-Davis.html_17",
+      "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "HotpotQA-validation-00004183/02_Quinlan-Terry.html_3",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001051/00_Cooking-Light.html_0",
+      "HotpotQA-validation-00005355/01_Avengers-Assemble-TV-series.html_7",
+      "HotpotQA-validation-00006973/00_Collateral-Damage-Millennium.html_2",
+      "HotpotQA-validation-00004351/00_Conan-the-Barbarian-1982-film.html_41",
+      "HotpotQA-validation-00007399/01_York.html_20",
+      "HotpotQA-validation-00006986/01_Miles-Davis.html_1",
+      "HotpotQA-validation-00005518/03_Bosko.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00006986/03_Agharta-album.html_18",
+      "HotpotQA-validation-00006986/03_Agharta-album.html_0",
+      "HotpotQA-validation-00006986/03_Agharta-album.html_13",
+      "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html_5",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00002256/00_Prince-musician.html_33",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00004113/01_Count-Basie.html_9",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00004113/01_Count-Basie.html_4"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_1",
+      "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "HotpotQA-validation-00003430/01_The-Australian-Womens-Weekly.html_3",
+      "HotpotQA-validation-00006986/01_Miles-Davis.html_17",
+      "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "HotpotQA-validation-00004183/02_Quinlan-Terry.html_3",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_19",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001051/00_Cooking-Light.html_0",
+      "HotpotQA-validation-00005355/01_Avengers-Assemble-TV-series.html_7",
+      "HotpotQA-validation-00006973/00_Collateral-Damage-Millennium.html_2",
+      "HotpotQA-validation-00004351/00_Conan-the-Barbarian-1982-film.html_41",
+      "HotpotQA-validation-00007399/01_York.html_20",
+      "HotpotQA-validation-00006986/01_Miles-Davis.html_1",
+      "HotpotQA-validation-00005518/03_Bosko.html_1",
+      "HotpotQA-validation-00006986/03_Agharta-album.html_18",
+      "HotpotQA-validation-00006986/03_Agharta-album.html_0",
+      "HotpotQA-validation-00006986/03_Agharta-album.html_13",
+      "HotpotQA-validation-00006986/02_Black-Beauty-Miles-Davis-at-Fillmore-West.html_5",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00002256/00_Prince-musician.html_33",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00004113/01_Count-Basie.html_9",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00004113/01_Count-Basie.html_4"
+    ],
+    "allowed_chunk_pool_size": 110,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

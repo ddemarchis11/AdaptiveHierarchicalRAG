@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005840",
+  "question": "Which comic book was also written by the writer of Crossed?",
+  "gold_answer": "the Vertigo series \"Preacher\"",
+  "llm_answer": "The Boys",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer 'The Boys' is incorrect as it does not match the Gold Answer 'the Vertigo series Preacher.' Additionally, the retrieved context does not support 'The Boys' as being written by the writer of Crossed, Garth Ennis, in relation to the question. The correct answer is not grounded in the provided context, and the key fact from the Gold Answer is entirely missed."
+  }
+}

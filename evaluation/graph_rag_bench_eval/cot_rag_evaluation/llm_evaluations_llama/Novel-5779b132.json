@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The process of making sugar is described in the following subgraphs:\n\n1. From sugar-cane, maple-trees, or beets: \n   - The earth sends us sugar from these sources.\n   - The starch in these sources is changed into sugar.\n\n2. From grain: \n   - The brewer does something to the barley to make its starch turn into sugar.\n   - The brewer puts something into the malt to start the working.\n\n3. From fruit: \n   - The sun ripens fruit, changing its starch to sugar.\n   - The starch in fruit is changed into sugar, which is then mixed with the blood to feed the body.\n\n4. From grapes: \n   - Ripe grapes are gathered and put into vats.\n   - The juice is squeezed out of the grapes.\n   - The grape-juice is left standing in a warm place, where bubbles begin to rise and cover the top with froth.\n   - The juice is all in motion, and the sugar in the juice is changed into something else (alcohol).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of sugar production from various sources, including sugar-cane, maple trees, beets, grain, fruit, and grapes. However, the Gold Answer specifically states that sugar is made from Sugar Maple, which is only partially addressed in the Model Answer. The Model Answer includes unsupported details about sugar production from other sources, which are not grounded in the retrieved context. Additionally, it misses the central focus on Sugar Maple as the primary source of sugar in the context provided."
+  }
+}

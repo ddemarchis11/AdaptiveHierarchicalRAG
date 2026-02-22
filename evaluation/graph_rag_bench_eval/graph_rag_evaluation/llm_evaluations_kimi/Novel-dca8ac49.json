@@ -1,0 +1,12 @@
+{
+  "id": "Novel-dca8ac49",
+  "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+  "gold_answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+  "llm_answer": "The moon had barely risen when the wooden nose of their boat nosed into my cave, sending silver ripples across the sand where I lay half-buried. I froze, heart hammering like a tiny drum, as a long iron spear stabbed the water beside me—once, twice—missing by a finger’s breadth each time. When the clumsy thing scraped stone and clattered back to the boat, I wriggled deeper into the dark and waited for the clumsy giants to give up and row away.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a vivid and imaginative diary entry from the perspective of a launce fish, but it diverges significantly from the Gold Answer. While it captures the idea of humans entering the cave and the fish's reaction, it introduces unsupported details like the moonlight, the iron spear, and the specific actions of the humans, which are not grounded in the retrieved context. The Gold Answer mentions John Curgenven and the fish's wariness of humans and other fish, which are absent in the Model Answer. Thus, the Model Answer partially aligns with the Gold Answer but lacks full correctness, grounding, and coverage of key facts."
+  }
+}

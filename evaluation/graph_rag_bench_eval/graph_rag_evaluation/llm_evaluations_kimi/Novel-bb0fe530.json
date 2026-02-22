@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bb0fe530",
+  "question": "From which state did Moses Stickney, the paternal grandfather of Angeline Hall, originate before settling in the Black River Country?",
+  "gold_answer": "Moses Stickney came from New Hampshire.",
+  "llm_answer": "The provided context does not mention Moses Stickney or the state from which he originated before settling in the Black River Country.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about Moses Stickney or his state of origin. However, it fails to answer the question using external knowledge, which is that Moses Stickney came from New Hampshire. The answer is faithful to the context but does not address the Gold Answer or provide the required factual information."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-258869a2",
+  "question": "How do multiple characters interact with Doctor O'Shaughnessy in the narrative—for example, when Mrs. O'Shaughnessy stands by the window to watch him, he is given charge of Eileen, and Eileen stares at him—and what does this suggest about his central role among the story's characters?",
+  "gold_answer": "Doctor O'Shaughnessy is watched by Mrs. O'Shaughnessy, is given charge of Eileen, and is stared at by Eileen, indicating his central importance across different social circles.",
+  "llm_answer": "Multiple characters interact with Doctor O’Shaughnessy as the figure who controls every movement in the narrative.  \n- Mrs. O’Shaughnessy is told by him to “take turns sittin’ wid ye” and is given “strict injunctions…to keep the child talking, and not to leave her alone for an instant”; she obeys, watching and guarding Eileen at his command.  \n- Eileen is literally lifted into his gig and carried off by him; once in his house she is placed under his “charge” and threatened with the birch rod if she stops talking, so she stares at him in terror while he enforces the regimen that produces the jewels.  \n\nThese interactions show that every other character’s actions revolve around Doctor O’Shaughnessy: he initiates, orders, and supervises, making him the undisputed centre of the story.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, emphasizing Doctor O'Shaughnessy's central role and interactions with Mrs. O'Shaughnessy and Eileen. It provides additional context and details, such as his commands to Mrs. O'Shaughnessy and his control over Eileen, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the elaboration aligns with the narrative evidence provided."
+  }
+}

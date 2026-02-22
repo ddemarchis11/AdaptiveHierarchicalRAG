@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c2af5dd7",
+  "question": "How did the relationship between Rudolph and Mrs. Forrester develop during their time together at the Flowery Pagoda, particularly when Mrs. Forrester expressed regret to Rudolph and he observed her flushed and radiant as she concluded a narrative with a droll pantomime?",
+  "gold_answer": "At the Flowery Pagoda, Mrs. Forrester expressed regret to Rudolph, and he saw her flushed and radiant as she ended a narrative with a droll pantomime.",
+  "llm_answer": "The context does not describe Mrs. Forrester as “flushed and radiant” or mention any “droll pantomime” at the Flowery Pagoda.  \nIt only shows her telling Rudolph she was sorry, resting her hand on his arm, and saying she had thought of him often, while Rudolph fears he is “in danger of being happy” beside her.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not support the specific details of Mrs. Forrester being 'flushed and radiant' or performing a 'droll pantomime.' However, it fails to address the question directly and does not align with the Gold Answer, which explicitly mentions these elements. While the Model Answer is faithful to the context, it does not provide the required information or evidence coverage."
+  }
+}

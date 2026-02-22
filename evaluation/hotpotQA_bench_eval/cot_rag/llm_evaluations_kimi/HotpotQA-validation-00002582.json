@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002582",
+  "question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+  "gold_answer": "Reese Witherspoon",
+  "llm_answer": "The provided evidence does not mention any actor or actress from *Overnight Delivery* or their birthplace. Therefore, I cannot determine which actor/actress from *Overnight Delivery* was born in New Orleans based on the given information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about actors or actresses from 'Overnight Delivery' or their birthplace. However, it fails to answer the question using external knowledge, which identifies Reese Witherspoon as the actress born in New Orleans. The retrieved context is irrelevant to the question, so the model's faithfulness to the context is high, but correctness and evidence coverage are low."
+  }
+}

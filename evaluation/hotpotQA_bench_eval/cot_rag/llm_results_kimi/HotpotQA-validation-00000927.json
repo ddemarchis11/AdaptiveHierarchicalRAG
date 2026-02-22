@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00000927",
+  "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+  "gold_answer": "Boeing EA-18G Growler",
+  "llm_answer": "Electronic Attack Squadron 138 (VAQ-138) operates the EA-18G Growler, an American carrier-based electronic warfare aircraft that is a specialized version of the two-seat F/A-18F Super Hornet.",
+  "context": [
+    {
+      "text": "The Boeing EA-18G Growler is an American carrier-based electronic warfare aircraft , a specialized version of the two-seat Boeing F/A-18F Super Hornet . The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy . The Growler's electronic warfare capability is primarily provided by Northrop Grumman . The EA-18G began production in 2007 and entered operational service with the US Navy in late 2009. Australia has also purchased thirteen EA-18Gs, which entered service with the Royal Australian Air Force in 2017. Development Requirement and testing The first EA-18G at the roll-out ceremony on 3 August 2006 On 15 November 2001, Boeing successfully completed an initial flight demonstration of F/A-18F \"F-1\" fitted with the ALQ-99 electronic warfare system to serve as the EA-18 Airborne Electronic Attack (AEA) concept aircraft. In December 2003, the US Navy awarded a development contract for the EA-18G to Boeing. As primary contractor, Boeing was to construct the forward fuselage and wings, and perform the final assembly. Northrop Grumman was the principal airframe subcontractor and they would supply the center and aft fuselage as well as the principal electronic combat system. In 2003, the Navy expected to receive 90 EA-18Gs. The first EA-18G test",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0"
+    },
+    {
+      "text": "infrastructure will be installed at RAAF Base Amberley and the Delamere Air Weapons Range . The Growlers will also be fitted with improved sensors, longer-range missiles and new jamming pods. Potential operators Japan On 1 January 2018, it was reported that the Japanese Government is considering purchasing an electronic warfare attack aircraft and the EA-18G is a candidate for the Japan Air Self-Defense Force . Failed bids Finland Boeing and the US Navy indicated their intention to propose the F/A-18E/F and EA-18G as a package for the new fighter introduction program, HX, which would replace the F/A-18C/D fighters operated by the Finnish Air Force , and on 18 February 2019 the US Department of Defense approved the export of the EA-18G to Finland. However, the Finnish Air Force selected the F-35 Lightning II in February 2022. Operators Australia Royal Australian Air Force - 12 aircraft in service No. 6 Squadron RAAF An EA-18G prepares to launch from the aircraft carrier USS Theodore Roosevelt (CVN-71) An EA-18G pilot checks his right wing stores United States United States Air Force 390th Electronic Combat Squadron provides training for electronic warfare officers for Navy units by augmenting VAQ-129 with some USAF instructors. United States Navy - 153 aircraft in service VAQ-129 VAQ-130 VAQ-131 VAQ-132 VAQ-133",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13"
+    },
+    {
+      "text": "the four EA-6B ICAP III Prowlers of VAQ-138 logged over 1,700 flight hours, and achieved a 96% combat sortie completion rate. VAQ-138 EA-18G in 2024 2010–present Following their 2009 cruise on board USS John C. Stennis , the squadron began transitioning to the EA-18G Growler.  They were certified 'Safe for Flight' in their new aircraft in August 2010. VAQ-138 deployed to land bases, from June to 23 December 2011 they were based at Al Asad AB, Iraq. From August 2014 to 8 February 2015 they were based at Misawa AFB, Japan, and again from April to October 2016. While deployed to Misawa AFB in 2016, VAQ-138 sent a detachment to Clark AB, Philippines from June to July, followed by another detachment sent to Andersen AFB, Guam from July to August to participate in Exercise VALIANT SHIELD. In January 2017, VAQ-138 flew to Nellis AFB, Nevada, to take part in RED FLAG 17–1 in preparation for a PACOM deployment starting in March. From March to October, VAQ-138 was stationed in Misawa, Japan with detachments participating in joint exercises in South Korea and Guam. Starting in March 2018, the cycle begins again with",
+      "id": "HotpotQA-validation-00000927/00_VAQ-138.html_c_3"
+    },
+    {
+      "text": "shoot from home base NASWI. See also Wikimedia Commons has media related to Electronic Attack Squadron 138 (United States Navy) . Naval aviation Modern US Navy carrier air operations List of United States Navy aircraft squadrons Notes References Bibliography {CVWP Command Operations Report (COR) 2011-2020} Web External links VAQ-138’s official website",
+      "id": "HotpotQA-validation-00000927/00_VAQ-138.html_c_6"
+    },
+    {
+      "text": "United States Navy - 153 aircraft in service VAQ-129 VAQ-130 VAQ-131 VAQ-132 VAQ-133 VAQ-134 VAQ-135 VAQ-136 VAQ-137 VAQ-138 VAQ-139 VAQ-140 VAQ-141 VAQ-142 VAQ-144 VAQ-209 VX-9 VX-23 VX-31 Naval Aviation Warfighting Development Center EA-18 Growler Demo Team  Specifications (EA-18G Growler) Data from Boeing brochure and U.S. Navy F/A-18E/F fact file. General characteristics Crew: 2 Length: 60 ft 1.25 in (18.31 m) Wingspan: 44 ft 8.5 in (13.62 m) (including wingtip-mounted pods) Height: 16 ft 0 in (4.88 m) Wing area: 500 sq ft (46.5 m 2 ) Empty weight: 33,094 lb (15,011 kg) Gross weight: 48,000 lb (21,772 kg) ; recovery weight Max takeoff weight: 66,000 lb (29,964 kg) Internal fuel capacity: 13,940 lb (6,323 kg) External fuel capacity: (3 x 480 gal (1,800 L) tanks), 9,774 lb (4,420 kg) Powerplant: 2 × General Electric",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_14"
+    },
+    {
+      "text": "Strike Fighter Squadron 2 (VFA-2) also known as the \"Bounty Hunters\" is a United States Navy F/A-18F Super Hornet strike fighter squadron based at Naval Air Station Lemoore , California. Their tail code is NE and their callsign is \"Bullet\". They are attached to Carrier Air Wing 2 (CVW-2), a composite unit made up of a wide array of aircraft performing a variety of combat and support missions that deploy aboard the Carl Vinson . History Four distinct squadrons have been designated VF-2. Officially, the US Navy does not recognize a direct lineage with disestablished squadrons if a new squadron is formed with the same designation. Often, the new squadron will assume the nickname, insignia, and traditions of the earlier squadrons. 1970s VF-2 F-14As aboard USS Enterprise during their first deployment, 1975 VF-2, known as the \"Bounty Hunters,\" was established on 14 October 1972 flying the F-14A Tomcat . VF-2 completed aircrew training and received its first Tomcats in July 1973, attaining full strength of 12 F-14As in the spring of 1974. VF-2's initial deployment was in 1974 with her sister squadron VF-1 aboard USS Enterprise . The squadron flew over Saigon in support of Operation Frequent Wind , the evacuation of US personnel in April,",
+      "id": "HotpotQA-validation-00000927/02_VFA-2.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- EA-18G Growler is the carrier-based electronic-warfare variant of the two-seat F/A-18F Super Hornet (HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0).\n- VAQ-138 is an Electronic Attack Squadron of the US Navy (HotpotQA-validation-00000927/00_VAQ-138.html_c_6).\n- VAQ-138 is an expeditionary EA-18G Growler squadron (HotpotQA-validation-00000927/00_VAQ-138.html_c_0).\n- EA-18G Growler is the carrier-based electronic-warfare variant of the two-seat F/A-18F Super Hornet (HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+      "doc_ids": [
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13",
+        "HotpotQA-validation-00000927/00_VAQ-138.html_c_6",
+        "HotpotQA-validation-00000927/02_VFA-2.html_c_0",
+        "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_c_24"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "VAQ-138 EA-18G Growler",
+      "doc_ids": [
+        "HotpotQA-validation-00000927/00_VAQ-138.html_c_3",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_14",
+        "HotpotQA-validation-00000927/00_VAQ-138.html_c_0",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_8",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The Sioux outbreak forced Minnesota’s military authorities to divert Civil-war volunteers and resources to fight the uprising instead of sending them east. Troops already in the state had to be kept on frontier duty, and when additional men were needed to move supplies the army had to impress civilian teams because farmers would no longer haul produce into the city. Thus the outbreak tied up men, horses, and wagons that otherwise would have gone to the Union war effort.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of how the Sioux outbreak influenced Minnesota's military mobilization, mentioning the diversion of resources and the impressment of civilian teams. However, it does not explicitly address the Gold Answer's point about Minnesota furnishing the Sixth regiment after the United States gained land from the Sioux. While some details in the Model Answer are supported by the context, such as the impressment of civilian teams, other claims about the diversion of Civil War volunteers and resources are not clearly grounded in the retrieved context."
+  }
+}

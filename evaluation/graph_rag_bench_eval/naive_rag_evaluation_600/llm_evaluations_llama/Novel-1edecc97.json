@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1edecc97",
+  "question": "During the supper scene described in the cottage, which foods are specifically mentioned as being served to the characters?",
+  "gold_answer": "The supper includes ham, gingerbread, white bread, and jugs of buttermilk.",
+  "llm_answer": "During the supper scene in the cottage, the following foods are specifically mentioned as being served to the characters:\n\n1. Hazelnuts (including butternuts, chestnuts, beech-nuts, hickories, and hazels)\n2. Acorns (including long slender brown-satin ones and fat red-and-brown ones with a woolly down on them)\n3. Partridge-berries\n4. Checkerberries\n5. Wintergreen leaves\n6. Sassafras-bark\n7. Spruce-gum\n8. Golden corn (a present from the field-cousins)\n9. Root-beer (served in birch-bark goblets)",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer lists foods and drinks that are entirely unrelated to the Gold Answer and the question about the supper scene in the cottage. The foods mentioned in the Model Answer are derived from a different context about a feast involving animals, not the supper scene described in the question. Therefore, the Model Answer is incorrect, unfaithful to the context, and does not cover the evidence from the Gold Answer."
+  }
+}

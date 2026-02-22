@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4b359d87",
+  "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+  "gold_answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+  "llm_answer": "Samuel Pepys's involvement in naval or maritime matters is illustrated by his actions such as giving orders for ships to go forth at Woolwich and Deptford, and taking notice of their forwardness to go forth. He also went from ship to ship to do so.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the specific actions mentioned in the Gold Answer, such as showing ships to Lady Jemimah and Paulina or visiting Deptford. Instead, it discusses unrelated naval activities that are not supported by the retrieved context. The claims made in the Model Answer are not grounded in the provided context, and it fails to include the key facts from the Gold Answer."
+  }
+}

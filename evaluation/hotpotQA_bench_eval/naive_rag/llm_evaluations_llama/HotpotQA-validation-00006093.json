@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006093",
+  "question": "\"This Ole House\" topped the UK chart in 1981 in a recording by a platinum-selling British rock and roll singer whose recording and performing career began when?",
+  "gold_answer": "in the late 1960s",
+  "llm_answer": "The platinum-selling British rock and roll singer whose recording and performing career began when is Shakin' Stevens. \n\nAccording to the evidence, Shakin' Stevens' recording and performing career began in the late 1960s, although it was not until 1980 that his commercial success began.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Shakin' Stevens as the singer and states that his recording and performing career began in the late 1960s, which aligns with the Gold Answer and is supported by the Retrieved Context. It also provides additional context about his commercial success starting in 1980, which is relevant and grounded in the context."
+  }
+}

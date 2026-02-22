@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002164",
+  "question": "The neurologist and author who compiled the first standalone introductory rulebook for a seminal fantasy tabletop roleplaying game held an academic position at which university?",
+  "gold_answer": "University of Southern California",
+  "llm_answer": "I cannot verify the academic position of the neurologist and author who compiled the first standalone introductory rulebook for a seminal fantasy tabletop roleplaying game.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct university (University of Southern California) as stated in the Gold Answer. Additionally, the retrieved context does not directly address the academic position or university affiliation of J. Eric Holmes, making the Model Answer ungrounded and lacking evidence coverage."
+  }
+}

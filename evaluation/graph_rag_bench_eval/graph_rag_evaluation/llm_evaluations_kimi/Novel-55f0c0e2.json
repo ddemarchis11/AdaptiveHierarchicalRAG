@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f0c0e2",
+  "question": "What incident in the narrative demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order?",
+  "gold_answer": "The Duke of York sent an order to Samuel Pepys.",
+  "llm_answer": "The Duke of York instructed Pepys to lay out £300 in cloth to be given as presents among the Turks, an official order that Pepys welcomed as an opportunity to gain favor.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a specific incident involving the Duke of York instructing Pepys to lay out £300 in cloth for presents among the Turks, which is not supported by the retrieved context. The Gold Answer simply states that the Duke of York sent an order to Pepys, which is a broader and more general statement. While the Model Answer attempts to elaborate, it introduces details not grounded in the provided context, reducing faithfulness. Evidence coverage is partial as the Model Answer does not align with the simplicity of the Gold Answer's core fact."
+  }
+}

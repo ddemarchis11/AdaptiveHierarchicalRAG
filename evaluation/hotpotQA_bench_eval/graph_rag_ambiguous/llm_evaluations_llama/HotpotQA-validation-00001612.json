@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001612",
+  "question": "A low-power television station in the Kansas plains city known for its aviation industry operates as a duopoly alongside which local station broadcasting on virtual channel 12?",
+  "gold_answer": "KWCH-DT",
+  "llm_answer": "I cannot verify which low-power television station in the Kansas plains city known for its aviation industry operates as a duopoly alongside which local station broadcasting on virtual channel 12.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is KWCH-DT. It does not utilize the retrieved context effectively and does not cover the key fact mentioned in the Gold Answer."
+  }
+}

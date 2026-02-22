@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002249",
+  "question": "Migene González-Wippler is leading expert on a religion that developed among which ethnic group ?",
+  "gold_answer": "West African descendants",
+  "llm_answer": "Migene González-Wippler is a leading expert on the Afro-Caribbean religion of Santería, which developed among the Afro-Cuban ethnic group.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Santería as an Afro-Caribbean religion and links it to the Afro-Cuban ethnic group, which is partially correct. However, the Gold Answer specifies 'West African descendants,' which is broader and more accurate based on the context. The Model Answer is faithful to the retrieved context but misses the broader scope of 'West African descendants' mentioned in the Gold Answer."
+  }
+}

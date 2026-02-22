@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b231e0b",
+  "question": "What is the connection between Kynance and Cornwall as established by the narrative chains?",
+  "gold_answer": "Kynance Cove, which includes Kynance and the feature Devil's Throat, is in Cornwall.",
+  "llm_answer": "The connection between Kynance and Cornwall as established by the narrative chains is that Kynance is a location on the coast of Cornwall, and the narrative describes the journey of the characters to Kynance Cove, which is illustrated in the book. The text also mentions the Lizard Lights, which are visible from Kynance, and the Devil's Throat and Hell's Mouth, which are locations near Kynance. The narrative also describes the scenery and the people of Cornwall, including John Curgenven, a fisherman who guides the characters to Kynance.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Kynance as a location on the coast of Cornwall and elaborates on the journey to Kynance Cove, referencing details such as the Lizard Lights, Devil's Throat, Hell's Mouth, and the role of John Curgenven. All these elements are supported by the retrieved context and align with the Gold Answer, while providing additional relevant details."
+  }
+}

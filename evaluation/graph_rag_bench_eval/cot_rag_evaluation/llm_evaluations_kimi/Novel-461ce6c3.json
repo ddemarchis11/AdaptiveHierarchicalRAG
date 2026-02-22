@@ -1,0 +1,12 @@
+{
+  "id": "Novel-461ce6c3",
+  "question": "What is the connection between the movements of Captain Balfour and Mr. Reade?",
+  "gold_answer": "Captain Balfour travelled to Jereed, and Mr. Reade travelled with Captain Balfour.",
+  "llm_answer": "The connection is that Captain Balfour and Mr. Reade made the same tour together: they jointly undertook “a Tour in the Jereed,” travelling side-by-side throughout the journey described.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the connection between Captain Balfour and Mr. Reade, stating that they traveled together on a tour to Jereed. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which explicitly mentions their joint travel. All key facts from the Gold Answer are included."
+  }
+}

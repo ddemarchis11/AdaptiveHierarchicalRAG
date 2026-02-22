@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002736",
+  "question": "What country of origin does  Dana Ivey and Two Weeks Notice have in common?",
+  "gold_answer": "American",
+  "llm_answer": "Both Dana Ivey and the film Two Weeks Notice are American.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that both Dana Ivey and the film Two Weeks Notice share the country of origin, America. This is supported by the context, which explicitly states Dana Ivey is American and that Two Weeks Notice is an American film. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

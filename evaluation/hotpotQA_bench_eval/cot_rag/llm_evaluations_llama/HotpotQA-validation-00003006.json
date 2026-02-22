@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003006",
+  "question": "What is another name, in Swedish, for a seductive forest creature found in Scandinavian folklore?",
+  "gold_answer": "Rå",
+  "llm_answer": "Another name, in Swedish, for a seductive forest creature found in Scandinavian folklore is \"skogsrå\" or \"skogssnua\".",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides 'skogsrå' and 'skogssnua' as names for a seductive forest creature in Swedish folklore, which are supported by the context. However, the Gold Answer specifies 'Rå' as another name, which is not mentioned in the Model Answer. While the Model Answer is grounded in the context, it misses the specific entity 'Rå' from the Gold Answer."
+  }
+}

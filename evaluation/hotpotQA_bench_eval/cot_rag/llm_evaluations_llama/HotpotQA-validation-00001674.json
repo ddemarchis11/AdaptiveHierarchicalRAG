@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What did both Karel Bossart and Sergei Korolev design?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both Karel Bossart and Sergei Korolev designed an Intercontinental Ballistic Missile (ICBM).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states 'rocket,' which is a broader term encompassing all types of rockets, including ICBMs. The Model Answer specifies 'Intercontinental Ballistic Missile (ICBM),' which is correct and supported by the context but narrows the scope unnecessarily. While the context confirms both Bossart and Korolev worked on ICBMs, it also mentions other types of rockets they designed, such as launch vehicles and satellites, which are not captured in the Model Answer. Thus, the Model Answer is partially correct and faithful to the context but misses broader evidence coverage."
+  }
+}

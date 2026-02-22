@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004257",
+  "question": "Which lake is located further south, Dal Lake or Waterton Lake?",
+  "gold_answer": "Dal Lake",
+  "llm_answer": "Based on the provided evidence, I can determine that Dal Lake is located further south than Waterton Lake.\n\nDal Lake is located in Kashmir, India, which is in the southern part of the Asian continent. \n\nWaterton Lake, on the other hand, is located in southern Alberta, Canada, and northern Montana, United States.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Dal Lake as being further south than Waterton Lake, consistent with the Gold Answer. It provides additional context about the locations of both lakes, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004400",
+  "question": "What episode did Mona Penelope Simpson  on the animated show \"The Simpsons\"die?",
+  "gold_answer": "\"Mona Leaves-a\"",
+  "llm_answer": "The provided evidence does not specify in which episode Mona Penelope Simpson died.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the episode in which Mona Penelope Simpson died. However, it fails to provide the correct answer ('Mona Leaves-a') from internal knowledge, which is unrelated to the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fb234ffb",
+  "question": "In what way was the city of Hamburg involved in the reception of Sterne's works in Germany, especially through the roles of Bode as editor and the 'Hamburgischer unpartheyischer Correspondent' in reviewing 'Tristram Shandy'?",
+  "gold_answer": "Hamburg was involved through the Hamburgischer unpartheyischer Correspondent, which reviewed Tristram Shandy and was edited by Bode.",
+  "llm_answer": "Hamburg’s part in receiving Sterne was channelled through two local institutions:\n\n1. The newspaper *Hamburgischer unpartheyischer Correspondent* reviewed *Tristram Shandy* while J. J. C. Bode was its editor (1762/63).  \n2. A decade later Bode, still resident in Hamburg, issued his own nine-part German translation of *Tristram Shandy* from Hamburg in 1774.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Hamburg's involvement through the 'Hamburgischer unpartheyischer Correspondent' reviewing 'Tristram Shandy' under Bode's editorship, as stated in the Gold Answer. Additionally, it provides relevant and supported details about Bode's later translation of the work, which is consistent with the retrieved context and enhances the response without deviating from the core truth."
+  }
+}

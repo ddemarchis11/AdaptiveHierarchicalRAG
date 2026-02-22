@@ -1,0 +1,42 @@
+{
+  "id": "Novel-e4c114e1",
+  "question": "Which materials are sequentially involved in the containment and coverage of the retorts in the furnace?",
+  "gold_answer": "Blocks made of refractory clay contain the retorts, and slabs cover the compartment in the baking chamber.",
+  "llm_answer": "The retorts are first incased in superposed blocks of refractory clay (P, Q, S) and the space above them is then covered by a cylindrical dome of refractory tiles (O).",
+  "context": [
+    {
+      "text": "with openings throughout their length for the escape of steam. Between these pipes there is a closed space into which enters the waste heat and products of combustion from the furnace. These latter afterward escape through the chimney at the upper part. In order that the black may be put in bags on issuing from the furnace, it must be cooled as much as possible. For this purpose there are arranged on each side of the furnace two pieces of cast iron tubes, F, of rectangular section, forming a prolongation of the retorts and making with them an angle of about 45 degrees. The extremities of these tubes terminate in hollow rotary cylinders, G, which permit of regulating the flow of the black into a car, J (Fig. 1), running on rails. From what precedes, it will be readily understood how a furnace is run on this plan. The bone-black in the hopper, A, descends into the drier, B, enters the retorts, D, and, after revivification, passes into the cooling pipes, F, from whence it issues cold and ready to be bagged. A coke fire having been built in the fire-place, Y, the flames spread throughout the fire chamber, direct themselves toward the bottom, divide into two parts to the right and left, and heat the back of the retorts in passing. Then the two currents mount through the lateral flues, V, and unite so as to form but one in the drier. Within",
+      "id": "Novel-8559_c_76"
+    },
+    {
+      "text": "are arranged on each side of the same fire-place two rows of cast-iron retorts, D, of undulating form, each composed of three parts, set one within the other. These retorts, which serve for the revivification of the black, are incased in superposed blocks of refractory clay, P, Q, S, designed to regularize the transmission of heat and to prevent burning. These pieces are kept in their respective places by crosspieces, R. The space between the retorts occupied by the fire-place, Y, is covered with a cylindrical dome, O, of refractory tiles, forming a fire-chamber with the inner surface of the blocks, P, Q, and S. The front of the surface consists of a cast-iron plate, containing the doors to the fire-place and ash pan, and a larger one to allow of entrance to the interior to make repairs. One of the principal disadvantages of furnaces for revivifying animal charcoal has been that they possessed no automatic drier for drying the black on its exit from the washer. It was for the purpose of remedying this that Mr. Schreiber was led to invent the automatic system of drying shown at the upper part of the furnace, and which is formed of two pipes, B, of undulating form, like the retorts, with openings throughout their length for the escape of steam. Between these pipes there is a closed space into which enters the waste heat and products of",
+      "id": "Novel-8559_c_75"
+    },
+    {
+      "text": "The diameter of the pinion is 0.197 of a meter, and it makes 80 revolutions per minute. The pulleys, M and L, are 0.31 of a meter in diameter, and make 80 revolutions per minute. Motion is transmitted to them by other pulleys, N, keyed upon a shaft placed at the lower part, which receives its motion from the engine of the establishment through the intermedium of the pulley, O. The diameter of the latter is 0.385 of a meter, and that of N is 0.58. They each make 43 revolutions per minute. [Illustration: FIG. 1.--ELEVATION OF BONE-BLACK REVIVIFYING PLANT (SCHREIBER'S SYSTEM.) FIG. 2.--PLAN VIEW. FIG. 3.--LATERAL VIEW OF ELEVATOR. FIG. 4.--FRONT VIEW OF ELEVATOR. FIG. 5.--CONTINUOUS FURNACE FOR REVIVIFYING BONE-BLACK.] The elevator is set in motion by the simple maneuver of the gearing lever, P, and when this has been done all the other motions are effected automatically. _The Animal Black Furnace_.--This consists of a masonry casing of rectangular form, in which are arranged on each side of the same fire-place two rows of cast-iron retorts, D, of undulating form, each composed of three",
+      "id": "Novel-8559_c_74"
+    },
+    {
+      "text": "G, through a pipe, d. This latter leads the gas into the tube, t, of the smoking furnace, which is perforated with a large number of small holes. The air requisite for combustion enters through the apertures, o, in the cover of the furnace, and brings about in the latter a high temperature. The very hot gases descend into the lower iron portion of this small furnace and pass through a tube, e, into the smoking chamber by the aid of vertical conduits, b', which serve at the same time as gas tuyeres for the extremity of the furnace that is exposed to the fire. [Illustration: GAS FURNACE FOR BAKING REFRACTORY PRODUCTS.] In the lower part of the smoking furnace, which is made of boiler plate and can be put in communication with the tube, e, there are large apertures that may be wholly or partially closed by means of registers so as to carry to the hot gas derived from combustion any quantity whatever of cold and dry air, and thus cause a variation at will of the temperature of the gases which are disengaged from the tube, e. The use of these smoking apparatus heated by gas does away also with the inconveniences of the ordinary system, in which the products are soiled by cinders or dust, and which render the gradual heating of objects to be baked difficult. At the beginning, there is allowed to enter the lower part of the small furnace, S,",
+      "id": "Novel-8559_c_36"
+    },
+    {
+      "text": "for the sizes mentioned. [Illustration: Fig.9.] GAS FURNACE FOR BAKING REFRACTORY PRODUCTS. In order that small establishments may put to profit the advantages derived from the use of annular furnaces heated with gas, smaller dimensions have been given the baking chambers of such furnaces. The accompanying figure gives a section of a furnace of this kind, set into the ground, and the height of whose baking chamber is only one and a half meters. The chamber is not vaulted, but is covered by slabs of refractory clay, D, that may be displaced by the aid of a small car running on a movable track. This car is drawn over the compartment that is to be emptied, and the slab or cover, D, is taken off and carried over the newly filled compartment and deposited thereon. The gas passes from the channel through the pipe, a, into the vertical conduits, b, and is afterward disengaged through the tuyeres into the chamber. In order that the gas may be equally applied for preliminary heating or smoking, a small smoking furnace, S, has been added to the apparatus. The upper part of this consists of a wide cylinder of refractory clay, in the center of whose cover there is placed an internal tube of refractory clay, which communicates with the channel, G, through a pipe, d. This latter leads the gas into the tube, t, of the smoking furnace, which is perforated with",
+      "id": "Novel-8559_c_35"
+    }
+  ],
+  "cot_scratchpad": "- retorts are nested in three-piece refractory clay blocks (Novel-8559_c_75, Novel-8559_c_76)\n- blocks P, Q, S act as heat regulators around retorts (Novel-8559_c_75)\n- top space closed by refractory-tile dome O (Novel-8559_c_75)\n- sequence: cast iron retorts → clay blocks → refractory-tile dome",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which materials are sequentially involved in the containment and coverage of the retorts in the furnace?",
+      "doc_ids": [
+        "Novel-8559_c_76",
+        "Novel-8559_c_75",
+        "Novel-8559_c_74",
+        "Novel-8559_c_36",
+        "Novel-8559_c_35"
+      ]
+    }
+  ]
+}

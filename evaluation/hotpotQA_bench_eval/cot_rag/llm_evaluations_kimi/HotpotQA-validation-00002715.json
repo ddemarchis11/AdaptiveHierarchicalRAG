@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002715",
+  "question": "Which  American chain of bakery-café fast casual restaurants sponsored Bill Steers Men's 4-Miler",
+  "gold_answer": "Panera Bread Company",
+  "llm_answer": "Panera Bread",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Panera Bread as the sponsor of the Bill Steers Men's 4-Miler, which is consistent with the Gold Answer and supported by the Retrieved Context. Although concise, the answer is accurate and includes the necessary fact."
+  }
+}

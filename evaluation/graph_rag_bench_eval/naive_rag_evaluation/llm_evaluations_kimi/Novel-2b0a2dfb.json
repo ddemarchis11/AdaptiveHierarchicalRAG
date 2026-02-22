@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2b0a2dfb",
+  "question": "What notable feature is described as belonging to the town of Toser, according to the text's depiction of its environment?",
+  "gold_answer": "Toser has gardens.",
+  "llm_answer": "The notable feature is the beautiful, abundantly watered gardens that lie beneath the date-trees, fed by warm streams.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the notable feature of Toser as its gardens, which are described in the context as beautiful and abundantly watered under the date-trees. The additional detail about warm streams feeding the gardens is supported by the retrieved context and aligns with the Gold Answer."
+  }
+}

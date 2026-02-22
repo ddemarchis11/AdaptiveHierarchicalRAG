@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Between the head coach of a small Catholic college basketball programme in the New York metropolitan area and the coach who took over a Big 12 programme in Iowa after leaving a mid-major school in Kentucky, which one has held their current position for longer?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "The head coach of the small Catholic college basketball programme in the New York metropolitan area, Tim Cluess, has held his current position for longer.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies Tim Cluess as the coach who has held his position longer, aligning with the Gold Answer. However, the Retrieved Context does not provide any information about Tim Cluess or his tenure, making the answer ungrounded and lacking evidence coverage."
+  }
+}

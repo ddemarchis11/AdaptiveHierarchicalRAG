@@ -1,0 +1,12 @@
+{
+  "id": "Novel-995b126e",
+  "question": "Explain how the chain links Ovid's writing to the theme of Love through the narrative sequence.",
+  "gold_answer": "Naso writes of Love, which is inflamed in Ceres.",
+  "llm_answer": "There is insufficient evidence to explain how the chain links Ovid's writing to the theme of Love through the narrative sequence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question or provide any relevant information about Ovid's writing or its connection to the theme of Love. It fails to incorporate the Gold Answer's key point about Naso writing of Love inflamed in Ceres, and there is no grounding in the retrieved context to support the response."
+  }
+}

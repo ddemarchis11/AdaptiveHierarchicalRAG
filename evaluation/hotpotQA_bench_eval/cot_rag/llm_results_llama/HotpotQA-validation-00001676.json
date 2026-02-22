@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001676",
+  "question": "Which genus has the most number of species, Myrsine or Styrax?",
+  "gold_answer": "Myrsine",
+  "llm_answer": "The genus with the most number of species is Myrsine, with over 280 species.",
+  "context": [
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii",
+      "id": "HotpotQA-validation-00001676/00_Myrsine.html_c_0"
+    },
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii",
+      "id": "HotpotQA-validation-00001676/02_Rapanea.html_c_0"
+    },
+    {
+      "text": "Styrax (common names storax or snowbell ) is a genus of about 130 species of large shrubs or small trees in the family Styracaceae, mostly native to warm temperate to tropical regions of the Northern Hemisphere, with the majority in eastern and southeastern Asia, but also crossing the equator in South America. The resin obtained from the tree is called benzoin or storax (not to be confused with the Liquidambar storax balsam ), often used as a vanilla-like component in perfumery. The genus Pamphilia , sometimes regarded as distinct, is now included within Styrax based on analysis of morphological and DNA sequence data. The spicebush ( Lindera benzoin ) is a different plant, in the family Lauraceae . Styrax trees grow to 2–14 m tall, and have alternate, deciduous or evergreen simple ovate leaves 1–18 cm long and 2–10 cm broad. The flowers are pendulous, with a white 5–10-lobed corolla , produced 3–30 together on open or dense panicles 5–25 cm long. The fruit is an oblong dry drupe , smooth and lacking ribs or narrow wings, unlike the fruit of the related snowdrop trees ( Halesia ) and epaulette trees ( Pterostyrax ). Uses Uses of resin Benzoin resin , a dried exudation from pierced bark",
+      "id": "HotpotQA-validation-00001676/01_Styrax.html_c_0"
+    },
+    {
+      "text": "(French Polynesia) Myrsine reynelii Pipoly (Peru) Myrsine richmondensis Jackes (Australia) Myrsine rivularis (Mez) Pipoly (Peru) Myrsine ronuiensis (M.Grant) Fosberg & Sachet (French Polynesia) Myrsine salicina (Hook.f.) Heward ex Hook.f. (New Zealand) Myrsine seychellarum (Mez) Ricketson & Pipoly (Seychelles) Myrsine sodiroana (Mez) Pipoly ( Ecuador ) Myrsine striata (Mez) Ricketson & Pipoly (southwestern India) Myrsine tahuatensis Fosbert & Sachet (French Polynesia) Myrsine variabilis R.Br. (eastern Australia) References External links Wikimedia Commons has media related to Myrsine . Wikispecies has information related to Myrsine . Ngā Tipu Aotearoa – Most recent taxonomy (only of NZ species) Flora of New Zealand",
+      "id": "HotpotQA-validation-00001676/00_Myrsine.html_c_4"
+    },
+    {
+      "text": "(French Polynesia) Myrsine reynelii Pipoly (Peru) Myrsine richmondensis Jackes (Australia) Myrsine rivularis (Mez) Pipoly (Peru) Myrsine ronuiensis (M.Grant) Fosberg & Sachet (French Polynesia) Myrsine salicina (Hook.f.) Heward ex Hook.f. (New Zealand) Myrsine seychellarum (Mez) Ricketson & Pipoly (Seychelles) Myrsine sodiroana (Mez) Pipoly ( Ecuador ) Myrsine striata (Mez) Ricketson & Pipoly (southwestern India) Myrsine tahuatensis Fosbert & Sachet (French Polynesia) Myrsine variabilis R.Br. (eastern Australia) References External links Wikimedia Commons has media related to Myrsine . Wikispecies has information related to Myrsine . Ngā Tipu Aotearoa – Most recent taxonomy (only of NZ species) Flora of New Zealand",
+      "id": "HotpotQA-validation-00001676/02_Rapanea.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Myrsine has over 280 species (HotpotQA-validation-00001676/00_Myrsine.html_c_0).\n- Styrax has about 130 species (HotpotQA-validation-00001676/01_Styrax.html_c_0).\n- No information on the number of species in Myrsine or Styrax is sufficient to answer the question (HotpotQA-validation-00001676/00_Myrsine.html_c_0).\n- Next query: Which genus has more species, Myrsine or Styrax, including at least one specific entity from the evidence (e.g., Myrsine or Styrax).\",\n- \"enough\": false,\n- \"missing\": [\"number of species in Myrsine or Styrax\"],",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which genus has the most number of species, Myrsine or Styrax?",
+      "doc_ids": [
+        "HotpotQA-validation-00001676/00_Myrsine.html_c_0",
+        "HotpotQA-validation-00001676/02_Rapanea.html_c_0",
+        "HotpotQA-validation-00001676/01_Styrax.html_c_0",
+        "HotpotQA-validation-00001676/00_Myrsine.html_c_4",
+        "HotpotQA-validation-00001676/02_Rapanea.html_c_4"
+      ]
+    }
+  ]
+}

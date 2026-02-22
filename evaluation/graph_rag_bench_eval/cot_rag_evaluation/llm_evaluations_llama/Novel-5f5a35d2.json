@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5f5a35d2",
+  "question": "With which stringed instrument is the fiddle-bow used to produce sound during musical performances?",
+  "gold_answer": "The fiddle is played with a fiddle-bow.",
+  "llm_answer": "The evidence does not directly state which stringed instrument the fiddle-bow is used to produce sound during musical performances. However, it does mention the fiddle and the violin, and states that the Hindus claim to have invented the violin bow. \n\nIt also mentions the _ravanastron_, an old instrument played with the bow, and the _crwth_, a species of fiddle closely resembling the _rotta_, which was played with a bow.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant information about instruments played with a bow, such as the fiddle, violin, ravanastron, and crwth, but it does not clearly state that the fiddle is played with a fiddle-bow, which is the core of the Gold Answer. While the context mentions the fiddle and other bow-played instruments, the Model Answer does not directly and faithfully connect the fiddle-bow to the fiddle as the Gold Answer does. Additionally, the Model Answer includes some unsupported claims about the violin bow and ravanastron, which are not clearly grounded in the retrieved context."
+  }
+}

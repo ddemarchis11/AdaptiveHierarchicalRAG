@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The process of making sugar is described in the subgraphs as follows:\n\n1. The sugar maple tree is tapped to collect its sap, which is a useful article.\n2. The sap is used to make sugar.\n3. The sugar is also used for making furniture, cooking victuals, and keeping warm.\n4. The ashes from the sugar maple tree are used to make potash, which is then used to make glass.\n5. Sugar is also made from other sources such as sugar-cane, maple-trees, or beets.\n\nAdditionally, the process of making sugar from starch is described in the subgraphs as follows:\n\n1. Grains such as wheat, barley, and oats contain starch.\n2. When grains are sprouted, their starch is converted into sugar.\n3. The sprouted grain is called malt.\n4. Malt is soaked in water to extract the sugar.\n5. The sugar is then used to make beer.\n\nIt is also mentioned that starch is converted into sugar in a hidden, quiet way, so that most of us think nothing about it. This process occurs naturally when grains are planted in the ground and kept moist and warm.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of sugar production, including the use of sugar maple sap and the conversion of starch to sugar in grains. However, it introduces unsupported claims about sugar being used for furniture, cooking, and warmth, which are not grounded in the retrieved context. Additionally, the mention of sugar production from sugar-cane and beets is not supported by the context. While the core idea of sugar being made from sugar maple is present, the additional details dilute the focus and are partially unsupported."
+  }
+}

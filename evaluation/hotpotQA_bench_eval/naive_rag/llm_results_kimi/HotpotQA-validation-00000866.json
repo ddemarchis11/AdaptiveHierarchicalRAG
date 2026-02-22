@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000866",
+  "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+  "gold_answer": "professional wrestler, actor, and hip hop musician",
+  "llm_answer": "Rapper",
+  "context": [
+    {
+      "text": "received a new character : a rapper who cuts promos while rhyming. He performed his own theme song , \"Basic Thugonomics\", and it was featured on the WWE soundtrack album WWE Originals . He also recorded a song, \"Untouchables\", for the company's next soundtrack album WWE ThemeAddict: The Music, Vol. 6 . He collaborated on the song \" H-U-S-T-L-E remix \" along with Murs , E-40 , and Chingo Bling . Cena's debut album, You Can't See Me , was recorded with his cousin Tha Trademarc . Composition \"The Time Is Now\" was composed by Cena along with his cousin, Marc Predka (better known by his stage name Trademarc ), and recorded in 2004. Having recorded the album with Cena, Predka was featured on virtually every track of the album. Production was handled by Jake One . The song contains samples of \" Ante Up \" by M.O.P. which in turn samples \"Soul Sister, Brown Sugar\" by Sam & Dave , and Pete Schofield and The Canadians' rendition of \" The Night the Lights Went Out in Georgia \" originally by Vicki Lawrence . On October 14, 2008, M.O.P. filed suit in a New York Federal Court against Sony BMG , Stephanie Music Publishing, Cherry Lane Music Publishing Company, WWE and John Cena. The group alleged that Cena and the WWE stole parts of their song",
+      "id": "HotpotQA-validation-00000866/01_The-Time-Is-Now-John-Cena-song.html_c_1"
+    },
+    {
+      "text": "collaborated with Massachusetts rappers Esoteric and DC The Midi Alien to create the East Coast Avengers. Their group debut album Prison Planet was released in late 2008. The group released their song \"Kill Bill O'Reilly\" which caused a media controversy due to lyrics that centered on violently killing Bill O'Reilly . Michelle Malkin 's criticism of the song led to the group recording \"Dear Michelle\" in response. They have since released another single titled \"Hey America!\" Discography With John Cena You Can't See Me (May 10, 2005) For TNA Gold Medal (Kurt Angle’s Theme) (2007) Solo Inferiority Complex (April 4, 2008) Black Ash Days With DC the Midi Alien (May 16, 2015) Blood Meridian With Filthy Animals (November 22, 2019) With East Coast Avengers Prison Planet (October 7, 2008) Avengers Airwaves References External links Tha Trademarc (Marc Predka) at IMDb",
+      "id": "HotpotQA-validation-00000866/00_Tha-Trademarc.html_c_1"
+    },
+    {
+      "text": "Marc Joseph Predka (born April 21, 1975), better known by his stage name Trademarc (formerly Tha Trademarc ), is an American rapper. He first came to prominence when he and his younger first cousin, WWE wrestler John Cena , collaborated on the 2005 album You Can't See Me , including Cena's entrance theme \" The Time Is Now \". He also appeared in the music videos of the songs, \"Bad Bad Man\" and \"Right Now\" with Cena. Prior to the album, Trademarc appeared on Cena's first WWE DVD Word Life . In August 2007, Trademarc appeared at Total Nonstop Action Wrestling 's (TNA) Hard Justice pay-per-view as the \"new boyfriend\" of Karen Angle , later revealed to be a ruse when Karen and Trademarc helped Karen's \"estranged\" husband Kurt Angle win the match. He appeared again on iMPACT! the next week. While working with TNA he also worked with Dale Oliver to re-record Kurt Angle's entrance music into the hip hop theme \"Gold Medal\", which Angle would use for the remainder of his time with the promotion.  In 2008, he released his first solo debut album Inferiority Complex . East Coast Avengers In August 2008, Tha Trademarc collaborated with Massachusetts rappers Esoteric and DC The Midi Alien to create the East Coast Avengers. Their group debut album Prison Planet was released in late",
+      "id": "HotpotQA-validation-00000866/00_Tha-Trademarc.html_c_0"
+    },
+    {
+      "text": "Stage. She appeared again at the 2011 Festival. Along with such musicians as Clem Curtis , Roy Phillips , and Glenn Tilbrook , Lewis collaborated with Lord Large , recording the song \"Work it Out\", which appeared on the 2007 album The Lord's First XI . Her song \"Old Smokey\" was used by the rapper Common , on his single \" Go! \" (2005), which appeared on his album Be (2005). This was produced by Kanye West and reached No. 1 on the United States R&B and Hip Hop charts. She recorded Live in Old Smokey (2006), which featured new and previously released songs and toured the United Kingdom the same year. On 28 October 2006, The National Portrait Gallery opened an exhibit entitled Photographs 1965–2006 , which featured a portrait by Lewis's former husband Jim Cregan and other sitters, such as Shirley Bassey . In 2007, she toured with the Soul Britannia All Stars in the United Kingdom, and on 3 February 2007, BBC Four featured performances by Lewis, in a sixty-minute recording of a Barbican show with the Soul Britannia All Stars. In June of the same year, she collaborated with Basement Jaxx on \"Close Your Eyes\", which featured in the Japanese anime film Vexille . In 2023, Lewis collaborated with UK folk-funk band The Paracosmos. Their single \"Earthling\"",
+      "id": "HotpotQA-validation-00006850/02_Live-in-Old-Smokey.html_c_5"
+    },
+    {
+      "text": "million times on YouTube as of January 2021. The second disc features several covers of Leonard Cohen , David Bowie and Jeff Buckley . While promoting the album in Paris, she recorded a rendition of a Siouxsie and the Banshees song as a one-off for French Television. In 2021, she released Everywhere We Looked Was Burning Live which was a live version of her 2019's album. In September, she collaborated with electronic music producer Vitalic for a one-off concert in Paris which took place at Théâtre du Châtelet : they created together a new music around the poetry of Ghada Al-Samman for an event called Variations. The show was filmed for Culturebox channel and uploaded on YouTube. Her debut album Kelmti Horra was released for the first time on vinyl in 2022 to celebrate its 10-year anniversary. The reissue which was also out on CD, included bonus tracks. In 2023, she collaborated with the filmmaker Shirin Neshat for a video titled the Fury , about \"the sexual exploitation of female political prisoners by the Islamic Republic’s regime in Iran\". Neshat had selected a Persian song for which Emel wrote Arabic lyrics. Mra (2024–present) Issued in April 2024, Mra (which means woman) included the singles \"NAR\" and \"Souty (My Voice)\", the album was released on vinyl, CD and digital.",
+      "id": "HotpotQA-validation-00002354/03_Emel-Mathlouthi.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- 2005 album \"You Can't See Me\" is a collab between John Cena & Marc Predka (HotpotQA-validation-00000866/01_The-Time-Is-Now-John-Cena-song.html_c_1).\n- Marc Predka is stage-named Trademarc and is an American rapper (HotpotQA-validation-00000866/00_Tha-Trademarc.html_c_0).\n- \"The Time Is Now\" on that album was composed by Cena together with Predka (HotpotQA-validation-00000866/01_The-Time-Is-Now-John-Cena-song.html_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+      "doc_ids": [
+        "HotpotQA-validation-00000866/01_The-Time-Is-Now-John-Cena-song.html_c_1",
+        "HotpotQA-validation-00000866/00_Tha-Trademarc.html_c_1",
+        "HotpotQA-validation-00000866/00_Tha-Trademarc.html_c_0",
+        "HotpotQA-validation-00006850/02_Live-in-Old-Smokey.html_c_5",
+        "HotpotQA-validation-00002354/03_Emel-Mathlouthi.html_c_7"
+      ]
+    }
+  ]
+}

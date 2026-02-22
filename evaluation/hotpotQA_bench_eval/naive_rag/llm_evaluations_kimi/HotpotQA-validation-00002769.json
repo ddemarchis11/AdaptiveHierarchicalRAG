@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002769",
+  "question": "Brett McClure competed in the pommel horse event at the 2001 Goodwill Games in what Australian province?",
+  "gold_answer": "Queensland",
+  "llm_answer": "Queensland",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Queensland as the Australian province where Brett McClure competed in the pommel horse event at the 2001 Goodwill Games. This is consistent with the Retrieved Context, which explicitly states that the event took place in Brisbane, Queensland, Australia. The answer is concise and fully aligned with the Gold Answer and the context."
+  }
+}

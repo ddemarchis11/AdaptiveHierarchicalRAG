@@ -1,0 +1,12 @@
+{
+  "id": "Novel-49ff508e",
+  "question": "Near the swan-boats in Central Park, with whom did Van Bibber come face to face, leading to an unexpected encounter?",
+  "gold_answer": "Van Bibber came face to face with her brother.",
+  "llm_answer": "The evidence does not specify with whom Van Bibber came face to face near the swan-boats in Central Park.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the encounter, which is accurate based on the retrieved context. However, the Gold Answer clearly states that Van Bibber came face to face with her brother, which is not addressed or confirmed by the Model Answer. Thus, the Model Answer fails to provide the correct information and misses the key fact from the Gold Answer."
+  }
+}

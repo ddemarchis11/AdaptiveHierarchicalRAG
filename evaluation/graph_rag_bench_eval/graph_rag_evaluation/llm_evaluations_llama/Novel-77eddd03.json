@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77eddd03",
+  "question": "As explained in the section on the properties of alcohol, what does alcohol look like in appearance?",
+  "gold_answer": "Alcohol looks like water.",
+  "llm_answer": "There is no information in the provided context about the appearance of alcohol.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not contain information about the appearance of alcohol, which is faithful to the context. However, it fails to answer the question using internal knowledge, which is expected when the context is irrelevant. The Gold Answer clearly states that alcohol looks like water, and this fact is not addressed in the Model Answer."
+  }
+}

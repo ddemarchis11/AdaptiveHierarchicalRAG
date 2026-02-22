@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004790",
+  "question": "Who was the final champion of the Thailand Masters that was from Hong Kong?",
+  "gold_answer": "Marco Fu",
+  "llm_answer": "I cannot verify who the final champion of the Thailand Masters that was from Hong Kong was.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Marco Fu,' as stated in the Gold Answer and supported by the Retrieved Context. Additionally, the model's claim that it cannot verify the information contradicts the context, which explicitly mentions Marco Fu as the final champion of the Thailand Masters. No relevant facts from the Gold Answer are included."
+  }
+}

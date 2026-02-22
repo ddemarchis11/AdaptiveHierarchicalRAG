@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007021",
+  "question": "Erving Goffman was cited as higher than a literary critic on which guide?",
+  "gold_answer": "The Times Higher Education Guide",
+  "llm_answer": "The Times Higher Education Guide",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'The Times Higher Education Guide' as the guide where Erving Goffman was cited higher than a literary critic. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly mentions the guide and Goffman's ranking."
+  }
+}

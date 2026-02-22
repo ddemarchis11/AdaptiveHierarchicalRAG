@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000853",
+  "question": "Which passed away first — the South African-born Australian author known for sweeping historical fiction, or the Uruguayan novelist associated with existentialist themes in Latin American literature?",
+  "gold_answer": "Juan Carlos Onetti",
+  "llm_answer": "The Uruguayan novelist Juan Carlos Onetti died first, passing away in Madrid in 1994, whereas the South African-born Australian author Bryce Courtenay died in 2012.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Juan Carlos Onetti as the individual who passed away first, consistent with the Gold Answer and supported by the context, which states Onetti died in 1994 and Bryce Courtenay died in 2012. The Model Answer also provides additional relevant details about Courtenay's death, which are accurate and grounded in the retrieved context."
+  }
+}

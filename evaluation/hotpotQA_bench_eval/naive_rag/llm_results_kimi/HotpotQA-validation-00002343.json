@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002343",
+  "question": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+  "gold_answer": "Aden",
+  "llm_answer": "Aden",
+  "context": [
+    {
+      "text": "Aulacodes peribocalis is a species of moth in the family Crambidae . It was described by Francis Walker in 1859. It is found in Yemen and India . References v t e",
+      "id": "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0"
+    },
+    {
+      "text": "Aulacodes templalis is a species of moth in the family Crambidae . It was described by Schaus in 1906. It is found in Brazil . References v t e",
+      "id": "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0"
+    },
+    {
+      "text": "al-Houthi was the interim authority in Yemen. Abdul-Malik al-Houthi, a cousin of the acting president, called the takeover a \"glorious revolution\". However, the \"constitutional declaration\" of 6 February 2015 was widely rejected by opposition politicians and foreign governments, including the United Nations . Hadi managed to flee from Sanaa to Aden, his hometown and stronghold in the south, on 21 February 2015. He promptly gave a televised speech rescinding his resignation, condemning the coup, and calling for recognition as the constitutional president of Yemen. The following month, Hadi declared Aden Yemen's \"temporary\" capital. The Houthis, however, rebuffed an initiative by the Gulf Cooperation Council and continued to move south toward Aden. All U.S. personnel were evacuated, and President Hadi was forced to flee the country to Saudi Arabia. On 26 March 2015, Saudi Arabia announced Operation Decisive Storm and began airstrikes and announced its intentions to lead a military coalition against the Houthis, who they claimed were being aided by Iran and began a force buildup along the Yemeni border. The coalition included the United Arab Emirates , Kuwait , Qatar , Bahrain , Jordan , Morocco , Sudan , Egypt , and Pakistan . The United States announced that it was assisting with intelligence, targeting, and logistics. After Hadi troops took control of Aden from Houthis, jihadist groups became active in the city, and some terrorist incidents",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_39"
+    },
+    {
+      "text": "Muhammad Al-Sulayhi conquered Zabid and killed its ruler Al-Najah, founder of the Najahid dynasty. His sons were forced to flee to Dahlak. Hadhramaut fell into Sulayhid hands after their capture of Aden in 1162. By 1063, Ali had subjugated Greater Yemen . He then marched toward Hejaz and occupied Makkah . Ali was married to Asma bint Shihab , who governed Yemen with her husband. The Khutba during Friday prayers was proclaimed in both her husband's name and hers. No other Arab woman had this honor since the advent of Islam. Ali al-Sulayhi was killed by Najah's sons on his way to Mecca in 1084. His son Ahmed Al-Mukarram led an army to Zabid and killed 8,000 of its inhabitants. He later installed the Zurayids to govern Aden. al-Mukarram, who had been afflicted with facial paralysis resulting from war injuries, retired in 1087 and handed over power to his wife Arwa al-Sulayhi . Queen Arwa moved the seat of the Sulayhid dynasty from Sanaa to Jibla , a small town in central Yemen near Ibb . She sent Ismaili missionaries to India, where a significant Ismaili community was formed that exists to this day. Queen Arwa continued to rule securely until her death in",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_12"
+    },
+    {
+      "text": "Yemen , officially the Republic of Yemen , is a country in West Asia . Including the Socotra Archipelago , mainland Yemen is located in southern Arabia ; bordering Saudi Arabia to the north , Oman to the northeast , the south-eastern part of the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west, sharing maritime borders with Djibouti , Eritrea , and Somalia across the Horn of Africa . Covering roughly 455,503 square kilometres (175,871 square miles), with a coastline of approximately 2,000 kilometres (1,200 miles), Yemen is the second largest country on the Arabian Peninsula by area, and the largest by population. Sanaa is its constitutional capital and largest city. Yemen's estimated population is 34.7 million, mostly Arab Muslims , which is estimated to be greater than that of Saudi Arabia. It is a member of the Arab League , the United Nations , the Non-Aligned Movement and the Organisation of Islamic Cooperation . Owing to its geographic location, Yemen has been at the crossroads of many civilisations for over 7,000 years. The Sabaeans formed a thriving commercial kingdom that influenced parts of modern Ethiopia and Eritrea. In 275 AD, it was succeeded by the Himyarite Kingdom , which spanned much of Yemen's present-day territory and was heavily influenced by Judaism. Christianity arrived in the fourth century, followed by the rapid",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_0"
+    },
+    {
+      "text": "targeting, and logistics. After Hadi troops took control of Aden from Houthis, jihadist groups became active in the city, and some terrorist incidents were linked to them such as Missionaries of Charity attack in Aden on 4 March 2016. In February 2018, Aden was seized by the UAE-backed separatist Southern Transitional Council . Yemen has been suffering from a famine since 2016 as a result of the civil war. More than 50,000 children in Yemen died from starvation in 2017. Numerous commentators have condemned the Saudi-led coalition's military campaign, including its blockade of Yemen , as genocide . The famine is being compounded by an outbreak of cholera that has affected more than one million people. The Saudi Arabian-led intervention in Yemen and blockade of Yemen have contributed to the famine and cholera epidemic. The UN estimated that by the end of 2021, the war in Yemen would have caused over 377,000 deaths, and roughly 70% of deaths were children under age 5. On 4 December 2017, deposed strongman and former president Ali Abdullah Saleh , accused of treason, was assassinated by Houthis whilst attempting to flee clashes near rebel-held Sanaa between Houthi and pro-Saleh forces. After losing the support of the Saudi-led coalition, Yemen's President Abd Rabbuh Mansur Hadi resigned, and the Presidential Leadership Council took power in April 2022. Following the",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_40"
+    }
+  ],
+  "cot_scratchpad": "- Aulacodes peribocalis is found in Yemen (HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0).\n- Yemen's constitutional capital is Sanaa (HotpotQA-validation-00002343/01_Yemen.html_c_0).\n- Need to check if Sanaa was relocated elsewhere.\n- Aulacodes peribocalis occurs in Yemen (Novel-00002343/00).\n- Yemen’s constitutional capital is Sanaa (Novel-00002343/01_c_49).\n- Evidence so far lacks any statement that the capital was moved elsewhere.\n- Yemen's constitutional capital is Sanaa (Novel-00002343/01_c_49).\n- In March 2015 President Hadi declared Aden Yemen's temporary capital (Novel-00002343/01_Yemen.html_c_39).\n- No evidence shows Aden replacing Sanaa as constitutional capital.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0",
+        "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_61",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Sanaa capital relocated to",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_25",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_68",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_14",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_36"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Yemen capital moved relocated Aden",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/01_Yemen.html_c_39",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_12",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_40"
+      ]
+    }
+  ]
+}

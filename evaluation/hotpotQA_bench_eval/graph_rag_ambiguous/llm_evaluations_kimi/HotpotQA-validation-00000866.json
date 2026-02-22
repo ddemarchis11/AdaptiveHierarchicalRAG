@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000866",
+  "question": "What were the occupations of the person who contributed a track to a 2005 hip-hop album co-produced with Marc Predka?",
+  "gold_answer": "professional wrestler, actor, and hip hop musician",
+  "llm_answer": "The context does not specify the occupations of the person who contributed a track to the 2005 hip-hop album *You Can't See Me*, which was co-produced with Marc Predka.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the occupations of the contributor to the album, which is incorrect. The context clearly identifies John Cena as a WWE wrestler, actor, and hip-hop musician, matching the Gold Answer. The Model Answer fails to provide the correct information despite it being present in the retrieved context."
+  }
+}

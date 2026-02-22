@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005813",
+  "question": "What city is the the Iranian Airlines involved in the 1993 Tehran mid-air collision based out of?",
+  "gold_answer": "Tehran, Iran",
+  "llm_answer": "The Iranian airline involved in the 1993 Tehran mid-air collision is Iran Airtour, and its primary base is Mashhad Airport.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Iran Airtour's primary base is Mashhad Airport, which contradicts the Gold Answer and the context indicating Tehran as the relevant city for the airline involved in the 1993 mid-air collision. The Model Answer fails to provide the correct city (Tehran) and is not supported by the retrieved context."
+  }
+}

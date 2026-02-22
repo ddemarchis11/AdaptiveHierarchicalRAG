@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002413",
+  "question": "When did the baseball draft with which Alex Lange was the 30th pick began?",
+  "gold_answer": "June 12, 2017",
+  "llm_answer": "The baseball draft with which Alex Lange was the 30th pick began on June 12, 2017.",
+  "context": [
+    {
+      "text": "Alexander Craig Lange (born October 2, 1995) is an American professional baseball pitcher for the Kansas City Royals of Major League Baseball (MLB). He has previously played in MLB for the Detroit Tigers . Lange played college baseball for the LSU Tigers , and was selected by the Chicago Cubs in the first round of the 2017 MLB draft . Career Lange was adopted when he was a baby. He attended Lee's Summit West High School in Lee's Summit, Missouri and maintained a 4.0 weighted GPA. As a senior, Lange was named the Missouri Gatorade Baseball Player of the Year (2014). He was scouted by many NCAA Division I colleges, but chose to attend Louisiana State University (LSU). As a college freshman in 2015, Lange was a consensus All-American . He was also named the National Freshman Pitcher of the Year by Louisville Slugger and the National Collegiate Baseball Writers Association and helped lead LSU to the College World Series . LSU returned to the College World Series in 2017 , and facing top-ranked Oregon State in his first College World Series start, Lange pitched seven innings and allowed only two hits to lead LSU to victory. Chicago Cubs The Chicago Cubs selected Lange with the 30th pick in the first round of the 2017 MLB draft . He signed with the Cubs and was assigned to the Eugene Emeralds of the Class A-Short Season Northwest League , where he posted an 0–1 win–loss record",
+      "id": "HotpotQA-validation-00002413/00_Alex-Lange.html_c_0"
+    },
+    {
+      "text": "The 2017 Major League Baseball draft began on June 12, 2017. The draft assigned amateur baseball players to MLB teams. The first 36 picks, including the first round and compensatory picks, were broadcast on MLB Network on June 12, while the remainder of the draft was live streamed on MLB.com on June 13 and 14. With the worst record in the 2016 MLB season , the Minnesota Twins received the first overall pick. Compensation picks were distributed for players who did not sign from the 2016 MLB draft . Also, fourteen small-market teams competed in a lottery for additional competitive balance picks, with six teams receiving an additional pick after the first round, and eight teams receiving an additional pick after the second round. The Twins selected Royce Lewis with the first overall selection . The St. Louis Cardinals forfeited its top two selections (numbers 56 and 75 in the second and competitive balance round B respectively) and $2 million in damages to the Houston Astros when Commissioner Rob Manfred adjudicated a computer system hacking scandal on January 30, 2017. First round selections Compensatory round Competitive balance round A Other notable selections Notes Compensation picks References External links 2017 Major League Baseball draft Official Site",
+      "id": "HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0"
+    },
+    {
+      "text": "for the team in save situations. On the season, he saved 26 games in 32 opportunities. He posted a 7–5 record and a 3.68 ERA, while striking out 79 batters in 66 innings. Lange made 21 appearances for Detroit in 2024, compiling an 0–3 record and 4.34 ERA with 21 strikeouts across 18 + 2 ⁄ 3 innings pitched. The Tigers optioned Lange to the Toledo Mud Hens in late May, 2024. On June 18, 2024, it was announced that Lange would undergo surgery to repair an avulsion in his right lat . Lange began the 2025 season on the 60-day injured list while he recovered from his surgery and was activated off the list on August 18, 2025. Lange was optioned back to Toledo four days later after making one appearance for the Tigers. On November 12, Lange was designated for assignment by Detroit following the acquisition of Dugan Darnell . He was released by the Tigers on November 18. Kansas City Royals On November 20, 2025, Lange signed a one-year, $900,000 contract with the Kansas City Royals . References External links Career statistics from MLB · ESPN · Baseball Reference · Fangraphs · Baseball Reference (Minors) · Retrosheet · Baseball Almanac LSU Tigers bio",
+      "id": "HotpotQA-validation-00002413/00_Alex-Lange.html_c_3"
+    },
+    {
+      "text": "Wesley Michael Hodges (born September 14, 1984) is an American former professional baseball player. He played third base and first base in Minor League Baseball (MiLB) for the Cleveland Indians , Colorado Rockies , and San Francisco Giants organizations. Hodges was selected as the 69th overall pick in the 2006 Major League Baseball draft by the Cleveland Indians. He was the highest compensated pick for the Indians in the 2006 draft, agreeing to terms on $1,000,000 contract. After his playing career, he founded Pure Sports Capital, a wealth management firm focused on professional athletes. Early life and education Wes Hodges was born in Chattanooga, Tennessee , to Mike and Tracie Hodges. He began playing baseball in his early childhood, growing up as an Atlanta Braves fan and idolizing outfielder Dale Murphy . As a teenager, he was a standout on the Baylor School baseball team. College Hodges played college baseball at Georgia Tech , and in 2004, he played collegiate summer baseball with the Yarmouth–Dennis Red Sox of the Cape Cod Baseball League . As a junior in 2006, Hodges was a Preseason All-American selection, batted .337 (69-205) with 49 runs scored, 19 doubles, 11 home runs and 64 RBI in 54 games while being named to the Atlantic Coast Conference 2nd Team. Wes later graduated from Georgia Tech with a bachelor's degree in Business",
+      "id": "HotpotQA-validation-00000994/03_Wes-Hodges.html_c_0"
+    },
+    {
+      "text": "and was assigned to the Eugene Emeralds of the Class A-Short Season Northwest League , where he posted an 0–1 win–loss record with a 4.82 earned run average (ERA) in 9 + 1 ⁄ 3 innings pitched. MLB.com ranked Lange as Chicago's fifth best prospect going into the 2018 season. He spent the 2018 season with the Myrtle Beach Pelicans of the Class A-Advanced Carolina League , going 6–8 with a 3.74 ERA in 23 starts. Lange began 2019 back with Myrtle Beach. Detroit Tigers On July 31, 2019, the Cubs traded Lange and Paul Richan to the Detroit Tigers in exchange for Nick Castellanos . He was assigned to the Erie SeaWolves . Over 27 games (18 starts) between Myrtle Beach and Erie, he went 5–13 with a 5.45 ERA, striking out 94 batters over 102 + 1 ⁄ 3 innings. He was selected to play in the Arizona Fall League for the Mesa Solar Sox following the season. Lange did not play in a game in 2020 due to the cancellation of the minor league season because of the COVID-19 pandemic . On November 20, 2020, the Tigers added Lange to their 40-man roster to protect him from the Rule 5 draft . On April 10, 2021, Lange was promoted",
+      "id": "HotpotQA-validation-00002413/00_Alex-Lange.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The 2017 MLB draft began on June 12, 2017 (HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0).\n- Alex Lange was selected by the Chicago Cubs in the first round of the 2017 MLB draft (HotpotQA-validation-00002413/00_Alex-Lange.html_c_0).\n- The 2017 MLB draft began on June 12, 2017 (HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0).\n- The first round of the 2017 MLB draft was on June 12, 2017 (HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0).\n- The 2017 MLB draft began on June 12, 2017 (HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0).\n- Alex Lange was the 30th pick in the first round of the 2017 MLB draft (HotpotQA-validation-00002413/00_Alex-Lange.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "When did the baseball draft with which Alex Lange was the 30th pick began?",
+      "doc_ids": [
+        "HotpotQA-validation-00002413/00_Alex-Lange.html_c_0",
+        "HotpotQA-validation-00002413/01_2017-Major-League-Baseball-draft.html_c_0",
+        "HotpotQA-validation-00002413/00_Alex-Lange.html_c_3",
+        "HotpotQA-validation-00000994/03_Wes-Hodges.html_c_0",
+        "HotpotQA-validation-00002413/00_Alex-Lange.html_c_1"
+      ]
+    }
+  ]
+}

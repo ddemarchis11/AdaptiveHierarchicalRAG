@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004149",
+  "question": "What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?",
+  "gold_answer": "Saturday",
+  "llm_answer": "The evidence does not specify the exact day of the horse race for which ESPN covers both the post position draw and the undercard races.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the day of the race, while the Gold Answer ('Saturday') is correct and supported by the context. The context mentions that the Kentucky Derby, which ESPN covers, is held on the first Saturday in May. Thus, the Model Answer fails to provide the correct response and misses the key fact from the Gold Answer."
+  }
+}

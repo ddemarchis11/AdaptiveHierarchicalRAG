@@ -1,0 +1,12 @@
+{
+  "id": "Novel-007bd442",
+  "question": "Through what sequence is Bruin connected to the grandmother?",
+  "gold_answer": "Bruin settled in the cottage, which was home to the grandmother.",
+  "llm_answer": "Bruin is connected to the grandmother through the following sequence:\n\n1. The grandmother is mentioned in [Novel-41603_c_111] as being in the kitchen, rolling out pie-crust.\n2. The grandmother is told about the poor old hermit by Cracker, and she agrees that aid must be sent to him without delay.\n3. The grandmother packs a basket with nourishing food, bandages for the broken leg, and some simple medicines for the hermit.\n4. The grandmother asks Toto to take the basket to the hermit, but Bruin insists on going himself.\n5. The grandmother hesitates, considering the possibility that Bruin might frighten the hermit, but ultimately agrees to let Bruin go.\n6. Later, in [Novel-41603_c_41], the grandmother is mentioned again, and Bruin asks her about the boy's Chinese pig-tail.\n7. In [Novel-41603_c_125], the grandmother is not mentioned directly, but the sequence of events continues with the hermit welcoming both Bruin and Toto, and Bruin being overcome with emotion.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the sequence connecting Bruin to the grandmother, including all relevant details from the context. It expands on the Gold Answer by providing additional steps and interactions, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the additional information is relevant and faithful to the context."
+  }
+}

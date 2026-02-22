@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001828",
+  "question": "Which British officer was executed for his role in facilitating the planned defection of a senior American Revolutionary War general to the opposing side?",
+  "gold_answer": "John André",
+  "llm_answer": "Major John André was executed for his role in facilitating Benedict Arnold’s planned defection to the British.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Major John André as the British officer executed for his involvement in Benedict Arnold's planned defection. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which details André's role and execution. The answer includes all necessary facts without omitting or adding unsupported information."
+  }
+}

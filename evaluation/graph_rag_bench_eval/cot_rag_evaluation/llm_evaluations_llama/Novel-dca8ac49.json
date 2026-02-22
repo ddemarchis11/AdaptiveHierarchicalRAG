@@ -1,0 +1,12 @@
+{
+  "id": "Novel-dca8ac49",
+  "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+  "gold_answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+  "llm_answer": "Diary Entry - A Night of Launce Fishing\n\nToday was a night I will never forget. The moon was full, and the tide was just right for launce fishing. I swam about in the shallow waters, just above the sand, where the launce burrowed in the sand. It was a peculiar sight, seeing the silvery gleam of the creatures in the moonlight.\n\nThe fishermen came to our cave, and I watched as they stood up to their ankles in the wet sand, spears in hand, trying to catch us launce. It was a tricky business, as they had to dart in and hook us quickly, before we could wriggle away in the sand. I felt a certain pity for them, as they struggled to catch us.\n\nAs the night wore on, the fishermen lit a fire on the sand, and cooked all the fish they had caught. They had a grand supper, and seemed to be enjoying themselves. I must admit, it was a strange sight, seeing them laughing and chatting, as they ate their meal.\n\nAs the night drew to a close, the fishermen left our cave, and I was left to my usual routine. But I will never forget the sight of the fishermen, and their determination to catch us launce. It was a night of excitement and adventure, and I am grateful to have been a part of it.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed and imaginative diary entry, but it diverges significantly from the Gold Answer. While it mentions launce fishing and the presence of fishermen, it does not specifically address the boat entering the cave or John Curgenven, which are central to the Gold Answer. Additionally, the details about the fishermen's activities, such as lighting a fire and cooking fish, are partially grounded in the context but not directly relevant to the User's Question. The Model Answer misses key facts from the Gold Answer and includes unsupported embellishments, reducing its faithfulness and evidence coverage."
+  }
+}

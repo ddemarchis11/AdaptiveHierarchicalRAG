@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004939",
+  "question": "Where is the American Hockey League, that Dan Frawley played in, located?",
+  "gold_answer": "United States and Canada",
+  "llm_answer": "The American Hockey League is located in North America, with 26 teams in the United States and 6 in Canada; its league offices are in Springfield, Massachusetts.",
+  "context": [
+    {
+      "text": "William Daniel Frawley (born June 2, 1962) is a Canadian former professional ice hockey player. During his junior hockey years, Frawley played for the Sudbury Wolves of the OHA and the Cornwall Royals of the QMJHL , before being drafted by the Chicago Black Hawks , 204th overall in the 1980 NHL Entry Draft . Frawley spent most of the next two years playing in the AHL . While playing with the Cornwall Royals , the team won the 1981 Memorial Cup against the Kitchener Rangers . NHL career Frawley played with the Blackhawks during the 1984–85 season (his NHL rookie season). On the 7 October 1985 , the Pittsburgh Penguins picked Frawley in the waiver draft . Frawley spent the subsequent four years (the rest of his NHL career) with the Penguins. He served as captain from October until December 1987, when Mario Lemieux took over after a torn ligament kept Frawley out of the lineup. He returned after surgery in early 1988. Return to the minors In 1989 Frawley returned to the AHL, retiring in 1993. However, he came out of retirement in 1995 and played two more years, with the Rochester Americans of the AHL, winning the 1996 Calder Cup . He retired from professional hockey a second time in 1998, after the 1997–98 season. Amerks Hall Of",
+      "id": "HotpotQA-validation-00004939/00_Dan-Frawley-ice-hockey.html_c_0"
+    },
+    {
+      "text": "The alternate logo of the AHL The American Hockey League ( AHL ) is a professional ice hockey league in North America that serves as the primary developmental league of the National Hockey League (NHL). The league comprises 32 teams, with 26 in the United States and 6 in Canada . As of the 2025–26 AHL season , all 32 NHL teams held affiliations with an AHL team. Historically, when an NHL team does not have an AHL affiliate, its players are assigned to AHL teams affiliated with other NHL franchises. The league offices are located in Springfield, Massachusetts , and its current president is Scott Howson . A player must be at least 18 years of age and not belong to a junior ice hockey team to be eligible. The league limits the number of experienced professional players in a team's lineup during any given game; a team may dress a maximum of six skaters who are both 25 years old (or older) by July 1 of the current season and have accumulated more than 260 regular season games played across the National Hockey League, American Hockey League, Kontinental Hockey League , or the six founding leagues of the Champions Hockey League . Goaltenders are exempt from this rule, and games played in the European Elite Leagues before and during a player's final U-20 year will not count towards the Veteran Rule qualifications. The annual playoff champion is awarded the Calder Cup , named for Frank Calder , the first president",
+      "id": "HotpotQA-validation-00004939/01_American-Hockey-League.html_c_0"
+    },
+    {
+      "text": "Calder Cup . He retired from professional hockey a second time in 1998, after the 1997–98 season. Amerks Hall Of Fame In 2003, Frawley was selected to the Rochester Americans Hall Of Fame. His contributions as a longtime player, and his work ethic earned him this honor. Career statistics Post-retirement An Ojibwe from Nipissing First Nation , Frawley now resides in eastern Ontario, in Brinston, near Iroquois , with his wife, Wanda, and 4 sons. Keeping active in the First Nations community, Frawley and other Indigenous former NHL players, such as Ted Nolan , John Chabot , and Denny Lambert took part in a charity match in Wiikwemkoong First Nation against the local police force January 28, 2017. Frawley and many other former native NHL players are very active in their native communities, engaging native youth as motivational speakers teaching about the importance of education, goal setting, substance abuse, and life skills that the future native leaders will need. They often host hockey clinics to encourage both young male and female athletes to enhance their physical skills as well as to develop an understanding of teamwork and cooperation with others. Since 2007, Frawley has been coaching minor hockey in the small native community of Chisasibi , using hockey as a means to teach young native athletes about the importance of education and physical activity. Initially, he was a hockey",
+      "id": "HotpotQA-validation-00004939/00_Dan-Frawley-ice-hockey.html_c_1"
+    },
+    {
+      "text": "Donald \"Nipper\" O'Hearn (February 14, 1928 – January 25, 2015) was a Canadian professional ice hockey goaltender who played over 200 games combined in the Pacific Coast Hockey League , United States Hockey League , American Hockey League , Maritime Major Hockey League , Quebec Hockey League , International Hockey League , and Eastern Hockey League . He was born in Halifax, Nova Scotia but grew up in St. Catharines , Ontario . He died after a long illness in a hospital at St. Catharines in 2015. References External links Biographical information and career statistics from Eliteprospects.com , or The Internet Hockey Database v t e",
+      "id": "HotpotQA-validation-00004939/03_Don-OHearn.html_c_0"
+    },
+    {
+      "text": "The Metropolitan Junior Hockey League was an American Tier III Junior ice hockey league with teams throughout the eastern United States . The MJHL was part of the Atlantic Metropolitan Hockey League organization. Founded in 1966 by New York Rangers GM, Emile Francis , the Metropolitan Junior Hockey League played its 50th season in 2015–16. Prior to its 51st season, the league's operations were taken over by the North American Hockey League and it was renamed to North American 3 Atlantic Hockey League (NA3AHL) for the 2016–17 season. In 2017, the remaining teams joined the Eastern Hockey League . History The MetJHL was affiliated with higher level Atlantic Junior Hockey League (AJHL), a Tier III Junior A league, while the MetJHL was sanctioned as a Tier III Junior B league until 2011 when USA Hockey dropped the letter designations in Tier III. In May 2012, the AJHL left the Atlantic Metropolitan Hockey League family and became its own entity managed by the team owners. In 2013, as part of a large re-organization of Tier III junior hockey, the AJHL re-branded itself to the Eastern Hockey League (EHL) . The league does place a number of players into NCAA colleges, with most going to Division III, and some to Division I. During the off-season of 2014, several new organizations joined the MET League and it became a 23 team league and added a",
+      "id": "HotpotQA-validation-00004939/02_Metropolitan-Junior-Hockey-League.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Dan Frawley played in the AHL (HotpotQA-validation-00004939/00_Dan-Frawley-ice-hockey.html_c_0)\n- The AHL league offices are located in Springfield, Massachusetts (HotpotQA-validation-00004939/01_American-Hockey-League.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where is the American Hockey League, that Dan Frawley played in, located?",
+      "doc_ids": [
+        "HotpotQA-validation-00004939/00_Dan-Frawley-ice-hockey.html_c_0",
+        "HotpotQA-validation-00004939/01_American-Hockey-League.html_c_0",
+        "HotpotQA-validation-00004939/00_Dan-Frawley-ice-hockey.html_c_1",
+        "HotpotQA-validation-00004939/03_Don-OHearn.html_c_0",
+        "HotpotQA-validation-00004939/02_Metropolitan-Junior-Hockey-League.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000695",
+  "question": "At the Grammy ceremony held in 2004, which award category did the album containing the riff-driven anthem that became a global football chant go on to win?",
+  "gold_answer": "Best Alternative Music Album",
+  "llm_answer": "I'm not able to find the specific information about the Grammy ceremony held in 2004 and the award category won by the album containing the riff-driven anthem that became a global football chant.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information about the award category won by the album containing the riff-driven anthem 'Seven Nation Army.' The Gold Answer specifies 'Best Alternative Music Album,' which is not mentioned or addressed in the Model Answer. Additionally, the Model Answer does not utilize the retrieved context effectively to answer the question."
+  }
+}

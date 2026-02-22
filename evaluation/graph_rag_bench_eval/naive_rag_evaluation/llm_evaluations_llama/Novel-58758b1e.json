@@ -1,0 +1,12 @@
+{
+  "id": "Novel-58758b1e",
+  "question": "What is the close personal relationship between Miss Piney Tibbs and Cissy Trixit as depicted in the social scenes of Canada City?",
+  "gold_answer": "Miss Piney Tibbs is the bosom friend of Cissy Trixit.",
+  "llm_answer": "The close personal relationship between Miss Piney Tibbs and Cissy Trixit is depicted as a strong friendship. They are described as \"bosom friends\" and are shown to be very close, with Cissy referring to Piney as \"dear\" and Piney being a protegee of Cissy's. They share a strong bond and are comfortable with each other, as evident from their conversation and interactions.\n\nHowever, it's also clear that their social positions are quite different. Cissy is the daughter of the richest man in town, while Piney is the daughter of the hotel-keeper. This difference in social status is highlighted throughout the text, with Cissy's father being referred to as a \"Gold Shark\" and \"Quartz Miner Crusher\" by Piney's father, and Cissy's family being seen as superior to Piney's.\n\nDespite this, the two girls are depicted as being very close, and Cissy is shown to be protective and loyal to Piney. Cissy also seems to be aware of Piney's inferior social position and is willing to use her influence to help Piney's father, suggesting that she values their friendship and is willing to use her power to help those she cares about.\n\nOverall, the relationship between Cissy and Piney is depicted as a strong and close friendship, despite their differences in social status.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the close personal relationship between Miss Piney Tibbs and Cissy Trixit as a strong friendship, consistent with the Gold Answer's description of them as 'bosom friends.' It elaborates on their interactions and social dynamics, which are supported by the Retrieved Context. The additional details about their social positions and Cissy's protective attitude towards Piney are relevant and grounded in the context, enhancing the understanding of their relationship without contradicting the core truth of the Gold Answer."
+  }
+}

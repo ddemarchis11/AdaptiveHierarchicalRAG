@@ -1,0 +1,12 @@
+{
+  "id": "Novel-784821e9",
+  "question": "Who is mentioned as carrying a present to the Britannic Majesty, according to the diplomatic exchanges detailed in the narrative?",
+  "gold_answer": "The Bey carried a present to Britannic Majesty.",
+  "llm_answer": "According to the diplomatic exchanges detailed in the narrative, the person carrying a present to the Britannic Majesty is Giovanni, the \"Guarda-pipa\" (also known as a dragoman interpreter of the Bey of Tunis).",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the Bey carried a present to the Britannic Majesty, which is supported by the Retrieved Context mentioning the Bey's frigate carrying a present. The Model Answer incorrectly identifies Giovanni, the 'Guarda-pipa,' as the person carrying the present, which is not supported by the context and contradicts the Gold Answer."
+  }
+}

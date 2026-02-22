@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006558",
+  "question": "Who is the English Professional Footballer that is the niece of a former footballer born in the same place as where he plays?",
+  "gold_answer": "Trent Alexander-Arnold",
+  "llm_answer": "I cannot verify who the English Professional Footballer is that is the niece of a former footballer born in the same place as where he plays.",
+  "context": [
+    {
+      "text": "John Alexander (born 5 October 1955) is an English former footballer who holds the post of club secretary at Manchester United . Born in Liverpool , Alexander began his football career with a club called Ulysses , before being picked up by Millwall , for whom he made his league debut in 1976. After scoring twice in 15 appearances over the course of two years with Millwall, he moved to Reading ; he enjoyed greater success with Reading, scoring nine goals in 25 games. In 1981, he joined Northampton Town, but spent just one season with them before retiring from football at the age of 26 in 1982. Upon retiring from football, Alexander got a job with the BBC, but he later returned to football as club secretary at Watford . In 2000, he took up the same post at Tottenham Hotspur , spending ten years there before applying for the same job at Manchester United , where he would replace the retiring Ken Ramsden. He took over at Manchester United on 1 July 2010. He is the uncle of Real Madrid player Trent Alexander-Arnold . References External links John Alexander at Post War English & Scottish Football League A–Z Player's Transfer Database",
+      "id": "HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0"
+    },
+    {
+      "text": "Nick Schmidt ( ニック・シュミット , Nikku Shumitto ; born 12 September 2007) is a professional footballer who plays as a midfielder for FC St. Pauli . Born in Germany, he is a Japan youth international. Early life Schmidt was born on 9 March 2005 in Kiel , Germany. Born to a Japanese mother and a German father, he started playing football at the age of three. Club career As a youth player, Schmidt joined the youth academy of German side FC St. Pauli and was promoted to the club's senuor team ahead of the 2025–26 season . International career Schmidt is a Japan youth international. During February 2025, he played for the Japan national under-20 football team at the 2025 AFC U-20 Asian Cup . References External links Nick Schmidt at WorldFootball.net",
+      "id": "HotpotQA-validation-00000994/02_Nick-Schmidt.html_c_0"
+    },
+    {
+      "text": "a Man of the Match award and helped Schmeichel set a new record for minutes without conceding a goal for Denmark, surpassing his father's record. During the Round of 16 match against Croatia , Schmeichel was named Man of the Match after saving a penalty-kick taken by Luka Modrić in extra-time and two penalties during the subsequent shootout , although his opposing counterpart Danijel Subašić saved three penalties in that shootout to eliminate Denmark. On 7 July 2021, in the semi-finals of UEFA Euro 2020 against England at Wembley Stadium , Schmeichel saved a penalty from Harry Kane in extra-time, who subsequently scored from the rebound, which proved to be the decisive goal as England prevailed 2–1. In November 2022, he was named in the 26-man squad for the 2022 FIFA World Cup in Qatar. On 23 March 2024, he earned his 100th international cap in a friendly match against Switzerland . Personal life Schmeichel is married to Stine Gyldenbrand. Together, they have three children: a son born in 2010, a daughter born in 2012 and a second daughter born in 2021. He is the son of Peter Schmeichel , a Danish former professional footballer who played as a goalkeeper during eight seasons at English club Manchester United where he won 15 trophies. Career statistics Club As of match played 11 February",
+      "id": "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_22"
+    },
+    {
+      "text": "Kyle Joseph George Lafferty (born 16 September 1987) is a Northern Irish professional footballer who plays as a striker for West of Scotland League Premier Division side Johnstone Burgh . Lafferty began his professional career with English side Burnley , where he made 89 appearances. He signed for Rangers in 2008 for £3.25 million and won three Scottish Premier League titles, the Scottish Cup once and the Scottish League Cup twice with the club. In 2012 Lafferty chose not to transfer over to the new company, moving to Switzerland's FC Sion . He signed for Serie B club Palermo in 2013 and led them to promotion as champions in his only season before joining Norwich City . He spent time on loan with Turkish club Çaykur Rizespor and back in England with Birmingham City . After just over a year back in Scotland with Heart of Midlothian , Lafferty re-signed for Rangers in August 2018, and he has since had short spells with Sarpsborg 08 , Sunderland , Reggina , Kilmarnock and Anorthosis Famagusta . In January 2022, he returned to Kilmarnock , joining the club for the second time. He would then return to his native Northern Ireland to play for Linfield for a short while, before dropping down to the Scottish seventh tier to play for Johnstone Burgh . He made his first international appearance for Northern Ireland in",
+      "id": "HotpotQA-validation-00000548/01_Kyle-Lafferty.html_c_0"
+    },
+    {
+      "text": "Arthur Arnold Millard (1869 – after 1891) was an English professional footballer born in Birmingham who played in the Football Alliance for Small Heath . Millard had a good goalscoring record before joining Small Heath. In his three games in the Football Alliance and one in the FA Cup Millard scored three goals, but he returned to local football at the end of the 1891–92 season . References v t e",
+      "id": "HotpotQA-validation-00006558/02_Arthur-Millard.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- John Alexander is an English former footballer (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- He is the uncle of Trent Alexander-Arnold (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- Trent Alexander-Arnold plays for Real Madrid (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- John Alexander was born in Liverpool (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- Trent Alexander-Arnold plays in the same place as John Alexander (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\n- The question asks for the English Professional Footballer who is the niece of a former footballer born in the same place as where he plays (HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who is the English Professional Footballer that is the niece of a former footballer born in the same place as where he plays?",
+      "doc_ids": [
+        "HotpotQA-validation-00006558/00_John-Alexander-footballer-born-1955.html_c_0",
+        "HotpotQA-validation-00000994/02_Nick-Schmidt.html_c_0",
+        "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_22",
+        "HotpotQA-validation-00000548/01_Kyle-Lafferty.html_c_0",
+        "HotpotQA-validation-00006558/02_Arthur-Millard.html_c_0"
+      ]
+    }
+  ]
+}

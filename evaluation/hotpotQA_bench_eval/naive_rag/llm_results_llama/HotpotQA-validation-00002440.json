@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002440",
+  "question": "What are the letters of the radio station serves the area comprising all of Belknap County, among others?",
+  "gold_answer": "WANH",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "In this 2018 map by the N.H. Department of Transportation, the Lakes Region (in darker blue) is located in the east-central portion of the state. The Lakes Region of New Hampshire is located in the east-central part of the state, south of the White Mountains Region and extending to the Maine border. It is named for the numerous lakes in the region, the largest of which are Lake Winnipesaukee , Lake Winnisquam , Squam Lake , and Newfound Lake . The area comprises all of Belknap County , the southern portion of Carroll County , the eastern portion of Grafton County , and the northern portions of Strafford County and Merrimack County . The largest municipality is the city of Laconia . Besides the lakes, there are also two small mountain ranges, the Belknap Mountains which lie to the southwest, and the Ossipee Mountains to the northeast. The area is a popular tourist destination in the summer time, with the activity peaking during the annual Motorcycle Week and races at Loudon's New Hampshire Motor Speedway . Other tourist destinations include Funspot in Weirs Beach , the Squam Lakes Natural Science Center in Holderness , the children's museum of Center Harbor , Gunstock ski resort and Bank of New Hampshire Pavilion at Meadowbrook , both in Gilford, Castle in the Clouds in Moultonborough , and the town of Wolfeboro , which claims to be the nation's oldest resort town. Lake Winnipesaukee",
+      "id": "HotpotQA-validation-00002440/01_Lakes-Region-New-Hampshire.html_c_0"
+    },
+    {
+      "text": "KWXL-LP (98.7 FM ) is a high school radio station broadcasting a variety format. Licensed to Tucson, Arizona , United States, the station serves the Tucson area. The station is currently owned by the Tucson Unified School District . KWXL-LP is Tucson's only high school radio station. It is also a news radio station for students who attend Pueblo High Magnet School . Students broadcasting over the radio station are enrolled in a \"Writing/Reporting for Broadcasting\" class with instructor Sarah Wilson. Originally started by Douglas Potter, who retired in 2006. Listeners can also find FM 98.7, KWXL on iTunes. References External links KWXL-LP official website",
+      "id": "HotpotQA-validation-00002440/03_KWXL-LP.html_c_0"
+    },
+    {
+      "text": "WVNH (91.1 FM ) is a radio station broadcasting a Christian radio format. Licensed to Concord, New Hampshire , United States, the station serves the Concord and Franklin areas. The station is currently by New Hampshire Gospel Radio, Inc. (NHGR). Programming is simulcast on WANH (88.3 FM) in Meredith , serving the Lakes Region and on WJNH (91.1 FM) in Conway , serving the Ossippee/Conway area. The licensee for WANH, WJNH, and WVNH is New Hampshire Gospel Radio, Inc. The board of directors are; John Loker; George Dykstra, Treasurer; Peter J. Stohrer, Vice President; John Donovan, President; Janice Cyr, Secretary/Station Manager/Director; Judy Mason, Cheryl Eggert, Steve Blanchard, Mark Hendersen, Tom Marsh, Certified Public Accountant; and Roy McCandless, Attorney at Law. The studios for NHGR are located at on Ferry Street in Concord. Translators In addition to the main station, WVNH is relayed by several broadcast translators to widen its broadcast area. WVNH formerly operated a third translator, W241AJ (96.1 FM) in Laconia ; this facility was sold to Lakes Media for $7,500 in 2024, to relay WASR . History The station was assigned call sign WQFB on November 15, 1991. On",
+      "id": "HotpotQA-validation-00002440/00_WVNH.html_c_0"
+    },
+    {
+      "text": "WSYY-FM (94.9 FM ) is a radio station broadcasting a full-service adult hits format. Licensed to Millinocket, Maine , United States, the station's broadcast signal serves Central Penobscot County , Eastern Piscataquis County , and Southern Aroostook County , from its tower site in Millinocket. The station is owned by Katahdin Communications, Inc. WSYY-FM plays a mix of oldies / classic hits , adult contemporary , rock music , and some country crossovers. The station also features programming from CBS News Radio (and has been an affiliate of that network for many decades). WSYY-FM also airs When Radio Was . [ failed verification ] History In 1978, WSYY-FM was founded on 97.7 FM as WKTR, upgrading to its current facilities in 1984 on 94.9. Prior to their The Mountain 94.9 branding, WSYY-FM used to be referred to as North Country 95 , airing country music full-time. The current format, branding, and slogan was probably adopted around March 1, 2004, when Katahdin Communications, Inc. assumed control of WSYY-FM and WSYY from Katahdin Timberlands, LLC as a result of the radio station facing increasing land disputes, initially as a short term lease agreement, but the transfer of ownership became permanent. Those land disputes would lead to a loss of",
+      "id": "HotpotQA-validation-00006914/02_WSYY-FM.html_c_0"
+    },
+    {
+      "text": "a year by initially declining to issue their music, including their first three singles. Concurrent negotiations with the independent US label Vee-Jay led to the release of some, but not all, of the songs in 1963. Vee-Jay finished preparation for the album Introducing... The Beatles , comprising most of the songs of Parlophone's Please Please Me , but a management shake-up led to the album not being released. After it emerged that the label did not report royalties on their sales, the licence that Vee-Jay had signed with EMI was voided. A new licence was granted to the Swan label for the single \"She Loves You\". The record received some airplay in the Tidewater area of Virginia from Gene Loving of radio station WGH and was featured on the \"Rate-a-Record\" segment of American Bandstand , but it failed to catch on nationally. A newspaper clipping from 8 February 1964 covering \"Beatlemania\" Epstein brought a demo copy of \" I Want to Hold Your Hand \" to Capitol's Brown Meggs , who signed the band and arranged for a $40,000 US marketing campaign. American chart success began after disc jockey Carroll James of AM radio station WWDC , in Washington, DC, obtained a copy of the British single \"I Want to Hold Your Hand\" in mid-December 1963 and began playing it on-air. Taped copies of the song soon circulated among other radio stations throughout the",
+      "id": "HotpotQA-validation-00000148/01_The-Beatles.html_c_14"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Belknap County is part of the Lakes Region (Novel-00002440_c_0).\n- The Lakes Region is served by a radio station (Novel-00002440_c_0).\n- The radio station serves the area comprising all of Belknap County, among others (Novel-00002440_c_0).\n- The radio station's call letters are not mentioned in the current evidence (Novel-00002440_c_0).\n- The radio station's call letters are not mentioned in the current evidence (Novel-00002440_c_0).\n- The radio station's call letters are not mentioned in the current evidence (Novel-00002440_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What are the letters of the radio station serves the area comprising all of Belknap County, among others?",
+      "doc_ids": [
+        "HotpotQA-validation-00002440/01_Lakes-Region-New-Hampshire.html_c_0",
+        "HotpotQA-validation-00002440/03_KWXL-LP.html_c_0",
+        "HotpotQA-validation-00002440/00_WVNH.html_c_0",
+        "HotpotQA-validation-00006914/02_WSYY-FM.html_c_0",
+        "HotpotQA-validation-00000148/01_The-Beatles.html_c_14"
+      ]
+    }
+  ]
+}

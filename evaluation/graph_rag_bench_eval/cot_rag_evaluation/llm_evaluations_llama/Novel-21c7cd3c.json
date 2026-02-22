@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21c7cd3c",
+  "question": "Which literary work did Goethe read aloud to his contemporaries, as recorded in accounts of his engagement with English literature?",
+  "gold_answer": "Goethe reads aloud Tristram Shandy.",
+  "llm_answer": "Based on the provided evidence, it appears that Goethe read aloud to his contemporaries a work by Laurence Sterne, specifically \"Tristram Shandy\" or possibly \"A Sentimental Journey\". However, the exact work is not explicitly stated in the provided text.\n\nThe text mentions that Goethe read Sterne's works in Strassburg under Herder's guidance, and that Sterne's writings had a significant impact on Goethe's own work, particularly in the development of the character of Werther in \"Werther\".",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Goethe read works by Laurence Sterne, but it introduces ambiguity by suggesting 'A Sentimental Journey' as a possibility, which is not supported by the context. The Gold Answer explicitly states 'Tristram Shandy,' which is not definitively confirmed in the retrieved context either. The Model Answer also includes additional claims about Sterne's influence on Goethe's work, which are not grounded in the provided context. Thus, the answer is partially correct but lacks full faithfulness and misses the specific focus on 'Tristram Shandy.'"
+  }
+}

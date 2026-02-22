@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9b293f2c",
+  "question": "Who is identified in the narrative as being the king of the Chaldeans, particularly in the context of early Mesopotamian history?",
+  "gold_answer": "King Urukh was king of the Chaldeans.",
+  "llm_answer": "The narrative identifies the king of the Chaldeans in early Mesopotamian history as **King of Phthia**, specifically referencing **Peleus**, the king of Phthia in Thessaly, in the context of his marriage to the sea goddess Thetis. However, this appears to be a misinterpretation or conflation, as Peleus is a figure from Greek mythology, not a Chaldean king. \n\nIn the broader context of the narrative, the Chaldeans (or **Khaldi**) are described as settlers in Mesopotamia with their capital at **Ur** (or **Hur/Hula**), but no specific Chaldean king is named in the provided text. The mention of **King Belshazzar** later in the narrative pertains to Babylonian, not explicitly Chaldean, rule. Thus, the narrative does not clearly identify a distinct king of the Chaldeans in early Mesopotamian history beyond these mythological and biblical references.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Peleus, a figure from Greek mythology, as the king of the Chaldeans, which is not supported by the context or the Gold Answer. The Gold Answer clearly states King Urukh as the king of the Chaldeans, but the Model Answer fails to mention him and instead provides irrelevant and unsupported information. Additionally, the retrieved context does mention King Urukh, but the Model Answer does not utilize this information, making it unfaithful to the context and missing key evidence."
+  }
+}

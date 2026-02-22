@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002016",
+  "question": "Q1: Which mountain is located in China, Kirat Chuli or Kangpenqing?",
+  "gold_answer": "Kangpenqing (also Gang Benchhen) is a mountain in the Baiku Himalayas of Tibet, China.",
+  "llm_answer": "Kangpenqing is located in China.",
+  "context": [
+    {
+      "text": "Kirat Chuli or Tent Peak is a mountain in the Himalayas . It lies on the border between Nepal and India . Location The peak is located at 7,365 m (24,163 ft) above sea level in the extreme northeast of Nepal and northwest of Sikkim . It is approximately two km northeast of Nepal Peak . Climbing history The first ascent was made by Ernst Grob, Herbert Paidar, and Ludwig Schmaderer on May 29, 1939. See also Kirata Kirata Kingdom Kirati people Kirat Mundhum References v t e v t e",
+      "id": "HotpotQA-validation-00002016/00_Kirat-Chuli.html_c_0"
+    },
+    {
+      "text": "Kangpenqing (also Gang Ben Chen ) is a mountain in the Himalayas of Tibet , China . At an elevation of 7,281 m (23,888 ft), it is the 89th highest mountain in the world . The peak was first climbed in 1982 by a Japanese team. References v t e",
+      "id": "HotpotQA-validation-00002016/01_Kangpenqing.html_c_0"
+    },
+    {
+      "text": "From left Taple Shikar (6510 m),The Twins and Kangchenjunga (8586 m). Gimmigela Chuli , or The Twins , are two-peak mountains in the Himalayas , located on the border between Taplejung , Mechi , Nepal and Sikkim , India . Location It has an elevation of 7,350 m (24,110 ft) above sea level and prominence is at 432 m (1,417 ft). It is situated approximately 4.2 km (2.6 mi) NNE from Kangchenjunga . The mountain has a subpeak , Gimmigela Chuli II 7,005 m (22,982 ft) metres; prominence is at 185 m (607 ft). This subpeak, sometimes referred to as \"Gimmigela's Sister\", lies entirely within India. Together the two peaks, Gimmigela I and Gimmigela II, are known as \"The Twins\". Climbing history A Japanese expedition attempted to reach the west (main) summit in 1993 via the east ridge from Sikkim , ending on 18 October 1993 after the death of expedition leader Masanori Sato. The team had achieved the first ascent of Gimmigela II and were on the summit ridge connecting the two peaks in an attempt to summit Gimmigela I when Sato fell 35 metres (115 ft) into a hidden",
+      "id": "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_c_0"
+    },
+    {
+      "text": "Mount Lao , or Laoshan ( simplified Chinese : 崂 山 ; traditional Chinese : 嶗 山 ; pinyin : Láo Shān ), is a mountain located near the East China Sea on the southeastern coastline of the Shandong Peninsula in China. The mountain is culturally significant due to its long affiliation with Taoism and is often regarded as one of the \"cradles of Taoism\". It is the highest coastal mountain in China and the second highest mountain in Shandong, with the highest peak (Jufeng) reaching 1,132.7 metres (3,716 ft). The mountain lies about 30 kilometres (19 mi) to the northeast of the downtown area of the city of Qingdao and is protected by the Qingdao Laoshan National Park that covers an area of 446 square kilometers. Geology Mount Lao consists of granite . The mountain's landforms were formed due to the action of glaciers during the Quaternary and erosion by meltwater released from the icecap that covered a large portion of Shandong during the late Pleistocene . History Laoshan is known as one of the birthplaces of Taoism . It is the place where the Complete Perfection School of Taoism ( Chinese : 全 真 ; pinyin : Quánzhēn ) developed. In 412 CE the Chinese Buddhist pilgrim Faxian landed near Laoshan on his return from India . In the",
+      "id": "HotpotQA-validation-00002016/03_Mount-Lao.html_c_0"
+    },
+    {
+      "text": "length of 60-plus kilometres and water area of more than 50 thousand mu. The best tour season of Taining Jinhu Lake is from April to October each year. Besides, there are quite a number of places of historic interest and scenic beauty which include the State-level Taining Jinhu Lake, Yong-an Taoyuan Cave--------Linying Stone Forest, and the provincial level Jiangle Yuhua Cave, Sha Xian Qixian Cave, Ninghua Tian-er Cave and Meilie Ruiyun Mountain in Sanming. The natural reserves in Jiangle Longxi mountain, Xingkou Geshikao, Shaxian Nanmu Forest and Yong-an Tianbao Rock have been well known for the rare animals. The ancient architectural structure in Taining, Shibi Village, the originating place of the Hakkas in Ninghua and the birthplace of Zhu Xi in Youxi have all been noticeable both in China and overseas. Yong-an Taoyuan Cave, situated by Yan River on the north of Yong-an City, is a major State-level place of scenic beauty with an area of 10 kilometres. Linying Stone Forest, a marvellous spectacle located in Dahu Village 13 kilometres (8.1 mi) northwest of Yong-an City, is a State-level major place of scenic beauty with a total area of 1.21 square kilometres (0.47 sq mi). The architectural structure group built in the ancient Ming Dynasty situated at",
+      "id": "HotpotQA-validation-00003628/00_Sanming.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- Kirat Chuli lies on the Nepal-India border. (HotpotQA-validation-00002016/00_Kirat-Chuli.html_c_0)\n- Kangpenqing is in Tibet, China. (HotpotQA-validation-00002016/01_Kangpenqing.html_c_0)\n- Therefore, Kangpenqing is located in China.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Q1: Which mountain is located in China, Kirat Chuli or Kangpenqing?",
+      "doc_ids": [
+        "HotpotQA-validation-00002016/00_Kirat-Chuli.html_c_0",
+        "HotpotQA-validation-00002016/01_Kangpenqing.html_c_0",
+        "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_c_0",
+        "HotpotQA-validation-00002016/03_Mount-Lao.html_c_0",
+        "HotpotQA-validation-00003628/00_Sanming.html_c_2"
+      ]
+    }
+  ]
+}

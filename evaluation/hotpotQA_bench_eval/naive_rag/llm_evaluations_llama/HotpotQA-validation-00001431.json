@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001431",
+  "question": "What English nursery rhyme which dates from 1731 appears on Teletubbies say \"Eh-oh!\"?",
+  "gold_answer": "\"Baa, Baa, Black Sheep\"",
+  "llm_answer": "The English nursery rhyme that appears on Teletubbies and says \"Eh-oh!\" is not explicitly mentioned in the provided evidence. However, the evidence does mention that the Teletubbies sing \"Baa, Baa, Black Sheep\" and the flowers from Teletubbyland sing \"Mary, Mary, Quite Contrary\".",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Baa, Baa, Black Sheep' as one of the nursery rhymes sung by the Teletubbies, which aligns with the Gold Answer. However, it introduces ambiguity by stating the rhyme is 'not explicitly mentioned' despite the context clearly supporting 'Baa, Baa, Black Sheep' as the answer. Faithfulness is high as the claims are grounded in the context, but evidence coverage is partial due to the lack of direct confirmation of the Gold Answer."
+  }
+}

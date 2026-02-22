@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000668",
+  "question": "What is Rachelle Amy Beinart's role in the film that follows a group of rebels on a mission?",
+  "gold_answer": "stunt performances",
+  "llm_answer": "The provided evidence does not mention Rachelle Amy Beinart or her role in any film. Therefore, I cannot determine her role in the film that follows a group of rebels on a mission.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about Rachelle Amy Beinart or her role in the film. However, it fails to answer the question using internal knowledge, which would have been 'stunt performances' as per the Gold Answer. The retrieved context is irrelevant, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

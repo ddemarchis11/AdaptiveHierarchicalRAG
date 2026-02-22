@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003912",
+  "question": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+  "gold_answer": "7pm",
+  "llm_answer": "I cannot verify the time that the show, in which Gordon Burns was the host, usually aired on Monday.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct time (7pm) for the show hosted by Gordon Burns on Monday, despite the context clearly stating that the show was a staple of Monday evening schedules. The answer is incorrect, ungrounded, and does not cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00004312",
+  "question": "which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?",
+  "gold_answer": "Donald J. Trump's private jet",
+  "llm_answer": "Based on the provided evidence, I can answer the question as follows:\n\nThe private jet called Trump Force One is a Boeing 757, not a Boeing Commercial Airplanes aircraft built from 1981 to 2004. The Boeing 757 was produced from 1982 to 2004.\n\nThe Trump Organization's Boeing 757, nicknamed Trump Force One, is an aircraft owned and operated by Donald Trump. The 757 was built in 1991 and was originally delivered to Denmark's Sterling Airlines. It was later operated by Mexico's TAESA and then became a corporate jet for Microsoft co-founder Paul Allen's enterprises in 1995. Trump's DJT Operations I LLC bought the plane in 2011.\n\nThe Boeing 757 is the manufacturer's largest single-aisle passenger aircraft, but it was not built from 1981 to 2004. The production of the 757 peaked at an annual rate of 100 aircraft in the early 1990s, and it ended in October 2004.\n\nTherefore, the answer to the question is that the Trump Force One is a Boeing 757, but it was not built from 1981 to 2004.",
+  "context": [
+    {
+      "text": "The Trump Organization 's Boeing 757 , nicknamed Trump Force One after the U.S. presidential plane, Air Force One , is an aircraft owned and operated by Donald Trump . The nickname gained use during Trump's presidential campaign of 2016 . History Boeing 727 (1997–2011) The predecessor of Trump Force One was a Boeing 727 registered as VP-BDJ. The plane had previously been operated as part of the Trump Shuttle fleet until a 1992 merger. Donald Trump re-purchased the aircraft in 1997 and used it until 2011, when he sold it in favor of the 757. The 727 included a private quarters with a queen-size bed and full bath and seating for 23 passengers in three separate salons. Trump's Boeing 727 aircraft, the predecessor of Trump Force One Boeing 757-200 (2011–Present) N757AF as Paul Allen's corporate aircraft in 2003 Trump's Boeing 757-200 is registered in the United States as N757AF ( ICAO 24-bit address AA3410) and was built in 1991. It was originally delivered to Denmark's Sterling Airlines and by 1993 was operated by Mexico's TAESA . In 1995, it became a corporate jet for Microsoft co-founder Paul Allen 's enterprises. Trump's DJT Operations I LLC bought the plane in 2011. The aircraft has two Rolls-Royce RB211 turbofan engines, and",
+      "id": "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_0"
+    },
+    {
+      "text": "the 757-200M can carry two to four cargo pallets on its main deck, along with 123 to 148 passengers in the remaining cabin space. Nepal Airlines' 757-200M, which features Rolls-Royce RB211-535E4 engines and an increased MTOW of 240,000 lb (110,000 kg), was the only production example ordered. When cargo is carried on the main deck, the crew must include an additional dedicated, trained cargo firefighter. In October 2010, Pemco World Air Services and Precision Conversions launched aftermarket conversion programs to modify 757-200s into 757 Combi aircraft. Vision Technologies Systems launched a similar program in December 2011. All three aftermarket conversions modify the forward portion of the aircraft to provide room for up to ten cargo pallets, while leaving the remaining space to fit around 45 to 58 passenger seats. This configuration is targeted at commercial charter flights which transport heavy equipment and personnel simultaneously. Customers for converted 757 Combi aircraft include the Air Transport Services Group , National Airlines , and North American Airlines . 757-300 United Airlines 757-300 in 2025 The 757-300, the stretched and longest version of the Boeing 757 variants, entered service with Condor in 1999. With a length of 178.7 ft (54.5 m), the type is the longest single-aisle twinjet ever built, coming in just shorter than",
+      "id": "HotpotQA-validation-00004312/01_Boeing-757.html_c_32"
+    },
+    {
+      "text": "aircraft, under FAA separation rules. Shortened variant: -100 757-100 was a 150-seat, short fuselage version intended to offer similar capacity to a 727-200 but with greater range. Both the 757-100 and -200 were announced at the product launch on August 31, 1978, however the large wing and landing gear common with the 757-200 were found to be excessively heavy for an aircraft of that capacity. Planning for the 757-100 was discontinued in March 1979. Stretched variant: -300 Production of the 757 peaked at an annual rate of 100 aircraft in the early 1990s, during which time upgraded models came under consideration. For over a decade, the narrow-body twinjet had been its manufacturer's only single-aisle airliner without a stretched variant, and while rumors of a long-range 757-200X and stretched 757-300X persisted, no formal announcements had been made. European charter carriers were particularly interested in a higher-capacity version which could take better advantage of the 757's range. Besides meeting the needs of charter customers, a larger model would enable Boeing to match the passenger lift capabilities of the 767-200 with lower operating costs, and counter longer-range versions of the 185-seat Airbus A321 , a new stretched variant of the A320 narrow-body airliner. A 757-300 of launch customer Condor in 2005; they started",
+      "id": "HotpotQA-validation-00004312/01_Boeing-757.html_c_15"
+    },
+    {
+      "text": "The Boeing 757 is an American narrow-body airliner designed and built by Boeing Commercial Airplanes . The then-named 7N7, a twinjet successor for the trijet 727 , received its first orders in August 1978. The prototype completed its maiden flight on February 19, 1982, and it was FAA certified on December 21, 1982. Eastern Air Lines placed the initial 757-200 variant in commercial service on January 1, 1983. A package freighter (PF) variant entered service in September 1987 followed by a combi model in September 1988. The stretched 757-300 was launched in September 1996 and began service in March 1999. After 1,050 had been built for 54 customers, production ended in October 2004, while Boeing offered the largest 737 Next Generation variants as a successor to the -200. The jetliner is powered by 36,600–43,500 lbf (163–193 kN) Rolls-Royce RB211 or Pratt & Whitney PW2000 underwing turbofan engines for a 255,000–273,000 lb (116–124 t) maximum takeoff weight (MTOW). The 757 has a 2,000 sq ft (185 m 2 ) supercritical wing for reduced aerodynamic drag and a conventional tail . It keeps the 707 fuselage width and six–abreast",
+      "id": "HotpotQA-validation-00004312/01_Boeing-757.html_c_0"
+    },
+    {
+      "text": "flights . ETOPS extended flights were approved in 1986 to fly intercontinental routes. Private and government operators have customized the 757 as VIP carriers such as the US C-32 . In July 2017, there were 665 Boeing 757 in commercial service, with Delta Air Lines being the largest operator with 127 airplanes in its fleet. The aircraft has recorded ten hull-loss accidents, as of August 2023 [update] . Development Background In the early 1970s, following the launch of the first wide-body airliner, the 747 , Boeing began considering further developments of its narrow-body 727 . Designed for short and medium length routes, the trijet was the best-selling jetliner of the 1960s and a mainstay of the U.S. domestic airline market. Studies focused on improving the 189-seat 727-200 , the most successful variant. Two approaches were considered: a stretched 727 (to be designated 727-300), and an all-new aircraft code-named 7N7. The former was a cheaper derivative using the 727's existing technology and tail-mounted engine configuration, while the latter was a twin-engine aircraft which made use of new materials and improvements to propulsion technology which had become available in the civil aerospace industry. The 7N7 made its Farnborough Airshow debut in 1982 as the 757-200. United Airlines provided input for the proposed 727-300, which Boeing was poised",
+      "id": "HotpotQA-validation-00004312/01_Boeing-757.html_c_2"
+    },
+    {
+      "text": "to Billings Logan International Airport due to a mechanical issue. Other aircraft Trump Organization Cessna 750 When Trump visited Trump Tower in Manhattan in March 2021, he used the Trump Organization's 1997 Cessna 750 Citation X , N725DT. The Citation X became Trump's main jet after his first presidency, while his 757 was being renovated. The plane seats eight passengers and has a cabin height of 5 feet 7 inches (170 centimeters). When first purchased, it was the fastest business jet in the world. The Federal Aviation Administration reportedly cited the plane in 2016 when the Trump Organization did not renew its registration. In May 2024, the Trump Organization sold the Cessna to a Texan company, MM Fleet Holdings LLC, for an undisclosed amount. The fair market value of the plane was estimated at $10 million. The Trump Organization's fleet also has three Sikorsky S-76 helicopters. While the Boeing 757 was grounded for mechanical issues in August 2024, Trump attended campaign events in a Gulfstream G550 leased from Threshold Aviation Group that had previously been owned by Jeffrey Epstein . In July 2024, Trump's presidential campaign began chartering N917XA, a Boeing 737-800 operated by Eastern Air Express The plane was primarily used by his running mate, JD Vance . On September 5, 2024, the pilot of the aircraft was warned by air traffic control for violating Prohibited Area",
+      "id": "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- The Trump Organization owns a Boeing 757.\n- The Boeing 757 is a single-aisle passenger aircraft.\n- The Boeing 757 is produced from 1981 to 2004.\n- Donald Trump owns a Boeing 757.\n- (HotpotQA-validation-00004312/00_Trump-Force-One.html_c_0)\n- (HotpotQA-validation-00004312/01_Boeing-757.html_c_0)\n- The Trump Organization owns a Boeing 757.\n- The Boeing 757 is a single-aisle passenger aircraft.\n- The Boeing 757 is produced from 1981 to 2004.\n- Donald Trump owns a Boeing 757.\n- The Trump Organization's Boeing 757 is nicknamed Trump Force One.\n- The Boeing 757 is built by Boeing Commercial Airplanes.\n- The Trump Organization owns a Boeing 757.\n- The Boeing 757 is a single-aisle passenger aircraft.\n- The Boeing 757 is produced from 1981 to 2004.\n- Donald Trump owns a Boeing 757.\n- The Trump Organization's Boeing 757 is nicknamed Trump Force One.\n- The Boeing 757 is built by Boeing Commercial Airplanes.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "which persons private jet called Trump Force One which is built by Boeing Commercial Airplanes and is the manufacturer's largest single aisle passenger aircraft that is produced from 1981 to 2004?",
+      "doc_ids": [
+        "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_0",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_32",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_15",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_0",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_2"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What is the Trump Organization's private jet built by Boeing Commercial Airplanes?",
+      "doc_ids": [
+        "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_3",
+        "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_0",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_0",
+        "HotpotQA-validation-00004312/03_James-Albaugh.html_c_1",
+        "HotpotQA-validation-00004312/03_James-Albaugh.html_c_0"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Who owns Trump Force One?",
+      "doc_ids": [
+        "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_0",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_39",
+        "HotpotQA-validation-00004312/00_Trump-Force-One.html_c_1",
+        "HotpotQA-validation-00000645/01_Rosie-ODonnell.html_c_30",
+        "HotpotQA-validation-00005985/02_The-Apprentice-US-season-11.html_c_18"
+      ]
+    }
+  ]
+}

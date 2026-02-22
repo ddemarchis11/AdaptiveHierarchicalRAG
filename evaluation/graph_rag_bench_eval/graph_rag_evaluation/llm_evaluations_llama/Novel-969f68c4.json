@@ -1,0 +1,12 @@
+{
+  "id": "Novel-969f68c4",
+  "question": "How is the movement of the Itzaes explained with respect to the Nahualt and the invasion of MAYAB?",
+  "gold_answer": "The Itzaes, who spoke Maya, retreated before the Nahualt, who later invaded MAYAB.",
+  "llm_answer": "I cannot find any information about the Itzaes, the Nahualt, or the invasion of MAYAB in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about the movement of the Itzaes, the Nahualt, and the invasion of MAYAB. While the retrieved context is irrelevant to the question, the Model Answer does not provide any correct or relevant information using internal knowledge either. It does not align with the Gold Answer or provide any meaningful response."
+  }
+}

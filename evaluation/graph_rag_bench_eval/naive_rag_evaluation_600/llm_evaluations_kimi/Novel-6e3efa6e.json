@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "The text says that the Maya presence in Hindostan is not autochthonous: a prince named Maya is said to have come from elsewhere and settled there.  \nWhat links the two regions is not a one-way civilizing current from India to Mayab, but a common Maya stratum that appears in both places:\n\n- The very name “Maya” (and its variants Magi, Maia, etc.) is found in Hindostan with the same meaning—magician, learned man, mother of the gods.  \n- Several Hindu rites, tribal names, and even the physiognomy shown on monuments are described as “pure American-Maya words” or unmistakably American types.  \n- Conversely, the sculptures at Copan show an “Asiatic type,” while the statues of Hindostan display “beyond all doubt” American features.\n\nThus the narrative presents Hindostan and Mayab as regions that once shared Maya colonists or at least a common Maya cultural inheritance; the Indian sub-continent received and preserved some of these Maya elements rather than being their source.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the relationship between Mayab and Hindostan as described in the narrative, emphasizing their shared Maya cultural elements and the presence of Maya in Hindostan. It provides detailed context supported by the retrieved information, including the etymology of 'Maya,' cultural practices, and physical features, all grounded in the context. The core meaning of the Gold Answer is fully contained, and the additional details enhance understanding without introducing unsupported claims."
+  }
+}

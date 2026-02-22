@@ -1,0 +1,12 @@
+{
+  "id": "Novel-13d8667b",
+  "question": "In the course of diplomatic negotiations depicted in the narrative, was the Moorish envoy able to conclude a treaty of peace with France?",
+  "gold_answer": "No, the Moorish envoy was unable to conclude a treaty of peace with France.",
+  "llm_answer": "No. The evidence states explicitly that “the Moorish envoy, in spite of his great influence, was unable to conclude the treaty of peace, which was desired by France.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the Moorish envoy was unable to conclude a treaty of peace with France, directly referencing the retrieved context which explicitly supports this claim. It aligns fully with the Gold Answer and includes the necessary evidence from the context."
+  }
+}

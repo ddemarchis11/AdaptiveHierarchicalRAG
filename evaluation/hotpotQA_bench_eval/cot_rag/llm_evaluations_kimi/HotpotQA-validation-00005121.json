@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005121",
+  "question": "Swingin' Down Yonder is the first full-length, 12-inch album recorded by a singer known by what nickname?",
+  "gold_answer": "\"King of Cool\"",
+  "llm_answer": "The King of Cool",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Dean Martin's nickname as 'The King of Cool,' which is supported by the retrieved context. The answer is concise and matches the Gold Answer, containing all necessary information without adding unsupported details."
+  }
+}

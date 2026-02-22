@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9b293f2c",
+  "question": "Who is identified in the narrative as being the king of the Chaldeans, particularly in the context of early Mesopotamian history?",
+  "gold_answer": "King Urukh was king of the Chaldeans.",
+  "llm_answer": "The narrative does not explicitly mention the king of the Chaldeans. However, it mentions King Uruck, who is said to be from the time of the ancient hieratic Chaldeans.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer identifies King Urukh as the king of the Chaldeans, while the Model Answer mentions King Uruck but does not explicitly confirm his role as king of the Chaldeans. The retrieved context supports the mention of King Uruck in relation to the Chaldeans, making the Model Answer faithful to the context. However, the Model Answer does not fully align with the Gold Answer and misses the specific identification of King Urukh as the king of the Chaldeans."
+  }
+}

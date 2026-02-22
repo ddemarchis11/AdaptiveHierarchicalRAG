@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b811802",
+  "question": "According to historical records, which musical instruments—specifically the drum, syrinx, and harp—were used by the ancient Greeks in their musical performances?",
+  "gold_answer": "The Greeks use the drum, syrinx, and harp as musical instruments.",
+  "llm_answer": "I cannot find any information about the syrinx being used by the ancient Greeks in their musical performances. However, the drum and harp are mentioned in the provided context as being used by the ancient Greeks.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the drum and harp as instruments used by the ancient Greeks, which aligns with the Gold Answer. However, it incorrectly states that there is no information about the syrinx being used by the Greeks, which contradicts the Gold Answer. Additionally, the retrieved context does not explicitly confirm the use of the drum, syrinx, or harp by the ancient Greeks, making the answer unfaithful to the context."
+  }
+}

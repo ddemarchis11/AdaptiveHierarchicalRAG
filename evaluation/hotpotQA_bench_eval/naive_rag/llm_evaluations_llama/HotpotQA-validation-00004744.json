@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004744",
+  "question": "Both Bo Diddley and The Yardbirds played which common genre of music during their careers?",
+  "gold_answer": "rock and roll",
+  "llm_answer": "Both Bo Diddley and The Yardbirds played the common genre of music during their careers: Blues.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'Blues' as the common genre played by Bo Diddley and The Yardbirds, whereas the Gold Answer specifies 'Rock and Roll.' While the context mentions both artists' involvement in blues music, it also highlights their contributions to rock and roll, which is the correct answer. The Model Answer fails to align with the Gold Answer and misses the central factual point. Additionally, the context does not exclusively support 'Blues' as the shared genre, making the faithfulness score partial."
+  }
+}

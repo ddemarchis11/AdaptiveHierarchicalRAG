@@ -1,0 +1,12 @@
+{
+  "id": "Novel-281d2cc2",
+  "question": "What is the link between Bode’s translation activity and the acceptance of the 'Koran' in Germany?",
+  "gold_answer": "Bode translated the 'Koran', which was accepted as genuine in Germany.",
+  "llm_answer": "There is insufficient evidence to establish a direct link between Bode's translation activity and the acceptance of the 'Koran' in Germany.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to establish a link between Bode's translation activity and the acceptance of the 'Koran' in Germany, which contradicts the Gold Answer. The Gold Answer clearly states that Bode translated the 'Koran,' and it was accepted as genuine in Germany. The Retrieved Context does not provide direct evidence to support the Model Answer's claim, making it unfaithful and lacking coverage of the key fact presented in the Gold Answer."
+  }
+}

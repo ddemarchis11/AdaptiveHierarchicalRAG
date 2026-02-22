@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What class of vehicle did both a Belgian-born American aerospace engineer and the chief engineer behind the Soviet space programme independently develop?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both Karel Bossart and Sergei Korolev independently developed intercontinental ballistic missiles (ICBMs): Bossart created the American Atlas ICBM, while Korolev led development of the Soviet R-7 ICBM.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies 'rocket' as the class of vehicle developed by the individuals, which is correct and broad enough to encompass their work. The Model Answer narrows this to 'intercontinental ballistic missiles (ICBMs),' which is partially correct but overly specific and not fully supported by the retrieved context. While the context mentions Korolev's work on rockets like the R-7 and Bossart's contributions to the Atlas rocket system, it does not explicitly confirm that both were focused solely on ICBMs. The Model Answer misses the broader classification of 'rocket' and introduces specificity not fully grounded in the context."
+  }
+}

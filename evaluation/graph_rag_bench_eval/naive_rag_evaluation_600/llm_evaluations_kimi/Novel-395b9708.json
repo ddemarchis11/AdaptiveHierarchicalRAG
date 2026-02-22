@@ -1,0 +1,12 @@
+{
+  "id": "Novel-395b9708",
+  "question": "What was Earle S. Goodrich's involvement with the Pioneer and the Minnesotian?",
+  "gold_answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+  "llm_answer": "Earle S. Goodrich was the editor of the *Pioneer*. He learned that the *Minnesotian* was secretly obtaining early copies of the *Pioneer* from a pressroom acquaintance. In response, Goodrich orchestrated a prank by preparing several columns of fake telegraph news—most notably a two-column fake speech attributed to William H. Seward—and had a few copies printed for the *Minnesotian*’s benefit. The *Minnesotian* printed and distributed this bogus content city-wide before realizing it had been duped.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Earle S. Goodrich's role as the editor of the Pioneer and his prank on the Minnesotian, as described in the Gold Answer. It provides additional relevant details, such as the fake telegraph news and the speech attributed to William H. Seward, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the extra information enhances understanding without introducing unsupported claims."
+  }
+}

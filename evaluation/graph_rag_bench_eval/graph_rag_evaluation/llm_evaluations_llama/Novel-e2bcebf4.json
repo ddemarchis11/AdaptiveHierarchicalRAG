@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "The creatures in the story that are depicted as eating nuts are woodpeckers. The specific type of nut mentioned as part of their diet is acorns.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies woodpeckers as the creatures eating nuts, whereas the Gold Answer specifies star-nosed moles. Additionally, the Model Answer only mentions acorns, missing the other types of nuts listed in the Gold Answer (hazels, butternuts, chestnuts, acorns, and beech-nuts). The retrieved context does not support the claim about woodpeckers eating nuts, as it only mentions woodpeckers storing acorns in bark, not consuming them."
+  }
+}

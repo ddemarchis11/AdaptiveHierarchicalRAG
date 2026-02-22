@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ef65fa4f",
+  "question": "In the narrative, which group is described as having customs similar to those of the inhabitants of Yucatan, based on the comparison of cultural practices?",
+  "gold_answer": "The Carians had customs similar to those of the inhabitants of Yucatan.",
+  "llm_answer": "The group described as having customs similar to those of the inhabitants of Yucatan is the inhabitants of equatorial Africa, as described by Mr. DuChaillu in the relation of his voyage to the \"Land of Ashango.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the group as the inhabitants of equatorial Africa, whereas the Gold Answer specifies the Carians. The retrieved context supports the Gold Answer, mentioning the Carians' customs being similar to those of the inhabitants of Yucatan. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact about the Carians."
+  }
+}

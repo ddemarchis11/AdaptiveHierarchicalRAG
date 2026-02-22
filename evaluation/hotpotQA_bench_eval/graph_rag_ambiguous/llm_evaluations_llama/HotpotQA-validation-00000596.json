@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000596",
+  "question": "In which broad geographic region was the literary and aesthetic movement centered, whose works the Belgian publisher Auguste Brancart was known for distributing?",
+  "gold_answer": "Western Europe",
+  "llm_answer": "The Decadent movement was a late 19th-century artistic and literary movement, centered in Western Europe.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Western Europe as the geographic region where the Decadent movement was centered, aligning with the Gold Answer. It is fully supported by the Retrieved Context, which explicitly states that the Decadent movement was centered in Western Europe. Additionally, the Model Answer includes the relevant detail about the movement being artistic and literary, which is consistent with the context."
+  }
+}

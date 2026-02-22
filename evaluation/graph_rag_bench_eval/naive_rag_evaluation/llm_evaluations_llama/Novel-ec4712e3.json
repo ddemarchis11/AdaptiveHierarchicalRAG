@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ec4712e3",
+  "question": "In what way did the storm affect the journey of the coach along the mountain road, considering the storm's fury spent on the mountain and the incident where the coach ran upon the pole-straps of the arrested horses?",
+  "gold_answer": "The storm spent its fury on the mountain, and the coach ran upon the pole-straps.",
+  "llm_answer": "The storm initially affected the journey of the coach by causing a jarring, grinding, and hissing from the brakes as the vehicle ran upon and recoiled from the taut pole-straps of the now arrested horses. This incident occurred when the storm's fury was still intense, and the coach was unable to stop in time.\n\nHowever, as the storm's fury spent on the mountain, the road became more defined, and the coach was able to descend to a terrace on the mountain flank. The wind died away, and the cold seemed to be less bitter. The coach was able to pick up speed and momentum as it descended, and the road became more clearly visible.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, explaining that the storm spent its fury on the mountain and the coach ran upon the pole-straps of the arrested horses. It provides additional details about the journey, such as the jarring and grinding from the brakes and the subsequent improvement in conditions as the storm subsided, all of which are supported by the Retrieved Context. The extra information is relevant and grounded, and all key facts from the Gold Answer are included."
+  }
+}

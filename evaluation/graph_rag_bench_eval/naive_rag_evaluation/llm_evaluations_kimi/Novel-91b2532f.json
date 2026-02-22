@@ -1,0 +1,12 @@
+{
+  "id": "Novel-91b2532f",
+  "question": "During the period of unrest in Minnesota, what patterns of protest and government response emerged, particularly as Indians protested against traders sitting at the government's pay table and the government was accused of neglecting its wards in Minnesota, eventually leading to the state's call to furnish military regiments such as the Sixth regiment?",
+  "gold_answer": "Indians protested against traders sitting at the pay table of the government, while the government neglected its wards in Minnesota, leading to ongoing unrest and calls for military intervention.",
+  "llm_answer": "The Indians protested by refusing to let traders sit at the government pay table and take money from their annuities; they wanted to pay debts on their own terms. When the government failed to send paymasters and told the Indians the war left no gold for annuities, the Indians concluded they had been abandoned. In response, the state—called to supply five regiments including the Sixth—mustered troops to deal with the resulting outbreak.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing the protests against traders at the pay table, the government's neglect, and the subsequent unrest leading to military intervention. It is fully grounded in the retrieved context, which supports all claims made, and includes all key facts from the Gold Answer."
+  }
+}

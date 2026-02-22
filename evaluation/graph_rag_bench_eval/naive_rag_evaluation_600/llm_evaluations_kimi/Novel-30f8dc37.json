@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30f8dc37",
+  "question": "After the journey through the rain and the eventful stop due to the fallen tree, where did the stagecoach carrying Yuba Bill and the passengers finally arrive?",
+  "gold_answer": "The coach arrived at the station.",
+  "llm_answer": "The stagecoach never reached a named destination within the passage; after the tree was cleared it simply “rolled away” and continued on its route.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states that the coach arrived at the station, which is a specific destination. The Model Answer does not confirm this and instead ambiguously states that the coach 'rolled away' without specifying a station or final destination. While the context does not explicitly mention 'the station,' it does describe the coach continuing its journey after the tree was cleared. The Model Answer partially aligns with the context but fails to address the specific destination mentioned in the Gold Answer."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Novel-f5dd3419",
+  "question": "In the aftermath of Mr. Bilson's marriage and changes at the Summit House, to whom did James Calton admit he had done a great injustice?",
+  "gold_answer": "James Calton did a great injustice to Miss Trotter.",
+  "llm_answer": "Based on the provided evidence, James Calton admitted he had done a great injustice to Miss Trotter.",
+  "context": [
+    {
+      "text": "a \"real lady\" from the first! She received these attentions, as became her sane intellect and cool temperament, without pride, affectation, or hesitation. Only her dark eyes brightened on the day when Mr. Bilson's marriage was made known, and she was called upon by James Calton. \"I did you a great injustice,\" he said, with a smile. \"I don't understand you,\" she replied a little coldly. \"Why, this woman and her marriage,\" he said; \"you must have known something of it all the time, and perhaps helped it along to save Chris.\" \"You are mistaken,\" returned Miss Trotter truthfully. \"I knew nothing of Mr. Bilson's intentions.\" \"Then I have wronged you still more,\" he said briskly, \"for I thought at first that you were inclined to help Chris in his foolishness. Now I see it was your persuasions that changed him.\" \"Let me tell you once for all, Mr. Calton,\" she returned with an impulsive heat which she regretted, \"that I did not interfere in any way with your brother's suit. He spoke to me of it, and I promised to see Frida, but he afterwards asked me not to. I know nothing of the matter.\" \"Well,\" laughed Mr. Calton, \"WHATEVER you did, it was most efficacious, and you did it so graciously and tactfully that it has",
+      "id": "Novel-2544_c_284"
+    },
+    {
+      "text": "out of it, you might find out what she expects from this marriage. If you would talk to her as sensibly as you have to me\"-- \"It is not likely that she will seek my assistance as you have,\" said Miss Trotter, with a faint smile which Mr. Calton thought quite pretty, \"but I will see about it.\" Whatever Miss Trotter intended to do did not transpire. She certainly was in no hurry about it, as she did not say anything to Frida that day, and the next afternoon it so chanced that business took her to the bank and post-office. Her way home again lay through the Summit woods. It recalled to her the memorable occasion when she was first a witness to Frida's flirtations. Neither that nor Mr. Bilson's presumed gallantries, however, seemed inconsistent, in Miss Trotter's knowledge of the world, with a serious engagement with young Calton. She was neither shocked nor horrified by it, and for that reason she had not thought it necessary to speak of it to the elder Mr. Calton. Her path wound through a thicket fragrant with syringa and southernwood; the faint perfume was reminiscent of Atlantic hillsides, where, long ago, a girl teacher, she had walked with the girl pupils of the Vermont academy, and kept them from the shy advances of the local swains. She smiled--a little sadly--as the thought occurred to her that after this interval of",
+      "id": "Novel-2544_c_270"
+    },
+    {
+      "text": "you think, Mr. Bray,\" she added demurely, \"that you had better let me fill my pail again while you go round to the front door and call upon me properly?\" \"But your father\"-- \"My father, as a well-known investor, regrets exceedingly that he did not make your acquaintance more thoroughly in his late brief interview. He is, as your foreman knows, exceedingly interested in the mines on Eureka ledge. He will be glad if you will call.\" She led him to a little door in the wall, which she unbolted. \"And now 'Jill' must say good-by to 'Jack,' for she must make herself ready to receive a Mr. Bray who is expected.\" And when Bray a little later called at the front door, he was respectfully announced. He called another day, and many days after. He came frequently to San Francisco, and one day did not return to his old partners. He had entered into a new partnership with one who he declared \"had made the first strike on Eureka mountain.\" MR. BILSON'S HOUSEKEEPER I When Joshua Bilson, of the Summit House, Buckeye Hill, lost his wife, it became necessary for him to take a housekeeper to assist him in the management of the hotel. Already all Buckeye had considered this a mere preliminary to taking another wife, after a decent probation, as the relations of housekeeper and landlord were confidential and delicate, and Bilson was",
+      "id": "Novel-2544_c_252"
+    },
+    {
+      "text": "from the room in question. Indeed, she was so confounded that when Frida appeared from the room a little flurried, but with a certain audacity new to her, Miss Trotter withheld her rebuke, and sent her off on an imaginary errand, while she herself opened the card-room door. It contained simply Mr. Bilson, her employer; his explanation was glaringly embarrassed and unreal! Miss Trotter affected obliviousness, but was silent; perhaps she thought her employer was better able to take care of himself than Mr. Calton. A week later this tension terminated by the return of Calton to Roanoke Ledge, a convalescent man. A very pretty watch and chain afterward were received by Miss Trotter, with a few lines expressing the gratitude of the ex-patient. Mr. Bilson was highly delighted, and frequently borrowed the watch to show to his guests as an advertisement of the healing powers of the Summit Hotel. What Mr. Calton sent to the more attractive and flirtatious Frida did not as publicly appear, and possibly Mr. Bilson did not know it. The incident of the cardroom was forgotten. Since that discovery, Miss Trotter had felt herself debarred from taking the girl's conduct into serious account, and it did not interfere with her work. II One afternoon Miss Trotter received a message that Mr. Calton desired a few moments' private conversation with her. A little curious, she had",
+      "id": "Novel-2544_c_265"
+    },
+    {
+      "text": "reason why he should marry an ignorant girl--a foreigner and a servant--when he could do better elsewhere.\" \"This would seem to be a matter between you and your brother, and not between myself and my servant,\" said Miss Trotter coldly. \"If you cannot convince HIM, your own brother, I do not see how you expect me to convince HER, a servant, over whom I have no control except as a mistress of her WORK, when, on your own showing, she has everything to gain by the marriage. If you wish Mr. Bilson, the proprietor, to threaten her with dismissal unless she gives up your brother,\"--Miss Trotter smiled inwardly at the thought of the card-room incident,--\"it seems to me you might only precipitate the marriage.\" Mr. Calton looked utterly blank and hopeless. His reason told him that she was right. More than that, a certain admiration for her clear-sightedness began to possess him, with the feeling that he would like to have \"shown up\" a little better than he had in this interview. If Chris had fallen in love with HER--but Chris was a fool and wouldn't have appreciated her! \"But you might talk with her, Miss Trotter,\" he said, now completely subdued. \"Even if you could not reason her out of it, you might find out what she expects from this marriage. If you would talk to her as sensibly as you have to me\"--",
+      "id": "Novel-2544_c_269"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- James Calton admitted he had done a great injustice to Miss Trotter (Novel-2544_c_284).\n- Miss Trotter denied interfering with Chris's suit (Novel-2544_c_284).\n- Miss Trotter claimed she knew nothing of Mr. Bilson's intentions (Novel-2544_c_284).\n- Miss Trotter did not speak to Frida about the engagement (Novel-2544_c_270).\n- Miss Trotter was not shocked by the engagement (Novel-2544_c_270).\n- Miss Trotter did not think it necessary to speak to Mr. Calton about the engagement (Novel-2544_c_270).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the aftermath of Mr. Bilson's marriage and changes at the Summit House, to whom did James Calton admit he had done a great injustice?",
+      "doc_ids": [
+        "Novel-2544_c_284",
+        "Novel-2544_c_270",
+        "Novel-2544_c_252",
+        "Novel-2544_c_265",
+        "Novel-2544_c_269"
+      ]
+    }
+  ]
+}

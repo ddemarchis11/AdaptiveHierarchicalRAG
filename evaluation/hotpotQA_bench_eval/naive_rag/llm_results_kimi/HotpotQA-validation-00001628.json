@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "Tim Cluess has led his team for a longer period of time.",
+  "context": [
+    {
+      "text": "The 2014–15 Iona Gaels men's basketball team represented Iona College during the 2014–15 NCAA Division I men's basketball season . The Gaels, led by fifth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference . They finished the season 26–9, 17–3 in MAAC play to finish win the MAAC regular season championship. They defeated Siena and Monmouth to advance to the championship game of the MAAC tournament where they lost to Manhattan. As a regular season champion who failed to win their conference tournament, they received an automatic bid to the National Invitation Tournament where they lost in the first round to Rhode Island. Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2011–12 Murray State Racers men's basketball team represented Murray State University during the 2011–12 NCAA Division I men's basketball season . The Racers, led by first year head coach Steve Prohm , played their home games at the CFSB Center and were members of the Ohio Valley Conference . They were the Ohio Valley regular season champions and champions of the 2012 OVC Basketball tournament to earn the conference's automatic bid into the 2012 NCAA tournament . This was the Racers 15th tournament appearance. They defeated Colorado State in the second round before falling to Marquette in the third round to finish the season 31–2. Roster Dexter Fields was ineligible this season under NCAA rules as a transfer. After this season, he had two years of eligibility remaining Schedule Rankings References",
+      "id": "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2015–16 Iona Gaels men's basketball team represented Iona College during the 2015–16 NCAA Division I men's basketball season . The Gaels, led by sixth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference (MAAC). They finished the season 22–11, 16–4 in MAAC play to finish in second place. They defeated Canisius , Siena , and Monmouth to be champions of the MAAC tournament and earn the conference's automatic bid to the NCAA tournament where, as a #13 seed, they lost in the first round to Iowa State . Previous season The Gaels finished the 2014–15 season 26–9, 17–3 in MAAC play to win the MAAC regular season championship. Iona lost to Manhattan in the championship game of the MAAC tournament and earned an automatic bid to the National Invitation Tournament . In the NIT, they lost in the first round to Rhode Island . Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results Rankings Awards and honors References",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1"
+    },
+    {
+      "text": "The 2015–16 Iowa State Cyclones men's basketball team represented Iowa State University during the 2015–16 NCAA Division I men's basketball season . The Cyclones were coached by Steve Prohm , who was in his 1st season. They played their home games at Hilton Coliseum in Ames, Iowa and competed in the Big 12 Conference . They finished the season 23–12 10–8 in Big 12 play to finish tied for 5th place. They lost to Oklahoma in the quarterfinals of the Big 12 Conference tournament . They received an at-large bid to the NCAA tournament where they defeated Iona and Little Rock to advance to the Sweet Sixteen where they lost to Virginia . Previous season Iowa State finished the season 25–9, 12–6 in Big 12 play to finish in second place. They defeated Texas , Oklahoma , and Kansas to become champions of the Big 12 Conference tournament to earn and automatic bid to the NCAA tournament . In the NCAA Tournament they were upset by UAB in the second round. After months of speculation, it was announced on June 2, 2015, that Fred Hoiberg would be accepting the head coach position with the Chicago Bulls of the NBA . On June 8, 2015, it was announced that Iowa State would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "\" You Kent Always Say What You Want \" is the twenty-second and final episode of the eighteenth season of the American animated television series The Simpsons . It originally aired on the Fox network in the United States on May 20, 2007, as part of the one-hour season finale , alongside the episode \" 24 Minutes \". It was the milestone 400th episode of The Simpsons and was written by Tim Long and directed by Matthew Nastuk . In this episode, Kent Brockman is fired for swearing on air and moves in to the Simpson home where he and Lisa investigate the Republican Party. The episode guest starred Ludacris as himself and Maurice LaMarche as the Fox announcer. It received positive reviews. It was the last episode to air prior to The Simpsons Movie , which was released two months later on July 27, 2007. Special opening In celebration of the 20th anniversary of the show (when counting the shorts), the entire opening sequence is replaced with a black screen that reads, \"20 Years Ago...\" followed by a showing of The Tracey Ullman Show Simpsons short \"Family Portrait\", which involves Homer failing the shot on multiple occasions. Plot Driving home after a trip to the dentist , Homer takes the Simpson family to an ice cream parlor , where he buys the store's millionth ice cream cone. This results in Homer appearing on Kent Brockman 's TV news talk show Smartline on Channel 6 since both have the same",
+      "id": "HotpotQA-validation-00000615/03_You-Kent-Always-Say-What-You-Want.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Tim Cluess was in his 5th year at Iona in 2014–15 and 6th year in 2015–16 (HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0, HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0)\n- Steve Prohm was 1st year at Murray State in 2011–12 and 1st year at Iowa State in 2015–16 (HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0, HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0)\n- Need Tim Cluess’s career end year for total tenure comparison.\n- Tim Cluess was in 5th year at Iona in 2014–15 and 6th year in 2015–16 (HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0, HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0)\n- Steve Prohm was in 1st year at Murray State in 2011–12 and 1st year at Iowa State in 2015–16 (HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0, HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0)\n- Need final season of Cluess at Iona to determine total tenure comparison.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Tim Cluess last season Iona",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00000615/03_You-Kent-Always-Say-What-You-Want.html_c_0",
+        "HotpotQA-validation-00006022/01_Jamie-Murray.html_c_11"
+      ]
+    }
+  ]
+}

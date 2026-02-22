@@ -1,0 +1,42 @@
+{
+  "id": "Novel-afecbccb",
+  "question": "During their conversation in the narrative, who asked Felicia for her opinion on the state of Art in England?",
+  "gold_answer": "Hinze asked Felicia for her opinion on the state of Art in England.",
+  "llm_answer": "Hinze asked Felicia for her opinion on the state of Art in England.",
+  "context": [
+    {
+      "text": "know what to think. Felicia was evidently embarrassed by his reverent wonder, and, in dread lest she should seem to be playing the oracle, became somewhat confused, stumbling on her answers rather than choosing them. But this made no difference to Hinze's rapt attention and subdued eagerness of inquiry. He continued to put large questions, bending his head slightly that his eyes might be a little lifted in awaiting her reply. \"What, may I ask, is your opinion as to the state of Art in England?\" \"Oh,\" said Felicia, with a light deprecatory laugh, \"I think it suffers from two diseases--bad taste in the patrons and want of inspiration in the artists.\" \"That is true indeed,\" said Hinze, in an undertone of deep conviction. \"You have put your finger with strict accuracy on the causes of decline. To a cultivated taste like yours this must be particularly painful.\" \"I did not say there was actual decline,\" said Felicia, with a touch of _brusquerie_. \"I don't set myself up as the great personage whom nothing can please.\" \"That would be too severe a misfortune for others,\" says my complimentary ape. \"You approve, perhaps, of Rosemary's 'Babes in the Wood,' as something fresh and _naive_ in sculpture?\" \"I think it enchanting.\" \"Does he know that? Or _will_ you permit me to tell him?\"",
+      "id": "Novel-10762_c_80"
+    },
+    {
+      "text": "one generation. He is the superlatively deferential man, and walks about with murmured wonder at the wisdom and discernment of everybody who talks to him. He cultivates the low-toned _tete-a-tete,_ keeping his hat carefully in his hand and often stroking it, while he smiles with downcast eyes, as if to relieve his feelings under the pressure of the remarkable conversation which it is his honour to enjoy at the present moment. I confess to some rage on hearing him yesterday talking to Felicia, who is certainly a clever woman, and, without any unusual desire to show her cleverness, occasionally says something of her own or makes an allusion which is not quite common. Still, it must happen to her as to every one else to speak of many subjects on which the best things were said long ago, and in conversation with a person who has been newly introduced those well-worn themes naturally recur as a further development of salutations and preliminary media of understanding, such as pipes, chocolate, or mastic-chewing, which serve to confirm the impression that our new acquaintance is on a civilised footing and has enough regard for formulas to save us from shocking outbursts of individualism, to which we are always exposed with the tamest bear or baboon. Considered purely as a matter of information, it cannot any longer be important for us to learn that a British subject included in the last census holds Shakspere to be supreme in the presentation",
+      "id": "Novel-10762_c_77"
+    },
+    {
+      "text": "and the _chitarrone_. It is unnecessary to enter here into a detailed description of some other instruments which have been popular during the last three centuries, for the museum at Kensington contains specimens of many of them of which an account is given in the large catalogue of that collection. It must suffice to refer the reader to the illustrations there of the cither, virginal, spinet, clavichord, harpsichord, and other antiquated instruments much esteemed by our forefathers. Students who examine these old relics will probably wish to know something about their quality of tone. “How do they sound? Might they still be made effective in our present state of the art?” are questions which naturally occur to the musical inquirer having such instruments brought before him. A few words bearing on these questions may therefore not be out of place here. [Illustration] It is generally and justly admitted that in no other branch of the art of music has greater progress been made since the last century than in the construction of musical instruments. Nevertheless, there are people who think that we have also lost something here which might with advantage be restored. Our various instruments by being more and more perfected are becoming too much alike in quality of sound, or in that character of tone which the French call _timbre_, and the Germans _Klangfarbe_, and which professor Tyndall in his lectures on sound has translated _clang-tint_. Every musical composer knows how much more",
+      "id": "Novel-54537_c_141"
+    },
+    {
+      "text": "with no more than their due emphasis. Giving a pleasant voice to what we are all well assured of, makes a sort of wholesome air for more special and dubious remark to move in. Hence it seemed to me far from unbecoming in Felicia that in her first dialogue with Hinze, previously quite a stranger to her, her observations were those of an ordinarily refined and well-educated woman on standard subjects, and might have been printed in a manual of polite topics and creditable opinions. She had no desire to astonish a man of whom she had heard nothing particular. It was all the more exasperating to see and hear Hinze's reception of her well-bred conformities. Felicia's acquaintances know her as the suitable wife of a distinguished man, a sensible, vivacious, kindly-disposed woman, helping her husband with graceful apologies written and spoken, and making her receptions agreeable to all comers. But you would have imagined that Hinze had been prepared by general report to regard this introduction to her as an opportunity comparable to an audience of the Delphic Sibyl. When she had delivered herself on the changes in Italian travel, on the difficulty of reading Ariosto in these busy times, on the want of equilibrium in French political affairs, and on the pre-eminence of German music, he would know what to think. Felicia was evidently embarrassed by his reverent wonder, and, in dread lest she should seem to be playing the oracle,",
+      "id": "Novel-10762_c_79"
+    },
+    {
+      "text": "had been ill with dysentery, but she never even stayed in bed for breakfast till it was impossible for her to move from bed. ‘During our time at Hadji we had about forty Serbian patients, a few wounded, but mostly sick. Dr. Inglis did a few minor operations, but her last major one was a gastro-enterotomy performed on one of our own chauffeurs, a Serb, Joe, by name. The operation took three hours and was entirely satisfactory, although Dr. Inglis did not consider him strong enough to travel back to England. She was particularly fond of this man, and took no end of trouble with him. Even after she became so very ill she used constantly to visit him. ‘The Serbs entertained us to several picnics, which we duly returned. Dr. Inglis was always an excellent hostess, so charming and genial to every one, and so eager that both entertainers and entertained should equally enjoy themselves. Provided her permission was asked first, and duty hours or regular meals not neglected, she was always keen every one should enjoy themselves riding, walking, or going for picnics. If any one was ill, she never insisted on their getting up in spite of everything, as most doctors, and certainly all matrons, wish us to do. She was strict during duty hours, and always required implicit obedience to her orders--whatever they were. She was always so well groomed--never a hair",
+      "id": "Novel-51410_c_265"
+    }
+  ],
+  "cot_scratchpad": "- Hinze is explicitly named as the one who asks Felicia \"What, may I ask, is your opinion as to the state of Art in England?\" (Novel-10762_c_80).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "During their conversation in the narrative, who asked Felicia for her opinion on the state of Art in England?",
+      "doc_ids": [
+        "Novel-10762_c_80",
+        "Novel-10762_c_77",
+        "Novel-54537_c_141",
+        "Novel-10762_c_79",
+        "Novel-51410_c_265"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter is the superior in charge of the Summit Hotel, and Frida Jansen is one of the girls who help there. Miss Trotter had selected Frida Jansen for a position at the hotel, at the request of Mr. Calton's doctor.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Miss Trotter as the superior in charge of the Summit Hotel and mentions her selection of Frida Jansen for a position, which aligns partially with the Gold Answer. However, it introduces the detail that the selection was at the request of Mr. Calton's doctor, which is not clearly supported by the retrieved context. Additionally, the relationship between Miss Trotter's resignation and Frida Jansen's selection is not addressed, leading to partial correctness and incomplete evidence coverage."
+  }
+}

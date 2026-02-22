@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005497",
+  "question": "What American politician from Tennessee born December 13, 1943 is related to former United States Congressman Harold Ford Jr. as well as former Congressman Harold Ford Sr.",
+  "gold_answer": "Emmitt H. Ford",
+  "llm_answer": "Emmitt H. Ford, born December 13, 1943, is an American politician from Tennessee and is the uncle of former United States Congressman Harold Ford Jr. and the brother of former Congressman Harold Ford Sr.",
+  "context": [
+    {
+      "text": "Emmitt H. Ford (December 13, 1943 – November 10, 2014) was an American politician from Tennessee. He represented the 86th district encompassing Shelby County from 1975–1981. He was also an uncle of former United States Congressman Harold Ford Jr. Early life Ford was one of twelve children born to N. J. and Vera Ford. Growing up in the West Junction and Riverside neighborhoods of South Memphis , he graduated from Geeter High School. Also, he attended Tennessee State University . Political career and legal problems He succeeded his brother Harold Ford Sr. as a member of the Tennessee State House of Representatives from the 86th district, but resigned in 1981 after a conviction for fraud. Rufus E. Jones was named to Ford's seat. Ford was sentenced to federal prison in 2000 for tax evasion. Life after politics For over twenty years, he operated a meat market in South Memphis . He died at Methodist Hospital in Memphis, Tennessee on November 10, 2014. References v t e",
+      "id": "HotpotQA-validation-00005497/00_Emmitt-Ford.html_c_0"
+    },
+    {
+      "text": "Harold Eugene Ford Jr. (born May 11, 1970) is an American financial managing director, pundit , author, and former U.S. Congressman who served from 1997 to 2007 in the United States House of Representatives as a member of the Democratic Party from Tennessee's 9th congressional district , centered in Memphis . He is a member of the Ford political family from Memphis, and is the son of former Congressman Harold Ford Sr. , who held the same seat for 22 years. In 2006, Ford made an unsuccessful bid for the U.S. Senate seat vacated by the retiring Bill Frist . He was also the last chairman of the Democratic Leadership Council (DLC). Between 2011 and 2017, Ford worked for Morgan Stanley as a managing director. He also regularly appeared on television on politically related programs on NBC 's Meet the Press , MSNBC , CNN , CNBC . On December 1, 2020, Ford was named Vice Chairman of Corporate & Institutional Banking at PNC Financial Services . He and his wife live in New York City and have a daughter, Georgia Walker,  and a son, Harold Eugene III. Ford also wrote a book, More Davids Than Goliaths: A Political Education , published in 2010. In April 2021, Ford joined Fox News as a political contributor. He frequently appears on Special Report as a panel member and was named a co-host of The Five in January",
+      "id": "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_0"
+    },
+    {
+      "text": "Ophelia Ford (born July 5, 1950) is a former member of the Tennessee Senate . She is the younger sister of former state senator John Ford and former Congressman Harold Ford, Sr. , and the aunt of former Congressman Harold Ford, Jr. She represented Senate District 29 , which covers South Memphis and North Memphis . Biography John Ford, who had been a member of the Tennessee Senate for over 30 years, resigned in 2005 after he was indicted in Operation Tennessee Waltz . Ophelia Ford ran for her brother's state senate seat and defeated Henri Brooks by 20 votes in the special Democratic primary . She went on to defeat Republican candidate Terry Roland by 13 votes in the special general election . Both elections fell under allegations of improprieties. Names of deceased persons and felons were found on the rolls, and dozens of additional votes were counted from voters living outside the district. Further investigation of the election revealed that one of the election officials purportedly certifying the name of many of the voters in question was actually in New York City the day of the election and that her place was taken, without authorization, by a relative. The Tennessee Senate initially voted along party lines to void the election. Ophelia Ford sued the State Senate and obtained an injunction from a federal court which upheld the election until the senate met provisions under the Voting Rights Act . The State Senate, having authorization to so act from the court’s order, voted to void the election by",
+      "id": "HotpotQA-validation-00005497/02_Ophelia-Ford.html_c_0"
+    },
+    {
+      "text": "school in the Westwood neighborhood, although graduated from the private St. Albans School , a prestigious university-preparatory school in Washington, D.C. , which he attended after his father became a Congressman. He went on to earn a B.A. in American history from the University of Pennsylvania in 1992. Early career and legal education After graduation, Ford went into government, serving as a staff aide to the Senate Budget Committee . In 1993, he became special assistant at the United States Department of Commerce . Ford returned to university for a J.D. degree from the University of Michigan Law School in 1996. During his campaign for the House of Representatives, he sat for and failed the Tennessee bar exam ; he said that he intended to try again; as of 2014, he had not. House of Representatives career When Harold Sr. decided not to seek a twelfth term in Congress in 1996, Harold Jr. entered the race and became the favorite in the Democratic primary, which was widely regarded as the real contest in the heavily Democratic, Black-majority 9th district. Ford arranged his schedule for his last semester of law school so he would not have Monday or Friday classes and would be able to fly home to Memphis for an extended weekend each week to continue his campaign. As was expected, he easily won the Democratic primary , followed by his election in November. Taking office at the age of twenty-six, he was one of the youngest members of Congress",
+      "id": "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_2"
+    },
+    {
+      "text": "Ford joined Fox News as a political contributor. He frequently appears on Special Report as a panel member and was named a co-host of The Five in January 2022. Family and education Ford was born in Memphis, Tennessee, the eldest son of former Representative Harold Ford Sr. and Dorothy Bowles Ford. He has two brothers, Jake and Isaac, as well as two half-siblings , Andrew and Ava, from his father's second marriage. The Ford family has long been prominent in Memphis's Black community. Ford's grandfather, N. J. Ford, established a funeral home, which gave the family a broad network in the community. E.H. Crump , a prominent white Democrat, dominated city and state politics in the early 20th century and befriended N.J. Ford. Ford's uncle is John N. Ford , who is Harold Sr.'s brother and was a member of the Tennessee State Senate until he was convicted on federal bribery charges in 2007 as part of the Operation Tennessee Waltz scandal . Ford lived the first years of his life within the living quarters of his family-owned business N.J. Ford And Sons Funeral Home, which at the time was located in the Riverside neighborhood. He was baptized at his family church, Mt. Moriah-East Baptist Church. He attended Double Tree Elementary School, a public Montessori school in the Westwood neighborhood, although graduated from the private St. Albans School , a prestigious university-preparatory school in Washington,",
+      "id": "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Emmitt H. Ford (TN politician) born Dec 13, 1943 (Novel-xxxx_c_0).\n- He is uncle of Harold Ford Jr. (Novel-xxxx_c_0).\n- Brother of Harold Ford Sr. (Novel-xxxx_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What American politician from Tennessee born December 13, 1943 is related to former United States Congressman Harold Ford Jr. as well as former Congressman Harold Ford Sr.",
+      "doc_ids": [
+        "HotpotQA-validation-00005497/00_Emmitt-Ford.html_c_0",
+        "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_0",
+        "HotpotQA-validation-00005497/02_Ophelia-Ford.html_c_0",
+        "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_2",
+        "HotpotQA-validation-00005497/01_Harold-Ford-Jr.html_c_1"
+      ]
+    }
+  ]
+}

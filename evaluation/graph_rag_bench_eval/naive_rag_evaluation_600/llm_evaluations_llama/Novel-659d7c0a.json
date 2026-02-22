@@ -1,0 +1,12 @@
+{
+  "id": "Novel-659d7c0a",
+  "question": "Which musical instruments were used by the Aztecs?",
+  "gold_answer": "The Aztecs used the huehuetl and the teponaztli as musical instruments.",
+  "llm_answer": "According to the text, the Aztecs used the following musical instruments:\n\n1. Whistles: They had a small whistle formed of baked clay, and some specimens were found to be grotesque in shape, representing caricatures of the human face and figure, birds, beasts, and flowers.\n2. Drums: They had drums, as mentioned in the list of musical instruments.\n3. Bells: They had a cluster of bells, which were similar to the German horse bells, and were called \"yotl\".\n4. Flutes: They had flutes, which were made of pottery or bone.\n5. Trumpets: They had trumpets, as mentioned in the list of musical instruments.\n6. Rattles: They had rattles, which were made of a gourd with holes pierced in it and a wooden handle, and contained little pebbles.\n7. Sonorous metal: They had a sonorous metal, which was struck with a mallet, but it is not clear if it was a gong or a bell.\n\nIt is also mentioned that the Aztecs had a musical system, and that their instruments were used to accompany their songs and dances.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies the huehuetl and teponaztli as the musical instruments used by the Aztecs, but the Model Answer does not mention these instruments explicitly. Instead, it lists other instruments like whistles, drums, bells, flutes, trumpets, rattles, and sonorous metal, which are mentioned in the context but not directly tied to the Aztecs in the retrieved text. While the Model Answer provides additional details, it does not focus on the key instruments highlighted in the Gold Answer, and some claims are not clearly supported by the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c458c47",
+  "question": "In the description of the natural environment, which region is specifically characterized in the narrative as having luxuriant vegetation?",
+  "gold_answer": "Vegetation is luxuriant in Yucatan.",
+  "llm_answer": "The region specifically characterized in the narrative as having luxuriant vegetation is **the Rif, or mountainous region**, which borders the Mediterranean.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the Rif region as having luxuriant vegetation, which is not supported by the retrieved context. The Gold Answer specifies Yucatan as the region with luxuriant vegetation, but this information is not present in the retrieved context. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

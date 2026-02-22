@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a43ea44f",
+  "question": "In the aftermath of a dramatic rescue by the river, with whom did Rudolph stand, sharing in the tension and uncertainty of their escape?",
+  "gold_answer": "Rudolph stood with Mrs. Forrester.",
+  "llm_answer": "The context does not specify with whom Rudolph stood after the river rescue; it only shows Heywood and others reacting to the event, but Rudolph’s immediate companion in the escape is not identified.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify Rudolph's companion after the river rescue, which contradicts the Gold Answer that clearly identifies Mrs. Forrester as the person with whom Rudolph stood. While the Model Answer is faithful to the retrieved context, it fails to provide the correct answer and misses the key fact from the Gold Answer."
+  }
+}

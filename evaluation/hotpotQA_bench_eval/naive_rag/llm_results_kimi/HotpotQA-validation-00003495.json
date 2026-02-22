@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003495",
+  "question": "Which is the younger brother in the composer duo that composed Aati Kya Khandala?",
+  "gold_answer": "Lalit",
+  "llm_answer": "The evidence does not specify which brother is younger.",
+  "context": [
+    {
+      "text": "\" Aati Kya Khandala \" ( transl. Will you come to Khandala ) is a 1998 Hindi song sung by Indian actor Aamir Khan in his singing debut, along with playback singer Alka Yagnik . The music was composed by Jatin–Lalit for the soundtrack of the 1998 Hindi film Ghulam , featuring lyrics penned by Nitin Raikwar. About the song In the film, Alisha ( Rani Mukerji ) is upset after a fight with her father. Her friend and lover Sidhu ( Aamir Khan ) tries to cheer her up by singing the song \"Aati Kya Khandala\". Literally, the song is a request to come to Khandala , a scenic holiday location near Mumbai , the city where the film is not situated. The song was sung by Aamir Khan and Alka Yagnik . Reception and impact The song became an instant hit and is one of Bollywood's most popular songs ever. The song was also the first in a spate of songs sung by actors in Bollywood movies , and was the inspiration for many of these, including \"Apun Bola\" sung by Shah Rukh Khan for Josh , also written by Nitin Raikwar. In more recent times, it was rumored that Dhoom 3 would feature a song sung by Aamir Khan in the vein of \"Aati Kya Khandala\". The song",
+      "id": "HotpotQA-validation-00003495/00_Aati-Kya-Khandala.html_c_0"
+    },
+    {
+      "text": "Majrooh Sultanpuri , Gopaldas Neeraj , Anand Bakshi , Sameer , Javed Akhtar and singers including Amit Kumar , Kumar Sanu , Abhijeet Bhattacharya , Udit Narayan , Hariharan , Sonu Nigam , K.S. Chithra , Anuradha Paudwal , Alka Yagnik , Kavita Krishnamurthy , Sadhana Sargam , Shaan , Babul Supriyo and many others. Veteran singers Lata Mangeshkar , Asha Bhosle and Jagjit Singh have also sung in a few movies for the duo. During the last few years of their joint career, their music albums contained several songs composed by other musicians. This practice was not liked by Jatin–Lalit; however, the producer and director insisted on it.  In Karan Johar 's Kabhi Khushi Kabhie Gham , two of the tracks were composed by Sandesh Shandilya . In Chalte Chalte , Aadesh Shrivastava composed several songs, while in Pyaar Kiya To Darna Kya , one song was composed by Himesh Reshammiya and Sajid–Wajid . They were among the first composers to write songs performed by Bollywood film stars rather than playback singers. They specially composed \" Aati Kya Khandala \" in the film Ghulam for the lead",
+      "id": "HotpotQA-validation-00003495/01_JatinLalit.html_c_4"
+    },
+    {
+      "text": "that Dhoom 3 would feature a song sung by Aamir Khan in the vein of \"Aati Kya Khandala\". The song \"Aati Kya Khandala\" has also been blamed for eve-teasing (a term used in India for minor forms of sexual harassment , usually verbal, carried out in public) as eve-teasers have been reported to sing the song as part of eve-teasing. In popular culture The song was used in the 2001 film Kabhi Khushi Kabhi Gham . Notes References External links Music Video on YouTube",
+      "id": "HotpotQA-validation-00003495/00_Aati-Kya-Khandala.html_c_1"
+    },
+    {
+      "text": "by Bollywood film stars rather than playback singers. They specially composed \" Aati Kya Khandala \" in the film Ghulam for the lead actor Aamir Khan . Later, they also composed a song for Sanjay Dutt to sing in the film Khoobsurat . Jatin–Lalit has composed the highest-selling Bollywood soundtrack of the year on four occasions – Dilwale Dulhania Le Jayenge in 1995, Kuch Kuch Hota Hai in 1998, Mohabbatein in 2000, and Kabhi Khushi Kabhie Gham in 2001. The duo has been accused of plagiarism. Indian music critic Karthik Srinivasan , on his website ItwoFS , which tracks plagiarism in the Indian film music industry, lists 23 such tunes. Among those is Suno Zara from the movie Bada Din (1998) allegedly taken from Anne Murray ’s You Needed Me (1978). The separation and reunion After working for almost 16 years together, they announced that they would be parting ways due to personal problems. Reasons for the separation still are unknown. In February 2020, the Jatin–Lalit duo came together and organised a concert in Mumbai which was very well received and in which numerous leading Bollywood singers performed. Solo careers Lalit and Jatin have continued to compose separately. Lalit scored the 2007 film, Life Mein Kabhie",
+      "id": "HotpotQA-validation-00003495/01_JatinLalit.html_c_5"
+    },
+    {
+      "text": "Jatin–Lalit is an Indian music director duo consisting of brothers Jatin Pandit and Lalit Pandit. They are celebrated for their contribution to Bollywood music during the 1990s and early 2000s. The duo is known for their melodious compositions and has been associated with several hit films. Some of their most famous works include Dilwale Dulhania Le Jayenge , Kuch Kuch Hota Hai , Mohabbatein , Kabhi Khushi Kabhie Gham , and Pyaar To Hona Hi Tha . Jatin–Lalit is their professional name and appears on the covers of their music albums, CDs and DVDs. Early life Jatin and Lalit come from a musical family originating from Pili Mandori village in Hissar district of Haryana state. Classical vocalist Pandit Jasraj was their uncle. They received their musical education primarily from their father, Pandit Pratap Narayan. They were taught guitar and piano by Pyarelal Ramprasad Sharma, of the Laxmikant–Pyarelal duo. Hindi film actresses Sulakshana Pandit and Vijayta Pandit are their sisters, and late music director Aadesh Shrivastava was their brother-in-law, being married to the younger of the sisters, Vijayta. Musical career The creation of the pair Jatin–Lalit was by accident. In the early 80s, Jatin teamed up",
+      "id": "HotpotQA-validation-00003495/01_JatinLalit.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Aati Kya Khandala composer duo is Jatin–Lalit (HotpotQA-validation-00003495/00_Aati-Kya-Khandala.html_c_0).\n- Jatin–Lalit are brothers Jatin Pandit and Lalit Pandit (HotpotQA-validation-00003495/01_JatinLalit.html_c_0).\n- Vijayta Pandit is their younger sister, so Lalit is younger than Jatin (HotpotQA-validation-00003495/01_JatinLalit.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which is the younger brother in the composer duo that composed Aati Kya Khandala?",
+      "doc_ids": [
+        "HotpotQA-validation-00003495/00_Aati-Kya-Khandala.html_c_0",
+        "HotpotQA-validation-00003495/01_JatinLalit.html_c_4",
+        "HotpotQA-validation-00003495/00_Aati-Kya-Khandala.html_c_1",
+        "HotpotQA-validation-00003495/01_JatinLalit.html_c_5",
+        "HotpotQA-validation-00003495/01_JatinLalit.html_c_0"
+      ]
+    }
+  ]
+}

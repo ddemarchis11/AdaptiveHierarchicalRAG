@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2376a223",
+  "question": "With which character from German literature is Uncle Toby, a character from Laurence Sterne's 'Tristram Shandy', compared during literary analysis?",
+  "gold_answer": "Uncle Toby is compared with Tellheim in literary analysis.",
+  "llm_answer": "The evidence provided does not specify with which character from German literature Uncle Toby is compared during literary analysis.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the comparison, which is incorrect as the Gold Answer clearly identifies Tellheim as the character Uncle Toby is compared with. The retrieved context does not explicitly mention Tellheim, but the Model Answer fails to address the Gold Answer's core fact and does not provide any relevant information to answer the question."
+  }
+}

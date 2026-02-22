@@ -1,0 +1,12 @@
+{
+  "id": "Novel-edd74751",
+  "question": "During Chris Calton's convalescence at the Summit House, which staff member was specifically assigned to attend to his needs and comfort?",
+  "gold_answer": "Frida Jansen attended to Chris Calton.",
+  "llm_answer": "During Chris Calton's convalescence at the Summit House, the under-housekeeper was specifically assigned to attend to his needs and comfort.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the under-housekeeper as the staff member assigned to attend to Chris Calton's needs, whereas the Gold Answer specifies Frida Jansen. The retrieved context supports the Gold Answer, explicitly stating that Frida Jansen was selected to look after Chris Calton. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact mentioned in the Gold Answer."
+  }
+}

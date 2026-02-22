@@ -1,0 +1,12 @@
+{
+  "id": "Novel-710f8505",
+  "question": "What does Madame Palmer's presence at the Theatre, where the play Harry the 4th was performed and she is known to be the King's mistress, suggest about the King's interests in both personal relationships and cultural events beyond his official royal duties?",
+  "gold_answer": "The King's mistress, Madame Palmer, was at the Theatre where Harry the 4th was shown, suggesting the King's interests include personal relationships and cultural events.",
+  "llm_answer": "Madame Palmer’s public appearance at a performance of *Harry the 4th*—while openly acknowledged as the King’s mistress—shows that the King’s private pleasures and his cultural patronage overlap: he is willing to have his favored companion visible in the play-going world, indicating that personal infatuation and theatrical entertainment both command his attention outside the sphere of formal royal business.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, elaborating on the King's overlapping interests in personal relationships and cultural events. It is fully supported by the context, which mentions Madame Palmer's presence at the theatre and her status as the King's mistress. The Model Answer also includes all key facts from the Gold Answer, while providing additional relevant insights without contradicting the retrieved context."
+  }
+}

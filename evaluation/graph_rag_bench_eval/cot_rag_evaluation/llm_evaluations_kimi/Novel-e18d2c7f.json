@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e18d2c7f",
+  "question": "During the confrontation about Eily's mysterious jewels, to whom did Dr. O'Shaughnessy speak in order to explain or demand information?",
+  "gold_answer": "Dr. O'Shaughnessy spoke to Dennis Macarthy.",
+  "llm_answer": "The evidence does not specify to whom Dr. O'Shaughnessy spoke during the confrontation about Eily’s jewels; therefore, that information is not provided.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that Dr. O'Shaughnessy spoke to Dennis Macarthy, which is supported by the retrieved context. The Model Answer incorrectly claims that the evidence does not specify to whom Dr. O'Shaughnessy spoke, failing to provide the correct information and contradicting the context."
+  }
+}

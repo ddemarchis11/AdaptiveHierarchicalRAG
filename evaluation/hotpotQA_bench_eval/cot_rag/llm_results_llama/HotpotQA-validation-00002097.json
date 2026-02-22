@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002097",
+  "question": "Which genus has more species in it, Othonna or Stangeria?",
+  "gold_answer": "Othonna",
+  "llm_answer": "Based on the provided evidence, the genus with more species in it is Othonna. \n\nOthonna has approximately 90 species, while Stangeria has only 1 species, Stangeria eriopus.",
+  "context": [
+    {
+      "text": "Othonna is a genus of approximately 90 species of succulent or subsucculent perennial herbs or shrubs, with its center of diversity in the Greater Cape Floristic Region (GCFR) of South Africa but some species' ranges include southern Namibia , Angola , and Zimbabwe . The genus was established by Linnaeus in 1753 containing 14 species, however, of those original species, only four are still retained in Othonna , while the others have been transferred to different genera including Cineraria , Euryops , Hertia , Ligularia , Senecio , and Tephroseris . The genus Othonnna is known to be monophyletic. In 2012, a new genus Crassothonna B. Nord. was erected with 13 species transferred from Othonna . A complete modern taxonomic treatment of the genus is being undertaken by the Compton Herbarium and the South African National Biodiversity Institute . The first part, a revision of the Othonnna bulbosa group (those species that are geophytic with an aerial stem), was published in 2019. The name Othonna is derived from the Ancient Greek ὄθοννα and the Latin othone, which is a linen cloth or napkin, in allusion to the downy covering of some of the earlier known species. Several species in the Othonna and Crassothonna are",
+      "id": "HotpotQA-validation-00002097/00_Othonna.html_c_0"
+    },
+    {
+      "text": "Crassothonna capensis (previously Othonna capensis ), also known as little pickles (USA) , ruby necklace (Australia), Cape aster, Cape Othonna , and Bobbejaankool (Afrikaans), is a species of the genus Crassothonna previously ( Othonna ) in the family Asteraceae , and is a native of the Eastern Cape of South Africa . It is a native highveld species that originates from the southern Drakensberg region. Description This species is a low-growing, succulent, spreading ground cover with finger-like, blue-grey leaves, spirally arranged, which become tipped with maroon in dry conditions. It has yellow daisy-like flowers on long, slender stems. Taxonomy It was described by L.H. Bailey in 1901 and published in the Cyclopedia of American Horticulture replacing the original description and name from 1865 Othonna crassifolia Harv. In turn, the genus was changed from Othonna by Nordenstam et al., who erected the new genus Crassothonna for the clade of Othonna species O. sedifolia, O. alba and O. capensis . The new name for this species is therefore Crassothonna capensis (L.H.Bailey) B.Nord. Distribution and habitat This species is endemic to the Eastern Cape Province in semi-arid Karoo scrub and dry, rocky flats, often in",
+      "id": "HotpotQA-validation-00002097/03_Othonna-capensis.html_c_0"
+    },
+    {
+      "text": "England. He was an English physician and naturalist who worked in South Africa. The binomial name comes from the Greek prefix erio- , meaning \"woolly\", and suffix -pus , \"footed\", referring to the woolly petiole bases. It was named in honour of William Stanger , a former surveyor-general of Natal . Common names includes Natal grass cycad, Hottentot's head and Stangeria. Cytology The species has 2n = 16 chromosomes . The cladogram shows twelve metacentric, two submetacentric and two acrocentric chromosomes. Systematics and Taxonomy The closest relative to Stangeria eriopus was thought to be the genus Bowenia , both placed in the family Stangeriaceae . Another candidate is the extinct Tertiary genus Eostangeria . However, molecular phylogenetic studies show that Stangeria is more closely related to the genus Ceratozamia or to Zamia and Microcycas than to Bowenia , implying that the Stangeriaceae are not a monophyletic group. Uses In South African traditional medicine, the thickened subterranean tuber stem serves both for the production of various magical tinctures and as an emetic. The dried tuber is also mixed with feed to combat internal parasites in cattle . For these purposes, the plants are collected and sold, this goes so far that the stock is now endangered.",
+      "id": "HotpotQA-validation-00002097/01_Stangeria.html_c_6"
+    },
+    {
+      "text": "is also a carrier of the fungus Guignardia mangiferae , which causes great damage to citrus fruit, but remains on the plant without symptoms. The larvae of the butterfly Callioratis millari feed on the leaves of the species. The Stangeria eriopus can be asexually reproduced from root parts. It is the first species of cycad that has been propagated using tissue culture, which simplifies the conservation of the species. Discovery When Gustav Kunze discovered the first plants, he incorrectly designated them as ferns probably due to the primitive nerves, under the name Lomaria coriacea . In 1839 he described it again as a separate species of fern as Lomaria eriopus . It was not until 1851 that William Stanger discovered that they were cycads when he observed the cones. He sent samples to England, where they were described by Thomas Moore described the Art 1853 as Stangeria paradoxa and thus also established the genus. However, since the epithet \"eriopus\" of Kunze was validly described, Henri Ernest Baillon with his description in 1892 the correct name as Stangeria eriopus . Etymology The genus was named in honor of William Stanger (1811-1854), who sent the first cones to England. He was an English physician and naturalist who worked in South Africa. The binomial name comes from the Greek prefix erio- , meaning",
+      "id": "HotpotQA-validation-00002097/01_Stangeria.html_c_5"
+    },
+    {
+      "text": "Stangeria eriopus is a cycad endemic to southern Africa . It is the sole species in the genus Stangeria . Description Stangeria eriopus is a very long-lived, perennial, evergreen cycad. The stalked, feathered, fern-like leaves are between 25 centimeters and two meters long, with the petiole comprising one third to one half of the overall length (in both varieties). They are pinnately-veined, which distinguishes the species from all other cycads. The petiole comprises half the length of the leaf. The young leaves are bent in bud position, the tip appears rolled up. Young leaves are dotted with short, gray hairs ( trichomes ), which usually fall off quickly and only stick to the petiole. These trichomes are unbranched and transparent or colored. The species occurs as two variable forms or varieties. The forest form, growing in regions with higher rainfall, is characterized by large, wide leaves that can reach up to 2 m in length. The grassland form, growing in regions subject to annual fire and drought, has shorter leaves with a thicker cuticle that may only be 30 cm long. Tubers Underground tuber stem Stems are completely subterranean and the root tuber is shaped like a carrot , which reaches a diameter of 10 to 25 centimeters. The tip bifurcates into several shoot tips. These form at the",
+      "id": "HotpotQA-validation-00002097/01_Stangeria.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Othonna has approximately 90 species (Novel-00002097_c_0).\n- Stangeria has 1 species (Novel-00002097_c_0).\n- The question asks for the genus with more species (Novel-00002097_c_0).\n- The current evidence does not provide enough information to answer the question (Novel-00002097_c_0).\n- Missing: the number of species in Othonna and Stangeria (Novel-00002097_c_0).\n- next_query: 'How many species are in Othonna?' (Novel-00002097_c_0)\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which genus has more species in it, Othonna or Stangeria?",
+      "doc_ids": [
+        "HotpotQA-validation-00002097/00_Othonna.html_c_0",
+        "HotpotQA-validation-00002097/03_Othonna-capensis.html_c_0",
+        "HotpotQA-validation-00002097/01_Stangeria.html_c_6",
+        "HotpotQA-validation-00002097/01_Stangeria.html_c_5",
+        "HotpotQA-validation-00002097/01_Stangeria.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "id": "Novel-9a3c2c64",
+  "question": "How is the identity of the Dean established within the narrative, considering his role as the father of Sheba, his alternate name as Augustin, his interactions with Darbey, and the information he receives from Sir Tristram?",
+  "gold_answer": "The Dean is the father of Sheba, is also known as Augustin, sees Darbey, and is told information by Sir Tristram, establishing his identity and central role.",
+  "llm_answer": "The Dean is identified as the father of Sheba and Salome and is addressed by Georgiana as “Gus” and “Augustin,” confirming Augustin as his alternate name. His interactions with Darbey and receipt of information from Sir Tristram occur without any textual indication that these challenge or alter his established identity as the Dean of St. Marvells.",
+  "context": [
+    {
+      "text": "TRISTRAM. Get back then--get back! [_SIR TRISTRAM and GEORGIANA pace up and down excitedly._ HATCHAM. Right, Sir. There's only one mortal fear I've got about our Dandy. GEORGIANA _and_ SIR TRISTRAM. What's that? HATCHAM. He 'asn't found out about 'is tail yet, sir, and when he does it'll fret him, as sure as my name's Bob Hatcham. SIR TRISTRAM. Keep the stable pitch dark--he mayn't notice it. HATCHAM. Not to-night, sir, but he's a proud 'orse and what'll he think of 'isself on the 'ill to-morrow? You and me and the lady, sir--it 'ud be different with us, but how's our Dandy to hide his bereavement? [_HATCHAM goes out of the window with SIR TRISTRAM as THE DEAN enters, followed by BLORE, who carries a lighted lantern._ THE DEAN. [_Looking reproachfully at GEORGIANA._] You have returned, Georgiana? GEORGIANA. Yes, thank ye. THE DEAN. And that animal? GEORGIANA. In our stables, safe and snug. THE DEAN. [_With a groan._] Oh! GEORGIANA. You can sleep to-night",
+      "id": "Novel-40700_c_61",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 36.88882
+    },
+    {
+      "text": "and coaching coat. The girls cling to each other; THE DEAN recoils._ GEORGIANA. Well, Gus, my boy, how are you? THE DEAN. [_Shocked._] Georgiana! GEORGIANA. [_Patting THE DEAN'S cheeks._] You're putting on too much flesh, Augustin; they should give you a ten-miler daily in a blanket. THE DEAN. [_With dignity._] My dear sister! GEORGIANA. Are these your two-year-olds? [_To SALOME._] Kiss your Aunt! [_She kisses SALOME with a good hearty smack._] [_To SHEBA._] Kiss your Aunt! [_She embraces SHEBA, then stands between the two girls and surveys them critically, touching them alternately with the end of her cane._] Lord bless you both! What names do you run under? SALOME. I--I am Salome. SHEBA. I am Sheba. GEORGIANA. [_Looking at SHEBA._] Why, little 'un, your stable companion could give you a stone and then get her nose in front! THE DEAN. [_Who has been impatiently fuming._] Georgiana, I fear these poor innocents don't follow your well-intentioned but inappropriate illustrations. GEORGIANA. Oh, we'll soon wake 'em up. Well, Augustin, my boy, it's nearly twenty years since you and",
+      "id": "Novel-40700_c_28",
+      "doc_id": "Novel-40700",
+      "community_id": 128,
+      "score": 34.114105
+    },
+    {
+      "text": "Ten--ten--twenty--five--five, fifty. Fifty pounds! The very sum Georgiana urged me to--oh! [_To BLORE, waving him away._] Leave me--go to bed--go to bed--go to bed! [_BLORE is going._] Blore! BLORE. Sir? THE DEAN. What made you tempt me with these at such a moment? BLORE. Temp' you, sir! The window was hopen, and I feared they might blow away. THE DEAN. [_Catching him by the coat collar._] Man, what were you doing at St. Marvells Races last summer? BLORE. [_With a cry, falling on his knees._] Oh, sir! Oh, sir! I knew that 'igh-sperited lady would bring grief and sorrow to the peaceful, 'appy Deanery! Oh, sir, I _'ave_ done a little on my hown account from time to time on the 'ill, halso hon commission for the kitchen! THE DEAN. I knew it--I knew it! BLORE. Oh, sir, you are a old gentleman--turn a charitable 'art to the Races! It's a wicious institution what spends more ready money in St. Marvells than us good people do in a year. THE DEAN. Get up, Blore--get up. Oh, Edward Blore, Edward",
+      "id": "Novel-40700_c_69",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 33.62872
+    },
+    {
+      "text": "custody while my face was unofficially held downwards in the mud. The villain has been traced back to the Deanery. SIR TRISTRAM. Go away! HANNAH. Come away! NOAH. The man was a unknown lover of my nooly made wife! GEORGIANA. You mustn't bring your domestic affairs here; this is a subject for your own fireside of an evening. [_THE DEAN appears outside the window with SALOME, SHEBA, TARVER and DARBEY._ THE DEAN. [_Outside._] Come in, Major Tarver--come in, Mr. Darbey! NOAH. That's his voice! _THE DEAN enters, followed by SALOME, TARVER, SHEBA and DARBEY._ NOAH. [_Confronting THE DEAN._] My man. HANNAH. No, no, Noahry! GEORGIANA. You're speaking to Dr. Jedd, the Dean of St. Marvells. NOAH. I'm speaking to the man I took last night--the culprit as 'as allynated the affections of my wife. SIR TRISTRAM. Wait--one moment! [_Going out at the window._ [_SALOME and TARVER go into the Library and sit at the writing-table. DARBEY sits in an arm-chair with SHEBA on the arm._ THE DEAN. [_Mildly._]",
+      "id": "Novel-40700_c_138",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 33.607635
+    },
+    {
+      "text": "Oh, we'll soon wake 'em up. Well, Augustin, my boy, it's nearly twenty years since you and I munched our corn together. THE DEAN. Our estrangement has been painfully prolonged. GEORGIANA. Since then we've both run many races, though we've never met in the same events. The world has ridden us both pretty hard at times, Gus, hasn't it? We've been punished and pulled and led down pretty often, but here we are [_tapping him sharply in the chest with her cane_] sound in the wind yet. You're doing well, Gus, and they say you're going up the hill neck-and-neck with your Bishop. I've dropped out of it--the mares don't last, Gus--and it's good and kind of you to give me a dry stable and a clean litter, and to keep me out of the shafts of a \"Shrewsbury and Talbot.\" SHEBA. [_In a whisper to SALOME._] Salome, I don't quite understand her--but I like Aunt. SALOME. So do I. But she's not my idea of a weary fragment or a chastened widow. THE DEAN. My dear Georgiana, I rejoice that you meet me in this affectionate spirit, and when--pardon me--when you have a little caught the _tone_ of the Deanery---- GEORGIANA. Oh, I'll",
+      "id": "Novel-40700_c_29",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 32.711285
+    },
+    {
+      "text": "But when I touched your hand last night, you reared! GEORGIANA. Yes, Tris, old man, but love is founded on mutual esteem; last night you hadn't put my brother's head in that nose-bag. [_They go together to the fireplace, he with his arm round her waist._ SHEBA. [_Looking in at the door._] How annoying! There's Aunt and Sir Tristram in this room--Salome and Major Tarver are sitting on the hot pipes in the conservatory--where am I and Mr. Darbey to go? Papa! Come back! [_She withdraws quickly as THE DEAN enters through the Library carrying a paper in his hand; he has now resumed his normal appearance._ THE DEAN. Home! What sonorous music is in the word! Home, with the secret of my sad misfortune buried in the bosoms of a faithful few. Home, with my family influence intact! Home, with the sceptre of my dignity still tight in my grasp! What is this I have picked up on the stairs? [_Reads with a horrified look, as HATCHAM enters at the window._ HATCHAM. Beg pardon, Sir Tristram. SIR TRISTRAM. What is it? HATCHAM. The chemist has just brought the annal_i_sis. SIR TRISTRAM. Where is he? [_SIR TRISTRAM and GEORGIANA",
+      "id": "Novel-40700_c_129",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 31.233246
+    },
+    {
+      "text": "shoes for something! SHEBA. Salt in her bed, Salome! SALOME. Yes, and the peg out of the rattling window! [_They grip hands earnestly._ THE DEAN. Good gracious! Bless me! Girls, your Aunt Georgiana slept at the \"Wheatsheaf,\" at Durnstone, last night, and is coming on this morning! SALOME _and_ SHEBA. To-day! THE DEAN. Blore, tell Willis to get the chaise out. [_BLORE hurries out._ THE DEAN. Salome, child, you and I will drive into Durnstone--we may be in time to bring your Aunt over. My hat, Sheba! Quick! [_The clang of the gate bell is heard in the distance._] The bell! [_Looking out of window._] No--yes--it can't be! [_Speaking in an altered voice._] Children! I wonder if this is your Aunt Georgiana? [_BLORE appears with a half-frightened, surprised look._ BLORE. Mrs. Tidman. _GEORGIANA TIDMAN enters. She is a jovial, noisy woman, very \"horsey\" in manners and appearance, and dressed in pronounced masculine style, with billy cock hat and coaching coat. The girls cling to each other; THE DEAN recoils._ GEORGIANA. Well, Gus, my boy, how",
+      "id": "Novel-40700_c_27",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 31.007023
+    },
+    {
+      "text": "last summer. THE DEAN. Blore! GEORGIANA. Blore. I recognized the veteran sportsman the moment I came into the Deanery. THE DEAN. What was my butler doing at St. Marvells Races? _BLORE enters with his lantern._ GEORGIANA. Investing the savings of your cook and housemaid, of course. You don't think your servants are as narrow as you are! THE DEAN. Oh! BLORE. I beg your pardon, sir, shall I go the rounds, sir? [_THE DEAN gives Blore a fierce look, but BLORE beams sweetly._ GEORGIANA. Blore! BLORE. Mum? GEORGIANA. Breakfast at nine, sharp. And pack a hamper with a cold chicken, some French rolls, and two bottles of Heidsieck--label it \"George Tidd,\" and send it on to the Hill. I'll stand the racket. Goodnight. [_She goes out. THE DEAN sinks into a chair and clasps his forehead._ BLORE. A dear, 'igh-sperited lady. [_Leaning over THE DEAN._] Aren't you well, sir? THE DEAN. Serpent! BLORE. Meanin' _me,_ sir? THE DEAN Lock up; I'll speak to you in the morning. Lock up. [_BLORE goes into the",
+      "id": "Novel-40700_c_67",
+      "doc_id": "Novel-40700",
+      "community_id": 128,
+      "score": 30.824945
+    },
+    {
+      "text": "hold of SHEBA._] Hallo, little 'un! SHEBA. Aunt--dear Aunt Georgiana--we heard you say something about a thousand pounds. GEORGIANA. You've been listening? SHEBA. No--we only merely heard. And, oh, Aunt, a thousand pounds is such a lot, and we poor girls want such a little. GEORGIANA. Money? SHEBA. Yes. Salome has rather got into debt. GEORGIANA. My gracious! SALOME. I haven't, any more than you have, Sheba. SHEBA. Well, I'm in debt too, but I only meant to beg for Salome; but now I ask for both of us. Oh, Aunt Tidman, papa has told us that you have known troubles. GEORGIANA. So I have--heaps of them. SHEBA. Oh, I'm so glad. Because Salome and I are weary fragments too--we're everything awful but chastened widows. We owe forty pounds unknown to Pa! SALOME. Forty pounds, nineteen. GEORGIANA. Why, you ought to be ashamed of yourselves, you girls! SHEBA. We are! SALOME. We are! GEORGIANA. To cry and go on like this about forty pounds! SHEBA. But we've only got fifteen and threepence of our own in the world! And, oh,",
+      "id": "Novel-40700_c_42",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 30.711601
+    },
+    {
+      "text": "some gay songs. Er--when can I see the Dean? SALOME. Oh, don't! TARVER. Salome! SALOME. Papa has been out all night. DARBEY _and_ TARVER. All night? SALOME. Isn't it terrible! Oh, what do you think of it, Mr. Darbey? DARBEY. Shocking, but we oughtn't to condemn him unheard. SALOME. Condemn my Papa! SHEBA. [_At the window._] Here's Aunt Georgiana! DARBEY. Eh! Look out, Tarver. [_Going out quickly._ SALOME. [_Pulling TARVER after her._] Come this way and let us take cuttings in the conservatory. [_They go out._ SHEBA. Mr. Darbey! Mr. Darbey, wait for me--I have decided. _Yes._ [_She goes out by the door as GEORGIANA enters excitedly at the window._ GEORGIANA. [_Waving her handkerchief._] Come on, Tris! The course is clear! Mind the gate-post! Hold him up! Now give him his head! _SIR TRISTRAM and HATCHAM enter by the window carrying THE DEAN. They all look as though they have been recently engaged in a prolonged struggle._ SIR TRISTRAM. Put him down! GEORGIANA. Put him down!",
+      "id": "Novel-40700_c_122",
+      "doc_id": "Novel-40700",
+      "community_id": 70,
+      "score": 30.27399
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-40700_128",
+      "summary": "1. **Racing and Romance**\n2. The text chunks revolve around the themes of horse racing, romance, and the relationships between the characters, particularly Sir Tristram, Georgiana, and the Dean. The conversations and interactions between the characters reveal their personalities, interests, and motivations, with a focus on the upcoming Durnstone Handicap and the potential romantic connections between them. The Dean's financial struggles and his attempts to secure funds for the Spire are also a significant part of the narrative. Meanwhile, the characters' discussions about horse racing and their involvement in it serve as a backdrop for their personal stories and relationships.\n3. **Keywords**: Horse Racing, Romance, Dean, Sir Tristram, Georgiana",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_116",
+      "summary": "1. **Title**: The Dean's Disappearance\n2. **Summary**: The Dean of St. Marvells has mysteriously disappeared, and his family and friends are searching for him. The story revolves around the events leading up to his disappearance, including a fire at the local Swan Inn, a horse named Dandy, and a complex web of relationships and motives. The Dean's sister, Georgiana, and her friend, Sir Tristram, are trying to uncover the truth behind the Dean's disappearance, while dealing with the local constable, Noah, who seems to be hiding information. As the story unfolds, it becomes clear that the Dean was involved in some questionable activities, and his disappearance may be linked to a larger scandal.\n3. **Keywords**: Disappearance, Dean, Mystery, Scandal, Family Secrets",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_6",
+      "summary": "1. **Title**: Dandy Dick Play\n2. **Summary**: The text chunks appear to be excerpts from the play \"Dandy Dick\" by Arthur Wing Pinero. The story revolves around the Deanery and its inhabitants, including Sir Tristram, Georgiana, and their interactions with characters like Darbey and Tarver. The plot involves a ball, horse racing, and potential romantic interests. The tone is lighthearted and comedic, with elements of satire and social commentary. The characters' conversations and actions drive the narrative, often leading to humorous misunderstandings and unexpected events.\n3. **Keywords**: Dandy Dick, Play, Comedy, Romance, Satire",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_104",
+      "summary": "1. **Title**: The Dean's Household\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the daily life and interactions of the Dean's household, including the Dean, his daughters Georgiana, Salome, and Sheba, and various guests and acquaintances. The conversations and events revolve around social gatherings, discussions about a potential restoration of the Minster Spire, and the Dean's interactions with his family and community members. The tone is often humorous and lighthearted, with witty remarks and comedic situations. The characters' personalities and relationships are also explored, revealing their quirks, interests, and values.\n3. **Keywords**: Dean's Household, Social Gatherings, Minster Spire, Family Dynamics, Humor",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-2544_106",
+      "summary": "1. **Gold Rush Romance**\n2. **Summary**: The story revolves around Fleming, a young man searching for gold, and his interactions with Katinka, a young girl who lives in a nearby cabin. Fleming's attempts to find gold are unsuccessful, but he receives a surprise when Katinka sends him a pan with gold flakes. As they spend more time together, Fleming develops feelings for Katinka, but their social differences and the presence of other characters, such as Enriquez and Mr. Grey, add complexity to the narrative. The story explores themes of love, gold rush fever, and the challenges of life in a rural setting.\n3. **Keywords**: Gold Rush, Romance, California, Mining, Frontier Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_70",
+      "summary": "1. **Title**: The Deanery's Turmoil\n2. **Summary**: The Dean of St. Marvells is facing financial struggles, particularly with the restoration of the church spire, and is being influenced by his sister Georgiana to engage in horse racing as a means to raise funds. Meanwhile, the Dean's daughters, Salome and Sheba, are navigating their own relationships and futures. The story is filled with themes of morality, deception, and the complexities of family dynamics. The Dean's attempts to maintain his dignity and reputation are constantly challenged by the events unfolding around him. As the story progresses, the characters' true nature and intentions are revealed, leading to a deeper understanding of the Deanery's turmoil.\n3. **Keywords**: Deanery, Horse Racing, Family Dynamics, Morality, Deception",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-26183_21",
+      "summary": "1. **Title**: Laurence Sterne's German Reception\n2. **Summary**: The provided text chunks discuss the reception of Laurence Sterne's works, particularly \"Tristram Shandy\" and \"Yorick's Sermons\", in 18th-century Germany. The texts highlight the influence of Sterne's writings on German literature, with many German authors and translators being inspired by his unique style and humor. The chunks also touch on the challenges of translating Sterne's works into German, with various translators and critics offering their opinions on the best approach. Additionally, the texts mention the role of key figures such as J. L. Benzler, Bode, and Wieland in promoting Sterne's works in Germany. The overall tone suggests that Sterne's writings had a significant impact on German literary circles, with his works being widely read, translated, and admired.\n3. **Keywords**: Laurence Sterne, Tristram Shandy, German Literature, 18th Century, Literary Reception",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-10321_158",
+      "summary": "1. **Title**: Colonial Life in Asia\n2. **Summary**: The text chunks describe the life of a young man, Rudolph, in a colonial setting in Asia, likely in the early 20th century. He navigates his daily life, interacting with various characters, including his friends, servants, and acquaintances, while dealing with his own emotions and personal struggles. The narrative touches on themes of identity, culture, and social hierarchy, providing a glimpse into the complexities of colonial life. Rudolph's experiences are marked by moments of introspection, tension, and humor, as he tries to find his place in this foreign environment. The story also hints at the presence of social and cultural tensions, as well as personal relationships and conflicts.\n3. **Keywords**: Colonialism, Asia, Identity, Culture, Social Hierarchy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_24",
+      "summary": "1. **Diary of Samuel Pepys**\n2. **Summary**: The diary entries of Samuel Pepys describe his daily activities, social interactions, and personal experiences in 17th-century England. He attends the theatre, visits friends and family, and participates in social gatherings, often involving food, drink, and merriment. Pepys also mentions his work at the office and his interactions with prominent figures, including Sir William Batten and Captain Ferrers. The entries provide insight into Pepys' personal life, relationships, and the cultural and social context of his time. He also records significant events, such as a general fast to be kept in London and the country, and the assembly of the High Court of Parliament.\n3. **Keywords**: Samuel Pepys, 17th century, Diary, London, Social Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_37",
+      "summary": "1. **Personal Life and Family**\n2. **Summary**: The given text chunks appear to be excerpts from the diary of Samuel Pepys, detailing his personal life, family, and social interactions in 17th-century England. The entries discuss his relationships with his family members, including his father, uncle, and wife, as well as his interactions with friends and acquaintances. Pepys also mentions his professional life, including his work at the office and his involvement in various business and social matters. The diary entries provide insight into the daily life and concerns of a member of the English gentry during this time period. Pepys' family is often at the center of his concerns, with discussions about his father's financial situation, his uncle's will, and potential marriages for his brother. Additionally, Pepys' social life is filled with visits to the theatre, meetings with friends, and attendance at various social events.\n3. **Keywords**: Samuel Pepys, 17th century, England, diary, personal life, family.",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-5956_114",
+      "summary": "1. **Title**: Life After Separation\n2. **Summary**: The text chunks revolve around the theme of separation and the emotional aftermath. The protagonist has parted ways with a woman and is grappling with the idea of returning to his old life. He reflects on the experiences they shared and the lessons he learned from her, realizing that he has been changed by their time together. Meanwhile, another storyline emerges, focusing on a character named Gallegher, who has been through a challenging experience and is seeking comfort and support. The narrative explores the complexities of human emotions, relationships, and personal growth. The protagonist's journey is marked by a mix of sadness, self-discovery, and a desire to improve himself. The story also touches on the themes of love, loss, and the search for meaning and connection.\n3. **Keywords**: Separation, Personal Growth, Relationships, Self-Discovery, Emotional Aftermath",
+      "is_seed": false,
+      "expand_score": 0.8045836687088013
+    },
+    {
+      "community_key": "Novel-58553_49",
+      "summary": "1. **Title**: 19th Century American Life\n2. **Summary**: The provided text chunks describe various aspects of 19th century American life, including the experiences of women, the impact of the Civil War, and the struggles of individuals pursuing education and careers. The writings touch on themes of social justice, personal freedom, and the pursuit of knowledge. The authors express strong opinions on issues like slavery and women's rights, showcasing the tumultuous nature of the time period. The texts also provide glimpses into the daily lives of individuals, including their relationships, occupations, and personal struggles.\n3. **Keywords**: 19th Century America, Civil War, Women's Rights, Education, Social Justice",
+      "is_seed": false,
+      "expand_score": 0.803345799446106
+    },
+    {
+      "community_key": "Novel-4128_41",
+      "summary": "1. **Personal and Financial Concerns**\n2. The text chunks discuss the author's personal and financial struggles, including being robbed, managing his uncle's will, and dealing with the challenges of his brother Tom taking over their father's trade. The author also expresses concerns about the state of the Court, the clergy, and the economy, citing issues such as poverty, emulation, and discontent. Additionally, the author mentions the difficulties of managing the office, including a lack of money and the challenge of acquiring a new house. The author's personal life is also touched upon, with visits to his wife and Lady at the Wardrobe, highlighting the social aspects of his life.\n3. **Keywords**: Finance, Family, Court, Clergy, Economy",
+      "is_seed": false,
+      "expand_score": 0.8019596338272095
+    },
+    {
+      "community_key": "Novel-5956_103",
+      "summary": "1. **Title**: Love and Redemption\n2. **Summary**: The text chunks revolve around two main storylines: the blossoming romance between Young Latimer and Ellen, and the struggles of a burglar who has escaped from jail. The bishop, Ellen's father, is initially hesitant about the relationship but eventually warms up to Latimer. Meanwhile, the burglar, who is desperate to reunite with his family, is shown kindness by Van Bibber, who decides to help him instead of turning him in. The stories explore themes of love, redemption, and the complexities of human relationships. The characters' emotions and motivations are deeply intertwined, leading to a nuanced and empathetic portrayal of their experiences. Through their journeys, the text highlights the importance of understanding, compassion, and the power of human connection.\n3. **Keywords**: Romance, Redemption, Family, Love, Forgiveness",
+      "is_seed": false,
+      "expand_score": 0.8006735444068909
+    },
+    {
+      "community_key": "Novel-5956_97",
+      "summary": "1. **Title**: Van Bibber's Social Encounters\n2. **Summary**: The given text chunks revolve around the character Van Bibber and his interactions with various individuals, including a girl he knows, her brother, and three little girls from the East Side. Van Bibber's experiences range from a boat ride with the little girls to a conversation with a bishop, showcasing his social awkwardness and good-hearted nature. The narrative also touches on themes of bravery, love, and social class. Throughout the encounters, Van Bibber's character is revealed through his actions and dialogue, providing insight into his personality and values.\n3. **Keywords**: Van Bibber, Social Encounters, Class Distinctions, Bravery, Love",
+      "is_seed": false,
+      "expand_score": 0.797661542892456
+    },
+    {
+      "community_key": "Novel-2544_50",
+      "summary": "1. **Title**: Snapshot Harry's Gang\n2. **Summary**: The text chunks revolve around the interactions and conversations between the protagonist, Brice, and members of Snapshot Harry's gang, particularly the leader's niece. The discussions often touch on the gang's activities, including a recent robbery where the coach was held up twice, and the dynamics within the group. The niece, who appears to be well-respected and protected by her uncle, engages in conversations with Brice, showcasing her intelligence, audacity, and awareness of her surroundings. The narrative also hints at the complexities of the characters' relationships and the moral ambiguities of their actions.\n3. **Keywords**: Snapshot Harry, Gang, Robbery, Coach, Niece",
+      "is_seed": false,
+      "expand_score": 0.7950353622436523
+    },
+    {
+      "community_key": "Novel-58553_118",
+      "summary": "1. **Title**: Life of Angeline Hall\n2. **Summary**: The text chunks discuss the life of Angeline Hall, a woman who valued Christian principles, hard work, and devotion to her family. She was a Puritan who taught her sons to eschew pride and believe in woman suffrage. The chunks also mention her husband, Asaph Hall, a carpenter who was skilled in his work and modest about his abilities. The family's life is described in detail, including their daily routines, values, and relationships. The text also includes poems and quotes that reflect Angeline's thoughts on love, life, and faith. Overall, the chunks provide a glimpse into the life of a family in the 19th century and their values and beliefs.\n3. **Keywords**: Angeline Hall, Asaph Hall, Puritanism, Family Values, 19th Century Life",
+      "is_seed": false,
+      "expand_score": 0.7945249080657959
+    },
+    {
+      "community_key": "Novel-10762_163",
+      "summary": "1. **Title**: Social Commentary in England\n2. **Summary**: The text chunks discuss various aspects of English society, including the behaviors of individuals like Hinze and Ganymede, who are portrayed as exemplifying certain social traits. The narrative also touches on the changing times in England, comparing the past to the present, and noting the country's ability to balance stability with susceptibility to change. The author reflects on their own experiences and observations of English life, from their father's stories of the past to their current experiences in London. The text also explores themes of youth, age, and the perception of these qualities in society. Overall, the chunks provide a commentary on the social landscape of England, highlighting both the consistencies and changes that have occurred over time.\n3. **Keywords**: English Society, Social Commentary, Personal Reflections, Change and Stability, Youth and Age",
+      "is_seed": false,
+      "expand_score": 0.7913542985916138
+    },
+    {
+      "community_key": "Novel-4128_22",
+      "summary": "1. **Personal Diary Entries**\n2. **Summary**: The given text chunks appear to be excerpts from a personal diary, detailing the daily life and activities of the author. The entries cover various topics, including social events, family visits, and personal struggles, such as the author's vow to abstain from wine. The author also discusses their interactions with notable figures, like Mr. Montagu and Captain Lambert, and shares their thoughts on entertainment, like plays and music. The diary entries provide insight into the author's personal and professional life, as well as their relationships and interests.\n3. **Keywords**: Diary, Personal, Social, Entertainment, Relationships",
+      "is_seed": false,
+      "expand_score": 0.7910177707672119
+    },
+    {
+      "community_key": "Novel-47558_27",
+      "summary": "1. **Title**: Life in Rural Communities\n2. **Summary**: The text chunks describe life in rural communities, focusing on the struggles and relationships of the characters. The story revolves around the lives of characters such as Aunt Katy, Tom Fairfield, and Rob Roy, highlighting their daily struggles, habits, and interactions with others. The narrative also touches on themes of family, community, and the consequences of one's actions. Additionally, the story explores the lives of characters like Cousin Cæsar, who gets involved in trickery and later becomes a partner in a game, facing challenges and setbacks.\n3. **Keywords**: Rural Life, Community, Family, Struggle, Relationships",
+      "is_seed": false,
+      "expand_score": 0.790476381778717
+    },
+    {
+      "community_key": "Novel-2544_238",
+      "summary": "1. **Title**: Life in Canada City\n2. **Summary**: The text chunks describe life in Canada City, a mining town, focusing on the experiences of its young women, particularly Cissy Trixit, the daughter of a prominent banker. The community is portrayed as vibrant, with social interactions and relationships between characters like Cissy, her friend Piney, and various men, including the Reverend Mr. Windibrook and a young engineer. The narrative touches on themes of beauty, social status, and the complexities of human connections in a small, close-knit community. The stories also mention the town's layout, its church, and the contrast between the natural beauty of the surrounding landscape and the harsh realities of mining life.\n3. **Keywords**: Canada City, Mining Town, Social Interactions, Cissy Trixit, Community Life",
+      "is_seed": false,
+      "expand_score": 0.7882974147796631
+    },
+    {
+      "community_key": "Novel-58553_140",
+      "summary": "1. **Title**: Asaph Hall's Life and Letters\n2. **Summary**: The text chunks revolve around the life of Asaph Hall, an astronomer, and his wife Angeline. The letters and narratives describe their marriage, health issues, family life, and personal struggles. Asaph Hall's studies and career in astronomy are also mentioned, including his time at Harvard University. The letters exchanged between Asaph and Angeline provide insight into their relationship, daily life, and personal thoughts. The narrative also touches on the couple's values, such as their Puritan background and their emphasis on usefulness and personal growth.\n3. **Keywords**: Asaph Hall, Angeline Hall, Astronomy, Marriage, Family Life",
+      "is_seed": false,
+      "expand_score": 0.7881990075111389
+    },
+    {
+      "community_key": "Novel-5956_180",
+      "summary": "1. **Title**: Raegen's Turbulent Life\n2. **Summary**: The text chunks revolve around the life of Raegen, a man entangled in a complex web of crime, friendship, and loyalty. His story is intertwined with that of a young woman, possibly his love interest, and a child who seems to be a source of comfort and motivation for him. Raegen's past is marked by run-ins with the law, and he is forced to confront his demons when faced with the possibility of imprisonment or worse. Throughout the narrative, themes of redemption, personal struggle, and the power of human connections emerge. The story also touches on the idea of past mistakes and their consequences, as well as the possibility of making amends and finding a path towards a better life.\n3. **Keywords**: Raegen, Crime, Redemption, Loyalty, Personal Struggle",
+      "is_seed": false,
+      "expand_score": 0.7862608432769775
+    },
+    {
+      "community_key": "Novel-58553_46",
+      "summary": "1. **Title**: Life of Angeline Hall\n2. **Summary**: The text chunks appear to be excerpts from a novel or biography about Angeline Hall, a woman who lived in the 19th century. The passages describe her daily life, interactions with others, and her ambitions, as well as her relationships with her husband and friends. The narrative also touches on themes of women's rights, education, and personal growth. The story is presented in a non-linear fashion, with different passages jumping between various points in Angeline's life. The overall tone is reflective and introspective, with a focus on Angeline's experiences and emotions.\n3. **Keywords**: Angeline Hall, Women's Rights, 19th Century, Biography, Personal Growth",
+      "is_seed": false,
+      "expand_score": 0.7838931083679199
+    },
+    {
+      "community_key": "Novel-47558_35",
+      "summary": "1. **Title**: Life in 19th Century Kentucky\n2. **Summary**: The text chunks describe life in 19th century Kentucky, focusing on the experiences of characters such as Tom Fairfield, Don Carlo, and Aunt Katy. The stories touch on themes of family, religion, and social class, providing a glimpse into the daily lives and struggles of people living in Kentucky during this time period. The characters face various challenges, including poverty, illness, and personal struggles, but also find joy and community in their relationships and faith. The text also mentions historical events and cultural practices, such as the \"jerks\" phenomenon in church services and the importance of navigation on the Ohio river.\n3. **Keywords**: Kentucky, 19th century, family, religion, social class",
+      "is_seed": false,
+      "expand_score": 0.7838231325149536
+    },
+    {
+      "community_key": "Novel-58553_18",
+      "summary": "1. **Title**: Life in 19th Century Rodman\n2. **Summary**: The text chunks describe life in 19th century Rodman, focusing on the experiences of Angeline Stickney and her family. The writings touch on various aspects, including the cruel practice of slavery, the usefulness of the Sugar Maple tree, and the daily life of Angeline, who faces hardships but remains determined and ambitious. The community is portrayed as traditional, with limited access to education and modern amenities. The writings also highlight the importance of family, self-reliance, and personal growth. Despite the challenges, Angeline finds joy in nature and pursues her interests in learning and music.\n3. **Keywords**: Rodman, 19th Century, Angeline Stickney, Sugar Maple, Slavery",
+      "is_seed": false,
+      "expand_score": 0.7829073667526245
+    },
+    {
+      "community_key": "Novel-5956_128",
+      "summary": "1. **Title**: Rags Raegen's Adventures\n2. **Summary**: The text chunks revolve around the life and escapades of Rags Raegen, a young man who finds himself in various precarious situations. He is being chased by the police and navigates through the rooftops to escape, showcasing his cunning and agility. The narrative also delves into his personal life, revealing a past romance and his struggles with loss and heartache. Additionally, the story touches on the theme of crime and deception, introducing characters like Snipes, a skilled \"trailer\" who helps swindle unsuspecting individuals. Throughout the chunks, Rags' character is developed, showcasing his resourcefulness and determination to survive in a challenging environment.\n3. **Keywords**: Rags Raegen, Crime, Adventure, Romance, Deception",
+      "is_seed": false,
+      "expand_score": 0.7828859090805054
+    },
+    {
+      "community_key": "Novel-5956_166",
+      "summary": "1. **Title**: Poverty and Human Struggle\n2. **Summary**: The given text chunks revolve around themes of poverty, struggle, and human connection. The narrative follows characters like Rags, who is taking care of a baby in a tenement, and Young Harringford, known as the \"Goodwood Plunger,\" who is struggling with his own demons. The stories depict the harsh realities of life in poverty, the importance of human relationships, and the struggles of individuals trying to survive and find meaning in their lives. The texts also touch on the contrast between the lives of the poor and the wealthy, highlighting the difficulties faced by those living in poverty. Through the characters' experiences, the narrative conveys a sense of desperation, hope, and resilience.\n3. **Keywords**: Poverty, Struggle, Human Connection, Survival, Resilience",
+      "is_seed": false,
+      "expand_score": 0.7816094160079956
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-40700_128",
+      "Novel-40700_116",
+      "Novel-40700_44",
+      "Novel-40700_6",
+      "Novel-40700_104",
+      "Novel-40700_64",
+      "Novel-40700_59",
+      "Novel-4128_28",
+      "Novel-2544_106",
+      "Novel-10321_48",
+      "Novel-40700_70",
+      "Novel-26183_21",
+      "Novel-10321_158",
+      "Novel-4128_24",
+      "Novel-4128_37"
+    ],
+    "expanded_community_keys": [
+      "Novel-5956_114",
+      "Novel-58553_49",
+      "Novel-4128_41",
+      "Novel-5956_103",
+      "Novel-5956_97",
+      "Novel-2544_50",
+      "Novel-58553_118",
+      "Novel-10762_163",
+      "Novel-4128_22",
+      "Novel-47558_27",
+      "Novel-2544_238",
+      "Novel-58553_140",
+      "Novel-5956_180",
+      "Novel-58553_46",
+      "Novel-47558_35",
+      "Novel-58553_18",
+      "Novel-5956_128",
+      "Novel-5956_166"
+    ],
+    "all_community_keys": [
+      "Novel-40700_128",
+      "Novel-40700_116",
+      "Novel-40700_44",
+      "Novel-40700_6",
+      "Novel-40700_104",
+      "Novel-40700_64",
+      "Novel-40700_59",
+      "Novel-4128_28",
+      "Novel-2544_106",
+      "Novel-10321_48",
+      "Novel-40700_70",
+      "Novel-26183_21",
+      "Novel-10321_158",
+      "Novel-4128_24",
+      "Novel-4128_37",
+      "Novel-5956_114",
+      "Novel-58553_49",
+      "Novel-4128_41",
+      "Novel-5956_103",
+      "Novel-5956_97",
+      "Novel-2544_50",
+      "Novel-58553_118",
+      "Novel-10762_163",
+      "Novel-4128_22",
+      "Novel-47558_27",
+      "Novel-2544_238",
+      "Novel-58553_140",
+      "Novel-5956_180",
+      "Novel-58553_46",
+      "Novel-47558_35",
+      "Novel-58553_18",
+      "Novel-5956_128",
+      "Novel-5956_166"
+    ],
+    "allowed_chunk_pool_size": 713,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddedee1e",
+  "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+  "gold_answer": "French Canadians struggled with the Chateau Clique, and the Chateau Clique conflicted with the Patriotes, shaping attempts at reform.",
+  "llm_answer": "The Château Clique’s monopoly on executive power and its routine rejection of elected Assembly measures convinced French Canadians that only by withholding supplies could they force reform. When the Clique blocked every peaceful attempt to make the Executive Council responsible to the Assembly, the Patriotes—who had begun as a parliamentary faction—moved from petitioning (the Ninety-Two Resolutions) to open boycott of English goods, to armed rebellion. Thus the Clique’s refusal to concede any real control of revenues or patronage transformed a constitutional struggle for responsible government into an armed confrontation that made reform the central, and ultimately revolutionary, goal of the colony’s politics.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, elaborating on the struggles between French Canadians, the Château Clique, and the Patriotes, and how these conflicts shaped reform efforts. It provides additional relevant details, such as the Ninety-Two Resolutions, boycotts, and armed rebellion, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the expanded explanation aligns with the historical context provided."
+  }
+}

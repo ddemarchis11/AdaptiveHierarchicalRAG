@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000577",
+  "question": "At which university did the notable psychoanalyst associated with the University of Chicago serve most of his career as a professor of psychiatry?",
+  "gold_answer": "University of New York Upstate",
+  "llm_answer": "The University of Chicago.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states 'The University of Chicago' as the university where the notable psychoanalyst served most of his career as a professor of psychiatry. The Gold Answer and the Retrieved Context clearly indicate that Thomas Szasz served most of his career at the State University of New York Upstate Medical University. The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact provided in the Gold Answer."
+  }
+}

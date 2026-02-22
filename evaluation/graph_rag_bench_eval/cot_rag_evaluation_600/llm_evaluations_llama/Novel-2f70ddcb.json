@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2f70ddcb",
+  "question": "What role did Capt. William Henry Acker have in the First Minnesota regiment?",
+  "gold_answer": "Capt. William Henry Acker organized a company for the First Minnesota regiment and was made captain of it.",
+  "llm_answer": "Capt. William Henry Acker was the captain of the First Minnesota regiment.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Capt. William Henry Acker as a captain of the First Minnesota regiment, which aligns with the Gold Answer. However, it omits the specific detail that he organized a company for the regiment, which is a key part of the Gold Answer. The Retrieved Context supports the claim that he was made captain of the regiment, but does not explicitly mention the organization of the company, making the Model Answer faithful to the context but incomplete in evidence coverage."
+  }
+}

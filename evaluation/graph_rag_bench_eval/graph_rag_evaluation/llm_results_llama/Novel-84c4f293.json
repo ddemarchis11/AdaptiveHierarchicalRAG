@@ -1,0 +1,266 @@
+{
+  "id": "Novel-84c4f293",
+  "question": "For which guests did Mr. Pepys arrange a special collation during the events described in his diary?",
+  "gold_answer": "Mr. Pepys had a collation for Sir Williams.",
+  "llm_answer": "Mr. Pepys arranged a special collation for the children and himself when some persons of condition came to dine with his Lady.",
+  "context": [
+    {
+      "text": "a house hard by, to drink Lambeth ale. So I back to the Wardrobe, and there found my Lord going to Trinity House, this being the solemn day of choosing Master, and my Lord is chosen, so he dines there to-day. I staid and dined with my Lady; but after we were set, comes in some persons of condition, and so the children and I rose and dined by ourselves, all the children and I, and were very merry and they mighty fond of me. Then to the office, and there sat awhile. So home and at night to bed, where we lay in Sir R. Slingsby's lodgings in the dining room there in one green bed, my house being now in its last work of painting and whiting. 11th. At the office this morning, Sir G. Carteret with us; and we agreed upon a letter to the Duke of York, to tell him the sad condition of this office for want of money; how men are not able to serve us more without some money; and that now the credit of the office is brought so low, that none will sell us any thing without our personal security given for the same. All the afternoon abroad about several businesses, and at night home and to bed. 12th. Wednesday, a day kept between a fast and a feast, the Bishops not being ready enough to keep the fast for foul weather before fair weather came; and so they",
+      "id": "Novel-4128_c_11",
+      "doc_id": "Novel-4128",
+      "community_id": 68,
+      "score": 20.650341
+    },
+    {
+      "text": "Produced by David Widger THE DIARY OF SAMUEL PEPYS M.A. F.R.S. CLERK OF THE ACTS AND SECRETARY TO THE ADMIRALTY TRANSCRIBED FROM THE SHORTHAND MANUSCRIPT IN THE PEPYSIAN LIBRARY MAGDALENE COLLEGE CAMBRIDGE BY THE REV. MYNORS BRIGHT M.A. LATE FELLOW AND PRESIDENT OF THE COLLEGE (Unabridged) WITH LORD BRAYBROOKE'S NOTES EDITED WITH ADDITIONS BY HENRY B. WHEATLEY F.S.A. DIARY OF SAMUEL PEPYS. JUNE, JULY & AUGUST 1661 June 1st. Having taken our leaves of Sir W. Batten and my Lady, who are gone this morning to keep their Whitsuntide, Sir W. Pen and I and Mr. Gauden by water to Woolwich, and there went from ship to ship to give order for and take notice of their forwardness to go forth, and then to Deptford and did the like, having dined at Woolwich with Captain Poole at the tavern there. From Deptford we walked to Redriffe, calling at the half-way house, and there come into a room where there was infinite of new cakes placed that are made against Whitsuntide, and there we were very merry. By water home, and there did businesses of the",
+      "id": "Novel-4128_c_0",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 20.16211
+    },
+    {
+      "text": "office, there till night, and so home to my musique and then to bed. 27th. To my father's, and with him to Mr. Starling's to drink our morning draft, and there I told him how I would have him speak to my uncle Robert, when he comes thither, concerning my buying of land, that I could pay ready money L600 and the rest by L150 per annum, to make up as much as will buy L50 per annum, which I do, though I not worth above L500 ready money, that he may think me to be a greater saver than I am. Here I took my leave of my father, who is going this morning to my uncle upon my aunt's letter this week that he is not well and so needs my father's help. At noon home, and then with my Lady Batten, Mrs. Rebecca Allen, Mrs. Thompson, &c., two coaches of us, we went and saw \"Bartholomew Fayre\" acted very well, and so home again and staid at Sir W. Batten's late, and so home to bed. This day Mr. Holden sent me a bever, which cost me L4 5s. [Whilst a hat (see January 28th, 1660-61, ante) cost only 35s. See also Lord Sandwich's vexation at his beaver being stolen, and a hat only left in lieu of",
+      "id": "Novel-4128_c_24",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 18.962791
+    },
+    {
+      "text": "to my Lord and to my father, and then to bed. 31st. Singing-master came to me this morning; then to the office all the morning. In the afternoon I went to the Theatre, and there I saw \"The Tamer Tamed\" well done. And then home, and prepared to go to Walthamstow to-morrow. This night I was forced to borrow L40 of Sir W. Batten. DIARY OF SAMUEL PEPYS. AUGUST 1661 August 1st. This morning Sir Williams both, and my wife and I and Mrs. Margarett Pen (this first time that I have seen her since she came from Ireland) went by coach to Walthamstow, a-gossiping to Mrs. Browne, where I did give her six silver spoons--[But not the porringer of silver. See May 29th, 1661.--M. B]--for her boy. Here we had a venison pasty, brought hot from London, and were very merry. Only I hear how nurse's husband has spoken strangely of my Lady Batten how she was such a man's whore, who indeed is known to leave her her estate, which we would fain have reconciled to-day, but could not and indeed I do believe that the story is true. Back again at night home. 2d. At the office all the morning. At noon Dr.",
+      "id": "Novel-4128_c_49",
+      "doc_id": "Novel-4128",
+      "community_id": 24,
+      "score": 15.606424
+    },
+    {
+      "text": "to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry, but methinks he makes but poor dinners for such guests, though there was a poor venison pasty. Hence my wife and I to the Theatre, and there saw \"The Joviall Crew,\" where the King, Duke and Duchess, and Madame Palmer, were; and my wife, to her great content, had a full sight of them all the while. The play full of mirth. Hence to my father's, and there staid to talk a while and so by foot home by moonshine. In my way and at home, my wife making a sad story to me of her brother Balty's a condition, and would have me to do something for him, which I shall endeavour to do, but am afeard to meddle therein for fear I shall not be able to wipe my hands of him again, when I once concern myself for him. I went to bed, my wife all the while telling me his case with tears, which troubled me. 28th. At home all the morning setting papers in order. At noon to the Exchange, and there met with Dr. Williams by appointment, and with him went up and down to look for an attorney, a friend of his, to advise with about our bond of my aunt Pepys of L200, and he tells me absolutely that we shall",
+      "id": "Novel-4128_c_77",
+      "doc_id": "Novel-4128",
+      "community_id": 60,
+      "score": 15.16452
+    },
+    {
+      "text": "and so came to some ease I would fain have stolen a pretty dog that followed me Instructed by Shakespeare himself King, Duke and Duchess, and Madame Palmer, were Lady Batten how she was such a man's whore Lately too much given to seeing of plays, and expense Lewdness and beggary of the Court Look askew upon my wife, because my wife do not buckle to them None will sell us any thing without our personal security given Quakers do still continue, and rather grow than lessen Sat before Mrs. Palmer, the King's mistress, and filled my eyes So the children and I rose and dined by ourselves Sorry in some respect, glad in my expectations in another respec The Alchymist,--Comedy by Ben Jonson The Lords taxed themselves for the poor--an earl, s. This week made a vow to myself to drink no wine this week Those absent from prayers were to pay a forfeit To be so much in love of plays Woman with a rod in her hand keeping time to the musique End of the Project Gutenberg EBook of Diary of Samuel Pepys, June/July/August 1661, by Samuel Pepys",
+      "id": "Novel-4128_c_84",
+      "doc_id": "Novel-4128",
+      "community_id": 79,
+      "score": 14.771726
+    },
+    {
+      "text": "that the estate left me is L200 a year in land, besides moneys, because I would put an esteem upon myself. At night home and to bed after I had set down my journals ever since my going from London this journey to this house. This afternoon I hear that my man Will hath lost his clock with my tankard, at which I am very glad. 25th. This morning came my box of papers from Brampton of all my uncle's papers, which will now set me at work enough. At noon I went to the Exchange, where I met my uncle Wight, and found him so discontented about my father (whether that he takes it ill that he has not been acquainted with things, or whether he takes it ill that he has nothing left him, I cannot tell), for which I am much troubled, and so staid not long to talk with him. Thence to my mother's, where I found my wife and my aunt Bell and Mrs. Ramsey, and great store of tattle there was between the old women and my mother, who thinks that there is, God knows what fallen to her, which makes me mad, but it was not a proper time to speak to her of it, and so I went away with Mr. Moore, and he and I to the Theatre, and saw \"The Jovial Crew,\" the first time I saw it, and indeed it is as merry and the most innocent play that ever I",
+      "id": "Novel-4128_c_42",
+      "doc_id": "Novel-4128",
+      "community_id": 79,
+      "score": 14.771726
+    },
+    {
+      "text": "and my father gone to Goody Gorum's, where I found them and Jaspar Trice got before me, and Mr. Greene, and there had some calm discourse, but came to no issue, and so parted. So home and to bed, being now pretty well again of my left hand, which lately was stung and very much swelled. 21st (Lord's day). At home all the morning, putting my papers in order against my going to-morrow and doing many things else to that end. Had a good dinner, and Stankes and his wife with us. To my business again in the afternoon, and in the evening came the two Trices, Mr. Greene, and Mr. Philips, and so we began to argue. At last it came to some agreement that for our giving of my aunt L10 she is to quit the house, and for other matters they are to be left to the law, which do please us all, and so we broke up, pretty well satisfyed. Then came Mr. Barnwell and J. Bowles and supped with us, and after supper away, and so I having taken leave of them and put things in the best order I could against to-morrow I went to bed. Old William Luffe having been here this afternoon and paid up his bond of L20, and I did give him into his hand my uncle's surrender of Sturtlow to me before Mr. Philips,",
+      "id": "Novel-4128_c_38",
+      "doc_id": "Novel-4128",
+      "community_id": 60,
+      "score": 14.504647
+    },
+    {
+      "text": "and spoke with Mr. Shaw at the Alderman's, who offers me L300 if my Lord pleases to buy this cloth with, which pleased me well. So to the Wardrobe and got my Lord to order Mr. Creed to imprest so much upon me to be paid by Alderman Backwell. So with my Lord to Whitehall by water, and he having taken leave of the King, comes to us at his lodgings and from thence goes to the garden stairs and there takes barge, and at the stairs was met by Sir R. Slingsby, who there took his leave of my Lord, and I heard my Lord thank him for his kindness to me, which Sir Robert answered much to my advantage. I went down with my Lord in the barge to Deptford, and there went on board the Dutch yacht and staid there a good while, W. Howe not being come with my Lord's things, which made my Lord very angry. By and by he comes and so we set sayle, and anon went to dinner, my Lord and we very merry; and after dinner I went down below and there sang, and took leave of W. Howe, Captain Rolt, and the rest of my friends, then went up and took leave of my Lord, who give me his hand and parted with great respect. So went and Captain Ferrers with me into our wherry, and my Lord did give five guns, all they had",
+      "id": "Novel-4128_c_14",
+      "doc_id": "Novel-4128",
+      "community_id": 68,
+      "score": 14.489378
+    },
+    {
+      "text": "great difference, about the Lords challenging their privileges not to have their houses searched, which makes them deny to pass the House of Commons' Bill for searching for pamphlets and seditious books. Thence by water to the Wardrobe (meeting the King upon the water going in his barge to adjourn the House) where I dined with my Lady, and there met Dr. Thomas Pepys, who I found to be a silly talking fellow, but very good-natured. So home to the office, where we met about the business of Tangier this afternoon. That done, at home I found Mr. Moore, and he and I walked into the City and there parted. To Fleet Street to find when the Assizes begin at Cambridge and Huntingdon, in order to my going to meet with Roger Pepys for counsel. So in Fleet Street I met with Mr. Salisbury, who is now grown in less than two years' time so great a limner--that he is become excellent, and gets a great deal of money at it. I took him to Hercules Pillars to drink, and there came Mr. Whore (whom I formerly have known), a friend of his to him, who is a very ingenious fellow, and there I sat with them a good while, and so home and wrote letters late to my Lord and to my father, and then to bed. 31st. Singing-master came to me this morning; then to the office",
+      "id": "Novel-4128_c_48",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 13.092018
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-4128_37",
+      "summary": "1. **Personal Life and Family**\n2. **Summary**: The given text chunks appear to be excerpts from the diary of Samuel Pepys, detailing his personal life, family, and social interactions in 17th-century England. The entries discuss his relationships with his family members, including his father, uncle, and wife, as well as his interactions with friends and acquaintances. Pepys also mentions his professional life, including his work at the office and his involvement in various business and social matters. The diary entries provide insight into the daily life and concerns of a member of the English gentry during this time period. Pepys' family is often at the center of his concerns, with discussions about his father's financial situation, his uncle's will, and potential marriages for his brother. Additionally, Pepys' social life is filled with visits to the theatre, meetings with friends, and attendance at various social events.\n3. **Keywords**: Samuel Pepys, 17th century, England, diary, personal life, family.",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_60",
+      "summary": "1. **Personal Diary Entries**: \n2. **Summary**: The provided text chunks appear to be excerpts from the personal diary of Samuel Pepys, detailing his daily life, interactions, and experiences in 17th-century England. The entries cover various aspects, including social events, family matters, business dealings, and his observations on theater performances and other cultural activities. Pepys also discusses his health, relationships, and professional responsibilities, offering a glimpse into his personal and public life. The diary entries are dated and provide a chronological account of his experiences, thoughts, and feelings.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, England, Personal Life, Social Events.",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_68",
+      "summary": "1. **Diary of Samuel Pepys**\n2. **Summary**: The provided text chunks appear to be excerpts from the diary of Samuel Pepys, a 17th-century English naval administrator and Member of Parliament. The entries detail his daily life, including interactions with family and friends, attendance at social events, and discussions of business and politics. Pepys also writes about his personal interests, such as music and singing, and his efforts to learn and improve his skills. The diary entries span several days and cover a range of topics, from mundane tasks and appointments to significant events and personal reflections.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, London, Personal Reflections",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_52",
+      "summary": "1. **Diary of Samuel Pepys**: \n2. **Summary**: The provided text chunks appear to be excerpts from the diary of Samuel Pepys, a 17th-century English naval administrator and Member of Parliament. The entries detail his daily life, including visits to family and friends, attendance at social events, and discussions about politics and business. Pepys also mentions his personal interests, such as music and reading, and notes his interactions with various individuals, including his wife, colleagues, and acquaintances. The diary entries span several days and cover a range of topics, from mundane tasks to significant events.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, England, Politics, Social Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_24",
+      "summary": "1. **Diary of Samuel Pepys**\n2. **Summary**: The diary entries of Samuel Pepys describe his daily activities, social interactions, and personal experiences in 17th-century England. He attends the theatre, visits friends and family, and participates in social gatherings, often involving food, drink, and merriment. Pepys also mentions his work at the office and his interactions with prominent figures, including Sir William Batten and Captain Ferrers. The entries provide insight into Pepys' personal life, relationships, and the cultural and social context of his time. He also records significant events, such as a general fast to be kept in London and the country, and the assembly of the High Court of Parliament.\n3. **Keywords**: Samuel Pepys, 17th century, Diary, London, Social Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_79",
+      "summary": "1. **17th Century London Life**\n2. The provided text chunks appear to be excerpts from the diary of Samuel Pepys, detailing his daily life in 17th century London. The entries describe his social interactions, attendance at theatrical performances, and personal business matters. Pepys frequently visits his family and friends, attends plays, and discusses various topics such as politics, literature, and his own personal affairs. He also mentions his relationships with women, including his wife and the King's mistress, Mrs. Palmer.\n3. **Keywords**: Samuel Pepys, 17th Century, London, Diary, Theatre",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-10321_100",
+      "summary": "1. **Colonial Life Struggles**\n2. The text chunks revolve around the life of Rudolph, a character navigating the complexities of colonial life, interacting with various individuals, including a padre, Miss Drake, and Heywood. The narrative touches on themes of identity, morality, and the human condition, set against the backdrop of a foreign, often unforgiving environment. Rudolph's experiences are marked by feelings of isolation, disillusionment, and a search for meaning. His interactions with others, such as the leper and the native woman, highlight the social and cultural tensions present in the colonial setting. The story also explores the inner turmoil of its characters, as they grapple with their own emotions, desires, and sense of purpose.\n3. **Keywords**: Colonialism, Identity, Morality, Isolation, Disillusionment",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_104",
+      "summary": "1. **Title**: The Dean's Household\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the daily life and interactions of the Dean's household, including the Dean, his daughters Georgiana, Salome, and Sheba, and various guests and acquaintances. The conversations and events revolve around social gatherings, discussions about a potential restoration of the Minster Spire, and the Dean's interactions with his family and community members. The tone is often humorous and lighthearted, with witty remarks and comedic situations. The characters' personalities and relationships are also explored, revealing their quirks, interests, and values.\n3. **Keywords**: Dean's Household, Social Gatherings, Minster Spire, Family Dynamics, Humor",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-29973_16",
+      "summary": "1. **Title**: French-Canadian Relations\n2. **Summary**: The text chunks discuss the historical tensions and conflicts between French-Canadian and English-Canadian communities in Lower Canada during the 18th and 19th centuries. The French-Canadian majority in the House of Assembly often found themselves at odds with the English minority, who felt their interests were being threatened. The establishment of the newspaper _Le Canadien_ and the rise of leaders like Louis Joseph Papineau contributed to the growing tensions. The British government's conciliatory policy towards the French Canadians, including the granting of equal political rights, helped maintain loyalty but also fueled demands for greater autonomy. The period saw significant events, including the suppression of _Le Canadien_ and the struggle for control of the government, which ultimately led to increased racial bitterness.\n3. **Keywords**: French-Canadians, English-Canadians, Lower Canada, _Le Canadien_, Papineau",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-5956_166",
+      "summary": "1. **Title**: Poverty and Human Struggle\n2. **Summary**: The given text chunks revolve around themes of poverty, struggle, and human connection. The narrative follows characters like Rags, who is taking care of a baby in a tenement, and Young Harringford, known as the \"Goodwood Plunger,\" who is struggling with his own demons. The stories depict the harsh realities of life in poverty, the importance of human relationships, and the struggles of individuals trying to survive and find meaning in their lives. The texts also touch on the contrast between the lives of the poor and the wealthy, highlighting the difficulties faced by those living in poverty. Through the characters' experiences, the narrative conveys a sense of desperation, hope, and resilience.\n3. **Keywords**: Poverty, Struggle, Human Connection, Survival, Resilience",
+      "is_seed": false,
+      "expand_score": 0.8030519485473633
+    },
+    {
+      "community_key": "Novel-4128_41",
+      "summary": "1. **Personal and Financial Concerns**\n2. The text chunks discuss the author's personal and financial struggles, including being robbed, managing his uncle's will, and dealing with the challenges of his brother Tom taking over their father's trade. The author also expresses concerns about the state of the Court, the clergy, and the economy, citing issues such as poverty, emulation, and discontent. Additionally, the author mentions the difficulties of managing the office, including a lack of money and the challenge of acquiring a new house. The author's personal life is also touched upon, with visits to his wife and Lady at the Wardrobe, highlighting the social aspects of his life.\n3. **Keywords**: Finance, Family, Court, Clergy, Economy",
+      "is_seed": false,
+      "expand_score": 0.8019596338272095
+    },
+    {
+      "community_key": "Novel-47558_27",
+      "summary": "1. **Title**: Life in Rural Communities\n2. **Summary**: The text chunks describe life in rural communities, focusing on the struggles and relationships of the characters. The story revolves around the lives of characters such as Aunt Katy, Tom Fairfield, and Rob Roy, highlighting their daily struggles, habits, and interactions with others. The narrative also touches on themes of family, community, and the consequences of one's actions. Additionally, the story explores the lives of characters like Cousin Cæsar, who gets involved in trickery and later becomes a partner in a game, facing challenges and setbacks.\n3. **Keywords**: Rural Life, Community, Family, Struggle, Relationships",
+      "is_seed": false,
+      "expand_score": 0.8016408085823059
+    },
+    {
+      "community_key": "Novel-5956_97",
+      "summary": "1. **Title**: Van Bibber's Social Encounters\n2. **Summary**: The given text chunks revolve around the character Van Bibber and his interactions with various individuals, including a girl he knows, her brother, and three little girls from the East Side. Van Bibber's experiences range from a boat ride with the little girls to a conversation with a bishop, showcasing his social awkwardness and good-hearted nature. The narrative also touches on themes of bravery, love, and social class. Throughout the encounters, Van Bibber's character is revealed through his actions and dialogue, providing insight into his personality and values.\n3. **Keywords**: Van Bibber, Social Encounters, Class Distinctions, Bravery, Love",
+      "is_seed": false,
+      "expand_score": 0.7959067225456238
+    },
+    {
+      "community_key": "Novel-2544_50",
+      "summary": "1. **Title**: Snapshot Harry's Gang\n2. **Summary**: The text chunks revolve around the interactions and conversations between the protagonist, Brice, and members of Snapshot Harry's gang, particularly the leader's niece. The discussions often touch on the gang's activities, including a recent robbery where the coach was held up twice, and the dynamics within the group. The niece, who appears to be well-respected and protected by her uncle, engages in conversations with Brice, showcasing her intelligence, audacity, and awareness of her surroundings. The narrative also hints at the complexities of the characters' relationships and the moral ambiguities of their actions.\n3. **Keywords**: Snapshot Harry, Gang, Robbery, Coach, Niece",
+      "is_seed": false,
+      "expand_score": 0.7950353622436523
+    },
+    {
+      "community_key": "Novel-58553_118",
+      "summary": "1. **Title**: Life of Angeline Hall\n2. **Summary**: The text chunks discuss the life of Angeline Hall, a woman who valued Christian principles, hard work, and devotion to her family. She was a Puritan who taught her sons to eschew pride and believe in woman suffrage. The chunks also mention her husband, Asaph Hall, a carpenter who was skilled in his work and modest about his abilities. The family's life is described in detail, including their daily routines, values, and relationships. The text also includes poems and quotes that reflect Angeline's thoughts on love, life, and faith. Overall, the chunks provide a glimpse into the life of a family in the 19th century and their values and beliefs.\n3. **Keywords**: Angeline Hall, Asaph Hall, Puritanism, Family Values, 19th Century Life",
+      "is_seed": false,
+      "expand_score": 0.7945249080657959
+    },
+    {
+      "community_key": "Novel-10762_163",
+      "summary": "1. **Title**: Social Commentary in England\n2. **Summary**: The text chunks discuss various aspects of English society, including the behaviors of individuals like Hinze and Ganymede, who are portrayed as exemplifying certain social traits. The narrative also touches on the changing times in England, comparing the past to the present, and noting the country's ability to balance stability with susceptibility to change. The author reflects on their own experiences and observations of English life, from their father's stories of the past to their current experiences in London. The text also explores themes of youth, age, and the perception of these qualities in society. Overall, the chunks provide a commentary on the social landscape of England, highlighting both the consistencies and changes that have occurred over time.\n3. **Keywords**: English Society, Social Commentary, Personal Reflections, Change and Stability, Youth and Age",
+      "is_seed": false,
+      "expand_score": 0.7913542985916138
+    },
+    {
+      "community_key": "Novel-4128_22",
+      "summary": "1. **Personal Diary Entries**\n2. **Summary**: The given text chunks appear to be excerpts from a personal diary, detailing the daily life and activities of the author. The entries cover various topics, including social events, family visits, and personal struggles, such as the author's vow to abstain from wine. The author also discusses their interactions with notable figures, like Mr. Montagu and Captain Lambert, and shares their thoughts on entertainment, like plays and music. The diary entries provide insight into the author's personal and professional life, as well as their relationships and interests.\n3. **Keywords**: Diary, Personal, Social, Entertainment, Relationships",
+      "is_seed": false,
+      "expand_score": 0.7910177707672119
+    },
+    {
+      "community_key": "Novel-58553_140",
+      "summary": "1. **Title**: Asaph Hall's Life and Letters\n2. **Summary**: The text chunks revolve around the life of Asaph Hall, an astronomer, and his wife Angeline. The letters and narratives describe their marriage, health issues, family life, and personal struggles. Asaph Hall's studies and career in astronomy are also mentioned, including his time at Harvard University. The letters exchanged between Asaph and Angeline provide insight into their relationship, daily life, and personal thoughts. The narrative also touches on the couple's values, such as their Puritan background and their emphasis on usefulness and personal growth.\n3. **Keywords**: Asaph Hall, Angeline Hall, Astronomy, Marriage, Family Life",
+      "is_seed": false,
+      "expand_score": 0.7881990075111389
+    },
+    {
+      "community_key": "Novel-47558_35",
+      "summary": "1. **Title**: Life in 19th Century Kentucky\n2. **Summary**: The text chunks describe life in 19th century Kentucky, focusing on the experiences of characters such as Tom Fairfield, Don Carlo, and Aunt Katy. The stories touch on themes of family, religion, and social class, providing a glimpse into the daily lives and struggles of people living in Kentucky during this time period. The characters face various challenges, including poverty, illness, and personal struggles, but also find joy and community in their relationships and faith. The text also mentions historical events and cultural practices, such as the \"jerks\" phenomenon in church services and the importance of navigation on the Ohio river.\n3. **Keywords**: Kentucky, 19th century, family, religion, social class",
+      "is_seed": false,
+      "expand_score": 0.7838231325149536
+    },
+    {
+      "community_key": "Novel-58553_46",
+      "summary": "1. **Title**: Life of Angeline Hall\n2. **Summary**: The text chunks appear to be excerpts from a novel or biography about Angeline Hall, a woman who lived in the 19th century. The passages describe her daily life, interactions with others, and her ambitions, as well as her relationships with her husband and friends. The narrative also touches on themes of women's rights, education, and personal growth. The story is presented in a non-linear fashion, with different passages jumping between various points in Angeline's life. The overall tone is reflective and introspective, with a focus on Angeline's experiences and emotions.\n3. **Keywords**: Angeline Hall, Women's Rights, 19th Century, Biography, Personal Growth",
+      "is_seed": false,
+      "expand_score": 0.7818616628646851
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-4128_37",
+      "Novel-4128_60",
+      "Novel-4128_68",
+      "Novel-4128_52",
+      "Novel-4128_28",
+      "Novel-4128_24",
+      "Novel-4128_39",
+      "Novel-4128_79",
+      "Novel-4128_31",
+      "Novel-4128_34",
+      "Novel-40700_3",
+      "Novel-10321_100",
+      "Novel-40700_104",
+      "Novel-40700_59",
+      "Novel-29973_16"
+    ],
+    "expanded_community_keys": [
+      "Novel-5956_166",
+      "Novel-4128_41",
+      "Novel-47558_27",
+      "Novel-5956_97",
+      "Novel-2544_50",
+      "Novel-58553_118",
+      "Novel-10762_163",
+      "Novel-4128_22",
+      "Novel-58553_140",
+      "Novel-47558_35",
+      "Novel-58553_46"
+    ],
+    "all_community_keys": [
+      "Novel-4128_37",
+      "Novel-4128_60",
+      "Novel-4128_68",
+      "Novel-4128_52",
+      "Novel-4128_28",
+      "Novel-4128_24",
+      "Novel-4128_39",
+      "Novel-4128_79",
+      "Novel-4128_31",
+      "Novel-4128_34",
+      "Novel-40700_3",
+      "Novel-10321_100",
+      "Novel-40700_104",
+      "Novel-40700_59",
+      "Novel-29973_16",
+      "Novel-5956_166",
+      "Novel-4128_41",
+      "Novel-47558_27",
+      "Novel-5956_97",
+      "Novel-2544_50",
+      "Novel-58553_118",
+      "Novel-10762_163",
+      "Novel-4128_22",
+      "Novel-58553_140",
+      "Novel-47558_35",
+      "Novel-58553_46"
+    ],
+    "allowed_chunk_pool_size": 334,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

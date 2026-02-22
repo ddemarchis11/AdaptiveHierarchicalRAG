@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7ea7ec68",
+  "question": "What role did Gallegher play in relation to the group known as the Black Diamonds within the narrative?",
+  "gold_answer": "Gallegher led the Black Diamonds.",
+  "llm_answer": "There is insufficient evidence to determine the role Gallegher played in relation to the group known as the Black Diamonds within the narrative.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to determine Gallegher's role, despite the context clearly stating that Gallegher led the Black Diamonds. This contradicts the retrieved context and fails to align with the Gold Answer, which is concise and accurate."
+  }
+}

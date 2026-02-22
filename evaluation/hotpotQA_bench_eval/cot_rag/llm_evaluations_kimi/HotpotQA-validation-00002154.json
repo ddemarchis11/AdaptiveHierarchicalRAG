@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002154",
+  "question": "The twenty-first season of South Park was entitled \"White People Renovating Houses\" is which episode of the series overall?",
+  "gold_answer": "278th episode",
+  "llm_answer": "It is the 278th episode of the series overall.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that 'White People Renovating Houses' is the 278th episode of South Park overall, which matches the Gold Answer and is explicitly supported by the Retrieved Context. All necessary facts are included, and the response is faithful to the provided information."
+  }
+}

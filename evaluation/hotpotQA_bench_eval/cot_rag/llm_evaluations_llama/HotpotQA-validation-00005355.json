@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005355",
+  "question": "What did Eric Radomski produce that premiered on Disney XD on May 26, 2013?",
+  "gold_answer": "Avengers Assemble",
+  "llm_answer": "The evidence does not provide a clear answer to the question of what Eric Radomski produced that premiered on Disney XD on May 26, 2013. However, it does mention that Eric Radomski was an executive producer on the series \"Avengers Assemble\" which premiered on Disney XD on May 26, 2013.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Avengers Assemble' as the series produced by Eric Radomski that premiered on Disney XD on May 26, 2013. This is supported by the retrieved context, which explicitly mentions Radomski as an executive producer of 'Avengers Assemble' and its premiere date. The answer is accurate, faithful to the context, and includes all relevant facts."
+  }
+}

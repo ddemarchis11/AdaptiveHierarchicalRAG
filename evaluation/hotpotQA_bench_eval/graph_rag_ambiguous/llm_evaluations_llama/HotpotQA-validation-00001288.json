@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001288",
+  "question": "Which role did the British actress known for her work at a south London fringe theatre take on earlier in her career — a character in a darkly comic anthology series set inside a confined space, or the role that made her a household name in a long-running London-set soap opera?",
+  "gold_answer": "Melanie Owen",
+  "llm_answer": "The answer is not fully supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not provide a clear or relevant response to the question, nor does it address the role of Melanie Owen or any other relevant information from the context. It fails to answer the question and is not grounded in the retrieved context."
+  }
+}

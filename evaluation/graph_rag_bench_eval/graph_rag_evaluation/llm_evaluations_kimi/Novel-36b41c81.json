@@ -1,0 +1,12 @@
+{
+  "id": "Novel-36b41c81",
+  "question": "In the manufacture of agglomerated artificial fuel, what substance is coal dust mixed with to create the final product?",
+  "gold_answer": "Coal dust is mixed with grains.",
+  "llm_answer": "The coal dust is mixed with broken coal pitch, added in the proportion of eight to ten per cent of the coal.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that coal dust is mixed with broken coal pitch, which is supported by the retrieved context. However, this does not align with the Gold Answer, which specifies that coal dust is mixed with grains. The Model Answer fails to address the core truth of the Gold Answer and misses the key fact entirely."
+  }
+}

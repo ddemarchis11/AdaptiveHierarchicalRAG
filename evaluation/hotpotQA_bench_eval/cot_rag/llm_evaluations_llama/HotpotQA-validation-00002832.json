@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002832",
+  "question": "Which mathematician worked with algebraic geometry instead of probability theory, Askold Khovanskii or Andrey Kolmogorov?",
+  "gold_answer": "Askold Georgievich Khovanskii",
+  "llm_answer": "Based on the provided evidence, the mathematician who worked with algebraic geometry instead of probability theory is Askold Khovanskii.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Askold Khovanskii as the mathematician who worked with algebraic geometry instead of probability theory. This is consistent with the retrieved context, which details Khovanskii's contributions to algebraic geometry and related fields, while Kolmogorov is described as central to probability theory. The Model Answer is concise and fully aligned with the Gold Answer and the context."
+  }
+}

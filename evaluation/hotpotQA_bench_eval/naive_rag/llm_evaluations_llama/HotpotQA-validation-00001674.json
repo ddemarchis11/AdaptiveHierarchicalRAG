@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What did both Karel Bossart and Sergei Korolev design?",
+  "gold_answer": "rocket",
+  "llm_answer": "I cannot verify what both Karel Bossart and Sergei Korolev designed.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'rocket,' as stated in the Gold Answer. The retrieved context contains sufficient information to confirm that both Karel Bossart and Sergei Korolev were rocket designers, but the model does not utilize this information or provide a grounded answer."
+  }
+}

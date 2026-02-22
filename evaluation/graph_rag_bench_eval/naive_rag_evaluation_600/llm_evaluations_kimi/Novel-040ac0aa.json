@@ -1,0 +1,12 @@
+{
+  "id": "Novel-040ac0aa",
+  "question": "How do the actions of the Green Man, such as meeting Eileen Macarthy, granting Eily a wish, asking questions of Eily, and receiving answers from Eily, overlap or differ in his interactions with both Eily and Eileen Macarthy within the story?",
+  "gold_answer": "The Green Man meets Eileen Macarthy, gives Eily a wish, asks Eily questions, and receives answers from Eily, showing his interactions with both Eily and Eileen Macarthy.",
+  "llm_answer": "The Green Man’s dealings with “Eily” and “Eileen Macarthy” are one continuous set of actions aimed at the same person.  \n- He first meets the child in the wood, questions her, and she answers “Eileen Macarthy … they calls me Eily.”  \n- From that moment on he addresses her as “Eily,” but every wish, warning, or parting blessing is still directed at Eileen Macarthy.  \n\nThus the dialogue, the granting of the wish, the cautions, and the final instructions are not two separate cycles of behaviour; they are a single sequence in which the fairy uses the girl’s pet-name while fully aware of her full name, Eileen Macarthy. There is no overlap or difference in his conduct—only a shift from formal to familiar address within the same encounter.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the Green Man's interactions with Eily and Eileen Macarthy are part of a single sequence, with no substantive difference in his conduct beyond the shift from formal to familiar address. This interpretation aligns with the Gold Answer and is fully supported by the Retrieved Context, which details the Green Man's actions and dialogue with Eily/Eileen Macarthy. The Model Answer also provides additional clarification about the continuity of the interactions, which is relevant and grounded in the context."
+  }
+}

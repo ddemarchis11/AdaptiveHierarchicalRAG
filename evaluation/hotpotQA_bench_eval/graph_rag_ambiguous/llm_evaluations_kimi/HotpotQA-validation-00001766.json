@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001766",
+  "question": "An eighteenth-century Italian physician who studied alongside the man credited with founding a discipline concerned with biological responses to electrical stimuli — what was that field?",
+  "gold_answer": "bioelectromagnetics",
+  "llm_answer": "The field is “animal electricity” (or bioelectricity), the discipline Luigi Galvani founded and in which Eusebio Valli studied under him.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer identifies 'animal electricity' or 'bioelectricity' as the field, which is closely related to the Gold Answer 'bioelectromagnetics.' However, 'bioelectromagnetics' is the more precise term for the discipline concerned with biological responses to electrical stimuli. The Model Answer is faithful to the context, as it correctly references Galvani's work and Valli's studies under him, but it does not fully align with the terminology used in the Gold Answer, missing the exact term 'bioelectromagnetics.'"
+  }
+}

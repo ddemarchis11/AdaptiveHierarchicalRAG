@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The evidence provided does not describe the process of making sugar.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The model correctly identifies that the retrieved context does not describe the process of making sugar, aligning with the lack of relevant information in the provided evidence. The Gold Answer is not supported by the context either, making the model's response accurate and faithful."
+  }
+}

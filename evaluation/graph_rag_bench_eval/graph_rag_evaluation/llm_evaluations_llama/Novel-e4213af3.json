@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e4213af3",
+  "question": "Who was the commander of the British military forces tasked with suppressing the rebellion during the Lower Canada Rebellion of 1837-1838?",
+  "gold_answer": "Sir John Colborne was in command of the British forces during the Lower Canada Rebellion.",
+  "llm_answer": "Sir John Colborne was the commander-in-chief of the forces in Canada during the Lower Canada Rebellion of 1837-1838.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Sir John Colborne as the commander of the British forces during the Lower Canada Rebellion, aligning with the Gold Answer. The retrieved context supports this claim, mentioning Colborne's role as commander-in-chief during the rebellion. All key facts from the Gold Answer are included."
+  }
+}

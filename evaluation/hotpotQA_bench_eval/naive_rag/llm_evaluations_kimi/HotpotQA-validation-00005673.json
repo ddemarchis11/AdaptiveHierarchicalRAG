@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005673",
+  "question": "how many films has the director of \"Girl 6\" produced since 1983?",
+  "gold_answer": "over 35 films",
+  "llm_answer": "The evidence provided does not specify how many films Spike Lee, the director of \"Girl 6,\" has produced since 1983.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct information ('over 35 films') as stated in the Gold Answer. Additionally, the Retrieved Context does not contain relevant information to support the Model Answer or the Gold Answer, making the response ungrounded and lacking evidence coverage."
+  }
+}

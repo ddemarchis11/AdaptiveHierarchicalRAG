@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The evidence only states that “Sugar is made from the sap of this tree [the Sugar Maple].”  \nNo further details of the process are provided.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that sugar is made from the sap of the Sugar Maple, as stated in the context. It does not add unsupported details and aligns with the Gold Answer, which is concise. All relevant facts from the Gold Answer are included."
+  }
+}

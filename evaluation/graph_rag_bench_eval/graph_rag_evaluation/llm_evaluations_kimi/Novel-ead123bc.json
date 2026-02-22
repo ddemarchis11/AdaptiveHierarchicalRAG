@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ead123bc",
+  "question": "In the narrative, what connections are described between the region of Cilicia—located in Asia Minor and formerly a center of piracy until Pompey suppressed it—the poet Aratus, who was a native of Cilicia, and the critical view held by Quintilian, who condemned Aratus' work?",
+  "gold_answer": "Cilicia was located in Asia Minor, was a center of piracy until suppressed by Pompey, Aratus was a native of Cilicia, and Aratus was condemned by Quintilian.",
+  "llm_answer": "The provided context does not mention Cilicia, Aratus, or Quintilian, so no connections among them are described.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Cilicia, Aratus, or Quintilian, and therefore no connections among them are described. This aligns with the absence of relevant details in the context and is consistent with the Gold Answer's core facts."
+  }
+}

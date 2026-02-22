@@ -1,0 +1,12 @@
+{
+  "id": "Novel-82d548d7",
+  "question": "Drawing from Augustus Le Plongeon's analysis in 'Vestiges of the Mayas,' what evidence is presented for connections between the Mayas and the Egyptians, and what relationships or comparisons are described between the Mayas and the civilizations of the Asiatic peninsulas?",
+  "gold_answer": "The Mayas had many customs and attainments identical to those of the Egyptians, were compared to the Egyptians, and had relations with Asiatic peninsulas.",
+  "llm_answer": "Evidence for connections between the Mayas and the Egyptians  \n- Le Plongeon lists “many of the customs and attainments of the Egyptians” as “identical to those of the Mayas.”  \n- He notes that Egyptian religious rites point westward “as the birthplaces of their ancestors” and that the Egyptians “worshiped as gods and goddesses personages who had lived, and whose remains are still in MAYAB.”  \n\nRelationships or comparisons between the Mayas and the civilizations of the Asiatic peninsulas  \n- Shared “religious lores and customs” are said to be “too few to justify” the claim that the Mayas received their civilization from those peninsulas; the common elements merely indicate that “relations had existed between them at some epoch” and that they “interchanged some of their habits and beliefs.”  \n- Sculptured figures on the obelisks of Copan show “the Asiatic type,” while “the features of the statues that adorn the celebrated temples of Hindostan are, beyond all doubts, American,” suggesting reciprocal or trans-oceanic contact rather than one-way cultural transmission.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, elaborating on the connections between the Mayas and Egyptians, as well as the relationships with Asiatic civilizations. It provides detailed evidence from the context, such as shared customs, religious rites, and sculptural features, all of which are grounded in the retrieved context. Additionally, it includes all key facts mentioned in the Gold Answer, making it both correct and faithful."
+  }
+}

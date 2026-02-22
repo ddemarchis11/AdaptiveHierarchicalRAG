@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20eb3bc8",
+  "question": "How is the conflict and relationship between Don Carlo and Brindle Bill portrayed in the novel 'Pen Pictures'? Please explain how Don Carlo defied and fought Brindle Bill, leading to his identification as the Hero of Shirt-Tail Bend.",
+  "gold_answer": "Don Carlo defied and fought Brindle Bill, and was identified as the Hero of Shirt-Tail Bend.",
+  "llm_answer": "The feud between Don Carlo and Brindle Bill is the central clash of “Pen-Pictures.”  \nBrindle Bill is the swaggering bully who controls the settlement through threats, cards, and liquor; Don Carlo is the quiet, upright partner who has watched Bill and his own brother Dan drain the profits of the wood-yard while he alone pays every expense.  \nThe crisis comes the night Don knows another swindle is being prepared inside the locked “headquarters” cabin. Instead of accepting the loss, he climbs down the chimney, rakes the pile of silver dollars off the card-table and pockets it. Bill instantly claims the money and, by the river code, demands a fist-fight to settle the insult.  \n\nDon refuses seconds or words; the two men close in beside the glowing hearth. Though Bill is heavier, Don’s quickness and “true pluck” give him the advantage—he lands a blow that “starts the blood” from Bill’s nose. At that instant Simon’s wife, hidden outside, sets the cane-pile against the cabin on fire; the roof bursts into flame, the fighters and onlookers rush out, and the sudden exposure breaks Bill’s prestige. No one will second him for a new fight, his credit collapses, and he leaves the Bend.  \n\nBecause Don’s single-handed stand recovered the money, ended Brindle Bill’s reign, and started the settlement toward schools, churches, and honest work, the wood-cutters give Don Carlo the title that closes the episode: “the Hero of Shirt-Tail Bend.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately portrays the conflict and relationship between Don Carlo and Brindle Bill, detailing how Don Carlo defied and fought Brindle Bill, leading to his identification as the Hero of Shirt-Tail Bend. It provides additional context and narrative details that are fully supported by the retrieved context, such as the chimney entry, the fistfight, and the societal impact of Don Carlo's actions. All key facts from the Gold Answer are included, and the elaboration aligns with the context."
+  }
+}

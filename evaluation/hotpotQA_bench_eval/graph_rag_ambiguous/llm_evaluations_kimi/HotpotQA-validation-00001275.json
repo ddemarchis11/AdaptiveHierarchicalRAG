@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001275",
+  "question": "Between the frontman of an American extreme metal band active since the 2000s and the co-founder of a seminal British psychedelic rock group who suffered a mental health breakdown, which artist is credited with a broader range of roles and activities?",
+  "gold_answer": "Gregory John \"Greg\" Puciato",
+  "llm_answer": "The context only provides detailed information about Syd Barrett, co-founder of Pink Floyd, noting he was a singer, guitarist, songwriter, and later a painter and gardener. It does not give comparable detail about the American extreme-metal frontman, so we cannot determine from the given text which artist had the broader range of roles and activities.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question directly or identify Gregory John 'Greg' Puciato as the artist with a broader range of roles and activities, as stated in the Gold Answer. While the response is faithful to the context provided, it fails to include the necessary evidence or core information from the Gold Answer."
+  }
+}

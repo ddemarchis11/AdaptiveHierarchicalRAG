@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b17a5c65",
+  "question": "In the scenes where Latimer meets with the bishop to ask for Ellen's hand in marriage, how does the bishop's demeanor reveal both his confidence in Latimer and his role as a judge of Latimer's character and intentions?",
+  "gold_answer": "The bishop had confidence in Latimer, spoke with him, and was judging him.",
+  "llm_answer": "The bishop’s manner shifts from warm, almost paternal confidence to deliberate judicial scrutiny.  \nAt first he speaks with open affection—“I like you, I like you very much”—and reminds Latimer that he has long welcomed him into the house and trusted him with Ellen’s company. This warmth shows the bishop’s underlying confidence in the young man’s basic worth.  \n\nYet the moment he frames his hypothetical test he becomes the bench: he demands a truthful answer, fixes Latimer with “the most anxious scrutiny,” and explicitly says, “on your answer depends mine.” His posture, tone, and the formal, almost courtroom silence that follows turn the study into a tribunal. The bishop is no longer a fond host; he is the judge who must weigh whether Latimer’s love is sturdy enough to entrust his only child to him.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the core meaning of the Gold Answer, elaborating on the bishop's confidence in Latimer and his role as a judge of Latimer's character and intentions. It provides detailed analysis supported by the retrieved context, including the bishop's shift in demeanor and his hypothetical test. All claims in the Model Answer are grounded in the context, and it includes all key facts from the Gold Answer."
+  }
+}

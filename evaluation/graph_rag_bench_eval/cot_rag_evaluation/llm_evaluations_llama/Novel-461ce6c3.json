@@ -1,0 +1,12 @@
+{
+  "id": "Novel-461ce6c3",
+  "question": "What is the connection between the movements of Captain Balfour and Mr. Reade?",
+  "gold_answer": "Captain Balfour travelled to Jereed, and Mr. Reade travelled with Captain Balfour.",
+  "llm_answer": "The connection between the movements of Captain Balfour and Mr. Reade is that they are tourists who traveled together in the Jereed, a region in the Tunisian territory. They were accompanied by Sidi Mohammed, the \"Bey of the Camp,\" who administered affairs in the Jereed as a sovereign and was heir-apparent to the Tunisian throne.\n\nThey visited various places, including the Plain of Manouba, Tunis, Tfeefleeah, and Ghafsa, and were involved in various activities, such as collecting tribute, observing the administration of justice, and admiring the palm-groves.\n\nThe text also mentions that they brought home a variety of curious Jereed things, including small date-baskets full of dates, woollen articles, skins of all sorts, and a few live animals, which were given to them by Sidi Mohammed as presents.\n\nAdditionally, the text states that after their return, Sidi Mohammed sent them some deer, Jereed goats, an ostrich, etc., as a token of his hospitality and kind attentions.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Captain Balfour and Mr. Reade traveled together in the Jereed, which aligns with the Gold Answer. However, it introduces additional details about their activities, places visited, and gifts received, which are partially supported by the context but not directly relevant to the core question about their connection. The Model Answer misses the concise point that Mr. Reade specifically traveled with Captain Balfour, as stated in the Gold Answer, and instead focuses on broader aspects of their journey."
+  }
+}

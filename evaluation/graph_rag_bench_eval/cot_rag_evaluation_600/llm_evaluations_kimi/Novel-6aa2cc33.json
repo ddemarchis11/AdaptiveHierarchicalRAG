@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6aa2cc33",
+  "question": "How does the narrative chain connect Cornwall's legendary expression to Arthur and his associates, particularly through Arthur's relationship with Sir Bedevere and the pivotal event of Excalibur being thrown away?",
+  "gold_answer": "Cornwall is said to find its legendary expression in Arthur, who is connected to Sir Bedivere and pivotal events like the throwing of Excalibur, tying the region's narrative identity to Arthurian legend.",
+  "llm_answer": "The narrative chain runs as follows:\n\n1. Cornwall’s legendary expression is rooted in the landscape itself—Tintagel as Arthur’s birthplace, Camelford as the scene of his last battle, and Dozmare Pool as the waters into which Excalibur must be thrown.  \n2. At that last scene Arthur commands “his last faithful knight, Sir Bedevere” to carry him to the shore of the mere and “throw in there his sword Excalibur.”  \n3. Bedevere’s obedience to this command—casting the sword away—triggers the arrival of the mystic boat with the three queens, who bear Arthur off to be healed.  \n4. Thus the Cornish place-legends (Tintagel, Camelford, Dozmare Pool) are directly tied to Arthur and his associates through the pivotal act of Bedevere disposing of Excalibur.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately connects Cornwall's legendary expression to Arthurian legend, specifically through Arthur's relationship with Sir Bedevere and the pivotal event of Excalibur being thrown away. It elaborates on the Gold Answer by detailing the locations (Tintagel, Camelford, Dozmare Pool) and the sequence of events, all of which are supported by the Retrieved Context. The additional details enhance understanding without deviating from the core truth of the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002921",
+  "question": "What kind of company is this group whose headquarters are in AIA Central?",
+  "gold_answer": "pan-Asian life insurance group",
+  "llm_answer": "The company is an insurance and finance corporation.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the company as an insurance and finance corporation, which aligns with the context. However, it does not specify that it is a 'pan-Asian life insurance group,' as stated in the Gold Answer. While the Model Answer is faithful to the context, it misses the specific regional and life insurance focus mentioned in the Gold Answer."
+  }
+}

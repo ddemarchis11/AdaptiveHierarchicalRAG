@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003628",
+  "question": "WHere are both Sanming and Jiutai District located?",
+  "gold_answer": "China",
+  "llm_answer": "Jiutai District is in Changchun, Jilin Province, Northeast China.  \nSanming is in Fujian Province, China.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that both Jiutai District and Sanming are located in China, specifying their respective provinces (Jilin and Fujian). This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides details about their locations."
+  }
+}

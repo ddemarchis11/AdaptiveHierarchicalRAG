@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002673",
+  "question": "What major city is John Bice Memorial Oval located within?",
+  "gold_answer": "City of Onkaparinga",
+  "llm_answer": "Adelaide",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states 'Adelaide' as the major city where John Bice Memorial Oval is located. The Gold Answer specifies 'City of Onkaparinga,' which is supported by the Retrieved Context. The context clearly situates Christies Beach within the City of Onkaparinga, not Adelaide. Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c13f69",
+  "question": "Who provides meals for The Dean during his time in custody, drawing upon her past experience as the Deanery cook?",
+  "gold_answer": "Hannah provides meals for The Dean.",
+  "llm_answer": "Hannah, who formerly cooked at the Deanery, provides meals for the Dean during his custody.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Hannah provides meals for the Dean during his custody, aligning with the Gold Answer. It also adds relevant context about her past role as the Deanery cook, which is consistent with the question. However, the retrieved context does not explicitly confirm that Hannah provides meals for the Dean during his custody, making the grounding partially unsupported. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

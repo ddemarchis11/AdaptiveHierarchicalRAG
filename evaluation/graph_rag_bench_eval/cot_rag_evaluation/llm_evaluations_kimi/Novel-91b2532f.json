@@ -1,0 +1,12 @@
+{
+  "id": "Novel-91b2532f",
+  "question": "During the period of unrest in Minnesota, what patterns of protest and government response emerged, particularly as Indians protested against traders sitting at the government's pay table and the government was accused of neglecting its wards in Minnesota, eventually leading to the state's call to furnish military regiments such as the Sixth regiment?",
+  "gold_answer": "Indians protested against traders sitting at the pay table of the government, while the government neglected its wards in Minnesota, leading to ongoing unrest and calls for military intervention.",
+  "llm_answer": "Pattern of protest: Indians repeatedly came to the agencies expecting their gold annuities; when paymasters failed to appear they protested against traders being allowed to sit at the government pay table and seize the Indians’ small annuities to satisfy alleged debts.\n\nPattern of government response: Payment was withheld (the Indians were told the “great father had no gold” because of the Civil War), creating severe hardship; when open hostilities began the federal government called on Minnesota to furnish five military regiments, including the Sixth.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing the patterns of protest and government response. It is fully supported by the Retrieved Context, which describes the Indians' protests against traders at the pay table, the government's neglect due to the Civil War, and the eventual call for military regiments. The Model Answer also includes all key facts from the Gold Answer, such as the protests, government neglect, and military intervention."
+  }
+}

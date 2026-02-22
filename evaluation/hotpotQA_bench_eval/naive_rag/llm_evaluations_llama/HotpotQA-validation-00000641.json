@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000641",
+  "question": "Which English actor, comedian and singer is featured in Chalk and Cheese?",
+  "gold_answer": "Michael Patrick Smith",
+  "llm_answer": "I cannot verify which English actor, comedian and singer is featured in Chalk and Cheese.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct answer, 'Michael Patrick Smith,' which is clearly stated in the Gold Answer and supported by the Retrieved Context. It also does not attempt to utilize the context to address the question, resulting in a lack of correctness, grounding, and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddedee1e",
+  "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+  "gold_answer": "French Canadians struggled with the Chateau Clique, and the Chateau Clique conflicted with the Patriotes, shaping attempts at reform.",
+  "llm_answer": "The context shows that French Canadians struggled against the Château Clique for official recognition of their language and national identity, while the Patriotes later confronted this same Clique as part of their broader fight for reform. These overlapping conflicts—French Canadians vs. the Clique and the Patriotes vs. the Clique—helped define the reform movement by uniting opposition to the entrenched elite and pushing demands for political change.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, elaborating on the struggles between French Canadians, the Château Clique, and the Patriotes, and their influence on reform efforts. It is grounded in the retrieved context, which discusses the conflicts and reform movements, and includes all key facts from the Gold Answer while providing additional relevant details."
+  }
+}

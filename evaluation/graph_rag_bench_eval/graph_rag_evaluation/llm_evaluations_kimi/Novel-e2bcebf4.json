@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "The only creatures mentioned eating anything are two mice, and the foods they consume are squash pie and ginger; no nuts of any kind—hazel, butternut, chestnut, acorn, or beech-nut—appear in their diet.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies mice as the creatures eating food and does not mention star-nosed moles or their diet of nuts, as stated in the Gold Answer. Additionally, the retrieved context does not provide information about star-nosed moles or their diet, making the Model Answer unfaithful to the context and failing to cover the key facts from the Gold Answer."
+  }
+}

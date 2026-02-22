@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ae8f12bc",
+  "question": "Describe, within the context of the furnace used for revivifying bone-black, how the energy transformation process begins with the coke fire in the fire-place producing flames, which then heat the retorts where the bone-black is placed for revivification.",
+  "gold_answer": "The coke fire in the fire-place produces flames that heat the retorts, enabling them to revivify bone-black placed inside.",
+  "llm_answer": "The energy transformation process begins with the coke fire in the fire-place producing flames. These flames then heat the retorts where the bone-black is placed for revivification. The flames spread throughout the fire chamber, direct themselves toward the bottom, divide into two parts to the right and left, and heat the back of the retorts in passing. Then the two currents mount through the lateral flues, V, and unite so as to form but one in the drier.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes the energy transformation process, starting with the coke fire producing flames that heat the retorts for revivifying bone-black. It provides additional details about the flame's path and heating mechanism, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the explanation aligns with the context provided."
+  }
+}

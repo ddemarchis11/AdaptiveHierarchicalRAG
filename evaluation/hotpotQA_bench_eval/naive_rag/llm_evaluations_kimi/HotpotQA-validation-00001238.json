@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001238",
+  "question": "Operation light house was an experiment by Wernher von Braun and another man born in what year?",
+  "gold_answer": "1895",
+  "llm_answer": "Walter Dornberger was born in 1895.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Walter Dornberger as the man born in 1895, which aligns with the Gold Answer. The retrieved context mentions Dornberger's involvement in Operation Lighthouse, supporting the claim. All key facts from the Gold Answer are included."
+  }
+}

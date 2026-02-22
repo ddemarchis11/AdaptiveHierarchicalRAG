@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00004257",
+  "question": "Which lake is located further south, Dal Lake or Waterton Lake?",
+  "gold_answer": "Dal Lake",
+  "llm_answer": "Waterton Lake is located further south than Dal Lake.\n\nEvidence: Waterton Lake’s geocoordinates are given as 49°03′00″N, placing it at about 49.05° N latitude. Dal Lake is in Kashmir; sources list it among “Important lakes” of India without giving coordinates, but Kashmir’s major lakes lie above roughly 32° N. Therefore Waterton Lake, at ~49° N, is farther south than Dal Lake.",
+  "context": [
+    {
+      "text": "Waterton Lake ( Blackfoot : Paahtómahksikimi ) is a mountain lake in southern Alberta , Canada, and northern Montana , United States. The lake is composed of two bodies of water, connected by a shallow channel known locally as the Bosporus. The two parts are referred to as Middle Waterton Lake, and Upper Waterton Lake, the latter of which is divided by the Canada–United States border , with Canada containing about two thirds of the lake, while the southern third falls in the United States. The Boundary Commission Trail ends at the lake as the last border marker was placed there on 8 August 1874. The United States Geological Survey gives the geocoordinates of 49°03′00″N 113°54′03″W ﻿ / ﻿ 49.05000°N 113.90083°W ﻿ / 49.05000; -113.90083 for Upper Waterton Lake. Lower Waterton Lake is north of Middle Waterton Lake and is separated by a channel known as the Dardanelles. The northern, lower end of the main lake lies in Waterton Lakes National Park , while the upper, southern part of the lake is located in Glacier National Park . In 1979, UNESCO established the Waterton Biosphere Reserve to protect the diverse habitats including prairie grasslands , aspen parkland , subalpine forests, alpine tundra and freshwater fens that surround the lake.",
+      "id": "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_0"
+    },
+    {
+      "text": "habitats including prairie grasslands , aspen parkland , subalpine forests, alpine tundra and freshwater fens that surround the lake. Waterton-Glacier International Peace Park was created by the US and Canada in 1932, and in 1976 it was designated an International Biosphere Reserve . Later, in 1995, it was inscribed as a World Heritage Site by UNESCO. The upper and middle Waterton Lake system has a surface of 10.1 km 2 (3.9 sq mi), while the lower lake, which is in Canada only, has 1.5 km 2 (0.58 sq mi) and lies at an altitude of 1,274 m (4,180 ft). Two soundings of the lake were 210 feet (64 m) and 317 feet (97 m), done in 1910. More recent soundings have revealed a depth of 490 ft (150 m). Highway 5 has its westernmost point on the shores of the lake. Upper Waterton Lake with Prince of Wales Hotel and Mount Richards Waterton Lake in winter 49th parallel north at Waterton Lake Looking south across Waterton Lake. Waterton River The Waterton River is part of the South Saskatchewan River Basin, and the Oldman River Sub-Basin. Waterton River flows north from the Lower Waterton Lake for approx. 32 km to reach the Waterton Reservoir (Est. 1964)",
+      "id": "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_1"
+    },
+    {
+      "text": "Anchar Lake ( Urdu pronunciation: [ɑ̃ːt͡ʃɑːr] ; Kashmiri pronunciation: [ãːt͡ʃaːr] ) ; lit. ' Pickle ' ) is a lake located in Soura in the Srinagar district of the Indian -administered Jammu and Kashmir . Situated close to Ganderbal , the lake is connected with the famous Dal Lake via a channel, \"Amir Khan Nallah,\" which passes through Gilsar and Khushal Sar . The lake is in a highly deteriorated condition. In case of flooding, the excessive water of the Dal is diverted here. The Shallabugh Wetland is fed by water from the Sind River and Anchar Lake. Deterioration Once a popular tourist destination, as tourists on shikaras and houseboats used to travel here from Dal Lake, over the years it has deteriorated owing to pollution , large-scale encroachment , and illegal constructions in its surroundings. In the 1990s, when the Nallah Mar was covered to build the Mearplan highway around the western side of Dal, six-foot pipes were laid under the new road to allow Dal to continue to drain into the Anchar lake system, however, the pipes soon clogged due to waste and debris. Like the Dal Lake and Wular Lake , it is home to the Hanji community, which lives near the lake",
+      "id": "HotpotQA-validation-00004257/02_Anchar-Lake.html_c_0"
+    },
+    {
+      "text": "Kashmir \". Island of Char Chinar A famous landmark in Srinagar is an island on Dal where four Chinar ( Platanus orientalis ) trees stand, named \" Char Chinar \". Char in Hindi and Urdu means four. Nigeen Lake Left: Nagin Lake. Right: Chasme Shahi under renovation Nigeen Lake, though sometimes referred to as a separate lake, is actually part of Dal, being linked through a causeway which permits only bikers and walkers to enter the lake precincts. The causeway carries the water supply pipeline to the Srinagar city in the east. The lake is bounded by the Shankaracharya hill (Takht-e-Suleiman) on the south and Hari Parbat on the west and is located at the foot of the Zabarwan hills. Willow and poplar trees flank the edges of the lake. Chashme Shahi Cheshme Shahi Garden Srinagr Chashme Shahi , meaning \"Royal Spring\", is a fresh water spring and garden known for its medicinal properties. Its source located above the Nehru Memorial Park. It is the smallest of all the Mughal gardens in Srinagar, measuring 108 metres (354 ft) x 38 metres (125 ft) and it has three terraces, an aqueduct, waterfalls and fountains. Ali Mardan Khan built the garden in 1632, and is built in such a way that the spring water",
+      "id": "HotpotQA-validation-00004257/00_Dal-Lake.html_c_17"
+    },
+    {
+      "text": "Ten Degree Channel , which separates the Andamans from the Nicobar Islands; and the Eight Degree Channel, which separates the Laccadive and Amindivi Islands from the Minicoy Island to the south. Important capes include the Kanyakumari (formerly called Cape Comorin), the southern tip of mainland India; Indira Point , the southernmost point in India (on Great Nicobar Island); Rama's Bridge , and Point Calimere . The Arabian Sea lies to the west of India, the Bay of Bengal and the Indian Ocean lie to the east and south, respectively. Smaller seas include the Laccadive Sea and the Andaman Sea . There are four coral reefs in India, located in the Andaman and Nicobar Islands, the Gulf of Mannar, Lakshadweep, and the Gulf of Kutch. Important lakes include Sambhar Lake , the country's largest saltwater lake in Rajasthan, Vembanad Lake in Kerala, Kolleru Lake in Andhra Pradesh, Loktak Lake in Manipur , Dal Lake in Kashmir, Chilka Lake (lagoon lake) in Odisha, and Sasthamkotta Lake in Kerala. Wetlands A map of the Indian Sunderbans in West Bengal Pichavaram Mangroves, Tamil Nadu India's wetland ecosystem is widely distributed from the cold and arid located in the Ladakh region of Jammu and Kashmir, and those with the wet",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_28"
+    },
+    {
+      "text": "The nearest airport, which connects with other major cities in the country, is about 12.8 kilometres (8.0 mi) away at Badgam . The nearest railway station is Srinagar railway station which is 18.8 kilometres (11.7 mi) from Dal Lake. The National Highway NH1A connects the Kashmir valley with rest of the country. Legacy Dal Lake on a usual Afternoon Salman Rushdie 's Dull lake in his novel Harun and the Sea of Stories is a reference to the Dal lake. The scene depicting sexual intimacy between Musa and his girlfriend Tilo in Arundhati Roy 's The Ministry of Utmost Happiness , takes place on a houseboat on the Dal lake. \"Dupte Nunem,\" one of the famous songs of Aadil Gurezi, refers to the breeze of Dal lake. See also Lakes portal Nigeen Lake Gadsar Lake Gangabal Lake Manasbal Lake Wular Lake Anchar Lake Khanpursar Aharbal Hazratbal Shrine Khushal Sar Gilsar Gulmarg Gurez Kashmir Railway Hokersar References Notes Sources Pandit, Ashok K. (1999). Freshwater ecosystems of the Himalaya . Informa Health Care. ISBN 1-85070-782-0 . {{ cite book }} : |work= ignored ( help ) Wikimedia Commons has media related to Dal Lake .",
+      "id": "HotpotQA-validation-00004257/00_Dal-Lake.html_c_24"
+    }
+  ],
+  "cot_scratchpad": "- Waterton Lake lies at 49°03′00″N, so its southernmost point is ≈49.05°N (HotpotQA-validation-00004257/01_Waterton-Lake.html_c_0).\n- Dal Lake is in Kashmir, India; Indian geography sources list it among northern lakes with no southern latitude given (HotpotQA-validation-00003228/01_Geography-of-India.html_c_28).\n- Need explicit latitude for Dal Lake to compare with 49.05°N.\n- Waterton Lake is at 49°03′N, so its southern limit ≈ 49.05°N (HotpotQA-validation-00004257/01_Waterton-Lake.html_c_0).\n- Evidence still lacks Dal Lake’s exact latitude; Kashmir location alone insufficient for south/north comparison.\n- Need precise geographic coordinate for Dal Lake to decide which lake is further south.\n- Dal Lake is near Srinagar, Kashmir but no latitude is provided (HotpotQA-validation-00004257/00_Dal-Lake.html_c_24).\n- Waterton Lake is documented at 49°03′N, so any lake south of 49°N is further south (HotpotQA-validation-00004257/01_Waterton-Lake.html_c_0).\n- Need Dal Lake’s exact latitude to decide which is further south.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which lake is located further south, Dal Lake or Waterton Lake?",
+      "doc_ids": [
+        "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_0",
+        "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_1",
+        "HotpotQA-validation-00004257/02_Anchar-Lake.html_c_0",
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_17",
+        "HotpotQA-validation-00003228/01_Geography-of-India.html_c_28"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Dal Lake latitude coordinates",
+      "doc_ids": [
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_24",
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_1",
+        "HotpotQA-validation-00004257/02_Anchar-Lake.html_c_0",
+        "HotpotQA-validation-00004257/03_Foreshore-Road.html_c_0",
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_23"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Dal Lake latitude coordinate",
+      "doc_ids": [
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_24",
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_1",
+        "HotpotQA-validation-00004257/02_Anchar-Lake.html_c_0",
+        "HotpotQA-validation-00004257/03_Foreshore-Road.html_c_0",
+        "HotpotQA-validation-00004257/00_Dal-Lake.html_c_23"
+      ]
+    }
+  ]
+}

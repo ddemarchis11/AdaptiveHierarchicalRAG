@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000809",
+  "question": "Two celebrated South Indian sister duos — one active from the mid-twentieth century and one that rose to prominence more recently — both performed in which classical tradition?",
+  "gold_answer": "Carnatic music",
+  "llm_answer": "The provided context does not mention any South Indian sister duos or the classical tradition in which they performed, so this cannot be answered from the given information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the question cannot be answered from the context, which is correct since the retrieved context is irrelevant to the question. However, the Model Answer fails to provide the correct answer ('Carnatic music') using internal knowledge, which it could have done. Therefore, it does not meet the criteria for correctness or evidence coverage."
+  }
+}

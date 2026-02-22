@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The Sioux outbreak forced Minnesota’s military authorities to seize civilian teams and wagons for frontier supply transport, and later prompted the First Cavalry’s 1864 campaign against the “rebellious Sioux” under General Sully.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning Minnesota's military response to the Sioux outbreak, including the seizure of civilian resources and the First Cavalry's campaign. However, it omits the specific detail from the Gold Answer about Minnesota furnishing the Sixth regiment after the U.S. gained land from the Sioux. Additionally, while the Model Answer references events from the context, it does not fully align with the Gold Answer's focus on Gen. Sibley and the Sixth regiment, and some claims lack explicit grounding in the retrieved context."
+  }
+}

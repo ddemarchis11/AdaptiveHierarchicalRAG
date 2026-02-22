@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002016",
+  "question": "Of two high-altitude peaks — one straddling the border between Nepal and Sikkim in the eastern Himalayas, the other situated in a plateau region governed by an autonomous territory of a large East Asian nation — which lies within that nation's borders?",
+  "gold_answer": "Kangpenqing (also Gang Benchhen) is a mountain in the Baiku Himalayas of Tibet, China.",
+  "llm_answer": "The context does not mention any high-altitude peak situated in a plateau region governed by an autonomous territory of a large East Asian nation, so it cannot be determined which of the two peaks lies within that nation's borders.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question correctly. The Gold Answer specifies Kangpenqing (Gang Benchhen) as the peak within China's borders, but the Model Answer does not provide this information or any relevant details. Additionally, the retrieved context does not directly support the Model Answer's claim that the information cannot be determined, as it does not address Kangpenqing or the autonomous territory in question."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001692",
+  "question": "Within which Long Island township does the hamlet that was formerly served by a now-defunct local trolley and transit company fall?",
+  "gold_answer": "Town of Islip",
+  "llm_answer": "The context does not specify which Long Island township contains a hamlet formerly served by a now-defunct local trolley and transit company, so this cannot be determined from the given information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information to answer the question. However, the Gold Answer specifies 'Town of Islip,' which the model fails to include or infer. While the model is faithful to the context, it does not provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

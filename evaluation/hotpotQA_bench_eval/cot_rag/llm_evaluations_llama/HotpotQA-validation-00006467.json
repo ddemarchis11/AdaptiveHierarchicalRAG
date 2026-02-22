@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006467",
+  "question": "Are Siping, Jilin and Linhai both in the same province in China?",
+  "gold_answer": "no",
+  "llm_answer": "Yes, Siping, Jilin, and Linhai are all in the same province in China.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Siping, Jilin, and Linhai are in the same province, which contradicts the Gold Answer ('no') and is not supported by the Retrieved Context. The context provides information about Siping being in Jilin Province but does not mention Linhai or provide evidence that they are in the same province."
+  }
+}

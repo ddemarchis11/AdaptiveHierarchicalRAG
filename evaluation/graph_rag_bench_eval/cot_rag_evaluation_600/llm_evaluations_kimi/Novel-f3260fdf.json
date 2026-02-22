@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f3260fdf",
+  "question": "Describe the reasoning path that links Mayab to the goddess Maia of Greece.",
+  "gold_answer": "Mayab is a country of the Mayas, who are said to have originated from Mayab. Atlantis is the birthplace of Maia, a goddess in Greece.",
+  "llm_answer": "The reasoning path is:\n\n1. The country beyond the Atlantic is called MAYAB; its inhabitants call themselves Mayas.  \n2. The Mayas deified their eminent dead; worshippers elsewhere forgot that MAYAB was a place and turned it into a person, “Maya,” regarded as “Mother of the Gods.”  \n3. In Greece the goddess Maia is venerated as “Mother of the Gods,” the same title given to the deified Maya.  \nThus, the Greek goddess Maia is linked to MAYAB through the deified personification of the land’s name.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes the reasoning path linking Mayab to the goddess Maia of Greece. It includes the core meaning of the Gold Answer, explaining how Mayab, the land of the Mayas, was personified into 'Maya' and later associated with the Greek goddess Maia as 'Mother of the Gods.' This reasoning is fully supported by the Retrieved Context, and all key facts from the Gold Answer are covered."
+  }
+}

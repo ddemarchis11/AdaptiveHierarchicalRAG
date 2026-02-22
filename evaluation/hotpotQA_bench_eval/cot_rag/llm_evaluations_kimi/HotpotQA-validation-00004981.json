@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004981",
+  "question": "What separates the islands where the 2015 Africa Magic Viewers Choice Awards were held?",
+  "gold_answer": "creeks",
+  "llm_answer": "The evidence does not specify what separates the islands where the 2015 Africa Magic Viewers Choice Awards were held.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify what separates the islands, which is faithful to the context. However, it fails to provide the correct answer ('creeks') that is unrelated to the retrieved context but known from the Gold Answer. Thus, the answer is incorrect and does not cover the key fact."
+  }
+}

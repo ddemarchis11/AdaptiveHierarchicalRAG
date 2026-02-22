@@ -1,0 +1,12 @@
+{
+  "id": "Novel-49ff508e",
+  "question": "Near the swan-boats in Central Park, with whom did Van Bibber come face to face, leading to an unexpected encounter?",
+  "gold_answer": "Van Bibber came face to face with her brother.",
+  "llm_answer": "Near the swan-boats in Central Park, with whom did Van Bibber come face to face, leading to an unexpected encounter?\n\nVan Bibber came face to face with A Girl He Knew and her brother.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Van Bibber came face to face with 'A Girl He Knew and her brother,' which is supported by the retrieved context. However, the Gold Answer specifically mentions 'her brother,' which is a narrower focus. While the Model Answer includes the girl as well, it does not contradict the context and provides additional relevant detail. Evidence coverage is partial because the Gold Answer emphasizes only the brother."
+  }
+}

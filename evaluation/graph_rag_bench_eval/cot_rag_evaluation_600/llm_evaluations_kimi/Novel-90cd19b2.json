@@ -1,0 +1,12 @@
+{
+  "id": "Novel-90cd19b2",
+  "question": "Where within the fortified nunnery compound were the orange trees located, providing a rare sense of peace amid the chaos of the siege?",
+  "gold_answer": "The orange trees were in the compound.",
+  "llm_answer": "The orange trees were located within the small garden enclosed by a lofty, whitewashed wall inside the fortified nunnery compound.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the location of the orange trees as being within the small garden enclosed by a lofty, whitewashed wall inside the fortified nunnery compound. This is consistent with the Gold Answer and supported by the Retrieved Context, which describes the orange trees in the compound and their surroundings. The Model Answer provides additional descriptive details that are relevant and grounded in the context."
+  }
+}

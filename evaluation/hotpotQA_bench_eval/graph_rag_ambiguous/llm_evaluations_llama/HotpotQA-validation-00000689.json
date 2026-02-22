@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000689",
+  "question": "Which creature from Indigenous North American oral tradition, whose name has since been adopted as a clinical psychiatric term, served as the mythological basis for a 1981 Canadian horror film set at a remote winter lodge?",
+  "gold_answer": "Wendigo",
+  "llm_answer": "The creature from Indigenous North American oral tradition, whose name has since been adopted as a clinical psychiatric term, that served as the mythological basis for a 1981 Canadian horror film set at a remote winter lodge is the Wendigo.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Wendigo as the creature from Indigenous North American oral tradition that inspired the 1981 Canadian horror film. This is consistent with the Gold Answer and supported by the Retrieved Context, which mentions the Windigo legend as the inspiration for the film 'Ghostkeeper.' All key facts are included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001644",
+  "question": "What is the first year that the second largest university in Alabama fielded a football team?",
+  "gold_answer": "1892",
+  "llm_answer": "The first year that the second largest university in Alabama fielded a football team is 1938.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 1938 as the first year the second largest university in Alabama fielded a football team, while the Gold Answer states it was 1892. The context supports the Model Answer's claim about West Alabama's football team starting in 1938, but this does not address the question about Auburn University, which is the second largest university in Alabama and fielded its first football team in 1892. Thus, the Model Answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

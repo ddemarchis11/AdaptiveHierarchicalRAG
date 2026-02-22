@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004847",
+  "question": "In what year were the European Athletics Junior Championships held in the capital of Slovenia?",
+  "gold_answer": "1997",
+  "llm_answer": "I cannot verify the year the European Athletics Junior Championships were held in the capital of Slovenia.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct year (1997) despite the Retrieved Context clearly stating that the 1997 European Athletics Junior Championships were held in Ljubljana, Slovenia. The answer is incorrect, unfaithful to the context, and does not cover the key fact from the Gold Answer."
+  }
+}

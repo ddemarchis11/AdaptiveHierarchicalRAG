@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00007063",
+  "question": "The university where Rolf Martin Theodor Dahlgren worked as a professor has how many employees?",
+  "gold_answer": "9,000",
+  "llm_answer": "The provided evidence does not state how many employees the University of Copenhagen has.",
+  "context": [
+    {
+      "text": "Rolf Martin Theodor Dahlgren (7 July 1932 – 14 February 1987) was a Swedish - Danish botanist and professor at the University of Copenhagen from 1973 to his death. Life Dahlgren was born in Örebro on 7 July 1932 to apothecary Rudolf Dahlgren and wife Greta née Dahlstrand. He took his MSc degree in Biology in (1955) and PhD degree in Botany in (1963) at Lund University . He was killed in a car crash in Scania , Sweden on 14 February 1987. Career He continued working on South African plants during expeditions in 1956-57 and 1965–66, while affiliated with the Botanical Museum in Lund as docent . In 1973, he became professor of botany at the University of Copenhagen . Here, he developed his system of Angiosperm classification, based on many more characters simultaneously than previous systems, most notably many chemical plant traits (see also chemotaxonomy ). Although the system was first presented in Danish , it rapidly gained widespread acceptance, particularly due to the instructive diagrams, so-called Dahlgrenograms. His work on family circumscription in the Monocotyledons , published with Harold Trevor Clifford and Peter Frederick Yeo, has had profound influence well into the molecular age. A Rolf Dahlgren Memorial Symposium was held in Berlin , Germany later",
+      "id": "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_0"
+    },
+    {
+      "text": "Peter Frederick Yeo, has had profound influence well into the molecular age. A Rolf Dahlgren Memorial Symposium was held in Berlin , Germany later in 1987. The couple had three children, Susanna, Helena and Fredrik. In 1986, he was elected member of Royal Swedish Academy of Sciences . The South African monotypic plant genus Dahlgrenodendron (J.H. Ross) J.J.M. van der Merwe & A.E. van Wyk was named to him honour in 1988 List of selected publications Dahlgren, Rolf (1963). Studies on Aspalathus and some related genera in South Africa (PhD thesis) . Lund: Lund University . Dahlgren, Rolf (1974–76). Angiospermernes taxonomi, vol. 1-4 . Copenhagen: Akademisk Forlag. Dahlgren, R. (1975). \"A system of classification of angiosperms to be used to demonstrate the distribution of characters\". Botaniska Notiser . 128 : 119– 147. Dahlgren R. (1975b). The distribution of characters within an angiosperm system. I. Some embryological characters. Botaniska Notiser 128: 181–197 Dahlgren, Rolf (1977). A commentary on a diagrammatic presentation of the angiosperms in relation to the distribution of character states . pp.",
+      "id": "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_1"
+    },
+    {
+      "text": "Rolf (1977). A commentary on a diagrammatic presentation of the angiosperms in relation to the distribution of character states . pp. 253– 284. in Kubitzki (1977) Dahlgren, R., 1977b. A note on the Taxonomy of the 'Synpetalae' and related groups. Publications of the Cairo University Herbarium, 7–8: 83- 102. Dahlgren. R., Nielsen, B. J., Goldblait, P. & Rourke, J. P., 1979. Further notes on Retziaceae, its chemical contents and affinities. Annals of the Missouri Botanical Garden , 66: 545-556 Dahlgren, R., Jensen, S. R., & Nielsen, B. J., 1976. Iridoid compounds in Fouquieraceae and notes on its possible affinities. Bolaniska Notiser 129: 207-212. Dahlgren, R. M. T. (February 1980). \"A revised system of classification of the angiosperms\". Botanical Journal of the Linnean Society . 80 (2): 91– 124. doi : 10.1111/j.1095-8339.1980.tb01661.x . Dahlgren, Rolf; Clifford, H. T. (1982). The",
+      "id": "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_2"
+    },
+    {
+      "text": ". Dahlgren, Rolf; Clifford, H. T. (1982). The monocotyledons: A comparative study . London and New York: Academic Press. ISBN 9780122006807 . Dahlgren R.(1983). \"General Aspects of Angiosperm Evolution and Macrosystematics\". Nordic Journal of Botany 3: 119-149 Dahlgren, Rolf ; Rasmussen, F.N. (1983). \"Monocotyledon Evolution: Characters and Phylogenetic Estimation\". Evolutionary Biology . Vol. 16. pp. 255– 395. doi : 10.1007/978-1-4615-6971-8_7 . ISBN 978-1-4615-6973-2 . {{ cite book }} : |journal= ignored ( help ) Dahlgren, Rolf M.; Clifford, H. T.; Yeo, Peter (1985). The families of the monocotyledons: Structure, evolution, and taxonomy . Berlin and New York: Springer-Verlag. ISBN 978-3-642-64903-5 . Retrieved 10 February 2014 . Additional excerpts Dahlgren, Rolf; Lu, An-ming (1985). \"Campynemanthe (Campynemaceae): Morphology, microsporogenesis, early ovule ontogeny and relationships\". Nordic Journal of Botany .",
+      "id": "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_3"
+    },
+    {
+      "text": "(Campynemaceae): Morphology, microsporogenesis, early ovule ontogeny and relationships\". Nordic Journal of Botany . 5 (4): 321– 330. Bibcode : 1985NorJB...5..321D . doi : 10.1111/j.1756-1051.1985.tb01660.x . See also Dahlgren system Chemotaxonomy The standard author abbreviation R.Dahlgren is used to indicate this person as the author when citing a botanical name . References Citations Sources Kubitzki, Klaus , ed. (1977). Flowering Plants : Evolution and classification of higher categories. Symposium, Hamburg, September 8–12, 1976. Plant Systematics & Evolution - Supplementum 1 . Wien: Springer. p. 416. ISBN 9783211814345 . Retrieved 13 August 2015 . Strid, Arne (1987). \"Rolf Dahlgren (1932-1987)\". Taxon . 36 (3): 698– 699. JSTOR 1221891 . van Wyk, A. E. (1987). \"Obituary: Rolf Dahlgren (1932-1987)\" . Bothalia . 17 (2): 261– 266. doi : 10.4102/abc.v17i2.1041 . External links Example Dahlgrenogram",
+      "id": "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_4"
+    },
+    {
+      "text": "relations, and biotechnology as areas of special priority according to its new long-term plan. Starting in 1996 and continuing to the present, the university planned new buildings, including for the University of Copenhagen Faculty of Humanities at Amager (Ørestaden), along with a Biotechnology Centre. By 1999, the student population had grown to exceed 35,000, resulting in the university appointing additional professors and other personnel. South Campus In 2003, the revised Danish university law removed faculty, staff and students from the university decision process, creating a top-down control structure that has been described as absolute monarchy, since leaders are granted extensive powers while being appointed exclusively by higher levels in the organization. In 2005, the Center for Health and Society (Center for Sundhed og Samfund – CSS) opened in central Copenhagen, housing the Faculty of Social Sciences and Institute of Public Health, which until then had been located in various places throughout the city. In May 2006, the university announced further plans to leave many of its old buildings in the inner city of Copenhagen , an area that has been home to the university for more than 500 years. The purpose of this has been to gather the university's many departments and faculties on three larger campuses in order to create a bigger, more concentrated and modern student environment with better teaching facilities, as well as to save money on rent and maintenance of the old buildings. The concentration of facilities on larger campuses also allows for more",
+      "id": "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- Rolf Dahlgren was professor at University of Copenhagen 1973-1987 (HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_0).\n- Current evidence does not state employee count for University of Copenhagen.\n- Rolf Dahlgren held the chair in botany at University of Copenhagen (1973-1987) (HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_0).\n- Evidence does not quantify total employees at University of Copenhagen.\n- Evidence mentions student body size as of 2007 but not staff size (HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_21).\n- University of Copenhagen employs ~5,600 academic staff and ~4,400 technical/administrative staff (HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_7).\n- Total employees = 5,600 + 4,400 = 10,000 (HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_7).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The university where Rolf Martin Theodor Dahlgren worked as a professor has how many employees?",
+      "doc_ids": [
+        "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_0",
+        "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_1",
+        "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_2",
+        "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_3",
+        "HotpotQA-validation-00007063/00_Rolf-Dahlgren.html_c_4"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "University of Copenhagen employee count",
+      "doc_ids": [
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_0",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_21",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_10",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_1",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_8"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "University of Copenhagen staff employee count",
+      "doc_ids": [
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_8",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_4",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_0",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_21",
+        "HotpotQA-validation-00007063/01_University-of-Copenhagen.html_c_7"
+      ]
+    }
+  ]
+}

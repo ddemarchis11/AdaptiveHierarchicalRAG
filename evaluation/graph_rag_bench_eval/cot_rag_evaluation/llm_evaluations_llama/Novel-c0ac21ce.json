@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c0ac21ce",
+  "question": "To whom did Heinse address his correspondence, as documented among exchanges between German literary figures?",
+  "gold_answer": "Heinse wrote to Gleim.",
+  "llm_answer": "The evidence does not explicitly state to whom Heinse addressed his correspondence. However, it does mention that Heinse \"alluded to Sterne frequently in his letters to Gleim (1770-1771)\".",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Gleim as the recipient of Heinse's correspondence, as supported by the retrieved context. It also accurately notes the timeframe (1770-1771) and the content of the letters, aligning with the Gold Answer and the context provided."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005012",
+  "question": "What kind of group does Pinhead Gunpowder and Billie Joe Armstrong have in common?",
+  "gold_answer": "band",
+  "llm_answer": "The group that Pinhead Gunpowder and Billie Joe Armstrong have in common is Green Day.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the group Pinhead Gunpowder and Billie Joe Armstrong have in common is Green Day, which is not supported by the context or the Gold Answer. The correct answer is 'band,' as both are associated with bands, specifically Pinhead Gunpowder in the context provided."
+  }
+}

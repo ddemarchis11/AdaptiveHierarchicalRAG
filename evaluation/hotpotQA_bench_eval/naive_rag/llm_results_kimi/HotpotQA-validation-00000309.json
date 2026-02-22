@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00000309",
+  "question": "Are Staten Island Catapult and This Is Elvis both documentaries?",
+  "gold_answer": "yes",
+  "llm_answer": "Based on the provided evidence, only *This Is Elvis* is explicitly described as a documentary. The evidence does not mention *Staten Island Catapult* at all, so its classification as a documentary cannot be confirmed.  \n\n**Answer:** Only *This Is Elvis* is confirmed to be a documentary.",
+  "context": [
+    {
+      "text": "Staten Island Borough Hall is the primary municipal building for the borough of Staten Island in New York City . It is located at 10 Richmond Terrace, next to the Richmond County Courthouse and opposite the St. George Terminal of the Staten Island Ferry . Borough Hall houses the Borough President 's office, offices of the Departments of Buildings and Transportation, and other civic offices. The 1906 French Renaissance style brick and limestone building was designed by Carrere and Hastings , following the consolidation of New York City in 1898. John Carrere was a resident of Staten Island and he helped select the dramatic hilltop site of Borough Hall. The interior of the building contains a series of thirteen WPA murals illustrating events in Staten Island history, painted by local artist Frederick Charles Stahr . The building is a New York City Landmark and was listed on the National Register of Historic Places in 1983. Murals Borough Hall was originally designed with thirteen arched niches on the main floor, designed to showcase a series of murals. Each niche is 13 feet (4 m) high by 6.5 feet (2 m) wide. Frederick Charles Stahr, who grew up on Staten Island and had studied painting in Munich and at the Academy of Design in Rome, had been promised a commission by fellow Staten Islander John Carrere, but no money for murals was available when the building was finished in 1906. Thirty years later, Stahr applied for funding through the",
+      "id": "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_0"
+    },
+    {
+      "text": "Staten Island Community Board 1 is a local government unit of New York City , encompassing the Staten Island neighborhoods of Arlington , northern Castleton Corners , Clifton Concord , Elm Park , Fort Wadsworth , northern Graniteville , Grymes Hill , Livingston , Mariners' Harbor , northern Meiers Corners , New Brighton , Port Ivory , Port Richmond , Randall Manor , Rosebank, Staten Island , St. George , Shore Acres , Silver Lake , Stapleton , Sunnyside , Tompkinsville , West New Brighton , Westerleigh , and northern Willowbrook . Community Board 1 is essentially the entire area of Staten Island north of the Staten Island Expressway . Community Boards play an advisory role in New York City government in the areas of land use, zoning, budget and municipal service delivery. Its current chairperson is Nicholas Siclari, and its district manager is Joseph Carroll. Leticia Remauro is a former chairperson. References External links Official site of the Community Board v t e",
+      "id": "HotpotQA-validation-00000309/02_Staten-Island-Community-Board-1.html_c_0"
+    },
+    {
+      "text": "This Is Elvis is a 1981 American documentary film about the life of Elvis Presley , written and directed by Andrew Solt and Malcolm Leo . It combines archival footage with reenactments, and voice-over narration by pop singer Ral Donner , imitating Presley's speaking voice. It was screened out of competition at the 1981 Cannes Film Festival . The film grossed $2 million at the box office in the U.S. and Canada, ranking #92 for 1981. Cast and content For the reenactment scenes, Presley was portrayed in the film by four actors: Paul Boensch II as Presley at age 11 ( Tupelo, Mississippi , in 1946) David Scott as Presley at age 18 (Memphis in 1953, singing in high school, and at a Sun recording session; vocals by David Scott) Dana MacKay as Presley at age 35 Johnny Harra as Presley at age 42 (Opening credits, August 16, 1977, death scene from extended version) Other narrators provided voice-over narrations for Vernon Presley , Gladys Presley , and Priscilla Presley . Presley's former road manager Joe Esposito and girlfriend Linda Thompson provided their own narrations. Presley receives credit only in the extended version prepared for cable and later home video release. Reception In a contemporary review, Variety wrote, \"A real curiosity item, This Is Elvis is",
+      "id": "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_0"
+    },
+    {
+      "text": "from Jaycees Awards\" \" Promised Land \" (edited - with harmony vocal overdub restored) \"Excerpt from Madison Square Garden Press Conference\" \" Always on My Mind \" (March 30, 1972 \"Mock\" Studio Session - edited and overdubbed) \" Are You Lonesome Tonight? \" (live June 21, 1977) (from Elvis in Concert ) \" My Way \" (live June 21, 1977) (from Elvis In Concert ) \" An American Trilogy \" (live April 9, 1972, with additional overdubbed strings) \" Memories \" (stereo - edited) Charts References External links This Is Elvis at IMDb This Is Elvis at the TCM Movie Database (archived version) This Is Elvis at the AFI Catalog of Feature Films This Is Elvis at Rotten Tomatoes",
+      "id": "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_3"
+    },
+    {
+      "text": "men in the 19th century and destroyed by fire in 1907; the first Clifton to Tottenville railroad in 1860; and, finally, the Bayonne Bridge , showing a snappily-dressed Othmar Ammann , the bridge's designer, watching its construction sometime between 1928 and 1931. See also List of New York City borough halls and municipal buildings List of New York City Designated Landmarks in Staten Island National Register of Historic Places listings in Richmond County, New York References External links Media related to Staten Island Borough Hall at Wikimedia Commons",
+      "id": "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_2"
+    },
+    {
+      "text": "Point is approximately 11 miles (18 km) away and reached by tidal straits dredged to maintain shipping lanes . Newark Bay is connected to Upper New York Bay by the Kill Van Kull and to Raritan Bay by the Arthur Kill . The names of the channels reflect the period of Dutch colonialization . The area around the bay was called Achter Kol , which translates as behind or beyond the ridge and refers to Bergen Hill . The emergence of the Hudson Palisades begins on Bergen Neck , the peninsula between the bay and the Hudson River . Kill in Dutch means stream or channel. During the British colonial era the bay was known as Cull bay . Kill van Kull literally translates as channel from the ridge . Arthur Kill is an anglicization of achter kill meaning back channel , which would speak to its location behind Staten Island. Many of the maritime and distribution facilities along the bay are part of Foreign Trade Zone 49 . Bridges Upper Bay Bridge and Newark Bay Bridge . New Jersey Turnpike and Interstate 78 . Oak Island Yard and Port Newark in foreground with Bayonne and Staten Island seen in the distance. The bay is spanned by the Vincent R. Casciano Memorial Bridge which carries the Newark Bay Extension (Interstate 78) of the New Jersey Turnpike . The Upper Bay Bridge is a vertical-lift bridge north of the Casciano that is now used by CSX Transportation for freight shipment, including the notable Juice Train . Central Railroad of New Jersey 's Newark Bay",
+      "id": "HotpotQA-validation-00006586/02_Newark-Bay.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"Staten Island Catapult\" not mentioned in any evidence (Novel-xxxx_c_yy).\n- \"This Is Elvis\" mentioned but no indication it is a documentary (HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_3).\n- This Is Elvis is a 1981 American documentary film (HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_0).\n- Staten Island Catapult not found in any evidence (Novel-xxxx_c_yy).\n- Missing genre information for Staten Island Catapult.\n- Staten Island Catapult not mentioned in any evidence (HotpotQA-validation-00000309/02_Staten-Island-Community-Board-1.html_c_0).\n- This Is Elvis is a 1981 American documentary film (HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_0).\n- No evidence states Staten Island Catapult is a documentary.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Staten Island Catapult and This Is Elvis both documentaries?",
+      "doc_ids": [
+        "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_0",
+        "HotpotQA-validation-00000309/02_Staten-Island-Community-Board-1.html_c_0",
+        "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_3",
+        "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_2",
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_1"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Is This Is Elvis a documentary",
+      "doc_ids": [
+        "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_0",
+        "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_3",
+        "HotpotQA-validation-00000309/01_This-Is-Elvis.html_c_1",
+        "HotpotQA-validation-00006093/01_Shakin-Stevens.html_c_3",
+        "HotpotQA-validation-00005121/01_Dean-Martin.html_c_9"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Staten Island Catapult documentary",
+      "doc_ids": [
+        "HotpotQA-validation-00000309/02_Staten-Island-Community-Board-1.html_c_0",
+        "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_0",
+        "HotpotQA-validation-00000309/03_Staten-Island-Borough-Hall.html_c_2",
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_0",
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_1"
+      ]
+    }
+  ]
+}

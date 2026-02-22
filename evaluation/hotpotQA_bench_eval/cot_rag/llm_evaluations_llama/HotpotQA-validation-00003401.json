@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003401",
+  "question": "The first of the Simon Bloom books was optioned by a company founded in what year?",
+  "gold_answer": "1912",
+  "llm_answer": "The first of the Simon Bloom books was optioned by a company founded in 2005.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the company was founded in 2005, which contradicts the Gold Answer of 1912. Additionally, the Retrieved Context does not provide any information about the founding year of the company that optioned the Simon Bloom books, making the Model Answer ungrounded and incorrect."
+  }
+}

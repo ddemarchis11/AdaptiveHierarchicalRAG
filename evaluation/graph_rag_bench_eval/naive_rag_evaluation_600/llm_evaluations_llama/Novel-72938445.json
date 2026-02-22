@@ -1,0 +1,12 @@
+{
+  "id": "Novel-72938445",
+  "question": "In the apple jelly factory described in the report, what do the storage bins hold before processing begins?",
+  "gold_answer": "The bins hold apples.",
+  "llm_answer": "The storage bins hold apples before processing begins. They are large bins, holding from 500 to 1,000 bushels each, and are located along the bank of the pond, with one end projecting over the water.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the storage bins hold apples before processing begins, which aligns with the Gold Answer. It also provides additional details about the capacity and location of the bins, which are supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

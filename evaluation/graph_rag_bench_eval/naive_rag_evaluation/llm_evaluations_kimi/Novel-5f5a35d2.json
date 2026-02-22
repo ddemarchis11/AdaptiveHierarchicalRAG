@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5f5a35d2",
+  "question": "With which stringed instrument is the fiddle-bow used to produce sound during musical performances?",
+  "gold_answer": "The fiddle is played with a fiddle-bow.",
+  "llm_answer": "The fiddle-bow is used with the _ravanastron_, an ancient Hindu stringed instrument.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the fiddle-bow is used with the _ravanastron_, which is not supported by the context or the Gold Answer. The Gold Answer clearly states that the fiddle is played with a fiddle-bow, and the context does not provide evidence linking the fiddle-bow specifically to the _ravanastron_. The Model Answer fails to address the question correctly and is not faithful to the retrieved context."
+  }
+}

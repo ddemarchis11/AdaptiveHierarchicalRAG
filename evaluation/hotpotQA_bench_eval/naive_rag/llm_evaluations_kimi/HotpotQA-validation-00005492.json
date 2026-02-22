@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005492",
+  "question": "Which actor that has performed as Inspector Javert in a Les Misérables production Has won the Laurence Olivier Award for Best Actor in a musical three times?",
+  "gold_answer": "Philip Quast",
+  "llm_answer": "Philip Quast",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Philip Quast as the actor who has performed as Inspector Javert in Les Misérables and won the Laurence Olivier Award for Best Actor in a Musical three times. This is fully supported by the retrieved context, which explicitly mentions these achievements. The answer is concise but accurate, containing all necessary facts from the Gold Answer."
+  }
+}

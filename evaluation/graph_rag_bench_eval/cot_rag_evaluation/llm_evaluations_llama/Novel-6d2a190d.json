@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d2a190d",
+  "question": "During the diplomatic interactions noted in Samuel Pepys's diary, which foreign envoy took leave of the King?",
+  "gold_answer": "The Portuguese Embassador took leave of the King.",
+  "llm_answer": "The foreign envoy who took leave of the King is not explicitly mentioned in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the foreign envoy who took leave of the King is not explicitly mentioned in the context, which is accurate based on the retrieved evidence. However, the Gold Answer specifies that the Portuguese Ambassador took leave of the King, and this information is not reflected in the Model Answer. Thus, the Model Answer fails to provide the correct response to the question, resulting in low correctness and evidence coverage scores."
+  }
+}

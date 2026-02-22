@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005226",
+  "question": "Who is one other client that is represented by the same person that also represents a barrister at Doughty Street Chambers?",
+  "gold_answer": "Angelina Jolie",
+  "llm_answer": "I cannot verify who the other client is that is represented by the same person that also represents a barrister at Doughty Street Chambers.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response, which is 'Angelina Jolie,' as stated in the Gold Answer. Additionally, the Model Answer does not utilize the retrieved context to address the question, nor does it include any relevant evidence or facts from the context."
+  }
+}

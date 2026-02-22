@@ -1,0 +1,42 @@
+{
+  "id": "Novel-7d087b64",
+  "question": "From which prominent location was Roughtor visible, as experienced by the travelers during their visit to Cornwall?",
+  "gold_answer": "Roughtor was visible from Land's End.",
+  "llm_answer": "There is insufficient evidence to determine from which prominent location Roughtor was visible, as experienced by the travelers during their visit to Cornwall.",
+  "context": [
+    {
+      "text": "us for miles and miles. Passing a small farm-house, we made our way to the building Charles pointed out, standing on the highest ridge of the promontory, whose furthest point is the Land's End. Standing there, we could see--or could have seen but that the afternoon had turned grey and slightly misty--the ocean on both sides. Inland, the view seemed endless. Roughtor and Brown Willy, two Dartmoor hills, are said to be visible sometimes. Nearer, little white dots of houses show the mining districts of Redruth and Camborne. But here, all was desolate solitude. A single wayfarer, looking like a working man in his Sunday best going to visit friends, but evidently tired, as if he had walked for miles, just glanced at us, and passed on. We stood, all alone, on the very spot where many a time must have stood King Arthur, Queen Guinevere, Sir Launcelot, and the other knights--or the real human beings, whether barbarian or not, who formed the originals of those mythical personages. All had vanished now. Nothing was left but a common-place little tower, built up of the fragments of the old castle, and a wide, pathless moor, over which the wind sighed, and the mist crept. No memorial whatever of King Arthur, except the tradition--which time and change have been powerless to annihilate--that such",
+      "id": "Novel-44557_c_150"
+    },
+    {
+      "text": "exceed 1,000. Three miners from there with whom I was talking recently owned forty-seven mines among them, and while one acknowledged that hardly one prospect in a hundred turns out a prize, the other millionaire in embryo remarked that he wouldn't take $50,000 for one of his mines. So it goes, and the victims of the mining fever here seem as deaf to reason as the buyers of mining stock in New York. Fuel was added to the flame by the report that Shedd had sold his location, named the Solitaire, to ex-Governor Tabor and Mr. Wurtzbach on August 25 for $100,000. This was not true. I met Governor Tabor's representative, who came down recently to examine the properties, and learned that the Governor had not up to that date bought the mine. He undoubtedly bonded it, however, and his representative's opinion of the properties seemed highly favorable. The Solitaire showed what appeared to be a contact vein, with walls of porphyry and limestone in a ledge thirty feet wide in places, containing a high assay of horned silver. The vein was composed of quartz, bearing sulphides, with horn silver plainly visible, giving an average assay of from $350 to $500. This was free milling. These were the results shown simply by surface explorations, which were certainly exceedingly promising. Recently it has been stated that a little development shows the vein to be only a blind lead, but the statement",
+      "id": "Novel-8559_c_56"
+    },
+    {
+      "text": "of Yorick in using as a motif the accidental interest of lost documents, or papers: here the poems of the “Original,” left behind in the hotel, played their rôle in the tale. The treatment of the wandering boy by the kindly peasant is clearly an imitation of Yorick’s famous visit in the rural cottage. A parallel to Walter Shandy’s theory of the dependence of great events on trifles is found in the story of the volume of Tacitus, which by chance suggested the sleeping potion for Frau v. L., or that Tobias’s inability to take off his hat with his right hand was influential on the boy’s future life. This is a reminder of Tristram’s obliquity in his manner of setting up his top. As in Shandy, there is a discussion about the location of the soul. The character of Selmann is a compound of Yorick and the elder Shandy, with a tinge of satiric exaggeration, meant to chastise the thirst for “originals” and overwrought sentimentalism. His generosity and sensitiveness to human pain is like Yorick. As a boy he would empty his purse into the bosom of a poor man; but his daily life was one round of Shandean speculation, largely about the relationships of trivial things: for example, his yearly periods of investigating his motives in inviting his neighbors Herr v. and Herr v. every July to his home. Wezel’s satire",
+      "id": "Novel-26183_c_300"
+    },
+    {
+      "text": "poor young Shelley, that in every pretty place he saw he might remain \"for ever\"!--but the forenoon was passing, and we had much to see. \"Poltesco, everybody goes to Poltesco,\" observed the patient Charles. So of course we went there too. At Poltesco are the principal serpentine works--the one commerce of the district. The monotonous hum of its machinery mingled oddly with the murmur of a trout-stream which ran through the pretty little valley, crossed by a wooden bridge, where a solitary angler stood fishing in imperturbable content. There were only about a dozen workmen visible; one of whom came forward and explained to us the mode of work, afterwards taking us to the show-room, which contained everything possible to be made of serpentine, from mantelpieces and tombstones, down to brooches and studs. Very delicate and beautiful was the workmanship; the forms of some of the things--vases and candlesticks especially--were quite Pompeian. In truth, throughout Cornwall, we often came upon shapes, Roman or Greek, proving how even yet relics of its early masters or colonisers linger in this western corner of England. In its inhabitants too. When, as we passed, more than one busy workman lifted up his head for a moment, we noticed faces almost classic in type, quite different from the bovine, agricultural Hodge of the midland counties. In manner",
+      "id": "Novel-44557_c_47"
+    },
+    {
+      "text": "middle of the night I woke, rose, and looked out of the window. What a change! Sea and sky were one blackness, literally as \"black as ink,\" and melting into one another so that both were undistinguishable. As for the moon and stars--heaven knows where they had gone to, for they seemed utterly blotted out. The only light visible was the ghostly gleam of those two great eyes, the Lizard Lights, stretching far out into the intense darkness. I never saw such darkness--unbroken even by the white crest of a wave. And the stillness was like the stillness of death, with a heavy weight in the air which made me involuntarily go to sleep again, though with an awed impression of \"something going to happen.\" And sure enough in another hour something did happen. I started awake, feeling as if a volley of artillery had been poured in at my window. It was the wildest deluge of rain, beating against the panes, and with it came a wind that howled and shrieked round the house as if all the demons in Cornwall, Tregeagle himself included, were let loose at once. Now we understood what a Lizard storm could be. I have seen Mediterranean storms, sweeping across the Campagna like armed battalions of avenging angels, pouring out their vials of wrath--rain, hail, thunder, and lightning--unceasingly for two whole days.",
+      "id": "Novel-44557_c_78"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\":\n- \"- Roughtor is visible from a high ridge of a promontory (Novel-44557_c_150).\n- The promontory's furthest point is the Land's End (Novel-44557_c_150).\n- The view from the promontory includes the ocean on both sides (Novel-44557_c_150).\n- The view also includes inland areas, including mining districts of Redruth and Camborne (Novel-44557_c_150).\n- The location is associated with King Arthur and other mythical personages (Novel-44557_c_150).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "From which prominent location was Roughtor visible, as experienced by the travelers during their visit to Cornwall?",
+      "doc_ids": [
+        "Novel-44557_c_150",
+        "Novel-8559_c_56",
+        "Novel-26183_c_300",
+        "Novel-44557_c_47",
+        "Novel-44557_c_78"
+      ]
+    }
+  ]
+}

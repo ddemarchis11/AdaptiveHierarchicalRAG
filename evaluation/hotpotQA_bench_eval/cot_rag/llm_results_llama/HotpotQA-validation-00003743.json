@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00003743",
+  "question": "What phone series serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event?",
+  "gold_answer": "The S7 series",
+  "llm_answer": "The phone series that serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event is the Samsung Galaxy S7 series.",
+  "context": [
+    {
+      "text": "The Samsung Galaxy S6 is a line of Android -based smartphones manufactured, released and marketed by Samsung Electronics . Succeeding the Samsung Galaxy S5 , the S6 was not released as a singular model, but instead in two variations unveiled and marketed together—the Galaxy S6 and Galaxy S6 Edge —with the latter differentiated primarily by having a display that is wrapped along the sides of the device. It is distinguished from its predecessor through an internal battery with an increased charging speed but a decreased capacity, an optically stabilized camera , sound in slow motion video recordings, a glass back, and it lacks a user-replaceable battery, a memory card slot, water resistance, and MHL-to-HDMI connection for viewing on an external monitor or television set. The S6 was the first edge model, this continued with the release of the S7 Edge and was discontinued with the introduction of the successor, the Galaxy S8 Edge . The Edge name returned with the release of the S25 Edge . The S6 and S6 Edge were unveiled on March 1, 2015, during the Samsung Unpacked press event at MWC Barcelona , and released April 10, 2015, marking a counter-utilitarian and fashion-oriented course in the Galaxy S series . During the subsequent Samsung Unpacked event on August 13, 2015 (alongside the Galaxy Note 5 ), Samsung unveiled a third model, the Galaxy S6 Edge+ , which features a larger phablet",
+      "id": "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_0"
+    },
+    {
+      "text": "was succeeded by the Samsung Galaxy S7 in March 2016. Development Rumors Rumors surrounding the Galaxy S5's successor began to surface in January 2015, it was reported that Samsung would be using an in-house Exynos system-on-chip rather than the Qualcomm Snapdragon 810 on the S6 due to concerns surrounding overheating. Later that month, Qualcomm affirmed in an earnings report that its products would not be included in \"[a] large customer's flagship device\". Fellow competitor LG Electronics disputed the allegations surrounding the 810; although demo units of the 810-equipped LG G Flex 2 at Consumer Electronics Show experienced signs of possible overheating, the company emphasized that they were pre-release models. In early-February 2015, Bloomberg News reported that the S6 was to have a metal body, and was to be produced in a normal version, and a version with a screen curved along the left and right sides of the device, similarly to the Galaxy Note Edge . The S6's design was officially teased in a promotional webpage released by T-Mobile US on 22 February 2015, which showed a curved body and carried the tagline \"Six Appeal\". Keynote Samsung officially unveiled the Galaxy S6 and S6 Edge during the first Samsung Unpacked 2015 event at Mobile World Congress on 1 March 2015, for a release on 10 April 2015 in 20 countries. In Japan, the S6 and S6 Edge are marketed",
+      "id": "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_2"
+    },
+    {
+      "text": "The Samsung Galaxy S7 series are Android -based smartphones manufactured, released and marketed by Samsung Electronics . The S7 series served as the successor to the Galaxy S6, S6 Edge , S6 Active and S6 Edge+ released in 2015. The S7 and S7 Edge were officially unveiled on 21 February 2016 during a Samsung press conference at Mobile World Congress , with a European and North American release on 11 March 2016. The Samsung Galaxy S7 Active was unveiled on 4 June 2016, and released on AT&T in the United States on 10 June 2016. The Samsung Galaxy S7 was an evolution of the prior year's model, with upgraded hardware, design refinements, and the restoration of features removed from the Galaxy S6, such as IP68 certification for water and dust resistance, as well as expandable storage with a MicroSD card. Succeeding the S6 and S6 Edge+, respectively, the Samsung Galaxy S7 was produced in a standard model with a display size of 5.1-inch (130 mm) as well as an Edge variant whose display is curved along the wide sides of the screen and also has a larger 5.5-inch (140 mm) display. For the S7 series, Samsung did not produce a direct 5.1-inch (130 mm) S6 edge successor. The S7 Active features a thicker and more rugged frame, with an increased battery capacity.",
+      "id": "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_0"
+    },
+    {
+      "text": "(130 mm) S6 edge successor. The S7 Active features a thicker and more rugged frame, with an increased battery capacity. The Galaxy S7 and S7 Edge are the last two phones in the Samsung Galaxy S series to have a physical home button with a front-sided fingerprint sensor embedded in the button. The S7 Active is the last in the Active series to feature three physical buttons with the fingerprint reader embedded home button, when not considering the prematurely discontinued Galaxy Note 7 . It is the last phone in the Samsung Galaxy S series to be equipped with a microUSB port, which has since been replaced with USB-C technology. The Galaxy S7 Edge was the last Edge model until the S25 Edge . The Samsung Galaxy S7 was succeeded by the Samsung Galaxy S8 in April 2017. Specifications Hardware Gold Galaxy S7 showing the headphone jack, micro USB 2.0 port, microphone and speaker grill Design The Galaxy S7's hardware design is largely that of the S6. Samsung removed the built-in Infrared blaster due to low demand. The device retains the metal and glass chassis, but with refinements such as a rectangular home button, and a lower protrusion of the camera. Both models were available in black and gold colors; white, pink, blue and silver versions are available depending on market. As a Worldwide Olympic Partner, special editions of the Galaxy S7 Edge were released by Samsung for the 2016 Summer Olympics , with a dark blue body",
+      "id": "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1"
+    },
+    {
+      "text": "usable. A software update in September 2016 added support for Vulkan , a new low-level graphics API. In January 2017, Samsung released an update to Android 7.0 \"Nougat\" , which replaced TouchWiz with the Samsung Experience 8.0 software suite (introduced in the Galaxy S8 ). In mid 2018, the S7 and S7 edge received Android 8.0 \"Oreo\" with Samsung Experience 9.0, which was the last major version of Android available for the S7 family. The Galaxy S7 series reached its end of life in April 2020 with the security patch. The user interface of the multi windowing feature which allows showing multiple supported applications simultaneously on the screen, both as flexible split screen, as well as floating pop-up, is similar to the preceding Galaxy S6 . Custom ROMs Some models of the Galaxy S7 series allow for bootloader unlocking and custom ROM installs , and as a result the phone can run Android 10 with One UI 2.5 and can be updated to Android 12 with the degoogled /e/OS . Reception The Galaxy S7 received generally positive reviews with critics praising the return of the microSD card slot and water resistance, while retaining the premium metal design of the preceding Galaxy S6. The design of the larger Galaxy S7 Edge was particularly praised, as its curved sides on the S7 Edge are used to \"make the phone much narrower",
+      "id": "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_7"
+    },
+    {
+      "text": "be \"confident about charging their phones\", as stated by Justin Denison, then-vice president of product strategy at Samsung, on stage at the Unpacked 2015 Episode 1 keynote event, whereas a mockery commercial for the preceding Galaxy S5 against iPhones ' non-replaceable batteries was aired the previous year, referring to its users as \"wall huggers\", citing their incessant dependence on wall charging . The device's software was also simplified; a Samsung representative stated that 40% of the features in TouchWiz were removed or streamlined in comparison to the S5. Galaxy S6 Active S6 active logo S6 Active gray bootscreen The Samsung Galaxy S6 Active ( stylized as SΛMSUNG Galaxy S6 active ) is a variant of the Galaxy S6; the S6 Active contains similar specifications, but it also features waterproofing , shockproofing and dustproofing designed around the IP 68 specifications, along with a more rugged design and physical navigation buttons instead of touch sensors; it was released on 12 June 2015. In the United States it was only available on the AT&T network. The S6 Active was first released in the United States by AT&T on 12 June 2015 in the gray, camo-blue, and camo-white colors; its model number is SM–G890A. Software The Galaxy S6 received two major updates: Android 6 \"Marshmallow\" and Android 7",
+      "id": "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- The Samsung Galaxy S6 was released in 2015.\n- The Galaxy S6 was succeeded by the Samsung Galaxy S7.\n- The Galaxy S7 was officially unveiled on 21 February 2016.\n- The Galaxy S7 series served as the successor to the Galaxy S6, S6 Edge, S6 Active, and S6 Edge+.\n- The Galaxy S7 was released on 11 March 2016.\n- (HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_0)\n- The Samsung Galaxy S7 was officially unveiled on 21 February 2016. (HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1)\n- The Galaxy S7 was succeeded by the Samsung Galaxy S8 in April 2017. (HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1)\n- The Galaxy S7 series served as the successor to the Galaxy S6, S6 Edge, S6 Active, and S6 Edge+. (HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1)\n- The Galaxy S6 was released in 2015. (HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_0)\n- The Galaxy S7 series reached its end of life in April 2020 with the security patch. (HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_7)\n- The Galaxy S7 was released on 11 March 2016. (HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1)\n- The Samsung Galaxy S6 was released in 2015.\n- The Galaxy S6 was succeeded by the Samsung Galaxy S7.\n- The Galaxy S7 was officially unveiled on 21 February 2016.\n- The Galaxy S7 series served as the successor to the Galaxy S6, S6 Edge, S6 Active, and S6 Edge+.\n- The Galaxy S7 was released on 11 March 2016.\n- The Galaxy S7 series reached its end of life in April 2020 with the security patch.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What phone series serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event?",
+      "doc_ids": [
+        "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_0",
+        "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_2",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_0",
+        "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_4",
+        "HotpotQA-validation-00003743/03_Samsung-SGH-E900.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What phone series succeeded the Galaxy S7?",
+      "doc_ids": [
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_7",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_2",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_9",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_5"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "What phone series succeeded the Galaxy S8",
+      "doc_ids": [
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_1",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_7",
+        "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_0",
+        "HotpotQA-validation-00003743/01_Samsung-Galaxy-S6.html_c_13",
+        "HotpotQA-validation-00003743/00_Samsung-Galaxy-S7.html_c_5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000715",
+  "question": "In which city was the dream pop duo behind the slow-burning track that opens with an sparse guitar figure and a distinctive female vocal originally formed?",
+  "gold_answer": "Santa Monica, California",
+  "llm_answer": "I'm unable to answer the question as the context does not provide enough information about the dream pop duo behind the slow-burning track that opens with an sparse guitar figure and a distinctive female vocal.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly identifies that the retrieved context does not provide relevant information to answer the question. However, it fails to provide the correct answer, 'Santa Monica, California,' which is unrelated to the context but is the gold answer."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003387",
+  "question": "Which of the following buildings was designed by SHoP Architects: 247 Cherry or General Motors Building?",
+  "gold_answer": "247 Cherry",
+  "llm_answer": "247 Cherry was designed by SHoP Architects.",
+  "context": [
+    {
+      "text": "247 Cherry is a 79-story residential building under development on the Lower East Side of Manhattan , New York City . The building was designed by SHoP Architects , and is being developed by JDS Development Group . Renderings for the building were first released in April 2016. The building will be adjacent to One Manhattan Square . 247 Cherry will be developed in conjunction with two other nearby skyscrapers: 269 South Street and 259 Clinton Street. Development of the building was halted in July 2016 due to a lawsuit pertaining to a site adjacent the structure. In July 2018, the developers released a new plan that would also contain several improvements to the surrounding area, including a new entrance to the New York City Subway 's East Broadway station, connections between Clinton Street and the East River , renovations of nearby playgrounds, and flood-resistance upgrades. The city's Planning Commission also scheduled a vote on the project. Although politicians and grassroots organizations opposed the project, the City Planning Commission approved it in December 2018. The developments were temporarily blocked by a New York Supreme Court judge in late February 2020, but then unblocked by a full New York Supreme Court panel of judges in August 2020, and their decision in favor of the development was then upheld by the New York Court of Appeals in April 2021. References v t e",
+      "id": "HotpotQA-validation-00003387/00_247-Cherry.html_c_0"
+    },
+    {
+      "text": "also made CPI the managers of the building. The loan allowed GM, which then had a low supply of cash, to increase its current assets while also deferring payment of the city's capital gains tax . The mortgages were significantly below market rates. Even so, some tenants signed leases of over $50 per square foot ($540/m 2 ) during this time. Among the new office tenants in the 1980s were Sanford C. Bernstein and Company . After GM's relocation, the 13th floor was renamed floor 12A at the request of Estee Lauder, a change that confused many building visitors. By the late 1980s, the General Motors Building, along with the Solow Building and the Seagram Building , charged some of the city's highest rents. In spite of the fact that architects considered neither the General Motors Building nor the Solow Building to be architecturally distinguished, their proximity to Central Park allowed their respective owners to charge high rents. In 1986, FAO Schwarz moved its flagship toy store to the General Motors Building's ground-floor retail space. CPI started a three-year, $7.5 million renovation in 1990, re- caulking the windows and replacing about 400 of the 43,000 exterior marble slabs. The following year, CPI exercised its option to buy the building from General Motors for $500 million. By 1995, GM was close to shuttering its New York City outpost and moving to",
+      "id": "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_13"
+    },
+    {
+      "text": "the Savoy-Plaza block were the four-story Emmet Arcade and the 15-story Madison Hotel. By the 1950s, almost all of the 19th-century structures on Grand Army Plaza had been either destroyed or renovated. Architecture The General Motors Building was designed by Edward Durell Stone and the firm Emery Roth & Sons . It is 50 stories tall with a roof of 705 feet (215 m). The building also has two basement levels. The stories are connected by 35 elevators. Facade The facade is made of vertical piers of white Georgia marble, alternating with strips of glass. According to Stone, he used white marble because many of the surrounding buildings had similar cladding on their lower stories. Stone believed that \"those black buildings that have been modish in the past look perfectly horrible\". The load-bearing marble piers are rhomboid in shape and contain a 7 ⁄ 8 -inch (22 mm) thick cladding, behind which are hollow concrete columns with service ducts. At the ground and second stories, the General Motors Building was originally clad with thirty large windows, measuring 30 feet (9.1 m) tall and 0.875 inches (22.2 mm) thick. Ten of these panels, weighing 3,080 pounds (1,400 kg) and measuring 9 feet (2.7 m) wide, were the largest single windows ever made for a building at the time of their",
+      "id": "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_3"
+    },
+    {
+      "text": "who did not like the building or the idea of an automobile showroom on Fifth Avenue.\" See also List of tallest buildings in New York City List of tallest buildings in the United States References Citations Sources Stern, Robert A. M.; Gilmartin, Patrick; Mellins, Thomas (1987). New York 1930: Architecture and Urbanism Between the Two World Wars . New York: Rizzoli. ISBN 978-0-8478-3096-1 . OCLC 13860977 . Stern, Robert A. M.; Mellins, Thomas; Fishman, David (1995). New York 1960: Architecture and Urbanism Between the Second World War and the Bicentennial . New York: Monacelli Press. ISBN 1-885254-02-4 . OCLC 32159240 . OL 1130718M . External links Wikimedia Commons has media related to General Motors Building (Manhattan) . Official website Boston Properties Archived December 18, 2020, at the Wayback Machine in-Arch.net: The General Motors Building General Motors Building, New York City at Emporis.com General Motors Building at SkyscraperPage.com",
+      "id": "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_22"
+    },
+    {
+      "text": "over a year prior to opening. General Motors relocated most of its employees and announced their intention to sell the building in 1981. Ultimately, Corporate Property Investors (CPI) bought an option on the building in 1982 and conducted a renovation in 1990. Conseco and Donald Trump purchased the General Motors Building from CPI in 1998. Five years later, it was sold to Macklowe Organization for $1.4 billion, then the highest price for a North American office building. Macklowe sold the building in 2008 to the joint venture of Boston Properties , Zhang Xin , and the Safra banking family for $2.8 billion. The joint venture continues to own the building as of 2022 [update] . Site The General Motors Building is at 767 Fifth Avenue in the Midtown Manhattan neighborhood of New York City . It is bounded by 59th Street to the north; Fifth Avenue and Grand Army Plaza to the west; 58th Street to the south; and Madison Avenue to the east. The General Motors Building's site covers 84,350 square feet (7,836 m 2 ), with a frontage of 200 feet (61 m) on Fifth and Madison Avenues and 420 feet (130 m) on 58th and 59th Streets. The building is assigned its own ZIP Code , 10153; it was one of 41 buildings in Manhattan that had their own ZIP Codes as of",
+      "id": "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- 247 Cherry designed by SHoP Architects (HotpotQA-validation-00003387/00_247-Cherry.html_c_0)\n- General Motors Building designed by Edward Durell Stone & Emery Roth & Sons (HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_3)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which of the following buildings was designed by SHoP Architects: 247 Cherry or General Motors Building?",
+      "doc_ids": [
+        "HotpotQA-validation-00003387/00_247-Cherry.html_c_0",
+        "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_13",
+        "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_3",
+        "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_22",
+        "HotpotQA-validation-00003387/01_General-Motors-Building-Manhattan.html_c_1"
+      ]
+    }
+  ]
+}

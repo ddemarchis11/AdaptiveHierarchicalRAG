@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004611",
+  "question": "Löwenbräu and Bürgerbräukeller are both located where?",
+  "gold_answer": "Germany",
+  "llm_answer": "Löwenbräu and Bürgerbräukeller are both located in Munich, Germany.",
+  "context": [
+    {
+      "text": "The Bürgerbräukeller ( [ˈbʏʁ.ɡɐ.bʁɔʏ̯.ˌkɛ.lɐ] ; \" citizen brew cellar\") was a large beer hall in Munich , Germany. Opened in 1885, it was one of the largest beer halls of the Bürgerliches Brauhaus . Bürgerliches merged with Löwenbräu , which thereby became the hall's owner. The Bürgerbräukeller was where Adolf Hitler launched the Beer Hall Putsch in November 1923 and where he announced the re-establishment of the Nazi Party in February 1925. In 1939, the beer hall was the site of an attempted assassination of Hitler and other Nazi leaders by Georg Elser . It survived aerial bombing in World War II . The Bürgerbräukeller was demolished in 1979, and the Gasteig complex was built on its site. Location A meeting of the Nazi Party at the Bürgerbräukeller beer hall, circa 1923 The Bürgerbräukeller was located in the Haidhausen district of Munich on the east side of the Isar River. The entrance was from Rosenheimer Street, with rear access from Keller Street. Since 1980, the site has been redeveloped with the construction of the Gasteig Culture Centre, the Hilton Munich City Hotel and the headquarters of GEMA .",
+      "id": "HotpotQA-validation-00004611/00_Brgerbrukeller.html_c_0"
+    },
+    {
+      "text": "had taken place, but failed to explode. After World War II When American forces entered Munich on 30 April 1945, the 42nd ‘Rainbow’ Infantry Division found the Bürgerbräukeller filthy, piled with Nazi Party records, and unused. The Bürgerbräukeller served as an American Red Cross Club starting in late 1945 and became a Special Services club in September 1947. An average of 1,700 servicemen made use of the club's facilities every day. The Bürgerbräukeller was one of nine service clubs in the Munich Military Post. With the departure of American forces in 1957, the Bürgerbräukeller was taken over by Löwenbräu beer company, and after partial rebuilding, it was reopened as a bierkeller at Christmas 1958. In preparation for the 1972 Olympic Games in Munich, the city authorities undertook the construction of an underground railway system. The construction of station escalators emerging on Rosenheimerstrasse, next to the Bürgerbräukeller, required the cellar, which had been used for Nazi Party meetings, to be sealed off. In 1976, the great hall at the rear was still available for large gatherings. In the 1970s, it was in use also as a recording studio and Carlos Kleiber 's La Traviata was recorded there in 1976. The",
+      "id": "HotpotQA-validation-00004611/00_Brgerbrukeller.html_c_4"
+    },
+    {
+      "text": "1872 under the name Aktienbrauerei zum Löwenbräu . As brewer and owner, Ludwig Brey acquired the neighboring properties of Nikolaus Nassl, a Bierwirt (seller of beer). By Brey's order in 1882 and 1883, the Rank brothers built the Löwenbräukeller , according to the plans of Albert Schmidt on the brewery's property. The grand opening of the Löwenbräukeller was on 14 June 1883. In 1886, the lion trademark was registered. By the turn of the century, Löwenbräu was the largest brewery in Germany. The export business was affected by World War I and Löwenbräu's London Depot closed for the duration, making its employees redundant.  In 1921, Löwenbräu merged with Unionsbräu Schülein & Cie and Munich Bürgerbräu, two other breweries. These mergers brought Löwenbräu more property, including the Bürgerbräukeller . In 1923, this beer hall became noted as the location of the unsuccessful Beer Hall Putsch which Adolf Hitler led against the government of the German state of Bavaria , of which Munich was the capital. In 1928, the company's beer production first exceeded a million hectoliters per year. The supervisory board of the new corporation",
+      "id": "HotpotQA-validation-00004611/01_Lwenbru.html_c_1"
+    },
+    {
+      "text": "recipe, and exports of Munich Löwenbräu to North America ceased. Anheuser-Busch , whose Michelob brand Miller had intended Löwenbräu to compete with, called the attention of regulators and the public to the changes Miller had made to mass-produce the beer for the American market, changes which introduced artificial ingredients that would not have been allowed under the German Reinheitsgebot that Miller had advertised Löwenbräu as being compliant with. No regulatory action was taken, but sales of Löwenbräu dropped to the point where it was clear the brand would not seriously compete with Michelob for the premium-beer segment.  The \"Here's to Good Friends\" jingle, originally performed by baritone jazz singer Arthur Prysock and then later by other singers, including Clint Holmes , ran from 1977 to 1985.  In 1999, the North American rights to Löwenbräu passed to the Labatt Brewing Company , which began to brew Löwenbräu in Canada for both the Canadian and US markets with the same recipe used in Germany. Labatt's production of Löwenbräu ended in 2002 and exports of Munich Löwenbräu to North America resumed, although on a much smaller scale than had been the case before the Miller deal.  In 1997, Löwenbräu merged with",
+      "id": "HotpotQA-validation-00004611/01_Lwenbru.html_c_3"
+    },
+    {
+      "text": "are sponsored by Löwenbräu.  Oktoberfest beer, also known as Münchner Bier (\"Munich beer\"), is a registered trademark of the Club of Munich Brewers; Bavarian beer ( Bayrisches Bier ) and Munich beer in particular ( Münchner Bier ) are protected by the European Union as a PGI .  The Schützenfestzelt tent at Oktoberfest 2005 The Löwenbräu-Festhalle inside at Oktoberfest 2009 Beers Löwenbräu Original for Export Löwenbräu Münchner Hell: a Munich Helles (5.2% ABV ) Löwenbräu Münchner Dunkel: a dark lager (5.5% ABV) Löwenbräu Triumphator: a doppelbock (7.5% ABV) Löwenbräu Alkoholfrei: a non-alcoholic beer Löwenbräu Urtyp: a traditional helles (5.4% ABV) Löwenbräu Pils (formerly \"der Löwenbräu\"): the hoppiest of Munich's pilsners (5.4% ABV) Löwenbräu Dunkle Weisse: a hefeweizen (5.2% ABV) Löwenbräu Löwen Weisse Hell: a",
+      "id": "HotpotQA-validation-00004611/01_Lwenbru.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Löwenbräu is a brewery in Munich, Germany (Novel-00004611_c_1).\n- Bürgerbräukeller was located in the Haidhausen district of Munich on the east side of the Isar River (Novel-00004611_c_0).\n- The Bürgerbräukeller was also located near Rosenheimer Street (Novel-00004611_c_4).\n- The Bürgerbräukeller was also located near Keller Street (Novel-00004611_c_0).\n- Löwenbräu merged with Bürgerbräu (Novel-00004611_c_3).\n- Löwenbräu merged with Unionsbräu Schülein & Cie and Munich Bürgerbräu (Novel-00004611_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Löwenbräu and Bürgerbräukeller are both located where?",
+      "doc_ids": [
+        "HotpotQA-validation-00004611/00_Brgerbrukeller.html_c_0",
+        "HotpotQA-validation-00004611/00_Brgerbrukeller.html_c_4",
+        "HotpotQA-validation-00004611/01_Lwenbru.html_c_1",
+        "HotpotQA-validation-00004611/01_Lwenbru.html_c_3",
+        "HotpotQA-validation-00004611/01_Lwenbru.html_c_5"
+      ]
+    }
+  ]
+}

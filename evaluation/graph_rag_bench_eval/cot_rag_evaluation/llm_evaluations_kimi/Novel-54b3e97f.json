@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Captain Ferrers drank with Mr. Pepys.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Captain Ferrers drank with Mr. Pepys, which is not supported by the retrieved context or the Gold Answer. The Gold Answer specifies Mr. Starling as the individual who drank with Mr. Pepys, and this fact is not mentioned or supported in the Model Answer or the context provided."
+  }
+}

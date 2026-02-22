@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7904dba7",
+  "question": "What notable feature did the settler's cabin possess that caught the attention of the stranded coach passengers as they considered seeking shelter from the storm?",
+  "gold_answer": "The cabin had the light.",
+  "llm_answer": "There is insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to answer the question, which is incorrect. The Gold Answer clearly identifies the notable feature of the settler's cabin as 'the light,' and this is supported by the context. The Model Answer fails to address the question or provide any relevant information, resulting in a score of 0 across all metrics."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000570",
+  "question": "What city and nation was the location of the 2015 Pacific Games where the Kiribati national basketball team finished with a 0-4 record?",
+  "gold_answer": "Port Moresby, Papua New Guinea",
+  "llm_answer": "Port Moresby, Papua New Guinea",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Port Moresby, Papua New Guinea as the location of the 2015 Pacific Games where the Kiribati national basketball team competed. This is fully supported by the retrieved context, which explicitly mentions the games being held in Port Moresby, Papua New Guinea. The answer is concise but contains all necessary facts from the Gold Answer."
+  }
+}

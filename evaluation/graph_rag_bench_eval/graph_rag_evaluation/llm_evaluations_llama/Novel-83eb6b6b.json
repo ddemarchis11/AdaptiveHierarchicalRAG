@@ -1,0 +1,12 @@
+{
+  "id": "Novel-83eb6b6b",
+  "question": "Why are Cole Conway and Steve Sharp considered important figures in the novel's narrative, and what roles did they play together, particularly regarding their professions and activities such as playing cards?",
+  "gold_answer": "Cole Conway was an engineer who was in company with Steve Sharp, a pilot, and they played cards together.",
+  "llm_answer": "Cole Conway and Steve Sharp are considered important figures in the novel's narrative because they are introduced as partners in a game, implying that they are involved in some form of illicit or shady activities. They are also portrayed as having a close relationship, with Conway sharing a personal secret with Sharp. As for their roles, they appear to be gamblers or card players, as evidenced by their conversation about a dream Conway had about winning a large sum of money and finding a steam carriage.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Cole Conway and Steve Sharp as partners and mentions their involvement in card playing, which aligns with the Gold Answer. However, it introduces speculative details about their activities being illicit or shady and emphasizes a dream Conway had, which is not directly relevant to the question or supported by the context. While the core idea of their partnership and card playing is present, the additional details detract from faithfulness and evidence coverage."
+  }
+}

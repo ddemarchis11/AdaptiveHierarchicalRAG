@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20a20596",
+  "question": "How do the triplets demonstrate the interplay between local rulers—such as the Emperor residing at Mequinez and the Sultan in Salee—and foreign influences, as seen through historical events like England's occupation of Tangier, the French bombardment of Mogador, and the Portuguese destruction of Anfa, thereby highlighting the regions' internal governance and external challenges?",
+  "gold_answer": "Local rulers such as the Emperor and Sultan govern regions, but their domains have experienced foreign actions like the English occupation of Tangier, French bombardment of Mogador, and Portuguese destruction of Anfa, showing both internal authority and external challenges.",
+  "llm_answer": "The evidence does not mention any “triplets,” so it cannot show how they illustrate the interplay between local rulers and foreign influences.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly dismisses the question by focusing on the term 'triplets' and does not address the interplay between local rulers and foreign influences as described in the Gold Answer. It fails to utilize the retrieved context to provide a relevant response and does not cover the key facts mentioned in the Gold Answer."
+  }
+}

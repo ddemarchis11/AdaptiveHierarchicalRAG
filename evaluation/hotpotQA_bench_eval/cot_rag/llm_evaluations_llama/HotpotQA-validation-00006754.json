@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006754",
+  "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+  "gold_answer": "1927",
+  "llm_answer": "I cannot verify the birth year of the singer who popularized \"I'll Keep the Lovelight Burning\".",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct birth year of Patti Page, who popularized 'I'll Keep the Lovelight Burning,' as stated in the Gold Answer. Additionally, the retrieved context does not directly provide the birth year, but the Model Answer does not attempt to use external knowledge to answer the question correctly."
+  }
+}

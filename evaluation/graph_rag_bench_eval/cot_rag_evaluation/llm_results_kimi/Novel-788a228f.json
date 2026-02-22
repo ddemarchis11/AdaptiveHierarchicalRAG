@@ -1,0 +1,42 @@
+{
+  "id": "Novel-788a228f",
+  "question": "In which European country is the city of Poitiers, known for its prehistoric musical relics, located?",
+  "gold_answer": "Poitiers is located in France.",
+  "llm_answer": "France",
+  "context": [
+    {
+      "text": "Romans we have the first well-authenticated proof of musical instruments having been introduced into Europe from Asia. The Romans in their conquests undoubtedly made their musical instruments known, to some extent, also in western Europe. But the Greeks and Romans are not the only nations which introduced eastern instruments into Europe. The Phœnicians at an early period colonized Sardinia, and traces of them are still to be found on that island. Among these is a peculiarly constructed double-pipe, called _lionedda_ or _launedda_. Again, at a much later period the Arabs introduced several of their instruments into Spain, from which country they became known in France, Germany, and England. Also the crusaders, during the eleventh and twelfth centuries, may have helped to familiarize the western European nations with instruments of the east. CHAPTER V. THE CHINESE. Allowing for any exaggeration as to chronology, natural to the lively imagination of Asiatics, there is no reason to doubt that the Chinese possessed long before our Christian era musical instruments to which they attribute a fabulously high antiquity. There is an ancient tradition, according to which they obtained their musical scale from a miraculous bird, called foung-hoang, which appears to have been a sort of phœnix. When Confucius, who lived about B.C. 500, happened to hear on a certain occasion some Chinese music, he became so greatly enraptured that he could",
+      "id": "Novel-54537_c_53"
+    },
+    {
+      "text": "also worthy of examination. Several of them are constructed in a manner which, in some degree, reveals the characteristics of the musical system prevalent among the people who used the instruments. And although most of these interesting relics, which have been obtained from tombs and other hiding-places, may not be of great antiquity, it has been satisfactorily ascertained that they are genuine contrivances of the Indians before they were influenced by European civilization. Some account of these relics is therefore likely to prove of interest also to the ethnologist, especially as several facts may perhaps be found of assistance in elucidating the still unsolved problem as to the probable original connection of the American with Asiatic races. Among the instruments of the Aztecs in Mexico and of the Peruvians none have been found so frequently, and have been preserved in their former condition so unaltered, as pipes and flutes. They are generally made of pottery or of bone, substances which are unsuitable for the construction of most other instruments, but which are remarkably well qualified to withstand the decaying influence of time. There is, therefore, no reason to conclude from the frequent occurrence of such instruments that they were more common than other kinds of which specimens have rarely been discovered. [Illustration] The Mexicans possessed a small whistle formed of baked clay, a considerable number of which have been found. Some specimens (of which we give engravings) are singularly grotesque in shape, representing caricatures of",
+      "id": "Novel-54537_c_79"
+    },
+    {
+      "text": "It is the first digital phalanx of a ruminant, drilled to a certain depth by a smooth cylindrical bore on its lower surface near the expanded upper articulation. On applying it to the lower lip and blowing into it a shrill sound is yielded. Three of these phalanges are of reindeer, one is of Chamois. Again, among the relics which have been brought to light from the cave of Lombrive, in the department of Ariège, occur several eye-teeth of the dog which have a hole drilled into them near the root. Probably they also yield sounds like those reindeer bones, or like the tube of a key. Another whistle--or rather a pipe, for it has three finger-holes by means of which different tones could be produced--was found in a burying-place, dating from the stone period, in the vicinity of Poitiers in France: it is rudely constructed from a fragment of stag’s-horn. It is blown at the end, like a _flûte à bec_ and the three finger-holes are placed equidistantly. Four distinct tones must have been easily obtainable on it: the lowest, when all the finger-holes were covered; the other three, by opening the finger-holes successively. From the character of the stone utensils and weapons discovered with this pipe it is conjectured that the burying-place from which it was exhumed dates from the latest",
+      "id": "Novel-54537_c_15"
+    },
+    {
+      "text": "in works of art. CHAPTER II. A really complete account of all the musical instruments from the earliest time known to us would require much more space than can here be afforded. We can attempt only a concise historical survey. We venture to hope that the illustrations interspersed throughout the text will to the intelligent reader elucidate many facts which, for the reason stated, are touched upon but cursorily. PRE-HISTORIC RELICS. [Illustration] A musical relic has recently been exhumed in the department of Dordogne in France, which was constructed in an age when the fauna of France included the reindeer, the rhinoceros, and the mammoth, the hyæna, the bear, and the cave-lion. It is a small bone somewhat less than two inches in length, in which is a hole, evidently bored by means of one of the little flint knives which men used before acquaintance with the employment of metal for tools and weapons. Many of these flints were found in the same place with the bones. Only about half a dozen of the bones, of which a considerable number have been exhumed, possess the artificial hole. We give a woodcut of one of them. M. Lartet surmises the perforated bone to have been used as a whistle in hunting animals. It is the first digital phalanx of a ruminant, drilled to a certain depth by a smooth cylindrical bore on its lower surface near",
+      "id": "Novel-54537_c_14"
+    },
+    {
+      "text": "is the case with the African _marimba_, which has become rather popular with the natives of Guatemala in central America: but such adaptations are very easily discernible. CHAPTER VII. EUROPEAN NATIONS DURING THE MIDDLE AGES. Many representations of musical instruments of the middle ages have been preserved in manuscripts, as well as in sculptures and paintings forming ornamental portions of churches and other buildings. Valuable facts and hints are obtainable from these evidences, provided they are judiciously selected and carefully examined. The subject is, however, so large that only a few observations on the most interesting instruments can be offered here. Unfortunately there still prevails much uncertainty respecting several of the earliest representations as to the precise century from which they date, and there is reason to believe that in some instances the archæological zeal of musical investigators has assigned a higher antiquity to such discoveries than can be satisfactorily proved. It appears certain that the most ancient European instruments known to us were in form and construction more like the Asiatic than was the case with later ones. Before a nation has attained to a rather high degree of civilisation its progress in the cultivation of music, as an art, is very slow indeed. The instruments found at the present day in Asia are scarcely superior to those which were in use among oriental nations about three thousand years ago. It is, therefore, perhaps not surprising that no material improvement is perceptible in the construction of the instruments of European countries during",
+      "id": "Novel-54537_c_113"
+    }
+  ],
+  "cot_scratchpad": "- Poitiers is in France (Novel-54537_c_15)\n- The pipe relic was found near Poitiers (Novel-54537_c_15)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In which European country is the city of Poitiers, known for its prehistoric musical relics, located?",
+      "doc_ids": [
+        "Novel-54537_c_53",
+        "Novel-54537_c_79",
+        "Novel-54537_c_15",
+        "Novel-54537_c_14",
+        "Novel-54537_c_113"
+      ]
+    }
+  ]
+}

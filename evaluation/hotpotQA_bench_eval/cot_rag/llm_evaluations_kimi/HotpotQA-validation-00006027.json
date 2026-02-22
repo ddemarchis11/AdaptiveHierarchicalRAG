@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006027",
+  "question": "What organization affiliated with the National Collegiate Athletic Association Division were the 2012 Hawaii Warriors football team first year members of?",
+  "gold_answer": "Mountain West Conference",
+  "llm_answer": "The 2012 Hawaii Warriors football team were first-year members of the Mountain West Conference.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Mountain West Conference as the organization affiliated with the NCAA Division that the 2012 Hawaii Warriors football team joined as first-year members. This is fully supported by the Retrieved Context, which explicitly states the team's membership in the Mountain West Conference starting in 2012. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

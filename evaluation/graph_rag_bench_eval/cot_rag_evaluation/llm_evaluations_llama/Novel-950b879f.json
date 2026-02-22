@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "Based on the provided evidence, here are the indications about Ruth's educational ambitions and her emotional connection to Angeline:\n\n**Ruth's Educational Ambitions:**\n\n- There is no direct information about Ruth's educational ambitions in the provided evidence. However, it is mentioned that Ruth's sister Angeline was a diligent student who completed the college curriculum at McGrawville and even taught classes in mathematics.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address Ruth's educational ambitions and emotional connection to Angeline, which are explicitly mentioned in the Gold Answer. It instead focuses on Angeline's educational achievements, which are irrelevant to the question. Additionally, the claims made about Angeline are not grounded in the retrieved context provided."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b456ced2",
+  "question": "With whom does the Emperor of Morocco correspond in the narrative's depiction of diplomatic or political exchanges?",
+  "gold_answer": "The Emperor of Morocco corresponds with Mr. Hay.",
+  "llm_answer": "The Emperor of Morocco corresponds with Mr. Hay on the subject of the slave-trade.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mr. Hay as the individual with whom the Emperor of Morocco corresponds, specifically mentioning the topic of the slave-trade, which is supported by the retrieved context. The answer aligns with the Gold Answer and includes relevant details without introducing unsupported information."
+  }
+}

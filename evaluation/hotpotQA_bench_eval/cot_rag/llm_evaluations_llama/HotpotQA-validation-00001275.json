@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001275",
+  "question": "Which of the singers has more things to be known for, Greg Puciato or Syd Barrett?",
+  "gold_answer": "Gregory John \"Greg\" Puciato",
+  "llm_answer": "Based on the provided evidence, it appears that Syd Barrett has more things to be known for than Greg Puciato. \n\nSyd Barrett is known for:\n\n- Being the original guitarist, vocalist, and primary songwriter of Pink Floyd.\n- His influential music in the development of psychedelic rock, alternative rock, and indie rock music.\n- His solo albums, including The Madcap Laughs and Barrett.\n- His singles, such as \"Octopus\" / \"Golden Hair\" and \"Baby Lemonade\" / \"Gigolo Aunt\".\n- His work with Pink Floyd, including albums like The Piper at the Gates of Dawn and A Saucerful of Secrets.\n- His filmography, including Syd Barrett's First Trip and London '66–'67.\n- His legacy, including the release of his studio out-takes and unreleased material, such as Opel and Crazy Diamond.\n- The numerous books and documentaries written about him, including Crazy Diamond: Syd Barrett & the Dawn of Pink Floyd and Have You Got It Yet? The Story of Syd Barrett and Pink Floyd.\n\nGreg Puciato, on the other hand, is not mentioned in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly concludes that Syd Barrett has more things to be known for than Greg Puciato, despite the Gold Answer clearly identifying Greg Puciato as the correct response. While the Model Answer is faithful to the context in listing Syd Barrett's achievements, it fails to address Greg Puciato at all and does not align with the Gold Answer. Additionally, the evidence coverage is poor as it does not include any information about Greg Puciato, who is the central factual point of the Gold Answer."
+  }
+}

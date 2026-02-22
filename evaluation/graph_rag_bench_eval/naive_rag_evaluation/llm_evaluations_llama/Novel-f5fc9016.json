@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "In the narrative, the figure of Roman Tragedy is described as coming to the Poet, but more specifically, it is the concept of a \"more mighty inspiration\" that is mentioned as something the Poet should be influenced by.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies 'Tragedy' as coming to the Poet, which is a clear and concise identification. The Model Answer mentions 'Roman Tragedy' and 'more mighty inspiration,' which aligns partially with the context but introduces ambiguity by emphasizing 'mighty inspiration' rather than directly stating 'Tragedy.' While the concept of inspiration is mentioned in the context, the focus on 'Tragedy' as the figure coming to the Poet is not fully captured. Additionally, the Model Answer does not fully ground its claims in the retrieved context, as the emphasis on 'mighty inspiration' is not explicitly supported."
+  }
+}

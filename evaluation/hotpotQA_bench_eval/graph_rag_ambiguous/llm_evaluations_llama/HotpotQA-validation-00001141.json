@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001141",
+  "question": "Who both wrote and directed the 2016 animated musical in which a veteran voice actor known for superhero cartoon roles contributed a character?",
+  "gold_answer": "Garth Jennings",
+  "llm_answer": "Garth Jennings wrote and directed the 2016 animated musical \"Sing\". A veteran voice actor known for superhero cartoon roles, Jason Mantzoukas, contributed a character, but more likely, Jason Mantzoukas is not the correct answer.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Garth Jennings as the writer and director of the 2016 animated musical 'Sing', which matches the Gold Answer. The additional mention of Jason Mantzoukas is not relevant to the core question but does not detract from the correctness or faithfulness of the answer. The retrieved context supports the claim about Garth Jennings."
+  }
+}

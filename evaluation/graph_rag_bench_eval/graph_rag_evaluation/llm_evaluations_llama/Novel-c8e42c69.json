@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c8e42c69",
+  "question": "What was the political affiliation of Dr. Inglis, as referenced in her participation in public and political life?",
+  "gold_answer": "Liberal",
+  "llm_answer": "Dr. Inglis's father, Mr. Inglis, was an Imperialist rather than a 'Home Ruler All Round.' This suggests that Dr. Inglis may have had a similar or at least a more conservative political affiliation, as she was influenced by her father's views.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Dr. Inglis's political affiliation was Liberal, but the Model Answer incorrectly suggests she may have had a conservative affiliation influenced by her father's Imperialist views. This is not supported by the retrieved context, which explicitly mentions her membership in the Women's Liberal Federation (W.L.F.) and her alignment with Liberal principles. The Model Answer fails to provide the correct political affiliation and does not ground its claims in the provided context."
+  }
+}

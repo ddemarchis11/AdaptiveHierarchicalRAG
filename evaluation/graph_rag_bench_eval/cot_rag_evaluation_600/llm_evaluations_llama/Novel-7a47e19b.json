@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7a47e19b",
+  "question": "In the context of the ancient Yucatan as described in the novel, why might chroniclers and historians include detailed descriptions of caves in their accounts, given that these caves are adorned with stalactites, contain springs and streams inhabited by fishes and shrimps, and provide natural outlets for the escape of gases?",
+  "gold_answer": "Chroniclers might be interested in describing caves because they are adorned with stalactites, have springs and streams inhabited by fishes and shrimps, and provide an outlet for the escape of gases.",
+  "llm_answer": "Based on the provided evidence, chroniclers and historians might include detailed descriptions of caves in their accounts because these caves:\n\n1. Provide natural outlets for the escape of gases generated in the superficial strata of the earth, preventing the buildup of pressure that could lead to earthquakes.\n2. Contain springs and streams inhabited by fish and shrimps, which are a source of fresh water and food for the inhabitants.\n3. Are adorned with stalactites and stalagmites, which are a natural wonder and a testament to the geological history of the region.\n4. Have unique properties and phenomena, such as thermal mineral water, strong sulphurous odor and vapor, and strange stories told by the aborigines, which are worth documenting and sharing.\n\nThese descriptions would be included in the accounts of chroniclers and historians to provide a detailed understanding of the geography, geology, and natural history of the region, as well as to highlight the unique features and characteristics of the caves.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, elaborating on the reasons why chroniclers might describe caves, including their adornments, aquatic life, and role in gas escape. It also adds relevant details about the geological and cultural significance of the caves, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the additional information is grounded in the context."
+  }
+}

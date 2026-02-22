@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b08051d8",
+  "question": "According to the subgraphs, how is potash involved in the manufacturing of telescopes?",
+  "gold_answer": "Potash is used for making glass, which is then used to make telescopes.",
+  "llm_answer": "There is no mention of potash being involved in the manufacturing of telescopes in the provided text. The text appears to be about making potash soap, its uses, and the differences between potash and caustic soda.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not mention potash being involved in the manufacturing of telescopes. However, it fails to answer the user's question based on external knowledge or internal reasoning, which is that potash is used for making glass, a material used in telescopes. The retrieved context is irrelevant to the question, so the Model Answer is faithful to the context but does not provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

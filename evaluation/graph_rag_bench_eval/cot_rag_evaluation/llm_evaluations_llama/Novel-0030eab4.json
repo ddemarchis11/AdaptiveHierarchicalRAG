@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0030eab4",
+  "question": "What is Van Bibber's connection to the Owl's Nest, the all-night restaurant on Third Avenue, and who is the owner of this establishment?",
+  "gold_answer": "Van Bibber went to the Owl's Nest, which was owned by Gus McGowan and located on Third Avenue.",
+  "llm_answer": "Van Bibber's connection to the Owl's Nest is that he went there with Andy Spielman for a porterhouse steak and onions. \n\nThe owner of the Owl's Nest is Gus McGowan.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Van Bibber's connection to the Owl's Nest as visiting it for a meal and accurately states that Gus McGowan is the owner. Both points are supported by the retrieved context and align with the Gold Answer."
+  }
+}

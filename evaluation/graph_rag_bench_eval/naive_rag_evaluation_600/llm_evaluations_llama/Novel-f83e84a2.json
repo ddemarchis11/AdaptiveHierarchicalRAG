@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f83e84a2",
+  "question": "To which professional association did Elsie Maud Inglis write, seeking support or collaboration during the organization of medical units?",
+  "gold_answer": "Elsie Maud Inglis wrote to the Registered Medical Women's Association.",
+  "llm_answer": "The text does not explicitly mention the professional association to which Elsie Maud Inglis wrote, seeking support or collaboration during the organization of medical units. However, it does mention that she had the sustaining co-operation both of the Admiralty and the Foreign Office, and that the Scottish women owed very much to both Secretaries of State for Foreign Affairs, and very particularly to Lord Robert Cecil in his department of the Foreign Office.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about the professional association Elsie Maud Inglis wrote to, which is the Registered Medical Women's Association as stated in the Gold Answer. The retrieved context does not provide information about this association, and the model's response instead discusses unrelated entities like the Admiralty and Foreign Office, which are not relevant to the question. Therefore, the answer is incorrect, unfaithful to the context, and does not cover the key fact from the Gold Answer."
+  }
+}

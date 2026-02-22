@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e988af6",
+  "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+  "gold_answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+  "llm_answer": "The woman’s desperate plea makes the Goodwood Plunger set aside his own preoccupations and agree to intervene. After first brushing her off, he finally turns back, asks “Where is he?” and allows her to lead him inside so he can speak to her husband. Her insistence thus moves him from passive refusal to active, if reluctant, involvement.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies the woman's influence in persuading the Goodwood Plunger to intervene, but it does not address the specific actions described in the Gold Answer, such as the woman pointing to her husband, Louis shoving the Plunger's hand off, and the Plunger turning away from the woman. Additionally, the Model Answer includes some details about the Plunger's initial reluctance and eventual involvement, but these are not fully supported by the retrieved context, which does not explicitly describe the Plunger's internal shift as stated. The key facts from the Gold Answer are entirely missing."
+  }
+}

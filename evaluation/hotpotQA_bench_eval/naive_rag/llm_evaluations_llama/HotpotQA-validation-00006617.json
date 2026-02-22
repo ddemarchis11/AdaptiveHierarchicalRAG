@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006617",
+  "question": "What role was the English actress. who starred in The Priory known for",
+  "gold_answer": "Sarah Hurst in \"Easy Virtue\"",
+  "llm_answer": "The English actress who starred in The Priory was known for her role in that play.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about the role the actress is known for. It incorrectly focuses on her participation in 'The Priory' without mentioning her role as Sarah Hurst in 'Easy Virtue,' which is the correct answer according to the Gold Answer and supported by the Retrieved Context."
+  }
+}

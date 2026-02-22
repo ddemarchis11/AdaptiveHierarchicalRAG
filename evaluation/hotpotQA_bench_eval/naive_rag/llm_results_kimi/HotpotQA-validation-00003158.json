@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003158",
+  "question": "John DiMaggio voices the character Shnitzel on Cartoon Network series created by who?",
+  "gold_answer": "C. H. Greenblatt",
+  "llm_answer": "C. H. Greenblatt",
+  "context": [
+    {
+      "text": "name, and later made a music video for the remix of his song featuring characters from Chowder . Although Greenblatt was not involved in the production of the music video, he did praise the video on his Tumblr blog. Appearances in other media Chowder, Shnitzel, and Truffles made cameos in the Jellystone series finale, Crisis of the Infinite Mirths. Chowder (along with his pet stink cloud, Kimchi) appears as a playable character in the crossover video game, Cartoon Network: Punch Time Explosion , with Tara Strong (who voiced Truffles) voicing Chowder instead of Nicky Jones. He also appeared in FusionFall , with Nicky Jones reprising his role. Chowder also makes cameo appearances in Underfist: Halloween Bash , (appearing in the eye of a pumpkin float) and the Teen Titans Go! episode \"Warner Bros. 100th Anniversary\", along with several other Cartoon Network characters. References External links Wikiquote has quotations related to Chowder (TV series) . Chowder at IMDb Portals : Cartoon Network Cartoon Animation United States Television Comedy 2000s 2010s",
+      "id": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_c_12"
+    },
+    {
+      "text": "name, and later made a music video for the remix of his song featuring characters from Chowder . Although Greenblatt was not involved in the production of the music video, he did praise the video on his Tumblr blog. Appearances in other media Chowder, Shnitzel, and Truffles made cameos in the Jellystone series finale, Crisis of the Infinite Mirths. Chowder (along with his pet stink cloud, Kimchi) appears as a playable character in the crossover video game, Cartoon Network: Punch Time Explosion , with Tara Strong (who voiced Truffles) voicing Chowder instead of Nicky Jones. He also appeared in FusionFall , with Nicky Jones reprising his role. Chowder also makes cameo appearances in Underfist: Halloween Bash , (appearing in the eye of a pumpkin float) and the Teen Titans Go! episode \"Warner Bros. 100th Anniversary\", along with several other Cartoon Network characters. References External links Wikiquote has quotations related to Chowder (TV series) . Chowder at IMDb Portals : Cartoon Network Cartoon Animation United States Television Comedy 2000s 2010s",
+      "id": "HotpotQA-validation-00002295/01_Chowder-TV-series.html_c_12"
+    },
+    {
+      "text": "Adventure Time is an American animated television media franchise created by Pendleton Ward for Cartoon Network . The first series, Adventure Time (2010–2018), follows the coming-of-age adventures of Finn (voiced by Jeremy Shada ), a human boy, and his best friend and adoptive brother Jake ( John DiMaggio ), a dog with magical powers to change shape and grow and shrink at will. Finn and Jake live in the post-apocalyptic Land of Ooo. Throughout the series, they interact with the show's other main characters: Princess Bubblegum ( Hynden Walch ), the sovereign of the Candy Kingdom and a sentient piece of gum ; the Ice King ( Tom Kenny ), a demented but largely misunderstood ice wizard; Marceline the Vampire Queen ( Olivia Olson ), a thousand-year-old vampire and rock music enthusiast; Lumpy Space Princess (Pendleton Ward), a melodramatic and immature princess made out of \"irradiated stardust\"; BMO ( Niki Yang ), a sentient video game console-shaped robot that lives with Finn and Jake; and Flame Princess ( Jessica DiCicco ), a flame elemental and ruler of the Fire Kingdom. The pilot first aired in 2007 on Nicktoons Network , where it was later re-aired on the incubator series Random! Cartoons . The pilot was eventually uploaded onto the internet and became a cult hit on YouTube . After Nickelodeon declined to turn the short into a full-fledged",
+      "id": "HotpotQA-validation-00003158/02_List-of-Adventure-Time-episodes.html_c_0"
+    },
+    {
+      "text": "Stakes is an American animated television miniseries comprising eight episodes from the television show Adventure Time , created by Pendleton Ward . It aired as part of the show's seventh season from November 16, 2015 to November 19, 2015 on Cartoon Network . Adventure Time follows the adventures of Finn (voiced by Jeremy Shada ), a human boy, and his best friend and adoptive brother Jake (voiced by John DiMaggio ), a dog with magical powers to change shape, grow and shrink at will. In this limited event series, Princess Bubblegum (voiced by Hynden Walch ) removes the vampiric essence from Marceline the Vampire Queen (voiced by Olivia Olson ), which unleashes five recently resurrected vampires into The Land of Ooo. Marceline, Bubblegum, Finn, Jake, and Peppermint Butler (voiced by Steve Little ) are forced to deal with the fallout. The miniseries' story was developed by series creator Pendleton Ward, showrunner Adam Muto , head writer Kent Osborne , and staff writer Jack Pendarvis . The eight episodes were storyboarded by Ako Castuera , Jesse Moynihan , Muto, Hanna K. Nyström, Herpich, Steve Wolfhard , Seo Kim, Somvilay Xayaphone, Lyle Partridge, and Luke Pearson . Andres Salaff, Elizabeth Ito, and Muto handled supervising direction,",
+      "id": "HotpotQA-validation-00003158/03_Stakes-miniseries.html_c_0"
+    },
+    {
+      "text": "Chowder is an American animated surreal comedy television series created by C. H. Greenblatt for Cartoon Network . It premiered on November 2, 2007, and ended on August 7, 2010, after three seasons with a total of 49 episodes. The series follows an aspiring young boy named Chowder and his day-to-day adventures as an apprentice in Chef Mung Daal's catering company. Although he means well, Chowder often finds himself in predicaments due to his perpetual appetite and his nature as a scatterbrain. Chowder's guidance in his goal to become a master chef is influenced by Mung's wife, Truffles; Mung's assistant Shnitzel; Mung's rival Ms. Endive; her apprentice Panini, who has a perpetual crush on Chowder; as well as other side characters. The show had one win and two nominations at the Primetime Emmy Awards as well as six nominations at the Annie Awards . Premise The series revolves around the titular Chowder, who works as an apprentice to chef Mung Daal at his catering company. Though he is lighthearted and carefree, Chowder's actions habitually land him in circumstances beyond his control, partly due to his large appetite and absent-mindedness. Mung and his wife Truffles, Mung's rock monster employee Schnitzel, and Chowder's gaseous pet Kimchi all try to aid Chowder in his ambitions to",
+      "id": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- John DiMaggio voices Jake in Adventure Time, not Shnitzel (HotpotQA-validation-00003158/02).\n- Shnitzel is a character in Chowder (HotpotQA-validation-00003158/01).\n- Chowder was created by C. H. Greenblatt for Cartoon Network (HotpotQA-validation-00003158/01).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "John DiMaggio voices the character Shnitzel on Cartoon Network series created by who?",
+      "doc_ids": [
+        "HotpotQA-validation-00003158/01_Chowder-TV-series.html_c_12",
+        "HotpotQA-validation-00002295/01_Chowder-TV-series.html_c_12",
+        "HotpotQA-validation-00003158/02_List-of-Adventure-Time-episodes.html_c_0",
+        "HotpotQA-validation-00003158/03_Stakes-miniseries.html_c_0",
+        "HotpotQA-validation-00003158/01_Chowder-TV-series.html_c_0"
+      ]
+    }
+  ]
+}

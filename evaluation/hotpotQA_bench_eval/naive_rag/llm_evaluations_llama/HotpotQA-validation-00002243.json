@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002243",
+  "question": "How many Academy Awards did the film, in which Jimmy Bryant provided the singing voice for the character Tony, win ?",
+  "gold_answer": "10",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect. The Gold Answer specifies that the film won 10 Academy Awards, and this information is verifiable from external knowledge about the 1961 film 'West Side Story.' The Retrieved Context does not directly mention the number of awards won, but the Model Answer fails to utilize external knowledge or provide the correct response, resulting in a score of 0 across all metrics."
+  }
+}

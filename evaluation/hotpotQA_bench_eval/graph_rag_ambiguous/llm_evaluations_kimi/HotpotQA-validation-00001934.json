@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001934",
+  "question": "How many albums did the record label that issued a North Carolina singer-songwriter's debut release go on to put out for that same artist?",
+  "gold_answer": "two",
+  "llm_answer": "The context does not specify how many total albums the label that issued Tift Merritt’s debut release, Bramble Rose, later put out for her.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the number of albums released by the label for Tift Merritt, which is incorrect. The Gold Answer clearly states 'two,' and this information is supported by the context. The Model Answer fails to provide the correct information and misses the central factual point."
+  }
+}

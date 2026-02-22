@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cdfad12b",
+  "question": "How do the triplets demonstrate the diffusion of harp-related musical practices from the Middle East into Europe?",
+  "gold_answer": "The kinnor, rendered as harp, is found in the Anglo-Saxon manuscript, showing a link from the Middle East (kinnor) to Europe (Anglo-Saxon manuscript).",
+  "llm_answer": "The triplets show that harp-related musical practices spread from the Middle East into Europe through several key pathways. First, the Arabs adopted the Persian harp (*chang*), calling it *junk*, and brought it to Spain, from where it spread to France, Germany, and England. Second, the Crusaders in the 11th and 12th centuries helped introduce Eastern instruments to Western Europe. Third, the Greeks and Romans, through their conquests, brought Asian instruments into Europe, with the Romans disseminating them further into Western Europe. These interactions—Arabic influence in Spain, Crusader contact, and Greco-Roman transmission—collectively demonstrate how harp-related practices diffused from the Middle East into Europe.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a broader explanation of the diffusion of harp-related practices, mentioning Arabs, Crusaders, and Greco-Roman influences. However, it does not specifically address the 'kinnor' or its representation in the Anglo-Saxon manuscript, which is the core of the Gold Answer. While some claims in the Model Answer are supported by the context, such as the Arabs adopting Persian instruments and spreading them to Europe, other details like Crusader influence and Greco-Roman transmission are not explicitly grounded in the retrieved context. Additionally, the Model Answer misses the specific evidence of the 'kinnor' and its connection to the Anglo-Saxon manuscript, which is central to the Gold Answer."
+  }
+}

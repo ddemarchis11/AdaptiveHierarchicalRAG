@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001155",
+  "question": "Do both an Austrian alpine ski racer active in the early 2000s and a Chilean film editor and director who worked closely with a major auteur belong to the same profession?",
+  "gold_answer": "no",
+  "llm_answer": "No.  \nThe Austrian alpine ski racer is an athlete, whereas the Chilean film editor and director (Valeria Sarmiento) is a filmmaker; they do not share the same profession.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the Austrian alpine ski racer and the Chilean film editor/director do not belong to the same profession, aligning with the Gold Answer. It is faithful to the context, which provides details about Valeria Sarmiento's career in filmmaking, and the answer includes all necessary facts to address the question."
+  }
+}

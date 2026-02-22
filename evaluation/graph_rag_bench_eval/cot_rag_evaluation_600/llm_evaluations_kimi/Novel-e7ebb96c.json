@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "Ruth and Angeline Stickney were sisters who shared parts of their educational journey at McGrawville. Angeline completed the college curriculum there and taught mathematics, while Ruth attended for only one term initially, returned in 1854 for two months, but ultimately left due to poor health. Angeline encouraged Ruth to persist, offering financial and moral support, and Ruth later helped Angeline by taking her home after her health collapsed near graduation.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the essence of Ruth's connection to Angeline Stickney during their educational journey, as stated in the Gold Answer. It elaborates with additional details about their time at McGrawville, Angeline's encouragement, Ruth's health issues, and mutual support, all of which are supported by the Retrieved Context. The extra information is relevant and grounded, and the key facts from the Gold Answer are included."
+  }
+}

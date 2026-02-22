@@ -1,0 +1,12 @@
+{
+  "id": "Novel-362dbef2",
+  "question": "Which actress was a member of the stock company at the People's theater, as outlined in the narrative detailing St. Paul's theatrical scene?",
+  "gold_answer": "Emily Dow was a member of the stock company at the People's theater.",
+  "llm_answer": "Emily Dow was a member of the stock company at the People's theater.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Emily Dow as a member of the stock company at the People's theater, which is consistent with the Gold Answer and fully supported by the Retrieved Context. It includes all necessary facts without adding unsupported details."
+  }
+}

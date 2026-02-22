@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006132",
+  "question": "what species of plants are Chamelaucium and Vanilla derived from?",
+  "gold_answer": "flowers",
+  "llm_answer": "Based on the provided evidence, the species of plants that Chamelaucium and Vanilla are derived from are:\n\n1. Chamelaucium: This genus of plants belongs to the myrtle family (Myrtaceae) and is endemic to southwestern Western Australia. The most well-known species is the Geraldton waxflower (Chamelaucium uncinatum).\n\n2. Vanilla: This genus of plants belongs to the orchid family (Orchidaceae) and is found in tropical and subtropical regions worldwide. The most widely known member is the flat-leaved vanilla (V. planifolia), native to Mexico and Belize, from which commercial vanilla flavoring is derived.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the plant families and specific species associated with Chamelaucium and Vanilla, but it does not directly address the question's focus on the type of plants they are derived from (flowers). While the context supports the detailed information provided, the core answer 'flowers' is not explicitly stated, leading to partial correctness and evidence coverage."
+  }
+}

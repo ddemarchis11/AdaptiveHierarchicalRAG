@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005156",
+  "question": "What is the name of the county that Cari Roccaro is from?",
+  "gold_answer": "Suffolk",
+  "llm_answer": "The evidence does not specify the name of the county Cari Roccaro is from.",
+  "context": [
+    {
+      "text": "NWSL Shield : 2018 , 2019 References External links Wikimedia Commons has media related to Cari Roccaro . Cari Roccaro – FIFA competition record (archived) US Soccer player profile Notre Dame player profile Cari Roccaro's New York Fury statistics Cari Roccaro on Twitter Cari Roccaro at Soccerway",
+      "id": "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_4"
+    },
+    {
+      "text": "Cari Elizabeth Onwualu ( née Roccaro ; born July 18, 1994) is an American professional soccer player who plays as a midfielder or defender . Roccaro played college soccer for the Notre Dame Fighting Irish and was drafted fifth overall by the Houston Dash in the 2016 NWSL College Draft . After two seasons in Houston, she joined the North Carolina Courage , where she won two consecutive NWSL Shields and NWSL Championships . She was traded to Angel City FC for its expansion season in 2022 before another trade to Chicago Stars FC the next year. Roccaro represented the United States at the youth international level. She helped win the 2012 FIFA U-20 Women's World Cup and also appeared at the 2014 FIFA U-20 Women's World Cup . Early life Roccaro attended East Islip High School in Islip Terrace, New York , where she played for the Redmen. During her senior year, she scored 11 goals with an 11–3–1 record. She was named a First Team ESPNHS All-American, a two-time All-American selection by the National Soccer Coaches Association of America and was Long Island Player of the Year. Roccaro led the Redmen as team captain as a sophomore, junior, and senior. She was named All-League, All-Conference, and All-County as a freshman, junior, and senior and Team MVP as a freshman and senior.",
+      "id": "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_0"
+    },
+    {
+      "text": "career 2012 FIFA Under-20 World Cup awards ceremony. Roccaro has represented the United States as a member of the U-15, U-17, U-18 and U-20 national youth teams. In March 2010, she scored her first international goal in a qualifier match against Haiti during the 2010 FIFA U-17 Women's World Cup . She also played and scored goals for the US during the 2010 CONCACAF Under-17 Women's Championship and 2012 CONCACAF Under-20 Women's Championship . Roccaro was a member of the United States U-20 squad , which won the 2012 FIFA U-20 Women's World Cup in Japan. She played two matches in the group stage ; and played in all three matches in the knock-out stage . Roccaro captained the United States under-20 women's national soccer team that competed at 2014 FIFA U-20 Women's World Cup in Canada. She played all 360 minutes of the four matches played by the team, which was eliminated in the quarter-final. Honors International CONCACAF U20 Women's Championship: 2012, 2014 FIFA U20 Women's World Cup: 2012 Club North Carolina Courage NWSL Champions : 2018 , 2019 NWSL Shield : 2018 , 2019 References External links Wikimedia Commons has media related to Cari Roccaro . Cari",
+      "id": "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_3"
+    },
+    {
+      "text": "was named All-League, All-Conference, and All-County as a freshman, junior, and senior and Team MVP as a freshman and senior. A highly decorated player, she was named NSCAA All-American as a junior and senior and Parade All-American as a junior. She was also named New York Gatorade Player of the Year, Long Island Player of the Year, and New York State Player of the Year as a senior. Roccaro played for local club team, Albertson Fury and was a member of the Olympic Development Program (ODP) Region I Team from 2007 to 2010 as well as the Eastern New York state Olympic Development Program (ODP) squad from 2005 to 2010. New York Fury While still in high school, Roccaro played for Long Island Fury in Women's Premier Soccer League , the second tier of women's soccer in the United States. She joined the club New York Fury , in the new WPSL Elite which was created after the folding of Women's Professional Soccer in early 2012. College career Roccaro attended the University of Notre Dame where she played as a defender for the Fighting Irish . In January 2013, she was named Soccer America's Women's Freshman of the Year after leading Notre Dame to the quarterfinals of the NCAA Division I Tournament . She was also named Big East Conference Rookie of the Year Club career Roccaro was selected by the Houston Dash with the",
+      "id": "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_1"
+    },
+    {
+      "text": "the NCAA Division I Tournament . She was also named Big East Conference Rookie of the Year Club career Roccaro was selected by the Houston Dash with the 5th overall pick in the 2016 NWSL College Draft . Over two seasons with the Dash, she made 33 appearances. On March 19, 2018, she was waived by the club. She signed with North Carolina Courage on April 12, 2018. She made two appearances for the club during the 2018 season. North Carolina won the 2018 NWSL Shield & NWSL Championship. In December 2021, the North Carolina Courage traded Roccaro's rights to Los Angeles-based Angel City Football Club (ACFC) in exchange for roster protection in the 2022 NWSL Expansion Draft. In January, 2022, ACFC announced that Rocarro had been signed to a two-year contract. Roccaro had four goals and one assist during the 2022 season . On January 24, 2023, Angel City traded Roccaro to the Chicago Red Stars (later renamed Chicago Stars FC) in exchange for $65,000 in allocation money. Roccaro made 61 NWSL appearances for Chicago across three seasons before departing from the club at the end of 2025. International career 2012 FIFA Under-20 World Cup awards ceremony. Roccaro has represented the United States as a member of the U-15,",
+      "id": "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- sort sort few sortsort sortsort few bit quite bitsort sort bit sortsort sort sort sort sortsort sort sort sortsort sortsort sortsort sortsort sortSort sortSort sortsort sortSort sortSort sortsort sortsort sortsort bit sortsort sort sort sort sort sort sort sort sort sort any bit sortsort sortSort sortsort sortsort sortsort sortSort sortsort sortsort sortSort sortsort sortSort sortsort sortsort sortsort sortsort sortSort sortsort sortsort few])\n- many bit few any Any any few many bit any sort any any few few few])\n- few many few many few Many few few学生的 many few某个 couple few});\n- few few manner any few many few已有 fewMany many few mine many few)).\n- many",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the name of the county that Cari Roccaro is from?",
+      "doc_ids": [
+        "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_4",
+        "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_0",
+        "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_3",
+        "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_1",
+        "HotpotQA-validation-00005156/00_Cari-Roccaro.html_c_2"
+      ]
+    }
+  ]
+}

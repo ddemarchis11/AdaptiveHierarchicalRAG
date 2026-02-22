@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000148",
+  "question": "Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",
+  "gold_answer": "The Beatles",
+  "llm_answer": "Bruce Spizer is an expert on the Beatles, known as the most influential act of the rock era.",
+  "context": [
+    {
+      "text": "David \" Bruce \" Spizer (born July 2, 1955) is an American tax attorney in New Orleans , Louisiana, who is also recognized as an expert on the Beatles . He has published thirteen books about the band, and is frequently quoted as an authority on their history and their recordings. Biography Spizer was born and raised in New Orleans. He attended Isidore Newman School and then received B.A. , M.B.A. , and J.D. degrees from Tulane University , where he was a member of honorary societies Phi Beta Kappa and the Order of the Coif . While pursuing his legal career, he also managed the Cold , a popular new wave band in New Orleans. In 1997, Spizer earned a large legal fee from the settlement of a class action lawsuit, and decided to use some of the money to replace his childhood collection of Beatles LPs (which had been damaged by cockroaches ) with a new set of first edition albums. Drawn into the world of Beatles collectors , he ended up writing and self-publishing The Beatles Records on Vee-Jay , about the relationship between EMI , the Beatles' U.K. record label, and Vee-Jay Records , the U.S. label that released the band's first records in the U.S. As of 2020, Spizer has written and published twelve books about the Beatles. A reviewer for The New York Times described his books as containing \"a wealth of detail",
+      "id": "HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_0"
+    },
+    {
+      "text": "(2011), ISBN 0-9832957-0-0 The Beatles and Sgt. Pepper: A Fans' Perspective (2017), ISBN 0-9832957-4-3 The Beatles White Album and the Launch of Apple (2018), ISBN 978-0-9832957-5-4 The Beatles Get Back To Abbey Road (2019), ISBN 978-0-9832957-6-1 The Beatles Finally Let It Be (2020), ISBN 978-0-9832957-7-8 The Beatles Magical Mystery Tour and Yellow Submarine (2021), ISBN 978-0-9832957-8-5 The Beatles Rubber Soul to Revolver (2022), ISBN 978-0-9832957-9-2 The Beatles Please Please Me to With The Beatles (2023), ISBN 979-8-9863190-3-2 The Beatles A Hard Day's Night & More (2024), ISBN 979-8-9863190-8-7 Other works (2007) Published The Beatles Price Guide For American Records 6th Edition (By Perry Cox and Frank Daniels. Foreword by Bruce Spizer) Pub. 498 Productions ISBN 978-0-9662649-6-8 References External links Official website Bruce Spizer is New Orleans' Beatles Expert (video interview), Times-Picayune , August 10, 2009.",
+      "id": "HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_4"
+    },
+    {
+      "text": ". Schaffner, Nicholas (1978). The Beatles Forever . New York, NY: McGraw-Hill. ISBN 978-0-07-055087-2 . Schinder, Scott; Schwartz, Andy (2007). Icons of Rock: An Encyclopedia of the Legends Who Changed Music Forever . Westport, CT: Greenwood Press . ISBN 978-0-313-33845-8 . Southall, Brian; Perry, Rupert (2006). Northern Songs: The True Story of the Beatles Song Publishing Empire . London: Omnibus. ISBN 978-1-84609-237-4 . Archived from the original on 21 January 2023 . Retrieved 31 March 2014 . Sheff, David (1981). Golson, G. Barry (ed.). The Playboy Interviews with John Lennon and Yoko Ono . Playboy. ISBN 978-0-87223-705-6 . Spitz, Bob (2005). The Beatles: The Biography . New York: Little, Brown . ISBN 978-0-316-80352-6 . Spizer, Bruce (2004). The Beatles Are Coming! The Birth of Beatlemania in America . New Orleans: 498 Productions. ISBN 978-0-9662649-9-9 . Strong, Martin (2004). The Great Rock Discography . Edinburgh and New York: Canongate . ISBN",
+      "id": "HotpotQA-validation-00000148/01_The-Beatles.html_c_88"
+    },
+    {
+      "text": "the form of popular music, no one will ever be more revolutionary, more creative and more distinctive ...\" The British poet Philip Larkin described their work as \"an enchanting and intoxicating hybrid of Negro rock-and-roll with their own adolescent romanticism\" and \"the first advance in popular music since the War\". In 1964, the Beatles' arrival in the US is credited with initiating the album era ; the music historian Joel Whitburn says that LP sales soon \"exploded and eventually outpaced the sales and releases of singles\" in the music industry. They not only sparked the British Invasion of the US, they became a globally influential phenomenon as well. From the 1920s, the US had dominated popular entertainment culture throughout much of the world, via Hollywood films, jazz , the music of Broadway and Tin Pan Alley , and later, the rock and roll that first emerged in Memphis, Tennessee . The Beatles are regarded as British cultural icons, with young adults from abroad naming the band among a group of people whom they most associated with UK culture. Their musical innovations and commercial success inspired musicians worldwide. Many artists have acknowledged the Beatles' influence and enjoyed chart success with covers of their songs . On radio, their arrival marked the beginning of a new era; in 1968 the programme director of New York's WABC radio station forbade his DJs from playing any \"pre-Beatles\" music, marking the defining line of what would be considered oldies on American radio. They helped",
+      "id": "HotpotQA-validation-00000148/01_The-Beatles.html_c_68"
+    },
+    {
+      "text": "those of Little Richard , Marc Bolan , and David Bowie . In 2016, Reynolds described it as \"Prince's '80s evasion of conventional gender definitions speaks to us now in this trans-aware moment. But it also harks backwards in time to the origins of rock 'n' roll in racial mixture and sexual blurring\". Prince was known for the strong female presence in his bands and his support for women in the music industry throughout his career. Slate said he worked with an \"astounding range of female stars\" and \"promised a world where men and women looked and acted like each other\". Prince also wore high-heeled shoes and boots both on and off-stage. Rolling Stone ranked Prince at No. 27 on its list of 100 Greatest Artists, \"the most influential artists of the rock & roll era\". In 2023, the same magazine ranked him at No. 16 on their list of the 200 Greatest Singers of All Time. In 2010, Prince was ranked number 7 on VH1 's \"100 Greatest Artists of All Time\". In 2003, Rolling Stone ' s 500 Greatest Albums of All Time list included Purple Rain at number 72, Sign o' the Times at number 93, 1999 at number 163, and Dirty Mind at number 204. In 2004, on their 500 Greatest Songs of All Time list, Rolling Stone included \"When Doves Cry\" at number",
+      "id": "HotpotQA-validation-00002256/00_Prince-musician.html_c_53"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Bruce Spizer is an expert on the Beatles (HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_0).\n- The Beatles are considered the most influential act of the rock era (HotpotQA-validation-00000148/01_The-Beatles.html_c_68).\n- The Beatles' influence is widely recognized in the music industry (HotpotQA-validation-00000148/01_The-Beatles.html_c_68).\n- The Beatles' impact on popular music is still felt today (HotpotQA-validation-00000148/01_The-Beatles.html_c_68).\n- Bruce Spizer has written multiple books about the Beatles (HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_4).\n- The Beatles' music has been covered by many artists (HotpotQA-validation-00000148/01_The-Beatles.html_c_68).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",
+      "doc_ids": [
+        "HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_0",
+        "HotpotQA-validation-00000148/00_Bruce-Spizer.html_c_4",
+        "HotpotQA-validation-00000148/01_The-Beatles.html_c_88",
+        "HotpotQA-validation-00000148/01_The-Beatles.html_c_68",
+        "HotpotQA-validation-00002256/00_Prince-musician.html_c_53"
+      ]
+    }
+  ]
+}

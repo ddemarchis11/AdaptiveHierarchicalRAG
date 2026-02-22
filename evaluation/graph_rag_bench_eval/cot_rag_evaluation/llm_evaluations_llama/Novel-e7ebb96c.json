@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "Based on the provided evidence, Ruth was connected to Angeline Stickney during their educational journey in the following ways:\n\n1. They attended McGrawville together, where Angeline completed the college curriculum and taught classes in mathematics.\n2. Ruth and Angeline shared a room and a dollar-a-week budget for board and lodging.\n3. They worked together to earn their way through college, with Ruth returning home after one term and Angeline working for her board at a Professor Kingley's.\n4. They discussed the money problem and considered schemes to earn more money, such as dressing like men and working in a factory.\n5. Ruth helped Angeline financially when she was struggling to complete her course, and even borrowed money from their cousin Joseph Downs to help her sister.\n6. Ruth took Angeline home when she had a breakdown six weeks before graduation, and helped her recover from exhaustion.\n7. They shared a journal, with Angeline writing about their daily life and activities, including taking daguerreotypes together.\n8. They were close sisters who supported each other throughout their lives, with Ruth helping to care for Angeline's children and being present when Angeline's niece Nellie was ill.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Ruth's connection to Angeline Stickney during their educational journey, including their time at McGrawville and Ruth's wish to support Angeline. However, it introduces additional details not explicitly supported by the retrieved context, such as Ruth borrowing money from their cousin Joseph Downs and helping Angeline financially. While these claims may be plausible, they are not directly grounded in the provided context. The core facts from the Gold Answer are included, but the Model Answer misses the simplicity and directness of the Gold Answer, and some claims lack explicit evidence in the context."
+  }
+}

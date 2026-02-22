@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9be8db74",
+  "question": "How does the narrative connect the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language, and what examples are given to support this linguistic relationship?",
+  "gold_answer": "The names of Egypt, Tyre, and Khati have etymology in the Maya language.",
+  "llm_answer": "The text claims that Egypt, Tyre and the Khati (Hittites) all owe their names to Maya words:\n\n- **Egypt** – the passage simply lists it among the names whose “etymology is in the Maya,” without giving the actual Maya form.  \n- **Tyre** – said to come from Maya *TZUC* “promontory” (or *Tzucub* “province”).  \n- **Khati / Hittites** – explained as Maya *KAT / KATAH* “to place obstacles in the way,” a reference to their military role of blocking enemy passage.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the etymological connections of Egypt, Tyre, and Khati to Maya language roots as described in the context. It provides specific examples, such as Tyre deriving from 'TZUC' and Khati from 'KAT/KATAH,' which are supported by the retrieved context. While the Gold Answer is concise, the Model Answer expands with relevant details and examples, maintaining accuracy and grounding in the provided context."
+  }
+}

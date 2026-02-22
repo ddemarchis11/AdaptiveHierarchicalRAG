@@ -1,0 +1,12 @@
+{
+  "id": "Novel-70d75840",
+  "question": "Where does THE DEAN place the medicine chest when he is preparing a remedy for Dandy Dick in the Deanery?",
+  "gold_answer": "THE DEAN places the medicine chest on the table.",
+  "llm_answer": "The Dean places the medicine chest on the table in the library.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states that the medicine chest is placed on the table, which is correct. The Model Answer adds 'in the library,' which is not explicitly supported by the retrieved context. While the Dean does go into the library at one point, the placement of the medicine chest on the table is described without specifying the library. Thus, the Model Answer is partially correct and faithful to the context but misses the exact nuance of the Gold Answer."
+  }
+}

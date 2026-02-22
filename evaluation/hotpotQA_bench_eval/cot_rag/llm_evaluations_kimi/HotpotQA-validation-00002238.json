@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002238",
+  "question": "In what ecclesiastical province is Stephen Conway currently part of?",
+  "gold_answer": "Province of Canterbury",
+  "llm_answer": "The evidence provided does not mention Stephen Conway or his ecclesiastical province.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not mention Stephen Conway or his ecclesiastical province. However, it fails to answer the question using external knowledge, which is that Stephen Conway is part of the Province of Canterbury. The retrieved context is irrelevant to the question, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

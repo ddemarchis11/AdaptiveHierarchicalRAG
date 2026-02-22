@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4241e70f",
+  "question": "What is the connection between the Shereefs and military forces in Draha?",
+  "gold_answer": "Shereefs maintained a force of ten thousand cavalry in Draha.",
+  "llm_answer": "The provided context does not mention any connection between the Shereefs and military forces in Draha.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not mention the connection between the Shereefs and military forces in Draha, which is accurate based on the retrieved context. However, the Gold Answer explicitly provides the information that the Shereefs maintained a force of ten thousand cavalry in Draha, which the Model Answer fails to address. Thus, the Model Answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

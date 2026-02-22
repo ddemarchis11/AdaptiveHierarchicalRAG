@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006433",
+  "question": "when was Quiet in Heaven/Song of Liberty recorded?",
+  "gold_answer": "Before settling on their current name in 1982",
+  "llm_answer": "The evidence does not specify the exact year or date when \"Quiet in Heaven/Song of Liberty\" was recorded.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the recording date is unspecified, whereas the context clearly indicates that the songs were recorded while the band was still named Sharp Young Men, which was before they changed their name to Faith No Man in 1982. This aligns with the Gold Answer, which specifies the recording occurred before 1982. The Model Answer fails to address this key fact and contradicts the context."
+  }
+}

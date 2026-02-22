@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001066",
+  "question": "What occupation did Nicholas Christopher and Roger Ebert share?",
+  "gold_answer": "author",
+  "llm_answer": "The evidence does not specify any occupation shared by Nicholas Christopher and Roger Ebert.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify any shared occupation, which is incorrect as the Gold Answer identifies 'author' as the shared occupation. While the context does confirm Roger Ebert's role as an author, it does not explicitly confirm Nicholas Christopher's occupation as an author. Thus, the Model Answer is faithful to the context but fails to provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

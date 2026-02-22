@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8ddd613c",
+  "question": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+  "gold_answer": "Derem is the native name for Mount Atlas, and Dyris is the ancient name for Mount Atlas.",
+  "llm_answer": "In the context of the novel's discussion of Mount Atlas, some historical and native names by which Mount Atlas has been known are:\n\n1. 'Derem'\n2. 'Dyris' (the ancient aborigines' name for Mount Atlas)\n3. 'Great Atlas' (the name given to the high mountains of the Empire of Morocco)\n4. 'Mount Gharian' (a part of the principal chain of the Atlas mountains)\n5. 'Mounts Maray, Black Mount Haroudje, Mount Liberty, Mount Tiggerandoumma, and others less known' (low branches of the Atlas mountains that branch off in the south of Tripoli)\n\nNote: The novel does not mention 'Dyris' and 'Derem' as being the same name, but rather as two different names for Mount Atlas.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Derem' and 'Dyris' as names for Mount Atlas, aligning with the Gold Answer. However, it introduces additional names ('Great Atlas,' 'Mount Gharian,' and others) that are not directly relevant to the question about historical and native names, and these are not clearly supported by the retrieved context as names for Mount Atlas itself. The claim that 'Dyris' and 'Derem' are not the same name contradicts the context, which states they are connected ('modern Der-en is seen to be the same with the ancient Dir-is'). This reduces both faithfulness and evidence coverage scores."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-07e567d4",
+  "question": "During his attempt to evade the police after a violent encounter, where did Raegen wish to hide in order to avoid being caught?",
+  "gold_answer": "Raegen wanted to lie hidden in the cellar and the garret.",
+  "llm_answer": "Raegen wished to hide on the roofs.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Raegen wished to hide on the roofs, which contradicts the Gold Answer that specifies he wanted to hide in the cellar and the garret. While the context does mention Raegen seeking refuge on the roofs during his escape, it does not support the Gold Answer's claim about the cellar and garret. Therefore, the Model Answer is incorrect in relation to the Gold Answer, but it is faithful to the retrieved context."
+  }
+}

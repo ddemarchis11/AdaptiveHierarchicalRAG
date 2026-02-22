@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000754",
+  "question": "Between a long-running American popular science monthly and a print publication aimed at lesbian readership that ceased in the late 2000s, which came out more frequently?",
+  "gold_answer": "Girlfriends",
+  "llm_answer": "The long-running American popular science monthly, Popular Science, was published monthly from 1872 to 2020. Girlfriends magazine, aimed at lesbian readership, was published monthly from San Francisco since 1993.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides publication frequency details for both Popular Science and Girlfriends but does not explicitly state which came out more frequently, leaving the comparison ambiguous. While the context supports the monthly publication of Girlfriends, the retrieved context does not confirm the monthly publication of Popular Science throughout its history, as it switched to bi-monthly and quarterly formats later. The Gold Answer directly identifies Girlfriends as the more frequent publication, which the Model Answer fails to clearly convey."
+  }
+}

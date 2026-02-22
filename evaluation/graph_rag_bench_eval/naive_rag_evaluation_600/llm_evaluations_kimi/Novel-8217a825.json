@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8217a825",
+  "question": "According to the narrative's description of coastal towns, near which location is the town of Falmouth situated?",
+  "gold_answer": "Falmouth is located near FLUSHING.",
+  "llm_answer": "The town of Falmouth is situated near the mouth of the river Wad Millah.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Falmouth is near the mouth of the river Wad Millah, which is not supported by the retrieved context or the Gold Answer. The Gold Answer specifies that Falmouth is located near Flushing, and this key fact is entirely missed in the Model Answer."
+  }
+}

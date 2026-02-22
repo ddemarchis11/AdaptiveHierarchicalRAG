@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "The context does not mention Miss Trotter resigning from the Summit House, nor does it state that she selected Frida Jansen for a position. It only shows that Miss Trotter is aware Frida is one of her chambermaids at the hotel and considers the possibility of needing to replace her if her romantic affair interferes with her duties.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide evidence for Miss Trotter's resignation from the Summit House or her selection of Frida Jansen for a position. However, it fails to address the user's question directly and does not align with the Gold Answer, which states these facts. The Model Answer is faithful to the context but does not cover the key facts mentioned in the Gold Answer."
+  }
+}

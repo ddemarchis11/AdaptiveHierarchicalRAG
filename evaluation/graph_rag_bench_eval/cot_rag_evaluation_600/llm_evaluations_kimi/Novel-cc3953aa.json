@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cc3953aa",
+  "question": "How does Mr. Darbey's status as an officer of the Hussars relate to his being seen by The Dean and spoken to by Sheba?",
+  "gold_answer": "The Dean sees Darbey, Mr. Darbey is an officer of the Hussars, Sheba speaks to Mr. Darbey.",
+  "llm_answer": "Mr. Darbey’s status as an officer of the Hussars is the sole reason he is noticed by the Dean and addressed by Sheba: the two men have “ridden over from Durnstone” in regimentals to inquire after the Dean’s health, and the Dean explicitly greets them as “Major Tarver and Mr. Darbey,” inviting them to dinner.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the relationship between Mr. Darbey's status as an officer of the Hussars and his interactions with the Dean and Sheba. It is grounded in the retrieved context, which describes Mr. Darbey and Major Tarver visiting the Dean in regimentals and being explicitly addressed by him. The Model Answer also includes all key facts from the Gold Answer, such as the Dean seeing Mr. Darbey and Sheba speaking to him, while providing additional relevant details supported by the context."
+  }
+}

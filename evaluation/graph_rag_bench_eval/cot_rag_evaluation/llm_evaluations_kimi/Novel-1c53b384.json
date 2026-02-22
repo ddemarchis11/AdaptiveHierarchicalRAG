@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1c53b384",
+  "question": "What is the historical significance of Chaacmol in Maya history as described in the narrative, considering his funeral chamber at Chichen, the research conducted by Augustus Le Plongeon, and the circumstances of his death at the hands of Aac?",
+  "gold_answer": "Chaacmol had a funeral chamber at Chichen, was studied by Augustus Le Plongeon, and was killed by Aac.",
+  "llm_answer": "Chaacmol’s historical significance, as rendered in the narrative, rests on three converging points:\n\n1. Funeral chamber at Chichen: His life and death are memorialized in the bas-reliefs of what was once his mausoleum and in the mural paintings of his “funeral chamber,” paralleling the way Osiris’s story is illustrated in Egyptian chambers; these Chichen reliefs present him as a culture-hero whose deeds were worthy of permanent, sacred display.\n\n2. Augustus Le Plongeon’s research: Le Plongeon’s excavations and readings of the bas-reliefs supplied the key evidence that Chaacmol ruled with his sister Moo at Chichen-Itza and was later deified; the scholar’s work is the explicit source through which the modern reader recovers Chaacmol’s story.\n\n3. Circumstances of death: He was assassinated—three spear-thrusts in the back—by his brother Aac, who coveted both the throne and their sister-queen Moo; this fratricidal act is portrayed as the pivotal crime that set the dynastic and cosmic struggles recorded in the sculptures.\n\nTogether, these elements cast Chaacmol as a murdered Maya king whose life, violent death, and posthumous veneration were preserved for posterity through the very structures Le Plongeon later uncovered and interpreted.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing Chaacmol's funeral chamber at Chichen, Augustus Le Plongeon's research, and his death at the hands of Aac. It expands on these points with relevant and supported context, such as the cultural significance of the bas-reliefs and the fratricidal act's impact on Maya history. All claims are grounded in the retrieved context, and the key facts from the Gold Answer are fully included."
+  }
+}

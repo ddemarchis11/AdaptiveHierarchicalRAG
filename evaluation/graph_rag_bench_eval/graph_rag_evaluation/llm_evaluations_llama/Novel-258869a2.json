@@ -1,0 +1,12 @@
+{
+  "id": "Novel-258869a2",
+  "question": "How do multiple characters interact with Doctor O'Shaughnessy in the narrative—for example, when Mrs. O'Shaughnessy stands by the window to watch him, he is given charge of Eileen, and Eileen stares at him—and what does this suggest about his central role among the story's characters?",
+  "gold_answer": "Doctor O'Shaughnessy is watched by Mrs. O'Shaughnessy, is given charge of Eileen, and is stared at by Eileen, indicating his central importance across different social circles.",
+  "llm_answer": "There is no mention of Doctor O'Shaughnessy in the provided context. However, there is a character named Mrs. O'Shaughnessy, who interacts with Eily.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that Doctor O'Shaughnessy is not mentioned in the retrieved context, but it fails to address the user's question about his interactions and central role in the narrative. The Gold Answer provides specific details about Doctor O'Shaughnessy's interactions, which are not covered or acknowledged by the Model Answer."
+  }
+}

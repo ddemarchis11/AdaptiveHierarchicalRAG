@@ -1,0 +1,12 @@
+{
+  "id": "Novel-24928f80",
+  "question": "In which city did Elsie Inglis take up her medical practice after completing her studies and training abroad?",
+  "gold_answer": "Elsie Inglis took up practice in Edinburgh.",
+  "llm_answer": "The text does not explicitly state the city where Elsie Inglis took up her medical practice after completing her studies and training abroad. However, it mentions that she took up practice in Edinburgh, but it does not specify whether this was after completing her studies and training abroad or not.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Edinburgh as the city where Elsie Inglis practiced, aligning with the Gold Answer. However, it introduces uncertainty about whether this occurred after her studies and training abroad, which is not supported by the context. The context confirms that she practiced in Edinburgh, but does not explicitly tie this to the timing of her studies abroad, making the Model Answer partially correct and fully faithful to the context."
+  }
+}

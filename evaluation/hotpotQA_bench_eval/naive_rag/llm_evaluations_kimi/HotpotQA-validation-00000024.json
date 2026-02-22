@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000024",
+  "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+  "gold_answer": "World's Best Goalkeeper",
+  "llm_answer": "He was voted the IFFHS World's Best Goalkeeper in 1992.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Peter Schmeichel was voted the IFFHS World's Best Goalkeeper in 1992, which aligns perfectly with the Gold Answer and is supported by the Retrieved Context. All key facts are included without any extraneous or unsupported information."
+  }
+}

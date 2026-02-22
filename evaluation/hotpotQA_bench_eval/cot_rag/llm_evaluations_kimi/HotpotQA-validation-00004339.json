@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004339",
+  "question": "Operalia, The World Opera Competition helped launch the career of an operatic soprano of what nationality?",
+  "gold_answer": "Bulgarian",
+  "llm_answer": "The evidence shows that Sonya Yoncheva, a Bulgarian-Swiss operatic soprano, was the female first-place winner of the 2010 Operalia competition. Therefore, Operalia helped launch the career of a Bulgarian operatic soprano.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Sonya Yoncheva as a Bulgarian operatic soprano whose career was launched by Operalia, aligning with the Gold Answer. The information is fully supported by the Retrieved Context, which explicitly mentions her nationality and her win at Operalia in 2010. All key facts from the Gold Answer are included."
+  }
+}

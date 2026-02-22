@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002527",
+  "question": "What term is the current chairman of Prince William County serving?",
+  "gold_answer": "fourth term",
+  "llm_answer": "The evidence does not specify the term the current chairman is serving.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the term the current chairman is serving, which is incorrect as the Gold Answer clearly states 'fourth term.' The retrieved context does not provide explicit information about the current chairman's term, so the Model Answer is faithful to the context but fails to answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

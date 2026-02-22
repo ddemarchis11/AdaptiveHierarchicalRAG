@@ -1,0 +1,12 @@
+{
+  "id": "Novel-558d306b",
+  "question": "After attending the fight between 'Dutchy' Mack and the Black Diamond, who went to the Owl's Nest restaurant?",
+  "gold_answer": "Van Bibber went to the Owl's Nest.",
+  "llm_answer": "The provided context does not mention any fight between 'Dutchy' Mack and the Black Diamond, nor does it reference anyone going to the Owl's Nest restaurant.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question directly and does not provide the correct information that Van Bibber went to the Owl's Nest, as stated in the Gold Answer. Additionally, the retrieved context does not contain relevant information to support the Model Answer or the Gold Answer, leading to a lack of grounding and evidence coverage."
+  }
+}

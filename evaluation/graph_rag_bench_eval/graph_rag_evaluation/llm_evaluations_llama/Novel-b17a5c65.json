@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b17a5c65",
+  "question": "In the scenes where Latimer meets with the bishop to ask for Ellen's hand in marriage, how does the bishop's demeanor reveal both his confidence in Latimer and his role as a judge of Latimer's character and intentions?",
+  "gold_answer": "The bishop had confidence in Latimer, spoke with him, and was judging him.",
+  "llm_answer": "I cannot answer the question as it is not supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not support the question, which is accurate and faithful to the context provided. However, it does not attempt to answer the question using internal knowledge or provide any relevant information, resulting in a score of 0.0 for answer correctness and evidence coverage."
+  }
+}

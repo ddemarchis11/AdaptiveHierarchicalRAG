@@ -1,0 +1,270 @@
+{
+  "id": "HotpotQA-validation-00000911",
+  "question": "Which genus contains a greater number of species — the flowering plant genus in the carrot family that includes wild celery, or the aquatic genus of submerged freshwater plants found primarily in the Americas?",
+  "gold_answer": "Apium",
+  "llm_answer": "The genus that contains a greater number of species is the flowering plant genus in the carrot family that includes wild celery, Apiaceae, with more than 3,800 species.",
+  "context": [
+    {
+      "text": "Apiaceae ( / ˌ eɪ p i ˈ eɪ s i . iː , - ˌ aɪ / ⓘ ), also called Umbelliferae , is a family of mostly aromatic flowering plants named after the type genus Apium , and commonly known as the celery , carrot , or parsley family , or simply as umbellifers . It is the 16th-largest family of flowering plants, with more than 3,800 species in about 446 genera , including such well-known, and economically important plants as ajwain , angelica , anise , asafoetida , caraway , carrot , celery , chervil , coriander , cumin , dill , fennel , lovage , cow parsley , parsley , parsnip and sea holly , as well as silphium , a plant whose exact identity is unclear and which may be extinct. The family Apiaceae includes a significant number of phototoxic species, such as giant hogweed , and a smaller number of highly poisonous species, such as poison hemlock , water hemlock , spotted cowbane , fool's parsley , and various species of water dropwort . Description Most Apiaceae are annual , biennial or perennial herbs (frequently with the leaves aggregated toward the base), though a minority are woody shrubs or small trees such as Bupleurum fruticosum . Their leaves are of variable size, and alternately arranged , or with the upper leaves becoming nearly opposite. The leaves may be petiolate or sessile . There are no stipules but the petioles are frequently sheathing, and the leaves may be perfoliate . The leaf blade is usually dissected, ternate , or pinnatifid , but simple, and entire in some genera, e.g. Bupleurum . Commonly, their leaves emit a marked smell when crushed, aromatic to fetid, but absent in some species. The defining characteristic of this family is the inflorescence , the flowers nearly always aggregated in terminal umbels , that may be simple or more commonly compound, often umbelliform cymes . The flowers are usually perfect ( hermaphroditic ), and actinomorphic , but there may be zygomorphic flowers at the edge of the umbel, as in carrot ( Daucus carota ) and coriander , with petals of unequal size, the ones pointing outward from the umbel larger than the ones pointing inward. Some are andromonoecious, polygamomonoecious, or even dioecious (as in Acronema ), with a distinct calyx , and corolla , but the calyx is often highly reduced, to the point of being undetectable in many species, while the corolla can be white, yellow, pink or purple. The flowers are nearly perfectly pentamerous , with five petals",
+      "id": "HotpotQA-validation-00000911/03_Apiaceae.html_c_0",
+      "doc_id": "HotpotQA-validation-00000911/03_Apiaceae.html",
+      "community_id": 6,
+      "score": 84.42959
+    },
+    {
+      "text": "Eriogonum is a genus of flowering plants in the family Polygonaceae . The genus is found in North America and is known as wild buckwheat . This is a highly species-rich genus, and indications are that active speciation is continuing. It includes some common wildflowers , such as the California buckwheat ( Eriogonum fasciculatum ). The genus derived its name from the Greek word erion meaning 'wool' and gonu meaning 'knee or joint'. The author of the genus, Michaux , explained the name as describing the first named species of the genus ( E. tomentosum ) as a wooly plant with sharply bent stems ( \"planta lanata, geniculata\" ). Despite sharing the common name \"buckwheat\", Eriogonum is part of a different genus from the cultivated European buckwheat and than other plant species also called wild buckwheat . In addition to the widespread common species, approximately a third of the species in the genus are rare, endangered, or threatened. One such species came into the news in 2005 when the Mount Diablo buckwheat ( Eriogonum truncatum , believed to be extinct) was rediscovered. Ecology Eriogonum species are used as food plants by the larvae of some Lepidoptera (butterflies and moths). An example of a butterfly that uses this plant for food is the Lycaena heteronea . Several of these are monophagous , meaning their caterpillars only feed on this genus, sometimes just on a single taxon of Eriogonum . Wild buckwheat flowers are also an important source of food for these and other Lepidoptera. In some cases, the relationship is so close that Eriogonum and dependent Lepidoptera are in danger of coextinction . Monophagous Lepidoptera on wild buckwheat include: Apodemia mormo (Mormon metalmark) – feeds exclusively on Eriogonum Apodemia mormo langei (Lange's metalmark) – only known from Eriogonum nudum ssp. auriculatum Chionodes dammersi – feeds exclusively on Eriogonum Chionodes luteogeminatus – only known from Eriogonum niveum Euphilotes enoptes smithi ( Smith's blue butterfly ) – only known from Eriogonum latifolium and Eriogonum parvifolium Euphilotes battoides allyni ( El Segundo blue butterfly ) - only known from Eriogonum parvifolium Additionally, bees of the sagebrush steppe rely on the nectar of desert buckwheats, and birds and rodents eat the seeds. Uses Some varieties of",
+      "id": "HotpotQA-validation-00001019/00_Eriogonum.html_c_0",
+      "doc_id": "HotpotQA-validation-00001019/00_Eriogonum.html",
+      "community_id": 1,
+      "score": 76.9417
+    },
+    {
+      "text": "Apium is a genus , as currently circumscribed by Plants of the World Online , of 12 species of flowering plants in the family Apiaceae , with an unusual highly disjunct distribution with one species in the temperate Northern Hemisphere in the Western Palaearctic ( Europe , western Asia , north Africa ), and the rest in the temperate Southern Hemisphere in southern Africa, southern South America , Australia , and New Zealand . They are prostrate to medium-tall annual , biennial or perennial herbs growing up to 1 m high in wet soil, often marshes and salt marshes , and have pinnate to bipinnate leaves and small white flowers in compound umbels . Some species are edible, notably Apium graveolens , which is the wild ancestor of the commercially important vegetables celery , celeriac and leaf celery . The genus is the type genus of the family Apiaceae and the order Apiales; the type species of the genus is Apium graveolens . Species As of September 2024 [update] , Plants of the World Online accepts the following species: Western Palaearctic Apium graveolens L. - wild celery Australia Apium annuum P.S.Short Apium insulare P.S.Short - Flinder's Island celery Apium prostratum Labill. ex Vent. (also in New Zealand, southern Africa, and southern South America) - sea celery New Zealand Apium prostratum Labill. ex Vent. (also in Australia, southern Africa, and southern South America) - sea celery Southern Africa Apium prostratum Labill. ex Vent. (also in Australia, New Zealand, and southern South America) - sea celery Southern South America Apium australe Thouars Apium chilense Hook. & Arn. Apium commersonii DC. Apium fernandezianum Johow Apium larranagum M.Hiroe Apium panul (Bertero ex DC.) Reiche Apium prostratum Labill. ex Vent. (also in Australia, New Zealand and southern Africa) - sea celery Apium santiagoensis M.Hiroe Apium sellowianum H.Wolff Former species Species formerly placed in this genus include: Apium bermejoi → Helosciadium bermejoi Apium inundatum → Helosciadium inundatum - lesser marshwort Apium leptophyllum → Cyclospermum leptophyllum - marsh parsley, or fir-leafed celery Apium nodiflorum → Helosciadium nodiflorum - fool's-water-cress Apium repens → Helosciadium repens - creeping marshwort Ecology Apium species, including garden celery, are eaten by the larvae of some Lepidoptera species including angle shades , common swift , Hypercompe icasia , the nutmeg , setaceous Hebrew character and turnip moth . References v t e",
+      "id": "HotpotQA-validation-00000911/00_Apium.html_c_0",
+      "doc_id": "HotpotQA-validation-00000911/00_Apium.html",
+      "community_id": 0,
+      "score": 75.73957
+    },
+    {
+      "text": "Silene is a genus of flowering plants in the family Caryophyllaceae . Containing nearly 900 species, it is the largest genus in the family. Common names include campion and catchfly . Many Silene species are widely distributed, particularly in the northern hemisphere. Scientific history Members of this genus have been the subject of research by preeminent plant ecologists, evolutionary biologists, and geneticists, including Charles Darwin , Gregor Mendel , Carl Correns , Herbert G. Baker , and Janis Antonovics . Many Silene species continue to be widely used to study systems, particularly in the fields of ecology and evolutionary biology. The genus has been used as a model for understanding the genetics of sex determination for over a century. Silene species commonly contain a mixture of hermaphroditic and female (or male-sterile) individuals ( gynodioecy ), and early studies by Correns showed that male sterility could be maternally inherited, an example of what is now known as cytoplasmic male sterility . Two independent groups of species in Silene have evolved separate male and female sexes ( dioecy ) with chromosomal sex determination that is analogous to the system found in humans and other mammals. Silene flowers are frequently visited by flies, such as Rhingia campestris . Silene species have also been used to study speciation, host-pathogen interactions, biological species invasions, adaptation to heavy-metal-contaminated soils, metapopulation genetics, and organelle genome evolution. Notably, some members of the genus Silene hold the distinction of harboring the largest mitochondrial genomes ever identified. Taxonomy Silene was originally described by Linnaeus . Divisions of the genus into subgenera or sections before 2003 do not seem to be well-supported by molecular evidence. The genus Lychnis is closely related to (and sometimes included in) Silene . When treated as a distinct genus, it can often be differentiated by the number of flower styles (five in Lychnis' and three in Silene ), the number of teeth of the seed capsule (five in Lychnis' and six in Silene ), and by the sticky stems of Lychnis . Sexual systems Sexual systems vary across species. Most Silene species are hermaphroditic representing 58.2% of Silene species, 14.3% are dioecious , 13.3% gynodioecious , and 12.2% are both gynodioecious and gynomonoecious . Trioecy , andromonoecy , and gynomonoecy have also been reported but are extremely rare. Etymology Silene is the feminine form of Silenus , an Ancient Greek woodland deity who was a companion and tutor to the wine god Dionysus . Species Ecology Lychnis is also the common name of",
+      "id": "HotpotQA-validation-00000048/01_Silene.html_c_0",
+      "doc_id": "HotpotQA-validation-00000048/01_Silene.html",
+      "community_id": 1,
+      "score": 59.97545
+    },
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii Fosberg & Sachet ( French Polynesia ) Myrsine africana L. ( Africa , Southern Asia and the Azores ) Myrsine andersonii Fosbert & Sachet (French Polynesia) Myrsine australis – Red matipo, mapou (New Zealand) Myrsine brownii Fosbert & Sachet (French Polynesia) Myrsine bullata Pipoly ( Peru ) Myrsine ceylanica (Mez) Wadhwa (Sri Lanka) Myrsine cheesemanii (Mez) Hemsl. ex Prain (Cook Islands) Myrsine collina Nadeaud ( Society Islands ) Myrsine degeneri Hosaka ( Oʻahu in Hawaiʻi) Myrsine diazii Pipoly ( Peru ) Myrsine divaricata Cunn (New Zealand) Myrsine falcata Nadeaud (French Polynesia) Myrsine fasciculata (J.Moore) Fosberg & Sachet (French Polynesia) Myrsine fernseei (Mez) Hosaka ( Kauaʻi in Hawaiʻi) Myrsine fosbergii Hosaka ( Oʻahu and Kauaʻi in Hawaiʻi) Myrsine fusca (J.Moore) Fosberg & Sachet (French Polynesia)",
+      "id": "HotpotQA-validation-00001676/00_Myrsine.html_c_0",
+      "doc_id": "HotpotQA-validation-00001676/00_Myrsine.html",
+      "community_id": 2,
+      "score": 59.584423
+    },
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii Fosberg & Sachet ( French Polynesia ) Myrsine africana L. ( Africa , Southern Asia and the Azores ) Myrsine andersonii Fosbert & Sachet (French Polynesia) Myrsine australis – Red matipo, mapou (New Zealand) Myrsine brownii Fosbert & Sachet (French Polynesia) Myrsine bullata Pipoly ( Peru ) Myrsine ceylanica (Mez) Wadhwa (Sri Lanka) Myrsine cheesemanii (Mez) Hemsl. ex Prain (Cook Islands) Myrsine collina Nadeaud ( Society Islands ) Myrsine degeneri Hosaka ( Oʻahu in Hawaiʻi) Myrsine diazii Pipoly ( Peru ) Myrsine divaricata Cunn (New Zealand) Myrsine falcata Nadeaud (French Polynesia) Myrsine fasciculata (J.Moore) Fosberg & Sachet (French Polynesia) Myrsine fernseei (Mez) Hosaka ( Kauaʻi in Hawaiʻi) Myrsine fosbergii Hosaka ( Oʻahu and Kauaʻi in Hawaiʻi) Myrsine fusca (J.Moore) Fosberg & Sachet (French Polynesia)",
+      "id": "HotpotQA-validation-00001676/02_Rapanea.html_c_0",
+      "doc_id": "HotpotQA-validation-00001676/02_Rapanea.html",
+      "community_id": 2,
+      "score": 59.584423
+    },
+    {
+      "text": "Elodea is a genus of eight species of aquatic plants often called the waterweeds described as a genus in 1803. Classified in the frog's-bit family ( Hydrocharitaceae ), Elodea is native to the Americas and is also widely used as aquarium vegetation and laboratory demonstrations of cellular activities. It lives in fresh water. An older name for this genus is Anacharis , which serves as a common name in North America. The introduction of some species of Elodea into waterways in parts of Europe, Australia, Africa, Asia, and New Zealand has created a significant problem and it is now considered a noxious weed in these areas. Species Elodea bifoliata H.St.John – Canada ( AB , SK ), W United States ( OR + CA to NM + MN ) Elodea callitrichoides (Rich.) Casp. – Argentina, Uruguay Elodea canadensis Michx. – most of United States + Canada Elodea densa (Planch.) Casp. Elodea granatensis Bonpl. – much of South America Elodea heterostemon (S.Koehler & C.P.Bove) Byng & Christenh. Elodea najas (Planch.) Casp. Elodea nuttallii (Planch.) H.St.John – much of United States + Canada Elodea potamogeton (Bertero) Espinosa – Chile, Peru, Bolivia, Ecuador Chemical control Chemical methods are ineffective in eradicating Elodea – at best they only slow growth for a season or two. As Elodea spreads into new ecosystems, it experiences rapid growth for 5–6 years and then slows as soil nutrients are used up. Elodea is threatening aquatic environments across Europe. Chemicals may be used in places that cause undue economic concerns, but very few aquatic herbicides are registered for aquatic use in the EU. Fluridone , the most commonly used aquatic herbicide is highly effective against Hydrilla, but only marginally effective against Elodea, especially at lower use rates. Mechanical control An aquatic weed harvester collecting Elodea from a lake The plants can also be removed from lakes and rivers mechanically. They are extracted either by hand or by using rakes, chains, mowing boats or weed buckets. The problem is that through vegetative reproduction via fragments, mechanical removal methods can contribute to the spread of the plant. Torn fragments can be transported downstream or are introduced to new environments via attachment to boats and anchor chains. See also Grass carp —Effective against elodea Stormy Lake (Alaska) —A lake where Fluoridone was successfully used to eliminate elodea References External links Wikimedia Commons has media related to Elodea . Jepson Manual Treatment",
+      "id": "HotpotQA-validation-00000911/01_Elodea.html_c_0",
+      "doc_id": "HotpotQA-validation-00000911/01_Elodea.html",
+      "community_id": 0,
+      "score": 59.155872
+    },
+    {
+      "text": "Sonerila is a genus of plants in the family Melastomataceae . This genus is characterized the by presence of three petals (along with the genera Stussenia and Lithobium ) as opposed to five in the other members of the family. Most members of the genus prefer growing in shady habitats. It is a large genus including about 175 species. This is primarily an Asiatic genus of the tropical and subtropical regions distributed from India and Sri Lanka to the Indo-Pacific . The members of the group are generally herbs or under shrubs, including some stemless members. Leaves opposite, leaf margin entire or serrulate. Inflorescence usually scorpioid cymes. Flowers in most species purple, some members with reddish or white flowers. Stamens 3, (in one whorl) or rarely 6 (in two whorls). Ovary inferior, 3-celled. Many species of this genus have restricted distribution and very small populations and would thus be regarded as Vulnerable (VU) or Endangered (EN) based on IUCN Red List criteria though this taxon has not yet been assessed for the IUCN Red List. Species Species accepted by the Plants of the World Online as of September 2021: Sonerila affinis Arn. Sonerila aiensis C.W.Lin Sonerila albiflora Stapf & King ex King Sonerila amoena Bakh.f. Sonerila anaimudica Lundin & B.Nord. Sonerila annamica Guillaumin Sonerila arguta R.Br. ex Naudin Sonerila arnottiana Thwaites Sonerila arunachalensis G.S.Giri, A.Pramanik & H.J.Chowdhery Sonerila barbata Ridl. Sonerila barnesii C.E.C.Fisch. Sonerila beccariana Cogn. Sonerila belluta Ridl. Sonerila bensonii Hook.f. Sonerila bicolor Stapf & King Sonerila biflora Zoll. & Moritzi Sonerila bokorense S.H.Cho & Y.D.Kim Sonerila bolavenensis Soulad., Tagane & Suddee Sonerila borneensis Cogn. Sonerila bracteata Stapf & King Sonerila brandisiana Kurz Sonerila brunonis Wight & Arn. Sonerila buruensis Bakh.f. Sonerila calaminthifolia Stapf & King Sonerila calophylla Ridl. Sonerila calycula Stapf & King Sonerila cannanorensis G.S.Giri & M.P.Nayar Sonerila cantonensis Stapf Sonerila cardamomensis S.H.Cho Sonerila celebica Bakh.f. Sonerila clarkei Cogn.",
+      "id": "HotpotQA-validation-00002965/00_Sonerila.html_c_0",
+      "doc_id": "HotpotQA-validation-00002965/00_Sonerila.html",
+      "community_id": 4,
+      "score": 54.665638
+    },
+    {
+      "text": "Sinofranchetia is a genus of flowering plant in the Lardizabalaceae family. It contains a single species , Sinofranchetia chinensis , endemic to China. Description and ecology Sinofranchetia chinensis is a deciduous , woody climber. It occurs in dense forests along valleys, forest margins, among shrubs in south-central China. References Media related to Sinofranchetia chinensis at Wikimedia Commons v t e",
+      "id": "HotpotQA-validation-00006529/00_Sinofranchetia.html_c_0",
+      "doc_id": "HotpotQA-validation-00006529/00_Sinofranchetia.html",
+      "community_id": 0,
+      "score": 53.59051
+    },
+    {
+      "text": "Sonerila janakiana is a species of flowering plant in the genus Sonerila . It is a tuberous , scapigerous and stoloniferous plant species. Distribution and habitat Native to Tamil Nadu and Kerala , India . it is primarily flourishes in the wet tropical environment. Etymology The species is named to honor Janaki Ammal Edathil Kakkat , an Indian botanist. References v t e",
+      "id": "HotpotQA-validation-00002965/02_Sonerila-janakiana.html_c_0",
+      "doc_id": "HotpotQA-validation-00002965/02_Sonerila-janakiana.html",
+      "community_id": 0,
+      "score": 53.060886
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000911/00_Apium.html_0",
+      "summary": "**Title**: Apium Genus Overview\n\n**Summary**:  \nApium is a genus of 12 flowering plant species in the Apiaceae family, notable for its disjunct global distribution across the Northern and Southern Hemispheres. These herbs, often found in wet or marshy habitats, feature pinnate leaves and small white flowers in compound umbels. The most economically significant species, Apium graveolens, is the wild ancestor of celery, celeriac, and leaf celery. The genus also serves as the type genus for both the Apiaceae family and the Apiales order.\n\n**Keywords**:  \nApium, Apiaceae, Apium graveolens, celery, plant taxonomy",
+      "is_seed": true,
+      "expand_score": 0.8124898076057434
+    },
+    {
+      "community_key": "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "summary": "**Title**: Stauntonia Plant Genus\n\n**Summary**:  \nStauntonia is a genus of flowering plants in the Lardizabalaceae family, named after 19th-century British diplomat George Staunton, who introduced it from China. The genus comprises numerous species, many of which were reclassified or described by modern botanists such as Christenh. and H.N.Qin. These species are primarily native to East and Southeast Asia, with notable diversity in China. The list reflects ongoing taxonomic revisions, with many names updated in recent years.\n\n**Keywords**:  \nStauntonia, Lardizabalaceae, George Staunton, flowering plants, taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "summary": "**Title**: Elodea Invasive Aquatic Plant\n\n**Summary**: Elodea is a genus of freshwater aquatic plants native to the Americas, widely used in aquariums and biology labs. Eight species are recognized, with several introduced to Europe, Australia, Africa, Asia, and New Zealand, where they have become invasive noxious weeds. Control is difficult: chemical herbicides like fluridone show limited effectiveness, while mechanical removal risks spreading fragments that regrow. After invading new habitats, Elodea grows rapidly for 5–6 years before nutrient depletion slows expansion.\n\n**Keywords**: Elodea, invasive species, aquatic weed, chemical control, mechanical removal",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "summary": "**Title**: Scaevola Plant Genus Overview\n\n**Summary**:  \nScaevola is a large genus of flowering plants in the Goodeniaceae family, comprising over 130 species with a primary center of diversity in Australia and Polynesia. The genus is notable for its distinctive fan-shaped, half-flowers, which have inspired both common names like \"fan-flower\" and \"naupaka,\" as well as Hawaiian legends. Scaevola species have dispersed widely across the Pacific Basin and beyond, with some species like *S. taccada* becoming invasive in non-native regions. The genus includes both dry-fruited, herbaceous Australian species and fleshy-fruited, shrubby species elsewhere, adapted for animal-mediated seed dispersal.\n\n**Keywords**:  \nScaevola, fan-flower, naupaka, Goodeniaceae, plant dispersal",
+      "is_seed": true,
+      "expand_score": 0.8205357789993286
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "summary": "**Title**: Myrsine Genus Overview  \n\n**Summary**:  \nMyrsine is a large, nearly worldwide genus of ~280 evergreen shrubs and trees in the Primulaceae family, centered in tropical and subtropical regions. Formerly split among Myrsinaceae, Rapanea, and Suttonia, it now unites all species under Myrsine, characterized by leathery alternate leaves, small flowers, and one-seeded drupes that often mature a year after flowering. The genus includes notable island radiations such as the kōlea of Hawaiʻi and the matipo of New Zealand, plus ornamental species like M. africana.  \n\n**Keywords**: Myrsine, Primulaceae, island radiation, kōlea, matipo",
+      "is_seed": true,
+      "expand_score": 0.8205357789993286
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "summary": "**Title**: Aspidistra Genus Diversity\n\n**Summary**: Aspidistra is a genus of shade-loving, rhizomatous perennial herbs in the asparagus family (Asparagaceae, subfamily Convallariodeae) native to eastern and southeastern Asia, especially China and Vietnam. Long overlooked by botanists, only 8–10 species were known before the 1980s, but intensive fieldwork—primarily in China and Vietnam—has since raised the accepted total to roughly 100 species. The plants bear ground-level, often inconspicuous, bell- or cup-shaped flowers and are cultivated worldwide as tough indoor or shade-garden foliage plants. Taxonomic revisions continue, with regional floras and monographs (e.g., Tillich 2008) enumerating over 90 named species, many recently described and narrowly endemic.\n\n**Keywords**: Aspidistra, species discovery, China, Vietnam, taxonomy",
+      "is_seed": true,
+      "expand_score": 0.8240162134170532
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "summary": "**Title**: Wild Buckwheat Genus Eriogonum\n\n**Summary**:  \nEriogonum is a large, rapidly speciating genus of North American wildflowers in the buckwheat family (Polygonaceae), distinguished by woolly stems and joints. About one-third of its ~250 species are rare or imperiled, exemplified by the rediscovered Mount Diablo buckwheat. Many species are ecological keystones: their flowers feed specialist Lepidoptera (e.g., El Segundo blue, Mormon metalmark) to the point of co-extinction risk, while seeds nourish birds and rodents and nectar sustains desert bees. Native Americans traditionally used several species, such as California buckwheat, for food and medicine.\n\n**Keywords**:  \nEriogonum, wild buckwheat, endangered flora, Lepidoptera host plants, Native American uses",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "summary": "**Title**: Apiaceae Plant Family Overview\n\n**Summary**:  \nThe Apiaceae family, also known as Umbelliferae, comprises over 3,800 aromatic species across 446 genera, including economically significant plants like carrot, parsley, celery, and coriander. Characterized by umbrella-shaped flower clusters (umbels), these herbs are valued for culinary, medicinal, and ecological roles—many serve as companion plants attracting beneficial insects. While widely cultivated for edible roots, seeds, and aromatic oils, some species contain toxic compounds like furanocoumarins, causing photodermatitis, or are highly poisonous (e.g., poison hemlock). The family also includes phototoxic species such as giant hogweed and historically significant plants used for poisons, dyes, or incense.\n\n**Keywords**:  \nApiaceae, umbellifers, phototoxicity, culinary herbs, companion planting",
+      "is_seed": true,
+      "expand_score": 0.8124898076057434
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "summary": "**Title**: Sonerila Genus Diversity  \n\n**Summary**:  \nThe text chunks collectively catalogue the genus Sonerila (family Melastomataceae), a primarily Asian group of ~175 herbaceous or sub-shrub species distinguished by three-petaled flowers, opposite leaves, and scorpioid cymes. The lists enumerate roughly 200 accepted taxa—ranging from Sonerila affinis to S. zeylanica—highlighting centers of diversity in India, Sri Lanka, and the Indo-Pacific. Many species are micro-endemics with small populations, implying high conservation risk, although formal IUCN assessments remain incomplete.  \n\n**Keywords**:  \nSonerila, Melastomataceae, three-petaled, Asian flora, conservation",
+      "is_seed": true,
+      "expand_score": 0.8240162134170532
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "summary": "**Title**: Othonna Genus Taxonomy\n\n**Summary**: Othonna is a monophyletic genus of ~90 succulent or subsucculent perennials centered in South Africa’s Greater Cape Floristic Region, with outliers in Namibia, Angola and Zimbabwe. Established by Linnaeus in 1753 with 14 species, only four original taxa remain in the genus while others were reassigned to genera such as Senecio and Euryops; 13 former Othonna species now reside in the segregate genus Crassothonna (2012). A modern taxonomic revision led by the Compton Herbarium and SANBI is underway, beginning with the 2019 treatment of the geophytic O. bulbosa group. The name Othonna references a linen cloth, alluding to the downy indumentum of early-known species, and several species are colloquially called “bobbejaankool” (baboon cabbages) in Afrikaans.\n\n**Keywords**: Othonna, Crassothonna, Cape Floristic Region, taxonomic revision, succulent perennials",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/01_Silene.html_1",
+      "summary": "**Title**: Silene Plant Genus Research\n\n**Summary**:  \nSilene, the largest genus in the Caryophyllaceae family with ~900 species, has served as a long-standing model in evolutionary biology and ecology. Its varied sexual systems—hermaphroditic, dioecious, gynodioecious—have enabled landmark studies on cytoplasmic male sterility, chromosomal sex determination, and sex-ratio evolution. Beyond genetics, Silene is used to investigate speciation, heavy-metal adaptation, and mitochondrial genome expansion, while also supporting pollinators like flies and moths. Culturally, species such as S. undulata are used in Xhosa divination rituals, and S. vulgaris is consumed as a Mediterranean food plant.\n\n**Keywords**:  \nSilene, sex determination, cytoplasmic male sterility, gynodioecy, model genus",
+      "is_seed": true,
+      "expand_score": 0.7871874570846558
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "summary": "**Title**: Cyrtanthus Genus Overview  \n\n**Summary**:  \nCyrtanthus is a genus of perennial, bulbous herbs in the Amaryllidaceae family, constituting the sole member of the African tribe Cyrtantheae. Phylogenetic studies place this tribe within the subfamily Amaryllidoideae. More than 50 species are recognized, all endemic to central and southern Africa, displaying diverse floral forms and ecological adaptations.  \n\n**Keywords**: Cyrtanthus, Amaryllidaceae, Cyrtantheae, African bulbs, plant taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006529/00_Sinofranchetia.html_0",
+      "summary": "**Title**: Sinofranchetia Plant Genus\n\n**Summary**: Sinofranchetia is a monotypic genus in the Lardizabalaceae family, represented solely by Sinofranchetia chinensis, a deciduous woody climber endemic to China. It thrives in dense valley forests, forest margins, and shrubby areas of south-central China. The species is notable for its climbing habit and restricted geographic range.\n\n**Keywords**: Sinofranchetia, Lardizabalaceae, endemic, China, climber",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/02_Sonerila-janakiana.html_0",
+      "summary": "**Title**: Sonerila janakiana Plant Profile\n\n**Summary**: Sonerila janakiana is a tuberous, scapigerous, and stoloniferous flowering plant endemic to the wet tropical forests of Tamil Nadu and Kerala, India. As a member of the genus Sonerila, it thrives in humid environments and spreads via stolons and scapes. The species name commemorates the pioneering Indian botanist Janaki Ammal Edathil Kakkat.\n\n**Keywords**: Sonerila janakiana, Tamil Nadu flora, Janaki Ammal, tropical endemic, stoloniferous plant",
+      "is_seed": true,
+      "expand_score": 0.8198016881942749
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/02_Tricholoma-apium.html_0",
+      "summary": "**Title**: Tricholoma apium Conservation Status\n\n**Summary**: Tricholoma apium is a European agaric mushroom belonging to the genus Tricholoma. Recognized by the International Union for Conservation of Nature (IUCN), it is currently listed as vulnerable on the IUCN Red List of Threatened Species, indicating that it faces a high risk of endangerment in the wild.\n\n**Keywords**: Tricholoma apium, IUCN Red List, vulnerable species, European fungi, mushroom conservation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "summary": "**Title**: Myrsine Plant Diversity\n\n**Summary**:  \nThe genus Myrsine, now classified within Primulaceae, comprises over 280 species of leathery-leaved shrubs and small trees distributed mainly in tropical and subtropical regions worldwide. Notable adaptive radiations occur in New Zealand (e.g., red matipo, mapou) and Hawaiʻi (kōlea), with additional endemics across French Polynesia, Australia, Peru, Africa, and the Pacific islands. Formerly segregated genera Rapanea and Suttonia are merged into Myrsine, expanding its morphological and geographic range. Many species exhibit delayed fruit maturation and flowers that appear on leafless branches, contributing to their distinctive ecology and ornamental appeal.\n\n**Keywords**: Myrsine, Primulaceae, Pacific flora, adaptive radiation, tropical shrubs",
+      "is_seed": false,
+      "expand_score": 0.9443215131759644
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "summary": "**Title**: Crosby's Buckwheat Conservation  \n\n**Summary**:  \nEriogonum crosbyae (Crosby’s buckwheat) is a rare mat-forming perennial wild buckwheat restricted to volcanic tuff and tuffaceous sandstone soils in south-central Oregon and northwestern Nevada. First collected in 1978 and named for discoverer Virginia Crosby, it produces yellow-cream flower clusters amid sparse associated desert flora. Its survival is jeopardized by active mining leases, off-road vehicle use, range-improvement projects, and naturally low seedling recruitment, with several populations already destroyed.  \n\n**Keywords**:  \nCrosby’s buckwheat, volcanic tuff habitat, mining threat, Oregon-Nevada endemic, rare flora",
+      "is_seed": false,
+      "expand_score": 0.8394880294799805
+    },
+    {
+      "community_key": "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "summary": "**Title**: Jaynes Canyon Buckwheat Profile  \n\n**Summary**:  \nEriogonum diclinum, or Jaynes Canyon buckwheat, is a rare dioecious wild buckwheat endemic to serpentine soils of the Klamath Mountains in northern California and southern Oregon. This low, mat-forming shrub stays under 20 cm tall and features woolly, gray-green oval leaves up to 2 cm long. Male and female plants bear distinct yellow-to-reddish inflorescences—staminate clusters on males and larger pistillate clusters on females—supporting reproduction in its specialized habitat.  \n\n**Keywords**:  \nEriogonum diclinum, Jaynes Canyon buckwheat, Klamath Mountains, serpentine soils, dioecious shrub",
+      "is_seed": false,
+      "expand_score": 0.7985632419586182
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/00_Aspidistra.html_7",
+      "summary": "**Title**: Aspidistra Plant Diversity and Culture  \n\n**Summary**:  \nThe text compiles extensive listings of Aspidistra species, emphasizing their center of diversity in Guangxi, China, and northern Vietnam, with most taxa being narrow endemics. It clarifies that pollination is performed by amphipods, springtails, or fungus gnats rather than mollusks, and details the horticultural toughness of A. elatior, which tolerates deep shade, neglect, and coal-heated indoor air. Beyond botany, the plant’s role as a Victorian symbol of middle-class respectability is explored through George Orwell’s *Keep the Aspidistra Flying*, wartime songs, and appearances in classic detective fiction, illustrating its cultural footprint.  \n\n**Keywords**:  \nAspidistra, species diversity, amphipod pollination, cast-iron plant, Victorian symbolism",
+      "is_seed": false,
+      "expand_score": 0.7956905961036682
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "summary": "**Title**: 32,000-Year-Old Silene Regeneration\n\n**Summary**: Russian-led researchers regenerated viable Silene stenophylla plants from 31,800-year-old placental tissue found in permafrost at Duvanny Yar, Siberia, smashing the previous record for revived plant material. The ancient campion, preserved in fossil ground-squirrel burrows within the yedoma ice complex, flowered with slightly longer petals than modern counterparts and produced seeds with 100 % germination. The breakthrough revealed exceptional cryopreservation by sucrose-rich cells and minimal DNA damage, inspiring efforts to resurrect extinct species and prompting the later discovery of a 30,000-year-old viable giant virus in the same permafrost.\n\n**Keywords**: Silene stenophylla, permafrost regeneration, ancient plant revival, Duvanny Yar, Pleistocene seeds",
+      "is_seed": false,
+      "expand_score": 0.7946105003356934
+    },
+    {
+      "community_key": "HotpotQA-validation-00002097/03_Othonna-capensis.html_0",
+      "summary": "**Title**: Crassothonna capensis Plant Profile\n\n**Summary**: Crassothonna capensis, formerly Othonna capensis, is a succulent groundcover native to South Africa’s Eastern Cape and Drakensberg highveld. Known as “little pickles” or “ruby necklace,” it features blue-grey, finger-like leaves that blush maroon in drought and bears yellow daisy flowers on slender stems. After taxonomic revision, the species was moved from Othonna to the newly erected genus Crassothonna. It thrives in semi-arid Karoo scrub and is cultivated worldwide for rockeries, terrariums, and xeriscaping.\n\n**Keywords**: Crassothonna capensis, succulent groundcover, taxonomic revision, xeriscaping, South African flora",
+      "is_seed": false,
+      "expand_score": 0.7814096212387085
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00006529/00_Sinofranchetia.html_0",
+      "HotpotQA-validation-00002965/02_Sonerila-janakiana.html_0",
+      "HotpotQA-validation-00000911/02_Tricholoma-apium.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00002965/02_Sonerila-janakiana.html_0",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_7",
+      "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00002097/03_Othonna-capensis.html_0"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00000911/01_Elodea.html_0",
+      "HotpotQA-validation-00002965/01_Scaevola-plant.html_3",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00001019/00_Eriogonum.html_1",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00002097/00_Othonna.html_1",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00007299/01_Cyrtanthus.html_0",
+      "HotpotQA-validation-00006529/00_Sinofranchetia.html_0",
+      "HotpotQA-validation-00002965/02_Sonerila-janakiana.html_0",
+      "HotpotQA-validation-00000911/02_Tricholoma-apium.html_0",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_0",
+      "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_0",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_7",
+      "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "HotpotQA-validation-00002097/03_Othonna-capensis.html_0"
+    ],
+    "allowed_chunk_pool_size": 52,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

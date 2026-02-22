@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a45d778d",
+  "question": "After his suspicious fall from the mustang near the Ramierez fonda, what physical mark was found on Colonel Starbottle's nose?",
+  "gold_answer": "Colonel Starbottle had a mark on his nose.",
+  "llm_answer": "A mark on his nose as if someone had tried to gouge out his eye.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the physical mark on Colonel Starbottle's nose, describing it as if someone had tried to gouge out his eye, which is explicitly supported by the retrieved context. The Gold Answer is less specific, but the Model Answer provides additional relevant detail without contradicting the core truth."
+  }
+}

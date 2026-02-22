@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6c255c33",
+  "question": "What is the title of the literary work that C. A. S. HALL, also known as Angeline Hall, read during her intellectual pursuits later in life?",
+  "gold_answer": "C. A. S. HALL read Prometheus Bound.",
+  "llm_answer": "The title of the literary work that C. A. S. HALL, also known as Angeline Hall, read during her intellectual pursuits later in life is not explicitly stated in the provided evidence. However, it is mentioned that she wrote essays for the Historical Society, which suggests that she was involved in literary pursuits. \n\nOne of her essays is quoted in the text, which discusses the principles of light and gravitation, and how they relate to the soul. This essay is likely a literary work that she wrote during her intellectual pursuits later in life.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct title of the literary work, 'Prometheus Bound,' which is explicitly stated in the Gold Answer. Additionally, the Model Answer incorrectly claims that the title is not mentioned in the context and speculates about her essays instead, which is unsupported by the retrieved context. This results in a lack of correctness, faithfulness, and evidence coverage."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007123",
+  "question": "For which film did the Director team with NASA scientists, Aliens of the Deep or Poetry in Motion?",
+  "gold_answer": "Aliens of the Deep",
+  "llm_answer": "The film for which the Director team with NASA scientists is \"Aliens of the Deep.\"",
+  "context": [
+    {
+      "text": "Aliens of the Deep is a 2005 American documentary film directed in part by James Cameron alongside fellow cameraman and friend Steven Quale , who served as second unit director on Cameron's Titanic (1997) and later Avatar (2009), and filmed in the IMAX 3D format. It was produced by Walden Media and Walt Disney Pictures . Cameron teams with NASA scientists to explore the mid-ocean ridges , submerged chains of mountains in the Atlantic and Pacific oceans that are home to some of the planet's more unusual forms of life. It was released on DVD on November 1, 2005. Plot Cameron joins up aboard the Russian research vessel Akademik Mstislav Keldysh with a group of NASA scientists, as well as some American marine biologists , to investigate ten hydrothermal vents in both the Atlantic and Pacific. The vents have their own unique ecosystem , which support diverse organisms such as giant tube worms , swarms of blind white crabs, and vast amounts of shrimp which are capable of \"seeing\" water that is heated by the vents. These creatures do not require sunlight like other organisms, and instead obtain their energy from the vents. They are able to survive in the superheated and sulfurous water. Because of this, the documentary suggests that this is what life beyond Earth might look like. As some alien ecosystems are likely to be a lot harsher than a typical terrestrial ecosystem, these exotic vents provide an insight into some of",
+      "id": "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0"
+    },
+    {
+      "text": "look like. As some alien ecosystems are likely to be a lot harsher than a typical terrestrial ecosystem, these exotic vents provide an insight into some of the forms that alien life might take. The documentary shows Cameron's passion for exploring the oceans, as well as his interest in extraterrestrial life. It also showcases the technology employed to reach such depths. The film is similar to Cameron's earlier documentary, Ghosts of the Abyss (2003), which involves him journeying to the wreck of the RMS Titanic . It too was filmed in the 3-D IMAX format. See also List of 3D films (2005–present) Mir (submersible) References Bibliography MacInnis, Joseph (2004). James Cameron's Aliens of the Deep . Washington, D.C.: National Geographic Society . ISBN 0792293436 . – The companion book to the film. Reed, Christina (February 2005). \"Into the Abyss\". Scientific American . pp. 24– 25. External links Official website Aliens of the Deep at IMDb Aliens of the Deep at Box Office Mojo Aliens of the Deep at Rotten Tomatoes",
+      "id": "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_1"
+    },
+    {
+      "text": "Poetry in Motion is a 1982 Canadian documentary film directed by Ron Mann featuring contemporary North American poetry and music. Featured are some of the Black Mountain poets , Beats , minimalist poets , and avant-garde poets. It was released in theaters, later being distributed on VHS, LaserDisc, and DVD. An extended CD-ROM version was also released. Production Poetry in Motion is Mann's second feature film after Imagine the Sound . While watching John Giorno and William S. Burroughs at a rock club, Mann discovered Giorno's Dial-A-Poem recordings during a break in the performance. The director later decided to create an anthology of \"post-Beat\" poets for a film. His idea was based on the poem anthology publication The New American Poetry 1945–1960 by Donald Allen . The first poet to say that they were interested in being in the film was Allen Ginsberg . Almost 40 poets performed more than 75 poems, and filmmaker Emile de Antonio helped cut down the filmed material to 90 minutes long. The film is interspersed with parts of an interview with Charles Bukowski . Performers include Allen Ginsberg, Kenward Elmslie , and Anne Waldman . A CD-ROM version was released with poems which were never in the film. All 47 hours of footage are held at the Art Gallery of Ontario . Release The film was originally released in theaters. It was later released on VHS, LaserDisc, and DVD. It",
+      "id": "HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_0"
+    },
+    {
+      "text": "Auburn has graduated six astronauts (including T.K. Mattingly of Apollo 13 fame) and one current and one former director of the Kennedy Space Center . 1972 Auburn Mechanical Engineering graduate Jim Kennedy, currently director of NASA's Kennedy Space Center, was previously deputy director of NASA 's Marshall Space Flight Center (MSFC). Several hundred Auburn graduates, primarily engineers and scientists, currently work directly for NASA or NASA contractors. Hundreds of Auburn engineers worked for NASA at MSFC during the peak years of the \"space race\" in the 1960s, when the Saturn and Apollo moon programs were in full development. Auburn University owns and operates the 423-acre (1.71 km 2 ) Auburn University Regional Airport , providing flight education and fuel, maintenance, and airplane storage. The Auburn University Aviation Department is fully certified by the FAA as an Air Agency with examining authority for private, commercial, instrument, and multiengine courses. In April 2015, Auburn University received the nation's first FAA approval to operate a new Unmanned Aircraft Systems Flight School as part of the Auburn University Aviation Center. The College of Business's Department of Aviation Management and Supply Chain Management is the only program in the country to hold dual accreditation by the Association to Advance Collegiate Schools of Business (AACSB) and the Aviation Accreditation Board International (AABI). Created over 65 years ago, Auburn's flight program is also the second oldest university flight program in the United States. The Old Rotation",
+      "id": "HotpotQA-validation-00001644/01_Auburn-University.html_c_13"
+    },
+    {
+      "text": "the Art Gallery of Ontario . Release The film was originally released in theaters. It was later released on VHS, LaserDisc, and DVD. It was released on VHS in 1986 and on DVD in 2002, with an additional hour of content, and a new 8 minute interview with Mann. Reception A review in the book Of-Hollywood Movies says, \"If you aren't a student of contemporary poetry, Poetry in Motion serves as an excellent introduction. If you are, it's orgasmic\". The film has been criticized for including only four Canadian poets, but proponents stated that \"the film is a new genre that elides criticism based in nationalism\". References External links Poetry in Motion at IMDb",
+      "id": "HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The Director is James Cameron (HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0).\n- The Director teams with NASA scientists (HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0).\n- The film is Aliens of the Deep (HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0).\n- The Director is not James Cameron for Poetry in Motion (HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_0).\n- The Director of Poetry in Motion is Ron Mann (HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_0).\n- Poetry in Motion does not involve NASA scientists (HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "For which film did the Director team with NASA scientists, Aliens of the Deep or Poetry in Motion?",
+      "doc_ids": [
+        "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0",
+        "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_1",
+        "HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_0",
+        "HotpotQA-validation-00001644/01_Auburn-University.html_c_13",
+        "HotpotQA-validation-00007123/01_Poetry-in-Motion-film.html_c_1"
+      ]
+    }
+  ]
+}

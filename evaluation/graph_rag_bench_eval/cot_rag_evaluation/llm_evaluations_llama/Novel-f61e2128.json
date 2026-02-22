@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f61e2128",
+  "question": "To whom did Aunt Katy leave her possessions in her will, as detailed in the story's account of her relationship to the orphaned Suza Fairfield?",
+  "gold_answer": "Aunt Katy bequeathed her possessions to Suza Fairfield.",
+  "llm_answer": "The evidence does not explicitly state who Aunt Katy left her possessions to in her will. However, it is implied that she left them to Suza Fairfield, as Aunt Katy takes Suza to the hiding place and says, \"bequeathing all her earthly possessions to Suza Fairfield.\"",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Aunt Katy bequeathed her possessions to Suza Fairfield, as explicitly stated in the retrieved context. The phrasing in the Model Answer aligns with the Gold Answer and is faithful to the context provided. All key facts from the Gold Answer are included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac7eb77d",
+  "question": "According to the text, what roles does the Sultan hold in relation to Morocco, including his power over the country and his residence in a palace within Morocco?",
+  "gold_answer": "The Sultan has power over Morocco and has a palace in Morocco.",
+  "llm_answer": "The Sultan is the sovereign ruler who “can always proclaim … that he … exercise[s] authority” over the whole empire and whose Shereefian prestige unites even hostile tribes; the text never mentions a palace, only that he is “so simple in his habits and dress” that he is distinguished from his officers only by the royal parasol.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Sultan's authority over Morocco and his role in uniting tribes, which aligns with the Gold Answer's mention of his power over the country. However, it does not address the specific detail about the Sultan having a palace in Morocco, which is explicitly stated in the Gold Answer. The claims made in the Model Answer are faithful to the retrieved context, but it misses full evidence coverage by omitting the palace detail."
+  }
+}

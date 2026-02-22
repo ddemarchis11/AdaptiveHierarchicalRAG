@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000994",
+  "question": "What familial relation does the former NFL player who designed his team's logo in the 1940s bear to the outfielder selected 23rd overall in the 2010 MLB Draft?",
+  "gold_answer": "great-grandfather",
+  "llm_answer": "The familial relation is not explicitly stated in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct familial relation ('great-grandfather') between the former NFL player and the MLB outfielder. It also does not attempt to address the question using the retrieved context or external knowledge, resulting in a completely incorrect and ungrounded response."
+  }
+}

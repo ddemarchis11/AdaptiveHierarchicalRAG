@@ -1,0 +1,12 @@
+{
+  "id": "Novel-02d254bc",
+  "question": "How was Aunt Patsy Perkins's ability to communicate and her conversational style described in the narrative, especially in relation to her social interactions in Chicago and her remarks to Mrs. Daymon?",
+  "gold_answer": "Aunt Patsy Perkins could talk faster and more than any woman west of the Alleghany Mountains.",
+  "llm_answer": "Aunt Patsy’s conversational power is summed up in one line: “she could talk faster and more of it than any woman west of the Alleghany Mountains.”  \nHer own declaration to Mrs. Daymon is: “A woman has nothing but her tongue, and while I live I will use mine.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of Aunt Patsy Perkins's ability to communicate and her conversational style, as described in the Gold Answer and supported by the Retrieved Context. It includes the key fact that she could talk faster and more than any woman west of the Alleghany Mountains and adds a relevant quote from Aunt Patsy herself, which is grounded in the context."
+  }
+}

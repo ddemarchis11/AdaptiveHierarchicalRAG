@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8ddd613c",
+  "question": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+  "gold_answer": "Derem is the native name for Mount Atlas, and Dyris is the ancient name for Mount Atlas.",
+  "llm_answer": "Based on the provided evidence, some historical and native names by which Mount Atlas has been known include:\n\n1. 'Derem' - the name amongst the modern aborigines.\n2. 'Dyris' - the name given by the ancient aborigines.\n3. 'Ras dirum' - a compound of 'Ras', head, and 'dirum', mountain, or the head of the mountain, given by the Moors to Cape Bon.\n4. 'Doa-el-Hamman', 'Tibet Deera', etc. - the names of separate chains of the mighty Atlas.\n\nThese names are mentioned in the context of the novel's discussion of Mount Atlas, and are compared to the Hebrew language, with 'Derem' signifying the place or aspect of the sun at noon-day, and 'Dyris' being connected to the Hebrew meaning 'great' or 'mighty'.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Derem' and 'Dyris' as names for Mount Atlas, aligning with the Gold Answer. However, it introduces additional names ('Ras dirum', 'Doa-el-Hamman', 'Tibet Deera') that are not explicitly stated as names for Mount Atlas in the context, and their inclusion is not fully supported. The explanation about Hebrew connections is partially grounded but extends beyond the retrieved context, reducing faithfulness and evidence coverage."
+  }
+}

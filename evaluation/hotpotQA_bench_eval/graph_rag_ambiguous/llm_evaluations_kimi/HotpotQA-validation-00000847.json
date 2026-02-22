@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000847",
+  "question": "A rum-based drink originating in Cuba and a creamy mixed drink named after a large Arctic animal — what category of beverage do both belong to?",
+  "gold_answer": "cocktails",
+  "llm_answer": "Both the daiquiri (a rum-based Cuban cocktail) and the polar bear (a creamy mixed drink) are classified as cocktails.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the category of beverages as cocktails, aligning with the Gold Answer. However, the retrieved context does not provide explicit information about the polar bear drink, making the faithfulness score lower due to partial grounding. The answer does cover all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9671d373",
+  "question": "Who is the individual that reports on the apple jelly factories in Oswego County as mentioned in the narrative?",
+  "gold_answer": "Dewitt C. Peck reports on apple jelly factories.",
+  "llm_answer": "I couldn't find any information about apple jelly factories in Oswego County in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide the correct individual, Dewitt C. Peck, as mentioned in the Gold Answer. Additionally, the retrieved context does not contain relevant information about apple jelly factories or Dewitt C. Peck, but the model does not utilize internal knowledge to answer correctly either."
+  }
+}

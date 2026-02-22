@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4b359d87",
+  "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+  "gold_answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+  "llm_answer": "Based on the provided evidence, the actions that illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities are:\n\n1. Going to Woolwich and Deptford to give orders and take notice of the forwardness of ships to go forth (June 1st, 1661).\n2. Visiting ship to ship at Woolwich and Deptford (June 1st, 1661).\n3. Getting his Lord's imprest of £1000 and Mr. Creed's of £10,000 against this voyage, and signing their bills (June 1st, 1661).\n\nThese actions suggest that Samuel Pepys was involved in the administration and management of naval matters, including overseeing the preparation of ships for departure and handling financial transactions related to naval operations.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer provides details about Pepys's involvement in naval matters, but it does not address the specific actions mentioned in the Gold Answer, such as showing ships to Lady Jemimah and Paulina or visiting Deptford. Additionally, the retrieved context does not support the claims made in the Model Answer, making it unfaithful to the provided evidence. The Model Answer misses the central factual points from the Gold Answer."
+  }
+}

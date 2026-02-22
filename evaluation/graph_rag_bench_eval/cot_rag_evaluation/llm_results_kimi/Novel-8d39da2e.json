@@ -1,0 +1,42 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "The evidence shows that Samuel Pepys saw the Duke of York at “the Theatre” during a performance of “The Joviall Crew.”",
+  "context": [
+    {
+      "text": "and so came to some ease I would fain have stolen a pretty dog that followed me Instructed by Shakespeare himself King, Duke and Duchess, and Madame Palmer, were Lady Batten how she was such a man's whore Lately too much given to seeing of plays, and expense Lewdness and beggary of the Court Look askew upon my wife, because my wife do not buckle to them None will sell us any thing without our personal security given Quakers do still continue, and rather grow than lessen Sat before Mrs. Palmer, the King's mistress, and filled my eyes So the children and I rose and dined by ourselves Sorry in some respect, glad in my expectations in another respec The Alchymist,--Comedy by Ben Jonson The Lords taxed themselves for the poor--an earl, s. This week made a vow to myself to drink no wine this week Those absent from prayers were to pay a forfeit To be so much in love of plays Woman with a rod in her hand keeping time to the musique End of the Project Gutenberg EBook of Diary of Samuel Pepys, June/July/August 1661, by Samuel Pepys",
+      "id": "Novel-4128_c_84"
+    },
+    {
+      "text": "Produced by David Widger THE DIARY OF SAMUEL PEPYS M.A. F.R.S. CLERK OF THE ACTS AND SECRETARY TO THE ADMIRALTY TRANSCRIBED FROM THE SHORTHAND MANUSCRIPT IN THE PEPYSIAN LIBRARY MAGDALENE COLLEGE CAMBRIDGE BY THE REV. MYNORS BRIGHT M.A. LATE FELLOW AND PRESIDENT OF THE COLLEGE (Unabridged) WITH LORD BRAYBROOKE'S NOTES EDITED WITH ADDITIONS BY HENRY B. WHEATLEY F.S.A. DIARY OF SAMUEL PEPYS. JUNE, JULY & AUGUST 1661 June 1st. Having taken our leaves of Sir W. Batten and my Lady, who are gone this morning to keep their Whitsuntide, Sir W. Pen and I and Mr. Gauden by water to Woolwich, and there went from ship to ship to give order for and take notice of their forwardness to go forth, and then to Deptford and did the like, having dined at Woolwich with Captain Poole at the tavern there. From Deptford we walked to Redriffe, calling at the half-way house, and there come into a room where there was infinite of new cakes placed that are made against Whitsuntide, and there we were very merry. By water home, and there did businesses of the",
+      "id": "Novel-4128_c_0"
+    },
+    {
+      "text": "to my Lord and to my father, and then to bed. 31st. Singing-master came to me this morning; then to the office all the morning. In the afternoon I went to the Theatre, and there I saw \"The Tamer Tamed\" well done. And then home, and prepared to go to Walthamstow to-morrow. This night I was forced to borrow L40 of Sir W. Batten. DIARY OF SAMUEL PEPYS. AUGUST 1661 August 1st. This morning Sir Williams both, and my wife and I and Mrs. Margarett Pen (this first time that I have seen her since she came from Ireland) went by coach to Walthamstow, a-gossiping to Mrs. Browne, where I did give her six silver spoons--[But not the porringer of silver. See May 29th, 1661.--M. B]--for her boy. Here we had a venison pasty, brought hot from London, and were very merry. Only I hear how nurse's husband has spoken strangely of my Lady Batten how she was such a man's whore, who indeed is known to leave her her estate, which we would fain have reconciled to-day, but could not and indeed I do believe that the story is true. Back again at night home. 2d. At the office all the morning. At noon Dr.",
+      "id": "Novel-4128_c_49"
+    },
+    {
+      "text": "to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry, but methinks he makes but poor dinners for such guests, though there was a poor venison pasty. Hence my wife and I to the Theatre, and there saw \"The Joviall Crew,\" where the King, Duke and Duchess, and Madame Palmer, were; and my wife, to her great content, had a full sight of them all the while. The play full of mirth. Hence to my father's, and there staid to talk a while and so by foot home by moonshine. In my way and at home, my wife making a sad story to me of her brother Balty's a condition, and would have me to do something for him, which I shall endeavour to do, but am afeard to meddle therein for fear I shall not be able to wipe my hands of him again, when I once concern myself for him. I went to bed, my wife all the while telling me his case with tears, which troubled me. 28th. At home all the morning setting papers in order. At noon to the Exchange, and there met with Dr. Williams by appointment, and with him went up and down to look for an attorney, a friend of his, to advise with about our bond of my aunt Pepys of L200, and he tells me absolutely that we shall",
+      "id": "Novel-4128_c_77"
+    },
+    {
+      "text": "find him dead or alive. Myself lately under a great expense of money upon myself in clothes and other things, but I hope to make it up this summer by my having to do in getting things ready to send with the next fleet to the Queen. Myself in good health, but mighty apt to take cold, so that this hot weather I am fain to wear a cloth before my belly. DIARY OF SAMUEL PEPYS. JULY 1661 July 1st. This morning I went up and down into the city, to buy several things, as I have lately done, for my house. Among other things, a fair chest of drawers for my own chamber, and an Indian gown for myself. The first cost me 33s., the other 34s. Home and dined there, and Theodore Goodgroome, my singing master, with me, and then to our singing. After that to the office, and then home. 2nd. To Westminster Hall and there walked up and down, it being Term time. Spoke with several, among others my cozen Roger Pepys, who was going up to the Parliament House, and inquired whether I had heard from my father since he went to Brampton, which I had done yesterday, who writes that my uncle is by fits stupid, and like a man that is drunk, and sometimes speechless. Home, and after my singing master had done, took coach and went to Sir",
+      "id": "Novel-4128_c_28"
+    }
+  ],
+  "cot_scratchpad": "- Pepys and his wife saw “The Joviall Crew” with the King, Duke and Duchess present (Novel-4128_c_77)\n- They watched the performance at “the Theatre” (Novel-4128_c_77)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+      "doc_ids": [
+        "Novel-4128_c_84",
+        "Novel-4128_c_0",
+        "Novel-4128_c_49",
+        "Novel-4128_c_77",
+        "Novel-4128_c_28"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-973bc3d0",
+  "question": "Whom did Asaph Hall help protect during a public event in Boston, demonstrating his commitment to the abolitionist cause?",
+  "gold_answer": "Asaph Hall helped protect Wendell Phillips.",
+  "llm_answer": "The provided evidence does not mention Asaph Hall protecting anyone during a public event in Boston or demonstrate his commitment to the abolitionist cause.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Asaph Hall protecting Wendell Phillips or demonstrating his commitment to the abolitionist cause. However, it fails to answer the question using external knowledge or internal reasoning, which is necessary since the Gold Answer provides the correct information. The retrieved context is irrelevant, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

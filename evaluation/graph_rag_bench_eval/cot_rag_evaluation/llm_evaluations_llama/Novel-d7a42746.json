@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d7a42746",
+  "question": "During her lifetime, Dr. Elsie Inglis supported Serbia in several significant ways: she traveled to Serbia, founded the Scottish Women’s Hospitals to provide wartime aid, and was honored by Serbian officers who carried her coffin after her death. In what ways did Dr. Elsie Inglis assist Serbia and how was her support recognized by the Serbian people?",
+  "gold_answer": "Dr. Elsie Inglis contributed to Serbia by traveling there, founding the Scottish Women’s Hospitals to aid during wartime, and being honored by Serbian officers, who carried her coffin after her death.",
+  "llm_answer": "Based on the provided evidence, Dr. Elsie Inglis assisted Serbia in several significant ways:\n\n1. She traveled to Serbia and helped to establish a hospital unit to provide aid during the war.\n2. She founded the Scottish Women's Hospitals to provide wartime aid to Serbia and other countries.\n3. She organized a hospital unit to serve with the Serbian Volunteers on the Rumanian Russian front.\n4. She attempted to take a fully equipped unit to Basra in Mesopotamia to provide aid, but was refused by the War Office.\n\nHer support was recognized by the Serbian people in the following ways:\n\n1. A beautiful fountain was built in her honor at Mladenovatz, which was formally opened with a religious service.\n2. The fountain was inscribed with a poem that praised Dr. Inglis as an \"angel friend\" who fought against hunger and typhus.\n3. The Serbian nation commemorated her services to them, and her legacy continued to inspire others to work towards a common goal.\n\nIt is also mentioned that Dr. Inglis was honored by Serbian officers who carried her coffin after her death.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core contributions of Dr. Elsie Inglis to Serbia as outlined in the Gold Answer, including her travel to Serbia, founding the Scottish Women's Hospitals, and being honored by Serbian officers carrying her coffin. Additionally, it provides further details supported by the context, such as the fountain built in her honor and the poem inscribed on it, which enrich the answer without deviating from the truth. All claims are grounded in the retrieved context, and the answer includes all key facts from the Gold Answer."
+  }
+}

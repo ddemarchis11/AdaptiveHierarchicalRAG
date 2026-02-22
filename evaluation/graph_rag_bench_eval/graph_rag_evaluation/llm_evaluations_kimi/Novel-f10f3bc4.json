@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f10f3bc4",
+  "question": "During their encounter after the battle, did Cousin Cæsar recognize his old acquaintance Steve Brindle, and what was the outcome of their meeting?",
+  "gold_answer": "No, Cousin Cæsar did not recognize Steve Brindle.",
+  "llm_answer": "Yes, Cousin Cæsar recognized Steve Brindle on the battlefield, but their meeting ended in disappointment: Cæsar discovered that Steve had deserted and used a cryptic card (“No. 77 deserted”) to convey his departure, leaving Cæsar to conclude, “Steve Brindle is a coward.”",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Cousin Cæsar recognized Steve Brindle, which contradicts the Gold Answer and the Retrieved Context. The context explicitly mentions that Cousin Cæsar did not recognize Steve Brindle despite their past acquaintance. Additionally, the Model Answer introduces unsupported claims about Steve Brindle's desertion and a cryptic card, which are not grounded in the provided context."
+  }
+}

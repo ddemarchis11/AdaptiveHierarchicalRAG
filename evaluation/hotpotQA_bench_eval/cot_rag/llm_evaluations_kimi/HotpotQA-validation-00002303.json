@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002303",
+  "question": "Are University of Virginia and Massachusetts Institute of Technology in the same country?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes. The evidence states that the Massachusetts Institute of Technology is “in Cambridge, Massachusetts, United States,” and it also mentions that William Barton Rogers had “recently arrived in Boston from the University of Virginia,” indicating that the University of Virginia is likewise in the United States.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that both the University of Virginia and the Massachusetts Institute of Technology are in the United States, aligning with the Gold Answer. It uses evidence from the context to confirm the locations of both institutions, ensuring faithfulness and complete coverage of the key facts."
+  }
+}

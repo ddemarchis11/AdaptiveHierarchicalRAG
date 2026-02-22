@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003628",
+  "question": "WHere are both Sanming and Jiutai District located?",
+  "gold_answer": "China",
+  "llm_answer": "Jiutai District is in Changchun, Jilin Province, Northeast China.  \nSanming is in Fujian Province, China.",
+  "context": [
+    {
+      "text": "Jiutai ( Chinese : 九台 ; pinyin : Jiǔtái ; lit. 'nine platforms') is one of seven districts of the prefecture-level city of Changchun , the capital of Jilin Province , Northeast China . The district is surrounded by agricultural areas and is located around 50 kilometres (31 mi) northeast of downtown Changchun. Coal mining also is present in Jiutai. It borders Dehui to the north, Erdao District to the southwest, Kuancheng District to the west, as well as the prefecture-level city of Jilin to the south and east. Administrative divisions There are five subdistricts , nine towns , and two ethnic townships . Subdistricts: Tuanjie Subdistrict ( 团结街道 ), Gongnong Subdistrict ( 工农街道 ), Nanshan Subdistrict ( 南山街道 ), Yingcheng Subdistrict ( 营城街道 ), Huoshiling Subdistrict ( 火石岭街道 ) Towns: Tumenling ( 土们岭镇 ), Xiyingcheng ( 西营城镇 ), Mushihe ( 沐石河镇 ), Qitamu ( 其塔木镇 ), Shanghewan ( 上河湾镇 ), Yinmahe (",
+      "id": "HotpotQA-validation-00003628/01_Jiutai-District.html_c_0"
+    },
+    {
+      "text": "with a total area of 1.21 square kilometres (0.47 sq mi). The architectural structure group built in the ancient Ming Dynasty situated at the center of the urban district of Taining County is a State-level cultural relics under protection, having a high value in studying the ancient Chinese architecture, especially that in the Ming Dynasty. The city is served by Sanming Shaxian Airport . Sanming University is the sole university in Sanming. Cuisine Local food style in Sanming City normally includes various snacks especially the famous Sha County Snacks. Sha County snack is one of well-known snack styles in China, which can be found in hundreds of cities around mainland China. Sha County snacks have a long history and are known to be living artifacts of the Han people's food culture. Currently, 39 varieties of Sha County snacks have been labeled as \"Famous Chinese Snacks\" and 63 kinds as \"Famous Fujian Snacks.\" The China Cuisine Association awarded Sha County the title of \"Snack Culture City\" in China on December 8, 2006. The production process of Sha County snacks was listed in Fujian intangible cultural heritage in 2007, and has been declared a national intangible cultural heritage. Representing Fujian, Sha County snacks are also available on the Chinese Food Street at the Shanghai 2010 World Expo. Besides Sha County snacks, Yong'an snacks and Ninghua County snacks attract local people a lot as well. Twin towns – sister cities",
+      "id": "HotpotQA-validation-00003628/00_Sanming.html_c_3"
+    },
+    {
+      "text": "World Expo. Besides Sha County snacks, Yong'an snacks and Ninghua County snacks attract local people a lot as well. Twin towns – sister cities Lansing , United States See also CNS Sanming (524), Chinese navy frigate named after the city References External links Wikimedia Commons has media related to Sanming . Government website of Sanming Sanming Window Archived 2012-03-16 at the Wayback Machine",
+      "id": "HotpotQA-validation-00003628/00_Sanming.html_c_4"
+    },
+    {
+      "text": "population of 2,503,338, 70,687 inhabitants less than in 2000 Census (the average annual population growth for the period 2000-2010 was of -0.28%). The emigration of population from Sanming to other areas of Fujian is a constant process, even encouraged by government politics since the 1960s. Administration The prefecture-level city of Sanming administers 2 districts , 1 county-level city , and 8 counties . The information here presented is in km 2 and using data from 2010 Census. History In 1940 Sanyuan County was established. In 1956, Mingxi and Sanyuan Counties were combined to Sanming County, then in 1960 it was replaced with Sanming city. Environment and tourism Sanming has four well preserved and protected National Parks. The city was labeled as the most \"green\" city of the most \"green\" province in China. Da Jin Hu , which is the most famous tourist spot in Sanming, is also well known as Taining Gorden Lake Geopark marked by UNESCO . The Geopark is famous for its unique Danxia Landform . The lake situated inside Taining County at the south end of Wuyi Mountain is the major State-level place of scenic beauty with the length of 60-plus kilometres and water area of more than 50 thousand mu. The best tour season of Taining Jinhu Lake is from April",
+      "id": "HotpotQA-validation-00003628/00_Sanming.html_c_1"
+    },
+    {
+      "text": "Obuasi Municipal Assembly is one of the forty-three districts in Ashanti Region , Ghana . Originally it was formerly part of the then-larger Adansi West District in 1988, until part of the district was split off to create Obuasi Municipal District on 15 December 2003 (effectively 17 February 2004); whose remaining parts had been absorbed into parts of Adansi North District and Adansi South District respectively. Later, the eastern part of the district was split off to create Obuasi East District on 15 March 2018; thus the remaining part has been retained as Obuasi Municipal Assembly . The municipality is the southern part of Ashanti Region and has Obuasi as its capital town. Resources The city is well known for its natural resource: gold. Geography The Municipality is located at the southern part of Ashanti between latitude 5.35N and 5.65N and longitude 6.35N and 6.90N. It covers a land area of 1624 km 2 . There are 53 villages in the Municipality which share 19 electoral areas. It is bounded to the east by the Adansi South District , west by Amansie Central District and to the north by the Adansi North District . It has Obuasi as its Administrative Capital, where the famous and rich Obuasi Gold Mine is located. Climate and topography The Municipality has a rather undulating topography",
+      "id": "HotpotQA-validation-00006653/01_Obuasi-Municipal-District.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Jiutai District is in Changchun, Jilin Province, Northeast China (HotpotQA-validation-00003628/01_Jiutai-District.html_c_0)\n- Sanming is a prefecture-level city in Fujian Province, China (HotpotQA-validation-00003628/00_Sanming.html_c_1)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "WHere are both Sanming and Jiutai District located?",
+      "doc_ids": [
+        "HotpotQA-validation-00003628/01_Jiutai-District.html_c_0",
+        "HotpotQA-validation-00003628/00_Sanming.html_c_3",
+        "HotpotQA-validation-00003628/00_Sanming.html_c_4",
+        "HotpotQA-validation-00003628/00_Sanming.html_c_1",
+        "HotpotQA-validation-00006653/01_Obuasi-Municipal-District.html_c_0"
+      ]
+    }
+  ]
+}

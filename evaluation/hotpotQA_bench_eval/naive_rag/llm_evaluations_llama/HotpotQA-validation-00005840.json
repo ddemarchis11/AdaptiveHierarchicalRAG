@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005840",
+  "question": "Which comic book was also written by the writer of Crossed?",
+  "gold_answer": "the Vertigo series \"Preacher\"",
+  "llm_answer": "The comic book written by the writer of Crossed is The Boys.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states 'The Boys' as the comic book written by the writer of Crossed, while the Gold Answer specifies 'Preacher.' The retrieved context does not support the claim about 'The Boys' being the correct answer, nor does it mention 'Preacher,' making the Model Answer both incorrect and unfaithful to the context."
+  }
+}

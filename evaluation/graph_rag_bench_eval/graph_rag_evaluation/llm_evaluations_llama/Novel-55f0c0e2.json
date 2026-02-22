@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f0c0e2",
+  "question": "What incident in the narrative demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order?",
+  "gold_answer": "The Duke of York sent an order to Samuel Pepys.",
+  "llm_answer": "There is no specific incident in the narrative that demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order. However, it is mentioned that on the 14th, Pepys, along with Sir W. Batten and Sir W. Pen, waited upon the Duke of York in his chamber to give him an account of the condition of the Navy for lack of money.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning Pepys's interaction with the Duke of York regarding the Navy's financial condition, which could be interpreted as a professional responsibility. However, it does not directly confirm or elaborate on the specific incident of the Duke sending an official order to Pepys, as stated in the Gold Answer. The retrieved context does not clearly support the claim about the Duke sending an order, and the Model Answer introduces details that are not fully grounded in the provided context."
+  }
+}

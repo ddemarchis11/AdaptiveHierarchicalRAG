@@ -1,0 +1,268 @@
+{
+  "id": "HotpotQA-validation-00002173",
+  "question": "A private West Texas launch site used for suborbital test flights belongs to a space venture whose corporate offices are located in which U.S. state?",
+  "gold_answer": "Washington",
+  "llm_answer": "The private West Texas launch site, Corn Ranch (Launch Site One), is owned by Blue Origin, whose corporate headquarters are in Kent, Washington.",
+  "context": [
+    {
+      "text": "Corn Ranch , commonly referred to as Launch Site One ( LSO [ dubious – discuss ]  ), is a spaceport owned and operated by Blue Origin which is located approximately 30 miles (48 km) north of the town of Van Horn, Texas , United States. The 165,000-acre (670 km 2 ) plot of land was purchased by Jeff Bezos in 2004. The company uses the spaceport for testing and launch services for its New Shepard rocket. The launch site has a sub-orbital launch pad and also has a number of rocket engine test stands . The engine test cells are at the site to support the hydrolox , methalox and storable propellant engines that are used. There are three test cells for testing the methalox BE-4 engine, two of which support full-thrust and full-duration burns, and one that supports short-duration, high-pressure preburner tests. The spaceport also includes a vehicle processing facility and an astronaut training facility. The company's first human spaceflight launched from Launch Site One (LS1) on July 20, 2021. The flight, dubbed NS-16 , carried its founder Jeff Bezos , his brother Mark Bezos , test pilot and Mercury 13 member Wally Funk , and Dutchman Oliver Daemen on a suborbital flight aboard New Shepard 4. FAA launch license information Current launch license and experimental permits from the US government Federal Aviation Administration authorize flights of New Shepard rockets. The site became active on November 13, 2006 with the goal of providing commercial tourist flights to space. Location The launch pad is located at 31°25′23″N 104°45′26″W ﻿ / ﻿ 31.422927°N 104.757152°W ﻿ / 31.422927; -104.757152 , about 1.8 mi (2.9 km) north of the check-out building. The landing pad is located at 31°27′06″N 104°45′46″W ﻿ / ﻿ 31.4517°N 104.7628°W ﻿ / 31.4517; -104.7628 , about 3.8 mi (6.1 km) north of a check-out building and 2 mi (3.2 km) north of the launch pad. References",
+      "id": "HotpotQA-validation-00002173/00_Corn-Ranch.html_c_0",
+      "doc_id": "HotpotQA-validation-00002173/00_Corn-Ranch.html",
+      "community_id": 0,
+      "score": 48.611973
+    },
+    {
+      "text": "Blue Origin Enterprises, L.P. is a private American space technology company headquartered in Kent, Washington . The company operates the suborbital New Shepard rocket and the heavy-lift New Glenn rocket. In addition to producing engines for its own rockets, Blue Origin supplies engines for other vehicles, including United Launch Alliance 's Vulcan Centaur . It is also working on the Blue Moon human lunar lander for NASA 's Artemis program , the Blue Ring spacecraft platform, and the Orbital Reef space station in partnership with other organizations. Founded in 2000 by Jeff Bezos , Blue Origin initially operated with a very low profile , funded by Bezos's private investments. In 2015, the company achieved a significant milestone with the first uncrewed launch and landing of the New Shepard and announced plans for New Glenn. In 2021, New Shepard completed its first crewed mission with Bezos himself on board, crossing the Kármán line , the conventional definition of the edge of space, 100 kilometers (62 mi) above sea level. Another key achievement came in January 2023 when the company delivered its first BE-4 rocket engine to United Launch Alliance. Despite these milestones, Blue Origin has faced criticism for its perceived slow progress, particularly when compared to SpaceX . Addressing these challenges, the company underwent a leadership change in September 2023, appointing Dave Limp as CEO to succeed Bob Smith. On January 16, 2025, Blue Origin reached orbit with the first launch of the New Glenn vehicle. On April 14, 2025, Blue Origin completed its 11th human spaceflight and its 31st spaceflight for the New Shepard Program with an all-female crew of six. In January 2026, the company decided to pause tourism launches of its New Shepard rocket for two years or more, in order to focus resources on lunar landing efforts of the Artemis program. History The company was founded in 2000 by Jeff Bezos , the founder of Amazon . Rob Meyerson joined the company in 2003 and served as the CEO before leaving the company in 2018. Bob Smith served as CEO from 2018 to 2023. The current CEO is Dave Limp. Little is known about the company's activities in its early years. In 2006, the company purchased land for its New Shepard missions 30 miles north of Van Horn, Texas , United States called Launch Site One (LS1). In November 2006, the first test vehicle was launched, the Goddard rocket, which reached an altitude of 285 feet. After initiating the development of an orbital rocket system prior to 2012, and stating in 2013 on their website that the first stage would perform a powered vertical landing and be reusable, the company publicly announced their orbital launch vehicle intentions in September 2015. In January 2016, the company indicated that the new rocket would be many times",
+      "id": "HotpotQA-validation-00002173/01_Blue-Origin.html_c_0",
+      "doc_id": "HotpotQA-validation-00002173/01_Blue-Origin.html",
+      "community_id": 2,
+      "score": 26.871084
+    },
+    {
+      "text": "Orion test article being released during airborne drop test. A drop test is a method of testing the in-flight characteristics of prototype or experimental aircraft and spacecraft by raising the test vehicle to a specific altitude and then releasing it. Test flights involving powered aircraft, particularly rocket-powered aircraft , may be referred to as drop launches due to the launch of the aircraft's rockets after release from its carrier aircraft. In the case of unpowered aircraft, the test vehicle falls or glides after its release in an unpowered descent to a landing site. Drop tests may be used to verify the aerodynamic performance and flight dynamics of the test vehicle, to test its landing systems, or to evaluate survivability of a planned or crash landing. This allows the vehicle's designers to validate computer flight models , wind tunnel testing, or other theoretical design characteristics of an aircraft or spacecraft's design. High-altitude drop tests may be conducted by carrying the test vehicle aboard a mothership to a target altitude for release. Low-altitude drop tests may be conducted by releasing the test vehicle from a crane or gantry . Aircraft and lifting-body testing Carrier landing simulation tests The landing gear on aircraft used on aircraft carriers must be stronger than those on land-based aircraft, due to higher approach speeds and sink rates during carrier landings. As early as the 1940s, drop tests were conducted by lifting a carrier-based plane such as the Grumman F6F Hellcat to a height of ten feet and then dropped, simulating the impact of a landing at nineteen feet per second (5.8 m/s). The F6F was ultimately dropped from a height of twenty feet (6.1 m), demonstrating it could absorb twice the force of a carrier landing. Drop tests are still used in the development and testing of carrier-based aircraft; in 2010, the Lockheed Martin F-35C Lightning II underwent drop tests to simulate its maximum descent rate of 26.4 feet per second (8.0 m/s) during carrier landings. The X-38 research vehicle is released from Balls 8 , NASA 's B-52 mothership during a drop test. The pylon used to carry experimental vehicles is visible near the top of the photo, between the fuselage and inboard right engine. Experimental aircraft Numerous experimental and prototype aircraft have been drop tested or drop launched. Many powered X-planes , including the Bell X-1 , Bell X-2 , North American X-15 , Martin Marietta X-24A and X-24B , Orbital Sciences X-34 , Boeing X-40 , and NASA X-43A were specifically designed to be drop launched. test articles of the unpowered NASA X-38 were also drop tested, from altitudes of up to 45,000 feet (14,000 m), in order to study its aerodynamic and handling qualities, autonomous flight capabilities, and deployment of its steerable parafoil . Some experimental aircraft designed for airborne launches,",
+      "id": "HotpotQA-validation-00002173/02_Drop-test.html_c_0",
+      "doc_id": "HotpotQA-validation-00002173/02_Drop-test.html",
+      "community_id": 3,
+      "score": 23.908941
+    },
+    {
+      "text": "Vulcan Centaur rockets replacing the RD-180 Russian-made rocket engine. The newly developed heavy-lift launch vehicle will use two of the 2,400 kN (550,000 lbf) BE-4 engines on each first stage . The engine development program for the BE-4 began in 2011. On October 31, 2022, a Twitter post by the official Blue Origin account announced that the first two BE-4 engines had been delivered to ULA and were being integrated on a Vulcan rocket. In a later tweet, ULA CEO Tory Bruno said that one of the engines had already been installed on the booster, and that the other would be joining it momentarily. On June 7, 2023, the two BE-4 rocket engines performed as expected when ULA performed a Flight Readiness Firing of the Vulcan Rocket at launch pad 41 at the Cape Canaveral Space Force Station in Cape Canaveral, Florida . Vulcan Centaur launched for the first time on January 8, 2024, successfully carrying Astrobotic Technology 's Peregrine lunar lander , the first mission on NASA's Commercial Lunar Payload Services (CLPS) program using the BE-4 engine. BE-7 The BE-7 engine is a liquid oxygen/liquid hydrogen dual expander cycle engine currently under development, designed for use on Blue Moon . The engine produces 44 kN (10,000 lbf) of thrust. Its first ignition tests were performed in June 2019, with thrust chamber assembly testing continuing through 2023. Pusher escape motor The company partnered with Aerojet Rocketdyne to develop a pusher launch escape system for the New Shepard suborbital crew capsule. Aerojet Rocketdyne provides the Crew Capsule Escape Solid Rocket Motor (CCE SRM) while the thrust vector control system that steers the capsule during an abort is designed and manufactured by Blue Origin. Facilities NASA Deputy Administrator tours Blue Origin headquarters The company has facilities across the United States, which include five main locations and five field offices: Kent, Washington (headquarters) Van Horn, Texas Cape Canaveral Space Force Station , Florida Huntsville, Alabama Marshall Space Flight Center , Alabama Arlington, Virginia Denver, Colorado Los Angeles, California Phoenix, Arizona Washington, D.C. The company's headquarters is in Kent, Washington. Rocket development takes place at its headquarters. The company has continued to expand its Seattle-area offices and rocket production facilities since 2016, purchasing an adjacent 11,000 m 2 (120,000 ft 2 )-building. In 2017, the company filed permits to build a new 21,900 m 2 (236,000 ft 2 ) warehouse complex and an additional 9,560 m 2 (102,900 ft 2 ) of office space. The company established a new headquarters and R&D facility, called the O'Neill Building on June 6,",
+      "id": "HotpotQA-validation-00002173/01_Blue-Origin.html_c_5",
+      "doc_id": "HotpotQA-validation-00002173/01_Blue-Origin.html",
+      "community_id": 2,
+      "score": 21.283438
+    },
+    {
+      "text": "U.S. Route 80 or U.S. Highway 80 ( US 80 ) is a major east–west United States Numbered Highway in the Southern United States , much of which was once part of the early auto trail known as the Dixie Overland Highway . As the \"0\" in the route number indicates, it was originally a cross-country route, from the Pacific Ocean to the Atlantic Ocean. Its original western terminus was at Historic US 101 in San Diego , California. However, the entire segment west of Dallas , Texas, has been decommissioned in favor of various Interstate Highways and state highways starting in 1967, being truncated to its current west end in 1991. Currently, the highway's western terminus is at an interchange with Interstate 30 (I-30) on the Dallas – Mesquite city line. Its eastern terminus is on Tybee Island, Georgia , near the Atlantic Ocean. [ self-published source? ] Between Longview, Texas , and Cuba, Alabama , US 80 runs parallel to or concurrently with Interstate 20 . It also currently runs through Dallas, Texas; Shreveport, Louisiana ; Jackson, Mississippi ; Montgomery, Alabama ; Columbus, Georgia ; Macon, Georgia ; and Savannah, Georgia . Route description Texas US 80 eastbound in rural Texas Modern US 80 begins as a significant component of the urban freeway system of Dallas , Texas. With Spur 557 , it serves as the shortest freeway route from the central and northern portions of Dallas to I-20 , heading east towards Shreveport , Louisiana . From its origin at I-30 in eastern Dallas, through its interchange with the I-635 \"LBJ\" Loop, to its junction with I-20 southwest of Terrell , US 80/Spur 557 is a full Interstate-grade , limited-access freeway . (This freeway was originally built as I-20 but was rerouted south of Dallas in 1971 and 1991.) In western Terrell, US 80 leaves the freeway, which continues southeast as (unsigned) Spur 557 to I-20, while US 80 runs north of I-20 through a number of small towns and cities, including Terrell, Mineola , Longview , and Marshall . It rejoins I-20 for about five miles (8.0 km), before splitting to pass through downtown Waskom before crossing into Louisiana. Louisiana US 80 east in Madison Parish, Louisiana US 80 is parallel to the newer I-20, which has supplanted it as a long-distance route, for the entirety of its length in Louisiana. The highway crosses the state line from Texas into Caddo Parish as a two-lane road and crosses over to the south of I-20 without connecting with the freeway. It passes through the town of Greenwood where it meets US 79 coming north from Texas, and these two routes run concurrently eastward from there",
+      "id": "HotpotQA-validation-00003659/01_US-Route-80.html_c_0",
+      "doc_id": "HotpotQA-validation-00003659/01_US-Route-80.html",
+      "community_id": 9,
+      "score": 20.36097
+    },
+    {
+      "text": "to 2012, and stating in 2013 on their website that the first stage would perform a powered vertical landing and be reusable, the company publicly announced their orbital launch vehicle intentions in September 2015. In January 2016, the company indicated that the new rocket would be many times larger than New Shepard . The company publicly released the high-level design of the vehicle and announced its name in September 2016 as \" New Glenn \". The New Glenn heavy-lift launch vehicle can be configured in both two-stage and three-stage variants. New Glenn first successfully launched in January, 2025. On July 20, 2021, New Shepard performed its first crewed mission to sub-orbital space called Blue Origin NS-16 . The flight lasted approximately 10 minutes and crossed the Kármán line . The passengers were Jeff Bezos , his brother Mark Bezos , Wally Funk , and Oliver Daemen , after the unnamed auction winner (later revealed to have been Justin Sun ) dropped out due to a scheduling conflict. Subsequent New Shepard passenger and cargo missions were: Blue Origin NS-17 , Blue Origin NS-18 , Blue Origin NS-19 , Blue Origin NS-20 , Blue Origin NS-21 and Blue Origin NS-23 . The company primarily employs an incremental approach from sub-orbital to orbital flight , with each developmental step building on its prior work. The company moved into the orbital spaceflight technology development business in 2014, initially as a rocket engine supplier via a contractual agreement to build the BE-4 rocket engine, for major US launch system operator United Launch Alliance (ULA). United Launch Alliance (ULA) has said that the first flight of its Vulcan Centaur heavy-lift launch vehicle is scheduled to launch in Q4 of 2023. The heavy-lift launch vehicles main power is supported by two BE-4 engines. On June 7, 2023, United Launch Alliance (ULA) performed a Flight Readiness Firing of the Vulcan Centaur rocket at launch pad 41 at the Cape Canaveral Space Force Station in Cape Canaveral , Florida, United States. The two BE-4 rocket engines worked as expected. In 2024, the company won its first National Security Space Launch (NSSL) contract. The New Glenn vehicle is to be used on the launches. On November 13, 2025 launched its first NASA mission, ESCAPADE , deploying two NASA science satellites to study Mars' atmosphere. The company utilized its New Glenn rocket and successfully landed the booster on a barge Landing Platform Vessel 1 named Jacklyn in the Atlantic Ocean. Launch vehicles New Shepard booster Flown New Shepard Capsule New Shepard New Shepard is a fully reusable sub-orbital launch vehicle developed for space tourism . The vehicle is named after Alan Shepard , the first American astronaut in space. The vehicle is capable of vertical takeoff and landings and can carry humans and customer payloads",
+      "id": "HotpotQA-validation-00002173/01_Blue-Origin.html_c_1",
+      "doc_id": "HotpotQA-validation-00002173/01_Blue-Origin.html",
+      "community_id": 2,
+      "score": 20.310888
+    },
+    {
+      "text": "Christiansen with family in front of P-3 Orion , 1984. John “Chris” Christiansen (May 1, 1923 － September 12, 1998) was the chief military test pilot for Lockheed California Company for over 30 years. He might be most known for having performed Lockheed S-3 Viking 's maiden flight on January 21, 1972. His assignments also included the initial test flights of Lockheed P-3 Orion . Christiansen was born in Oslo, Norway in 1923 and became an American citizen in 1939. He later served in the U.S. Navy during World War II and the Korean War . He began experimental flying for Lockheed Martin in 1953, and worked there until his retirement in 1984. He was a fellow at Society of Experimental Test Pilots . He retired in May 1984 after 31 years as an experimental test pilot for Lockheed Martin. He moved to Tarzana, Los Angeles following his retirement. He died on September 12, 1998, in Lake Havasu City, Arizona . Christiansen is honored at the U.S. Navy Patrol and Reconnaissance Memorial on Naval Air Station Whidbey Island in Washington , which was erected by the United States Navy . The memorial inscription reads: \" Special thanks to Mr. John Christiansen for his many contributions to the development and testing of the P-3. Lockheed P-3 Orion . Missions: Patrol, Antisubmarine Warfare, Electronic Warfare and Reconnaissance. \" References",
+      "id": "HotpotQA-validation-00002173/03_John-Christiansen.html_c_0",
+      "doc_id": "HotpotQA-validation-00002173/03_John-Christiansen.html",
+      "community_id": 0,
+      "score": 18.36899
+    },
+    {
+      "text": "Operation Lighthouse was the name given to the failed experimental launch of four Aggregate 3 liquid-fuel rockets by Wernher von Braun and Walter Dornberger on the German island of Greifswalder Oie in December 1937. Background and preparation In the summer of 1937 the German Aggregate 3 series of rockets was nearing the testing stage. Several were tested on a special stand at Kummersdorf in an attempt to evaluate guidance systems. These consisted of vanes designed to deflect the rocket exhaust and control the missile's course. On September 1, Dornberger ordered that von Braun's team prepare for a series of test launches in the first part of November from the small island of Greifswalder Oie in an operation he designated \"Lighthouse\". Von Braun assigned the head of his measurement unit, Gerhard Reisig , to prepare the expedition to the island. In November, rain and snow storms kept the project behind schedule, delaying ferries and nearly collapsing the tent erected as a preparation site. Rodents gnawed on tar paper and telephone cables . Amidst the setbacks, Dornberger and von Braun hunted rabbits and pheasants . The rockets and launch site were not ready until December. Launches The first launch was ordered for December 2, but again weather and technical problems delayed the operation. On December 4 the first rocket blasted off just after 10 AM. Set on a test ring without a guide rail, the rocket rose vertically for three seconds, but then the parachute deployed and dragged, burning, behind the vehicle. After less than seven seconds the engine cut out and soon the rocket fell back to the ground, landing 1,000 feet (300 meters) from the launch site. It exploded and burned upon impact, leaving little wreckage to examine. Another missile was launched on the afternoon of December 6 and followed a similar pattern, crashing and exploding in the sea less than twenty feet from the island's cliffs. The wreckage did not yield an explanation for the failure, but the parachute system was suspected. For the third launch, the parachute was replaced with a flare. The rocket was set off in the afternoon of December 8. The missile turned from the vertical into the wind and after four seconds the flare deployed. At 1,000 feet (300 meters) the engine quit, and without the drag of a burning parachute (like the previous two rockets) it achieved a greater distance before crashing over a mile offshore and exploding in the sea. Despite the disappointing results of the first three launches, Dornberger and von Braun decided to launch their last A3. After further weather delays, the last rocket was set off on the morning of December 11 but demonstrated a performance much like the third. Aftermath The failure the project launch came as a shock to von Braun, who set to trying to find the causes. He suspected both the guidance control system and the jet vanes. Additionally, he developed",
+      "id": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_c_0",
+      "doc_id": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html",
+      "community_id": 1,
+      "score": 18.2876
+    },
+    {
+      "text": "Shepard , New Glenn's first stage is also designed to be reusable . In 2021, the company initiated conceptual design work on approaches to potentially make the second stage reusable as well, with the project codenamed \" Project Jarvis \". In 2024, Blue Origin received funding from the USSF to assess New Glenn's ability to launch national security payloads. On January 16, 2025, Blue Origin achieved its first successful launch of New Glenn from Cape Canaveral Space Force Station 's Launch Complex 36 . The mission's primary objective was to deploy the Blue Ring Pathfinder test satellite, which was successfully placed into orbit. NASA announced in February 2023 that it had selected the New Glenn heavy-lift launch vehicle for the launch of two Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) spacecraft . The New Glenn heavy-lift launch vehicle launched ESCAPADE on 13 November 2025 with the ESCAPADE spacecraft entering Mars 's orbit approximately one year after launch, and the first stage booster returning successfully. Blue Moon In May 2019, Bezos unveiled plans for a crew-capable lunar lander named Blue Moon . The lander is designed to transport up to 3,600 kilograms (7,900 lb) to the lunar surface in its standard configuration, while a stretched-tank variant can carry up to 6,500 kilograms (14,300 lb). Both versions are engineered for soft landings on the Moon. In 2020, Blue Origin, in collaboration with Lockheed Martin , Northrop Grumman , and Draper , submitted the Blue Moon lunar lander proposal for NASA's Artemis program. After NASA awarded the human landing system (HLS) contract to SpaceX in 2021 for its Starship HLS , Blue Origin contested the decision . This challenge ultimately led to NASA awarding a separate contract for Blue Moon in 2023. The lander is powered by the BE-7 hydrolox engine. On May 19, 2023, NASA contracted Blue Origin to develop, test, and deploy the Blue Moon landing system for the Artemis V mission. This mission will support lunar exploration and lay the groundwork for future crewed missions to Mars. The $3.4 billion contract includes an uncrewed test mission followed by a crewed Moon landing planned for 2029. In mid-2024, Blue Origin announced the successful completion of initial acceptance testing on the thrusters for the MK1 variant of the Blue Moon lander. Rocket engines BE-1 Blue Origin's first engine is a \"simple, single-propellant engine\" called the Blue Engine-1 ( BE-1 ) which uses peroxide propellant and generates 8.9 kN (2,000 lbf) of thrust . BE-2 The Blue Engine-2 ( BE-2 ) which is a bipropellant engine using kerosene and peroxide, produces 140 kN",
+      "id": "HotpotQA-validation-00002173/01_Blue-Origin.html_c_3",
+      "doc_id": "HotpotQA-validation-00002173/01_Blue-Origin.html",
+      "community_id": 2,
+      "score": 17.939144
+    },
+    {
+      "text": "out in the Mojave Desert of southeast California , to validate the design of the CST-100 capsule's parachute and airbag cushioning landing systems. The airbags are located underneath the heat shield of the CST-100, which is designed to be separated from the capsule while under parachute descent at about 5,000 feet (1,500 m) altitude. The tests were carried out at ground speeds between 10 and 30 miles per hour (16 and 48 km/h) in order to simulate cross wind conditions at the time of landing. Bigelow Aerospace built the mobile test rig and conducted the tests. In April 2012, Boeing conducted another drop test of its CST-100 prototype space capsule in order to test the capsule's landing systems. The test vehicle was raised by helicopter to an altitude of 11,000 feet (3,400 m) and then released; the capsule's three main parachutes then deployed successfully and slowed the capsule's descent. Immediately prior to landing, the capsule's six airbags inflated underneath the capsule in order to absorb some of the impact energy from landing. Similar drop tests are planned in order to conduct additional airbag testing, as well as drogue chute and heat shield jettison tests. Helicopter testing In 2009 and 2010, NASA conducted a pair of drop tests to study the survivability of helicopter crashes. Using an MD 500 helicopter donated by the U.S. Army, NASA dropped the helicopter at an angle from an altitude of 35 feet (11 m) to simulate a hard helicopter landing. Sophisticated crash test dummies with simulated internal organs were located inside the helicopter and used to assess internal injuries from such a crash. Due to extensive damage to the test helicopter after the second test, no third test was planned. References",
+      "id": "HotpotQA-validation-00002173/02_Drop-test.html_c_4",
+      "doc_id": "HotpotQA-validation-00002173/02_Drop-test.html",
+      "community_id": 3,
+      "score": 17.86207
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00002173/01_Blue-Origin.html_2",
+      "summary": "**Title**: Blue Origin Launch Systems\n\n**Summary**:  \nBlue Origin has developed a family of reusable launch vehicles and rocket engines, progressing from the suborbital New Shepard—flown 31 times for tourism and research—to the heavy-lift New Glenn, which reached orbit in January 2025 and will launch NASA’s ESCAPADE Mars mission. Central to these vehicles are the company’s BE-3, BE-4, and BE-7 engines; the BE-4 powers both New Glenn and ULA’s Vulcan Centaur, while the BE-7 will propel the Blue Moon lunar lander selected for NASA’s Artemis V mission. Complementing its rockets, Blue Origin is building the Blue Ring space platform and the Orbital Reef commercial space station, with major facilities in Kent (WA), Cape Canaveral (FL), and Huntsville (AL).\n\n**Keywords**:  \nNew Shepard, New Glenn, BE-4 engine, Blue Moon lander, reusable rockets",
+      "is_seed": true,
+      "expand_score": 0.8121995329856873
+    },
+    {
+      "community_key": "HotpotQA-validation-00002173/00_Corn-Ranch.html_0",
+      "summary": "**Title**: Blue Origin Corn Ranch Spaceport\n\n**Summary**: Corn Ranch, also called Launch Site One, is Blue Origin’s 165,000-acre spaceport near Van Horn, Texas, acquired by Jeff Bezos in 2004. The facility hosts sub-orbital New Shepard launches, rocket-engine test stands for hydrolox, methalox and storable propellant engines—including three cells for BE-4 methalox testing—and houses vehicle processing and astronaut training facilities. After becoming active in 2006, the site achieved its first crewed flight on 20 July 2021, sending Bezos, his brother, Wally Funk and Oliver Daemen on sub-orbital mission NS-16, and operates under FAA commercial launch licenses.\n\n**Keywords**: Blue Origin, Corn Ranch, Launch Site One, New Shepard, spaceport",
+      "is_seed": true,
+      "expand_score": 0.8121995329856873
+    },
+    {
+      "community_key": "HotpotQA-validation-00005554/03_ARCO.html_1",
+      "summary": "**Title**: ARCO Corporate History & Operations\n\n**Summary**:  \nARCO, originally the Atlantic Richfield Company, was formed in 1966 through the merger of Atlantic Refining and Richfield Oil, becoming a major U.S. oil firm with global operations. It pioneered 4D seismic research, launched the ampm convenience-store chain, and briefly entered solar energy and mining via Anaconda Copper, which later saddled it with Superfund liabilities. After BP acquired ARCO in 2000, the brand survived on the West Coast, while Marathon now owns most U.S. ARCO stations.\n\n**Keywords**: ARCO, Atlantic Richfield, BP acquisition, Anaconda Copper, Superfund site",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003659/01_US-Route-80.html_9",
+      "summary": "**Title**: Historic U.S. Route 80\n\n**Summary**:  \nU.S. Route 80 was once a transcontinental highway stretching from San Diego to Tybee Island, but west of Dallas it has been largely replaced by Interstates I-10, I-20 and state business loops. Across California, Arizona, New Mexico and Texas, original 1920s-1950s pavement, bridges, and roadside motels still survive, many now listed as historic or preserved as frontage roads and state highways (e.g., AZ 80, NM 418, SH 20). The route’s decommissioning between 1967-1991 shifted long-distance traffic to the Interstate system, yet local segments retain cultural significance and are actively commemorated as Historic U.S. Route 80.\n\n**Keywords**:  \nUS 80, Interstate replacement, historic highway, roadside heritage, decommissioned route",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "summary": "**Title**: Karel Bossart and the Atlas Rocket\n\n**Summary**:  \nKarel Jan Bossart was a pioneering Belgian-American rocket engineer whose monocoque design for the Atlas ICBM became a cornerstone of U.S. spaceflight. Despite early Air Force skepticism and classified constraints, Bossart’s Atlas evolved from a faltering missile into the nation’s most reliable expendable launch vehicle, enabling America’s first communications satellite, crewed orbital missions, and deep-space probes to Mars, Venus, Jupiter, and Saturn. His technical leadership at Convair/General Dynamics and advocacy of high-energy cryogenic fuels also produced the Centaur upper stage, cementing his legacy alongside von Braun and Korolev.\n\n**Keywords**: Atlas rocket, ICBM, monocoque design, space launch history, Karel Bossart",
+      "is_seed": true,
+      "expand_score": 0.8008849024772644
+    },
+    {
+      "community_key": "HotpotQA-validation-00002173/03_John-Christiansen.html_0",
+      "summary": "**Title**: John Christiansen Test Pilot Legacy\n\n**Summary**: John “Chris” Christiansen was Lockheed California Company’s chief military test pilot for three decades, renowned for maiden flights of the S-3 Viking and P-3 Orion. After immigrating from Norway and serving in WWII and Korea, he conducted experimental flights for Lockheed from 1953 to 1984. A Fellow of the Society of Experimental Test Pilots, he retired to Tarzana, CA, and is memorialized on Whidbey Island for advancing patrol and antisubmarine warfare aircraft.\n\n**Keywords**: test pilot, Lockheed P-3 Orion, S-3 Viking, Society of Experimental Test Pilots, Naval aviation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_1",
+      "summary": "**Title**: Samantha Cristoforetti’s Space Legacy\n\n**Summary**:  \nItalian ESA astronaut Samantha Cristoforetti, the first Italian woman in space, set European endurance records with a 199-day ISS mission and later commanded Expedition 68. A Star Trek fan since childhood, she infused her missions with sci-fi flair—brewing the first zero-G espresso, donning Starfleet uniforms, and honoring Leonard Nimoy with a Vulcan salute from orbit. After advanced training with Chinese astronauts for prospective ESA flights to Tiangong, political hurdles canceled those plans. Across two ISS expeditions she conducted diverse science, led outreach programs like “Train Like an Astronaut,” and used amateur radio to connect students worldwide with space.\n\n**Keywords**:  \nCristoforetti, ISS endurance record, Expedition 68, ISSpresso, Star Trek in space",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "summary": "**Title**: Walter Dornberger’s Rocket Legacy  \n\n**Summary**:  \nWalter Dornberger, a WWI artillery officer turned rocket pioneer, led Nazi Germany’s V-2 program at Peenemünde, orchestrating the first successful guided ballistic-missile test in 1942. After hiding V-2 documents and surrendering to U.S. forces in 1945, he was brought to America via Operation Paperclip, avoiding war-crime prosecution. At Bell Aircraft (1950-1965) he rose to vice-president, contributing to the X-15, Dyna-Soar, and the world’s first guided nuclear air-to-surface missile (ASM-A-2), while later advising West Germany on European space initiatives.  \n\n**Keywords**:  \nV-2 rocket, Operation Paperclip, Peenemünde, Bell Aircraft, guided missiles",
+      "is_seed": true,
+      "expand_score": 0.7998936772346497
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "summary": "**Title**: Korolev’s Ballistic & Space Program\n\n**Summary**:  \nSergei Korolev led the Soviet Union’s post-war ballistic-missile effort, evolving captured V-2 technology into the R-7—the world’s first ICBM—which enabled Sputnik 1’s historic 1957 launch and triggered the space race. After political lobbying and rushed development, his team orbited increasingly sophisticated satellites (Sputnik 2 with Laika, Sputnik 3) and achieved lunar firsts via the Luna probes, including imaging the Moon’s far side in 1959. Persistent funding battles, technical setbacks, and secrecy shaped the program, yet Korolev’s rockets secured Soviet space prestige before the U.S.\n\n**Keywords**:  \nR-7 Semyorka, Sputnik 1, Luna missions, ICBM, space race",
+      "is_seed": true,
+      "expand_score": 0.7926269173622131
+    },
+    {
+      "community_key": "HotpotQA-validation-00004506/03_Speedway-Motorsports.html_2",
+      "summary": "**Title**: Speedway Motorsports Acquisitions & Expansion\n\n**Summary**:  \nSpeedway Motorsports, Inc. (SMI), founded by Bruton Smith, grew from a single track (Charlotte) into a nine-facility powerhouse that owns 13 of 36 NASCAR Cup dates. After going public in 1995, SMI aggressively acquired tracks—Atlanta, Bristol, Sonoma, Texas, Las Vegas, North Wilkesboro, New Hampshire, Kentucky and, in 2021, Dover/Nashville—to secure coveted NASCAR race dates, often relocating events to maximize attendance and TV exposure. The purchases frequently triggered legal or scheduling controversies, most notably the Ferko lawsuit that shifted a Rockingham date to Texas. Taken private by the Smith family in 2019, SMI now operates ~885,000 seats, the Performance Racing Network, and joint-venture merchandise arm Motorsports Authentics.\n\n**Keywords**:  \nSMI track acquisitions, NASCAR date realignment, Bruton Smith, Ferko lawsuit, Speedway Motorsports expansion",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002173/02_Drop-test.html_3",
+      "summary": "**Title:** Unpowered Drop-Test Programs  \n\n**Summary:**  \nFrom the 1950s to the 2010s, NASA, the U.S. Air Force, and commercial partners validated spacecraft and lifting-body designs by releasing them from carrier aircraft or helicopters at altitude and allowing them to glide or parachute to landing. Landmark tests—X-24B, Shuttle Enterprise, X-38, Orion, CST-100, and Sierra Nevada’s Dream Chaser—proved that unpowered, high-speed vehicles could be precisely controlled and safely recovered, directly shaping the Space Shuttle’s unpowered-landing architecture and modern crew-capsule landing systems.  \n\n**Keywords:**  \ndrop test, unpowered landing, lifting body, Shuttle Enterprise, X-24B",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000577/01_Thomas-Szasz.html_11",
+      "summary": "**Title**: Thomas Szasz's Anti-Psychiatry Critique\n\n**Summary**: The chunks catalogue the prodigious output of psychiatrist-philosopher Thomas Szasz, whose 30+ books and scores of papers argue that \"mental illness\" is a metaphor used to medicalize moral and social problems. From *The Myth of Mental Illness* (1960) to *Suicide Prohibition* (2011), Szasz attacks psychiatric coercion, involuntary commitment, and the \"therapeutic state,\" insisting that diagnoses are rhetorical devices, not diseases. His libertarian stance opposes forced treatment, champions drug legalization, and likens psychiatry to Inquisitorial control, positioning him as a foundational—and polarizing—figure in critical and anti-psychiatry movements.\n\n**Keywords**: anti-psychiatry, psychiatric coercion, mental illness as myth, therapeutic state, libertarian psychiatry",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003659/01_US-Route-80.html_3",
+      "summary": "**Title:** Historic U.S. Route 80\n\n**Summary:**  \nU.S. Route 80 once spanned coast-to-coast from San Diego to Tybee Island, serving as a major all-weather highway and cultural rival to Route 66. The route’s alignment evolved through Louisiana, Mississippi, Alabama, and Georgia, transitioning from rural two-lane segments to urban arterials and briefly overlapping with Interstates before being bypassed. After the 1957 Interstate system rollout, I-8, I-10, I-16, and I-20 gradually superseded US 80 west of Dallas, leading to its decommissioning in California, Arizona, New Mexico, and western Texas. Surviving segments are now designated historic routes, with promotional efforts and associations dating back to the 1940s aiming to preserve and celebrate its legacy.\n\n**Keywords:**  \nUS 80, historic highway, Interstate replacement, Dixie Overland Highway, Tybee Island",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "summary": "**Title:** Sergei Korolev’s Lunar Setbacks  \n\n**Summary:**  \nSoviet Chief Designer Sergei Korolev’s insistence on adapting the 1958-era N1 rocket—built for lighter payloads—into a Moon launcher, coupled with his “build-then-test” philosophy, is portrayed as a fundamental strategic flaw that doomed the USSR’s crewed lunar effort. Chronic health decline (heart, kidney, gallbladder, gulag injuries) and a toxic rivalry with designer Vladimir Chelomey further fragmented resources and leadership, while post-Korolev successors inherited a troubled N1 program that ultimately failed four test flights and was cancelled after Apollo’s success.  \n\n**Keywords:**  \nN1 rocket, Moon race, Korolev-Chelomey rivalry, Soviet lunar program, managerial strategy",
+      "is_seed": true,
+      "expand_score": 0.8008849024772644
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0",
+      "summary": "**Title**: Von Braun Ferry Rocket\n\n**Summary**: The von Braun ferry rocket was an influential 1950s shuttle-spacecraft concept introduced by Wernher von Braun in his Collier’s magazine series “Man Will Conquer Space Soon!” Envisioned as a reusable launch system, the design helped popularize ideas of routine human spaceflight and has since been re-created in modern flight and spaceflight simulators such as Orbiter and X-Plane.\n\n**Keywords**: von Braun ferry rocket, reusable launch system, Collier’s space series, Orbiter simulator, X-Plane",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "summary": "**Title**: Soviet Lunokhod Moon Rovers  \n\n**Summary**:  \nThe 2007 French documentary *Tank on the Moon* chronicles the secret Soviet Lunokhod program (1970-1973) that landed two robotic rovers on the Moon, covering 50 km of terrain while the world focused on Apollo. Drawing on newly declassified Soviet archives and interviews with surviving engineers, the film highlights chief designer Alexander Kemurdzhian and the technological feats achieved amid Cold War secrecy. It premiered internationally, won multiple festival awards, and is distributed digitally in English, French, and Portuguese.  \n\n**Keywords**: Lunokhod, Soviet Moon rover, Cold War space race, Alexander Kemurdzhian, *Tank on the Moon*",
+      "is_seed": false,
+      "expand_score": 0.8179470300674438
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "summary": "**Title**: Operation Lighthouse Rocket Tests\n\n**Summary**: Operation Lighthouse was a December 1937 series of four A3 rocket launches on Greifswalder Oie led by Wernher von Braun and Walter Dornberger. All flights failed within seconds due to premature parachute or flare deployment, rolling, and engine cut-out, culminating in explosions on land or in the sea. Post-mortem analysis blamed inadequate roll control and guidance flaws, prompting abandonment of the A3 and a fundamental redesign into the A5. The setbacks delayed Germany’s A4 (V-2) ballistic missile program by at least a year.\n\n**Keywords**: A3 rocket, Operation Lighthouse, von Braun, Greifswalder Oie, V-2 delay",
+      "is_seed": false,
+      "expand_score": 0.7980952858924866
+    },
+    {
+      "community_key": "HotpotQA-validation-00004849/02_Hans-Bethe.html_1",
+      "summary": "**Title**: Hans Bethe: Nuclear Astrophysicist\n\n**Summary**:  \nHans Bethe was a German-American physicist whose work shaped nuclear physics, astrophysics, and quantum electrodynamics. He elucidated the CNO cycle powering massive stars, earning the 1967 Nobel Prize, and co-developed the proton-proton chain for the Sun. A wartime leader of Los Alamos’ Theoretical Division, he calculated critical masses for the atomic bomb and later contributed to hydrogen-bomb development while advocating arms-control treaties. Bethe’s seven-decade career included the Bethe ansatz, Lamb-shift QED calculations, and neutrino astrophysics, continuing into his nineties.\n\n**Keywords**:  \nnucleosynthesis, Manhattan Project, CNO cycle, quantum electrodynamics, arms control",
+      "is_seed": false,
+      "expand_score": 0.7949099540710449
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "summary": "**Title**: Soviet 212 Cruise Missile  \n\n**Summary**:  \nThe 212 was an early Soviet experimental cruise missile conceived in 1936 under Sergei Korolev, featuring a winged rocket launched from a catapult or TB-3 bomber. After repeated control-system failures and engine issues, including explosions with Glushko’s ORM-65, the missile—renamed 803—underwent four unsuccessful flight tests between 1936 and 1939. Korolev’s arrest in 1938 did not halt the program, but persistent guidance problems led to its cancellation in 1939.  \n\n**Keywords**:  \nSergei Korolev, 212 cruise missile, Soviet rocketry, 1930s aviation, ORM-65 engine",
+      "is_seed": false,
+      "expand_score": 0.7917732000350952
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "summary": "**Title**: Korolev’s Vostok Program\n\n**Summary**: Sergei Korolev led the Soviet Vostok program that achieved the first human spaceflight, launching Yuri Gagarin on 12 April 1961 after a series of precursor dog flights. Under intense political pressure from Khrushchev for rapid “firsts,” Korolev incrementally upgraded the single-seat Vostok into the three-cosmonaut Voskhod while simultaneously planning the Soyuz and N-1 Moon rocket. Revered as the anonymous “Chief Designer,” Korolev’s authority was absolute; he personally coordinated launches, selected cosmonauts, and negotiated with the Kremlin until his sudden 1966 death derailed Soviet lunar ambitions.\n\n**Keywords**: Vostok, Gagarin, Chief Designer, Space Race, Voskhod",
+      "is_seed": false,
+      "expand_score": 0.78590989112854
+    },
+    {
+      "community_key": "HotpotQA-validation-00005718/03_ISSpresso.html_2",
+      "summary": "**Title**: ISSpresso Space Coffee Machine  \n\n**Summary**:  \nISSpresso is the first espresso machine engineered for microgravity, a 20 kg steel-brewer developed by Argotec and Lavazza under Italian Space Agency sponsorship and NASA certification. Extensive safety-driven design—steel hydraulic lines rated to 400 bar, micro-switch leak prevention, capsule ejection piston—enabled astronauts to brew 30 ml espresso, tea or broth pouches using station potable-water interfaces. Four iterative prototypes (2-D, Elegance, Ground, Protoflight) were built and launch-qualified on SpaceX CRS-6; the flight unit operated on ISS from May 2015 to December 2017, letting Samantha Cristoforetti and later crews enjoy real espresso while scientists studied fluid dynamics and foam behavior in micro-g.  \n\n**Keywords**:  \nISSpresso, microgravity espresso, Argotec-Lavazza, space beverage system, fluid dynamics in space",
+      "is_seed": false,
+      "expand_score": 0.7815872430801392
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00002173/01_Blue-Origin.html_2",
+      "HotpotQA-validation-00002173/00_Corn-Ranch.html_0",
+      "HotpotQA-validation-00005554/03_ARCO.html_1",
+      "HotpotQA-validation-00003659/01_US-Route-80.html_9",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00002173/03_John-Christiansen.html_0",
+      "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_1",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00004506/03_Speedway-Motorsports.html_2",
+      "HotpotQA-validation-00002173/02_Drop-test.html_3",
+      "HotpotQA-validation-00000577/01_Thomas-Szasz.html_11",
+      "HotpotQA-validation-00003659/01_US-Route-80.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00002173/01_Blue-Origin.html_2",
+      "HotpotQA-validation-00002173/00_Corn-Ranch.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "HotpotQA-validation-00004849/02_Hans-Bethe.html_1",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "HotpotQA-validation-00005718/03_ISSpresso.html_2"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00002173/01_Blue-Origin.html_2",
+      "HotpotQA-validation-00002173/00_Corn-Ranch.html_0",
+      "HotpotQA-validation-00005554/03_ARCO.html_1",
+      "HotpotQA-validation-00003659/01_US-Route-80.html_9",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00002173/03_John-Christiansen.html_0",
+      "HotpotQA-validation-00005718/01_Samantha-Cristoforetti.html_1",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00004506/03_Speedway-Motorsports.html_2",
+      "HotpotQA-validation-00002173/02_Drop-test.html_3",
+      "HotpotQA-validation-00000577/01_Thomas-Szasz.html_11",
+      "HotpotQA-validation-00003659/01_US-Route-80.html_3",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "HotpotQA-validation-00004849/02_Hans-Bethe.html_1",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "HotpotQA-validation-00005718/03_ISSpresso.html_2"
+    ],
+    "allowed_chunk_pool_size": 88,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

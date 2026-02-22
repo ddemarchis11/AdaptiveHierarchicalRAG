@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "The evidence states: “'Twere time to be influenced, touched by a more mighty inspiration; long enough hast thou delayed; commence a greater task.”  \nThe figure that comes to the Poet is “a more mighty inspiration.”",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies 'Tragedy' as the figure that comes to the Poet, which is clearly supported by the retrieved context. The Model Answer incorrectly identifies 'a more mighty inspiration' as the figure, which is a misinterpretation of the context. While the phrase 'a more mighty inspiration' is mentioned, it does not directly answer the question about the figure or concept described as coming to the Poet. The Model Answer is partially grounded in the context but fails to align with the core truth of the Gold Answer and misses the key fact of 'Tragedy.'"
+  }
+}

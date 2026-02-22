@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002673",
+  "question": "What major city is John Bice Memorial Oval located within?",
+  "gold_answer": "City of Onkaparinga",
+  "llm_answer": "The major city that the John Bice Memorial Oval is located within is not explicitly stated in the provided evidence. However, it is mentioned that the oval is located within the suburb of Christies Beach, which is part of the City of Onkaparinga.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the City of Onkaparinga as the major city where John Bice Memorial Oval is located, consistent with the Gold Answer and supported by the Retrieved Context. It also provides additional clarification about the suburb of Christies Beach being part of the City of Onkaparinga, which is relevant and grounded in the context."
+  }
+}

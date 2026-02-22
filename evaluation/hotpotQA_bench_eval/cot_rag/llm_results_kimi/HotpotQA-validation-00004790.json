@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004790",
+  "question": "Who was the final champion of the Thailand Masters that was from Hong Kong?",
+  "gold_answer": "Marco Fu",
+  "llm_answer": "The final champion of the Thailand Masters who was from Hong Kong was Marco Fu.",
+  "context": [
+    {
+      "text": "Wing Ki Lai or Emma Lai (born March 14, 1988) is a Hong Kong cricketer who plays for Hong Kong women's national cricket team . She started learning to play cricket while working as a waitress at the Hong Kong Cricket Club . Just over a year after her first cricket lesson, she travelled to Kuwait as part of the Hong Kong squad, and a year later, she played in her first game for Hong Kong against Thailand. Lai is often described as the captain of the Hong Kong women's team, and she did captain Hong Kong to the final of the East Asia Women's T20 Championship, in which Hong Kong finished second to China. However, she has since reverted to being just a player. In the Women's Big Bash League Twenty20 competition's WBBL02 season in 2016–17, she was the Associate Rookie for Perth Scorchers . As of early 2017, Lai was a cricket officer for Cricket Hong Kong , running and planning coaching clinics, conducting demonstrations in schools and also doing some promotion. In May 2021, she was named in Bauhinia Stars' squad for the 2021 Hong Kong Women's Premier League. References External links Emma Lai at ESPNcricinfo",
+      "id": "HotpotQA-validation-00004790/02_Emma-Lai.html_c_0"
+    },
+    {
+      "text": "The Thailand Masters was a professional snooker tournament. Previously known as Asian Open and Thailand Open , it was a ranking tournament from 1989/90 to 2001/02. An event called the Thailand Masters also formed part of the World Series in 1991/92, with Steve Davis beating Stephen Hendry 6–3. The final champion was Marco Fu . History The Thailand Masters was first held in the 1983/1984 season . It was organised by Matchroom Sport as part of their World Series and sponsored by Camus, but was abandoned after 1986/1987 . The event returned to the calendar in 1989 under the Asian Open name and it became a ranking tournament. In its first three years under this name the event was sponsored by 555 and then by Nescafé in 1993. All events took place in Bangkok, Thailand, except in 1990, which was held in China. In the 1991/1992 season two events were held. The Thailand Masters was part of the World Series and the Asian Open was a ranking event. In 1993 Dave Harold became the lowest ranked player to win a ranking tournament. He was ranked world number 93, when he beat Darren Morgan 9–3. The event changed its name to Thailand Open in 1993/1994 . The event was held in Bangkok and remained there until the 2002/2003 season . It was sponsored by",
+      "id": "HotpotQA-validation-00004790/00_Thailand-Masters.html_c_0"
+    },
+    {
+      "text": "to Farakh Ajaib . He did not qualify for the subsequent 2022 British Open or the 2022 Northern Ireland Open , but was invited to compete as a local wildcard in the 2022 Hong Kong Masters , where he reached the final. In his semi-final match against John Higgins , he compiled his fifth maximum break in the deciding frame. At the end of the 2022-23 season, Fu was awarded a new two-year invitational tour card. During his 2025 World Championship second round qualifying match against Ben Mertens he became only the seventh player, and second in a world championship contest, to make a 16-red total clearance, compiling 139 after being awarded a free ball following a foul by his opponent in frame four. Having finished the 2024-25 season ranked outside the world's top-64 at number 70, Fu faced losing his place on the tour but was awarded a further two-year invitational card. Status and records Fu is a prolific break-builder, having made his 500th century break at the 2019 Scottish Open . He achieved a maximum break on five occasions, at the 2000 Scottish Masters , the qualifying stages for the 2012 World Open, the 2015 Masters, the 2015 Gibraltar Open and the 2022 Hong Kong Masters . Fu has also made a break of 148 after receiving a free ball in an exhibition match in 2020. He once held the record for",
+      "id": "HotpotQA-validation-00004790/01_Marco-Fu.html_c_19"
+    },
+    {
+      "text": "2014 edition of the Singapore Airlines International Cup but finished third behind Dan Excel and the French-trained Smoking Sun. 2014/2015: seven-year-old season Before the start of the 2014/2015 Hong Kong season, Military Attack was transferred to the table of Caspar Fownes . On his first appearance for his new trainer, Military Attack contested the Oriental Watch Sha Tin Trophy over one mile on 26 October. Starting a 13.5/1 outsider he won by a short head from Gold-Fun with Ambitious Dragon three quarters of a length away in third. The unplaced horses included Blazing Speed, Designs On Rome and California Memory. Assessment and honours On 7 July 2013, Military Attack was named Hong Kong Horse of the Year and Hong Kong Champion Middle-distance Horse at the Hong Kong Jockey Club Champion Awards . He also won the title of Hong Kong Most Popular Horse of the Year , winning a public poll with 53,986 votes from California Memory (21,686) and Ambitious Dragon (20,865). On 14 July 2013, Military was rated the seventh-best racehorse in the world in the World Thoroughbred Rankings and the best in the world over ten furlongs on turf. Pedigree References",
+      "id": "HotpotQA-validation-00004790/03_Military-Attack.html_c_5"
+    },
+    {
+      "text": "five-year-old season In the early part of the 2012/2013 season, Military Attack showed promise when finishing fourth to Ambitious Dragon over one mile and fifth to California Memory in the Hong Kong Cup . In early 2013 he recorded his first Group race win in the January Cup and was moved up in class and distance in February for the Group One Hong Kong Gold Cup over ten furlongs. Ridden by Zac Purton he won by two and a half lengths and a neck from Pure Champion and Xtension with the favourite California Memory unplaced. Military Attack's finishing speed was decisive, as he covered the last two furlong in 21.85 seconds. After winning the Group Three Premier Plate he was moved back up to Group One class for the Audemars Piguet Queen Elizabeth II Cup. With Purton riding Ambitious Dragon, Military Attack was partnered by the 22-year-old Australian Tommy Berry who had never ridden in Hong Kong before and started at odds of 10.5/1. The race attracted an international field, including Eishin Flash (winner of the Japanese Derby and Tenno Sho ) from Japan, Sajjhaa (winner of the Dubai Duty Free Stakes ) from Dubai and two runners from South Africa. Military Attack took the lead approaching the final furlong and drew away in the closing stages and won by one and three-quarter lengths from California Memory. On 19 May Military Attack was sent to Singapore to contest the",
+      "id": "HotpotQA-validation-00004790/03_Military-Attack.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- Thailand Masters final champion was Marco Fu (HotpotQA-validation-00004790/00_Thailand-Masters.html_c_0)\n- Marco Fu is from Hong Kong (HotpotQA-validation-00004790/01_Marco-Fu.html_c_19 implicitly, as he competed as local wildcard in 2022 Hong Kong Masters)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who was the final champion of the Thailand Masters that was from Hong Kong?",
+      "doc_ids": [
+        "HotpotQA-validation-00004790/02_Emma-Lai.html_c_0",
+        "HotpotQA-validation-00004790/00_Thailand-Masters.html_c_0",
+        "HotpotQA-validation-00004790/01_Marco-Fu.html_c_19",
+        "HotpotQA-validation-00004790/03_Military-Attack.html_c_5",
+        "HotpotQA-validation-00004790/03_Military-Attack.html_c_2"
+      ]
+    }
+  ]
+}

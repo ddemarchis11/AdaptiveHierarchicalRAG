@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006409",
+  "question": "WHAT WAS THE NAME OF THE BOOK MADE INTO THE 2015 SOUTH KOREAN CRIME THRILLER, THE DEAL, DIRECTED BY SON YONG-HO AND FEATURING SOUTH KOREAN ACTOR PARK SUNG-WOONG (BORN JANUARY 9, 1973) AS A SERIAL KILLER?",
+  "gold_answer": "\"Murder Request\"",
+  "llm_answer": "The name of the book made into the 2015 South Korean crime thriller, \"The Deal\", directed by Son Yong-ho and featuring South Korean actor Park Sung-woong as a serial killer, is not explicitly mentioned in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the name of the book is not mentioned in the context, whereas the context explicitly identifies the book as 'Murder Request'. This results in a failure in correctness, faithfulness, and evidence coverage."
+  }
+}

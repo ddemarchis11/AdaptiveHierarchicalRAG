@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9dc9d9b2",
+  "question": "Following his involvement in the Lower Canada Rebellion, where was Dr. Wolfred Nelson held as a prisoner by the British authorities?",
+  "gold_answer": "Wolfred Nelson was a prisoner in Montreal.",
+  "llm_answer": "Unfortunately, the provided text does not explicitly state where Dr. Wolfred Nelson was held as a prisoner by the British authorities. However, it does mention that he was one of the eight prisoners who were not sent to a convict colony, and that Lord Durham took care of them.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct location where Dr. Wolfred Nelson was held as a prisoner, which is Montreal, as stated in the Gold Answer. While the Model Answer is faithful to the retrieved context, it does not address the specific factual point required by the question and misses the key evidence entirely."
+  }
+}

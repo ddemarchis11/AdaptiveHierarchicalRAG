@@ -1,0 +1,12 @@
+{
+  "id": "Novel-45173331",
+  "question": "What might explain the shared interest of Senator Plumb and Robert Ingersoll in the Ivanhoe mine?",
+  "gold_answer": "Senator Plumb and Robert Ingersoll both had an interest in the Ivanhoe mine, which is located in the Black Range, part of the Mimbres Mountains.",
+  "llm_answer": "The evidence states only that Robert Ingersoll and Senator Plumb “were interested” in the Ivanhoe mine; it gives no information about why they shared that interest.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that the context mentions Robert Ingersoll and Senator Plumb were interested in the Ivanhoe mine but does not provide an explanation for their shared interest, which is the core of the User's Question. While the context does not explicitly explain their shared interest, the Gold Answer provides additional relevant information about the mine's location in the Black Range, which the Model Answer omits. Thus, the Model Answer is partially correct and faithful to the context but lacks full evidence coverage."
+  }
+}

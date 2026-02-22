@@ -1,0 +1,12 @@
+{
+  "id": "Novel-100048f7",
+  "question": "How is the character of Augustin involved in the sequence between Sir Tristram and The Dean’s family?",
+  "gold_answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean, The Dean is father of Sheba.",
+  "llm_answer": "Augustin is mentioned only once: Sir Tristram once “hauled Augustin out of the cart by his legs,” an act Georgiana recalls as proof of Tristram’s bravery. Beyond this single reference, the context gives no further information about Augustin or his connection to the Dean’s family.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the event where Sir Tristram hauled Augustin out of the cart by his legs, which is supported by the context. However, it fails to address the key facts from the Gold Answer, such as Augustin being also known as The Dean and being Sheba's father. While the Model Answer is faithful to the retrieved context, it does not fully cover the evidence required to answer the question comprehensively."
+  }
+}

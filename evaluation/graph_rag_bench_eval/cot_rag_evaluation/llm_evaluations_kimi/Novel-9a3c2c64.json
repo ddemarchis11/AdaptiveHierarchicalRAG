@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9a3c2c64",
+  "question": "How is the identity of the Dean established within the narrative, considering his role as the father of Sheba, his alternate name as Augustin, his interactions with Darbey, and the information he receives from Sir Tristram?",
+  "gold_answer": "The Dean is the father of Sheba, is also known as Augustin, sees Darbey, and is told information by Sir Tristram, establishing his identity and central role.",
+  "llm_answer": "The Dean’s identity is fixed by four converging facts:\n\n1. He is publicly addressed and referred to as “Dr. Jedd, the Dean of St. Marvells” (Novel-40700_c_138).  \n2. Sheba calls him “Papa” (Novel-40700_c_129), confirming he is her father.  \n3. Georgiana speaks of “making it all right with Augustin” (Novel-40700_c_38), showing the Dean’s alternate first name is Augustin.  \n4. Sir Tristram brings the chemist’s analysis directly to him (Novel-40700_c_129), underlining that the Dean is the authoritative figure who receives this information.\n\nThus, within the narrative the Dean is established as Dr. Augustin Jedd, Dean of St. Marvells, father of Sheba, and the recipient of Sir Tristram’s report.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Dean's identity through the four key aspects mentioned in the Gold Answer: his role as Sheba's father, his alternate name as Augustin, his interactions with Darbey, and the information he receives from Sir Tristram. All claims are supported by the retrieved context, and the Model Answer provides detailed evidence for each point, ensuring full coverage of the Gold Answer's facts."
+  }
+}

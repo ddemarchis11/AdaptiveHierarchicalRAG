@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000074",
+  "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
+  "gold_answer": "William Jefferson Clinton",
+  "llm_answer": "I cannot verify who the former Governor of Arkansas was that Robert Suettinger was the national intelligence officer under.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is William Jefferson Clinton. The retrieved context clearly supports this answer, as it mentions Suettinger's role during the Clinton administration. The Model Answer does not utilize the context effectively and does not cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b8bfac6a",
+  "question": "How did the French Canadians' loyalty to the British crown manifest in times of war?",
+  "gold_answer": "French Canadians were loyal to the British crown, which had loyalty from French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+  "llm_answer": "The French Canadians' loyalty to the British crown was evident in times of war, as seen in their heroic defense of Canada against the United States in the War of 1812, where Major de Salaberry and his French-Canadian soldiers played a crucial role in the victory.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly highlights the loyalty of French Canadians to the British crown during the War of 1812, specifically mentioning Major de Salaberry and his soldiers' contributions. However, it does not address the broader aspect of French Canadians fighting alongside English-speaking countrymen, as stated in the Gold Answer. While the retrieved context supports the claim about the War of 1812, the Model Answer misses the nuance of collaboration between French and English Canadians, which is central to the Gold Answer."
+  }
+}

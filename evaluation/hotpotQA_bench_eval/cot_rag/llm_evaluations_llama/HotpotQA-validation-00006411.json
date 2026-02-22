@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006411",
+  "question": "Are Waco Regional Airport and Idaho Falls Regional Airport both city owned airports?",
+  "gold_answer": "yes",
+  "llm_answer": "Based on the provided evidence, the answer to the question is:\n\nYes, both Waco Regional Airport and Idaho Falls Regional Airport are city-owned airports.\n\nFor Waco Regional Airport, the evidence states: \"Waco Regional Airport is an airport in Waco, McLennan County, Texas. It is owned by the City of Waco.\"\n\nFor Idaho Falls Regional Airport, there is no direct statement in the provided evidence that it is city-owned. However, it is mentioned that it is locally known as \"Fanning Field\" and that the National Plan of Integrated Airport Systems for 2011–2015 categorized it as a primary commercial service facility.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Waco Regional Airport as city-owned based on the context. However, it does not provide direct evidence from the retrieved context to confirm that Idaho Falls Regional Airport is city-owned, relying instead on indirect reasoning. This results in partial correctness and incomplete evidence coverage. Faithfulness is also partial due to the lack of explicit grounding for Idaho Falls Regional Airport's ownership."
+  }
+}

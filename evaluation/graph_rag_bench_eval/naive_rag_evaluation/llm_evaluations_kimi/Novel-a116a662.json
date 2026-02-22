@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a116a662",
+  "question": "When discussing her personal history aboard the ship to China, what did Mrs. Forrester claim about her national background during her conversation with Rudolph?",
+  "gold_answer": "Mrs. Forrester claimed to be more French than English.",
+  "llm_answer": "She claimed to be English.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Mrs. Forrester claimed to be English, which directly contradicts the Gold Answer that she claimed to be more French than English. Additionally, the retrieved context does not provide any evidence to support the Model Answer's claim, making it unfaithful and lacking evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5504201a",
+  "question": "According to the narrative in 'Impressions of Theophrastus Such', what is described as the relationship between Christ and the Jews, particularly with respect to Christ having 'the heart of a Jew' and his origins from the Israelites?",
+  "gold_answer": "Christ is described as having the heart of a Jew and as coming from the Israelites.",
+  "llm_answer": "According to the narrative in 'Impressions of Theophrastus Such', Christ is described as having 'the heart of a Jew'. This is evident from his words \"Go ye first to the lost sheep of the house of Israel\" (Matthew), which suggests that Christ's primary concern was for the Jewish people. Additionally, the Apostle Paul is quoted as saying \"For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises; whose are the fathers, and of whom as concerning the flesh Christ came\" (Romans 9:3-5). This passage emphasizes Christ's origins from the Israelites and his connection to the Jewish people.\n\nThe narrative also critiques the idea that Christianity disowns its origin and is a \"vaporous reflex of modern notions\", suggesting that Christ's teachings and heart were deeply rooted in Jewish tradition and culture.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Christ is described as having 'the heart of a Jew' and originating from the Israelites. It provides additional context and quotes from Matthew and Romans that are directly supported by the Retrieved Context, enhancing the explanation without deviating from the core truth. All key facts from the Gold Answer are included, and the claims are faithful to the context provided."
+  }
+}

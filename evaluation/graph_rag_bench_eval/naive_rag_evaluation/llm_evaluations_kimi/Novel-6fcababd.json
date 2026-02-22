@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6fcababd",
+  "question": "How is the harp’s presence in British history connected to David’s musical practices?",
+  "gold_answer": "David played the lyre and used to suspend the kinnor, which is rendered as harp and is in the Anglo-Saxon manuscript.",
+  "llm_answer": "The harp’s presence in British history is linked to David’s musical practices through the idea that the cithara, David’s favourite instrument, is considered the prototype of the British cithara (cithara Anglica).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially connects David's musical practices to the harp's presence in British history by mentioning the cithara and its relation to David. However, it does not explicitly mention the lyre or kinnor, which are central to the Gold Answer. Additionally, the claim about the British cithara (cithara Anglica) is not supported by the retrieved context, making the answer unfaithful to the provided evidence."
+  }
+}

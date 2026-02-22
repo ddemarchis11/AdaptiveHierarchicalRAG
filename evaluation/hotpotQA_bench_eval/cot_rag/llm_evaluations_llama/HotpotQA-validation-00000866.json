@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000866",
+  "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+  "gold_answer": "professional wrestler, actor, and hip hop musician",
+  "llm_answer": "The profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka is a rapper.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the profession as a rapper, which is supported by the context. However, it misses the additional professions of 'professional wrestler' and 'actor' mentioned in the Gold Answer. The context supports all three professions, so the answer is partially correct and faithful but lacks full evidence coverage."
+  }
+}

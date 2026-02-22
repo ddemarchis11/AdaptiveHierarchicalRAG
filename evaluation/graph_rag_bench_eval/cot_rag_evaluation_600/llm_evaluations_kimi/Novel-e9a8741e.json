@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e9a8741e",
+  "question": "With which organization did the Foreign Office make stipulations regarding the conditions and arrangements for overseas medical work during World War I?",
+  "gold_answer": "The Foreign Office made stipulations with the Scottish Women's Hospitals regarding work abroad.",
+  "llm_answer": "The Foreign Office made stipulations with Dr. Inglis.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the Foreign Office made stipulations with Dr. Inglis, which is supported by the context. However, it misses the specific mention of the Scottish Women's Hospitals, which is a key fact in the Gold Answer. While the context does confirm Dr. Inglis's involvement, the omission of the organization reduces evidence coverage and correctness."
+  }
+}

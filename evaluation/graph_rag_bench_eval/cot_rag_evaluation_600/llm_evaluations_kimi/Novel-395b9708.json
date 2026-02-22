@@ -1,0 +1,12 @@
+{
+  "id": "Novel-395b9708",
+  "question": "What was Earle S. Goodrich's involvement with the Pioneer and the Minnesotian?",
+  "gold_answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+  "llm_answer": "Earle S. Goodrich, as editor of the Pioneer, learned that the Minnesotian was secretly obtaining early copies of his paper. In response, he arranged to have several copies of the Pioneer printed containing several columns of fabricated telegraph dispatches. These fake issues were then allowed to reach the Minnesotian, which reprinted the bogus news and distributed it to the city before discovering the hoax.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Earle S. Goodrich's involvement with the Pioneer and the Minnesotian, detailing his role as editor and his preparation of a joke involving fabricated telegraph dispatches. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which describes the hoax and its execution. All key facts from the Gold Answer are included."
+  }
+}

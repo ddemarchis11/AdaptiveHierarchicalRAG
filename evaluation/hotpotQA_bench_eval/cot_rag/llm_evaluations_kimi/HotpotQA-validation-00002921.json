@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002921",
+  "question": "What kind of company is this group whose headquarters are in AIA Central?",
+  "gold_answer": "pan-Asian life insurance group",
+  "llm_answer": "AIA Group is a Hong Kong–based multinational insurance and finance corporation; it is the largest publicly traded life-insurance group in the Asia-Pacific region, offering life, accident and health insurance, retirement planning, wealth management, and investment services.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies AIA Group as a multinational insurance and finance corporation headquartered in Hong Kong, and specifies its status as the largest publicly traded life insurance group in the Asia-Pacific region. It also provides additional relevant details about the services offered by AIA, which are supported by the retrieved context. The core meaning of the Gold Answer is fully contained, and the additional information enhances the response without contradicting the context."
+  }
+}

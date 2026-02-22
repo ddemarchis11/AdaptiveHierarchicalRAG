@@ -1,0 +1,12 @@
+{
+  "id": "Novel-549bea73",
+  "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+  "gold_answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+  "llm_answer": "The government neglecting its wards in Minnesota refers to the delay in paying the Indians' annuities, which were payable in gold. The government officers had been taxed to their utmost to provide funds for the prosecution of the war, and it seemed as though they had neglected their wards in Minnesota. The Indians were told that on account of the great war in which the government was engaged, the payment would never be made.\n\nThis neglect led to the Indian protests, as many of the Indians who had gathered about the agencies were out of money and their families were suffering. The Indians were also told that the government did not have the gold to pay them with, which further exacerbated their frustration and anger. This situation, combined with the influence of Maj. Galbraith's company going South and the perceived opportunity to reclaim their land, ultimately led to the outbreak of hostilities against the whites.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the connection between the government's neglect and the Indian protests, elaborating on the delay in annuity payments, the suffering of the Indians, and the broader context of the Civil War. All claims are supported by the retrieved context, and the key facts from the Gold Answer are included, with additional relevant details provided."
+  }
+}

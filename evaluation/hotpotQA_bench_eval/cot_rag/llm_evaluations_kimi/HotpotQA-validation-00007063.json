@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007063",
+  "question": "The university where Rolf Martin Theodor Dahlgren worked as a professor has how many employees?",
+  "gold_answer": "9,000",
+  "llm_answer": "The provided evidence does not state how many employees the University of Copenhagen has.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the number of employees at the University of Copenhagen. However, it fails to answer the question using external knowledge, which is necessary to provide the correct answer of 9,000 employees. The answer is faithful to the context but does not cover the key fact from the Gold Answer."
+  }
+}

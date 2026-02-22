@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000695",
+  "question": "At the 46th Grammy Awards, which award did the album by The White Stripes, which included the song Seven Nation Army, win?",
+  "gold_answer": "Best Alternative Music Album",
+  "llm_answer": "The album *Elephant* by The White Stripes won the Grammy Award for **Best Alternative Music Album** at the 46th Annual Grammy Awards.",
+  "context": [
+    {
+      "text": "song\" than the band's 2002 single \" Fell in Love with a Girl \". Phares found \"Seven Nation Army\" to \"deliver some of the fiercest blues-punk\" of any song by the White Stripes. \"Seven Nation Army\" won the Grammy Award for Best Rock Song at the 46th Annual Grammy Awards in addition to being nominated for Best Rock Performance by a Duo or Group with Vocal . In 2003, it was ranked number three on Pazz & Jop based on music critics' votes, and listed as the number-one song of the year on the 2003 KROQ Top 106.7 . Consequence of Sound , Paste and Stereogum all named \"Seven Nation Army\" as the White Stripes' best song. Critics ranked \"Seven Nation Army\" among the best tracks of the 2000s decade; it appeared on NME ' s, Rolling Stone ' s, WFNX 's, and Pitchfork ' s retrospective lists, and it was placed at number one on Consequence of Sound ' s \"Top 50 Songs of the Decade\". Commercial performance On March 8, 2003, \"Seven Nation Army\" debuted at number 27 on the Billboard Modern Rock chart; on July 26, it peaked at number one, a position it maintained for three weeks. In late 2023, for the chart's 35th anniversary, Billboard ranked the song as the 80th",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_7"
+    },
+    {
+      "text": "\" Seven Nation Army \" is a song by American rock duo the White Stripes , released by V2 Records and XL Recordings on February 17, 2003. The opening track and lead single from their fourth studio album, Elephant (2003), \"Seven Nation Army\" was written and produced by Jack White , and was composed by the band. The song consists of distorted vocals, a simple drumbeat, and a bass line created by playing a guitar through a pitch shift effect. \"Seven Nation Army\" peaked at 76 on the US Billboard Hot 100 , which is the band's first entry on the chart; it also charted in multiple countries and received several platinum certifications . The song received widespread acclaim from critics, who praised its distinctive riff and drumbeat. It won Best Rock Song at the 46th Annual Grammy Awards , and a music video for the song directed by Alex and Martin won Best Editing in a Video at the 2003 MTV Video Music Awards . The success of \"Seven Nation Army\" contributed to the garage rock revival , and the song has ranked on several professional listicles of the best songs of all time, including Rolling Stone 's \" 500 Greatest Songs of All Time \" at No. 36. \"Seven Nation Army\" has experienced increased commercial success, largely credited to its \"ubiquitous\" sound and usage in sports. It commonly appears in audience chants in which a series of \"oh\" sounds or the name of an athlete is",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_0"
+    },
+    {
+      "text": "album of 2003 by Loudwire , NME , and Spin . It also placed highly in other end-of-year lists, including The Village Voice 's \" Pazz & Jop \" poll and The Guardian 's roundup. The record netted the band their first Grammy Awards at the 2004 ceremony , winning the Best Alternative Music Album and Best Rock Song (\"Seven Nation Army\") awards, in addition to the band's only nomination for the Album of the Year award. It also won Best International Album at the 2004 Meteor Music Awards , and was nominated for Best Album at the 2003 MTV Europe Music Awards , International Album at the 2004 Brit Awards , and Best Album at the 2004 Shockwaves NME Awards . Commercial performance Elephant entered the Billboard 200 at number six after first week sales of 126,000 units and spent 58 weeks on the chart, the longest of any White Stripes album. It was certified platinum in the United States in September 2003, and ended the year at number 57 on the Billboard 200. That same month, it received a platinum certification in Canada. In the UK, the album topped the UK Albums Chart and spent 55 weeks on the chart. It was certified double platinum in October 2003 and finished the year at number 22 on the UK Albums Chart. In October 2009, Elephant was certified double platinum in Australia. In March 2023, ahead of the album's",
+      "id": "HotpotQA-validation-00000695/01_Elephant-album.html_c_9"
+    },
+    {
+      "text": "the White Stripes. According to Jack, the song tells the story of a person who, upon entering a town, hears its residents gossiping about him and proceeds to leave the town in response. Driven by a sense of loneliness, he ultimately returns. Regarding the song's meaning, Jack stated, \"The song's about gossip. It's about me, Meg and the people we're dating.\" Maginnis described the lyrics as presenting an \"obstinate attitude\", citing the first verse: \"I'm gonna fight 'em off / A seven nation army couldn't hold me back / They're gonna rip it off / Taking their time right behind my back\". In regards to the line \"I'm going to Wichita / Far from this opera forevermore\", Jack said he has never visited the city, but was using it as metaphor and getting himself into character for the song with the lyric. Release Jack's idea of releasing \"Seven Nation Army\" as a single faced opposition from the White Stripes' record label, XL Recordings, which wanted to release the song \" There's No Home for You Here \" instead. Jack persuaded the label to release \"Seven Nation Army\", and in 2003 it was released as a promotional single alongside Elephant track \" In the Cold, Cold Night \". It was subsequently released in 2013 as a 7-inch vinyl single and a CD single; the former included a cover of \"Good to Me\"—written by Brendan Benson and Jason Falkner",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_4"
+    },
+    {
+      "text": "in a medley with \" Bad Romance \", \" Tainted Love \", \" Toxic \", and \" Sweet Dreams (Are Made of This) \". During Twenty One Pilots ' The Bandito Tour , the musical duo would sometimes perform the song as a mashup with one of their own songs, \" Morph \". They also performed the song at the 2025 Rock and Roll Hall of Fame Ceremony in honor of The White Stripes' induction. Notes References External links Wikiquote has quotations related to Elephant . White Stripes.net . Retrieved April 14, 2017. White Stripes.net FAQ Retrieved April 14, 2017. The White Stripes \"Seven Nation Army\" music video on YouTube Ben l'Oncle Soul \"Seven Nation Army\" music video on YouTube Marcus Collins \"Seven Nation Army\" music video on YouTube",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_21"
+    }
+  ],
+  "cot_scratchpad": "- \"Seven Nation Army\" appears on the album \"Elephant\" (Novel-01_Elephant-album.html_c_9)\n- At the 46th Grammys, \"Seven Nation Army\" won Best Rock Song (Novel-00_Seven-Nation-Army.html_c_0)\n- \"Elephant\" won two awards at the 2004 Grammys, including Best Alternative Music Album (Novel-01_Elephant-album.html_c_9)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "At the 46th Grammy Awards, which award did the album by The White Stripes, which included the song Seven Nation Army, win?",
+      "doc_ids": [
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_7",
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_0",
+        "HotpotQA-validation-00000695/01_Elephant-album.html_c_9",
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_4",
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_21"
+      ]
+    }
+  ]
+}

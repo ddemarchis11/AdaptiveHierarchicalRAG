@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfb9683e",
+  "question": "Which educational book includes a dedicated section on the topic of TOBACCO as part of its contents?",
+  "gold_answer": "TOBACCO is included as part of the CHILD'S HEALTH PRIMER.",
+  "llm_answer": "The educational book that includes a dedicated section on the topic of TOBACCO as part of its contents is:\n\n\"Hygiene for Young People\" (For Intermediate Classes)\n\nThe contents of the book are listed as follows:\n\nI.--JOINTS AND BONES\nII.--MUSCLES\nIII.--NERVES\nIV.--WHAT IS ALCOHOL?\nV.--BEER\nVI.--DISTILLING\nVII.--ALCOHOL\nVIII.--TOBACCO\n\nThis indicates that the book has a dedicated section on the topic of TOBACCO, specifically Chapter VIII.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'Hygiene for Young People' as the book containing a section on TOBACCO, whereas the Gold Answer specifies 'Child's Health Primer.' The Retrieved Context supports the Gold Answer, showing that TOBACCO is part of the contents of 'Child's Health Primer,' not 'Hygiene for Young People.' The Model Answer is neither correct nor faithful to the context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001938",
+  "question": "In what year was the British actress who starred in a film adaptation of a series of eight children's books written by P. L. Travers born?",
+  "gold_answer": "9 November 1955",
+  "llm_answer": "I cannot verify the birth year of the British actress who starred in a film adaptation of a series of eight children's books written by P. L. Travers.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct birth year of the actress, which is 9 November 1955 as stated in the Gold Answer. Additionally, the retrieved context contains relevant information about Karen Dotrice, who starred in the film adaptation of P. L. Travers' books, but the model does not utilize this context to answer the question. Therefore, the answer is incorrect, ungrounded, and does not cover the necessary evidence."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bb448a1f",
+  "question": "In the scene where an ill-looking man enters Toto's cottage and searches the kitchen, what objects did the man open while looking for valuables?",
+  "gold_answer": "Boxes",
+  "llm_answer": "I cannot find any information about an ill-looking man entering Toto's cottage and searching the kitchen.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide the correct information about the objects opened by the ill-looking man. It also does not utilize the retrieved context effectively, and the Gold Answer ('Boxes') is entirely missed."
+  }
+}

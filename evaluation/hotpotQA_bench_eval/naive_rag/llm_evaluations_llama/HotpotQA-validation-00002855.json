@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002855",
+  "question": "What is the Latin phrase that describes Pope Julius II's efforts to remove Pope Alexander VI's name from the records?",
+  "gold_answer": "Damnatio memoriae",
+  "llm_answer": "I cannot verify the Latin phrase that describes Pope Julius II's efforts to remove Pope Alexander VI's name from the records.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct Latin phrase 'Damnatio memoriae' as described in the Gold Answer. Additionally, the Retrieved Context does not contain information relevant to answering the question, and the Model Answer does not attempt to use external knowledge to address the query."
+  }
+}

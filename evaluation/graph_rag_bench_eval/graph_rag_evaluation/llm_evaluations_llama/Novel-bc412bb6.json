@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bc412bb6",
+  "question": "According to the mythological events described in the text, who became the wife of the river-god Tiber?",
+  "gold_answer": "Tiber",
+  "llm_answer": "I cannot find any information in the provided context about the mythological events of the river-god Tiber.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about the mythological events involving the river-god Tiber or his wife. However, it fails to answer the question using internal knowledge or provide the Gold Answer ('Tiber'), resulting in a score of 0 for correctness and evidence coverage. The faithfulness score is high because the model does not make unsupported claims."
+  }
+}

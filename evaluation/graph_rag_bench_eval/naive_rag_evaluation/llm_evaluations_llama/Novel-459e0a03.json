@@ -1,0 +1,12 @@
+{
+  "id": "Novel-459e0a03",
+  "question": "Throughout the play 'Dandy Dick', by what other names is THE DEAN, who is also referred to as Augustin and Gus, known by the characters?",
+  "gold_answer": "THE DEAN is also known as Augustin and Gus.",
+  "llm_answer": "In the play 'Dandy Dick', THE DEAN is also referred to by the following names:\n\n1. Augustin (THE DEAN's full name)\n2. Gus (a shortened version of Augustin)\n3. John Cox (a pseudonym used by THE DEAN when he writes a book on horse ailments)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Augustin' and 'Gus' as names for THE DEAN, which aligns with the Gold Answer. However, the claim that THE DEAN is referred to as 'John Cox' is unsupported by the retrieved context, where 'John Cox' is mentioned as the author of a book, not as a pseudonym for THE DEAN. This reduces both faithfulness and evidence coverage."
+  }
+}

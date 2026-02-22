@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005060",
+  "question": "What is the birthplace of YouTube's 2016 overview featured creator Wengie?",
+  "gold_answer": "Guangzhou, China",
+  "llm_answer": "The evidence does not specify Wengie’s birthplace.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify Wengie's birthplace, which is incorrect as the context mentions she is Chinese-Australian and her Chinese name, Wenjie, implying her birthplace is Guangzhou, China. The Model Answer fails to provide the correct information and does not align with the Gold Answer."
+  }
+}

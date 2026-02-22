@@ -1,0 +1,12 @@
+{
+  "id": "Novel-23dbbe8f",
+  "question": "After bringing his family home from India during the time of crisis, to whom did Mr. Inglis return to take his place beside while serving in India?",
+  "gold_answer": "Mr. Inglis returned to take his place beside John Lawrence.",
+  "llm_answer": "To whom did Mr. Inglis return to take his place beside while serving in India?\n\nMr. Inglis returned to take his place beside John Lawrence.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Mr. Inglis returned to take his place beside John Lawrence, which is consistent with the Gold Answer and fully supported by the Retrieved Context. The answer is concise and directly addresses the question without adding irrelevant or unsupported details."
+  }
+}

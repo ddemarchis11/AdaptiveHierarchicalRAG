@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002515",
+  "question": "Which Canadian artist is credited with first coming up with the title of Various Positions?",
+  "gold_answer": "Leonard Cohen",
+  "llm_answer": "The evidence does not name any Canadian artist as the originator of the title “Various Positions.”",
+  "context": [
+    {
+      "text": "Various Positions is a 2002 film directed by Ori Kowarsky and starring Carly Pope and Tygh Runyan . Various Positions won the 2002 Prix de Montréal at the Montreal World Film Festival . Although the film takes its title from an album by (and Ira Nadel 's biography of) Leonard Cohen , the subject of the film is not Cohen, nor does he have any affiliation with the work. Synopsis In this briskly-paced romantic drama, college student Josh is on track for law school and a place at his father's firm. As his Orthodox Jewish family prepares for their traditional Passover celebrations, Josh hits a brick wall in the form of the alluring and troubled - and not quite Jewish - Cheryth. As things heat up at the dorm and at home, Josh is suddenly questioning his faith, his father and his future. Even worse, Josh is caught in the middle as his father moves to cover up a scandal involving the Jewish cemetery, forcing Josh to take a stand for what he believes is right. Passion and new love collide with family values and the demands of tradition as Josh, Cheryth, and Josh's family find themselves questioning their lives. Love and loyalty look a lot different when examined from various positions. In the end, Josh follows a road of his own choosing and it leads to a future of his own making. References External links Various Positions Various Positions at IMDb v t e",
+      "id": "HotpotQA-validation-00002515/00_Various-Positions-film.html_c_0"
+    },
+    {
+      "text": "the first and only time in the entertainer's career), Ciara , who also appeared on the cover numerous times and rap legend Tupac Shakur 's famous cover story in which he reveals important details about his non-fatal 1994 NYC shooting (two years before his death in Las Vegas, Nevada). Electro - rapper Kesha became the first white female artist to appear on the cover as a solo act in October 2012. Content Featured segments included the back page list \"20 Questions\"', the Boomshots column about reggae and Caribbean music by Rob Kenner; \"Revolutions\" music reviews; \"Vibe Confidential\", a celebrity gossip column; and \"Next\", which profiled up-and-coming artists. The magazine also devoted several pages to photo spreads displaying high-end designer clothing as well as sportswear by urban labels such as Rocawear and Fubu . Vibe made a consistent effort to feature models of all ethnicities in these pages. Former editor Emil Wilbikin was frequently credited with styling those pages and keeping fashion in the forefront of the magazine's identity during the early 2000s. Many clothing brands created or linked to hip hop celebrities, such as Sean Combs ' Sean John , Nelly's Apple Bottoms , and G-Unit by 50 Cent found plenty of exposure in Vibe ' s pages. In the September 2003 issue commemorating ten years of publication, the magazine created different covers using black and white portraits",
+      "id": "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_3"
+    },
+    {
+      "text": "When You Can Fly is the second studio album by Canadian country music artist Victoria Banks and her first album with record label distribution, which earned Banks a 2010 Canadian Indie Award nomination and six nominations at the 2009 Canadian Country Music Awards including Album of the Year, Single of the Year (\"The Wheel\"), Songwriter of the Year (\"The Wheel\"), Female Artist of the Year and Rising Star. The album was self-produced by Banks, also earning her a nomination for Producer of the Year. It was released on April 14, 2009 by On Ramp Records/EMI Canada. The album's first single, \"The Wheel\", earned a 2010 Canadian Radio Music Award nomination. Subsequent singles included \"When You Can Fly\", \"Kiss Me\", \"This Old Halo\" and \"Don't Leave the Leavin'\". Music videos for \"The Wheel\" and \"When You Can Fly\" received airplay on CMT Canada . Track listing References v t e",
+      "id": "HotpotQA-validation-00004131/02_When-You-Can-Fly.html_c_0"
+    },
+    {
+      "text": "swimming, the broad front paws do the paddling, while the hind legs play a role in steering and diving. Mother bear and cubs sleeping Most polar bears are active year-round. Hibernation occurs only among pregnant females. Non-hibernating bears typically have a normal 24-hour cycle even during days of all darkness or all sunlight , though cycles less than a day are more common during the former. The species is generally diurnal , being most active early in the day. Polar bears sleep close to eight hours a day on average. They will sleep in various positions, including curled up, sitting up, lying on one side, on the back with limbs spread, or on the belly with the rump elevated. On sea ice, polar bears snooze at pressure ridges where they dig on the sheltered side and lie down. After a snowstorm, a bear may rest under the snow for hours or days. On land, the bears may dig a resting spot on gravel or sand beaches. They will also sleep on rocky outcrops. In mountainous areas on the coast, mothers and subadults will sleep on slopes where they can better spot another bear coming. Adult males are less at risk from other bears and can sleep nearly anywhere. Social life Young bears play-fighting Polar bears are typically solitary, aside from mothers with cubs and mating pairs. On land, they are found closer together and gather around food resources. Adult males, in particular, are more tolerant",
+      "id": "HotpotQA-validation-00000847/02_Polar-bear.html_c_13"
+    },
+    {
+      "text": "Jang Hyun-seung ( Korean : 장현승 ; born September 3, 1989) most often credited as Hyunseung , is a South Korean singer. He is best known as a former member of the boy group Beast . With Beast, he has released singles and albums in both Korean and Japanese. Beast won the Artist of the Year (Daesang) award at the Melon Music Awards in 2011. Hyunseung was also one half of the duo Trouble Maker with former Cube label mate, Hyuna . In December 2011, the duo released their debut extended play with the lead single, \" Trouble Maker .\" In October 2013, the duo released their second extended play, Chemistry where the title track \"Now\" is the first highest score ever recorded on music show Inkigayo , maxing out at 11,000 points. Career Pre-debut In 2004, at the age of 15, Hyunseung took part in auditions for YG Entertainment . He was eliminated in the second round, but went to see CEO Yang Hyun-suk afterwards out of frustration at being eliminated and was accepted as a trainee. For a year and four months, Hyunseung trained to debut as part of the boy group Big Bang . During this time, he used the stage name \"So-1,\" a homonym for the Korean word for wish. He first gained media attention when he",
+      "id": "HotpotQA-validation-00006147/01_Jang-Hyun-seung.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Various Positions is an album by Leonard Cohen (HotpotQA-validation-00002515/00_Various-Positions-film.html_c_0)\n- Cohen is the Canadian artist credited with the title, per Ira Nadel's biography (HotpotQA-validation-00002515/00_Various-Positions-film.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which Canadian artist is credited with first coming up with the title of Various Positions?",
+      "doc_ids": [
+        "HotpotQA-validation-00002515/00_Various-Positions-film.html_c_0",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_3",
+        "HotpotQA-validation-00004131/02_When-You-Can-Fly.html_c_0",
+        "HotpotQA-validation-00000847/02_Polar-bear.html_c_13",
+        "HotpotQA-validation-00006147/01_Jang-Hyun-seung.html_c_0"
+      ]
+    }
+  ]
+}

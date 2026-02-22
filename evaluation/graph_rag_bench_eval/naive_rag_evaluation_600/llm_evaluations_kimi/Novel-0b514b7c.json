@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0b514b7c",
+  "question": "In which state did Asaph Hall undergo baptism, reflecting a significant personal event during his time in the Midwest?",
+  "gold_answer": "Asaph Hall was baptized in Ohio.",
+  "llm_answer": "Asaph Hall was baptized in Wisconsin.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Asaph Hall was baptized in Wisconsin, which contradicts the Gold Answer that specifies Ohio. Additionally, the retrieved context does not provide any information about Asaph Hall's baptism or its location, making the claim unsupported and incorrect."
+  }
+}

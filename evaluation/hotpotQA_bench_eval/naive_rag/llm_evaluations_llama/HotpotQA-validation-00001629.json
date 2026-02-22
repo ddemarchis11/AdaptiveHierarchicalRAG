@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001629",
+  "question": "Who was born first, Sathish Kalathil or Jacques Feyder?",
+  "gold_answer": "Jacques Feyder",
+  "llm_answer": "I cannot verify who was born first, Sathish Kalathil or Jacques Feyder.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is that Jacques Feyder was born first. The retrieved context contains Jacques Feyder's birth year (1885), but the model does not utilize this information to answer the question. Additionally, the model's claim that it cannot verify the answer is incorrect, as the context provides sufficient information to determine the answer."
+  }
+}

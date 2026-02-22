@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21fb6323",
+  "question": "In the years following the British conquest of Canada, how did the British government treat the French language in official matters, particularly regarding its use in law-courts and its status relative to English?",
+  "gold_answer": "The French language was placed on a level with the English language, and the British government made no objection to the use of French in law-courts.",
+  "llm_answer": "The British government raised no objection to the use of French in the law-courts, and when the first parliament met in 1792 the French members successfully pressed for French to be placed on an equal official footing with English.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the British government did not object to the use of French in law-courts and adds the detail about the first parliament in 1792, where French members advocated for equal status with English. This additional information is relevant, supported by the context, and consistent with the Gold Answer. All key facts from the Gold Answer are included."
+  }
+}

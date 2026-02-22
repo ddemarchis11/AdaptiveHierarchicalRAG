@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0386999c",
+  "question": "From where were dates brought, according to the trade and agricultural accounts in the narrative?",
+  "gold_answer": "Dates were brought from Nefta and the surrounding districts.",
+  "llm_answer": "According to the trade and agricultural accounts in the narrative, dates were brought from the Jereed.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that dates were brought from the Jereed, which is not supported by the retrieved context or the Gold Answer. The Gold Answer specifies that dates were brought from Nefta and the surrounding districts, and this information is not reflected in the Model Answer. Additionally, the retrieved context does not provide evidence to support the claim about the Jereed."
+  }
+}

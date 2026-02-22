@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5f5a35d2",
+  "question": "With which stringed instrument is the fiddle-bow used to produce sound during musical performances?",
+  "gold_answer": "The fiddle is played with a fiddle-bow.",
+  "llm_answer": "The fiddle-bow is used with the _rotta_ to produce sound during musical performances.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the fiddle-bow is used with the _rotta_, which is not supported by the context or the Gold Answer. The Gold Answer specifies the fiddle as the instrument played with a fiddle-bow, and the context does not provide evidence linking the fiddle-bow to the _rotta_. Therefore, the Model Answer is incorrect, unfaithful to the context, and does not cover the key fact from the Gold Answer."
+  }
+}

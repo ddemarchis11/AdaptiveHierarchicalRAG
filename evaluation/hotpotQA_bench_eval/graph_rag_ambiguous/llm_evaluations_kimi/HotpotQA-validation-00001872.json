@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001872",
+  "question": "What is the standard distance in kilometres of the race in which a German long-distance runner set her personal best time?",
+  "gold_answer": "42.195",
+  "llm_answer": "The context states that Sabrina Mockenhaupt’s marathon personal best is 2:26:21, set at the 2010 Berlin Marathon, and that the marathon distance is 42.195 km.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the standard marathon distance as 42.195 km, which aligns with the Gold Answer. This information is supported by the retrieved context, which mentions Sabrina Mockenhaupt's marathon achievements and her personal best time. The Model Answer also provides relevant additional context about her personal best, which is accurate and grounded."
+  }
+}

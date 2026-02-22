@@ -1,0 +1,12 @@
+{
+  "id": "Novel-83eb6b6b",
+  "question": "Why are Cole Conway and Steve Sharp considered important figures in the novel's narrative, and what roles did they play together, particularly regarding their professions and activities such as playing cards?",
+  "gold_answer": "Cole Conway was an engineer who was in company with Steve Sharp, a pilot, and they played cards together.",
+  "llm_answer": "Cole Conway (formerly Cousin Cæsar) and Steve Sharp are important because they form a gambling partnership in Paducah, Kentucky, where they operate under the alias “in the game.” Together they play cards in saloons, and Sharp’s real name is revealed to be Steve Brindle, making their shared profession as card-sharpers central to their narrative roles.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Cole Conway and Steve Sharp as partners involved in playing cards, which aligns with the Gold Answer. However, it introduces additional details about gambling and aliases that are partially supported by the context but not explicitly stated as their profession or primary activity. The context does mention card playing and a gambling scenario, but the claim that their shared profession is 'card-sharpers' is not fully grounded. Additionally, the Gold Answer's concise mention of their roles as engineer and pilot is omitted, reducing evidence coverage."
+  }
+}

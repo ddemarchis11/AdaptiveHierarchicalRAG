@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00006035",
+  "question": "Are the writing from Maurice Level and Alice Hoffman focused on different audieces?",
+  "gold_answer": "yes",
+  "llm_answer": "Based on the provided evidence, it appears that the writing of Maurice Level and Alice Hoffman is focused on different audiences.\n\nMaurice Level's writing is described as \"short stories of the macabre\" and \"melodramatic productions which emphasized blood and gore.\" His works were regularly printed in Paris newspapers and sometimes staged by le Théâtre du Grand-Guignol, a repertory company in Paris's Pigalle district. His stories were also translated into American newspapers and published in pulp magazines such as Weird Tales. This suggests that Level's writing was geared towards a more sensational and horror-focused audience.\n\nIn contrast, Alice Hoffman's writing is described as \"magic realism\" and \"containing elements of magic, irony, and non-standard romances and relationships.\" Her works have been adapted into films and have spawned a media franchise, indicating a more mainstream and popular audience. Her writing style and genre suggest that she is targeting a broader and more general audience, rather than a specific niche audience like Level's horror-focused audience.\n\nTherefore, it can be concluded that the writing of Maurice Level and Alice Hoffman is focused on different audiences, with Level's writing geared towards a more sensational and horror-focused audience, and Hoffman's writing targeting a broader and more general audience.",
+  "context": [
+    {
+      "text": "Alice Hoffman (born March 16, 1952) is an American novelist and young-adult and children's writer , best known for her 1995 novel Practical Magic , which was adapted for a 1998 film of the same name and went to spawn a media franchise. Many of her works fall into the genre of magic realism and contain elements of magic , irony , and non-standard romances and relationships. Early life and education Alice Hoffman was born in New York City and raised on Long Island , New York . Her grandmother was a Russian-Jewish immigrant. She graduated from Valley Stream North High School in 1969, and then from Adelphi University with a Bachelor of Arts . She was a Mirrielees Fellow at the Stanford University Creative Writing Center in 1973 and 1974, where she earned a Master of Arts in Creative Writing . Career When Hoffman was twenty-one and studying at Stanford, her first short story, \"At the Drive-In\", was published in Volume 3 of the literary magazine Fiction . Editor Ted Solotaroff contacted her, and asked whether she had a novel. At that point, she began writing her first novel, Property Of . It was published in 1977, by Farrar, Straus and Giroux , now a division of Macmillan Publishers . A section of Property Of was published in Solotaroff's literary magazine, American Review . Hoffman's first job was at Doubleday , which later published two",
+      "id": "HotpotQA-validation-00006035/01_Alice-Hoffman.html_c_0"
+    },
+    {
+      "text": "Magic 2 (2026) (from novel The Book of Magic ) References External links Children and Young Adult Literature portal Wikiquote has quotations related to Alice Hoffman . Alice Hoffman's website Alice Hoffman at IMDb Alice Hoffman at the Internet Speculative Fiction Database Jewish Women's Archive page Radio Interview on WFMT's Writers on the Record with Victoria Lautman",
+      "id": "HotpotQA-validation-00006035/01_Alice-Hoffman.html_c_4"
+    },
+    {
+      "text": "in various newspapers or magazines in England or in the USA, such as Pan (London), or in the well-known pulp magazine Weird Tales . H. P. Lovecraft observed of Level's fiction in his essay Supernatural Horror in Literature (1927): \"This type, however, is less a part of the weird tradition than a class peculiar to itself — the so-called conte cruel , in which the wrenching of the emotions is accomplished through dramatic tantalizations, frustrations and gruesome physical horrors\". Critic Philippe Gontier wrote: \"We can only admire, now almost one hundred years later, the great artistry with which Maurice Level fabricated his plots, with what care he fashioned all the details of their unfolding and how with a master's hand he managed the building of suspense\". Thanks to Lovecraft, Maurice Level has been recognized in the United States and also in Japan as a minor master of the horrible, when he was forgotten in his own country, France during the major part of the 20th century. He was still in print in both these countries in the years 2000. Since 2017, various new editions of his works have been reissued in France, with new critical material. Selected works in French L'épouvante: Roman (1908) novel, translated as Terror (newspaper serial, US, 1908–09) The Grip of Fear (UK, 1909; US, 1911) Les Portes de",
+      "id": "HotpotQA-validation-00006035/00_Maurice-Level.html_c_1"
+    },
+    {
+      "text": "Crises: Tales of Mystery and Horror (UK, 1920) 26 short stories translated by Alys Eyre Macklin a.k.a. Tales of Mystery and Horror (US, 1920) a.k.a. Grand Guignol Stories (UK, 1922) Those Who Return (1923) translated by Bérengère Drillien Stories of Fear and Fascination: The Fiction of Maurice Level (2007) edited by John Robert Colombo with appreciations by Philippe Gontier, Battered Silicon Dispatch Box . Thirty Hours with a Corpse, And Other Tales of the Grand Guignol (2016) edited and introduced by S.T. Joshi. (Dover Publications, 2016) Crises, vol. 1: Tales of Mystery and Horror and Ten Other Uncollected Short Stories, Bordeaux, Mad Sheep, 2017, 232 p. ( ISBN 978-2-36183-479-1 ), with afterword \"Alys Eyre Macklin, Maurice Level's English Friend and Translator\" by Jean-Luc Buard. New enlarged and illustrated edition of 1920 collection Notes External links Works by Maurice Level at Project Gutenberg Works by or about Maurice Level at the Internet Archive Works by Maurice Level at LibriVox (public domain audiobooks) Two plays by Maurice Level on Great War Theatre",
+      "id": "HotpotQA-validation-00006035/00_Maurice-Level.html_c_4"
+    },
+    {
+      "text": "secrets (1928) L'Egnime de Bellavista (1928) prequel to Le Marchand de secrets Contes du Matin 1921-1924, sous la direction littéraire de Colette, preface by Jean-Luc Buard, La Bibliothèque Maurice Level/The International Maurice Level Library, 2017 ( ISBN 978-0-244-00340-1 ) Contes de guerre 1914-1922, edited by Jean-Luc Buard, AARP/Centre Rocambole/Encrage, 2017 ( ISBN 978-2-36058-168-9 ) Un maniaque et autres contes de l'Auto, 1904-1910, preface by Jean-Luc Buard, \"La Bibliothèque Maurice Level\"/Lulu.com, 2018 ( ISBN 978-0-244-66494-7 ). Of this collection, the story mentioned in the title (Un maniaque, “A madman”) was published in an anthology of stories collected by Marvin Kaye called “Devils and Demons” ( ISBN 978-0-385-18563-9 ). It was translated and edited by Marvin Kaye. Selected works in English The Grip of Fear (1909) Crises: Tales of Mystery and Horror (UK, 1920) 26 short stories translated by Alys Eyre Macklin",
+      "id": "HotpotQA-validation-00006035/00_Maurice-Level.html_c_3"
+    },
+    {
+      "text": "Maurice Level (29 August 1875 – 15 April 1926) was a French writer of fiction and drama who specialized in short stories of the macabre which were printed regularly in the columns of Paris newspapers and sometimes staged by le Théâtre du Grand-Guignol , the repertory company in Paris's Pigalle district devoted to melodramatic productions which emphasized blood and gore. Many of Level's stories have been translated into American newspapers since 1903, notably his well-known tale \"The Debt-Collector\" (at least eight different translations). Between 1917 and 1919 the literary editor of the New York Tribune , William L. McPherson (1865-1930), translated seventeen war tales (three of them anonymously), seven of them being collected in Tales of Wartime France (1918). In 1920, English journalist, editor and publisher Alys Eyre Macklin (ca. 1875-1929) arranged a treaty with Level to be his official literary agent for all English-language countries ., and translated a selection of 26 tales as Crises, Tales of Mystery and Horror (1920). Nine of them have been first published by Hearst's Magazine in New York in 1919-1920. Some other tales appeared later in various newspapers or magazines in England or in the USA, such as Pan (London), or in the well-known pulp magazine Weird Tales . H.",
+      "id": "HotpotQA-validation-00006035/00_Maurice-Level.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Maurice Level's writing is focused on macabre and melodramatic productions.\n- Alice Hoffman's writing is focused on magic realism and young-adult fiction.\n- Both authors have been translated into multiple languages.\n- Level's works have been staged by le Théâtre du Grand-Guignol.\n- Hoffman's works have been adapted into films and media franchises.\n- (Novel-00006035_c_0)\n- Maurice Level's writing is focused on macabre and melodramatic productions.\n- Alice Hoffman's writing is focused on magic realism and young-adult fiction.\n- Both authors have been translated into multiple languages.\n- Level's works have been staged by le Théâtre du Grand-Guignol.\n- Hoffman's works have been adapted into films and media franchises.\n- Level's fiction targets a specific audience that appreciates melodramatic productions.\n- Maurice Level's writing is focused on macabre and melodramatic productions.\n- Alice Hoffman's writing is focused on magic realism and young-adult fiction.\n- Level's fiction targets a specific audience that appreciates melodramatic productions.\n- Hoffman's works have been adapted into films and media franchises.\n- Both authors have been translated into multiple languages.\n- Level's works have been staged by le Théâtre du Grand-Guignol.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are the writing from Maurice Level and Alice Hoffman focused on different audieces?",
+      "doc_ids": [
+        "HotpotQA-validation-00006035/01_Alice-Hoffman.html_c_0",
+        "HotpotQA-validation-00006035/01_Alice-Hoffman.html_c_4",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_4",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_3",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What audience does Maurice Level's macabre fiction target?",
+      "doc_ids": [
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_0",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_4",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_1",
+        "HotpotQA-validation-00002185/01_Call-Me-by-Your-Name-film.html_c_13",
+        "HotpotQA-validation-00007021/02_Impression-management.html_c_6"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "What audience appreciates melodramatic productions?",
+      "doc_ids": [
+        "HotpotQA-validation-00004981/01_Lagos.html_c_36",
+        "HotpotQA-validation-00000680/01_Family-Matters.html_c_5",
+        "HotpotQA-validation-00006035/00_Maurice-Level.html_c_0",
+        "HotpotQA-validation-00003401/01_Universal-Pictures.html_c_19",
+        "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_c_15"
+      ]
+    }
+  ]
+}

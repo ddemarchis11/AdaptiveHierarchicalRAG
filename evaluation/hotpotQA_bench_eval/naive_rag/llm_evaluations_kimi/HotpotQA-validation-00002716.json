@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002716",
+  "question": "What is the name of the English poet who wrote a poem titled Don Juan and also served as the real-life model of a character in the novel Glenarvon?",
+  "gold_answer": "Lord Byron",
+  "llm_answer": "The English poet who wrote the poem *Don Juan* and served as the real-life model for a character in the novel *Glenarvon* is **Lord Byron**.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Lord Byron as the poet who wrote 'Don Juan' and served as the real-life model for a character in 'Glenarvon.' This is consistent with the Gold Answer and supported by the Retrieved Context, which mentions Byron's authorship of 'Don Juan' and his depiction in 'Glenarvon.' The answer is concise and includes all necessary facts."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Novel-ac9a05e7",
+  "question": "According to the narrative in 'Vestiges of the Mayas,' between which regions is the territory known as Tierra de Guerra situated, specifically as described in its geographical context?",
+  "gold_answer": "Tierra de Guerra is located between Guatemala, Tabasco, Chiapas and Yucatan.",
+  "llm_answer": "Insufficient evidence to determine the regions between which the territory known as Tierra de Guerra is situated.",
+  "context": [
+    {
+      "text": "history of the founders of their nationality; since we find them in the countries where they seem to have established large settlements soon after leaving the land of their birth. In course of time these traditions have become disfigured, wrapped, as it were, in myths, creations of fanciful and untutored imaginations, as in Hindostan: or devises of crafty priests, striving to hide the truth from the ignorant mass of the people, fostering their superstitions, in order to preserve unbounded and undisputed sway over them, as in Egypt. In Hindostan, for example, we find the Maya custom of carrying the children astride on the hips of the nurses. That of recording the vow of the devotees, or of imploring the blessings of deity by the imprint of the hand, dipped in red liquid, stamped on the walls of the shrines and palaces. The worship of the mastodon, still extant in India, Siam, Burmah, as in the worship of _Ganeza_, the god of knowledge, with an elephant head, degenerated in that of the elephant itself. Still extant we find likewise the innate propensity of the Mayas to exclude all foreigners from their country; even to put to death those who enter their territories (as do, even to-day, those of Santa Cruz and the inhabitants of the Tierra de Guerra) as the emissaries of Rama were informed by the friend of the owner of the",
+      "id": "Novel-30752_c_120"
+    },
+    {
+      "text": "of various Essays and Scientific Works. NEW YORK: JOHN POLHEMUS, PRINTER AND STATIONER, 102 NASSAU STREET. 1881. To _MR. PIERRE LORILLARD._ Who deserves the thanks of the students of American Archaeology more than you, for the interest manifested in the explorations of the ruined monuments of Central America, handiwork of the races that inhabited this continent in remote ages, and the material help given by you to Foreign and American explorers in that field of investigations? Accept, then, my personal thanks, with the dedication of this small Essay. It forms part of the result of many years' study and hardships among the ruined cities of the Incas, in Peru, and of the Mayas in Yucatan. Yours very respectfully, AUGUSTUS LE PLONGEON, M. D. NEW YORK, _December 15, 1881_. Entered according to an Act of Congress, in December, 1881, BY AUGUSTUS LE PLONGEON, In the Office of the LIBRARIAN OF CONGRESS in Washington, D.C. VESTIGES OF THE MAYAS. Yucatan is the peninsula which divides the Gulf of Mexico from the Caribbean Sea. It is comprised between the 17 deg. 30' and 21 deg. 50', of latitude north, and the 88 deg. and 91 deg. of longitude west from the Greenwich",
+      "id": "Novel-30752_c_1"
+    },
+    {
+      "text": "than they what he said[TN-7] It is very difficult without the help of the books of the learned priests of _Mayab_ to know positively why they gave that name to the country known to-day as Yucatan. I can only surmise that they so called it from the great absorbant[TN-8] quality of its stony soil, which, in an incredibly short time, absorbs the water at the surface. This percolating through the pores of the stone is afterward found filtered clear and cool in the senotes and caves. _Mayab_, in the Maya language, means a tammy, a sieve. From the name of the country, no doubt, the Mayas took their name, as natural; and that name is found, as that of the English to-day, all over the ancient civilized world. When, on January 28, 1873, I had the honor of reading a paper before the New York American Geographical Society--on the coincidences that exist between the monuments, customs, religious rites, etc. of the prehistoric inhabitants of America and those of Asia and Egypt--I pointed to the fact that sun circles, dolmen and tumuli, similar to the megalithic monuments of America, had been found to exist scattered through the islands of the Pacific to Hindostan; over the plains of the peninsulas at the south of Asia, through the deserts of Arabia, to the northern parts of",
+      "id": "Novel-30752_c_37"
+    },
+    {
+      "text": "Santa Cruz and the inhabitants of the Tierra de Guerra) as the emissaries of Rama were informed by the friend of the owner of the country, the widow of the _great architect_, MAYA, whose name HEMA means in the Maya language \"she who places ropes across the roads to impede the passage.\" Even the history of the death of her husband MAYA, killed with a thunderbolt, by the god _Pourandara_, whose jealousy was aroused by his love for her and their marriage, recalls that of _Chaacmol_, the husband of _Moo_, killed by their brother Aac, by being stabbed by him three times in the back with a spear, through jealousy--for he also loved _Moo_. Some Maya tribes, after a time, probably left their home at the South of Hindostan and emigrated to Afghanistan, where their descendants still live and have villages on the North banks of the river _Kabul_. They left behind old traditions, that they may have considered as mere fantasies of their poets, and other customs of their forefathers. Yet we know so little about the ancient Afghans, or the Maya tribes living among them, that it is impossible at present to say how much, if any, they have preserved of the traditions of their race. All we know for a certainty is that many of the names of their villages and tribes are pure American-Maya words: that their types are very similar to the",
+      "id": "Novel-30752_c_121"
+    },
+    {
+      "text": "Morocco.--The tyraufc Yezeed, (half Irish).--Muley Suleiman, the \"The Shereeff of Shereefs.\"--Diplomatic relations of the Emperor of Morocco with European Powers.--Muley Ismael enamoured with the French Princess de Conti.--Rival diplomacy of France and England near the Maroquine Court.--Mr. Hay's correspondence with this Court on the Slave-trade.--Treaties between Great Britain and Morocco; how defective and requiring amendment.--Unwritten engagements. CHAPTER III. The two different aspects by which the strength and resources of the Empire of Morocco may be viewed or estimated.--Native appellation of Morocco.--Geographical limits of this country.--Historical review of the inhabitants of North Africa, and the manner in which this region was successively peopled and conquered.--The distinct varieties of the human race, as found in Morocco.--Nature of the soil and climate of this country.--Derem, or the Atlas chain of mountains.--Natural products.--The Shebbel, or Barbary salmon; different characters of exports of the Northern and Southern provinces.--The Elaeonderron Argan.--Various trees and plants.--Mines.--The Sherb-Errech, or Desert-horse. CHAPTER IV. Division of Morocco into kingdoms or States, and zones or regions.-- Description of the towns and cities on the Maroquine coasts of the Mediterranean and Atlantic waters.--The Zafarine",
+      "id": "Novel-10356_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Tierra de Guerra is situated between Santa Cruz and another region (Novel-30752_c_120).\n- The other region is not explicitly mentioned in the current evidence (Novel-30752_c_120).\n- The narrative describes the geographical context of Tierra de Guerra, but does not provide a clear answer to the question (Novel-30752_c_120).\n- The question asks for the regions between which Tierra de Guerra is situated, specifically in its geographical context (Novel-30752_c_120).\n- The current evidence does not provide enough information to answer the question (Novel-30752_c_120).\n- The next query should target the missing region (Novel-30752_c_120).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the narrative in 'Vestiges of the Mayas,' between which regions is the territory known as Tierra de Guerra situated, specifically as described in its geographical context?",
+      "doc_ids": [
+        "Novel-30752_c_120",
+        "Novel-30752_c_1",
+        "Novel-30752_c_37",
+        "Novel-30752_c_121",
+        "Novel-10356_c_1"
+      ]
+    }
+  ]
+}

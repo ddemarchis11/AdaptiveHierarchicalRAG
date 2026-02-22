@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c4edb6a",
+  "question": "How did Elsie Maud Inglis’s role connect with the Scottish Women's Hospitals’ journey to Serbia?",
+  "gold_answer": "Elsie Maud Inglis sent Miss Burke, who influenced her countrymen in America; America aided the Scottish Women's Hospitals, which then went to Serbia.",
+  "llm_answer": "Elsie Maud Inglis's role connected with the Scottish Women's Hospitals' journey to Serbia in the following ways:\n\n1. She was the founder and leader of the Scottish Women's Hospitals (S.W.H.), which sent units to various countries, including Serbia, to provide medical aid during World War I.\n2. Inglis organized and sent out the S.W.H. units, including one to Serbia in 1915, where she took personal charge of the unit amidst trying conditions.\n3. She played a key role in explaining the plan of the S.W.H. to the National Union in London and speaking at a meeting in the Kingsway Hall on \"What women could do to help in the war.\"\n4. Inglis was authorized to speak on the plans of the S.W.H. at the National Union meeting, and she used her influence to send individuals, such as Miss Burke, to speak and raise funds for the S.W.H.\n5. The Serbian nation commemorated her services to them by building a fountain close to the camp hospital at Mladenovatz, which was formally opened with a religious service in 1915.\n\nOverall, Elsie Maud Inglis's role was instrumental in the Scottish Women's Hospitals' journey to Serbia, where they provided medical aid and helped to combat epidemics, including typhus and typhoid fever.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed account of Elsie Maud Inglis's role and contributions, but it diverges from the specific connection outlined in the Gold Answer. The Gold Answer emphasizes Miss Burke's influence in America, which led to American aid for the Scottish Women's Hospitals and their journey to Serbia. The Model Answer does not explicitly mention this sequence and instead focuses on Inglis's broader contributions and leadership. While some claims in the Model Answer are supported by the context, others, such as the Serbian fountain commemoration, are not directly relevant to the question. Additionally, the Model Answer misses the specific entities and facts mentioned in the Gold Answer, such as Miss Burke's role and America's involvement."
+  }
+}

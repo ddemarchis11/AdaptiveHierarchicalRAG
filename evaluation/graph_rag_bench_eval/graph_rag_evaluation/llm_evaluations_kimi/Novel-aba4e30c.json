@@ -1,0 +1,12 @@
+{
+  "id": "Novel-aba4e30c",
+  "question": "When Heywood interacted with Rudolph during the tense events at the nunnery, how did Heywood treat Rudolph, and what name was Heywood called by in the narrative?",
+  "gold_answer": "Heywood scoffed at Rudolph, and Heywood was called Maurice.",
+  "llm_answer": "Heywood treated Rudolph with brisk, practical authority—ordering him to help carry a body and snapping “Don’t stand looking. Can’t be helped.” In the narrative he is addressed simply as “Heywood.”",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not align with the Gold Answer, which states that Heywood scoffed at Rudolph and was called Maurice. The Model Answer instead describes Heywood treating Rudolph with brisk authority and being addressed as 'Heywood,' which contradicts the Gold Answer and is unsupported by the retrieved context. Additionally, the Model Answer misses the key facts from the Gold Answer entirely."
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "HotpotQA-validation-00001828",
+  "question": "Which British officer was executed for his role in facilitating the planned defection of a senior American Revolutionary War general to the opposing side?",
+  "gold_answer": "John André",
+  "llm_answer": "Major John André was executed for his role in facilitating Benedict Arnold’s planned defection to the British.",
+  "context": [
+    {
+      "text": "Dedication plaque on Groton Monument in Groton, Connecticut , to victims of Arnold's slaughter following the Battle of Groton Heights : This monument was erected under the patronage of the State of Connecticut in the 55th year of the Independence of the U.S.A. in memory of the brave patriots massacred at Fort Griswold near this spot on the 6th of Sept. AD 1781, when the British, under the command of the Traitor Benedict Arnold , burnt the towns of New London and Groton and spread desolation and woe throughout the region. Benedict Arnold (January 14, 1741 [ O.S. January 3, 1740] – June 14, 1801) was an American-born British military officer who served during the American Revolutionary War . He fought with distinction for the American Continental Army and rose to the rank of major general before defecting to the British in 1780. General George Washington had given him his fullest trust and had placed him in command of West Point in New York . Arnold was planning to surrender the fort to British forces, but the plot was discovered in September 1780, whereupon he fled to the British lines. In the later part of the war, Arnold was commissioned as a brigadier general in the British Army and placed in command of the American Legion . He led British forces in battle against the army which he had once commanded, and his name became synonymous with treason and betrayal in the United States. Born in Connecticut , Arnold was a merchant operating ships in the Atlantic when the war began. He joined the growing American army outside of Boston and distinguished himself by acts that demonstrated intelligence and bravery: In 1775, he captured Fort Ticonderoga . In 1776, he employed defensive and delaying tactics at the Battle of Valcour Island on Lake Champlain that gave American forces time to prepare New York's defenses. His performance in the Battle of Ridgefield in Connecticut prompted his promotion to major general. He conducted operations that provided the Americans with relief during the Siege of Fort Stanwix , and key actions during the pivotal 1777 Battles of Saratoga in which he sustained leg injuries that put him out of combat for several years. Arnold repeatedly claimed that he was being passed over for promotion by the Second Continental Congress , and that other officers were being given credit for some of his accomplishments. Some in his military and political circles charged him with corruption . After formal inquiries, he was acquitted of all but two minor charges, but Congress investigated his finances and determined that he was indebted to Congress and that he had borrowed money heavily to maintain a lavish lifestyle. Arnold mingled with Loyalist sympathizers in Philadelphia and married into the Loyalist family of Peggy Shippen . She was a close friend of British Major John André and kept in contact with him when he became head of the British espionage system in New York. Many historians see her as having facilitated",
+      "id": "HotpotQA-validation-00001828/01_Benedict-Arnold.html_c_0",
+      "doc_id": "HotpotQA-validation-00001828/01_Benedict-Arnold.html",
+      "community_id": 7,
+      "score": 29.425587
+    },
+    {
+      "text": ", JSTOR 3189387 Trees, Andy (2000), \"Benedict Arnold, John André, and His Three Yeoman Captors: A Sentimental Journey or American Virtue Defined\" , Early American Literature , 35 (3), The University of North Carolina Press: 246, doi : 10.1353/eal.2000.0011 , S2CID 162302291 , retrieved March 9, 2008 Further reading Wikisource has the text of the Encyclopædia Britannica (9th ed.) article John André . Nathan, Adele Gutman (1970). The Gentleman Spy: The True Story of the British Officer who might have prevented the American Revolution . Sidgwick & Jackson. [ ISBN missing ] Randall, Willard Sterne (1990). Benedict Arnold: Patriot and Traitor . New York: William Morrow and Inc. ISBN 1-55710-034-9 . OCLC 185605660 . External links English Wikisource has original works by or about: John André Wikimedia Commons has media related to John André . \"The Capture of Major John André\" by A.C. Warren (1856) Letters from André, including coded interchange between André and Arnold More on his early life",
+      "id": "HotpotQA-validation-00001828/00_John-Andr.html_c_11",
+      "doc_id": "HotpotQA-validation-00001828/00_John-Andr.html",
+      "community_id": 2,
+      "score": 29.05362
+    },
+    {
+      "text": "The Siege of Yorktown , also known as the Battle of Yorktown and the surrender at Yorktown , was the final major land engagement of the American Revolutionary War . It was won decisively by the Continental Army , led by George Washington , with support from the Marquis de Lafayette and French Army troops , led by the Comte de Rochambeau , and a French Navy force commanded by the Comte de Grasse , defeating the British Army commanded by British Lieutenant General Charles Cornwallis . The French and American armies united north of New York City during the summer of 1781. Following the arrival of dispatches from France that included the possibility of support from the French West Indies fleet of the Comte de Grasse , disagreements arose between Washington and Rochambeau on whether to ask de Grasse for assistance in besieging New York or in military operations against a British army in Virginia. On the advice of Rochambeau, de Grasse informed them of his intent to sail to the Chesapeake Bay , where Cornwallis had taken command of the British army. Cornwallis, at first given confusing orders by his superior officer, Henry Clinton , was eventually ordered to build a defensible deep-water port, which he began to do at Yorktown. Cornwallis's movements in Virginia were shadowed by a Continental Army force led by Gilbert du Motier, Marquis de Lafayette . When word of de Grasse's decision to engage the British navy at the Chesapeake Bay arrived in New York, the American and French armies began moving south toward Virginia , engaging in deception tactics to lead the British to believe a siege of New York was planned. De Grasse sailed from the West Indies and arrived at Chesapeake Bay at the end of August, bringing additional troops and creating a naval blockade of Yorktown. In the beginning of September, he defeated a British fleet led by Sir Thomas Graves , which was dispatched to relieve Cornwallis at the Battle of the Chesapeake . As a result of this victory, de Grasse blocked any reinforcement or escape by sea for Cornwallis and also disembarked the heavy siege guns required by the allied land forces. Washington and Rochambeau arrived at Yorktown on September 28, 1781. Washington moved the army closer to the British defenses on September 29. The American and French army and naval forces had completely surrounded Cornwallis. After initial preparations, the Americans and French built their first parallel and began the bombardment. With the British defense weakened, on October 14, 1781, Washington sent two columns to attack the last major remaining British outer defenses. A French column under Vicomte de Deux-Ponts took Redoubt No. 9 and an American column under Lieutenant Colonel Alexander Hamilton took Redoubt No. 10. With these defenses, the allies were able to finish their second parallel. With the Franco-American artillery closer and its bombardment more intense than ever, the British position began to deteriorate",
+      "id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_c_0",
+      "doc_id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html",
+      "community_id": 2,
+      "score": 25.840223
+    },
+    {
+      "text": "The Joshua Hett Smith House (since demolished) in 1909 Arnold persuaded André that his best option for returning to British lines was to travel overland, which meant that he would need to take off his uniform and put on civilian clothes. André carried six papers written by Arnold which were hidden in his stocking; they detailed to the British how to take the fort. In the event that André encountered American sentries, Arnold gave him a pass allowing him to travel under the name John Anderson. Arnold departed to return to his home, and Joshua Smith escorted André a few miles north, where the two men crossed to the east side of the Hudson River at King's Ferry. André, who had expected to travel to and from the meeting by ship while dressed in full uniform, was now traveling by road, in civilian disguise. He was deep behind American lines, and risked arrest as a spy. After spending the night in a local home, the two men continued on to the Croton River, the southernmost edge of the American lines. Here, Smith left him, and André continued south in hopes of coming into contact with one of the Loyalist groups who marauded through Westchester County, New York . (This area, known as the \" neutral ground ,\" was a no man's land between the positions of the American Revolutionary forces and the British forces. Both the army troops and the partisans of both sides patrolled the countryside.) He had been warned to keep inland, but André instead shifted west until he was riding down the Albany Post Road , which followed the edge of the Hudson. André rode on safely until 9 a.m. on September 23, when he arrived at the crossing of a stream known as Clark's Kill (since renamed Andre Brook) . Here, three Americans: John Paulding , Isaac Van Wart , and David Williams stopped him. They were part of a scouting party of the Westchester County Militia, commanded by Sgt. John Dean , that also included James Romer , John Yerkes, Isaac See, and Abraham Williams (David Williams's sixteen-year-old cousin). Paulding, Van Wirt, and Williams were assigned by Sgt. Dean to position themselves on the Albany Post Road and intercept Loyalist cattle raiders and other suspicious travelers. André believed that the trio were Loyalists because Paulding was wearing the uniform of a Hessian soldier . Paulding had himself escaped from a British prison only days earlier, aided by a sympathetic Loyalist who provided him with the uniform. \"Gentlemen,\" André said, \"I hope you belong to our party.\" \"What party?\" asked one of the trio. \"The lower party\", replied André, referring to the British, whose headquarters were to the south. \"We do\" was their answer. André then declared that he was a British officer who must not be detained. To his surprise, Paulding informed him that \"We are Americans\" and took him",
+      "id": "HotpotQA-validation-00001828/00_John-Andr.html_c_3",
+      "doc_id": "HotpotQA-validation-00001828/00_John-Andr.html",
+      "community_id": 2,
+      "score": 25.628813
+    },
+    {
+      "text": "Major John André (May 2, 1750 – October 2, 1780) was a British Army officer who served as the head of Britain's intelligence operations during the American War for Independence . In September 1780, André negotiated with Continental Army general Benedict Arnold , who secretly offered to turn over control of the American fort at West Point, New York to the British. Due to a series of mishaps and unforeseen events, André was forced to try to return to British lines from a meeting with Arnold through American-controlled territory while wearing civilian clothes. André was captured by three American militiamen and was quickly identified and imprisoned. He was subsequently convicted of espionage by the Continental Army and executed by hanging on George Washington 's orders. His execution led to an outburst of anti-American sentiment in Great Britain, and American painter John Trumbull was imprisoned as a result. André is typically remembered positively by historians, and several prominent leaders of the Patriot cause , including Alexander Hamilton and the Marquis de Lafayette , disagreed with the decision to execute him. Early life André was born on May 2, 1750, in London , England, to wealthy Huguenot parents who had immigrated there from Continental Europe . His parents were Antoine André, a merchant from Geneva , and Marie Louise Girardot, who had been born in Paris . André was educated at St Paul's School , Westminster School , and in Geneva; he was briefly engaged to Honora Sneyd . In 1771, at the age of 20, he joined the British Army , being commissioned into the 23rd Regiment of Foot (Royal Welsh Fuzileers) at the rank of second lieutenant before quickly being promoted to lieutenant in the 7th Regiment of Foot (Royal Fusiliers) . André took a leave of absence in Germany for nearly two years, before re-joining his regiment in British North America in 1774. American War for Independence During the early days of the American War for Independence , before independence was declared by the Continental Congress , André was captured at Fort Saint-Jean by Continental Army troops under the command of General Richard Montgomery in November 1775, and held prisoner at Lancaster, Pennsylvania . He lived in the home of Caleb Cope, enjoying the freedom of the town, as André had given his word not to escape . In December 1776, he was freed in a prisoner exchange , and was promoted to the rank of captain in the 26th Regiment of Foot on January 18, 1777. In the same year, André was appointed as an aide-de-camp to Major-General Charles Grey , serving in the British expedition to capture Philadelphia and participating in the battles of Brandywine and Germantown . In September 1778, he accompanied Grey during Grey's raid , and was sent back to Sir Henry Clinton as a dispatch bearer. After Grey returned to England, André was appointed as an aide-de-camp to",
+      "id": "HotpotQA-validation-00001828/00_John-Andr.html_c_0",
+      "doc_id": "HotpotQA-validation-00001828/00_John-Andr.html",
+      "community_id": 2,
+      "score": 25.35044
+    },
+    {
+      "text": "Alfred Josef Ferdinand Jodl ( German: [ˈjoːdl̩] ⓘ ; born Alfred Josef Baumgärtler ; 10 May 1890 – 16 October 1946) was a German military officer who served as the Chief of the Operations Staff of the Oberkommando der Wehrmacht – the German Armed Forces High Command – throughout World War II . After the war, Jodl was indicted on charges of conspiracy to commit crimes against peace , planning, initiating and waging wars of aggression , war crimes , and crimes against humanity at the Allied-organized Nuremberg trials . The principal charges against him related to his signing of the criminal Commando and Commissar Orders . Found guilty on all charges, he was sentenced to death and executed in Nuremberg in 1946. Early life and career Alfred Jodl (second from right) as a captain of the Reichswehr with his brother Ferdinand (second from left), 1926 Alfred Jodl was educated at a military cadet school in Munich , from which he graduated in 1910. Ferdinand Jodl , who also became an army general, was his younger brother. He was the nephew of philosopher and psychologist Friedrich Jodl at the University of Vienna . Jodl was raised Roman Catholic but rejected the faith later in life. From 1914 to 1916, he served with a field artillery regiment on the Western Front , being awarded the Iron Cross 2nd Class for gallantry in November 1914, and for being wounded in action. In 1917, he served briefly on the Eastern Front before returning to the West as a staff officer. In 1918, he was awarded the Iron Cross 1st Class for gallantry in action. After the defeat of the German Empire in 1918, he continued his career as a professional soldier with the much-reduced German Army ( Reichswehr ). Jodl married twice: in 1913 and (after becoming a widower) in 1944. World War II (front row, from l. to r.) Reichspressechef Otto Dietrich , Wilhelm Keitel , Hitler, Jodl, and Martin Bormann , at the Führer Headquarters of Felsennest , June 1940 Jodl's appointment as a major in the operations branch of the Truppenamt ('Troop Office') in the Army High Command in the last years of the Weimar Republic put him under the command of General Ludwig Beck .  In September 1939, Jodl first met Adolf Hitler . During the build-up to the Second World War, Jodl was nominally assigned as commander of the 44th Division from October 1938 to August 1939 after the Anschluss .  He was chosen by Hitler to be Chief of the Operations Staff of the newly formed",
+      "id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_0",
+      "doc_id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html",
+      "community_id": 5,
+      "score": 19.763662
+    },
+    {
+      "text": "enemy, and that agreeable to the law and usage of nations , it is their opinion, he ought to suffer death.\" Sir Henry Clinton did all that he could to save André, his favourite aide-de-camp. However, in their written negotiations Washington demanded that in exchange for André, Clinton must give the Americans Arnold, who was then under British protection in New York. Clinton personally detested Arnold, but declined to hand him over to the Americans. From the time of his arrest, André endeared himself to the Americans, some of whom lamented his death sentence as much as the British. Alexander Hamilton in particular was thoroughly charmed by André, writing that \"He united a peculiar elegance of mind and manners, and the advantage of a pleasing person\". As his date of execution approached, André appealed to Washington to be executed by firing squad as a soldier, rather than hanged as was customary for spies: \"I trust that the request that I make to your Excellency at this serious period, and which is to soften my last moments, will not be rejected. Sympathy towards a soldier will surely induce your Excellency and a military tribunal to adapt the mode of my death to the feelings of a man of honor.\" Washington refused his request. André was hanged by the Continental Army as a spy in Tappan on October 2, 1780. According to witnesses, he placed the noose around his own neck and tightened it. The day before his hanging, André drew a likeness of himself with pen and ink, which is now owned by Yale College . A religious poem was found in his pocket after his execution, written two days beforehand. Lafayette was reported to have wept at the execution of André.  Alexander Hamilton wrote of him: \"Never perhaps did any man suffer death with more justice, or deserve it less.\" Eyewitness accounts An eyewitness account of André's last day can be found in the book The American Revolution: From the Commencement to the Disbanding of the American Army Given in the Form of a Daily Journal, with the Exact Dates of all the Important Events : October 2nd. – Major André is no more among the living. I have just witnessed his exit. It was a tragical scene of the deepest interest. During his confinement and trial, he exhibited those proud and elevated sensibilities which designate greatness and dignity of mind. Not a murmur or a sigh ever escaped him, and the civilities and attentions bestowed on him were politely acknowledged. Having left a mother and two sisters in England, he was heard to mention them in terms of the tenderest affection, and in his letter to Sir Henry Clinton, he recommended them to his particular attention. The principal guard officer, who was constantly in the room with the prisoner, relates that when the hour of execution was announced to him in the morning, he received it without emotion, and while all present were affected with silent gloom, he retained a firm",
+      "id": "HotpotQA-validation-00001828/00_John-Andr.html_c_6",
+      "doc_id": "HotpotQA-validation-00001828/00_John-Andr.html",
+      "community_id": 10,
+      "score": 19.474726
+    },
+    {
+      "text": "as he perceived that things were in readiness, he stepped quickly into the wagon, and at this moment he appeared to shrink, but instantly elevating his head with firmness he said, \"It will be but a momentary pang,\" and taking from his pocket two white handkerchiefs, the provost-marshal, with one, loosely pinioned his arms, and with the other, the victim, after taking off his hat and stock, bandaged his own eyes with perfect firmness, which melted the hearts and moistened the cheeks, not only of his servant, but of the throng of spectators. The rope being appended to the gallows, he slipped the noose over his head and adjusted it to his neck, without the assistance of the awkward executioner. Colonel Scammel now informed him that he had an opportunity to speak, if he desired it; he raised the handkerchief from his eyes, and said, \"I pray you to bear me witness that I meet my fate like a brave man.\" The wagon being now removed from under him, he was suspended, and instantly expired; it proved indeed \"but a momentary pang.\" He was dressed in his royal regimentals and boots, and his remains, in the same dress, were placed in an ordinary coffin, and interred at the foot of the gallows; and the spot was consecrated by the tears of thousands... Legacy A memorial to André in Westminster Abbey On the day of his capture, James Rivington published André's poem \"The Cow Chace\" in his gazette in New York. In the poem, André muses on the American defeat at the Battle of Bull's Ferry . Nathan Strickland, André's executioner, who was detained at the Continental Army camp in Tappan during André's trial due to being a Loyalist, was granted freedom for accepting the duty of hangman and returned to his home in the Ramapo Valley or Smith's Cove; nothing further of him is known. Joshua Smith, whose connections to André were discovered, was also brought to trial at the Reformed Church of Tappan . The trial lasted four weeks and ended in Smith being acquitted due to a lack of evidence. The Colquhon brothers, as well as a Continental Army major named Keirs, under whose supervision the boat was obtained, were exonerated from all suspicion.  After news of André's execution reached Great Britain , there was an outburst of anti-Americanism and American painter John Trumbull was arrested for treason , since he was known to be a former Continental Army officer of a similar rank to André. He was released after seven months of imprisonment. A pension was awarded by the British to André's mother and three sisters not long after his death; and his brother William André was made a baronet in his honor in 1781 (see André baronets ). In 1804 a memorial plaque by Charles Regnart was erected",
+      "id": "HotpotQA-validation-00001828/00_John-Andr.html_c_8",
+      "doc_id": "HotpotQA-validation-00001828/00_John-Andr.html",
+      "community_id": 10,
+      "score": 19.301966
+    },
+    {
+      "text": "1781: The Decisive Year of the Revolutionary War . Havertown, PA: Casemate Publishers. ISBN 978-1-61200-078-7 . Wickwire, Franklin and Mary (1970). Cornwallis: The American Adventure . Boston: Houghton Mifflin. OCLC 62690 . Further reading Döhla, Johann Conrad (1990). A Hessian Diary of the American Revolution . Translated by Burgoyne, Bruce E. from the 1913 Bayreuth edition by W. Baron von Waldenfels (1st ed.). Norman: University of Oklahoma Press . pp. 163– 174. ISBN 0806122544 . LCCN 89025029 . OCLC 44961155 . OL 2203241M . Johnston, Henry P. (1881). The Yorktown Campaign and the surrender of Cornwallis, 1781 . New York, Harper & Brothers. Patton, Jacob Harris (1882). Yorktown: a compendious account of the campaign of the allied French and American forces, resulting in the surrender of Cornwallis and the close of the American revolution; . New York, Fords, Howard, & Hulbert. Philbrick, Nathaniel (2018). In the Hurricane's Eye: The Genius of George Washington and the Victory at Yorktown . Viking. ISBN 978-0525426769 . Thacher, James (1827). A military journal of the American Revolution . Boston, Cottons & Barnard. See search: Articles of capitulation External links Wikimedia Commons has media related to Siege of Yorktown . Wikisource has the text of the 1911 Encyclopædia Britannica article \" Yorktown \". Yorktown Battlefield (National Park Service) Articles of Capitulation at Yorktown. The French Army in the American Revolution at the John Carter Brown Library The Role of the Spanish and Cubans in the Siege of Yorktown Archived 2013-04-21 at the Wayback Machine The Yorktown Campaign (George Washington's Mount Vernon) Portals : British Empire United States Virginia",
+      "id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_c_17",
+      "doc_id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html",
+      "community_id": 2,
+      "score": 18.64676
+    },
+    {
+      "text": "be easier to capture, feeling that it would approve of an invading British army. With the arrival of Cornwallis and more reinforcements from New York, the British Army numbered 7,200 men. Cornwallis wanted to push Lafayette, whose force now numbered 3,000 men with the arrival of Virginia militia. On May 24, he set out after Lafayette, who withdrew from Richmond, and linked forces with those under the command of Baron von Steuben and Anthony Wayne . Cornwallis did not pursue Lafayette. Instead, he sent raiders into central Virginia, where they attacked depots and supply convoys, before being recalled on June 20. Cornwallis then headed for Williamsburg, and Lafayette's force of now 4,500 followed him. General Clinton, in a confusing series of orders, ordered Cornwallis first to Portsmouth and then Yorktown, where he was instructed to build fortifications for a deep water port. An expedition of 5,500 French troops under Comte de Rochambeau arrived in Newport, Rhode Island, by sea on July 10, 1780. On July 6, 1781, the French and American armies met at White Plains , north of New York City. Although Rochambeau had almost 40 years of warfare experience, he never challenged Washington's authority, telling Washington he had come to serve, not to command. Washington and Rochambeau discussed where to launch a joint attack. Washington believed an attack on New York was the best option, since the Americans and French now outnumbered the British defenders 3 to 1. Rochambeau disagreed, arguing the fleet in the West Indies under Admiral de Grasse was going to sail to the American coast, where easier options than attacking New York could be attempted. In early July, Washington suggested an attack be made at the northern part of Manhattan Island , but his officers and Rochambeau all disagreed. Washington continued to probe the New York area until August 14, when he received a letter from de Grasse stating he was headed for Virginia with 28 warships and 3,200 soldiers, but could only remain there until October 14. De Grasse encouraged Washington to move south so they could launch a joint operation. Washington abandoned his plan to take New York, and began to prepare his army for the march south to Virginia. March to Yorktown On August 19, using what is now known as the Washington-Rochambeau Revolutionary Route , Washington and Rochambeau began what was called the \"celebrated march\" to Yorktown. 7,000 soldiers (4,000 French and 3,000 American) began the march in Newport, Rhode Island , while the rest remained behind to protect the Hudson Valley . Washington wanted to maintain complete secrecy of their destination. To ensure this, he sent out fake dispatches that reached Clinton revealing that the Franco-American army was going to launch an attack on New York City,",
+      "id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_c_2",
+      "doc_id": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html",
+      "community_id": 2,
+      "score": 17.896881
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001828/00_John-Andr.html_10",
+      "summary": "**Title**: Execution and Legacy of Major André  \n\n**Summary**:  \nMajor John André, a British adjutant-general, was captured behind American lines in civilian disguise during Benedict Arnold’s treason plot, convicted as a spy, and hanged in 1780. He met his death with composure, declaring it “but a momentary pang,” and was buried at the foot of the gallows before later reinterment in Westminster Abbey. Britain responded with anti-American sentiment, ennobling André’s family and erecting memorials, while the United States honored his three captors with silver Fidelity Medals, pensions, and place-names. André’s fate became a touchstone of Revolutionary memory, inspiring plays, poems, and repeated portrayals in literature and film that debate his honor and the tragedy of his execution.  \n\n**Keywords**:  \nMajor John André, Benedict Arnold, Revolutionary War spy, execution legacy, cultural memory",
+      "is_seed": true,
+      "expand_score": 0.840061604976654
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/01_Benedict-Arnold.html_12",
+      "summary": "**Title**: Benedict Arnold’s Treason Plot\n\n**Summary**:  \nBenedict Arnold, once a respected Continental general, secretly negotiated with British spymaster John André to surrender West Point for £20,000 and a British commission. His Loyalist wife Peggy Shippen relayed coded messages between the two men, enabling the conspiracy. After weakening West Point’s defenses and supply stocks, Arnold’s plot unraveled when André was captured with incriminating documents; Arnold escaped to British lines while André was executed. Rewarded with a brigadier’s rank and pension, Arnold led British raids against American towns before dying in exile in London, forever branded a traitor.\n\n**Keywords**:  \nBenedict Arnold, West Point conspiracy, John André, Peggy Shippen, American Revolution",
+      "is_seed": true,
+      "expand_score": 0.9086203575134277
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_2",
+      "summary": "**Title**: Siege of Yorktown 1781  \n\n**Summary**:  \nThe Siege of Yorktown (Sept.–Oct. 1781) was the decisive Franco-American land-and-sea operation that ended major fighting in the American Revolution. After a stealthy 450-mile march from New York, George Washington and Comte de Rochambeau united 16,000 troops with Admiral de Grasse’s French fleet, trapping Lord Cornwallis’s 7,200-man British army on the Yorktown peninsula. Over ten days of trenching and bombardment, allied artillery progressively silenced British guns; night assaults on 14 October carried redoubts 9 and 10, enabling the final parallel. Outnumbered and without relief, Cornwallis surrendered 7,000 troops on 19 October 1781, paving the way for the 1783 Treaty of Paris and American independence.  \n\n**Keywords**:  \nYorktown siege, Cornwallis surrender, Franco-American alliance, Washington-Rochambeau, Revolutionary War finale",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "summary": "**Title**: Continental Board of War\n\n**Summary**:  \nThe Board of War, established by the Second Continental Congress on 12 June 1776, served as the central administrative body overseeing the Continental Army during the American Revolution. Initially composed of five congressional delegates, it compiled officer rosters, tracked troops and supplies, and handled prisoner-of-war affairs. Overwhelmed by workload, the board was reconstituted in October 1777 as a five-member body of non-congressional commissioners led by Horatio Gates, with expanded duties including recruitment supervision and weapons production. Further reforms in 1778–79 placed quartermaster and commissary departments under its control, cementing its role as Congress’s sole military intermediary.\n\n**Keywords**:  \nContinental Army administration, Second Continental Congress, Horatio Gates, military logistics, American Revolution",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/00_John-Andr.html_2",
+      "summary": "**Title**: André–Arnold West Point Conspiracy\n\n**Summary**:  \nMajor John André, British adjutant-general and spymaster, negotiated with disgruntled Continental general Benedict Arnold in September 1780 to seize the Hudson River choke-point at West Point. After clandestine meetings near Stony Point, André was stranded behind American lines when the warship *Vulture* withdrew; attempting to return in disguise, he carried incriminating papers supplied by Arnold. Three Westchester militiamen—Paulding, Van Wart, and Williams—captured him near Tarrytown, exposing the plot. Tried and hanged as a spy, André’s death provoked British outrage, while Arnold escaped to the Crown, forever branding his name with treason.\n\n**Keywords**:  \nJohn André, Benedict Arnold, West Point, spy, American Revolution",
+      "is_seed": true,
+      "expand_score": 0.9086203575134277
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "summary": "**Title**: Battle of Manila 1945 Devastation  \n\n**Summary**:  \nThe month-long Battle of Manila (3 Feb–3 Mar 1945) pitted U.S. and Filipino forces against entrenched Japanese naval troops, producing the Pacific War’s fiercest urban combat and leaving at least 100,000 civilians dead. Japanese massacres, American artillery bombardment, and house-to-house fighting obliterated the city’s Spanish-colonial and early-American architectural heritage, with only two buildings in the business district surviving intact. After the Japanese garrison ignored orders to withdraw, U.S. troops systematically reduced strongholds such as Intramuros, Rizal Stadium, and Fort San Antonio Abad, counting 16,665 Japanese dead inside the Walled City alone. The battle’s aftermath saw General Yamashita executed for war crimes and Manila’s transformation from the “Pearl of the Orient” to a modernist American-style capital. Commemoration efforts, including the 1995 Memorare-Manila Monument, honor the civilian victims and the city’s cultural loss.\n\n**Keywords**:  \nManila 1945, urban warfare, civilian massacres, heritage destruction, Pacific War",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_1",
+      "summary": "**Title**: Myron F. Diduryk Vietnam Legacy\n\n**Summary**: Myron F. Diduryk was a highly decorated U.S. Army major and celebrated company commander in the Battle of Ia Drang, the Vietnam War’s first major engagement. Immigrating from Ukraine as a child, he graduated from Saint Peter’s College, earned a physics degree, and became a Regular Army officer in 1960. Revered by General Hal Moore as “the finest battlefield company commander I had ever seen,” Diduryk led Bravo Company, 2-7 Cavalry, during intense 1965 fighting and later returned as a battalion operations officer. He was killed in action on 24 April 1970 and is memorialized on the Vietnam Veterans Memorial Wall, at the New Jersey Vietnam Veterans Memorial, and through Ukrainian American Veterans Post 30 in South River, NJ.\n\n**Keywords**: Myron Diduryk, Ia Drang, Vietnam War, Silver Star, memorial",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006284/03_Michael-Marlow-economist.html_0",
+      "summary": "**Title**: Michael Marlow Economist Profile\n\n**Summary**: Michael L. Marlow is a long-standing economics professor at California Polytechnic State University and senior scholar at George Mason University’s Mercatus Center, with prior roles at George Washington University and the U.S. Treasury. His research challenges government interventions, notably opposing e-cigarette and food-regulation policies, asserting that alcohol taxes curtail light rather than heavy drinking, and criticizing California’s Proposition 65 for negligible public-health gains. Controversy surrounds his tobacco-related studies, which were industry-funded and questioned on methodological grounds. He has authored books including “Public Finance: Theory and Practice” and “The Myth of Fair and Efficient Government.”\n\n**Keywords**: economist, regulation skeptic, e-cigarettes, alcohol taxes, Philip Morris funding",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006567/02_Major-general-United-States.html_2",
+      "summary": "**Title**: U.S. Major General Rank\n\n**Summary**:  \nThe rank of major general in the U.S. Armed Forces is a two-star general officer grade (O-8) above brigadier general and below lieutenant general, equivalent to a rear admiral in naval services. Established in 1775 for the Continental Army, it is the highest permanent peacetime rank, typically commanding divisions of 10,000–15,000 personnel. Statutory caps limit active-duty generals across services, and promotion requires presidential nomination after rigorous screening. The rank exists in the Army, Marine Corps, Air Force, and Space Force, each with distinct flags and historical milestones, including posthumous elevation of George Washington to preserve hierarchy.\n\n**Keywords**:  \nmajor general, two-star rank, U.S. military hierarchy, general officer promotions, service flags",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/01_Benedict-Arnold.html_7",
+      "summary": "**Title**: Benedict Arnold’s Treason and Legacy  \n\n**Summary**:  \nOnce a celebrated Continental Army hero, Benedict Arnold’s frustration over perceived slights, debt, and battlefield injuries led him to secretly negotiate with the British. After marrying Loyalist Peggy Shippen, he plotted to surrender West Point; the scheme’s exposure in 1780 forced him to flee to British lines. He then fought against his former comrades, most notoriously burning New London and Groton, cementing his reputation as America’s archetypal traitor. In exile he pursued business ventures in Canada and the West Indies, but chronic ill health and gout ended his life in London in 1801. Americans thereafter used his name as shorthand for betrayal, erasing or defacing most memorials to him at home.  \n\n**Keywords**:  \ntreason, West Point plot, Peggy Shippen, traitor legacy, Revolutionary War",
+      "is_seed": true,
+      "expand_score": 0.8512759208679199
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "summary": "**Title**: Herbert Büchs Military Career\n\n**Summary**: Herbert Büchs was a Luftwaffe officer who served in Nazi Germany’s high command during WWII, briefing Hitler daily on air operations. He survived the 20 July 1944 bomb plot while present in the conference room, was later captured by U.S. forces, testified at Nuremberg, and rejoined the post-war German Air Force, eventually attaining Lieutenant General rank in the Bundeswehr.\n\n**Keywords**: Luftwaffe, 20 July plot, Nuremberg Trials, Bundeswehr, WWII",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_6",
+      "summary": "**Title**: Battle of Qala-i-Jangi\n\n**Summary**: The Battle of Qala-i-Jangi was a violent 2001 prison uprising in northern Afghanistan where hundreds of foreign Taliban and al-Qaeda detainees, including American John Walker Lindh, revolted against their Northern Alliance and U.S. captors. The multi-day battle resulted in heavy casualties, the death of CIA officer Johnny “Mike” Spann—the first American combat fatality in Afghanistan—and the eventual recapture of the fortress with U.S. and British special-operations support. Allegations of Geneva Convention violations arose due to the scale of force used, while several U.S. and British personnel received high valor decorations for their actions during the siege.\n\n**Keywords**: Qala-i-Jangi, prison uprising, Mike Spann, John Walker Lindh, Afghanistan 2001",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "summary": "**Title**: Alfred Jodl’s Nuremberg Trial\n\n**Summary**:  \nAlfred Jodl, Chief of the Operations Staff of the German Armed Forces High Command, was a key defendant at the Nuremberg trials, charged with conspiracy, crimes against peace, war crimes, and crimes against humanity. Central to the prosecution were his signatures on the Commando and Commissar Orders, mandating the execution of specific POWs, and orders deporting Danish Jews to concentration camps. Despite his denials and partial refutations of some charges, he was found guilty on all counts and executed on 16 October 1946. His ashes were scattered to deter neo-Nazi memorials, yet post-war debates over evidence disclosure and his widow’s claims of procedural unfairness persist.\n\n**Keywords**:  \nNuremberg trials, Commando Order, war crimes, Alfred Jodl, crimes against humanity",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001066/01_Roger-Ebert.html_24",
+      "summary": "**Title**: Roger Ebert’s Social Commentary\n\n**Summary**:  \nRoger Ebert leveraged his film-critic platform to champion progressive causes—opposing the Iraq War, capital punishment, and income inequality while endorsing unions, the Affordable Care Act, and Occupy Wall Street. He defended free speech, criticized financial fraud, and argued that Asian-American filmmakers need not be “model” representatives. Politically, he admired Ron Paul’s fiscal warnings and Barack Obama’s healthcare reform, blending populist and libertarian streaks. Ebert also rejected rigid labels for his own beliefs, positioning himself as a skeptic of organized religion, intelligent design, and simplistic ideological boxes.\n\n**Keywords**:  \nprogressive politics, free-speech advocacy, economic justice, anti-war stance, ideological independence",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_0",
+      "summary": "**Title**: Battle of Qala-i-Jangi Uprising\n\n**Summary**:  \nThe Battle of Qala-i-Jangi was a six-day siege in late November 2001 triggered by a prisoner revolt at a 19th-century fortress near Mazar-i-Sharif, Afghanistan. Over 400 mostly non-Afghan Taliban fighters, inadequately searched after surrendering, seized the fort’s armory and mounted a fierce, well-coordinated uprising against Northern Alliance guards and two CIA interrogators, killing officer Johnny Micheal Spann—the first U.S. combat death of the war. Northern Alliance troops, reinforced by British and U.S. special-operations teams, responded with armor, close-air support, and ultimately flooded the basement where hold-outs had barricaded themselves. By 1 December only 86 of the original 400+ prisoners survived; among them was American John Walker Lindh. The engagement became one of the bloodiest episodes of the early Afghan conflict and highlighted the risks of handling large numbers of unscreened foreign fighters.\n\n**Keywords**: Qala-i-Jangi, prisoner uprising, Johnny Micheal Spann, John Walker Lindh, 2001 Afghanistan war",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "summary": "**Title**: General Ferdinand Jodl Biography  \n\n**Summary**:  \nFerdinand Jodl was a German World War II general who led the XIX Mountain Corps in Arctic Finland and North Norway, earning the Knight’s Cross in January 1945. After joining the Imperial Army in 1914, he remained in the Reichswehr, rising through mountain-troop commands to end the war as General of Mountain Troops heading Army Detachment Narvik. He was the younger brother of OKW Chief Alfred Jodl and nephew of Viennese philosopher Friedrich Jodl; he died in Essen in 1956 and was buried in Bavaria.  \n\n**Keywords**:  \nFerdinand Jodl, XIX Mountain Corps, Knight’s Cross, Petsamo-Kirkenes Offensive, German mountain troops",
+      "is_seed": false,
+      "expand_score": 0.8308196067810059
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "summary": "**Title**: Battle of Guam 1944 Analysis\n\n**Summary**:  \nThe Battle of Guam (July-August 1944) was a pivotal U.S. operation to retake the island, marked by strategic lessons in amphibious warfare, command decisions, and post-battle infrastructure development. Initial plans faced delays due to intelligence updates, and the landing on two distant beaches was later deemed a tactical error. Poor topographical intelligence led to high casualties for the 3rd Marine Division, though naval gunfire and LVTs proved effective. Post-battle, Guam transformed into a major U.S. military hub, with extensive airfield and harbor construction supporting B-29 operations and later conflicts. Civil affairs efforts managed thousands of displaced Chamorros, and war crimes trials addressed Japanese atrocities. Japanese post-war analysis cited inadequate pre-invasion reinforcement and flawed defensive tactics.\n\n**Keywords**:  \nGuam 1944, amphibious tactics, Pacific War logistics, B-29 bases, Chamorro refugees",
+      "is_seed": false,
+      "expand_score": 0.8012111186981201
+    },
+    {
+      "community_key": "HotpotQA-validation-00002693/01_Hal-Moore.html_7",
+      "summary": "**Title**: Hal Moore’s Military Legacy  \n\n**Summary**:  \nLieutenant General Harold “Hal” Moore is best known for commanding 1st Battalion, 7th Cavalry during 1965’s Battle of Ia Drang, the Vietnam War’s first major helicopter-borne engagement. He and journalist Joseph L. Galloway chronicled the battle in the 1992 bestseller *We Were Soldiers Once… and Young*, later adapted into the 2002 film *We Were Soldiers*. The pair revisited Vietnam in their 2008 sequel *We Are Soldiers Still*. Decorated with the Distinguished Service Cross and other honors, Moore notably refused to wear a Purple Heart he felt he had not earned. In 2023 Fort Benning was renamed Fort Moore in his and his wife Julia’s honor, cementing his place in U.S. military history.  \n\n**Keywords**:  \nHal Moore, Ia Drang, *We Were Soldiers*, Joseph Galloway, Fort Moore",
+      "is_seed": false,
+      "expand_score": 0.8003433346748352
+    },
+    {
+      "community_key": "HotpotQA-validation-00002693/01_Hal-Moore.html_5",
+      "summary": "**Title**: Hal Moore’s Military Career\n\n**Summary**:  \nLieutenant General Harold “Hal” Moore’s career spanned 32 years, from West Point graduation in 1945 to 1977 retirement, marked by pioneering airborne tactics, combat leadership in Korea and Vietnam, and post-war personnel reforms. He spearheaded air-mobility innovations, famously commanded the 1-7 Cavalry through the 1965 Battle of Ia Drang, and later tackled racial strife and drug abuse in the 7th Infantry Division in Korea. After Vietnam, Moore shaped the all-volunteer Army while heading MILPERCEN and Army personnel policy, then capped his service as deputy chief of staff for personnel.\n\n**Keywords**:  \nIa Drang, air-mobility, 7th Cavalry, Vietnam War, personnel reform",
+      "is_seed": false,
+      "expand_score": 0.7957348823547363
+    },
+    {
+      "community_key": "HotpotQA-validation-00006567/01_Hal-Moore.html_7",
+      "summary": "**Title**: Hal Moore Military Legacy\n\n**Summary**:  \nLieutenant General Harold \"Hal\" Moore is best known for commanding the 1st Battalion, 7th Cavalry Regiment during the pivotal 1965 Battle of Ia Drang in Vietnam, later chronicled in the bestseller *We Were Soldiers Once… and Young* and its 2002 film adaptation. Moore and co-author Joseph L. Galloway revisited the war’s legacy in their 2008 sequel *We Are Soldiers Still*. Despite receiving the Purple Heart, Moore declined to wear it, formally requesting its revocation in 1968, citing the minor nature of his injury. His honors include the Distinguished Service Cross, the Order of Saint Maurice, and the Distinguished Graduate Award from West Point. In 2023, Fort Benning was renamed Fort Moore in his and his wife Julia’s honor.\n\n**Keywords**:  \nHal Moore, Battle of Ia Drang, We Were Soldiers, Purple Heart, Fort Moore",
+      "is_seed": false,
+      "expand_score": 0.7914167642593384
+    },
+    {
+      "community_key": "HotpotQA-validation-00006567/01_Hal-Moore.html_5",
+      "summary": "**Title**: Hal Moore’s Military Career\n\n**Summary**:  \nLieutenant General Harold “Hal” Moore’s career spanned 32 years, from West Point graduation in 1945 to post-Vietnam reforms. After airborne training in Japan, he led combat units in Korea, pioneered air-assault tactics at Fort Benning, and commanded the 1/7 Cavalry in the 1965 Battle of Ia Drang, earning the Distinguished Service Cross. He later shaped the all-volunteer Army, quelled racial strife in Korea, and co-authored the memoir *We Were Soldiers Once… And Young*.\n\n**Keywords**:  \nIa Drang, air-assault, 1st Cavalry, volunteer Army, We Were Soldiers",
+      "is_seed": false,
+      "expand_score": 0.7905617952346802
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "summary": "**Title:** Guam 1944 Battle Campaign\n\n**Summary:**  \nThe 1944 Battle of Guam saw U.S. Marines and Army forces execute a two-beach landing to retake the island from entrenched Japanese defenders. After overcoming fierce resistance at key points like Bundschu Ridge, Chonito Cliff, and Fonte Plateau, American units linked their northern and southern beachheads. Japanese commander Takashina launched a costly counterattack that failed, after which he shifted to guerrilla tactics before being killed. The campaign concluded with U.S. forces securing central Guam, inflicting ~3,500 Japanese casualties and suffering heavy losses themselves.\n\n**Keywords:** Guam 1944, Bundschu Ridge, Fonte Plateau, 3rd Marine Division, Japanese counterattack",
+      "is_seed": false,
+      "expand_score": 0.786066472530365
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001828/00_John-Andr.html_10",
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_12",
+      "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_2",
+      "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "HotpotQA-validation-00001828/00_John-Andr.html_2",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_1",
+      "HotpotQA-validation-00006284/03_Michael-Marlow-economist.html_0",
+      "HotpotQA-validation-00006567/02_Major-general-United-States.html_2",
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_7",
+      "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_6",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_24",
+      "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_12",
+      "HotpotQA-validation-00001828/00_John-Andr.html_2",
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_7",
+      "HotpotQA-validation-00001828/00_John-Andr.html_10",
+      "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00002693/01_Hal-Moore.html_7",
+      "HotpotQA-validation-00002693/01_Hal-Moore.html_5",
+      "HotpotQA-validation-00006567/01_Hal-Moore.html_7",
+      "HotpotQA-validation-00006567/01_Hal-Moore.html_5",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001828/00_John-Andr.html_10",
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_12",
+      "HotpotQA-validation-00001828/03_Siege-of-Yorktown.html_2",
+      "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "HotpotQA-validation-00001828/00_John-Andr.html_2",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00002693/00_Myron-F-Diduryk.html_1",
+      "HotpotQA-validation-00006284/03_Michael-Marlow-economist.html_0",
+      "HotpotQA-validation-00006567/02_Major-general-United-States.html_2",
+      "HotpotQA-validation-00001828/01_Benedict-Arnold.html_7",
+      "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_6",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_24",
+      "HotpotQA-validation-00004639/01_Battle-of-Qala-i-Jangi.html_0",
+      "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00002693/01_Hal-Moore.html_7",
+      "HotpotQA-validation-00002693/01_Hal-Moore.html_5",
+      "HotpotQA-validation-00006567/01_Hal-Moore.html_7",
+      "HotpotQA-validation-00006567/01_Hal-Moore.html_5",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14"
+    ],
+    "allowed_chunk_pool_size": 98,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

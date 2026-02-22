@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000984",
+  "question": "What is the name of the security guard protagonist portrayed by a bald action star in M. Night Shyamalan's superhero thriller about a man who discovers he cannot be physically harmed?",
+  "gold_answer": "David Dunn",
+  "llm_answer": "The name of the security guard protagonist portrayed by Bruce Willis is David Dunn.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the protagonist as David Dunn, aligning with the Gold Answer and the Retrieved Context. It is concise and faithful to the context provided, which explicitly states that David Dunn is portrayed by Bruce Willis and is the protagonist in M. Night Shyamalan's 'Unbreakable.'"
+  }
+}

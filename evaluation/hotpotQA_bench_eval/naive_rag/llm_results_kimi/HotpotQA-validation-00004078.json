@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004078",
+  "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+  "gold_answer": "1941",
+  "llm_answer": "1941",
+  "context": [
+    {
+      "text": "During World War II , Operation Cold Comfort was a failed SAS raid that began with a parachute drop north of Verona on 17 February 1945. It was later renamed Zombie . The 12 man ski team under Capt. Littlejohn, and their equipment were widely scattered in the drop, and thereafter found themselves among hostile locals of essentially German origin. Their mission was to block by landslide the main rail lines through the Brenner Pass , thus having a dramatic effect on German reinforcements moving south. The men spent most of their time in hiding and attempts to supply and reinforce by air were unsuccessful. Capt. Littlejohn and Corporal Crowley were captured and executed under Hitler ’s Commando Order . Eventually on 31 March the situation had worsened to the point exfiltration was ordered. References A list of special operations Includes a reference for the exact date of this mission. v t e",
+      "id": "HotpotQA-validation-00004078/00_Operation-Cold-Comfort.html_c_0"
+    },
+    {
+      "text": "by Belgian Special Forces Group F Squadron – responsible for signals and communications It was tasked with parachute operations behind the German lines in France and carried out operations supporting the Allied advance through France (Operations Houndsworth , Bulbasket , Loyton , Kipling and Wallace-Hardy ), Belgium, the Netherlands ( Operation Pegasus ), and eventually into Germany ( Operation Archway and Operation Howard ). As a result of Hitler's issuing of the Commando Order on 18 October 1942, the members of the unit faced the additional danger that they would be summarily executed if captured by the Germans. In July 1944, following Operation Bulbasket, 34 captured SAS commandos were indeed summarily executed by the Germans; in October 1944, in the aftermath of Operation Loyton, another 31 captured SAS commandos were summarily executed by the Germans. The last original member of the Special Air Service and the last survivor of the Long Range Desert Group, Mike Sadler , died on 4 January 2024, at the age of 103. Post-war At the end of the war the British government saw no further need for the force and disbanded it on 8 October 1945. The following year it was decided there was a need for a long-term deep-penetration commando unit and a new SAS regiment was to be raised as part of the Territorial Army. Ultimately, the Artists Rifles , raised in 1860 and headquartered at Dukes",
+      "id": "HotpotQA-validation-00004078/01_Special-Air-Service.html_c_3"
+    },
+    {
+      "text": "The Special Air Service ( SAS ) is a special forces unit of the British Army . It was founded as a regiment in 1941 by David Stirling , and in 1950 it was reconstituted as a corps . The unit specialises in a number of roles including counter-terrorism , hostage rescue , direct action and special reconnaissance . Much of the information about the SAS is highly classified , and the unit is not commented on by either the British government or the Ministry of Defence due to the secrecy and sensitivity of its operations. The corps consists of the 22 Special Air Service Regiment, which is the regular component, as well as the 21 Special Air Service Regiment (Artists) (Reserve) and the 23 Special Air Service Regiment (Reserve) , which are reserve units, all under the operational command of United Kingdom Special Forces (UKSF). Its sister unit is the Royal Navy 's Special Boat Service , which specialises in maritime counter-terrorism. Both units are under the operational control of the Director Special Forces . The Special Air Service traces its origins to 1941 during the Second World War . It was reformed as part of the Territorial Army in 1947, named the 21st Special Air Service Regiment (Artists Rifles). The 22nd Special Air Service Regiment, which is part of the regular army, gained fame and recognition worldwide after its televised rescue of all but two of the hostages held during the 1980 Iranian Embassy siege",
+      "id": "HotpotQA-validation-00004078/01_Special-Air-Service.html_c_0"
+    },
+    {
+      "text": "On 26 March 1991, Singapore Airlines Flight 117 was hijacked in flight by four men, who took all 129 people on board hostage. At Singapore Changi Airport , commandos from the SOF stormed the plane, killed the four hijackers and freed the hostages in under a minute. This also marked the SOF's first combat operation. Commando HQ was awarded a Medal of Valor and a unit citation for the success of the operation. Other operations Kopaska and SOF commandos in a joint exercise. It was reported that some SOF commandos have been deployed to Afghanistan under Operation Blue Ridge alongside regular Commandos. See also History of Singapore Armed Forces References Bibliography Neville, Leigh (2019). The Elite: The A–Z of Modern Special Operations Forces . Oxford: Osprey Publishing. ISBN 978-1472824295 . Wikimedia Commons has media related to Special Operations Force (Singapore) .",
+      "id": "HotpotQA-validation-00004078/02_Special-Operations-Force-Singapore.html_c_1"
+    },
+    {
+      "text": "The Special Operations Force ( SOF ) is the primary special forces unit of the Singapore Army responsible for conducting special operations . The SOF is only composed of highly trained regular servicemen, most of whom are from the Commandos formation. It is also a component of the Special Operations Task Force (SOTF), alongside the Special Warfare Group (SWG) of the Republic of Singapore Navy (RSN). History On 27 September 1972, a flight engineer aboard Olympic Airlines Flight 472 accidentally activated a hijack alarm. The flight, which had 31 passengers and 11 crew members on board, took off from Sydney, Australia at 1030 hours SST and was heading towards Paya Lebar Airport in Singapore. The Australian authorities were not informed of the situation until four hours later. Following a flurry of conflicting reports, Australia's Civil Aviation Safety Authority warned Paya Lebar Airport to be prepared for a possible hijack. Flight 472 landed in Singapore at 1825 hours SST and was immediately surrounded by the police before the Singapore authorities could confirm that it was a false alarm. The incident highlighted the lack of special forces trained and equipped to deal with a hijack or hostage situation in Singapore. As a result, an anti-terrorism team was formed which was renamed as the Special Operations Force in 1984. Operation Thunderbolt (1991) On 26 March 1991, Singapore Airlines Flight 117 was hijacked in flight by four men, who took all 129",
+      "id": "HotpotQA-validation-00004078/02_Special-Operations-Force-Singapore.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Operation Cold Comfort was carried out by the SAS (HotpotQA-validation-00004078/00_Operation-Cold-Comfort.html_c_0).\n- The SAS was founded as a regiment in 1941 by David Stirling (HotpotQA-validation-00004078/01_Special-Air-Service.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+      "doc_ids": [
+        "HotpotQA-validation-00004078/00_Operation-Cold-Comfort.html_c_0",
+        "HotpotQA-validation-00004078/01_Special-Air-Service.html_c_3",
+        "HotpotQA-validation-00004078/01_Special-Air-Service.html_c_0",
+        "HotpotQA-validation-00004078/02_Special-Operations-Force-Singapore.html_c_1",
+        "HotpotQA-validation-00004078/02_Special-Operations-Force-Singapore.html_c_0"
+      ]
+    }
+  ]
+}

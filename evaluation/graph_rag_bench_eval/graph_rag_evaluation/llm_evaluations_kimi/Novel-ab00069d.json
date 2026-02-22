@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ab00069d",
+  "question": "What evidence is provided in the novel of diplomatic relations between the Empire of Morocco and Great Britain, such as treaties and their ratification by Sultan Muley Ahmed-elt-Thabceby?",
+  "gold_answer": "The Empire of Morocco has treaties with Great Britain, and Sultan Muley Ahmed-elt-Thabceby ratified a treaty with Great Britain.",
+  "llm_answer": "The context mentions only that “Treaties between Great Britain and Morocco” exist and are “defective and requiring amendment,” but it gives no details of their content or of ratification by Sultan Muley Ahmed-elt-Thabceby.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that treaties between Great Britain and Morocco exist, as supported by the context. However, it does not address the ratification by Sultan Muley Ahmed-elt-Thabceby, which is a key part of the Gold Answer. While the context does not provide details on ratification, the omission of this aspect reduces evidence coverage and answer correctness."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003734",
+  "question": "What city does Paul Clyne and David Soares have in common?",
+  "gold_answer": "New York",
+  "llm_answer": "The city that Paul Clyne and David Soares have in common is Albany, New York.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Albany, New York, as the city that Paul Clyne and David Soares have in common. This is supported by the context, which details their roles as District Attorneys of Albany County, New York. The answer is accurate, grounded, and includes the key fact from the Gold Answer."
+  }
+}

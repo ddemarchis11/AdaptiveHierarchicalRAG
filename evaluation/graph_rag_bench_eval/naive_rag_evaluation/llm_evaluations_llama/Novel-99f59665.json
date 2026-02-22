@@ -1,0 +1,12 @@
+{
+  "id": "Novel-99f59665",
+  "question": "How are the padres' actions with the lasso ultimately linked to their mission?",
+  "gold_answer": "The padres used a lasso, which caught a heathen; the heathen fled from the padres, who had a mission.",
+  "llm_answer": "The padres' actions with the lasso are ultimately linked to their mission of converting the heathen and saving their souls. The padres use the lasso to catch and hold the heathen, making it easier for them to convert and save their souls. However, in the story, it is revealed that one of the heathen they caught was actually the devil, and the padre was punished by being dragged by the devil's spirit on a spirit horse, forced to swing the lasso, and return every year as a spirit. This punishment is a retribution for the padre's actions, and it is implied that the padres' actions with the lasso are not always successful or morally justifiable.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains how the padres' use of the lasso is linked to their mission of converting heathens and saving souls, as described in the context. It also includes additional details about the story, such as the punishment of the padre who lassoed the devil, which are supported by the retrieved context. All key facts from the Gold Answer are covered, and the extra information is relevant and grounded."
+  }
+}

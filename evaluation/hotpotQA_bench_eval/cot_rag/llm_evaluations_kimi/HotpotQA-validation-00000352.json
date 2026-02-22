@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000352",
+  "question": "Are both Rutgers University and Carnegie Mellon University located in America?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes.  \nEvidence shows Carnegie Mellon University is in Pittsburgh, Pennsylvania, United States, and Rutgers University has multiple campuses in New Jersey, United States.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that both Carnegie Mellon University and Rutgers University are located in the United States, aligning with the Gold Answer. The retrieved context provides sufficient evidence for this claim, mentioning Carnegie Mellon in Pittsburgh, Pennsylvania, and Rutgers with campuses in New Jersey. The Model Answer also includes relevant details about their locations, which are supported by the context."
+  }
+}

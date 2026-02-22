@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005415",
+  "question": "The \"unofficial national anthem\" of Australia is the basis for the nickname of what soccer team?",
+  "gold_answer": "Australian women's national soccer team",
+  "llm_answer": "The Australia women's national soccer team is nicknamed the Matildas, taken from the Australian folk song \"Waltzing Matilda\".",
+  "context": [
+    {
+      "text": "song\". Subsequent prime minister Paul Keating stated that \"['Waltzing Matilda'] has long been our unofficial national song. Not our anthem. As I've said before, one can't sing too solemnly about a jumbuck. But Waltzing Matilda is Australia's song and it always will be.\" Australian passports issued from 2003 have had the lyrics of \"Waltzing Matilda\" hidden microscopically in the background pattern of most of the pages for visas and arrival/departure stamps. Sports \"Waltzing Matilda\" was used at the 1974 FIFA World Cup and, as a response to the New Zealand All Blacks haka , it has gained popularity as a sporting anthem for the Australia national rugby union team .  It would have been played at award ceremonies at the Montreal Olympic Games in 1976 , but Australia received no gold medals. Matilda the Kangaroo was the mascot at the 1982 Commonwealth Games held in Brisbane , Queensland. Matilda was a cartoon kangaroo, who appeared as a 13-metre (43 ft) high mechanical kangaroo at the opening ceremony, accompanied by Rolf Harris singing \"Waltzing Matilda\". The Australian women's national soccer team is nicknamed the Matildas after this song. Jessica Mauboy and Stan Walker recorded a version of \"Waltzing Matilda\" to promote the London 2012 Summer Olympics in Australia. It was released as a single on 3",
+      "id": "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_39"
+    },
+    {
+      "text": "The Australia women's national soccer team is overseen by the governing body for soccer in Australia , Football Australia , which is currently a member of the Asian Football Confederation (AFC) and the regional ASEAN Football Federation (AFF) since leaving the Oceania Football Confederation (OFC) in 2006. The team's official nickname is \"the Matildas \" (from the Australian folk song \" Waltzing Matilda \"; officially known as the CommBank Matildas for sponsorship reasons ); they were known as the \"Female Socceroos \" before 1995. Australia is a three-time OFC champion, one-time AFC champion and one-time AFF champion. The team has represented Australia at the FIFA Women's World Cup on eight occasions (once as co-host in 2023 ) and at the Olympic Games on five, although it has won neither tournament. Their performance in the 2023 World Cup attracted significant nationwide attention and has had an impact on the perception of women's sport in Australia . History Foundation The Australian Women's Soccer Association (AWSA) was founded in 1974 and a representative Australian team competed at the 1975 AFC Women's Championship , although the team was comprised primarily from a club in New South Wales, St George Budapest , with some debate as to whether a national selection process was ever conducted. This team was officially recognised by Football Australia in May 2023, with all 16 members of the squad officially awarded caps. Pat",
+      "id": "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_0"
+    },
+    {
+      "text": "the side of an Ansett Boeing 737-300 in the mid-1990s In May 1988 the Australasian Performing Right Association (APRA) chief executive, John Sturman, presented five platinum awards, \"which recognised writers who had created enduring works which have become a major part of the Australian culture\", at the annual APRA Awards ceremony as part of their celebrations for the Australian Bicentenary . One of the platinum awards was for Paterson and Cowan's version of \"Waltzing Matilda\". Official use The song has never been the officially recognised national anthem in Australia. However, from 1976 to 1984 it was one of three \"national songs\" that could be used in place of the then national anthem, \" God Save the Queen \" (except for royal or vice-regal events). The Fraser government in 1977 included \"Waltzing Matilda\" in a plebiscite to choose the \"national song\". \"Waltzing Matilda\" received 28% of the vote compared with 43% for \" Advance Australia Fair \", 19% for \"God Save the Queen\" and 10% for \" Song of Australia \". Later the Hawke government advised the declaration of \"Advance Australia Fair\" as the national anthem, without reference to an official \"national song\". Subsequent prime minister Paul Keating stated that \"['Waltzing Matilda'] has long been our unofficial national song. Not our",
+      "id": "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_38"
+    },
+    {
+      "text": "Australia women's national soccer team results (1975–99) Australia women's national soccer team results (2000–09) Australia women's national soccer team results (2010–19) Matildas: The World at Our Feet Notes References Bibliography Williams, Jean (2007). \"Waltzing the Matildas: Women's Football in Australia\". A Beautiful Game: International Perspectives on Women's Football . Berg Publishers . ISBN 978-1845206758 . Crawford, Fiona; McGowan, Lee (2020). Never Say Die: The hundred-year overnight success of Australian women's football . Sydney, N.S.W.: NewSouth. ISBN 978-1-74223-666-7 . OCLC 1112693898 . External links Wikimedia Commons has media related to Australia women's national association football team . Official website FIFA profile Match Tracker – Andrew Howe – FFA Statistician",
+      "id": "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_32"
+    },
+    {
+      "text": "To date, they have played 55 different nations and governing bodies, across FIFA World Cups , invitational tournaments, the OFC Women's Nations Cup (until 2004), the AFC Women's Asian Cup (from 2006) and international friendlies. FIFA Women's World Cup Olympic Games OFC Women's Nations Cup AFC Women's Asian Cup ASEAN Women's Championship Honours Major tournaments OFC Women's Championship Champions: 1994 , 1998 , 2003 Runners-up: 1983 , 1986 , 1991 AFC Women's Asian Cup Champions: 2010 Runners-up: 2006 , 2014 , 2018 Regional AFF Women's Championship Champions: 2008 Minor tournaments Champions : Australia Cup – 1999, 2001, 2002 Champions : 2013 Centenary Cup Champions : 2017 Tournament of Nations Champions : Cup of Nations – 2019 , 2023 Champions : Torneio Cidade de Uberlândia (Brazil) – 1995 See also Australia portal Soccer portal Women's association football portal Australia men's national soccer team Sport in Australia Soccer in Australia Women's soccer in Australia A-League Women – Current Australian women's national league Women's National Soccer League (WNSL) – defunct Australian women's national league Australia women's national soccer team results (1975–99) Australia women's national soccer team results (2000–09) Australia women's national",
+      "id": "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_31"
+    }
+  ],
+  "cot_scratchpad": "- \"Waltzing Matilda\" is Australia's \"unofficial national song\" (HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_39).\n- Australian women's national soccer team nicknamed \"the Matildas\" after \"Waltzing Matilda\" (HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_39).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The \"unofficial national anthem\" of Australia is the basis for the nickname of what soccer team?",
+      "doc_ids": [
+        "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_39",
+        "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_0",
+        "HotpotQA-validation-00005415/01_Waltzing-Matilda.html_c_38",
+        "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_32",
+        "HotpotQA-validation-00005415/00_Australia-womens-national-soccer-team.html_c_31"
+      ]
+    }
+  ]
+}

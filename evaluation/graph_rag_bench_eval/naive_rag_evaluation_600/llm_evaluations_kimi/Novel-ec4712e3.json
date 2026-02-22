@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ec4712e3",
+  "question": "In what way did the storm affect the journey of the coach along the mountain road, considering the storm's fury spent on the mountain and the incident where the coach ran upon the pole-straps of the arrested horses?",
+  "gold_answer": "The storm spent its fury on the mountain, and the coach ran upon the pole-straps.",
+  "llm_answer": "The storm did not directly cause the coach to run upon the pole-straps of the arrested horses; that incident was caused by a tree that had fallen across the road. However, the storm did affect the journey by creating hazardous conditions—such as snow, wind, and darkness—that made travel along the mountain road more dangerous and difficult.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides additional context about the storm's impact on the journey, but it incorrectly attributes the incident with the pole-straps to a fallen tree, which is not supported by the retrieved context. While the storm's hazardous conditions are mentioned, the core facts from the Gold Answer—specifically the storm spending its fury on the mountain and the coach running upon the pole-straps—are only partially addressed. The explanation about the tree is not grounded in the provided context, reducing faithfulness and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003503",
+  "question": "YouPorn was surpassed, in 2013, by competitor sites xHamster, Pornhub, LiveJasmin, and this website that is registered to the Polish company WGCZ Holding?",
+  "gold_answer": "XVideos",
+  "llm_answer": "The website that is registered to the Polish company WGCZ Holding and surpassed YouPorn in 2013 is XVideos.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "API Error or Invalid JSON after retries"
+  }
+}

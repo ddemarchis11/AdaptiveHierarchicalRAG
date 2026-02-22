@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001766",
+  "question": "An eighteenth-century Italian physician who studied alongside the man credited with founding a discipline concerned with biological responses to electrical stimuli — what was that field?",
+  "gold_answer": "bioelectromagnetics",
+  "llm_answer": "The field concerned with biological responses to electrical stimuli was \"animal electricity\" or \"bioelectricity\".",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'animal electricity' or 'bioelectricity' as fields related to biological responses to electrical stimuli, which aligns with the context provided. However, the Gold Answer specifies 'bioelectromagnetics,' which is a more precise term for the discipline. The Model Answer does not explicitly mention 'bioelectromagnetics,' leading to partial correctness and incomplete evidence coverage."
+  }
+}

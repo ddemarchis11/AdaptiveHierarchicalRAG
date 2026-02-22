@@ -1,0 +1,53 @@
+{
+  "id": "HotpotQA-validation-00000949",
+  "question": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+  "gold_answer": "Tatton Park",
+  "llm_answer": "The Northern Chamber Orchestra gives concerts at Tatton Park, which is owned by the National Trust.",
+  "context": [
+    {
+      "text": "Northern Chamber Orchestra (NCO) is a British chamber orchestra based in Manchester , England . Established in 1967, the orchestra gives concerts at The Kings' School, Macclesfield and The Stoller Hall , Manchester as well as a Christmas concert at Tatton Park , Knutsford and one-off engagements around the country. They are also currently the resident orchestra for the Buxton Festival . History The NCO was founded in 1967, and gave its concerts at The Heritage Centre in Macclesfield. Diana Cummings was leader and soloist of the NCO for 10 years, from 1975 to 1985. From 1985 to 2022, the NCO's musical director and leader was Nicholas Ward. David Ellis served as the NCO's artistic director and composer-in-residence from 1986 until the mid-1990's. In 2022, the NCO announced the relocation of its concerts from The Heritage Centre to The Kings' School. In July 2024, the NCO announced the appointments of Zöe Beyers as its next music director and of Sarah Brandwood-Spencer as its new associate director. The orchestra has recorded commercially for the Naxos label , including works by composers such as Joseph Haydn , Wolfgang Amadeus Mozart and Georg Philipp Telemann . References External links Official Northern Chamber Orchestra website Naxos Records page on the Northern Chamber Orchestra Association of British Orchestras page on",
+      "id": "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_0"
+    },
+    {
+      "text": "Telemann . References External links Official Northern Chamber Orchestra website Naxos Records page on the Northern Chamber Orchestra Association of British Orchestras page on the Northern Chamber Orchestra East Riding of Yorkshire Council, 16 September 2008, information on £3,750 grant from Orchestras Live Charity Commission for England and Wales page on Northern Chamber Orchestra Limited Musicweb International website review of Naxos 8.554019, Telemann, Don Quixote Suite v t e v t e",
+      "id": "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_1"
+    },
+    {
+      "text": "Tatton Hall and the Italian Garden Tatton Park is a historic estate in Cheshire , England, north of the town of Knutsford . It contains a mansion, Tatton Hall ; a medieval manor house , Tatton Old Hall ; Tatton Park Gardens , a farm and a deer park of 2,000 acres (8.1 km 2 ). It is a popular visitor attraction and hosts over a hundred events annually. The estate is owned by the National Trust and is managed under lease by Cheshire East Council . Since 1999, it has hosted North West England 's annual Royal Horticultural Society flower show. History Village There is evidence of human habitation in the area of the estate going back to the Iron Age . The village of Tatton existed in medieval times. The settlement is now a Deserted medieval village but its buildings and roadways – which are now a scheduled monument – can still be seen as imprints within the estate's parkland. Old Hall By the end of the 15th century, the land on which the estate was created was owned by the Stanley family who built and occupied what became known as the Old Hall. By the 1580s this building had been enlarged and it was owned by the Brereton family. In 1598 the estate was bought by Sir Thomas Egerton , Lord Chancellor of England, from his half sister Dorothy Brereton. Sir Thomas and his children rarely visited the estate and it was rented to",
+      "id": "HotpotQA-validation-00000949/01_Tatton-Park.html_c_0"
+    },
+    {
+      "text": "in the squares, in the Dean's Park , or at the Eye of York. They go around the streets, recreating the original productions. In 2012, the York Mystery Plays were performed between 2 and 27 August at St Mary's Abbey in the York Museum Gardens . Music The Academy of St Olave's , a chamber orchestra which gives concerts in St Olave's Church, Marygate , is one of the music groups that perform regularly in York. A former church, St Margaret's, Walmgate , is the National Centre for Early Music , which hosts concerts, broadcasts, competitions and events including the York Early Music Festival . Students, staff and visiting artists of York St John University music department regularly perform lunchtime concerts in the university chapel. The staff and students of the University of York also perform in the city. Food and drink Each September since 1997, York has held an annual Festival of Food and Drink. The aim of the festival is to spotlight food culture in York and North Yorkshire by promoting local food production. The Festival attracts up to 150,000 visitors over 10 days from all over the country. The Assize of Ale is an annual event in the city where people in medieval costume take part in a pub crawl to raise money for local charities. It has its origins in the 13th century, when an Assize of Bread and Ale was used to regulate the quality of goods. The current version was resurrected in",
+      "id": "HotpotQA-validation-00007399/01_York.html_c_39"
+    },
+    {
+      "text": "Michel Fau (The Diva). EuropaChorAkademie & Mahler Chamber Orchestra , conducted Tugan Sokhiev . Stage Direction, Philippe Calvario. Coproduction Festival d'Aix-en-Provence 2004, Teatro Real de Madrid . DVD Tugan Sokhiev Bel Air Classics. Russian subtitles. In English 1989: Opera North , Mark Glanville (King of Clubs), Peter Jeffes (the Prince), Patricia Payne (Princess Clarissa), Andrew Shore (Leander), Paul Harrhy (Trouffaldino), Alan Oke (Pantalone), Roger Bryson (the magician, Chelio), Maria Moll (Fata Morgana), Lesley Roberts (Linetta), Victoria Sharp (Nicoletta), Juliet Booth (Ninetta), Richard Angas (the Cook), Mark Lufton (Farfarello), Stephen Dowson (Herald), Terry Whan (Acrobat), Maria Jagusz (Smeraldina). Chorus Opera North & English Northern Philharmonia , conducted David Lloyd-Jones . Stage Direction, Richard Jones . Audio Recordings of the Suite National Symphony Orchestra cond. Leonard Slatkin , BMG Classics , 1998 ORTF National Orchestra cond. Lorin Maazel , Sony Classical , 1991 Royal Scottish National Orchestra cond. Neeme Järvi , Chandos , 1989 Dallas Symphony Orchestra cond. Eduardo Mata , Red Seal Digital",
+      "id": "HotpotQA-validation-00006746/01_The-Love-for-Three-Oranges.html_c_8"
+    }
+  ],
+  "cot_scratchpad": "- The Northern Chamber Orchestra gives concerts at Tatton Park.\n- Tatton Park is owned by the National Trust.\n- The estate is managed under lease by Cheshire East Council.\n- (HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_0)\n- (HotpotQA-validation-00000949/01_Tatton-Park.html_c_0)\n- The Northern Chamber Orchestra gives concerts at Tatton Park.\n- Tatton Park is owned by the National Trust.\n- The estate is managed under lease by Cheshire East Council.\n- The estate is owned by the National Trust.\n- The estate is managed under lease by Cheshire East Council.\n- The estate is owned by the National Trust.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+      "doc_ids": [
+        "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_0",
+        "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_1",
+        "HotpotQA-validation-00000949/01_Tatton-Park.html_c_0",
+        "HotpotQA-validation-00007399/01_York.html_c_39",
+        "HotpotQA-validation-00006746/01_The-Love-for-Three-Oranges.html_c_8"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "The estate owned by the National Trust where the Northern Chamber Orchestra gives concerts",
+      "doc_ids": [
+        "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_0",
+        "HotpotQA-validation-00000949/00_Northern-Chamber-Orchestra.html_c_1",
+        "HotpotQA-validation-00007399/01_York.html_c_39",
+        "HotpotQA-validation-00000949/01_Tatton-Park.html_c_0",
+        "HotpotQA-validation-00006746/01_The-Love-for-Three-Oranges.html_c_8"
+      ]
+    }
+  ]
+}

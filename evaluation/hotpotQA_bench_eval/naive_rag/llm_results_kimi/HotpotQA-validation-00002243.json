@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002243",
+  "question": "How many Academy Awards did the film, in which Jimmy Bryant provided the singing voice for the character Tony, win ?",
+  "gold_answer": "10",
+  "llm_answer": "The evidence provided does not specify how many Academy Awards the 1961 film *West Side Story* won.",
+  "context": [
+    {
+      "text": "James Howard Bryant (June 2, 1929 – June 22, 2022) was an American singer, arranger and composer. He is best known for providing the singing voice of Tony (played onscreen by Richard Beymer ) in the 1961 film musical West Side Story . While he received no screen credit, he states that Beymer was \"a nice guy, and every time he did an interview he would mention my name.\" He also sang for James Fox in the 1967 film musical Thoroughly Modern Millie , and sang in \"The Telephone Hour\" number in Bye Bye Birdie . He also sang in the group that performed the theme song of the TV series Batman . Bryant was born in Birmingham, Alabama , United States, and grew up in Tarrant, Alabama . He attended Birmingham Southern College and the Birmingham Conservatory of Music before receiving a Scholarship in Composition at the New England Conservatory of Music in Boston, Massachusetts . He then moved to New York City in 1953, where he worked as a background singer. He later moved to Los Angeles and played bass in the house band at Puccini's, a Beverly Hills restaurant owned by Frank Sinatra . His work as an orchestrator included the films Not with My Wife, You Don't! , Penelope and the television series Lost in Space . He also composed music heard at Walt Disney World and Tokyo Disneyland . Bryant also scored the music for numerous radio and television commercials for clients such as",
+      "id": "HotpotQA-validation-00002243/00_Jimmy-Bryant-singer.html_c_0"
+    },
+    {
+      "text": "Hugh Michael Jackman (born 12 October 1968) is an Australian actor, singer, and producer. Beginning in theatre and television, Jackman landed his breakthrough role as Wolverine , playing it across the X-Men film franchise and in the Marvel Cinematic Universe from X-Men (2000) to Deadpool & Wolverine (2024). Prominent on both screen and stage , he has received various accolades , including a Primetime Emmy Award , a Grammy Award and two Tony Awards , along with nominations for an Academy Award and a British Academy Film Award . Jackman was appointed a Companion of the Order of Australia in 2019. Jackman has headlined films in various genres, including the romantic comedy Kate & Leopold (2001), the action-horror Van Helsing (2004), the drama The Prestige (2006), the period romance Australia (2008), the science fiction Real Steel (2011), the musical Les Misérables (2012), the thriller Prisoners (2013), the musical The Greatest Showman (2017), the political drama The Front Runner (2018), and the crime drama Bad Education (2019). For his role as Jean Valjean in Les Misérables , he was nominated for the Academy Award for Best Actor and won a Golden Globe Award for Best Actor , and for The Greatest Showman soundtrack , Jackman received a Grammy Award for Best Compilation Soundtrack . He also provided voice roles in the animated films",
+      "id": "HotpotQA-validation-00005492/03_Hugh-Jackman.html_c_0"
+    },
+    {
+      "text": "series that aired on September 11, 1957, and the Disneyland USA at Radio City Music Hall show from 1962. MacDonald voiced Mickey in most of the remaining theatrical shorts and for various television and publicity projects up until his retirement in 1976. However, other actors would occasionally play the role during this era. Clarence Nash , the voice of Donald Duck, provided Mickey's voice in four theatrical shorts, Plutopia , R'coon Dawg , Pluto's Party , and Pluto's Christmas Tree . Stan Freberg voiced Mickey in the Freberg-produced record Mickey Mouse's Birthday Party . Alan Young voiced Mickey in the Disneyland record album An Adaptation of Dickens' Christmas Carol, Performed by The Walt Disney Players in 1974. The 1983 short film Mickey's Christmas Carol marked the theatrical debut of Wayne Allwine as Mickey Mouse, who was the official voice of Mickey from 1977 until his death in 2009, although MacDonald returned to voice Mickey for an appearance at the 50th Academy Awards in 1978. Allwine once recounted something MacDonald had told him about voicing Mickey: \"The main piece of advice that Jim gave me about Mickey helped me keep things in perspective. He said, 'Just remember kid, you're only filling in for the boss.' And that's the way he treated doing Mickey for years and years. From Walt, and now from Jimmy.\" In 1991, Allwine married Russi Taylor , the voice of",
+      "id": "HotpotQA-validation-00005518/01_Mickey-Mouse.html_c_28"
+    },
+    {
+      "text": "doing Mickey for years and years. From Walt, and now from Jimmy.\" In 1991, Allwine married Russi Taylor , the voice of Minnie Mouse from 1986 until her death in 2019. Peter Renaday voiced Mickey in many 1970s and 1980s Disney records and albums, such as Yankee Doodle Mickey , Mickey Mouse Splashdance , and several Disney Read-Along titles. He also provided his voice for The Talking Mickey Mouse toy in 1986. Jack Wagner voiced Mickey and other Disney characters in the 1980s, primarily for live entertainment offerings in the parks, Disney on Ice shows, and live-action clips for television. Les Perkins did the voice of Mickey in two TV specials, \"Down and Out with Donald Duck\" and \"DTV Valentine\", in the mid-1980s. Quinton Flynn briefly filled in for Allwine as the voice of Mickey in a few episodes of the first season of Mickey Mouse Works whenever Allwine was unavailable to record. Bret Iwan , a former Hallmark greeting card artist, has been the official voice of Mickey since 2009. Iwan was originally cast as an understudy for Allwine due to the latter's declining health, but Allwine died before Iwan could get a chance to meet him and Iwan became the new official voice of the character at the time. Iwan's early recordings in 2009 included work for the Disney Cruise Line , Mickey toys, the Disney",
+      "id": "HotpotQA-validation-00005518/01_Mickey-Mouse.html_c_29"
+    },
+    {
+      "text": "to purchase the company. Films and theater The multi- Academy Award -winning 1955 film Marty , an independently produced movie that undercut the Hollywood studio system, provided a business template Klein closely studied and later adapted to the recording industry. In the late 1950s Klein shared an office with press agent Bernie Kamber, who represented Burt Lancaster , one of Marty 's producers. Klein absorbed much from Kamber about how the producers had structured their business model, a paradigm whose strength derived from the fact that artists, not film studios or record labels, drove marketplace success and that intense preparation and canny negotiation could lavishly reward artists and their representatives. In 1961 Klein did accountancy work for an independent film, Force of Impulse , and formed lasting relationships that he turned to for many film projects of his own. In 1962 he produced a film, Without Each Other . He took it to the Cannes Film Festival and later claimed that it had won the \"Best American Picture Award\" there, though no such award existed. A distributor never materialized, but Klein's enthusiasm for film persisted. Starting in 1967 Klein produced four films in the Spaghetti Western genre, a lean-and-mean style of cowboy movie with taciturn heroes and explosive violence. Klein used actor Tony Anthony , whom he'd met on Force of Impulse , in all four. Their films included a trilogy comprising A Stranger In Town , The Stranger Returns (1967), and The Silent Stranger",
+      "id": "HotpotQA-validation-00004709/01_Allen-Klein.html_c_20"
+    },
+    {
+      "text": "West Side Story is a 1957 American musical. West Side Story or Westside Story may also refer to: Related to the musical West Side Story (Original Broadway Cast) , a 1957 recording West Side Story (1961 film) , an adaptation directed by Robert Wise and Jerome Robbins West Side Story (1961 soundtrack) West Side Story , a novelization of the film by Irving Shulman West Side Story (2021 film) , an adaptation directed by Steven Spielberg West Side Story (2021 soundtrack) West Side Story Suite , a 1995 ballet West Side Story (André Previn album) (1959) West Side Story (Cal Tjader album) (1962) West Side Story (Oscar Peterson Trio album) (1962) Kenton's West Side Story , a 1961 album by Stan Kenton West Side Story , a 1961 album by Ferrante & Teicher West Side Story (Earl Hines album) West Side Story , a 1985 album by the Philip Jones Brass Ensemble West Side Story: The Original Score , a 2002 album by the Nashville Symphony Other uses Westside Story (The Game album) (2004) \"Westside Story\" (song) Westside Story (5566 album) Westside Story (TV series) , a Taiwanese idol drama starring 5566 See also East Side Story (disambiguation) Southside Story (disambiguation) \" Upper West Side",
+      "id": "HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Jimmy Bryant sang Tony in 1961 film musical West Side Story (HotpotQA-validation-00002243/00_Jimmy-Bryant-singer.html_c_0)\n- Need award wins for West Side Story (HotpotQA-validation-00002243/00_Jimmy-Bryant-singer.html_c_0)\n- Jimmy Bryant sang for Tony in the 1961 film West Side Story (Novel-00002243/00_Jimmy-Bryant-singer.html_c_0)\n- First evidence set lists film titles but no Oscar count for West Side Story (Novel-00002243/01_West-Side-Story-film.html_c_0)\n- No Oscar win figure found so far (Novel-00002243/01_West-Side-Story-film.html_c_0)\n- Jimmy Bryant sang Tony in the 1961 film West Side Story (Novel-00002243/00_Jimmy-Bryant-singer.html_c_0)\n- No source yet gives an Oscar win count for West Side Story (HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "How many Academy Awards did the film, in which Jimmy Bryant provided the singing voice for the character Tony, win ?",
+      "doc_ids": [
+        "HotpotQA-validation-00002243/00_Jimmy-Bryant-singer.html_c_0",
+        "HotpotQA-validation-00005492/03_Hugh-Jackman.html_c_0",
+        "HotpotQA-validation-00005518/01_Mickey-Mouse.html_c_28",
+        "HotpotQA-validation-00005518/01_Mickey-Mouse.html_c_29",
+        "HotpotQA-validation-00004709/01_Allen-Klein.html_c_20"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "West Side Story Oscars won",
+      "doc_ids": [
+        "HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_0",
+        "HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_1",
+        "HotpotQA-validation-00003404/01_Raymond-Carver.html_c_16",
+        "HotpotQA-validation-00005673/01_Spike-Lee.html_c_13",
+        "HotpotQA-validation-00005711/03_Loveleen-Tandan.html_c_3"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "West Side Story 1961 Oscars awards count",
+      "doc_ids": [
+        "HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_0",
+        "HotpotQA-validation-00005840/02_Comic-book-convention.html_c_3",
+        "HotpotQA-validation-00002243/01_West-Side-Story-film.html_c_1",
+        "HotpotQA-validation-00004113/01_Count-Basie.html_c_16",
+        "HotpotQA-validation-00004113/01_Count-Basie.html_c_26"
+      ]
+    }
+  ]
+}

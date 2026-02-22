@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "The narrative claims that Maya, a prince of the Davanas, “established himself” in Hindostan, and that the names of the Magi (learned Chaldeans) mean the same as “Maya” there—magician/astronomer—so a figure explicitly called “Maya” was present in Hindostan and the word’s meaning parallels the American Maya. Beyond this single reference the texts only note scattered resemblances (deities called Maia, similar rites, etc.) and explicitly deny that the American Mayas received their civilization from Asia; thus the “relationship” is limited to the coincidence of the name and a few shared customs, not to any demonstrated historical or cultural transmission.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the relationship between Mayab and Hindostan as described in the narrative, including the presence of Maya in Hindostan and the similarity of customs and names. It provides additional context about the limited nature of the relationship and explicitly denies cultural transmission, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2e0ffce2",
+  "question": "Write a diary entry as the Parrot, describing your life with your mistress, the farewell, and being snatched away, while referencing the trouble caused to her lover.",
+  "gold_answer": "Diary Entry — My days with my mistress were filled with warmth and chatter. Today, I said farewell to Corinna, her eyes glistening with sorrow. I was snatched away by envy, separated from her gentle hands. I have heard it said that my mistress is born to be a cause of trouble to her lover, and perhaps, even my loss plays a part in the tangled affairs of the heart.",
+  "llm_answer": "Diary of the Parrot\n\nDay unknown, in the house of Corinna.\n\nI perched beside her mirror, repeating her endearments in my own voice, emerald wings preened for her delight.  She laughed, called me her “little green echo,” and let me kiss her lips with my horny beak.  I tasted the saffron she used to tint her mouth; I learned to cry “Corinna!” exactly as her lover did when he rattled the stubborn door at night.\n\nHe brought me from the farthest East, a gift to make amends for the bruise he left on her arm.  I was to be peace-offering and sentinel both.  While he whispered excuses I mimicked his sighs, and Corinna would smile through fresh tears.  Thus I became the unpaid broker of their quarrels.\n\nYesterday fever struck.  My feathers dulled to moss, my tongue thickened, yet I still managed “Corinna, farewell!” as the shadow called Destiny uncovered her distaff.  Today I lie beneath a small stone that declares I was my mistress’s favorite; my bones are quiet, but my words, they say, still flutter through her room.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the essence of the Gold Answer, elaborating on the parrot's life with Corinna, the farewell, and its role in her lover's troubles. It is detailed and creative, but all claims are consistent with the retrieved context, including the parrot's mimicry, its farewell to Corinna, and its symbolic role in the lover's affairs. The additional details enrich the narrative without deviating from the core facts provided in the Gold Answer."
+  }
+}

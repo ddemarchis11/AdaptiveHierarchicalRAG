@@ -1,0 +1,12 @@
+{
+  "id": "Novel-040ac0aa",
+  "question": "How do the actions of the Green Man, such as meeting Eileen Macarthy, granting Eily a wish, asking questions of Eily, and receiving answers from Eily, overlap or differ in his interactions with both Eily and Eileen Macarthy within the story?",
+  "gold_answer": "The Green Man meets Eileen Macarthy, gives Eily a wish, asks Eily questions, and receives answers from Eily, showing his interactions with both Eily and Eileen Macarthy.",
+  "llm_answer": "The evidence shows only one continuous interaction: the Green Man meets, questions, and grants a wish to a single child who gives both names “Eileen Macarthy” and “Eily.”  \nNo separate or differing actions toward an “Eileen Macarthy” distinct from “Eily” appear in the text; the names are used interchangeably for the same person.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the Green Man interacts with a single character referred to interchangeably as 'Eileen Macarthy' and 'Eily,' which aligns with the context. However, it does not fully address the overlap or differences in the Green Man's actions toward Eily/Eileen as described in the Gold Answer. While the Model Answer is faithful to the context, it misses the broader comparison of interactions and does not explicitly cover all actions mentioned in the Gold Answer, such as granting a wish and receiving answers."
+  }
+}

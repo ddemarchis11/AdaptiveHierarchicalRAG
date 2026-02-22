@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "The figure or concept described as coming to the Poet in the narrative's depiction of poetic inspiration is the \"thyrsus of Bacchus.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that 'Tragedy came to the Poet,' which is supported by the retrieved context mentioning Roman Tragedy gaining celebrity through the Poet. The Model Answer incorrectly identifies the 'thyrsus of Bacchus' as the figure or concept, which is not supported by the context and does not align with the Gold Answer. This results in a complete mismatch in correctness, faithfulness, and evidence coverage."
+  }
+}

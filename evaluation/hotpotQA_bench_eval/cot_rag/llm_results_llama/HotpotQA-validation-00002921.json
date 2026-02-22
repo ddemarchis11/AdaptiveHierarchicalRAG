@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002921",
+  "question": "What kind of company is this group whose headquarters are in AIA Central?",
+  "gold_answer": "pan-Asian life insurance group",
+  "llm_answer": "The company is an insurance and finance corporation.",
+  "context": [
+    {
+      "text": "The AIA Central (Chinese: 友邦金融中心 ), formerly called AIG Tower ( 美國國際集團大廈 ), in Hong Kong is a 185-metre (607 ft.), 37-storey skyscraper that was completed in 2005 and serves as the headquarters of AIA Group . It is located in Central , not far from the landmark Bank of China Tower . The Furama Kempinski Hotel , famous for its revolving restaurant, formerly stood on the same lot that the former AIG Tower rises from, but in December 2001, the 33-storey hotel was demolished to make way for the AIG Tower. The tower was renamed to AIA Central on 9 July 2009. The building was jointly developed by Lai Sun Development , CapitaLand , and American International Group (AIG). The architectural firm Skidmore, Owings & Merrill designed the building to look like the Chinese junk , a Chinese sailboat design dating from ancient times and still in use today. Leslie E. Robertson Associates are the structural engineers for this project. As well they included a pedestrian bridge linking the tower to the Hong Kong elevated walkway network. The building has approximately 41,777 m² (450,000 ft²) of office accommodation. Plot history The 999-year leasehold site has an area of 24,427 square feet (2,269 m 2 ).",
+      "id": "HotpotQA-validation-00002921/00_AIA-Central.html_c_0"
+    },
+    {
+      "text": "Hotel, the construction of the new tower AIA Central commenced in November 2002. AIA Central is a 37-storey grade A office building with a gross floor area of approximately 41,777 square metres. It provides 26 floors of prime office space, each of some 13,000 – 15,000 square foot lettable area with a total gross area of 450,000 square foot. The building was developed by Bayshore Development Group Limited, a joint venture of AIA and Lai Sun Development Company Limited. Gallery Westerly view of AIA Central in August 2006, Ritz Carlton on the left AIA Central amongst the Hong Kong skyline in February 2006 Lobby of AIA Central Transfer level Lobby of AIA Central Bridge See also List of tallest buildings in Hong Kong References External links Wikimedia Commons has media related to AIA Central . Tower's website AIG Tower on SOM.com",
+      "id": "HotpotQA-validation-00002921/00_AIA-Central.html_c_2"
+    },
+    {
+      "text": "billion. AIA Insurance Holdings Limited (stock code: 1299) was, at one point, tied with Tencent as the largest constituent of the Hang Seng Index during the February 2021 review. However, following multiple index adjustments, its weighting gradually declined to 4.72% as of June 2025. According to provisional statistics from the Insurance Authority and the Securities and Futures Commission for Hong Kong's long-term insurance and investment securities business from January to December 2017, AIA has over 3 million customers. It is the insurance and investment securities company with the most policies in Hong Kong, meaning roughly one in every four Hong Kong residents with medical insurance or investment securities is an AIA Hong Kong customer. Additionally, combined membership of MDRT (Million Dollar Round Table) in AIA Hong Kong and AIA Macau ranked first for the 17th consecutive year. History AIA traces its roots to 19 December 1918 when Cornelius Vander Starr founded what was then known as American Asiatic Underwriters in Shanghai , China (later American International Underwriters). Starr eventually expanded his business throughout the world. On 21 January 1939, Starr relocated his head office from Shanghai to New York City after the Japanese invasion of China and again on 5 April 1949 with the communist takeover of mainland China, and the Chinese AIA became a subsidiary of New York-based American International Group (AIG). On 1 December 2009,",
+      "id": "HotpotQA-validation-00002921/01_AIA-Group.html_c_2"
+    },
+    {
+      "text": "AIA Group Limited , often known as AIA ( Chinese : 友邦保險 ; Jyutping : Jau5 bong1 bou2 him2 ), is a Hong Kong–based multinational insurance and finance corporation. It is the largest publicly traded life insurance group in the Asia-Pacific region. It offers insurance and financial services, writing life insurance for individuals and businesses, as well as accident and health insurance, and offers retirement planning, and wealth management services, variable contracts, investments and securities. AIA is headquartered in Central, Hong Kong , with a presence in 18 markets in Asia-Pacific, with wholly owned branches and subsidiaries in Hong Kong, mainland China, Taiwan, Macau, South Korea, Singapore, Thailand, Malaysia, the Philippines , Indonesia, Vietnam, Brunei, Cambodia, Myanmar, Australia, New Zealand, Sri Lanka and a 49% joint venture in India. Since 2013, AIA has had an exclusive bancassurance agreement with Citibank that encompasses 11 AIA markets in Asia-Pacific. In August 2013, AIA became the official shirt partner of the English Premier League football club Tottenham Hotspur . AIA's contract with Tottenham was renewed in May 2017 to extend through the 2021–22 Premier League season, and again in July 2019 to extend that date to the end of the 2026–27 season. In February 2019, AIA signed a two-year deal",
+      "id": "HotpotQA-validation-00002921/01_AIA-Group.html_c_0"
+    },
+    {
+      "text": "mainland China, and the Chinese AIA became a subsidiary of New York-based American International Group (AIG). On 1 December 2009, AIG sold preferred equity interests in two newly formed international life insurance subsidiaries, American International Assurance Company, Limited (AIA) and American Life Insurance Company (ALICO), to the Federal Reserve Bank of New York to reduce its debt by US$25 billion. AIA had planned to be a listed company in Hong Kong Stock Exchange and Securities and Futures Commission on 3 April 2010. However, on 2 March 2010, Prudential PLC , a UK-based financial services and securities company, announced that it would buy AIA for US$35.5 billion. The purchase later fell through, and AIA held an IPO in October 2010, raising approximately HK$159.08 billion (US$20.51 billion), which at the time was the world's third largest IPO ever (currently sixth as of June 2023). On 11 September 2012, AIA acquired a 92.3% stake in Sri Lankan insurer Aviva NDB Insurance from British insurer Aviva and Sri Lanka's National Development Bank (NDB). AIA also entered into an exclusive 20-year bancassurance agreement with NDB, one of Sri Lanka's largest financial conglomerates with a nationwide bank branch network. On 7 October 2012, AIA acquired ING Group 's Malaysian insurance",
+      "id": "HotpotQA-validation-00002921/01_AIA-Group.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- AIA Group is a multinational insurance and finance corporation (HotpotQA-validation-00002921/01_AIA-Group.html_c_0).\n- AIA Group is headquartered in Central, Hong Kong (HotpotQA-validation-00002921/01_AIA-Group.html_c_0).\n- AIA Group offers insurance and financial services (HotpotQA-validation-00002921/01_AIA-Group.html_c_0).\n- AIA Group has a presence in 18 markets in Asia-Pacific (HotpotQA-validation-00002921/01_AIA-Group.html_c_0).\n- AIA Central is the headquarters of AIA Group (HotpotQA-validation-00002921/00_AIA-Central.html_c_0).\n- AIA Central is a 37-storey grade A office building (HotpotQA-validation-00002921/00_AIA-Central.html_c_2).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What kind of company is this group whose headquarters are in AIA Central?",
+      "doc_ids": [
+        "HotpotQA-validation-00002921/00_AIA-Central.html_c_0",
+        "HotpotQA-validation-00002921/00_AIA-Central.html_c_2",
+        "HotpotQA-validation-00002921/01_AIA-Group.html_c_2",
+        "HotpotQA-validation-00002921/01_AIA-Group.html_c_0",
+        "HotpotQA-validation-00002921/01_AIA-Group.html_c_3"
+      ]
+    }
+  ]
+}

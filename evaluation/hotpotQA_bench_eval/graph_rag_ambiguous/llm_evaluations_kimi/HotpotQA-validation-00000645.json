@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000645",
+  "question": "Which American comedian and talk show host, born in the early 1960s, had a supporting role in a romantic comedy set in Seattle about a widowed architect and a radio call-in show?",
+  "gold_answer": "Rosie O'Donnell",
+  "llm_answer": "Rosie O'Donnell, born in 1962, played the supporting role of Becky in the romantic comedy *Sleepless in Seattle*, which centers on a widowed architect and a radio call-in show.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Rosie O'Donnell as the comedian and talk show host born in 1962 who had a supporting role in the romantic comedy 'Sleepless in Seattle.' It also provides additional context about her role as Becky, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

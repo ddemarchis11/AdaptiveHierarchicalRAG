@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bd895d07",
+  "question": "According to the CHILD'S HEALTH PRIMER, how does the body process food for use in growth and energy, specifically through the preparation of food by the stomach and the transportation of this food by the blood?",
+  "gold_answer": "The stomach prepares food, and food is carried by blood.",
+  "llm_answer": "According to the CHILD'S HEALTH PRIMER, the body processes food for use in growth and energy as follows:\n\n1. The stomach prepares the food by mixing it with gastric juice, turning it into a gray fluid.\n2. The stomach then sends the prepared food into the intestines, a long, coiled tube.\n3. The prepared food is taken into the blood from the intestines.\n4. The blood carries the food to the heart.\n5. The heart pumps the blood out with the prepared food into the lungs.\n6. The lungs use fresh air to make the dark, impure blood bright and pure again.\n7. The blood then carries the food to every part of the body, leaving with each part just what it needs.\n\nThe blood transports the prepared food to all parts of the body through arteries, which are tubes that lead by thousands of little branches all through the body. The blood is pumped through these arteries by the heart, and it returns to the heart through veins.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes the process of food preparation by the stomach and its transportation by the blood, as outlined in the retrieved context. It includes all relevant details from the Gold Answer and expands upon them with additional supported information from the context, such as the role of the intestines, heart, lungs, and arteries. All claims are grounded in the retrieved context, and no key facts are omitted."
+  }
+}

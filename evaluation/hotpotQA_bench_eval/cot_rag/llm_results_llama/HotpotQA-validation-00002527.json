@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002527",
+  "question": "What term is the current chairman of Prince William County serving?",
+  "gold_answer": "fourth term",
+  "llm_answer": "The current chairman of Prince William County is Democrat Deshundra Jefferson.",
+  "context": [
+    {
+      "text": "The Prince William Board of County Supervisors is the policy-making body for the government of Prince William County, Virginia . The county is divided into seven magisterial districts: Brentsville, Coles, Gainesville, Neabsco, Occoquan, Potomac, and Woodbridge. The magisterial districts each elect one supervisor to the Board of Supervisors. There is also a Chairman elected by the county at-large, bringing total Board membership to 8. A Vice-Chairman and a Chairman Pro-Tem are selected by the Board from amongst its membership. The current Chairman is Democrat Deshundra Jefferson. Membership The board is currently controlled by Democrats , who have six out of the eight seats, and currently control both the Chairmanship and Vice Chairmanship. The current districts and their Supervisors are: External links Official Website of Prince William County Government Notes",
+      "id": "HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0"
+    },
+    {
+      "text": "admission that his campaign staff had edited his Wikipedia page to add positive spin, his use of the term \" cuckservative \" in a Reddit \"Ask Me Anything\", and his staunch support for Confederate symbols and monuments. In January 2019, he announced that he would be retiring from politics. Chair of the Board of Supervisors Elections Stewart was first elected chair of the Prince William County Board of Supervisors in a November 2006 special election to replace Sean Connaughton (who resigned to take a post at the United States Maritime Administration ). Stewart defeated Democratic Party candidate Sharon Pandak with 53% of the vote. Stewart was elected to a full term in 2007 with 55% of the vote, reelected in 2011, and reelected to a third term in 2015 with 57% of the vote. He did not seek re-election in 2019. He was succeeded by Democrat Ann Wheeler. Immigration After Stewart took his seat as chair in 2007, the Prince William County Board of Supervisors unanimously passed a resolution designed to purge the county of undocumented immigrants; the new law allowed the Prince William County Police Department to check the immigration status of anyone, even if they were not suspected of wrongdoing. Additionally, the board directed county staff to cut off public services to illegal immigrants, including drug counseling, elderly services, services to the homeless, and business licenses. A year later, the law was amended to require local law enforcement officers to",
+      "id": "HotpotQA-validation-00002527/01_Corey-Stewart-politician.html_c_1"
+    },
+    {
+      "text": "Corey Alan Stewart (born August 1, 1968) is an American politician and international trade attorney who served as at-large chairman of the Board of Supervisors of Prince William County, Virginia from 2006 to 2019. A member of the Republican Party , he previously served as the Occoquan district supervisor from 2003 to 2006. Stewart was the Republican nominee for the U.S. Senate in 2018 in the Commonwealth of Virginia , losing to Democratic incumbent Tim Kaine by more than a 15-point margin. In his campaign, he had portrayed himself as an ardent supporter of President Donald Trump . According to The New York Times , Stewart \"made his name attacking illegal immigrants and embracing emblems of the Confederacy .\" He drew national media attention for spearheading Prince William County's 2007 crackdown on illegal immigrants. Stewart was the Virginia state chair of Donald Trump's 2016 presidential campaign , and co-chaired the Republican Party of Virginia 's \"Team Virginia\" field and communications campaign in 2016. In October 2016, the Trump campaign fired him after he participated in an unsanctioned protest against the Republican National Committee . In 2017 , Stewart sought the Republican nomination for Governor of Virginia, narrowly losing to Ed Gillespie . He drew media attention for his admission that his campaign staff had edited his Wikipedia page to add positive spin, his use of the term \" cuckservative \" in a Reddit \"Ask",
+      "id": "HotpotQA-validation-00002527/01_Corey-Stewart-politician.html_c_0"
+    },
+    {
+      "text": "The Prince William County, Virginia Sheriff's Office was established in 1731 to provide law enforcement and jailers for the County. In 1970, the Board of County Supervisors established the Prince William County Police Department which assumed the primary responsibility for law enforcement. In 1982, the Prince William County Adult Detention Center opened and assumed the duties of jailers. The Sheriff is a constitutional office elected by the Prince William County, City of Manassas and City of Manassas Park to provide certain public safety services. History The PWCSO was founded in 1731 and was the sole law enforcement agency for the county until 1970, when most patrol and investigations duties were turned over to the newly-formed Police Department. The agency is now responsible for courtroom security, all jail and prisoner operations, court orders and civil process operations, and fugitive tracking and apprehension. As of 2022 [update] the sheriff is Sheriff Glendell Hill (R), who has held the position since 2004. Hill is the county's first Black sheriff. In 2005, the Sheriff's Office achieved re-accreditation [ by whom? ] for a second time.  In January 2021, after the identity of a deputy was revealed as advocating violence against Supreme Court Chief Justice John Roberts on Parler , the deputy was immediately fired. He had been a deputy for 15 years. He stated his account was hacked, though an anti-fascist activist",
+      "id": "HotpotQA-validation-00002527/03_Prince-William-County-Sheriffs-Office.html_c_0"
+    },
+    {
+      "text": "the deputy was immediately fired. He had been a deputy for 15 years. He stated his account was hacked, though an anti-fascist activist was able to verify his identity through several sites. See also Virginia portal List of law enforcement agencies in Virginia Prince William County Police Department References External links Prince William County Sheriff's Office official website Prince William County government official website",
+      "id": "HotpotQA-validation-00002527/03_Prince-William-County-Sheriffs-Office.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The current Chairman of Prince William County is Democrat Deshundra Jefferson. (HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0)\n- Corey Stewart served as Chairman from 2006 to 2019. (HotpotQA-validation-00002527/01_Corey-Stewart-politician.html_c_0)\n- The current term of the Chairman is unknown. (HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0)\n- The Chairman is elected by the county at-large. (HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0)\n- The Board of Supervisors has 8 members, including the Chairman. (HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0)\n- The Chairman is selected by the Board from amongst its membership. (HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What term is the current chairman of Prince William County serving?",
+      "doc_ids": [
+        "HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_c_0",
+        "HotpotQA-validation-00002527/01_Corey-Stewart-politician.html_c_1",
+        "HotpotQA-validation-00002527/01_Corey-Stewart-politician.html_c_0",
+        "HotpotQA-validation-00002527/03_Prince-William-County-Sheriffs-Office.html_c_0",
+        "HotpotQA-validation-00002527/03_Prince-William-County-Sheriffs-Office.html_c_1"
+      ]
+    }
+  ]
+}

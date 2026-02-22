@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000148",
+  "question": "Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",
+  "gold_answer": "The Beatles",
+  "llm_answer": "Bruce Spizer is an expert on the Beatles, who are known as the most influential act of the rock era.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Bruce Spizer as an expert on the Beatles, aligning with the Gold Answer and the Retrieved Context. It is concise and faithful to the context, which explicitly states Spizer's expertise on the Beatles and their significance as the most influential act of the rock era."
+  }
+}

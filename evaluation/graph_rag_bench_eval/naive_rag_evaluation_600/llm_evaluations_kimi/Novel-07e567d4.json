@@ -1,0 +1,12 @@
+{
+  "id": "Novel-07e567d4",
+  "question": "During his attempt to evade the police after a violent encounter, where did Raegen wish to hide in order to avoid being caught?",
+  "gold_answer": "Raegen wanted to lie hidden in the cellar and the garret.",
+  "llm_answer": "Raegen wished to hide in any tenement on Cherry Street, where he would have been given shelter.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Raegen wished to hide in any tenement on Cherry Street, which is not supported by the Gold Answer or the Retrieved Context. The Gold Answer specifies that Raegen wanted to hide in the cellar and the garret, and this detail is not mentioned or supported by the context provided. The Model Answer fails to address the core of the question and does not align with the evidence."
+  }
+}

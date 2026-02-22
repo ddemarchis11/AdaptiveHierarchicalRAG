@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001144",
+  "question": "The 1989 blockbuster adaptation of a comic book vigilante was co-produced by Jon Peters alongside a Hollywood executive who later became the chief executive of which entertainment company?",
+  "gold_answer": "Mandalay Entertainment",
+  "llm_answer": "I'm unable to determine the answer from the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states it cannot determine the answer from the context, which is accurate given the retrieved context does not contain information relevant to the question. However, the Gold Answer is not addressed, and the Model Answer fails to provide the correct response despite the question being answerable with external knowledge."
+  }
+}

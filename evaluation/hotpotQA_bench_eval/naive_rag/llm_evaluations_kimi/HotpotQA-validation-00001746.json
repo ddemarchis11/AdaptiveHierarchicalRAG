@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001746",
+  "question": "Crash is similar to what 16th century British card game in the sense that there is no betting?",
+  "gold_answer": "In Crash, there is no betting, as in Brag",
+  "llm_answer": "The evidence does not name any 16th-century British card game that, like Crash, is played without betting.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not name any 16th-century British card game similar to Crash in terms of no betting. However, the context explicitly mentions Brag as a game without betting, which aligns with the Gold Answer. The Model Answer fails to provide the correct information and is not faithful to the retrieved context."
+  }
+}

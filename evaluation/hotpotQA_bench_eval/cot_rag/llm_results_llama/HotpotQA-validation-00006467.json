@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006467",
+  "question": "Are Siping, Jilin and Linhai both in the same province in China?",
+  "gold_answer": "no",
+  "llm_answer": "Yes, Siping, Jilin, and Linhai are all in the same province in China.",
+  "context": [
+    {
+      "text": "monthly percent possible sunshine ranging from 46% in July to 71% in January and February, there are 2,684 hours of bright sunshine annually, with autumn and winter being especially sunny. Administrative divisions Siping prefecture includes two districts, two counties and two county-level cities. Four commodity grain bases in Jinlin Province, namely Lishu County, Yitong Manchu Autonomous County, and Shuangliao City, are under the administration of Siping. Gongzhuling City is under the administration of Jilin Province. Siping recorded a population of 1,814,733 in the 2020 census. Economy Siping has GDP of RMB 1266.3 billion Yuan in 2015, representing a rise of 6.4% year on year. The city's GDP ranked fourth in Jilin Province (2010). Agricultural products processing, electricity and thermal power, pharmaceutical, and chemicals are the pillar industries. Private economy is also a major contributor of the industrial sector. Transport Siping is a transportation hub in Jilin Province. The Qiqihar -Siping, Siping-Meihekou and Beijing–Harbin railways The city is served by both the Siping Railway Station and Siping East Railway Station ( IATA : OSQ ). The Harbin-Beijing Highspeed Railway also run through the Siping East Railway Station. The new airport will be completed in 2030. With the Highway, the city",
+      "id": "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_3"
+    },
+    {
+      "text": "The Battle of Siping (四平战斗), also known as the Battle to Liberate Siping (四平解放战), was fought between the Communist forces and the Nationalist forces in the northern province of Jilin , China for the control of the city of Siping during the Chinese Civil War . It took place immediately after the Soviet Red Army withdrew from Siping in March 1946, and resulted in a Communist victory. Prelude On January 8, 1946, Liu Handong (刘瀚东), the commander of the Nationalist 107th Division, arrived at Siping with over a hundred associates to discuss the city's transfer from the Soviet Red Army to the Chinese administration. The Red Army still occupied the city at the time. Subsequently, on January 10, the Nationalists created the Liaobei province, with Liu Handong named the chairman of the province, and Nationalist provincial governmental member Li Chongguo (李充国) named the mayor of Siping. The Nationalists had neither sufficient troops nor enough transportation assets to effectively assume control of the previously Japanese-occupied region of China, and they could not spare enough forces to hold the city long enough for reinforcements to arrive. The Nationalists at Siping recruited bandits in the region, including members from the Good Under the Heaven (天下好) and Flying Over the Grass (草上飞) gangs, to secure",
+      "id": "HotpotQA-validation-00006467/02_Battle-of-Siping.html_c_0"
+    },
+    {
+      "text": "Siping ( Chinese : 四平 ; pinyin : Sìpíng ), formerly Sipingjie ( Chinese : 四平街 ; pinyin : Sìpíngjiē ; Wade–Giles : Ssupingchieh ), is a prefecture-level city in the west of Jilin province, People's Republic of China . It has a total population of 1,814,733 inhabitants, as of the 2020 census. Siping covers an area of 14,323 km 2 (5,530 sq mi) and is located in the middle of the Songliao Plain , near the border with Liaoning and Inner Mongolia provinces. History Siping's history can be stretched to 3,000 years ago during the Shang dynasty . The Kingdom of Yan Ruins indicate that the Han Chinese People started moving into Northeast region of China during the Spring and Autumn period . Ancient ethnic tribes such as the Fuyu , the Goguryeo , the Khitans , the Jurchen , the Mongols , the Manchus , and Koreans have left behind cultural artifacts, including Hanzhou, Xinzhou, and the Yehe Tribe Cultural Artifacts. Yehe Town in Siping is also the hometown of two empresses of the Qing dynasty , Empress Dowager Cixi and Empress Dowager Longyu . However, Siping was a place of little importance until the completion of the railway between",
+      "id": "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_0"
+    },
+    {
+      "text": "Jilin Normal University ( simplified Chinese : 吉林师范大学 ; traditional Chinese : 吉林師範大學 ; pinyin : Jílín Shīfàn Dàxué ) is a university in Siping , Jilin , northeast China . It was formerly known as the Siping Normal Institute ( Chinese : 四平师范大学 ; pinyin : Sìpíng Shīfàn Dàxué ). The university was founded in 1958. It is a training center for Jilin provincial teachers, and has trained more than 22,000 teachers  in recent years via various types of seminars and classes. Jilin Normal University covers more than 920,000 square metres totally and its building area covers more than 500,000 square meters. It has 22 colleges, 2 teaching sections, 27 research institutions and 117 labs now. Its teaching staff contains 1493 persons, wherein 994 persons are full-time teachers. There are 10 doctorate tutors, 230 master's degree tutors, 212 professors and 210 associate professors teaching 55 undergraduate majors in this school. References External links Official website (in Chinese and English) v t e",
+      "id": "HotpotQA-validation-00006467/03_Jilin-Normal-University.html_c_0"
+    },
+    {
+      "text": "1946 Campaign to Defend Siping , April 17, 1946 − May 19, 1946 Siping Campaign , June 11, 1947 − March 13, 1948 Siping grew rapidly after the Communist government was established in 1949, being the third largest city in Jilin Province. Geography and climate Siping is located in the transition between plains and hilly terrain, with hills to the southeast and the Songliao Plain to the northwest. The city has a four-season, monsoon-influenced, humid continental climate ( Köppen Dwa ). Winters are long (lasting from November to March), cold, and windy, but dry, due to the influence of the Siberian anticyclone , with a January mean temperature of −13.2 °C (8.2 °F). Spring and fall are somewhat short transitional periods, with some precipitation, but are usually dry and windy. Summers are hot and humid, with a prevailing southeasterly wind due to the East Asian monsoon; July averages 23.7 °C (74.7 °F). Snow is usually light during the winter, and annual rainfall is heavily concentrated from June to August. The annual mean temperature is 7.12 °C (44.8 °F). With monthly percent possible sunshine ranging from 46% in July to 71% in January and February, there are 2,684 hours of bright sunshine",
+      "id": "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Siping is a prefecture-level city in Jilin province (Novel-00006467_c_0).\n- Jilin province is a province in China (Novel-00006467_c_0).\n- Linhai is not mentioned in the current evidence (Novel-00006467_c_0).\n- Siping and Jilin are in the same province (Novel-00006467_c_0).\n- The current evidence does not mention the province of Linhai (Novel-00006467_c_0).\n- The question asks if Siping, Jilin, and Linhai are in the same province (Novel-00006467_c_0).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Siping, Jilin and Linhai both in the same province in China?",
+      "doc_ids": [
+        "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_3",
+        "HotpotQA-validation-00006467/02_Battle-of-Siping.html_c_0",
+        "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_0",
+        "HotpotQA-validation-00006467/03_Jilin-Normal-University.html_c_0",
+        "HotpotQA-validation-00006467/00_Siping-Jilin.html_c_2"
+      ]
+    }
+  ]
+}

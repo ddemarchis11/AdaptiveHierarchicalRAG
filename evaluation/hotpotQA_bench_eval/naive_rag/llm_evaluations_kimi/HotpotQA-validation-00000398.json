@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000398",
+  "question": "Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by who?",
+  "gold_answer": "Massive Entertainment",
+  "llm_answer": "Massive Entertainment",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Massive Entertainment as the developer of the online-only action role-playing video game that first revealed the Snowdrop game engine. This is fully supported by the retrieved context, which explicitly states that Massive Entertainment developed 'Tom Clancy's The Division,' the first game using the Snowdrop engine. The answer is concise and contains all necessary facts."
+  }
+}

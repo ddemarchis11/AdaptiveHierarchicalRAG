@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001051",
+  "question": "Are both \"Cooking Light\" and \"Vibe\" magazines?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes. The evidence shows that “Cooking Light” is described as “an American monthly food and lifestyle magazine” and “Vibe” is repeatedly referred to as a magazine.",
+  "context": [
+    {
+      "text": "Vibe ' s pages. In the September 2003 issue commemorating ten years of publication, the magazine created different covers using black and white portraits of its most popular cover subjects. It also contained \"The Vibe 100: The Juiciest People, Places and Things of the Year\". Many successful writers and editors contributed to the publication, including Alan Light , Jeff Chang , Dream Hampton , Cheo Hodari Coker, Kevin Powell , Erica Kennedy , Sacha Jenkins, Noah Callahan-Bever and Miles Marshall Lewis . Mark Shaw was the magazine's art director. Expanding the brand In addition to the magazine, Vibe also publishes books on hip hop culture. To celebrate the magazine's tenth anniversary, it published VX: Ten Years of Vibe Photography, which featured a bare-chested 50 Cent on the cover. The volume also includes photos of Alicia Keys , RZA from the Wu-Tang Clan , Eve , Chuck D of Public Enemy , and Run-D.M.C . Works by prominent photographers Albert Watson , Ellen von Unwerth , David LaChapelle , and Sante D'Orazio are among the 150 photographs in the hardcover edition.  Other books published under the Vibe banner cover the history of hip hop, the women of hip hop, and rappers Tupac Shakur and The Notorious B.I.G.  Additionally, the magazine published a spin-off publication, Vibe Vixen , from 2004 to",
+      "id": "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_4"
+    },
+    {
+      "text": "with editor-in-chief Jonathan Van Meter. In May 1994, Meter resigned after Jones prevented the publication of the June/July 1994 issue featuring Madonna on Dennis Rodman on the cover. Meter's successors were Alan Light , Danyel Smith , Emil Wilbekin , Mimi Valdes, and finally Danyel Smith again. Miller Publishing purchased Vibe in 1996, and shortly afterward bought Spin . A private equity firm, Wicks Group, bought the magazine in 2006. On June 30, 2009, it was announced that Vibe was ceasing publication immediately, although according to Essence , Quincy Jones stated he would like to keep it alive online. After shutting down, private equity investment fund InterMedia Partners bought Vibe magazine. They added Uptown magazine to Vibe ' s parent company, Vibe Holdings. Ronald Burkle and Magic Johnson later invested in the company. Vibe Holdings merged with BlackBook Media to form Vibe Media in 2012. On April 25, 2013 it was announced that Vibe magazine along with vibe.com and vibevixen.com had been sold to Spin Media for an undisclosed sum. Spin Media was thought likely to shut down Vibe ' s print magazine by the end of 2013, which a representative stating: \"We're still trying to find a print model that makes economic sense in the digital age.\" Instead, they cut the magazine's frequency to quarterly. In",
+      "id": "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_1"
+    },
+    {
+      "text": "Cooking Light is an American monthly food and lifestyle magazine founded in 1987. Cover price is $12.99 an issue. Cooking Light, published by Dotdash Meredith, currently publishes 4 times annually. The magazine itself merged with Eating Well in 2018, but publishes separate special issues.  Editors Katherine M. Eakin (1987–1993) Doug Crichton (1993–2001) Mary Kay Culpepper (2001–2009) Scott Mowbray (2009–2014) Hunter Lewis (2014-December 2018) References External links Official website v t e",
+      "id": "HotpotQA-validation-00001051/00_Cooking-Light.html_c_0"
+    },
+    {
+      "text": "with culture. Her detailed instructions were clear and precise with photographs and explanatory techniques provided in sidebar. It was a finalist in the 2007 James Beard Foundation Award , as best Asian cookbook and was nominated for best first book and best international cookbook by the International Association of Culinary Professionals that same year. In March 2012, both Into the Vietnamese Kitchen and Nguyen's second cookbook, Asian Dumplings were selected as two of seven cookbooks honored in the Asian section of Cooking Light ′s Best 100 Cookbooks of the Past 25 Years Award. Asian Dumplings covered a wide array of dumplings from throughout Asia, dividing the recipes by dough and wrapping type. The detailed instructions included line drawings to demonstrate how to form the dough into traditional shapes, as well as sections on sauces , stocks , seasonings and ingredients and various cooking equipment needed to make the dishes. Asian Tofu (2012) was more than a guide to making tofu , as Nguyen included buying guides, as well as tips on selecting ready-made tofu. Her recipes featured both vegetarian and meat dishes, which could use either homemade or store-bought tofu and was noted as an \"essential\" guide. With The Banh Mi Handbook (2014), Nguyen added another layer to her history of cooking in Vietnam, showing how the marriage of French colonial staples, such as the baguette were combined with Asian pâtés , barbecue and pickles to create a \"delightful balance of tastes and textures\". Her",
+      "id": "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_2"
+    },
+    {
+      "text": "and The Notorious B.I.G.  Additionally, the magazine published a spin-off publication, Vibe Vixen , from 2004 to 2007. Aimed at Vibe ' s female multicultural demographic, Vibe Vixen included features on beauty, fashion, and female entertainers. R&B starlet Ciara appeared on the inaugural issue's cover.  Spencer was fired in October 1997 and replaced by comedian Sinbad , along with Big Boy as the in-house announcer.  As was common practice for late-night talk shows (established by Johnny Carson and Merv Griffin ), it had a live band, led by keyboardist Greg Phillinganes; Jones worked with him during productions for Michael Jackson 's albums Thriller and Off The Wall .  The program aired in first-run syndication until the summer of 1998, when it was canceled.  The show was taped at CBS Television City in Los Angeles .  Other platforms featuring the Vibe brand are Vibe Online , the magazine's online presence; Vibe On Demand , an on-demand network; VLN TV [ dead link ] , an online video channel; Vibe Film ; MVibe , a wireless content provider for hand-held devices as well as CD and DVD lines distributed under the same name; and The Vibe Music Mixer , is available for iPhone and iPad .  In May 2015, Vibe expanded its brand by adding the digital extension, Vibe Viva .",
+      "id": "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Vibe explicitly described as a magazine (Vibe-magazine.html_c_4, Vibe-magazine.html_c_1).\n- Cooking Light explicitly identified as a monthly food and lifestyle magazine (Cooking-Light.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are both \"Cooking Light\" and \"Vibe\" magazines?",
+      "doc_ids": [
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_4",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_1",
+        "HotpotQA-validation-00001051/00_Cooking-Light.html_c_0",
+        "HotpotQA-validation-00001051/03_Andrea-Nguyen.html_c_2",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_5"
+      ]
+    }
+  ]
+}

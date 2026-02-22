@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20eb3bc8",
+  "question": "How is the conflict and relationship between Don Carlo and Brindle Bill portrayed in the novel 'Pen Pictures'? Please explain how Don Carlo defied and fought Brindle Bill, leading to his identification as the Hero of Shirt-Tail Bend.",
+  "gold_answer": "Don Carlo defied and fought Brindle Bill, and was identified as the Hero of Shirt-Tail Bend.",
+  "llm_answer": "The conflict is shown as a straight physical fight: Don Carlo walks alone to “headquarters,” Brindle Bill is inside, and the two close the door and “pitched in.”  Don is quicker, Bill is stronger, but a well-placed blow from Don draws first blood.  At that instant Simon’s wife sets the cane-pile afire; the roof blazes, the frightened onlookers break in, and the fight is stopped with Don already in possession of the money.  The neighborhood now sees Brindle Bill’s “fear of him was broken,” and from this victory Don Carlo is spoken of ever after as “the hero of Shirt-Tail Bend.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately portrays the conflict and relationship between Don Carlo and Brindle Bill, detailing the physical fight, Don Carlo's victory, and his subsequent identification as the Hero of Shirt-Tail Bend. The explanation aligns with the retrieved context, which describes the fight, the intervention of Simon's wife, and the shift in perception of Brindle Bill's dominance. All key facts from the Gold Answer are included and expanded upon with relevant details from the context."
+  }
+}

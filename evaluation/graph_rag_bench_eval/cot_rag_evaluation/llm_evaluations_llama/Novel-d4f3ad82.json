@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d4f3ad82",
+  "question": "At which observatory did Asaph Hall work after relocating to Cambridge, marking the beginning of his professional career in astronomy?",
+  "gold_answer": "Asaph Hall worked at Harvard Observatory.",
+  "llm_answer": "I cannot verify the observatory where Asaph Hall worked after relocating to Cambridge.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct observatory name, which is Harvard Observatory, as stated in the Gold Answer and supported by the Retrieved Context. It also incorrectly claims an inability to verify the information, despite the context clearly mentioning Harvard Observatory multiple times."
+  }
+}

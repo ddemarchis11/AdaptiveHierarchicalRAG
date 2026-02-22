@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000796",
+  "question": "Pramod Bhasin was the former CEO of a company that provided what kind of services?",
+  "gold_answer": "IT",
+  "llm_answer": "Pramod Bhasin was the former CEO of Genpact, which provided business process outsourcing (BPO) services.",
+  "context": [
+    {
+      "text": "Pramod Bhasin is an Indian Businessman and Executive who is founder and former President and CEO of Genpact one of the largest IT and software consultancy company. In 2011 he was appointed as non-executive Vice Chairman of Genpact . Education Pramod Bhasin completed his undergraduation in BCom from Shri Ram College of Commerce and his MBA from Faculty of Management Studies – University of Delhi , (popularly known as FMS Delhi). He completed his Indian School Certificate (ISC, equivalent to the then English GCE O Levels) at Cathedral and John Connon School, Bombay (now Mumbai), in Class of 1967. As of 2016 [update] , he lives in New Delhi . Career Pramod is a British Chartered Accountant from McLintock & Co, London, and holds a Bachelor of Commerce degree from Shri Ram College of Commerce . He became an officer of GE. His career with GE and RCA spanned 25 years across the US, Europe and Asia. He was the head of GE Capital in India and in Asia, having earlier worked with GE Capital's Corporate and Finance Group in Stamford, Connecticut , US. Pramod started GE Capital International Services ( GECIS ) in 1997 as the in-house BPO division of General Electric (GE) when he convinced the senior stakeholders at GE to outsource certain simple non-IT services to India at Gurgaon . Under Pramod",
+      "id": "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_0"
+    },
+    {
+      "text": "when he convinced the senior stakeholders at GE to outsource certain simple non-IT services to India at Gurgaon . Under Pramod GE hired Raman Roy , pioneered business process outsourcing in India , and expanded its operations from India to countries including China, Hungary, Guatemala, Poland, Mexico, Morocco, the Philippines, Romania, South Africa and the United States. In 2007, the International Quality and Productivity Center at the Shared Services and Outsourcing Global Conclave named Genpact the Global Shared Services Leader of the Year and awarded Pramod Bhasin their Lifetime Contribution Award. A consultant and advisor in the domain, Pramod Bhasin served as the Chairman of India's National Association of Software & Services Companies ( NASSCOM ) for the year 2009-10, and became a member of the Board of Trustees of NASSCOM Foundation. He is also currently serving as President at TiE Delhi-NCR.  Pramod Bhasin appointed as chairman of ICRIER (Indian Council For Research On International Economic Relations). References Trivia and external links India's BPO emperor - Financial Express |newspaper, 29 July 2006 Interview with Pramod on Rediff.com",
+      "id": "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_1"
+    },
+    {
+      "text": "Genpact Ltd. is an American information technology services, consulting , and outsourcing company headquartered in New York City, New York . Founded in Gurgaon , India , and legally domiciled in Bermuda , Genpact employs more than 125,000 people and provides services to clients in over 30 countries worldwide. Genpact is listed on the NYSE and generated revenues of US$4.48 billion in 2023. History Founding and early developments Genpact was founded in 1997 as a unit of General Electric . The company was founded as GE Capital International Services (GECIS) in Gurgaon . Starting with 20 employees under the leadership of CEO Pramod Bhasin , its charter was to provide business process outsourcing solutions to GE's businesses. In the beginning, GECIS created processes for outsourcing back-office activities for GE Capital such as processing car loans and credit card transactions. It was an experimental concept at the time and the beginning of the business process outsourcing (BPO) industry. One year after its launch, GECIS employed about 800 people and generated revenues of US$4 million. By 2001, GECIS operations had grown to 12,000 employees and the company began to manage a wide range of processes across GE's financial services and manufacturing businesses. Jack Welch , CEO of GE at the time, said that GECIS was a key driver of GE’s growth between 1998 and",
+      "id": "HotpotQA-validation-00000796/01_Genpact.html_c_0"
+    },
+    {
+      "text": "further expanded in India, the Philippines, Mexico and China. In August 2007, Genpact was listed on the NYSE under the symbol 'G'. The company continued to grow, opening offices in six additional countries that same year and launching a joint venture with the Indian company NDTV to offer outsourcing services for the media industry. In 2008, the company crossed US$1 billion in revenue, with 53% coming from clients other than GE. From 2010 onward, the company increasingly focused its operations and presence in Europe and the US. As part of its shift west, the company moved its headquarters to New York and in 2011, Bhasin stepped down as CEO and became non-executive vice chairman of the company. He was succeeded on 17 June 2011 by NV \"Tiger”\" Tyagarajan , who was appointed to the Board of Directors and became Genpact's new CEO. Tyagarajan was previously CEO of Genpact from 1999 to 2002, when he led the business through a critical growth phase as a subsidiary of GE. When Genpact became an independent company, he rejoined the firm from GE Capital U.S. as executive vice president of sales and business development from 2005 to 2009. Thereafter, he took on the role of the firm's chief operating officer, before being named CEO in 2011. Bain Capital became the firm's largest shareholder in October",
+      "id": "HotpotQA-validation-00000796/01_Genpact.html_c_2"
+    },
+    {
+      "text": "Robin Chase is an American transportation entrepreneur. She is co-founder and former CEO of Zipcar . She is also the founder and former CEO of Buzzcar, a peer-to-peer car-sharing service, acquired by Drivy . She also started the defunct GoLoco.org, a vehicle for hire company. She is co-founder and executive chairman of Veniam , a vehicle network communications company. She authored the book, Peers Inc: How People and Platforms are Inventing the Collaborative Economy and Reinventing Capitalism . Early life The daughter of a US diplomat, Chase spent her childhood moving around the Middle East and Africa. She graduated from Waterford Kamhlaba United World College of Southern Africa , Wellesley College (B.A.), the MIT Sloan School of Management (M.B.A.), and won a Loeb Fellowship at the Harvard Graduate School of Design . Career In 2000, Chase co-founded Zipcar with Antje Danielson. In January 2001, Chase fired Danielson after she petitioned Zipcar's board for the ability to make hiring and firing decisions without consulting them. In February 2003, after difficulties in securing additional rounds of funding, Chase was replaced as CEO by the Zipcar board with Scott Griffith . In addition to Veniam, Chase has served as a board member for the World Resources Institute , and has been since 2014 chairperson of the board for the Nasdaq and TSE listed Tucows Inc. Formerly, she served on",
+      "id": "HotpotQA-validation-00000796/02_Robin-Chase.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Pramod Bhasin was founder and former CEO of Genpact (HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_0).\n- Genpact provides business process outsourcing (BPO) services (HotpotQA-validation-00000796/01_Genpact.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Pramod Bhasin was the former CEO of a company that provided what kind of services?",
+      "doc_ids": [
+        "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_0",
+        "HotpotQA-validation-00000796/00_Pramod-Bhasin.html_c_1",
+        "HotpotQA-validation-00000796/01_Genpact.html_c_0",
+        "HotpotQA-validation-00000796/01_Genpact.html_c_2",
+        "HotpotQA-validation-00000796/02_Robin-Chase.html_c_0"
+      ]
+    }
+  ]
+}

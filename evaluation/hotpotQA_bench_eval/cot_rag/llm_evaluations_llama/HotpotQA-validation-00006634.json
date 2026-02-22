@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006634",
+  "question": "What is the title of the person who is Head of the Department of Biological Sciences at the University of Lincoln",
+  "gold_answer": "Doctor",
+  "llm_answer": "The title of the person who is Head of the Department of Biological Sciences at the University of Lincoln is not explicitly stated in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the title of the Head of the Department of Biological Sciences at the University of Lincoln is not explicitly mentioned in the retrieved context. However, the Gold Answer ('Doctor') is not addressed or confirmed, leading to a lack of correctness and evidence coverage."
+  }
+}

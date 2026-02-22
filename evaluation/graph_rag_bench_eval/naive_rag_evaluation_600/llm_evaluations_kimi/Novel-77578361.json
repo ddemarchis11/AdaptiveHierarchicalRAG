@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77578361",
+  "question": "During his encounter on the street while working as a trailer in the green-goods scheme, to whom did Snipes say something that advanced the plot?",
+  "gold_answer": "Snipes said something to the old man.",
+  "llm_answer": "Snipes spoke to the old countryman who was looking for “Perceval” (Alf Wolfe’s alias); that exchange advanced the plot.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Snipes spoke to the old countryman, who was looking for 'Perceval' (Alf Wolfe's alias), and this interaction advanced the plot. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which details the conversation between Snipes and the old man."
+  }
+}

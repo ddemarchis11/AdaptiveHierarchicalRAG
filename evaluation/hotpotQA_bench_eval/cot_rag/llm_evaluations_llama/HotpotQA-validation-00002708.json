@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002708",
+  "question": "Are McFarland, USA and The Black Hole both sports films?",
+  "gold_answer": "no",
+  "llm_answer": "Based on the provided evidence, McFarland, USA is a sports film. \n\nThe evidence states that McFarland, USA is a 2015 American sports drama film directed by Niki Caro, based on the true story of a 1987 cross country team from a mainly Latino high school in McFarland, California.\n\nHowever, The Black Hole is not a sports film. The evidence lists various meanings of the term \"Black Hole\", including a 1979 science fiction film, a 1995 film, a 2006 film, a 2015 documentary film, a 2016 science fiction thriller, and a 2016 episode of the TV series House, but none of these are sports films.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that McFarland, USA is a sports film based on the retrieved context, which describes it as a sports drama about a cross country team. It also correctly states that The Black Hole is not a sports film, as the context provides no evidence of it being related to sports. The answer is fully grounded in the context and includes all relevant facts from the Gold Answer."
+  }
+}

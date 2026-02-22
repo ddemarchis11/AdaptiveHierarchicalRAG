@@ -1,0 +1,256 @@
+{
+  "id": "HotpotQA-validation-00002016",
+  "question": "Of two high-altitude peaks — one straddling the border between Nepal and Sikkim in the eastern Himalayas, the other situated in a plateau region governed by an autonomous territory of a large East Asian nation — which lies within that nation's borders?",
+  "gold_answer": "Kangpenqing (also Gang Benchhen) is a mountain in the Baiku Himalayas of Tibet, China.",
+  "llm_answer": "The context does not mention any high-altitude peak situated in a plateau region governed by an autonomous territory of a large East Asian nation, so it cannot be determined which of the two peaks lies within that nation's borders.",
+  "context": [
+    {
+      "text": "From left Taple Shikar (6510 m),The Twins and Kangchenjunga (8586 m). Gimmigela Chuli , or The Twins , are two-peak mountains in the Himalayas , located on the border between Taplejung , Mechi , Nepal and Sikkim , India . Location It has an elevation of 7,350 m (24,110 ft) above sea level and prominence is at 432 m (1,417 ft). It is situated approximately 4.2 km (2.6 mi) NNE from Kangchenjunga . The mountain has a subpeak , Gimmigela Chuli II 7,005 m (22,982 ft) metres; prominence is at 185 m (607 ft). This subpeak, sometimes referred to as \"Gimmigela's Sister\", lies entirely within India. Together the two peaks, Gimmigela I and Gimmigela II, are known as \"The Twins\". Climbing history A Japanese expedition attempted to reach the west (main) summit in 1993 via the east ridge from Sikkim , ending on 18 October 1993 after the death of expedition leader Masanori Sato. The team had achieved the first ascent of Gimmigela II and were on the summit ridge connecting the two peaks in an attempt to summit Gimmigela I when Sato fell 35 metres (115 ft) into a hidden crevasse . Despite the efforts of the other team members, his body was not recovered and the expedition was terminated. One year later in October 1994, Taroh Tanigawa, Koji Nagakubo and Yuichi Yoshida, members of the failed attempt in 1993, achieved the first ascent of Gimmigela I. References External links Gimmigala Chuli on Peakery",
+      "id": "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_c_0",
+      "doc_id": "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html",
+      "community_id": 0,
+      "score": 62.92668
+    },
+    {
+      "text": "km (650 mi). The average elevation of these hills is from 300 to 600 m (980 to 1,970 ft) and rarely goes above 700 metres (2,300 ft). They are believed to have been formed by the wastes created by the weathering of the ancient Aravali mountains. Geographically, it separates Northern India from Southern India. The western end of the range lies in eastern Gujarat, near its border with Madhya Pradesh, and runs east and north, almost meeting the Ganges at Mirzapur . Satpura Range , lies south of Vindhya range and east of Aravali range, begins in eastern Gujarat near the Arabian Sea coast and runs east across Maharashtra , Madhya Pradesh and Chhattisgarh . It extends 900 km (560 mi) with many peaks rising above 1,000 m (3,300 ft). It is triangular in shape, with its apex at Ratnapuri and the two sides being parallel to the Tapti and Narmada rivers. It runs parallel to the Vindhya Range, which lies to the north, and these two east–west ranges divide the Indo–Gangetic plain from the Deccan Plateau located north of River Narmada. Plateaus (clockwise from top-left) Malwa Plateau is spread across Rajasthan, Madhya Pradesh and Gujarat. The average elevation of the Malwa plateau is 500 metres, and the landscape generally slopes towards the north. Most of the region is drained by the Chambal River and its tributaries; the western part is drained by the upper reaches of the Mahi River . Chhota Nagpur Plateau is situated in eastern India, covering much of Jharkhand and adjacent parts of Odisha, Bihar and Chhattisgarh. Its total area is approximately 65,000 km 2 (25,000 sq mi) and is made up of three smaller plateaus—the Ranchi, Hazaribagh, and Kodarma plateaus. The Ranchi plateau is the largest, with an average elevation of 700 m (2,300 ft). Much of the plateau is forested, covered by the Chhota Nagpur dry deciduous forests . Vast reserves of metal ores and coal have been found in the Chota Nagpur plateau. Southern Garanulite terrain : Covers South India especially Tamil Nadu excluding western and eastern ghats. The Southern Granulite Terrain (SGT) is one of the most geologically significant regions of the Indian Shield. It represents the southernmost part of the Indian peninsula, situated south of the stable Dharwar Craton .Unlike the lower-grade metamorphic rocks found further north, the SGT is composed of high-grade metamorphic rocks (granulites) that were formed deep within the Earth's crust under extreme pressure and temperature. Northern Boundary: It is separated from the Dharwar Craton by a transition zone",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_5",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 0,
+      "score": 61.27842
+    },
+    {
+      "text": "often in pejorative terms. Eastern Ghats are a discontinuous range of mountains along India 's eastern coast, which have been eroded and quadrisected by the four major rivers of southern India, the Mahanadi, Godavari , Krishna , and Kaveri . These mountains extend from West Bengal to Odisha through Andhra Pradesh to Tamil Nadu in the south passing some parts of Karnataka and in the Wayanad region of Kerala. Parts of the coastal plains , including the Coromandel Coast region, lie between the Eastern Ghats and the Bay of Bengal.Though not as tall as the Western Ghats, some of its peaks are over 1,000 m (3,300 ft) in height. The Nilgiri hills in Tamil Nadu lies at the junction of the Eastern and Western Ghats. Arma Konda (1,690 m (5,540 ft)) in Andhra Pradesh is the tallest peak in Eastern Ghats. The Eastern Ghats are older than the Western Ghats, and have a complex geologic history related to the assembly and breakup of the ancient supercontinent of Rodinia and the assembly of the Gondwana supercontinent. The Eastern Ghats are made up of charnockites , granite gneiss , khondalites , metamorphic gneisses and quartzite rock formations. The structure of the Eastern Ghats includes thrusts and strike-slip faults all along its range. Limestone , bauxite and iron ore are found in the Eastern Ghats hill ranges. Indo-Gangetic plain Extent of the Indo-Gangetic plain across South Asia Many areas remain flooded during the heavy rains brought by monsoon in the Indian state of West Bengal . The Indo-Gangetic plains, also known as the Great Plains are large alluvial plains dominated by three main rivers, the Indus , Ganges , and Brahmaputra . They run parallel to the Himalayas, from Jammu and Kashmir in the west to Assam in the east, drain most of northern and eastern India and extend into Pakistan. The plains encompass an area of 700,000 km 2 (270,000 sq mi). The major rivers in this region are the Ganges, Indus, and Brahmaputra along with their main tributaries— Yamuna , Chambal , Gomti , Ghaghara , Kosi , Sutlej , Ravi , Beas , Chenab , and Tista —as well as the rivers of the Ganges Delta , such as the Meghna . The great plains are sometimes classified into four divisions: The Bhabar belt is adjacent to the foothills of the Himalayas and consists of boulders and pebbles which have been carried down by streams. As the porosity of this belt is very high, the streams flow underground. The Bhabar is generally narrow with its width varying between 6 and 15 km",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_8",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 18,
+      "score": 58.24574
+    },
+    {
+      "text": "Gujarati and Kannada , ghat is a term used to identify a difficult passage over a mountain. One such passage is the Bhor Ghat that connects the towns Khopoli and Khandala , on NH 4 about 80 kilometres (50 mi) north of Mumbai . Charmadi Ghat of Karnataka is also notable. In many cases, the term is used to refer to a mountain range itself, as in the Western Ghats and Eastern Ghats . 'Ghattam' in Malayalam also refers to mountain ranges when used with the name of the ranges being addressed (e.g., paschima ghattam for Western Ghats), while the passage road would be called a 'churam'. Eastern Ghats on the east coast of India and Western Ghats on the west coast of India are the largest ghats in pensular India. Western Ghats also known as Sahyadri (Benevolent Mountains) run along the western edge of India's Deccan Plateau and separate it from a narrow coastal plain along the Arabian Sea . The range covers an area of 140,000 km 2 in a stretch of 1,600 km (990 mi) parallel to the western coast of the Indian peninsula , from south of the Tapti River near the Gujarat–Maharashtra border and across Kerala , Tamil Nadu , Karnataka , Goa , Maharashtra and Gujarat . to the southern tip of the Deccan peninsula. The average elevation is around 1,000 m (3,300 ft). Anai Mudi in the Anaimalai Hills 2,695 m (8,842 ft) in Kerala is the highest peak in the Western Ghats. It is a UNESCO World Heritage Site and is one of the eight \"hottest hot-spots\" of biological diversity in the world. It is sometimes called the Great Escarpment of India. It is a biodiversity hotspot that contains a large proportion of the country's flora and fauna; many of which are only found here and nowhere else in the world. According to UNESCO , Western Ghats are older than Himalayan mountains. It also influences Indian monsoon weather patterns by intercepting the rain-laden monsoon winds that sweep in from the south-west during late summer. A total of thirty-nine properties including national parks, wildlife sanctuaries and reserve forests were designated as world heritage sites - twenty in Kerala , ten in Karnataka , five in Tamil Nadu and four in Maharashtra . Ghati people , literally means the people of hills or ghats (valleys) , is an exonym used for the marathi people specially those from the villages in Western Ghats , often in pejorative terms. Eastern Ghats are a discontinuous range of mountains along India 's eastern coast, which have been eroded and quadrisected by the four major rivers of southern India, the Mahanadi, Godavari , Krishna , and Kaveri . These mountains",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_7",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 0,
+      "score": 48.903805
+    },
+    {
+      "text": "Kirat Chuli or Tent Peak is a mountain in the Himalayas . It lies on the border between Nepal and India . Location The peak is located at 7,365 m (24,163 ft) above sea level in the extreme northeast of Nepal and northwest of Sikkim . It is approximately two km northeast of Nepal Peak . Climbing history The first ascent was made by Ernst Grob, Herbert Paidar, and Ludwig Schmaderer on May 29, 1939. See also Kirata Kirata Kingdom Kirati people Kirat Mundhum References v t e v t e",
+      "id": "HotpotQA-validation-00002016/00_Kirat-Chuli.html_c_0",
+      "doc_id": "HotpotQA-validation-00002016/00_Kirat-Chuli.html",
+      "community_id": 0,
+      "score": 47.2557
+    },
+    {
+      "text": "regions . They are: Northern Mountains: Himalayas Peninsular Plateau: contains mountain ranges ( Aravalli , Vindhayachal and Satpura ranges), ghats (Eastern Ghats and Western Ghats) and plateaus (Malwa Plateau, Chhota Nagpur Plateau, Southern Garanulite terrain, Deccan Plateau and Kutch Kathiawar plateau). Indo-Gangetic Plain or The Northern Plains Thar Desert Coastal Plains: Eastern Ghat folds and Western Ghats folds Islands- The Andaman and Nicobar islands and the Lakshadweep islands. The Himalayas The Kedarnath range in the Garhwal Himalayas in India. Kangchenjunga Kangchenjunga , the third highest mountain in the world , near the Zemu Glacier in Sikkim, India . An arc of mountains consisting of the Himalayas, Hindu Kush , and Patkai ranges define the northern frontiers of the Indian subcontinent. These were formed by the ongoing tectonic plates collision of the Indian and Eurasian plates . The mountains in these ranges include some of the world's tallest mountains which act as a barrier to cold polar winds. They also facilitate the monsoon winds which in turn influence the climate in India. Rivers originating in these mountains flow through the fertile Indo–Gangetic Plain. These mountains form the boundary between two biogeographic realms : the temperate Palearctic realm that covers most of Eurasia, and the tropical and subtropical Indomalayan realm which includes South Asia, Southeast Asia and Indonesia.  The Himalayas in India extend from Ladakh in the north to the state of Arunachal Pradesh in the east. Several Himalayan peaks in India rise above 7,000 m (23,000 ft), including Kanchenjunga (8,598 m (28,209 ft)) on the Sikkim – Nepal border, and Nanda Devi (7,816 m (25,643 ft)) in the Garhwal Himalayas of Uttarakhand. The snow line ranges between 6,000 m (20,000 ft) in Sikkim to around 3,000 m (9,800 ft) in Ladakh. The Himalayas act as a barrier to the frigid katabatic winds flowing down from Central Asia. Thus, northern India is kept warm or only mildly cooled during winter; in summer, the same phenomenon makes India relatively hot.  The Karakoram range runs through Ladakh. The range is about 500 km (310 mi) in length and the most heavily glaciated part of the world outside of the polar regions. The Siachen Glacier at 76 km (47 mi) ranks as the world's second longest glacier outside the polar regions. The southern boundary of the Karakoram is formed by the Indus and Shyok rivers, which separate the range from the northwestern end of the",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_3",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 0,
+      "score": 43.420708
+    },
+    {
+      "text": "Ganges is the longest river originating in India. The Ganges – Brahmaputra system occupies most of northern, central, and eastern India, while the Deccan Plateau occupies most of southern India. Kangchenjunga , in the Indian state of Sikkim , is the highest point in India at 8,586 m (28,169 ft) and the world's third highest peak . The climate across India ranges from equatorial in the far south, to alpine and tundra in the upper regions of the Himalayas. Geologically, India lies on the Indian Plate , the northern part of the Indo-Australian Plate . Geological development Proposed model of the collision of the Indian subcontinent with Asia to form the Himalayas. The area in green represents the hypothetical subducted and underthrust \"Greater India\" India is situated entirely on the Indian Plate , a major tectonic plate that was formed when it split off from the ancient continent Gondwanaland (ancient landmass, consisting of the southern part of the supercontinent of Pangea ). The Indo-Australian plate is subdivided into the Indian and Australian plates . About 90 million years ago, during the late Cretaceous Period , the Indian Plate began moving north at about 15 cm/year (6 in/yr). About 50 to 55 million years ago, in the Eocene Epoch of the Cenozoic Era , the plate collided with Asia after covering a distance of 2,000 to 3,000 km (1,243 to 1,864 mi), having moved faster than any other known plate. In 2007, German geologists determined that the Indian Plate was able to move so quickly because it is only half as thick as the other plates which formerly constituted Gondwanaland. The collision with the Eurasian Plate along the modern border between India and Nepal formed the orogenic belt that created the Tibetan Plateau and the Himalayas . As of 2009 [update] , the Indian Plate is moving northeast at 5 cm/yr (2 in/yr), while the Eurasian Plate is moving north at only 2 cm/yr (0.8 in/yr). India is thus referred to as the \"fastest continent\". This is causing the Eurasian Plate to deform, and the Indian Plate to compress at a rate of 4 cm/yr (1.6 in/yr). Political geography India is divided into 28 States (further subdivided into districts ) and 8 union territories including the National capital territory (i.e., Delhi ). India's borders run a total length of 15,200 km (9,400 mi). Its borders with Pakistan and Bangladesh were delineated according to the Radcliffe Line , which was created in 1947 during Partition of India . Its western border with Pakistan extends up to 3,323 km (2,065 mi), dividing the Punjab region and running along the boundaries",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_1",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 0,
+      "score": 38.91359
+    },
+    {
+      "text": "mi). Its borders with Pakistan and Bangladesh were delineated according to the Radcliffe Line , which was created in 1947 during Partition of India . Its western border with Pakistan extends up to 3,323 km (2,065 mi), dividing the Punjab region and running along the boundaries of the Thar Desert and the Rann of Kutch . This border runs along the Indian states and union territories of Ladakh , Jammu and Kashmir , Punjab , Rajasthan , and Gujarat . Both nations delineated a Line of Control (LoC) to serve as the informal boundary between the Indian and Pakistan-administered areas of the Kashmir region . India claims the whole of the former princely state of Jammu and Kashmir , which includes areas now administered by Pakistan and China, which according to India are illegally occupied areas. India's border with Bangladesh runs 4,096.70 km (2,545.57 mi). West Bengal , Assam , Meghalaya , Tripura and Mizoram are the states which share the border with Bangladesh. Before 2015, there were 92 enclaves of Bangladesh on Indian soil and 106 enclaves of India were on Bangladeshi soil. These enclaves were eventually exchanged in order to simplify the border. After the exchange, India lost roughly 40 km 2 (9,900 acres) to Bangladesh. The Line of Actual Control (LAC) is the effective border between India and the People's Republic of China. It traverses 4,057 km along the Indian states and union territories of Ladakh , Himachal Pradesh , Uttarakhand , Sikkim and Arunachal Pradesh . The border with Burma (Myanmar) extends up to 1,643 km (1,021 mi) along the eastern borders of India 's northeastern states viz. Arunachal Pradesh , Nagaland , Manipur and Mizoram . Located amidst the Himalayan range, India's border with Bhutan runs 699 km (434 mi). Sikkim , West Bengal , Assam and Arunachal Pradesh are the states which share the border with Bhutan. The border with Nepal runs 1,751 km (1,088 mi) along the foothills of the Himalayas in northern India. Uttarakhand , Uttar Pradesh , Bihar , West Bengal and Sikkim are the states which share the border with Nepal. The Siliguri Corridor , narrowed sharply by the borders of Bhutan, Nepal and Bangladesh, connects peninsular India with the northeastern states. Physiographic regions Physical map of India with various physiographic divisions Regions India can be divided into six physiographic regions . They are: Northern Mountains: Himalayas Peninsular Plateau: contains mountain ranges ( Aravalli , Vindhayachal and Satpura ranges), ghats (Eastern Ghats and Western Ghats) and plateaus (Malwa Plateau, Chhota",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_2",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 0,
+      "score": 36.70055
+    },
+    {
+      "text": "Chandra Taal ( lit. ' moon lake ' ) is a lake in the upper Chandra valley of the Lahul and Spiti district of Himachal Pradesh , India . Chandra Taal is near the source of the Chandra River . Despite the rugged and inhospitable surroundings, it is in a protected niche with some flowers and wildlife in summer. It is a favourite spot for tourists and high-altitude trekkers. It is usually associated with Spiti , although geographically it lies in the watershed of the Chandra River of Lahaul. Kunzum La separates Lahaul and Spiti valleys. It's surrounded by the Chandratal Wildlife Sanctuary . Description A view of the lake, Jul 2024 Chandra Taal Lake is on the Samudra Tapu plateau, which overlooks the Chandra River (a source river of the Chenab ). The name of the lake originates from its crescent shape. It is at an altitude of about 4,300 metres (14,100 ft) in the Himalayas . Mountains of scree overlook the lake on one side, and a cirque encloses it on the other. Access Foot path to Chandra Taal, Aug 2016 Chandra Taal is a tourist destination for trekkers and campers. The lake is accessible by road from Batal and by road as well as on foot from Kunzum Pass from late May to early October. The road to Chandra Taal branches off from NH-505 about 2.9 kilometres (1.8 mi) from Batal and 8 km (5.0 mi) from Kunzum Pass. This 12 km (7.5 mi) motor road runs as far as a parking lot 1 kilometre (0.62 mi) from the lake. One has to travel on foot for the final 1 km (0.62 mi). It takes approximately two hours from Kunzum Pass to Chandra Taal. Chandra Taal is also accessible from Suraj Tal , 30 km (19 mi) away. Fauna and flora Herd of sheep passing the lake, Jul 2016 There are vast meadows on the banks of the lake. During springtime, these meadows are carpeted with hundreds of varieties of wild flowers. In 1871, Harcourt, Assistant Commissioner of Kullu, reported that there was a plain of good grass to the north of Chadra Taal, where shepherds brought large herds for grazing from Kullu and Kangra . Due to overgrazing, the grasslands are now degraded. Ruddy (Brahminy) shelduck, Jun 2018 Vegetation around the lake, Jul 2024 Chandra Taal is home to a few species such as the Snow Leopard , Snow Cock , Chukor, Black Ring Stilt, Kestrel , Golden Eagle , Chough,",
+      "id": "HotpotQA-validation-00005130/01_Chandra-Taal.html_c_0",
+      "doc_id": "HotpotQA-validation-00005130/01_Chandra-Taal.html",
+      "community_id": 1,
+      "score": 33.86755
+    },
+    {
+      "text": "Himalayas by one centimetre each year. Soils in India can be classified into eight categories: alluvial, black, red, laterite, forest, arid and desert, saline and alkaline and peaty and organic soils. Alluvial soil constitute the largest soil group in India, constituting 80% of the total land surface. It is derived from the deposition of silt carried by rivers and are found in the Great Northern plains from Punjab to the Assam valley. Alluvial soil are generally fertile but they lack nitrogen and tend to be phosphoric. National Disaster Management Authority says that 60% of Indian landmass is prone to earthquakes and 8% susceptible to cyclone risks. Black soil are well developed in the Deccan lava region of Maharashtra, Gujarat, and Madhya Pradesh. These contain high percentage of clay and are moisture retentive. Red soils are found in Tamil Nadu, Karnataka plateau, Andhra plateau, Chota Nagpur plateau and the Aravallis. These are deficient in nitrogen, phosphorus and humus. Laterite soils are formed in tropical regions with heavy rainfall. Heavy rainfall results in leaching out all soluble material of top layer of soil. These are generally found in Western ghats, Eastern ghats and hilly areas of northeastern states that receive heavy rainfall. Forest soils occur on the slopes of mountains and hills in Himalayas, Western Ghats and Eastern Ghats. These generally consist of large amounts of dead leaves and other organic matter called humus . Cratons Topography of India Malani Igneous Suite, largest in India and third largest igneous suite in the world, at Jodhpur near Mehrangarh Fort . Cratons are a specific kind of continental crust made up of a top layer called platform and an older layer called basement . A shield is the part of a craton where basement rock crops out of the ground, and it is relatively the older and more stable section, unaffected by plate tectonics . The Indian Craton can be divided into five major cratons as such: Aravalli Craton (Marwar-Mewar Craton or Western Indian Craton): Covers Rajasthan as well as western and southern Haryana . It comprises Mewar Craton in the east and Marwar Craton in the west. It is limited by the Great Boundary Fault in the east, sandy Thar Desert in the Thar desert in the west, Indo-ganetic alluvium in the north, Son - Narmada - Tapti in the south. It mainly has quartzite , marble , pelite , greywacke and extinct volcanos exposed in Aravalli-Delhi Orogen . Malani Igneous Suite is the largest in India and third largest igneous suite in the world. Bundelkand Craton, covers 26,00 km 2 in the Bundelkhand region of Uttar",
+      "id": "HotpotQA-validation-00003228/01_Geography-of-India.html_c_18",
+      "doc_id": "HotpotQA-validation-00003228/01_Geography-of-India.html",
+      "community_id": 18,
+      "score": 28.769886
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00002016/00_Kirat-Chuli.html_0",
+      "summary": "**Title**: Kirat Chuli Mountain Profile\n\n**Summary**: Kirat Chuli, also called Tent Peak, is a 7,365 m Himalayan summit straddling the Nepal–India border near Sikkim. First climbed on 29 May 1939 by Ernst Grob, Herbert Paidar, and Ludwig Schmaderer, it sits roughly 2 km northeast of Nepal Peak in the remote northeast Nepal frontier. The mountain’s name echoes the Kirata heritage of the region, linking it culturally to the Kirati people and their kingdom.\n\n**Keywords**: Kirat Chuli, Tent Peak, Himalayas, first ascent 1939, Nepal–India border",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_0",
+      "summary": "**Title**: Gimmigela Chuli Profile  \n\n**Summary**:  \nGimmigela Chuli, nicknamed “The Twins,” is a 7,350 m twin-summit Himalayan peak on the Nepal–India border 4 km north-northeast of Kangchenjunga. The higher main summit (Gimmigela I) and its slightly lower subpeak Gimmigela II together form a compact massif whose climbing history began with a 1993 Japanese expedition that first reached Gimmigela II but ended in tragedy when leader Masanori Sato fell into a crevasse. The same team returned in 1994 and completed the first ascent of the main summit, establishing the standard route along the east ridge from Sikkim.  \n\n**Keywords**:  \nGimmigela Chuli, The Twins, Kangchenjunga region, 1993–94 Japanese expeditions, Nepal–India border",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/01_Geography-of-India.html_0",
+      "summary": "**Title:** Peninsular Ghats & Mountain Systems  \n\n**Summary:**  \nThe chunks detail India’s major upland systems south of the Himalayas, focusing on the Western and Eastern Ghats. The Western Ghats—Sahyadri—form a 1,600 km UNESCO-listed biodiversity escarpment that shapes monsoon patterns and harbours endemic flora/fauna, while the lower, discontinuous Eastern Ghats fringe India’s east coast, segmented by large peninsular rivers. Related ranges (Satpura, Vindhya, Aravalli) and plateaus (Malwa, Chhota Nagpur, Southern Granulite Terrain) are described in terms of elevation, geological origin, drainage, and resource endowment, together framing the physiographic mosaic of peninsular India.  \n\n**Keywords:** Western Ghats, Eastern Ghats, Sahyadri, peninsular plateau, biodiversity hotspot",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005130/01_Chandra-Taal.html_1",
+      "summary": "**Title**: Chandra Taal Lake\n\n**Summary**: Chandra Taal, the high-altitude “moon lake” at 4,300 m in Himachal Pradesh’s Lahaul region, is famed for its crescent shape, surrounding meadows, and rich Himalayan wildlife including snow leopards and blue sheep. Accessible by road from Batal or Kunzum Pass between late May and early October, it draws trekkers and campers to its protected wetlands within the Chandratal Wildlife Sanctuary. Once pristine grasslands now show overgrazing impacts, yet the lake remains one of India’s two Ramsar-listed high-altitude wetlands.\n\n**Keywords**: Chandra Taal, high-altitude wetland, Chandratal Wildlife Sanctuary, Lahaul-Spiti trekking, Ramsar site",
+      "is_seed": true,
+      "expand_score": 0.8259990215301514
+    },
+    {
+      "community_key": "HotpotQA-validation-00002016/01_Kangpenqing.html_0",
+      "summary": "**Title**: Kangpenqing Peak Profile\n\n**Summary**: Kangpenqing, also spelled Gang Ben Chen, is a 7,281-metre mountain in the Tibet Autonomous Region of China, ranking as the world’s 89th highest peak. Located within the Himalayan range, it was first successfully climbed in 1982 by a Japanese expedition. The summit stands at 23,888 feet above sea level.\n\n**Keywords**: Kangpenqing, Himalayas, Tibet, 7,281 m, 1982 first ascent",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007354/00_Henderson-Point-Mississippi.html_0",
+      "summary": "**Title**: Henderson Point Mississippi Overview\n\n**Summary**: Henderson Point is a small census-designated place in Harrison County, Mississippi, situated on a peninsula at the mouth of St. Louis Bay along the Gulf of Mexico. It lies within the Gulfport–Biloxi metro area and serves as the eastern terminus of the Bay St. Louis Bridge carrying U.S. Route 90. The community covers 1.2 sq mi, 8.6% of which is water, and grew from 170 residents in 2010 to 232 in 2020.\n\n**Keywords**: Henderson Point, Mississippi Gulf Coast, Bay St. Louis Bridge, Harrison County, census-designated place",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002693/03_Chonsa.html_0",
+      "summary": "**Title**: East Asian Military Rank \"Shi\"\n\n**Summary**: The rank \"Shi\" (士) designates non-commissioned officers across several East Asian militaries, including those of China, Taiwan, North Korea, South Korea, and historical South Vietnam. Derived from one of the four ancient occupations, the term is standardized within each country but prefixed by service-specific identifiers like \"haijun\" (naval force) or \"kongjun\" (air force) in China. It sits between junior officer ranks such as \"Wei\" and enlisted ranks like \"Bing,\" forming a consistent tier in Chinese-character-based ranking systems.\n\n**Keywords**: Shi rank, East Asian militaries, non-commissioned officer, Chinese military ranks, Hanja",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006653/03_Western-Region-Ghana.html_0",
+      "summary": "**Title**: Western Region, Ghana Overview\n\n**Summary**: The Western Region of Ghana stretches along the south-western coast from the Ivorian border to the Central Region, encompassing 13,842 km² and housing over 2 million residents. Its coastal capital Sekondi-Takoradi, historic Axim, and oil-rich Cape Three Points anchor an economy driven by gold mining (Tarkwa), beaches, and heritage tourism featuring stilt village Nzulezo and colonial-era forts. Predominantly Akan with Wassa, Ahanta, and Nzema peoples, the region speaks Fanti and is governed through 14 MMDAs after the 2018 creation of Western North Region. Major rivers—Ankobra, Bia, Pra, Tano—drain forested hinterlands that include the Ankasa Conservation Area.\n\n**Keywords**: Sekondi-Takoradi, gold mining, Nzulezo, Akan tribes, Cape Three Points oil",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005130/02_Suraj-Tal.html_1",
+      "summary": "**Title**: Suraj Tal Lake Geography  \n\n**Summary**:  \nSuraj Tal, India’s third-highest lake, sits at 4,890 m below the Bara-lacha-la pass in Himachal Pradesh’s Lahaul & Spiti district and feeds the Bhaga River, a Chandrabhaga/Chenab headwater. The 800-m glacial lake lies in an Upper Himalayan cold-desert zone that receives ~12–15 m of wind-blown snow yearly and stays cut off November–April via the Leh-Manali Highway. Its rugged catchment, barren Bhaga gorge, and road-accessible high pass make the site a focal point for high-altitude road-trips, motorcycling, and short treks.  \n\n**Keywords**: Suraj Tal, Bara-lacha-la pass, Bhaga River, Leh-Manali Highway, high-altitude tourism",
+      "is_seed": true,
+      "expand_score": 0.8259990215301514
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/01_Geography-of-India.html_18",
+      "summary": "**Title**: India’s Physical Geography  \n\n**Summary**:  \nIndia’s climate ranges from arid desert to alpine tundra, dominated by the southwest monsoon that splits into Bay of Bengal and Arabian Sea arms, delivering most of the country’s annual rainfall and shaping agriculture and water resources. Its geology spans Precambrian cratons, Deccan Traps volcanics, and young Himalayan uplift, creating eight major soil types—chiefly alluvial and black—that underpin the world’s largest irrigated cropland. Major landforms include the Indo-Gangetic plain, the Western and Eastern Ghats, the Thar Desert, and the Himalayas, which continue rising ~1 cm yr⁻¹. Rich mineral and energy reserves (coal, iron, bauxite, thorium, oil, gas) and extensive but under-utilized groundwater support an economy where two-thirds of cultivated land still depends on monsoon rains.  \n\n**Keywords**: monsoon climate, Deccan Traps, Indo-Gangetic plain, soil types, mineral resources",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_1",
+      "summary": "**Title**: Spanish River Boulevard SR 800  \n\n**Summary**:  \nSpanish River Boulevard is a 0.5-mile east-west beach connector in northern Boca Raton, Florida, carrying State Road 800 from U.S. Route 1 to State Road A1A at Spanish River Park. The boulevard begins at Military Trail, widens to four lanes, crosses I-95 and Tri-Rail, borders Boca Raton Airport and Florida Atlantic University, then turns southeast through residential and condominium areas before terminating at the Atlantic shoreline. It is one of only three public beach-access roads within Boca Raton city limits and is notable as an exception to Florida’s x00-series numbering pattern.  \n\n**Keywords**: SR 800, Boca Raton, beach access, State Road A1A, Florida highways",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "summary": "**Title**: Believers 2007 Thriller Film\n\n**Summary**: *Believers* is a 2007 straight-to-DVD thriller directed by Daniel Myrick in which two paramedics are abducted by the Quanta Group, a doomsday cult of intellectuals preparing for mass suicide. One medic, Victor, is gradually indoctrinated while the other, David, struggles to escape and rescue him before the group’s apocalyptic plan is fulfilled. The film explores themes of psychological manipulation, belief systems, and survival within a secretive commune led by the enigmatic “Teacher.”\n\n**Keywords**: cult thriller, doomsday belief, psychological manipulation, paramedic abduction, Quanta Group",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000321/03_EAFF-E-1-Football-Championship.html_0",
+      "summary": "**Title**: EAFF E-1 Football Championship  \n\n**Summary**:  \nThe EAFF E-1 Football Championship is East Asia’s premier men’s national-team tournament, staged biennially since 2003 by the East Asian Football Federation. Evolving from the 1990-1998 Dynasty Cup, it grants automatic entry to China, Japan, and South Korea while other EAFF members and invited teams qualify through preliminary rounds. The competition has undergone several name changes—East Asian Football Championship, EAFF East Asian Cup, and since 2015 the EAFF E-1 Football Championship—and maintains parallel men’s and women’s events. Results are tabulated on standard 3-1-0 points, with rankings by goal difference and goals scored, and the most recent finals were held in Korea in 2025.  \n\n**Keywords**:  \nEAFF E-1, East Asian football, Dynasty Cup, men’s national teams, biennial tournament",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "summary": "**Title:** Guam 1944 Battle Campaign\n\n**Summary:**  \nThe 1944 Battle of Guam saw U.S. Marines and Army forces execute a two-beach landing to retake the island from entrenched Japanese defenders. After overcoming fierce resistance at key points like Bundschu Ridge, Chonito Cliff, and Fonte Plateau, American units linked their northern and southern beachheads. Japanese commander Takashina launched a costly counterattack that failed, after which he shifted to guerrilla tactics before being killed. The campaign concluded with U.S. forces securing central Guam, inflicting ~3,500 Japanese casualties and suffering heavy losses themselves.\n\n**Keywords:** Guam 1944, Bundschu Ridge, Fonte Plateau, 3rd Marine Division, Japanese counterattack",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/03_Northenden.html_2",
+      "summary": "**Title**: Northenden Suburban History\n\n**Summary**: Northenden, now a Manchester suburb, evolved from a rural Cheshire parish into an urban overspill estate after Manchester annexed it in 1931. Positioned on a historic Mersey ford and salt road, it prospered in medieval times yet largely escaped 19th-century industrialisation, retaining village character until 20th-century suburban expansion. Key developments include Simon’s Bridge (1901), the short-lived railway (1866-1964), and post-annexation shopping and housing growth along Palatine Road. Today it lies within the Wythenshawe & Sale East constituency and is represented by three Labour councillors.\n\n**Keywords**: Northenden, Manchester annexation, Mersey ford, suburban development, civil parish",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "summary": "**Title**: Didsbury Governance & Transport History  \n\n**Summary**:  \nDidsbury’s civic identity evolved from a 13th-century manor of Withington to a modern Manchester suburb, becoming a civil parish in 1866, an urban district in 1894, and fully absorbed into Manchester in 1904. Boundary reforms in 2004 split the area into Didsbury East and Didsbury West wards, now represented by Labour and Liberal Democrat councillors. Transport milestones shaped its growth: the 1880 Midland Railway connection, the 1909 Styal Line, and 1928–30 dual-carriageway arterials (Kingsway and Princess Road) with segregated tram tracks; passenger rail ceased in 1967 under Beeching cuts. The 1910 landing of French aviator Louis Paulhan after the first London–Manchester flight and the 1921 war memorial outside the former Midland station highlight Didsbury’s place in aviation and civic memory.\n\n**Keywords**:  \nDidsbury wards, Manchester boundary changes, Midland Railway, Louis Paulhan, Kingsway/Princess Road",
+      "is_seed": false,
+      "expand_score": 0.8546842336654663
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "summary": "**Title**: History and Heritage of Didsbury  \n\n**Summary**:  \nDidsbury, a suburb of Manchester, England, has a rich history dating back to the 13th century, evolving from a rural hamlet to a prosperous Victorian settlement. It played notable roles in historical events such as the English Civil War and the Jacobite rising. The area became a hub for German merchants and Jewish immigrants in the 19th century, contributing to its cultural diversity. Didsbury is also significant for its religious institutions, educational establishments, and community organizations, including the founding of the Royal Society for the Protection of Birds.  \n\n**Keywords**:  \nDidsbury history, Manchester suburb, Victorian development, German immigration, RSPB founding",
+      "is_seed": false,
+      "expand_score": 0.8266876935958862
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "summary": "**Title**: Battle of Manila 1945\n\n**Summary**: In February 1945, Japanese Rear-Adm. Sanji Iwabuchi defied orders to withdraw and instead fortified Manila with 17,000 troops, vowing to fight to the death. U.S. 1st Cavalry and 37th Infantry Divisions entered the city on 3–5 February, liberating 4,000+ civilian internees at Santo Tomas and Bilibid Prison. While MacArthur prematurely declared Manila “fallen,” bitter house-to-house combat, artillery duels, and Japanese demolition of infrastructure raged for weeks. Japanese forces, trapped and facing annihilation, perpetrated systematic massacres of Filipino civilians in churches, hospitals, and schools, killing over 100,000 and reducing much of the historic capital to rubble before the last defenders were eliminated.\n\n**Keywords**: Manila 1945, Santo Tomas liberation, Japanese massacres, urban warfare, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.804929256439209
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "summary": "**Title**: Battle of Manila 1945 Devastation  \n\n**Summary**:  \nThe month-long Battle of Manila (3 Feb–3 Mar 1945) pitted U.S. and Filipino forces against entrenched Japanese naval troops, producing the Pacific War’s fiercest urban combat and leaving at least 100,000 civilians dead. Japanese massacres, American artillery bombardment, and house-to-house fighting obliterated the city’s Spanish-colonial and early-American architectural heritage, with only two buildings in the business district surviving intact. After the Japanese garrison ignored orders to withdraw, U.S. troops systematically reduced strongholds such as Intramuros, Rizal Stadium, and Fort San Antonio Abad, counting 16,665 Japanese dead inside the Walled City alone. The battle’s aftermath saw General Yamashita executed for war crimes and Manila’s transformation from the “Pearl of the Orient” to a modernist American-style capital. Commemoration efforts, including the 1995 Memorare-Manila Monument, honor the civilian victims and the city’s cultural loss.\n\n**Keywords**:  \nManila 1945, urban warfare, civilian massacres, heritage destruction, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.786066472530365
+    },
+    {
+      "community_key": "HotpotQA-validation-00003228/03_India.html_43",
+      "summary": "**Title**: India’s Socio-Economic & Cultural Landscape  \n\n**Summary**:  \nThese chunks assemble a multidimensional profile of India, weaving together its economic trajectory, demographic patterns, cultural heritage, and global engagements. Sources track India’s integration into the world economy through WTO membership, IMF growth projections, and IT-BPO expansion, while also noting persistent challenges such as child under-nutrition and rural-urban divides. Demographic studies frame population distribution, migration, and language planning, whereas cultural references span Mughal architecture, caste dynamics, classical mathematics, and contemporary marriage practices. Defence and nuclear diplomacy pieces underscore India’s rising strategic profile, and environmental histories contextualize human development within the subcontinent’s ecological past.  \n\n**Keywords**:  \nIndia economy, demographics & migration, cultural heritage, strategic/defence policy, historical historiography",
+      "is_seed": false,
+      "expand_score": 0.7845053672790527
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00002016/00_Kirat-Chuli.html_0",
+      "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_0",
+      "HotpotQA-validation-00003228/01_Geography-of-India.html_0",
+      "HotpotQA-validation-00005130/01_Chandra-Taal.html_1",
+      "HotpotQA-validation-00002016/01_Kangpenqing.html_0",
+      "HotpotQA-validation-00007354/00_Henderson-Point-Mississippi.html_0",
+      "HotpotQA-validation-00002693/03_Chonsa.html_0",
+      "HotpotQA-validation-00006653/03_Western-Region-Ghana.html_0",
+      "HotpotQA-validation-00005130/02_Suraj-Tal.html_1",
+      "HotpotQA-validation-00003228/01_Geography-of-India.html_18",
+      "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_1",
+      "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "HotpotQA-validation-00000321/03_EAFF-E-1-Football-Championship.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00001577/03_Northenden.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "HotpotQA-validation-00005130/02_Suraj-Tal.html_1",
+      "HotpotQA-validation-00005130/01_Chandra-Taal.html_1",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00003228/03_India.html_43"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00002016/00_Kirat-Chuli.html_0",
+      "HotpotQA-validation-00002016/02_Gimmigela-Chuli.html_0",
+      "HotpotQA-validation-00003228/01_Geography-of-India.html_0",
+      "HotpotQA-validation-00005130/01_Chandra-Taal.html_1",
+      "HotpotQA-validation-00002016/01_Kangpenqing.html_0",
+      "HotpotQA-validation-00007354/00_Henderson-Point-Mississippi.html_0",
+      "HotpotQA-validation-00002693/03_Chonsa.html_0",
+      "HotpotQA-validation-00006653/03_Western-Region-Ghana.html_0",
+      "HotpotQA-validation-00005130/02_Suraj-Tal.html_1",
+      "HotpotQA-validation-00003228/01_Geography-of-India.html_18",
+      "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_1",
+      "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "HotpotQA-validation-00000321/03_EAFF-E-1-Football-Championship.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_14",
+      "HotpotQA-validation-00001577/03_Northenden.html_2",
+      "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00003228/03_India.html_43"
+    ],
+    "allowed_chunk_pool_size": 62,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

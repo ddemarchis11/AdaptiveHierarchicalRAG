@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20a20596",
+  "question": "How do the triplets demonstrate the interplay between local rulers—such as the Emperor residing at Mequinez and the Sultan in Salee—and foreign influences, as seen through historical events like England's occupation of Tangier, the French bombardment of Mogador, and the Portuguese destruction of Anfa, thereby highlighting the regions' internal governance and external challenges?",
+  "gold_answer": "Local rulers such as the Emperor and Sultan govern regions, but their domains have experienced foreign actions like the English occupation of Tangier, French bombardment of Mogador, and Portuguese destruction of Anfa, showing both internal authority and external challenges.",
+  "llm_answer": "The passages do not mention the triplets. However, they do describe the interplay between local rulers and foreign influences in Morocco. The region's internal governance is demonstrated through the descriptions of the Emperor residing at Mequinez and the Sultan in Salee, as well as the local customs and traditions. The external challenges are highlighted through historical events such as England's occupation of Tangier, the French bombardment of Mogador, and the Portuguese destruction of Anfa.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the interplay between local rulers and foreign influences, aligning with the Gold Answer. It includes the key historical events mentioned in the Gold Answer, such as England's occupation of Tangier, the French bombardment of Mogador, and the Portuguese destruction of Anfa. However, the Retrieved Context does not explicitly support all claims about the Emperor residing at Mequinez and the Sultan in Salee, making the faithfulness to context partial."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-58758b1e",
+  "question": "What is the close personal relationship between Miss Piney Tibbs and Cissy Trixit as depicted in the social scenes of Canada City?",
+  "gold_answer": "Miss Piney Tibbs is the bosom friend of Cissy Trixit.",
+  "llm_answer": "I cannot find any information about a close personal relationship between Miss Piney Tibbs and Cissy Trixit in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not contain information about the relationship between Miss Piney Tibbs and Cissy Trixit. However, it fails to answer the question using internal knowledge or external reasoning, which is expected when the context is irrelevant. The Gold Answer clearly states their relationship as 'bosom friends,' which the Model Answer does not address."
+  }
+}

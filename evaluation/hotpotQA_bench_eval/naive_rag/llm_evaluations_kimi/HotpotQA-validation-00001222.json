@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001222",
+  "question": "What is the airport code for the Vilnius Airport that ceased operations in 2015?",
+  "gold_answer": "IATA: VNO, ICAO: EYVI",
+  "llm_answer": "The evidence does not mention any airport code for a Vilnius Airport that ceased operations in 2015.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not mention any airport code for Vilnius Airport. The Retrieved Context explicitly provides the IATA code (VNO) and ICAO code (EYVI) for Vilnius Airport. While the Model Answer is faithful to the context in its claim, it fails to correctly answer the question and misses the key facts provided in the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-75d05962",
+  "question": "Following the King's decision to appoint my Lord, how do my Lord's subsequent actions—such as taking leave of the King, visiting Whitehall, and preparing for a journey to Algier—reveal his active and multifaceted role within the narrative?",
+  "gold_answer": "After being appointed by the King, my Lord is depicted as taking leave, visiting important places, and preparing for travel, revealing his active and multifaceted role.",
+  "llm_answer": "The provided context does not mention any king, lord, Whitehall, or journey to Algiers, so it cannot support an answer about those events or the lord’s role.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not support the question, but it fails to provide an answer to the question itself. The Gold Answer outlines the lord's actions and their significance, which the Model Answer does not address. Additionally, the retrieved context is irrelevant to the question, so the Model Answer cannot be grounded or provide evidence coverage."
+  }
+}

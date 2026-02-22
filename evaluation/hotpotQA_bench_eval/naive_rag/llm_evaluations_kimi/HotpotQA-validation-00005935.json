@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005935",
+  "question": "The Admiral's Men occupied which kind of theatre in the 1590s ?",
+  "gold_answer": "Elizabethan theatre",
+  "llm_answer": "The Admiral's Men occupied the Rose Theatre in the 1590s.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the specific theatre occupied by the Admiral's Men in the 1590s, which is the Rose Theatre, as supported by the context. However, it does not explicitly mention 'Elizabethan theatre,' which is the broader category stated in the Gold Answer. While the specific detail is accurate, it misses the general classification provided in the Gold Answer."
+  }
+}

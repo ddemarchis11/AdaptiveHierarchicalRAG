@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6fcababd",
+  "question": "How is the harp’s presence in British history connected to David’s musical practices?",
+  "gold_answer": "David played the lyre and used to suspend the kinnor, which is rendered as harp and is in the Anglo-Saxon manuscript.",
+  "llm_answer": "The context links the harp’s place in British history to King David by noting that “David’s (King) private band” and “his favourite instrument” are indexed entries, implying that the biblical precedent of David’s use of the harp was invoked to justify or explain the harp’s later prominence in Britain.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the connection between David's musical practices and the harp's presence in British history by mentioning David's private band and favorite instrument. However, it does not explicitly mention the lyre or kinnor, which are central to the Gold Answer. Additionally, the Retrieved Context does not provide direct support for the claims made in the Model Answer, making it unfaithful to the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001629",
+  "question": "Who was born first, Sathish Kalathil or Jacques Feyder?",
+  "gold_answer": "Jacques Feyder",
+  "llm_answer": "Jacques Feyder was born first.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Jacques Feyder as being born first, aligning with the Gold Answer and supported by the context, which provides Jacques Feyder's birth year (1885) but does not specify Sathish Kalathil's birth year. The answer is concise and accurate."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed553dca",
+  "question": "While held captive in Dr. O'Shaughnessy's house, to whom did Eileen Macarthy direct her questions regarding her condition and her wish?",
+  "gold_answer": "Eileen Macarthy asked questions to the doctor.",
+  "llm_answer": "Eileen Macarthy directed her questions regarding her condition and her wish to Dr. O'Shaughnessy's wife, Mrs. O'Shaughnessy.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Eileen Macarthy directed her questions to Mrs. O'Shaughnessy, whereas the Gold Answer specifies that she asked questions to the doctor. The retrieved context does not support the claim that Mrs. O'Shaughnessy was the recipient of Eileen's questions regarding her condition and wish, making the answer both incorrect and unfaithful to the context. Additionally, the Model Answer fails to cover the key fact from the Gold Answer."
+  }
+}

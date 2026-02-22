@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e1aa48e4",
+  "question": "What actions and roles are attributed to the Bey in the Tunisian territory within the text, particularly regarding his use of the Bastinado as punishment, the existence of his palace in Toser, his administration as Bey of the Camp, carrying a present to the Britannic Majesty, and issuing orders to Arabs?",
+  "gold_answer": "The Bey is associated with the use of Bastinado as a form of punishment, has a palace in Toser, administers the Tunisian territory as Bey of the Camp, carried a present to the Britannic Majesty, and issued orders to Arabs, reflecting his authority and influence.",
+  "llm_answer": "I cannot find any information about the Bey in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that no information about the Bey is found in the context, which is incorrect. The Gold Answer outlines specific roles and actions attributed to the Bey, but the Model Answer fails to address or retrieve any of these details. Additionally, the retrieved context does not contain relevant information about the Bey, making the Model Answer ungrounded and lacking evidence coverage."
+  }
+}

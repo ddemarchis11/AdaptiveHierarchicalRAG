@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004110",
+  "question": "Which NFL team did both Don Looney and DeSean Jackson play for?",
+  "gold_answer": "Philadelphia Eagles",
+  "llm_answer": "The NFL team that both Don Looney and DeSean Jackson played for is the Philadelphia Eagles.",
+  "context": [
+    {
+      "text": "John Don Looney (September 2, 1916 – April 5, 2015) was an American professional football end in the National Football League (NFL). He was selected in the eighth round of the 1940 NFL draft . He played three seasons for the Philadelphia Eagles (1940) and the Pittsburgh Steelers (1941–1942). Looney set new NFL records for catches and yards in a single game during his 1940 rookie season and led the league in receiving yards, topping Packers player and Hall of Fame inductee Don Hutson . Biography Looney's 707 yards receiving led the NFL in 1940, topping Hall of Famer Don Hutson. Don Looney was born September 2, 1916, in Sulphur Springs, Texas . Dafted into the NFL ahead of the 1940 season , Looney was the first receiver in NFL history to have over 100 yards receiving in each of his first two games, a feat which was not equaled until the 2008 NFL season by another Eagles wide receiver , DeSean Jackson . He also set new NFL records for most catches in a game (14) and most yards gained receiving in a single game (180) during the season. His 707 total yards gained receiving were the highest in the NFL for the 1940 season, topping the year of Hall of Fame Packers end Don Hutson . Looney served in World War II for the United States Army",
+      "id": "HotpotQA-validation-00004110/00_Don-Looney.html_c_0"
+    },
+    {
+      "text": "1940 season, topping the year of Hall of Fame Packers end Don Hutson . Looney served in World War II for the United States Army after the 1942 season. He did not resume his professional football career after termination of the war, instead becoming an NFL official. At the time of his death at the age of 98, Looney was the second oldest living former NFL player. He was the father of NFL running back Joe Don Looney , who died in a one-person motorcycle accident after his NFL career ended. Looney's partner was Linda Roark, whom he met in 1992. NFL career statistics References External links Career statistics from NFL.com · Pro Football Reference",
+      "id": "HotpotQA-validation-00004110/00_Don-Looney.html_c_1"
+    },
+    {
+      "text": "haul in a 62-yard touchdown to cap a six-catch, 92-yard game. Jackson narrowly finished second to Curtis in postseason receiving yards with 207 to Curtis's 211. Jackson finished a successful rookie season with two receiving touchdowns and a team-leading 62 receptions (the most by an Eagles rookie wide-receiver, second only to tight end Keith Jackson 's 81 in 1988, and joining Jackson and Don Looney as the only Eagles to lead the team in receptions their rookie seasons). His 912 receiving yards surpassed Keith Jackson's rookie record of 869. He also led the NFL with 50 punt returns (an Eagles' rookie record and 3rd all time) for 440 yards (third in the NFL, fifth ever by an Eagle, and an Eagles' rookie record). 2009 season Jackson with the Eagles in 2009 In Week 1 against the Carolina Panthers , Jackson had his second punt return for an 85-yard touchdown, the second longest in Eagles history. The following week, Kevin Kolb threw his first career touchdown pass to Jackson against the New Orleans Saints for 71 yards. Jackson had 149 receiving yards against the Kansas City Chiefs on September 27 which included a 64-yard touchdown reception. Against the Oakland Raiders on October 17 he caught six receptions for 94 yards, including a 51-yard diving fingertips catch, in a 13–9 loss. Jackson caught a 57-yard touchdown pass from Donovan McNabb",
+      "id": "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_8"
+    },
+    {
+      "text": "game with 110 yards on six receptions, becoming the only receiver in NFL history to have over 100 yards receiving in each of his first two games besides the Eagles' Don Looney in 1940 . On September 28, Jackson recorded his first offensive touchdown against the Chicago Bears . During this game, he also fumbled a punt return that set up the Bears' go ahead score. The following week against the Washington Redskins on October 5, Jackson returned his first punt return for a touchdown 68 yards. Jackson scored his first rushing touchdown on November 9 on a direct snap in the wildcat formation with a nine-yard run against the New York Giants . A rematch against the Giants on December 7 which resulted in a 20–14 upset of the defending Super Bowl champions marked the first time in the season that Jackson did not have a reception. The following week, Jackson rebounded, recording 77 yards on five catches in a 30–10 victory over the Cleveland Browns . In the playoffs, Jackson recorded just 1 catch for 34 yards in the Eagles' wildcard victory over Minnesota, and four catches for 81 yards in a win over the New York Giants. Jackson's final touchdown of the season came in the NFC Championship game on January 18, 2009, against the Arizona Cardinals , when he managed to haul in a 62-yard touchdown to cap a six-catch, 92-yard game. Jackson narrowly finished second to Curtis in postseason receiving yards with",
+      "id": "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_7"
+    },
+    {
+      "text": "DeSean William Jackson (born December 1, 1986) is an American college football coach and former player who is the head football coach at Delaware State University . Known for his speed, he is recognized as one of the best deep threats in NFL history. He played college football as a wide receiver for the California Golden Bears , where he was recognized as a two-time, first-team All-American in 2006 and 2007. He was selected by the Philadelphia Eagles in the second round of the 2008 NFL draft , and also played for the Washington Redskins , Tampa Bay Buccaneers , Los Angeles Rams , and Baltimore Ravens . Jackson was selected to the Pro Bowl three times, and was the first player selected to the Pro Bowl at two different positions in the same year when he was named to the 2010 Pro Bowl as a wide receiver and return specialist . After retiring as a player, Jackson pursued a coaching career. Near the end of the 2024 season, Jackson was named the head football coach at Delaware State. Early life Jackson receiving the 2005 Pete Dawkins MVP trophy after the U.S. Army All-American Bowl Jackson was born in Los Angeles , and grew up in the Crenshaw neighborhood of Los Angeles of the city. Jackson is the son of Bill and Gayle Jackson, and his oldest brother, Byron, is a former San Jose State wide receiver who spent two seasons on the Kansas City Chiefs ' practice squad. His father was hospitalized with pancreatic cancer during",
+      "id": "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Don Looney played for the Philadelphia Eagles (1940) and the Pittsburgh Steelers (1941–1942) (HotpotQA-validation-00004110/00_Don-Looney.html_c_0)\n- DeSean Jackson played for the Philadelphia Eagles (2008) (HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0)\n- Both Don Looney and DeSean Jackson played for the Philadelphia Eagles (HotpotQA-validation-00004110/00_Don-Looney.html_c_0, HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0)\n- Don Looney played for the Pittsburgh Steelers (1941–1942) (HotpotQA-validation-00004110/00_Don-Looney.html_c_0)\n- DeSean Jackson played for the Washington Redskins (HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0)\n- DeSean Jackson played for the Tampa Bay Buccaneers (HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which NFL team did both Don Looney and DeSean Jackson play for?",
+      "doc_ids": [
+        "HotpotQA-validation-00004110/00_Don-Looney.html_c_0",
+        "HotpotQA-validation-00004110/00_Don-Looney.html_c_1",
+        "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_8",
+        "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_7",
+        "HotpotQA-validation-00004110/01_DeSean-Jackson.html_c_0"
+      ]
+    }
+  ]
+}

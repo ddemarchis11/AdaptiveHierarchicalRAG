@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007078",
+  "question": "What other things did  blind Arab philosopher who is also  Abd Allah ibn al-Fadl teacher do",
+  "gold_answer": "poet, and writer",
+  "llm_answer": "I cannot verify what other things Abd Allah ibn al-Fadl, the teacher of the blind Arab philosopher, did.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide any relevant information about Abd Allah ibn al-Fadl's activities as a poet and writer, which are mentioned in the Gold Answer. Additionally, the Retrieved Context does not provide grounding for the Model Answer, making it unfaithful and lacking evidence coverage."
+  }
+}

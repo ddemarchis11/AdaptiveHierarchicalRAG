@@ -1,0 +1,288 @@
+{
+  "id": "HotpotQA-validation-00001141",
+  "question": "Who both wrote and directed the 2016 animated musical in which a veteran voice actor known for superhero cartoon roles contributed a character?",
+  "gold_answer": "Garth Jennings",
+  "llm_answer": "Garth Jennings both wrote and directed the 2016 animated musical *Sing*, in which veteran voice actor Townsend Coleman—known for superhero cartoon roles—contributed a character.",
+  "context": [
+    {
+      "text": "Alan Wray Tudyk ( / ˈ tj uː d ɪ k / TEW -dik ; born March 16, 1971) is an American actor. His film work includes roles in 28 Days (2000), A Knight's Tale (2001), Dodgeball: A True Underdog Story (2004), 3:10 to Yuma (2007), and Trumbo (2015). He starred in the black comedy horror film Tucker & Dale vs. Evil (2010). He has voiced characters in Walt Disney Animation Studios films since 2012. Known for frequently appearing in science fiction , Tudyk's roles in the genre include Wash on the cult classic space Western drama series Firefly (2002–2003), which he reprised in the 2005 continuation film Serenity , the title role in the series Resident Alien (2021–2025), Dollhouse (2009–2010), and Eric Morden / Mr. Nobody on the series Doom Patrol (2019). He provided voice and motion capture for the robot Sonny in I, Robot (2004) and appeared in Transformers: Dark of the Moon (2011) and Maze Runner: The Scorch Trials (2015). Tudyk also works as a voice actor. Notable roles include K-2SO in the film Rogue One (2016) and its prequel series Andor (2025), the superhero series Young Justice (2010–2013, 2019), Ludo in Star vs. the Forces of Evil (2015–2019), and Dangerboat in the series The Tick (2017–2019). Tudyk currently voices The Joker and Clayface in the series Harley Quinn . From 2022 to 2025, Tudyk voiced Optimus Prime in the animated series Transformers: EarthSpark . In 2024, he voiced Alex Sartorius / Doctor Phosphorus and returned as Clayface in Creature Commandos . In 2025, he voiced and provided motion capture for 4, AKA \"Gary,\" in James Gunn's Superman. In video games he voiced Mickey in Halo 3: ODST (2009) as well as reprising his roles as K-2SO in Star Wars Battlefront (2015) and as the Green Arrow in various DC Comics super hero video games [ which? ] (2013, 2015, and 2017). Early life Tudyk was born on March 16, 1971, in El Paso, Texas , the son of Betty Loyce (née Wiley) and Timothy Nicholas Tudyk. His father's family is of Polish ancestry. His father was a farmer and his grandparents were cattle ranchers. Tudyk was raised in Plano, Texas , a suburb of Dallas , where he attended Plano Senior High School .  He had a brief experience",
+      "id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_0",
+      "doc_id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html",
+      "community_id": 1,
+      "score": 28.475267
+    },
+    {
+      "text": "Daniel Louis Castellaneta ( / ˌ k æ s t ə l ə ˈ n ɛ t ə / KAST -ə-lə- NET -ə ; born October 29, 1957) is an American actor. He is best known for voicing Homer Simpson on the animated series The Simpsons , as well as other characters on the show such as Grampa Simpson , Krusty the Clown , Groundskeeper Willie , Mayor Quimby , Sideshow Mel , Mr. Teeny , Kodos , Itchy , Santa's Little Helper , and Barney Gumble . Castellaneta is also known for voicing Grandpa in Nickelodeon's Hey Arnold! , and has had voice roles in several other programs, including Futurama , Sibs , Darkwing Duck , The Adventures of Dynamo Duck , The Batman , Back to the Future: The Animated Series , Aladdin , Earthworm Jim , and Taz-Mania . In 1999, Castellaneta appeared in the Christmas special Olive, the Other Reindeer and won an Annie Award for his portrayal of the Postman. Castellaneta released a comedy album I Am Not Homer , and wrote and starred in a one-person show titled Where Did Vincent van Gogh? Early life Daniel Louis Castellaneta was born on October 29, 1957, at Roseland Community Hospital on Chicago's south side and was raised in River Forest and Oak Park, Illinois . He is of Italian descent, born to Elsie ( née Lagorio ; 1926–2008) and Louis Castellaneta (1915–2014), an amateur actor who worked for a printing company. Castellaneta became adept at impressions at a young age and his mother enrolled him in an acting class when he was 16 years old. He would listen to his father's comedy records and do impressions of the artists. He was a \"devotee\" of the works of many performers, including Alan Arkin and Barbara Harris and directors Mike Nichols and Elaine May . He attended Oak Park and River Forest High School and upon graduation, started attending Northern Illinois University (NIU) in the fall of 1975. Castellaneta studied art education, with the goal of becoming an art teacher. He became a student teacher and would entertain his students with his impressions. Castellaneta was a regular participant in The Ron Petke and His Dead Uncle Show , a radio show at NIU. The show helped Castellaneta hone his skills as a voice-over actor. He recalled \"We did parodies and sketches, we would double up on, so you learned to switch between voices. I got my feet wet doing a voiceover. The show was just barely audible, but we didn't care. It was that we got a chance to do it and write our own material.\" He took a play-writing class and auditioned for an improvisational show. A classmate",
+      "id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_c_0",
+      "doc_id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html",
+      "community_id": 0,
+      "score": 24.451145
+    },
+    {
+      "text": "in King's Quest VI: Heir Today, Gone Tomorrow , including Vizier Abdul Alhazred, Shamir Shamazel, Lord Azure, Ferryman, Beast and the Minotaur. Coleman returned to the Transformers franchise by voicing Sentinel Prime in the Transformers Animated series. The character was designed to look like The Tick , as confirmed by the writers of the show at BotCon 2008, Coleman also provided the voice of Neddy the Mallet in the Cartoon Network series, Mighty Magiswords (2015). In 2016, Coleman returned to the Tick franchise, voicing the ex-superhero dog Midnight in the Amazon Prime live-action series . Filmography Film Television Video games Radio Announcer NBC advertising (1992–2009) References External links Townsend Coleman at IMDb Townsend_Coleman at the Adventures in Odyssey Wiki",
+      "id": "HotpotQA-validation-00001141/00_Townsend-Coleman.html_c_1",
+      "doc_id": "HotpotQA-validation-00001141/00_Townsend-Coleman.html",
+      "community_id": 1,
+      "score": 23.637754
+    },
+    {
+      "text": "Townsend Putnam Coleman III (born May 28, 1954) is an American voice actor who has performed in many animated series and TV commercials beginning in the early 1980s. Among his most notable roles are Michaelangelo from Teenage Mutant Ninja Turtles , Wayne Gretzky on ProStars , Jason Whittaker in Adventures in Odyssey and the title characters in Where's Waldo? and The Tick . Early life Townsend Putnam Coleman III was born in New York City , New York, but his family relocated to Denver, Colorado in 1955. Career Early work Coleman was a disc jockey for WGCL in Cleveland , Ohio in the late 1970s. This included the weekend of July 7–8, 1979, when that radio station presented his own take on American Top 40 after the station's refusal to air the \"Top 40 Disco Songs\" special for that weekend. In the same period, Coleman appeared in several plays through Jerry Leonard's Heights Youth Theater ensemble. The plays were staged at Wiley Junior High School in University Heights , Ohio – just down the road from John Carroll University . Other famous performers who appeared in Leonard's plays include the actress Carol Kane . Shortly before becoming a voice actor, he hosted a pair of dance shows for local television stations: We're Dancin' at WNEW in New York City (now WNYW ) and The Dance Show at WSB-TV in Atlanta . Voice acting Coleman's career as a voice actor took off in the 1980s when, having recently moved to Los Angeles , he auditioned for the role of Corporal Capeman on Inspector Gadget . He also portrayed Riot on Jem , Gobo in the animated version of Jim Henson 's Fraggle Rock , Scott Howard on the animated Teen Wolf and many others. In TV commercials , he was the 7-Up \" Spot \", Keebler Elves , and Raid Bugs . Coleman has also been the voice of NBC commercials for programs such as Must See TV and The Tonight Show since the early 1990s. Coleman has also provided the voice for Jason Whittaker on the Focus on the Family radio drama Adventures in Odyssey since 1994. He also voiced the Autobot Mini-Cassette Rewind on the Transformers cartoon series (1986) and provided the voice of Colt in Saber Rider and the Star Sheriffs . From 1987 to 1996, Coleman voiced Michelangelo in Teenage Mutant Ninja Turtles . Coleman also provided the voice for The Tick in the 1994 cartoon series, for which he received an Annie Award nomination. Coleman performed a wide range of voices in King's Quest VI: Heir Today, Gone Tomorrow , including Vizier Abdul Alhazred, Shamir Shamazel, Lord Azure, Ferryman, Beast and the Minotaur. Coleman returned to the Transformers franchise by voicing Sentinel Prime in the Transformers Animated series. The character",
+      "id": "HotpotQA-validation-00001141/00_Townsend-Coleman.html_c_0",
+      "doc_id": "HotpotQA-validation-00001141/00_Townsend-Coleman.html",
+      "community_id": 1,
+      "score": 20.931278
+    },
+    {
+      "text": "lawyer Roy Cohn . Castellaneta has won several awards for voicing Homer, including four Primetime Emmy Awards for \" Outstanding Voice-Over Performance \" in 1992 for \" Lisa's Pony \", 1993 for \" Mr. Plow \", 2004 for voicing several characters in \" Today I Am a Clown \", and 2009 for voicing Homer in \" Father Knows Worst \". In 1993, Castellaneta was given a special Annie Award , \"Outstanding Individual Achievement in the Field of Animation\", for his work as Homer on The Simpsons . In 2004, Castellaneta and Julie Kavner (the voice of Marge) won a Young Artist Award for \"Most Popular Mom & Dad in a TV Series\". Homer was placed second on TV Guide ' s 2002 Top 50 Greatest Cartoon Characters, and in 2000, Homer and the rest of the Simpson family were awarded a star on the Hollywood Walk of Fame located at 7021 Hollywood Boulevard. Until 1998, Castellaneta was paid $30,000 per episode. During a pay dispute in 1998, Fox threatened to replace the six main voice actors with new actors, going as far as preparing for casting of new voices. The dispute was soon resolved and Castellaneta began receiving $125,000 per episode until 2004, when the cast demanded to be paid $360,000 an episode. The issue was resolved a month later, with Castellaneta starting to earn $250,000 per episode. Following salary negotiations in 2008, the cast received approximately $400,000 per episode. In 2011, with Fox threatening to cancel the series unless production costs were cut, the cast accepted a pay cut to around $300,000 per episode. In the early 1990s, Castellaneta and his wife Deb Lacusta wrote a script for an episode in which Barney becomes sober, and pitched it to showrunner Al Jean . He liked the story but turned it down because he felt that it was too similar to \" Duffless \", an episode that the writers were already working on. The two waited for nearly a decade and offered an updated version of the script to later showrunner Mike Scully , who liked it and had them make a few changes. Their script became the episode \" Days of Wine and D'oh'ses \". Castellaneta and his wife have also written the episodes \" Gump Roast \", \" The Ziff Who Came to Dinner \", \" Kiss Kiss, Bang Bangalore \", and \" The Fight Before Christmas \". In 2007 , they were nominated for a Writers Guild of America Award for the episode \"Kiss Kiss, Bang Bangalore\". Castellaneta is also credited as a consulting producer. Further career Castellaneta in 2002 Castellaneta has been a regular cast member in several other television series. In 1991, he played Warren Morris in the short-lived ABC",
+      "id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_c_3",
+      "doc_id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html",
+      "community_id": 2,
+      "score": 20.132917
+    },
+    {
+      "text": "and Timothy Nicholas Tudyk. His father's family is of Polish ancestry. His father was a farmer and his grandparents were cattle ranchers. Tudyk was raised in Plano, Texas , a suburb of Dallas , where he attended Plano Senior High School .  He had a brief experience as a stand-up comic before quitting after an angry audience member threatened to kill him. Tudyk studied drama at the Methodist -affiliated Lon Morris College in Jacksonville, Texas , where he won the Academic Excellence award for drama. While in college, he played Beaver Smith in an eastern New Mexico summer stock theater production of Billy the Kid . Tudyk was later accepted into and attended the Juilliard School , but left in 1996 without earning a degree. Career Tudyk at the 2005 Serenity convention Film Tudyk's film debut was in 1997 in Mark Schwahn 's independent drama film 35 Miles from Normal . A year later, he had a minor role in the biographical comedy-drama Patch Adams with Robin Williams where he played patient Everton. Tudyk said of the role, that a doctor had given him a shot of adrenaline prior to filming as he had an allergic reaction to food the night before and his windpipe was closing up. In 2000, Tudyk played a gay German drug addict in 28 Days opposite Sandra Bullock . He played Wat in A Knight's Tale , Steve the Pirate in Dodgeball: A True Underdog Story and the emotional robot Sonny in I, Robot . In 2005, he reprised his role as Hoban \"Wash\" Washburne in the film Serenity , derived from the television series Firefly by Joss Whedon . In 2007, Tudyk had a supporting role as a doctor in the western film 3:10 to Yuma . He had a brief role in the film Knocked Up and in the British film Death at a Funeral . Tudyk played Tucker in the indie horror comedy Tucker & Dale vs. Evil . He played Dutch for the film Transformers: Dark of the Moon . In Alvin and the Chipmunks: Chipwrecked , he voiced Simone (a reckless French accent speaking Chipmunk, the result after Simon was bitten by a spider). In 2012, Tudyk played Stephen A. Douglas in Timur Bekmambetov 's film Abraham Lincoln: Vampire Hunter . He played Ben Chapman in the 2013 film 42 about Jackie Robinson . Tudyk in July 2012 Tudyk played Noel in Chris Blake's quarantine comedy film Distancing Socially , which was filmed remotely at the height of the COVID-19 pandemic using iPhone 11. It was acquired and released by Cinedigm in October 2021. He played Mr. Darling in the fantasy adventure film Peter Pan & Wendy . Broadway Tudyk made his Broadway debut for Epic",
+      "id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_c_1",
+      "doc_id": "HotpotQA-validation-00005988/01_Alan-Tudyk.html",
+      "community_id": 1,
+      "score": 19.62623
+    },
+    {
+      "text": "Jin Yi-han ( Korean : 진이한 ) (born Kim Hyun-Joong on October 10, 1978) is a South Korean actor. He began his acting career in 2002 in musical theatre , notably in Footloose . Jin soon branched out into television, and among his leading roles were in critically acclaimed Conspiracy in the Court (2007), family drama My Life's Golden Age (2008), daily drama Happiness in the Wind (2010), sitcom You're Here, You're Here, You're Really Here (2011), and mystery-romance My Secret Hotel (2014). He also played supporting roles in Who Are You? (2008), Bravo, My Love! (2011), Dr. Jin (2012), and Empress Ki (2013). On September 23, 2016, Jin Yi-han changed his stage name to Kim Ji-han. Filmography Television series Film Variety show Music video Theater Awards and nominations References External links Jin Yi-han on Instagram Jin Yi-han at HanCinema Jin Yi-han at the Korean Movie Database Jin Yi-han at IMDb",
+      "id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_c_0",
+      "doc_id": "HotpotQA-validation-00000580/03_Kim-Ji-han.html",
+      "community_id": 0,
+      "score": 18.362833
+    },
+    {
+      "text": "Sing is a 2016 American animated jukebox musical comedy film written and directed by Garth Jennings , produced by Illumination Entertainment , and distributed by Universal Pictures . The film stars the voices of Matthew McConaughey , Reese Witherspoon , Seth MacFarlane , Scarlett Johansson , John C. Reilly , Taron Egerton , Tori Kelly , Jennifer Saunders , Jennifer Hudson , Peter Serafinowicz and Nick Kroll . Set in a world inhabited by anthropomorphic animals, the film focuses on a koala named Buster Moon, a struggling theater owner who stages a singing competition in an effort to prevent his theater from entering foreclosure, as well as how the competition interferes with the personal lives of its contestants. The film features more than 60 songs from famous artists, mostly performed diegetically . It also has an original song by Stevie Wonder and Ariana Grande called \" Faith \", which was nominated for a Golden Globe . Aside from these songs, Joby Talbot (Jennings’ frequent collaborator) composed the film's score. Sing first screened during the Toronto International Film Festival on September 11, 2016, followed by its premiere at the Microsoft Theater in Los Angeles on December 3. It was then theatrically released in the United States on December 21. It marked the first time Illumination released two films in the same year, following the release of The Secret Life of Pets six months earlier. It received mostly positive reviews and grossed $634 million worldwide on a $75 million budget. A sequel , Sing 2 , was released on December 22, 2021. Plot In Calatonia, a city of anthropomorphic animals, koala Buster Moon owns a struggling theater, and is threatened with foreclosure by bank representative llama Judith. He decides to hold a singing competition with a prize of $1,000, but a typo made by his elderly assistant iguana Miss Crawly adds two extra zeros to the prize money, making it $100,000. The misprinted flyers are blown out of the window by a fan before they can be proofread, and float across the city. Crowds of animals gather to audition, and Buster selects his contestants. Among them are housewife and mother of 25 piglets Rosita; punk-rock porcupine Ash; teenage gorilla Johnny, son of criminal gang leader Big Daddy; street musician mouse Mike; and an exuberant dancing pig named Gunter. Teenage elephant Meena fails her audition due to stage fright , Ash's self-absorbed boyfriend and co-auditionee Lance is upset to be dismissed from the contest, and Rosita is paired with Gunter for a dance routine. After Buster discovers the flyers advertise a prize of $100,000, he joins his friend sheep Eddie on a visit to Eddie's wealthy grandmother, former theater superstar Nana Noodleman. Nana is reluctant to sponsor the prize money, but",
+      "id": "HotpotQA-validation-00001141/01_Sing-2016-American-film.html_c_0",
+      "doc_id": "HotpotQA-validation-00001141/01_Sing-2016-American-film.html",
+      "community_id": 2,
+      "score": 17.981825
+    },
+    {
+      "text": "its remake as well as for the later HD collections Kingdom Hearts HD 1.5 Remix and Kingdom Hearts HD 2.5 Remix ). Castellaneta portrayed Aaron Spelling in the 2004 NBC film Behind the Camera: The Unauthorized Story of Charlie's Angels , which followed the true story of how Spelling created the show. Other films in which Castellaneta has appeared include Nothing in Common , Say Anything... , Super Mario Bros. , The Client , Space Jam , My Giant , The Simpsons Movie , Rugrats in Paris: The Movie , Recess: School's Out , Hey Arnold!: The Movie , The Cat in the Hat and The Pursuit of Happyness . In 2000, he won an Annie Award for his portrayal of the Postman in the animated Christmas television special Olive, the Other Reindeer . In 2006, he appeared in Jeff Garlin 's independent film I Want Someone to Eat Cheese With along with several other Second City alumni . On February 22, 2000, his first music CD Two Lips was published. It was followed on April 23, 2002, by his first comedy CD, I Am Not Homer , in which he and his wife perform several comedy skits. The majority of the sketches had been written and performed before the CD was recorded, and Castellaneta thought that it would be a good idea to preserve them \"since [he and Lacusta] don't perform them much anymore.\" Some came from their sketch series on a local radio station in Chicago and had to be lengthened from the \"two-minute bits\" that they were originally, while several others were stage sketches performed in a comedy club in Santa Monica . Additionally, \"Citizen Kane\", a sketch in which two people discuss the film Citizen Kane with different meanings, was something the pair had performed at an art gallery. Castellaneta noted that \"we already knew that these skits were funny, [but] some of them we polished and tightened.\" The skits were principally written by improvising from a basic point, transcribing the results, and then editing them to the finished scene. Castellaneta chose the title I Am Not Homer as a parody of Leonard Nimoy 's famous first autobiography, I Am Not Spock , as well as to show that most of the comedy featured \"is not the typical Homer comedy.\" Alongside his television and film work, Castellaneta has appeared in a number of theatrical productions. In 1992, he starred in Deb & Dan's Show alongside his wife. In 1995, Castellaneta started writing Where Did Vincent van Gogh? , a one man play in which he portrays a dozen different characters, including artist Vincent van Gogh . He first officially performed the play at the ACME Comedy Theatre in Los Angeles in 1999. In 2007, he appeared in The Bicycle Men at King's Head Theatre in London. Castellaneta hosted the final",
+      "id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_c_5",
+      "doc_id": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html",
+      "community_id": 2,
+      "score": 16.950478
+    },
+    {
+      "text": "controversial origin story for the Amazons, which portrayed them as victims rather than warriors. Some of Jenkins' mentors and influencers include Gary Ross , Kathryn Bigelow and Steve Perry . She mentions that she often likes to discuss the process of making soundtracks with musicians like Perry, who was a musical consultant on her film Monster . The organization and structure of music, according to Jenkins, has a lot of parallels to theatre and drama. As a director, she uses this rhythm to direct the delivery of dialogues. Personal life In 2007, Jenkins married Sam Sheridan, a former firefighter and the author of the book A Fighter's Heart . They have a son and reside in Santa Monica, California . Filmography Short film Feature film Television Acting credits Accolades In 2004, for her work on Monster , she won the Independent Spirit Award for Best First Feature and the Franklin J. Schaffner Award of the American Film Institute (an award for outstanding graduates of the AFI Conservatory ). In 2011, Jenkins received an Emmy nomination for Outstanding Directing for a Drama Series for the pilot of The Killing . She received two nominations at the 2012 Directors Guild of America Awards for Outstanding Directorial Achievement, one for Dramatic Series for The Killing and the other for Movies for Television/Mini-Series for Five ; she won the former. See also List of female film and television directors References External links Wikimedia Commons has media related to Patty Jenkins . Patty Jenkins at IMDb",
+      "id": "HotpotQA-validation-00002256/01_Patty-Jenkins.html_c_6",
+      "doc_id": "HotpotQA-validation-00002256/01_Patty-Jenkins.html",
+      "community_id": 6,
+      "score": 16.922432
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "summary": "**Title**: Townsend Coleman Voice Career\n\n**Summary**: Townsend Coleman is an American voice actor whose career spans from early 1980s radio and local TV to iconic animated roles such as Michelangelo in *Teenage Mutant Ninja Turtles* and the title character in *The Tick*. After starting as a Cleveland disc jockey and hosting dance shows in New York and Atlanta, Coleman moved to Los Angeles and quickly became prolific in animation, voicing characters on *Inspector Gadget*, *Jem*, *Fraggle Rock*, *Teen Wolf*, and *Transformers*. He has also voiced countless commercials (7-Up, Keebler, Raid), NBC network promos, the radio drama *Adventures in Odyssey*, and later reprised Tick-related roles in both *Transformers Animated* and the 2016 live-action *Tick* series.\n\n**Keywords**: voice actor, Michelangelo, The Tick, animation, commercials",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "summary": "**Title**: Cedric the Entertainer Career Highlights\n\n**Summary**:  \nCedric Antonio Kyles, known professionally as Cedric the Entertainer, is a multifaceted American comedian, actor, and television host. He rose to fame through stand-up comedy, notably as part of *The Original Kings of Comedy* alongside Steve Harvey, Bernie Mac, and D.L. Hughley, which was later adapted into a Spike Lee film. Cedric gained widespread recognition for his roles in *The Steve Harvey Show*, the *Barbershop* film series, and as a voice actor in animated hits like *Ice Age*, *Madagascar*, and *Planes*. He has hosted several TV shows, including *Who Wants to Be a Millionaire*, and starred in sitcoms like *The Soul Man* and *The Neighborhood*. His career spans decades and includes awards, voice roles, film appearances, and even a brief stint in professional wrestling and auto racing.\n\n**Keywords**:  \nCedric the Entertainer, stand-up comedy, The Original Kings of Comedy, Barbershop, voice acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "summary": "**Title**: Kim Ji-han Actor Profile\n\n**Summary**: Kim Ji-han, born Kim Hyun-Joong in 1978 and formerly known as Jin Yi-han, is a South Korean actor who began in musical theatre in 2002 with *Footloose*. He transitioned to television, earning acclaim for lead roles in *Conspiracy in the Court* (2007), *My Life's Golden Age* (2008), *Happiness in the Wind* (2010), and *My Secret Hotel* (2014), while also appearing in supporting roles in series like *Empress Ki* (2013). He officially changed his stage name to Kim Ji-han in September 2016.\n\n**Keywords**: Kim Ji-han, Jin Yi-han, Korean actor, television dramas, stage name change",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001141/01_Sing-2016-American-film.html_2",
+      "summary": "**Title**: Sing (2016 Animated Film)\n\n**Summary**:  \nIllumination’s 2016 musical comedy *Sing* follows Buster Moon, a koala theater owner who stages a singing competition to save his failing venue, attracting a menagerie of animal contestants each grappling with personal insecurities. The film features 65 pop songs, a $75 million budget, and a star-studded voice cast led by Matthew McConaughey and Reese Witherspoon. After a disastrous theater collapse, the characters rally for an outdoor finale that celebrates self-expression and reconciliation. Globally, *Sing* earned $634 million, became Illumination’s seventh-most-valuable 2016 blockbuster, and spawned sequels.\n\n**Keywords**:  \nanimated musical, Illumination, singing competition, box-office hit, Garth Jennings",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "summary": "**Title:** Dan Castellaneta Voice Career\n\n**Summary:**  \nDan Castellaneta is an American actor best known as the voice of Homer Simpson and numerous other characters on *The Simpsons*. Beyond *The Simpsons*, he has voiced major roles in *Hey Arnold!*, *Darkwing Duck*, *Back to the Future: The Animated Series*, *Earthworm Jim*, and *Aladdin* (as the Genie), among others. His extensive voice work spans television, film, and video games, including recurring roles in *Futurama* and *Kingdom Hearts*. Castellaneta’s career also includes live-action appearances in shows like *Friends*, *Arrested Development*, and *Stargate SG-1*, showcasing his versatility across genres.\n\n**Keywords:**  \nvoice acting, The Simpsons, Homer Simpson, animation, guest roles",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career & Legacy\n\n**Summary**:  \nNicolas Cage, born Nicolas Kim Coppola, is an Oscar-winning American actor and producer whose eclectic, genre-spanning career has earned him both blockbuster success and cult-icon status. After changing his name to avoid nepotism, he rose from early roles in *Fast Times at Ridgemont High* and *Valley Girl* to critical acclaim in *Moonstruck* and an Academy Award for *Leaving Las Vegas*. Known for intense, unpredictable performances—termed “mega-acting”—Cage has starred in action hits (*The Rock*, *National Treasure*), indie gems (*Mandy*, *Pig*), and voice roles (*Spider-Verse*, *The Croods*). Beyond acting, he owns Saturn Films, has directed *Sonny*, and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**:  \nOscar winner, versatile actor, cult icon, Coppola family, mega-acting",
+      "is_seed": true,
+      "expand_score": 0.9472348690032959
+    },
+    {
+      "community_key": "HotpotQA-validation-00000680/02_Randy-J-Goodwin.html_0",
+      "summary": "**Title**: Randy J. Goodwin Profile  \n\n**Summary**:  \nRandy J. Goodwin, born Ivan Jerome Goodwin on December 24, 1967, is an American actor recognized for roles such as Kennedy Winslow in *Fast Track* and Max Ellis in *Abby*, plus recurring parts on *Girlfriends* and *The Vampire Diaries*. Beyond acting, he served on the GBT Academy of the Arts Advisory Board as both actor and writer. In 2013 he prepared to make his feature directing debut with the Christian film *The Job*, which he co-wrote and will star in.  \n\n**Keywords**: Randy J. Goodwin, actor, Fast Track, The Vampire Diaries, The Job",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002256/01_Patty-Jenkins.html_6",
+      "summary": "**Title**: Patty Jenkins Career and Creative Vision\n\n**Summary**:  \nPatty Jenkins is a pioneering director known for blending feminist themes with blockbuster storytelling, most notably in *Wonder Woman*, which became the highest-grossing film ever directed by a woman. She emphasizes character-driven narratives and rhythmic storytelling, drawing on musical structure to shape dialogue and pacing. Jenkins has navigated high-profile projects like *Rogue Squadron* and *Cleopatra*, often facing studio shifts and creative negotiations. Her work consistently challenges gender norms in Hollywood, both on-screen and behind the scenes, including advocating for equal pay and rejecting reductive portrayals of female characters.\n\n**Keywords**:  \nWonder Woman, feminist filmmaking, Rogue Squadron, blockbuster direction, gender equality",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000680/03_Shawn-Harrison-actor.html_0",
+      "summary": "**Title**: Shawn Harrison Acting Career\n\n**Summary**: Shawn Harrison is an American actor born in 1973 who gained fame portraying Waldo Faldo, the endearing, bumbling chef-in-training on the ABC sitcom *Family Matters* from 1990 to 1996. Beyond *Family Matters*, he has appeared sporadically as Peaches the hairstylist on *Girlfriends*, guest-starred on *Moesha* and *Punky Brewster*, and played William K in *The Ms. Pat Show*. Harrison also lent his voice to Timber Wolf and Ron-Karr in the 2006 animated series *Legion of Super Heroes*.\n\n**Keywords**: Shawn Harrison, Family Matters, Waldo Faldo, television actor, voice roles",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "summary": "**Title**: Chowder TV Series Overview  \n\n**Summary**:  \nChowder is an animated Cartoon Network series created by C. H. Greenblatt that follows a young apprentice in a fantastical culinary world. The show is renowned for its eclectic mix of animation techniques—ranging from watercolors and stop-motion to puppetry and live-action—and its refusal to let character clothing patterns move with the characters, creating a distinctive visual style. After a seven-year development, it aired from 2007 until its 2009 cancellation, yet continued to garner praise for its creative artistry and humor appealing to both children and adults. The series left a cultural footprint, inspiring rapper Lil Nas X’s hit “Panini” and appearances in crossover games like Cartoon Network: Punch Time Explosion.  \n\n**Keywords**:  \nChowder, C. H. Greenblatt, mixed-media animation, Cartoon Network, culinary fantasy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "summary": "**Title**: Alan Tudyk's Voice & Screen Career\n\n**Summary**:  \nAlan Tudyk is a prolific American actor celebrated for seamlessly moving between live-action and voice roles across film, television, and video games. After early screen credits in *A Knight’s Tale*, *Dodgeball*, and *Firefly*, he became a sought-after voice actor for Disney, voicing characters like King Candy (*Wreck-It Ralph*), Heihei (*Moana*), and Pico (*Encanto*), while also portraying K-2SO in *Rogue One* and its prequel series *Andor*. His genre footprint extends to sci-fi TV leads—Wash in *Firefly*, the alien Harry in *Resident Alien*, and multiple DC/comic roles in *Doom Patrol*, *Harley Quinn*, and *Creature Commandos*. Tudyk further reprises iconic characters in games (*Halo*, *Injustice*) and continues expanding his voice repertoire, including Optimus Prime in *Transformers: EarthSpark*.\n\n**Keywords**:  \nvoice acting, Disney animation, sci-fi roles, K-2SO, Resident Alien",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "summary": "**Title**: Robin Chalk Acting Career\n\n**Summary**: Robin Chalk is an English actor active in film, theatre, and video games, best known for playing Neil Kellerman in the West End production of *Dirty Dancing* and serving as Sam Rockwell’s body double in Duncan Jones’ sci-fi film *Moon*. After studying Social Anthropology at the University of Edinburgh, he performed in fringe productions such as *Young Woodley* and *Tea and Sympathy* before transitioning to mainstream roles. His credits span stage, screen, and interactive media, including voice work for *Until Dawn* and *Need for Speed: Payback*.\n\n**Keywords**: Robin Chalk, West End, Moon, Dirty Dancing, actor",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career Overview\n\n**Summary**: Nicolas Cage, born Nicolas Kim Coppola, is an Academy Award-winning American actor and producer whose films have grossed over $6.4 billion worldwide. After changing his name to avoid nepotism claims related to his uncle Francis Ford Coppola, Cage rose from early roles in \"Valley Girl\" and \"Rumble Fish\" to critical acclaim in \"Moonstruck\" and an Oscar win for \"Leaving Las Vegas.\" Known for his versatile and often eccentric acting style described as \"mega-acting,\" Cage has starred in both blockbuster action films like \"The Rock\" and \"National Treasure\" series, as well as acclaimed independent films like \"Mandy\" and \"Pig.\" Beyond acting, he owns Saturn Films, has directed \"Sonny,\" and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**: actor, Academy Award, filmography, Coppola family, versatile performer",
+      "is_seed": true,
+      "expand_score": 0.9472348690032959
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/00_Homer-Simpson.html_0",
+      "summary": "**Title**: Homer Simpson Character Evolution\n\n**Summary**:  \nHomer Simpson began as an angry, domineering father but evolved into a bumbling, impulsive “lovable oaf” whose stupidity, laziness, and explosive temper drive the show’s comedy. Writers gradually exaggerated his dim-wittedness—culminating in gags like illiteracy—while softening earlier cruelty; the once-routine strangling of Bart was later retired and then jokingly reinstated. Across 35 seasons Homer’s family relationships shifted: he remains devoted to Marge, neglectful yet occasionally supportive of Lisa, and emotionally volatile with Bart, while his voice actor Dan Castellaneta negotiates salaries that rose to ~$400 k per episode before voluntary cuts. Critics and polls consistently hail Homer as one of television’s greatest, most influential characters, embodying both everyman failure and enduring cultural icon.\n\n**Keywords**:  \nHomer Simpson, character evolution, Jerkass Homer, voice actor salaries, cultural icon",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006877/01_Gene-Hackman.html_6",
+      "summary": "**Title**: Gene Hackman’s Rise to Stardom\n\n**Summary**:  \nBetween the late 1960s and mid-1970s, Gene Hackman transitioned from Off-Broadway and bit-part television roles to major Hollywood stardom, highlighted by his Oscar-winning performance as Detective Jimmy “Popeye” Doyle in *The French Connection* (1971). Over the next three years he became Hollywood’s busiest leading man, headlining a diverse slate of dramas, thrillers, and disaster films while also earning critical acclaim for roles in *Scarecrow* and *The Conversation*, both Palme d’Or winners. Hackman demonstrated range across genres—neo-noir, western, comedy, even superhero—cementing a reputation for understated, economical acting that directors praised as “always right on.”\n\n**Keywords**:  \nGene Hackman, The French Connection, 1970s cinema, character acting, Palme d’Or",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002295/01_Chowder-TV-series.html_5",
+      "summary": "**Title**: Chowder Animated Series Overview  \n\n**Summary**:  \nChowder is a Cartoon Network animated series created by C. H. Greenblatt that aired from 2007 to 2009, following an apprentice cook in the whimsical Marzipan City. The show is notable for its eclectic mix of animation techniques—watercolors, stop-motion, puppets, and live-action—and for characters like the balloon-like Mr. Fugu and the photorealistic Kiwi. After cancellation, the series gained cult status, with the entire run released on Thai DVDs and iTunes, and its characters later appearing in games like Cartoon Network: Punch Time Explosion and Lil Nas X’s “Panini” music video.  \n\n**Keywords**:  \nChowder, C. H. Greenblatt, mixed-media animation, Cartoon Network, cult following",
+      "is_seed": false,
+      "expand_score": 0.9654883742332458
+    },
+    {
+      "community_key": "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2",
+      "summary": "**Title**: Chowder Cartoon Characters Guide  \n\n**Summary**:  \nThese chunks catalogue the main and recurring characters from the animated series *Chowder*, each named after food and voiced by notable actors. Core figures include the scatterbrained apprentice Chowder, his mentor Mung Daal, Mung’s business-manager wife Truffles, the rock-monster chef Shnitzel, Chowder’s gas-cloud pet Kimchi, rival chef Ms. Endive and her love-struck apprentice Panini, plus supporting oddballs like Gazpacho, Gorgonzola, Ceviche and Paté. Creator C. H. Greenblatt’s design choices, personality quirks and running gags (Panini’s crush, Shnitzel’s “radda,” food-based naming) are highlighted, giving a comprehensive reference for the show’s universe.  \n\n**Keywords**: Chowder characters, Mung Daal, Panini, food-named cast, C. H. Greenblatt",
+      "is_seed": false,
+      "expand_score": 0.8647035360336304
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "summary": "**Title**: Nicolas Cage Career Trajectory  \n\n**Summary**:  \nThese chunks trace Nicolas Cage’s evolving reputation from early cult oddities like *Vampire’s Kiss* through his Oscar-winning turn in *Leaving Las Vegas* and subsequent reinvention as a bankable action hero in *The Rock*, *Con Air*, and *Face/Off*. They chart his oscillation between blockbuster franchises (*National Treasure*, *Ghost Rider*) and critically praised off-beat roles (*Adaptation.*, *Bad Lieutenant*), noting periodic box-office disappointments, critical re-evaluations, and forays into independent and genre cinema that keep his status as a polarizing but enduring screen presence.  \n\n**Keywords**:  \nOscar win, action stardom, critical rebounds, cult performances, franchise blockbusters",
+      "is_seed": false,
+      "expand_score": 0.8632423877716064
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career slump, Nicolas Cage rebounded with a string of critically praised genre films—*Mandy*, *Color Out of Space*, *Pig*, *Dream Scenario*—that showcased his self-styled “Nouveau Shamanic” acting approach and earned him festival awards and a fifth Golden-Globe nomination. He simultaneously embraced off-beat projects such as *Prisoners of the Ghostland*, *Renfield*, *The Unbearable Weight of Massive Talent*, and the horror hit *Longlegs*, while lending his voice or likeness to fan-favorite properties like *Spider-Man: Into the Spider-Verse*, *The Flash*, and the video game *Dead by Daylight*. Production company Saturn Films, philanthropic work, and upcoming roles as John Madden and Spider-Noir round out a prolific late-career chapter.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror resurgence, *Pig*, *Dream Scenario*, Saturn Films",
+      "is_seed": false,
+      "expand_score": 0.8197758197784424
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_8",
+      "summary": "**Title**: Nicolas Cage Career Trajectory  \n\n**Summary**:  \nThese chunks trace Nicolas Cage’s cinematic journey from early cult oddities like *Vampire’s Kiss* through his Oscar-winning turn in *Leaving Las Vegas* and late-90s action blockbusters (*The Rock*, *Con Air*, *Face/Off*) to franchise fare (*National Treasure*, *Ghost Rider*) and later indie rebounds (*Bad Lieutenant*, *Joe*). The narrative highlights recurring patterns: critical peaks followed by commercial or critical slumps, a willingness to embrace eccentric roles, and periodic returns to acclaim via auteur collaborations (Herzog, Green). Overall, the material charts how Cage oscillates between mainstream action stardom and off-beat projects, sustaining cultural relevance despite frequent box-office misfires.  \n\n**Keywords**:  \nNicolas Cage, filmography, Oscar win, action blockbusters, critical resurgence",
+      "is_seed": false,
+      "expand_score": 0.8149457573890686
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career lull, Nicolas Cage rebounded with a string of critically praised, genre-spanning roles from 2018 onward, including Mandy, Pig, Dream Scenario, and Longlegs. He simultaneously embraced self-parody in The Unbearable Weight of Massive Talent and franchise fare like Renfield and The Flash, while preparing to headline the Spider-Noir series. This resurgence has been fueled by his self-devised “Nouveau Shamanic” acting style—an uninhibited, imagination-driven approach that turns even outlandish characters into emotionally resonant performances. Off-screen, Cage remains a prolific producer via Saturn Films and a high-profile philanthropist supporting children’s rights, disaster relief, and humanitarian causes.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror comeback, Pig, Mandy, Saturn Films",
+      "is_seed": false,
+      "expand_score": 0.8136320114135742
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "summary": "**Title:** Grampa Simpson Character Profile  \n\n**Summary:**  \nThese chunks collectively profile Abraham “Grampa” Simpson, detailing his creation, voice work by Dan Castellaneta, and critical reception. Writers exploit his “out-datedness” and rambling anecdotes for humor, while scholars note how the show uses him to mirror stereotypes of senescence and family powerlessness. Episodes explore his back-story—WWII Flying Hellfish veteran, failed wrestler, estranged husband to Mona—and his strained yet occasionally tender relationship with Homer. Merchandise, comics, theme-park and game appearances confirm his enduring, if secondary, role in The Simpsons universe.  \n\n**Keywords:** Grampa Simpson, Dan Castellaneta, voice acting, elderly stereotypes, Flying Hellfish",
+      "is_seed": false,
+      "expand_score": 0.7994673252105713
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_2",
+      "summary": "**Title**: Dan Castellaneta’s Simpsons Legacy  \n\n**Summary**:  \nDan Castellaneta is the Emmy-winning voice of Homer Simpson and a dozen other Springfield residents, shaping The Simpsons’ sound since its 1987 Tracey Ullman Show shorts. After refining Homer’s voice from a Walter Matthau impression into the iconic growl, he collected four Primetime Emmys, an Annie, and a Hollywood Walk-of-Fame star while negotiating cast salaries from $30 k to $400 k per episode. Beyond the mic, he and wife Deb Lacusta write episodes, produce, and perform comedy CDs and one-man plays, extending his creative reach far beyond Homer’s “D’oh!”  \n\n**Keywords**:  \nDan Castellaneta, Homer Simpson, voice acting awards, Simpsons salaries, Deb Lacusta",
+      "is_seed": false,
+      "expand_score": 0.7919431924819946
+    },
+    {
+      "community_key": "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8",
+      "summary": "**Title:** Jack Nicholson’s Acting Legacy  \n\n**Summary:**  \nJack Nicholson’s career is marked by a series of iconic, psychologically complex roles that showcase his intelligence and improvisational skill, from the unhinged Jack Torrance in *The Shining* to the anti-authoritarian Randle McMurphy in *One Flew Over the Cuckoo’s Nest*. Directors like Kubrick, Forman, and Antonioni praised his ability to embody literate, edgy characters while bringing spontaneity and depth to every performance. Despite frequent Oscar recognition, Nicholson remains modest about his method-acting roots, emphasizing instinct and adaptability over technique. His collaborations with legendary actors and directors, along with memorable turns in films like *Chinatown*, *Terms of Endearment*, and *Batman*, cement his status as one of cinema’s most magnetic and versatile stars.  \n\n**Keywords:**  \nJack Nicholson, method acting, iconic roles, improvisation, Oscar winner",
+      "is_seed": false,
+      "expand_score": 0.7842363119125366
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00001141/01_Sing-2016-American-film.html_2",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00000680/02_Randy-J-Goodwin.html_0",
+      "HotpotQA-validation-00002256/01_Patty-Jenkins.html_6",
+      "HotpotQA-validation-00000680/03_Shawn-Harrison-actor.html_0",
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00004740/00_Homer-Simpson.html_0",
+      "HotpotQA-validation-00006877/01_Gene-Hackman.html_6"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_2",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00000580/03_Kim-Ji-han.html_0",
+      "HotpotQA-validation-00001141/01_Sing-2016-American-film.html_2",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00000680/02_Randy-J-Goodwin.html_0",
+      "HotpotQA-validation-00002256/01_Patty-Jenkins.html_6",
+      "HotpotQA-validation-00000680/03_Shawn-Harrison-actor.html_0",
+      "HotpotQA-validation-00003158/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "HotpotQA-validation-00000641/03_Robin-Chalk.html_0",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00004740/00_Homer-Simpson.html_0",
+      "HotpotQA-validation-00006877/01_Gene-Hackman.html_6",
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_5",
+      "HotpotQA-validation-00002295/01_Chowder-TV-series.html_2",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_2",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "allowed_chunk_pool_size": 93,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

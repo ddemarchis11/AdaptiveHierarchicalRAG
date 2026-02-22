@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5610453b",
+  "question": "Where did Mr. Inglis reside during the years following his return from India, as recounted in the family's history?",
+  "gold_answer": "Mr. Inglis lived in Edinburgh.",
+  "llm_answer": "After returning from India, Mr. Inglis and his family moved to rooms in Melville Street.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that Mr. Inglis lived in Melville Street after returning from India, which is not supported by the retrieved context. The Gold Answer specifies Edinburgh as his residence, but the Model Answer does not mention Edinburgh and provides an unsupported detail about Melville Street. Thus, the answer is partially correct but unfaithful to the context and misses the key fact from the Gold Answer."
+  }
+}

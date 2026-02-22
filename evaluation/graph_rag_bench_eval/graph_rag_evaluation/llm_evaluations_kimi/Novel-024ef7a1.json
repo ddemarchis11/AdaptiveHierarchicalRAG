@@ -1,0 +1,12 @@
+{
+  "id": "Novel-024ef7a1",
+  "question": "In the sections of the CHILD'S HEALTH PRIMER describing human anatomy, what are the structural components that make up the chest, and which organs are located within the chest according to the text?",
+  "gold_answer": "The chest is made up of ribs, shoulder-blades, collar-bones, and the spine, and it houses the heart and lungs.",
+  "llm_answer": "The context does not provide a detailed list of the structural components that make up the chest, but it does mention that bones form a case or box (the chest) and asks which organs are located in the chest. However, it does not explicitly name those organs in the provided excerpts. Therefore, the text does not fully support a complete answer to both parts of the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct structural components of the chest or the organs located within it, as stated in the Gold Answer. Additionally, the retrieved context does not contain relevant information to support the Model Answer, and the response does not align with the Gold Answer's factual content."
+  }
+}

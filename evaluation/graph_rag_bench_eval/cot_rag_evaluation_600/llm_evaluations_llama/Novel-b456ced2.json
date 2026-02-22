@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b456ced2",
+  "question": "With whom does the Emperor of Morocco correspond in the narrative's depiction of diplomatic or political exchanges?",
+  "gold_answer": "The Emperor of Morocco corresponds with Mr. Hay.",
+  "llm_answer": "The Emperor of Morocco corresponds with European Powers, particularly with the British, as evident from the following:\n\n- Mr. Hay's correspondence with the Maroquine Court on the Slave-trade.\n- Treaties between Great Britain and Morocco, which are mentioned as being defective and requiring amendment.\n- Unwritten engagements between the Emperor of Morocco and European Powers.\n\nAdditionally, the Emperor of Morocco is mentioned to have diplomatic relations with France, as evident from the following:\n\n- Muley Ismael's enamorment with the French Princess de Conti.\n- Rival diplomacy of France and England near the Maroquine Court.\n\nHowever, there is no specific mention of the Emperor of Morocco corresponding with any particular European Power, such as France or Britain, in a direct or personal capacity. The correspondence mentioned is more related to diplomatic relations and treaties between the Empire of Morocco and European Powers.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies Mr. Hay as the correspondent with the Emperor of Morocco, which is supported by the context. The Model Answer expands on this by discussing broader diplomatic relations with European Powers, including Britain and France, but does not clearly emphasize Mr. Hay's role as the primary correspondent. While the additional details are partially grounded in the context, they dilute the specificity of the Gold Answer and introduce unsupported claims about general diplomatic relations, leading to partial scores."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005814",
+  "question": "What award won by only twelve people has a man who Ted Kooshian has performed with won?",
+  "gold_answer": "EGOT",
+  "llm_answer": "The evidence does not specify any award that has been won by only twelve people and that has also been won by someone Ted Kooshian has performed with.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the award won by only twelve people, but it fails to answer the question directly. The Gold Answer 'EGOT' is not mentioned or inferred, and the Model Answer does not provide the correct response despite the lack of explicit grounding in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1b8745a9",
+  "question": "To whom did Angeline Hall plead during a difficult financial and personal period in her marriage, as she and her husband faced hardship?",
+  "gold_answer": "Angeline pleaded with Asaph Hall.",
+  "llm_answer": "She appealed to her mother, writing that she would “rescue her mother from the irate Mr. Woodward by carrying her off bodily to Cambridge.”",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Angeline Hall pleaded to her mother, which is not supported by the context or the Gold Answer. The Gold Answer specifies that Angeline pleaded with Asaph Hall during a difficult period, and this is not reflected in the Model Answer. Additionally, the retrieved context does not provide evidence for the claim made in the Model Answer."
+  }
+}

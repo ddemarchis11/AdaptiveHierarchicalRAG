@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004611",
+  "question": "Löwenbräu and Bürgerbräukeller are both located where?",
+  "gold_answer": "Germany",
+  "llm_answer": "Both Löwenbräu and Bürgerbräukeller are located in Munich, Germany.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Munich, Germany as the location of both Löwenbräu and Bürgerbräukeller, which aligns with the Gold Answer and is fully supported by the Retrieved Context. The additional detail specifying Munich does not detract from the correctness or faithfulness of the answer."
+  }
+}

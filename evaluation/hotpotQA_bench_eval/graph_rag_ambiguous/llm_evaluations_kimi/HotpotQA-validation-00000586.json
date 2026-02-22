@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000586",
+  "question": "A California-based record label historically associated with a provocative stand-up comedian and a swamp rock band from the late 1960s also released recordings by which jazz pianist best remembered for scoring the animated specials based on a newspaper comic strip featuring a beagle?",
+  "gold_answer": "Vincent Anthony Guaraldi",
+  "llm_answer": "The provided context does not specify which California-based record label is associated with a provocative stand-up comedian and a swamp rock band from the late 1960s, nor does it link such a label to jazz pianist Vince Guaraldi. Therefore, the context does not support identifying the label in question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question directly and fails to identify Vincent Anthony Guaraldi as the jazz pianist associated with the record label. While the context does not explicitly link Guaraldi to the label, the Gold Answer provides the correct response, which the model did not include. The model's statement is faithful to the retrieved context but does not provide the required factual information."
+  }
+}

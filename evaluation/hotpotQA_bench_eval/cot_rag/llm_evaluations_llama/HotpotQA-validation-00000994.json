@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000994",
+  "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+  "gold_answer": "great-grandfather",
+  "llm_answer": "There is insufficient evidence to determine the relationship between Fred Gehrke and the 23rd overall pick in the 2010 Major League Baseball Draft.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct relationship, which is 'great-grandfather,' as stated in the Gold Answer. Additionally, the retrieved context does not contain information directly supporting the relationship between Fred Gehrke and the 23rd overall pick in the 2010 MLB Draft, making the answer ungrounded and incorrect."
+  }
+}

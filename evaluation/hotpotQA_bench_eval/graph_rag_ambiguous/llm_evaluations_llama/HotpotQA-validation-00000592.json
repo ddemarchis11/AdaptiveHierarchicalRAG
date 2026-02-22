@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000592",
+  "question": "In which year did the stand-up comedian who later played a minister moonlighting as a music star in a TV Land sitcom serve as host of a ceremony celebrating achievements in Black cinema?",
+  "gold_answer": "2005",
+  "llm_answer": "The stand-up comedian who later played a minister moonlighting as a music star in a TV Land sitcom is Cedric the Entertainer. He hosted the Black Movie Awards ceremony in 2005.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Cedric the Entertainer as the comedian and provides the year 2005, matching the Gold Answer. However, the retrieved context does not explicitly mention Cedric hosting the Black Movie Awards in 2005, making the faithfulness to context partial. The evidence coverage is complete as the year 2005 is included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2c05b904",
+  "question": "During the process of digestion as discussed in the narrative, what part of the human body adapts to variations in food?",
+  "gold_answer": "The digestive apparatus adapts to food.",
+  "llm_answer": "The stomach adapts to variations in food by resting when it doesn't have to work, and it can't work well unless it is quite warm.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states that the digestive apparatus adapts to food, which is a broader concept encompassing the entire digestive system. The Model Answer specifically mentions the stomach and its adaptation, which is partially correct but overly narrow. Additionally, the retrieved context does not provide direct support for the claim about the stomach's adaptation, making the faithfulness score low. The evidence coverage is partial because the Model Answer does not fully align with the Gold Answer's broader scope."
+  }
+}

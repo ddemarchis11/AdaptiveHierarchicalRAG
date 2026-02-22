@@ -1,0 +1,12 @@
+{
+  "id": "Novel-40077fb0",
+  "question": "How is the interconnectedness of the Hall and Stickney families portrayed in 'An Astronomer's Wife', specifically through the marriage of Asaph Hall and Angeline Stickney, and the lineage connecting Moses Stickney as grandfather to Angeline Stickney?",
+  "gold_answer": "The marriage of Asaph Hall and Angeline Stickney, and the lineage from Moses Stickney to Angeline Stickney, illustrate the interconnectedness of the Hall and Stickney families across generations.",
+  "llm_answer": "The interconnectedness of the Hall and Stickney families is portrayed through Angeline Stickney’s marriage to Asaph Hall and her active engagement with her Stickney lineage. After marrying Hall, Angeline maintained strong ties to her Stickney roots: she visited her aunts Lois and Charlotte Stickney on their father’s farm in Jaffrey, learned her father’s story from them, and took a lasting interest in the family genealogy, particularly in her grandfather Moses Stickney. This interest extended to visiting his farm and ascending Mt. Monadnock with her children, reinforcing the familial bond across generations.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, elaborating on the interconnectedness of the Hall and Stickney families through Angeline Stickney's marriage to Asaph Hall and her engagement with her lineage. The details provided, such as her visits to her aunts and her interest in genealogy, are supported by the retrieved context and align with the Gold Answer's focus on generational connections."
+  }
+}

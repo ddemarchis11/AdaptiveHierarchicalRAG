@@ -1,0 +1,42 @@
+{
+  "id": "Novel-b182ee0f",
+  "question": "During the succession events in the city, whom did the people lead to the market-place, resulting in an encounter with the new king?",
+  "gold_answer": "The people led the princess to the market-place.",
+  "llm_answer": "The people led the beautiful princess to the market-place.",
+  "context": [
+    {
+      "text": "back door, and ran away out into the wide world. She wandered for many days, over mountain and moor, through fen and through forest, until she came to a fair city. Here all the bells were ringing, and the people shouting and flinging caps into the air; for their old king was dead, and they were just about to crown a new one. The new king was a stranger, who had come to the town only the day before; but as soon as he heard of the old monarch's death, he told the people that he was a king himself, and as he happened to be without a kingdom at that moment, he would be quite willing to rule over them. The people joyfully assented, for the late king had left no heir; and now all the preparations had been completed. The crown had been polished up, and a new tip put on the sceptre, as the old king had quite spoiled it by poking the fire with it for upwards of forty years. When the people saw the beautiful princess, they welcomed her with many bows, and insisted on leading her before the new king. \"Who knows but that they may be related?\" said everybody. \"They both came from the same direction, and both are strangers.\" Accordingly the princess was led to the market-place, where the king was sitting in royal state. He had a fat, red, shining face, and did not look like the kings whom she had been in the habit of seeing;",
+      "id": "Novel-41603_c_153"
+    },
+    {
+      "text": "royal state. He had a fat, red, shining face, and did not look like the kings whom she had been in the habit of seeing; but nevertheless the princess made a graceful courtesy, and then waited to hear what he would say. The new king seemed rather embarrassed when he saw that it was a princess who appeared before him; but he smiled graciously, and said, in a smooth oily voice,-- \"I trust your 'Ighness is quite well. And 'ow did yer 'Ighness leave yer pa and ma?\" At these words the princess raised her head and looked fixedly at the red-faced king; then she replied, with scornful distinctness,-- \"What is the price of butter?\" At these words an alarming change came over the king's face. The red faded from it, and left it a livid green; his teeth chattered; his eyes stared, and rolled in their sockets; while the sceptre dropped from his trembling hand and fell at the princess's feet. For the truth was, this was no king at all, but a retired butterman, who had laid by a little money at his trade, and had thought of setting up a public house; but chancing to pass through this city at the very time when they were looking for a king, it struck him that he might just as well fill the vacant place as any one else. No one had thought of his being an impostor; but when the princess fixed",
+      "id": "Novel-41603_c_154"
+    },
+    {
+      "text": "bonds: that their issuance was illegal, and that neither the principal nor the interest would ever be paid. The Minnesotian carried at the head of its columns the words \"Official Paper of the City,\" and it was feared that its malignant attacks upon the state officials, denouncing the issuance of the bonds as fraudulent and illegal, would be construed abroad as reflecting the sentiment of the majority of the people in the the community in which it was printed, and would have a bad effect in the East when the time came to negotiate the bonds. An effort was made to induce the city council to deprive that paper of its official patronage, but that body could not see its way clear to abrogate its contract. Threats were made to throw the office into the river, but they did not materialize. When Gov. Sibley endeavored to place these bonds on the New York market he was confronted with conditions not anticipated, and suffered disappointment and humiliation in consequence of the failure of the attempt. The bonds could not be negotiated. The whole railway construction scheme suddenly collapsed, the railroad companies defaulted, the credit of the state was compromised, \"and enterprise of great pith and moment had turned their currents awry.\" The evil forbodings of the Minnesotian became literally true, and for more than twenty years the repudiated bonds of Minnesota were a blot on the pages of her otherwise spotless record. Nearly 250 miles of road were graded, on which the state",
+      "id": "Novel-10146_c_25"
+    },
+    {
+      "text": "only amusement hall in St. Paul with a stage and drop curtain. In 1861 Peter and Caroline Richings spent a part of the summer in St. Paul, and local amusement lovers were delightfully entertained by these celebrities during their sojourn. During the war a number of dramatic and musical performances were given at the Athenaeum for the boys in blue. The cantata of \"The Haymakers,\" for the benefit of the sanitary commission made quite a hit, and old residents will recollect Mrs. Winne, Mrs. Blakeley and Prof. Perkins, who took the leading parts. Prof. Phil Roher and Otto Dreher gave dramatic performances both in German and English for some time after the close of the war. Plunkett's Dramatic company, with Susan Denin as the star, filled the boards at this hall a short time before the little old opera house was constructed on Wabasha street. During the Sioux massacre a large number of maimed refugees were brought to the city and found temporary shelter in this place. In 1853 Market hall, on the corner of Wabasha and Seventh streets, was built, and it was one of the principal places of amusement. The Hough Dramatic company, with Bernard, C.W. Couldock, Sallie St. Clair and others were among the notable performers who entertained theatergoers. In 1860 the Wide Awakes used this place for a drill hall, and so proficient did the",
+      "id": "Novel-10146_c_108"
+    },
+    {
+      "text": "began at 9 o'clock A.M., by the Moors firing twenty-one guns before the French had taken up their position, but the fire was not returned until 2 P.M. The 'Gemappes,' 100; 'Suffren,' 99; 'Triton,' 80; ships of the line. 'Belle Poule,' 60, frigate; 'Asmodee' and 'Pluton,' steamers, and some brigs, constituted the bombarding squadron. The batteries were silenced, and the Moorish authorities with many of the inhabitants fled, leaving the city unprotected against the wild tribes, who this evening and the next morning, sacked and fired the city. On the 16th, nine hundred French were landed on the isle of Mogador. After a rude encounter with the garrison, they took possession of it and its forts. Their loss was, after twenty-eight hours' bombarding, trifling, some twenty killed and as many more wounded; the Moors lost some five hundred on the isle killed, besides the casualties in the city. The British Consul and his wife, and Mr. and Mrs. Robertson, with others, were obliged to remain in the town during the bombardment on account of their liabilities to the Emperor. The escape of these people from destruction was most miraculous. The bombarding squadron reached on the 10th, the English frigate, 'Warspite,' on the",
+      "id": "Novel-10356_c_237"
+    }
+  ],
+  "cot_scratchpad": "- People insist on leading the beautiful princess to the new king (Novel-41603_c_153).\n- She is taken to the market-place where the king sits in state (Novel-41603_c_153).\n- The princess and the king encounter each other there (Novel-41603_c_153).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "During the succession events in the city, whom did the people lead to the market-place, resulting in an encounter with the new king?",
+      "doc_ids": [
+        "Novel-41603_c_153",
+        "Novel-41603_c_154",
+        "Novel-10146_c_25",
+        "Novel-10146_c_108",
+        "Novel-10356_c_237"
+      ]
+    }
+  ]
+}

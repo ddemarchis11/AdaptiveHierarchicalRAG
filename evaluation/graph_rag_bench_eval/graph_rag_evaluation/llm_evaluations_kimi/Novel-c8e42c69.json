@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c8e42c69",
+  "question": "What was the political affiliation of Dr. Inglis, as referenced in her participation in public and political life?",
+  "gold_answer": "Liberal",
+  "llm_answer": "The context does not explicitly state Dr. Inglis’s political party affiliation; it only notes that she was a member of the Women’s Liberal Federation and criticized party loyalty being placed before women’s suffrage.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Dr. Inglis's association with the Women's Liberal Federation, which aligns with the Gold Answer's 'Liberal' affiliation. However, it does not explicitly confirm her political affiliation as 'Liberal,' instead focusing on her criticism of party loyalty. The answer is faithful to the context, as the retrieved information supports her involvement with the Women's Liberal Federation. However, it misses the direct identification of her political affiliation as 'Liberal,' which is a key fact from the Gold Answer."
+  }
+}

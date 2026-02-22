@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001676",
+  "question": "Which genus has the most number of species, Myrsine or Styrax?",
+  "gold_answer": "Myrsine",
+  "llm_answer": "The genus with the most number of species is Myrsine, with over 280 species.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Myrsine as the genus with the most species, consistent with the Gold Answer and supported by the Retrieved Context, which states Myrsine has over 280 species. The answer is concise and faithful to the provided information."
+  }
+}

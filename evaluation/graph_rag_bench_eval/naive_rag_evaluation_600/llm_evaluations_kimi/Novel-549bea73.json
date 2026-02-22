@@ -1,0 +1,12 @@
+{
+  "id": "Novel-549bea73",
+  "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+  "gold_answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+  "llm_answer": "The Indians protested because the government, distracted by the Civil War, failed to send the promised gold annuities; this neglect left them destitute and was the immediate grievance behind their protests.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the connection between the government's neglect and the Indian protests, emphasizing the failure to send gold annuities and the resulting destitution. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which details the government's neglect and the Indians' grievances about traders deducting debts from their annuities."
+  }
+}

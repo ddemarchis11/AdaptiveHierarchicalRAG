@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00004249",
+  "question": "Are Benjamin Britten and Béla Bartók from the same country?",
+  "gold_answer": "no",
+  "llm_answer": "No. The evidence shows Béla Bartók is described as a “Hungarian composer,” while Benjamin Britten is associated with London publishers and British sources, indicating he is British.",
+  "context": [
+    {
+      "text": "10 March 2019). Tudzin, Jessica Taylor. 2010. \" Schooled in Bartók \". Bohemian Ink blog site (2 August) (accessed 4 July 2014). Voices From The Past: Béla Bartók's 44 Duos & Original Field Recordings . Tantara Records . 2014. OCLC 868907693 . Wilhelm, Kurt (1989). Richard Strauss: An intimate Portrait . London: Thames and Hudson. Wilson, Paul. 1992. The Music of Béla Bartók . New Haven: Yale University Press. ISBN 978-0-300-05111-7 . Further reading \" Polereczky család \". Arcanum.hu website (accessed 30 December 2019). Bartók, Béla. 1976. \"The Influence of Peasant Music on Modern Music (1931)\". In Béla Bartók Essays , edited by Benjamin Suchoff, 340–44. London: Faber & Faber . ISBN 978-0-571-10120-7 OCLC 60900461 Bartók, Béla. 1981. The Hungarian Folk Song Archived 4 October 2023 at the Wayback Machine , second English edition, edited by Benjamin Suchoff, translated by Michel D. Calvocoressi, with annotations by Zoltán",
+      "id": "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_40"
+    },
+    {
+      "text": "Béla Bartók , third edition, prepared by Malcolm Gillies. New York: Oxford University Press. ISBN 9780198163497 . Stevens, Halsey. 2018. \" Béla Bartók: Hungarian Composer \". Encyclopædia Britannica online (accessed 27 September 2018). Suchoff, Benjamin. 2001 Béla Bartók: Life and Work . Lanham, Maryland: Scarecrow Press. ISBN 978-0-8108-4076-8 – via Google Books. (2001) (accessed 29 July 2019). Szabolcsi, Bence. 1974. \"Bartók Béla: Cantata profana\". In Miért szép századunk zenéje? (Why is the music of the Twentieth century so beautiful?), edited by György Kroó, [ page needed ] . Budapest: Gondolat ISBN 978-963-280-015-8 Szekernyés János. 2017. \" Bartókék Nagyszentmiklóson \" [Bartók in Nagyszentmiklós]. Művelődés 70 (July) (accessed 10 March 2019). Tudzin, Jessica Taylor. 2010. \" Schooled in Bartók \". Bohemian Ink blog",
+      "id": "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_39"
+    },
+    {
+      "text": "Elisabeth West and Colin Mason (London: Faber and Faber Ltd.; New York: St. Martin's Press, 1971). ISBN 978-0-571-09638-1 Bartók, Béla. 1976. Essays , selected and edited by Benjamin Suchoff. The New York Bartók Archive Studies in Musicology, No. 8. London: Faber & Faber; New York: St. Martin's Press. ISBN 978-0-571-10120-7 . Bartók, Béla. 2018. Romanian Folk Dances (Sheet music), London: Chester Music . Bartók: Complete Works . Decca Records. 2016. OCLC 945742125 . Botstein, Leon . [n.d.] \"Modernism\", Grove Music Online , ed. L. Macy (Accessed 29 April 2008), (subscription access) . Chalmers, Kenneth. 1995. Béla Bartók . 20th-Century Composers. London: Phaidon Press. ISBN 978-0-7148-3164-0 (pbk). Citron, Pierre (1963). Bartok . Paris: Editions du Seuil. OCLC 1577771 . Cohn, Richard, 1988. \"Inversional Symmetry and Transpositional Combination in Bartók.\" Music",
+      "id": "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_31"
+    },
+    {
+      "text": "Machine , second English edition, edited by Benjamin Suchoff, translated by Michel D. Calvocoressi, with annotations by Zoltán Kodály. The New York Bartók Archive Studies in Musicology 13. Albany: State University of New York Press. Bartók, Peter. 2002. \"My Father\". Homosassa, Florida, Bartók Records ( ISBN 978-0-9641961-2-4 ). Bayley, Amanda (ed.). 2001. The Cambridge Companion to Bartók Archived 4 October 2023 at the Wayback Machine . Cambridge Companions to Music . Cambridge and New York: Cambridge University Press. ISBN 978-0-521-66010-5 (cloth); ISBN 978-0-521-66958-0 (pbk). Bónis, Ferenc. 2006. Élet-képek: Bartók Béla Archived 4 October 2023 at the Wayback Machine . Budapest: Balassi Kiadó: Vávi Kft., Alföldi Nyomda Zrt. ISBN 978-963-506-649-0 . Boys, Henry. 1945. \"Béla Bartók 1881–1945\". The Musical Times 86, no. 1233 (November): 329–31. Cohn, Richard, 1992.",
+      "id": "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_41"
+    },
+    {
+      "text": "Bartók Plays Bartók – Bartók at the Piano 1929–41 . Pearl 9166. CD recording. Bartók, Béla. 1995b. Bartók Recordings from Private Collections . Hungaroton 12334. CD recording. Bartók, Béla. 2003. Bartók Plays Bartók . Pearl 179. CD recording. Bartók, Béla. 2003. Bartók Sonata for 2 Pianos & Percussion, Suite for 2 Pianos. Apex 0927-49569-2. CD recording. Bartók, Béla. 2007. Bartók: Contrasts, Mikrokosmos . Membran/Documents 223546. CD recording. Bartók, Béla. 2008. Bartók Plays Bartók . Urania 340. CD recording. Bartók, Béla. 2016. Bartók the Pianist . Hungaroton HCD32790-91. Two CDs. Works by Bartók, Domenico Scarlatti, Zoltán Kodály, and Franz Liszt. A compilation of field recordings and transcriptions for two violas was also recently released by Tantara Records in 2014. On 18 March 2016 Decca Classics released Béla Bartók: The",
+      "id": "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_26"
+    },
+    {
+      "text": ". (subscription required) Britten, Benjamin (1991). Donald Mitchell (ed.). Letters From a Life: The Selected Letters of Benjamin Britten, Volume I, 1923–1939 . London: Faber and Faber. ISBN 978-0-5711-5221-6 . Britten, Benjamin (2004). Donald Mitchell (ed.). Letters from a Life: The Selected Letters of Benjamin Britten, Volume III, 1946–1951 . London: Faber and Faber. ISBN 978-0-5712-2282-7 . Britten, Benjamin (2008). Reed, Philip; Cooke, Mervyn; Mitchell, Donald (eds.). Letters from a Life: The Selected Letters of Benjamin Britten, Volume IV, 1952–1957 . London: The Boydell Press. ISBN 978-1-8438-3382-6 . Carpenter, Humphrey (1992). Benjamin Britten: A Biography . London: Faber and Faber. ISBN 978-0-5711-4324-5 . Craggs, Stewart R. (2002). Benjamin Britten: A Bio-bibliography . Westport, Connecticut: Greenwood Publishing. ISBN 978-0-3132-9531-7 . Culshaw, John (1981). Putting the Record Straight . London: Secker & Warburg. ISBN",
+      "id": "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_60"
+    }
+  ],
+  "cot_scratchpad": "- Bartók is Hungarian (HotpotQA-validation-00004249/01_Bla-Bartk.html_c_39)\n- Evidence does not state Britten's nationality\n- Bartók is Hungarian (HotpotQA-validation-00004249/01_Bla-Bartk.html_c_39)\n- Evidence still lacks Britten's explicit nationality\n- Britten commemorated by Royal Mail as \"Great Briton\" (HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_56)\n- ```json\n- \"scratchpad_update\": \"- Bartók is Hungarian from pre-1920 Hungary (HotpotQA-validation-00004249/01_Bla-Bartk.html_c_39)\\n- Britten commemorated as \\\"Great Briton\\\" by Royal Mail (HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_56)\\n- \\\"Great Britons\\\" stamps honour UK nationals per Royal Mail usage (implicit Britten=British)\",\n- \"enough\": true,\n- \"missing\": [],\n- \"next_query\": \"\"\n- ```",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Benjamin Britten and Béla Bartók from the same country?",
+      "doc_ids": [
+        "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_40",
+        "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_39",
+        "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_31",
+        "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_41",
+        "HotpotQA-validation-00004249/01_Bla-Bartk.html_c_26"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Benjamin Britten nationality",
+      "doc_ids": [
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_60",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_65",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_63",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_66",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_56"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Benjamin Britten country of origin",
+      "doc_ids": [
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_60",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_65",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_63",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_56",
+        "HotpotQA-validation-00004249/00_Benjamin-Britten.html_c_59"
+      ]
+    }
+  ]
+}

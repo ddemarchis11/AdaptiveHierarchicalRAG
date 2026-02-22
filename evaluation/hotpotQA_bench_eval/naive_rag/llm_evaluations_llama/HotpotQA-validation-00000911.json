@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000911",
+  "question": "Which genus has more species, Apium or Elodea?",
+  "gold_answer": "Apium",
+  "llm_answer": "Based on the provided evidence, the genus Apium has more species than Elodea. \n\nApium has 12 species, as stated in the evidence: \n1. Apium graveolens \n2. Apium annuum \n3. Apium insulare \n4. Apium prostratum \n5. Apium australe \n6. Apium chilense \n7. Apium commersonii \n8. Apium fernandezianum \n9. Apium larranagum \n10. Apium panul \n11. Apium santiagoensis \n12. Apium sellowianum \n\nElodea has 8 species, as stated in the evidence: \n1. Elodea bifoliata \n2. Elodea callitrichoides \n3. Elodea canadensis \n4. Elodea densa \n5. Elodea granatensis \n6. Elodea heterostemon \n7. Elodea najas \n8. Elodea nuttallii",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Apium as the genus with more species, consistent with the Gold Answer. It provides detailed enumeration of the species in both Apium (12 species) and Elodea (8 species), which is fully supported by the Retrieved Context. All relevant facts from the Gold Answer are included, and the additional details are accurate and grounded."
+  }
+}

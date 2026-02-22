@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2376a223",
+  "question": "With which character from German literature is Uncle Toby, a character from Laurence Sterne's 'Tristram Shandy', compared during literary analysis?",
+  "gold_answer": "Uncle Toby is compared with Tellheim in literary analysis.",
+  "llm_answer": "Uncle Toby from Laurence Sterne's 'Tristram Shandy' is compared to Schrimps, a servant character in a German literary work, during literary analysis.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Uncle Toby is compared to Schrimps, a servant character, which is not supported by the retrieved context or the Gold Answer. The correct comparison is with Tellheim, as stated in the Gold Answer, and there is no evidence in the context to support the claim made by the Model Answer."
+  }
+}

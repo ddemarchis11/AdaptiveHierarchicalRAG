@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007307",
+  "question": "Who is the grandfather to Frederick II and was the Holy Roman Emperor until death?",
+  "gold_answer": "Frederick I",
+  "llm_answer": "Frederick I (Frederbarossa)",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Frederick I as the grandfather of Frederick II and the Holy Roman Emperor until his death. This is consistent with the Gold Answer and supported by the Retrieved Context, which details Frederick I's reign and familial connections. The Model Answer is concise but accurate, containing all necessary information."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e6bc0ffc",
+  "question": "Which cultural groups, specifically the Celtic races and Slavonic nations, were known to favor the bagpipe as a musical instrument?",
+  "gold_answer": "The bagpipe was favored by the Celtic races and Slavonic nations.",
+  "llm_answer": "The Celtic races and the Slavonic nations were known to favor the bagpipe as a musical instrument.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Celtic races and Slavonic nations as favoring the bagpipe, which aligns with the Gold Answer and is fully supported by the Retrieved Context. It includes all key facts without adding unsupported details."
+  }
+}

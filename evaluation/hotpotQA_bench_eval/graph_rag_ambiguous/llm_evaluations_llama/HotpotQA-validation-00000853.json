@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000853",
+  "question": "Which passed away first — the South African-born Australian author known for sweeping historical fiction, or the Uruguayan novelist associated with existentialist themes in Latin American literature?",
+  "gold_answer": "Juan Carlos Onetti",
+  "llm_answer": "Bryce Courtenay, the South African-born Australian author, passed away on November 22, 2012, at the age of 79. Juan Carlos Onetti, the Uruguayan novelist, passed away on May 30, 1994, at the age of 85. Therefore, Juan Carlos Onetti passed away first.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Juan Carlos Onetti as the individual who passed away first, consistent with the Gold Answer. It provides additional details about the death dates and ages of both authors, which are supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

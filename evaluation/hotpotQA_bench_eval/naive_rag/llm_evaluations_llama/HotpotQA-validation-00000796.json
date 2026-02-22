@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000796",
+  "question": "Pramod Bhasin was the former CEO of a company that provided what kind of services?",
+  "gold_answer": "IT",
+  "llm_answer": "Pramod Bhasin was the former CEO of a company that provided IT and software consultancy services, as well as business process outsourcing (BPO) services.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Pramod Bhasin was the former CEO of a company providing IT services, as stated in the Gold Answer. Additionally, it expands on this by mentioning software consultancy and business process outsourcing (BPO) services, which are supported by the Retrieved Context. The extra details are relevant and grounded in the context, and all key facts from the Gold Answer are included."
+  }
+}

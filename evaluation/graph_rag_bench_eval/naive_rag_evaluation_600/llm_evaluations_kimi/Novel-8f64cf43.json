@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8f64cf43",
+  "question": "While at the French restaurant near Washington Square, which character did Van Bibber recognize and see dining there?",
+  "gold_answer": "Van Bibber saw Standish.",
+  "llm_answer": "Van Bibber recognized a young runaway couple—a young lady and a young gentleman—dining at the French restaurant near Washington Square.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the characters Van Bibber recognized at the French restaurant near Washington Square. The Gold Answer specifies that Van Bibber saw Standish, which is not mentioned in the Model Answer. Additionally, the retrieved context does not support the claim that Van Bibber recognized a young runaway couple, making the Model Answer unfaithful and lacking evidence coverage."
+  }
+}

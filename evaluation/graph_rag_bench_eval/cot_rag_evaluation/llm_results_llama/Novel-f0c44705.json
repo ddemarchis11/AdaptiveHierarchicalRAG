@@ -1,0 +1,42 @@
+{
+  "id": "Novel-f0c44705",
+  "question": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+  "gold_answer": "SHEBA won money at The Races.",
+  "llm_answer": "There is insufficient evidence to determine at what event SHEBA won money in the story, highlighting her involvement in the excitement of the St. Marvells races.",
+  "context": [
+    {
+      "text": "this about forty pounds! SHEBA. But we've only got fifteen and threepence of our own in the world! And, oh, Aunt, you know something about the Races, don't you? GEORGIANA. Eh? SHEBA. If you do, help two poor creatures to win forty pounds, nineteen. Aunt Georgiana, what's \"Dandy Dick\" you were talking to that gentleman about? GEORGIANA. Child! Dandy Dick's a horse. SHEBA. We thought so. Then let Dandy Dick win _us_ some money. GEORGIANA. No, no! I won't hear of it! SHEBA. Oh, do, do! SALOME. Oh, do, do, do! GEORGIANA. Go away--I won't. I say decidedly, I will not! SHEBA. Oh, do, do! SALOME. Do! Do, and we'll love you for ever and ever, Aunt Georgiana. GEORGIANA. You will! [_She embraces them heartily._] Bless your little innocent faces! Do you want to win forty pounds? SALOME _and_ SHEBA. Yes, yes! GEORGIANA. Do you want to win _fifty_ pounds? SHEBA and SALOME. Oh, yes, yes! GEORGIANA. [_Taking her betting book from her pocket._] Very well, then, put your very",
+      "id": "Novel-40700_c_43"
+    },
+    {
+      "text": "I don't know, toy-child. But at length retribution came. Ill luck fell upon her--her horses, stock, everything, came to the hammer. That was my hour. \"Come to me,\" I wrote, \"my children yearn for you.\" SHEBA _and_ SALOME. [_With wry faces._] Oh! THE DEAN. \"At the Deanery of St. Marvells, with the cares of a household, and a stable which contains only a thirteen-year-old pony, you may obtain rest and forgetfulness.\" And she is coming! SHEBA _and_ SALOME. When? Oh! when? THE DEAN. She merely says, \"Soon.\" SHEBA _and_ SALOME. [_Stamping with vexation._] Ugh! THE DEAN. Salome, Sheba, you will, I fear, find her a sad broken creature, a weary fragment, a wave-tossed derelict. Let it be your patient endeavor to win back a flickering smile to the wan features of this chastened widow. _BLORE enters with a telegram._ BLORE. A telegram, sir! [_THE DEAN opens telegram._ SHEBA. No Aunt Tidman flickers a smile at me! SALOME. I wouldn't be in her shoes for something! SHEBA. Salt in her bed, Salome! SALOME. Yes, and the peg out of the rattling window!",
+      "id": "Novel-40700_c_26"
+    },
+    {
+      "text": "Ten--ten--twenty--five--five, fifty. Fifty pounds! The very sum Georgiana urged me to--oh! [_To BLORE, waving him away._] Leave me--go to bed--go to bed--go to bed! [_BLORE is going._] Blore! BLORE. Sir? THE DEAN. What made you tempt me with these at such a moment? BLORE. Temp' you, sir! The window was hopen, and I feared they might blow away. THE DEAN. [_Catching him by the coat collar._] Man, what were you doing at St. Marvells Races last summer? BLORE. [_With a cry, falling on his knees._] Oh, sir! Oh, sir! I knew that 'igh-sperited lady would bring grief and sorrow to the peaceful, 'appy Deanery! Oh, sir, I _'ave_ done a little on my hown account from time to time on the 'ill, halso hon commission for the kitchen! THE DEAN. I knew it--I knew it! BLORE. Oh, sir, you are a old gentleman--turn a charitable 'art to the Races! It's a wicious institution what spends more ready money in St. Marvells than us good people do in a year. THE DEAN. Get up, Blore--get up. Oh, Edward Blore, Edward",
+      "id": "Novel-40700_c_69"
+    },
+    {
+      "text": "and Rejoice. [_The two girls cling to each other as BLORE comes from the Library with two letters on a salver._ BLORE. The second post, sir--just hin. THE DEAN. [_Blandly._] Thank you. BLORE. [_Hearing SALOME and SHEBA crying._] They've 'ad a scolding, 'ussies. Let 'em 'ang that on the 'atstand! [_He is going out._ THE DEAN. [_Opening letters._] Oh, Blore! This note from Mr. Hodder, the Secretary of \"The Sport and Relaxation Repression Guild,\" reminds me that to-morrow is the first day of the Races--the St. Marvells Spring Meeting, as it is called. BLORE. Hindeed, sir--fancy that! And I not know it! THE DEAN. All our servants may not resemble you, Blore. Pray remind them in the kitchen and the stable of the rule of the house---- BLORE. No servant allowed to leave the Deanery, on hany pretence, while the Races is on. THE DEAN. [_Kindly._] While the races _are_ on--thank you, Blore. [_Opens his second letter._ BLORE. Thank _you,_ sir. [_To himself._] Oh, if the Dean only knew the good thing I could put him on to",
+      "id": "Novel-40700_c_23"
+    },
+    {
+      "text": "yes--I dare say you'll manage to wean me from that, too, in time. THE DEAN. In time! Well, but--Georgiana! [_The gate bell is heard again, the girls re-enter._ GEORGIANA. There's a visitor. I'll tootle upstairs and have a groom down. [_To SALOME and SHEBA._] Make the running, girls. At what time do we feed, Augustin? THE DEAN. There is luncheon at one o'clock. GEORGIANA. Right. The air here is so fresh I sha'n't be sorry to get my nose-bag on. [_She stalks out, accompanied by the girls._ THE DEAN. My sister, Georgiana--my widowed sister, Georgiana. Dear me, I am quite disturbed. Surely, surely the serene atmosphere of the Deanery will work a change. It must! It must! If not, what a grave mistake I have made. Good gracious! No, no, I won't think of it! Still, it is a little unfortunate that poor Georgiana should arrive here on the very eve of these terrible races at St. Marvells. _BLORE enters with a card._ THE DEAN. Who is it, Blore? [_Reading the card._] \"Sir Tristram Mardon.\" Dear, dear! Certainly, Blore, certainly. [_BLORE goes out._]",
+      "id": "Novel-40700_c_31"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\":\n- \"- SHEBA wants to win money at the St. Marvells races (Novel-40700_c_43).\n- Georgiana agrees to help SHEBA and SALOME win money (Novel-40700_c_43).\n- The goal is to win forty pounds, then fifty pounds (Novel-40700_c_43).\n- The St. Marvells Spring Meeting is the event where SHEBA wants to win money (Novel-40700_c_23).\n- The event is the first day of the St. Marvells Spring Meeting (Novel-40700_c_23).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+      "doc_ids": [
+        "Novel-40700_c_43",
+        "Novel-40700_c_26",
+        "Novel-40700_c_69",
+        "Novel-40700_c_23",
+        "Novel-40700_c_31"
+      ]
+    }
+  ]
+}

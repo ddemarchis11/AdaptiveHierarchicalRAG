@@ -1,0 +1,12 @@
+{
+  "id": "Novel-545149f0",
+  "question": "According to the discussion in the CHILD'S HEALTH PRIMER about bone flexibility, why are children's bones more flexible and able to bend easily compared to the bones of old people?",
+  "gold_answer": "Bones bend easily in children, making their bones more flexible than those of old people.",
+  "llm_answer": "Children’s bones bend easily because they contain more gristle (cartilage) than the bones of older people.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains that children's bones bend easily due to containing more gristle (cartilage), which is consistent with the Gold Answer and fully supported by the Retrieved Context. It also includes the specific term 'gristle,' which aligns with the detailed explanation in the context."
+  }
+}

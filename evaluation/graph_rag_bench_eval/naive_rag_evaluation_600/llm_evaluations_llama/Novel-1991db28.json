@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1991db28",
+  "question": "In the historical context of the Assembly of Lower Canada, which key figures or groups specifically opposed the passage of the Ninety-Two Resolutions, as reflected by their votes or public statements, and what actions did the resolutions themselves call for regarding the impeachment of Lord Aylmer?",
+  "gold_answer": "The Ninety-Two Resolutions were opposed by Quesnel and John Neilson; Augustin Cuvillier and F. A. Quesnel voted against them; and the resolutions demanded the impeachment of Lord Aylmer.",
+  "llm_answer": "According to the provided text, the key figures or groups that specifically opposed the passage of the Ninety-Two Resolutions were:\n\n1. Lord Aylmer, the governor of Canada, who was demanded to be impeached by the Resolutions.\n2. The Legislative Council, which was subservient to the Executive Council and opposed the Resolutions.\n3. Some of the judges, who were partisan and opposed the Resolutions.\n4. The Chateau Clique, a group of bureaucrats who were opposed to the Resolutions.\n\nAs for the specific actions called for by the Resolutions regarding the impeachment of Lord Aylmer, the text states that the Resolutions demanded not only the removal of Lord Aylmer but also his impeachment. This was seen as an extraordinary and perhaps injurious move, as it was a direct attack on the authority of the governor.\n\nIt's worth noting that the Resolutions were introduced by Elzear Bedard and were supported by Louis Joseph Papineau and his followers, who were known as the Patriotes. The Resolutions were passed by the Assembly of Lower Canada, but they were met with opposition from the British government and other groups in Canada.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the impeachment demand for Lord Aylmer but introduces unsupported claims about opposition from the Legislative Council, judges, and the Chateau Clique, which are not explicitly grounded in the retrieved context. It also fails to mention the specific individuals (Quesnel, John Neilson, Augustin Cuvillier, and F. A. Quesnel) who opposed the Resolutions, as stated in the Gold Answer. While partially correct, the answer lacks full alignment with the Gold Answer and retrieved evidence."
+  }
+}

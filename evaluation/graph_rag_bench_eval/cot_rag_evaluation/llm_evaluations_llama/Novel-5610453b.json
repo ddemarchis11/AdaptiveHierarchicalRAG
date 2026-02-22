@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5610453b",
+  "question": "Where did Mr. Inglis reside during the years following his return from India, as recounted in the family's history?",
+  "gold_answer": "Mr. Inglis lived in Edinburgh.",
+  "llm_answer": "I am unable to answer the question as the provided evidence does not mention where Mr. Inglis resided during the years following his return from India.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about Mr. Inglis's residence after his return from India. However, the Gold Answer specifies Edinburgh as his residence, which is not addressed by the Model Answer. While the Model Answer is faithful to the context, it fails to provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

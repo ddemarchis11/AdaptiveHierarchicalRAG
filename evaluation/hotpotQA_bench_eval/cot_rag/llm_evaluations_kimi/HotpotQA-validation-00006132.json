@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006132",
+  "question": "what species of plants are Chamelaucium and Vanilla derived from?",
+  "gold_answer": "flowers",
+  "llm_answer": "Chamelaucium is derived from the species Chamelaucium uncinatum.  \nVanilla is derived from the species Vanilla planifolia.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies specific species for Chamelaucium and Vanilla, which are supported by the context. However, it does not address the broader classification of both being derived from flowers, as stated in the Gold Answer. While the species mentioned are accurate, the omission of the general classification reduces evidence coverage and correctness."
+  }
+}

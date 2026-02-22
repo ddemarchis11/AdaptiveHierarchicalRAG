@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005758",
+  "question": "What city is the women's Vans Triple Crown of Surfing event hosted at?",
+  "gold_answer": "City and County of Honolulu",
+  "llm_answer": "The women's Vans Triple Crown of Surfing event is hosted at Pipeline.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the women's Vans Triple Crown of Surfing event is hosted at Pipeline, which is not supported by the context or the Gold Answer. The correct answer is the City and County of Honolulu, and the context does not specify Pipeline as the host city for the event."
+  }
+}

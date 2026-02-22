@@ -1,0 +1,12 @@
+{
+  "id": "Novel-461ce6c3",
+  "question": "What is the connection between the movements of Captain Balfour and Mr. Reade?",
+  "gold_answer": "Captain Balfour travelled to Jereed, and Mr. Reade travelled with Captain Balfour.",
+  "llm_answer": "Captain Balfour and Mr. Reade are tourists who went on a tour together. They were accompanied by Sidi Mohammed, the \"Bey of the Camp,\" who was visiting the Jereed to collect tribute. The Bey took them with him on his expedition, and they were part of the group that followed him across the plain of Manouba.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the connection between Captain Balfour and Mr. Reade, stating that they traveled together to the Jereed as tourists and were part of the Bey's expedition. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which describes their journey and association with the Bey. All key facts from the Gold Answer are included."
+  }
+}

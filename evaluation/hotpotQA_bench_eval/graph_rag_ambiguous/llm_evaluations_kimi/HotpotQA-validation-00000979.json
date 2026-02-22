@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000979",
+  "question": "Which was born earlier — the Russian director known for operetta and historical films who worked through the Soviet era, or the American director best remembered for a long-running film comedy series featuring a talking mule?",
+  "gold_answer": "Aleksandr Ivanovsky",
+  "llm_answer": "Aleksandr Ivanovsky (born 1881) is the Russian director described, and Arthur Lubin (born 1898) is the American director; therefore Ivanovsky was born earlier.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Aleksandr Ivanovsky as the Russian director born earlier (1881) compared to Arthur Lubin (1898). This is consistent with the retrieved context and includes all relevant facts from the Gold Answer."
+  }
+}

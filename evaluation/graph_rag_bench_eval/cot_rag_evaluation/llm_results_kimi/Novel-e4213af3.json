@@ -1,0 +1,42 @@
+{
+  "id": "Novel-e4213af3",
+  "question": "Who was the commander of the British military forces tasked with suppressing the rebellion during the Lower Canada Rebellion of 1837-1838?",
+  "gold_answer": "Sir John Colborne was in command of the British forces during the Lower Canada Rebellion.",
+  "llm_answer": "Sir John Colborne was the commander-in-chief of the British military forces in Canada during the Lower Canada Rebellion.",
+  "context": [
+    {
+      "text": "a sketch of the rebellion written by the son of one of the _Patriotes_. Globensky, _La Rebellion de 1837 a Saint-Eustache_ (1883), written by the son of an officer in the loyalist militia, contains some original materials of value. Lord Charles Beauclerk, _Lithographic Views of Military Operations in Canada under Sir John Colborne, O.C.B., {135} etc._ (1840), apart from the value of the illustrations, is interesting on account of the introduction, in which the author, a British army officer who served in Canada throughout the rebellion, describes the course of the military operations. The political aspect of the rebellion, from the Tory point of view, is dealt with in T. C. Haliburton, _The Bubbles of Canada_ (1839). For a penetrating analysis of the situation which led to the rebellion see Lord Durham's _Report on the Affairs of British North America_. A few biographies may be consulted with advantage. N. E. Dionne, _Pierre Bedard et ses fils_ (1909), throws light on the earlier period; as does also Ernest Cruikshank, _The Administration of Sir James Craig_ (_Transactions of the Royal Society of Canada_, 3rd series, vol. ii). See also A. D. DeCelles, _Papineau_ (1904), in the 'Makers of Canada' series;",
+      "id": "Novel-29973_c_121"
+    },
+    {
+      "text": "36, 41, 46, 53, 54, 55, 59. Lower Canada, the conflict between French and English Canadians in, 13-15, 33, 114; the Rebellion of 1837, 69-103; the constitution suspended, 104, 106; treatment of the rebels, 108-13; Durham's investigation and Report, 114-116; the Rebellion of 1838, 117-27. See Assembly. Macdonell, Sir James, Colborne's second-in-command, 125. Mackenzie, W. L., and the Patriotes, 72. Melbourne, Lord, and Durham's policy, 111. Mondelet, Dominique, 30; expelled from the Assembly, 36. Montreal, rioting in, 71-2. Moore's Corners, rebels defeated at, 89-92. Morin, A. N., a follower of Papineau, 37, 108, 130-1. Neilson, John, supports the Patriote cause, 26-7, 28; breaks with Papineau, 36-7, 38, 42, 44. Nelson, Robert, 108; leader of the second rebellion, 117-26, 129-30. Nelson, Dr Wolfred, a follower of Papineau, 37, 60, 65,",
+      "id": "Novel-29973_c_128"
+    },
+    {
+      "text": "the Colonial History of the State of New York_, volumes which are edited in so scholarly a manner, and throw such light on Canadian history, that the Canadian historian would fain forgive him for his part in the unhappy rebellion of '37. Most of the _Patriote_ leaders took advantage, however, of the virtual amnesty offered them in 1842 by the first LaFontaine-Baldwin administration, and returned to Canada. Many of these, as well as many of the _Patriote_ leaders who had not been implicated in the rebellion and who had not fled the country, rose to positions of trust and prominence in the public service of Canada. Louis Hippolyte LaFontaine, after having gone abroad during the winter of 1837-38, and after having been arrested on suspicion in November 1838, entered the parliament of Canada, formed, with Robert Baldwin as his colleague, the administration which ushered in full responsible government, and was knighted by Queen Victoria. Augustin Morin, the reputed author {131} of the Ninety-Two Resolutions, who had spent the winter of 1837-38 in hiding, became the colleague of Francis Hincks in the Hincks-Morin administration. George Etienne Cartier, who had shouldered a musket at St Denis, became the lifelong colleague of Sir John Macdonald and was made a baronet by his sovereign. Dr Wolfred Nelson returned to his practice in Montreal in",
+      "id": "Novel-29973_c_117"
+    },
+    {
+      "text": "sincerity, I feel I can say that I have loved her as she should be loved.' And charity covereth a multitude of sins. {134} BIBLIOGRAPHICAL NOTE The story of the Lower Canada rebellion is told in detail in some of the general histories of Canada. William Kingsford, _History of Canada_ (1887-94), is somewhat inaccurate and shows a strong bias against the _Patriotes_, but his narrative of the rebellion is full and interesting. F. X. Garneau, _Histoire du Canada_ (1845-52), presents the history of the period, from the French-Canadian point of view, with sympathy and power. A work which holds the scales very evenly is Robert Christie, _A History of the Late Province of Lower Canada_ (1848-55). Christie played a not inconspicuous part in the pre-rebellion politics, and his volumes contain a great deal of original material of first-rate importance. Of special studies of the rebellion there are a number worthy of mention. L. O. David, _Les Patriotes de 1837-38_, is valuable for its complete biographies of the leaders in the movement. L. N. Carrier, _Les Evenements de 1837-38_ (1877), is a sketch of the rebellion written by the son of one of the _Patriotes_. Globensky, _La Rebellion de 1837 a",
+      "id": "Novel-29973_c_120"
+    },
+    {
+      "text": "that he would be decently sympathetic with the Reform movements in the Canadas. At the same time, Melbourne and his ministers were only too glad to ship him out of the country. There was no question of his great ability and statesmanlike outlook. But his advanced Radical views were distasteful to many of his former colleagues; and his arrogant manners, his lack of tact, and his love of pomp and circumstance made him unpopular even in his own party. The truth is that he was an excellent leader to work under, but a bad colleague to work with. The Melbourne government had first got rid of him by sending him to St Petersburg as ambassador extraordinary; and then, on his return from St Petersburg, they got him out of the way by sending him to Canada. He was at first loath to go, mainly on the ground of ill health; but at the personal intercession of the young queen he accepted the commission offered him. It was {106} an evil day for himself, but a good day for Canada, when he did so. Durham arrived in Quebec, with an almost regal retinue, on May 28, 1838. Gosford, who had remained in Canada throughout the rebellion, had gone home at the end of February; and the administration had been taken over by Sir John Colborne, the commander-in-chief of the forces. As soon as the news of the suspension of the constitution reached Lower Canada, Sir John Colborne appointed a provisional special",
+      "id": "Novel-29973_c_95"
+    }
+  ],
+  "cot_scratchpad": "- British forces during the rebellion were under Sir John Colborne (commander-in-chief) (Novel-29973_c_95).\n- Colborne took over administration when Gosford left in Feb 1838 (Novel-29973_c_95).\n- Charles Beauclerk served under Colborne in 1837-38 operations (Novel-29973_c_121).\n- No other commander named for overall suppression forces.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who was the commander of the British military forces tasked with suppressing the rebellion during the Lower Canada Rebellion of 1837-1838?",
+      "doc_ids": [
+        "Novel-29973_c_121",
+        "Novel-29973_c_128",
+        "Novel-29973_c_117",
+        "Novel-29973_c_120",
+        "Novel-29973_c_95"
+      ]
+    }
+  ]
+}

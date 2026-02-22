@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddf5255b",
+  "question": "How did Papineau's actions during the period leading up to and following the Ninety-Two Resolutions affect his relationship with John Neilson, including Neilson's opposition to the resolutions, his eventual break with Papineau, and his alignment with Augustin Cuvillier?",
+  "gold_answer": "Papineau's actions alienated John Neilson, who opposed the Ninety-Two Resolutions and broke with Papineau, following the lead of Augustin Cuvillier.",
+  "llm_answer": "Papineau’s increasingly revolutionary stance and domineering behaviour alienated John Neilson. Neilson opposed the Ninety-Two Resolutions, voting in the minority against them, and this disagreement marked a definitive break: Neilson, together with Augustin Cuvillier and others, seceded from Papineau’s party.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, detailing how Papineau's actions alienated Neilson, leading to his opposition to the Ninety-Two Resolutions and eventual break with Papineau, aligning with Cuvillier. The claims are fully supported by the retrieved context, and all key facts from the Gold Answer are included."
+  }
+}

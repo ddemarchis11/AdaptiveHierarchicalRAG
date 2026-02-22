@@ -1,0 +1,12 @@
+{
+  "id": "Novel-01f95b27",
+  "question": "What cultural activities involving the arts did Samuel Pepys engage in as described in his diary, such as attending theatrical performances like 'The Siege of Rhodes' and 'Bartholomew Fayre', and learning to sing from Mr. Goodgroome?",
+  "gold_answer": "Samuel Pepys saw 'The Siege of Rhodes' and 'Bartholomew Fayre', and learned to sing from Mr. Goodgroome.",
+  "llm_answer": "Samuel Pepys engaged in various cultural activities involving the arts, including attending theatrical performances like \"The Jovial Crew\", \"The Tamer Tamed\", and \"Bartholomew Fayre\". He also saw \"The Alchymist\" and \"The Spanish Gypsey\", a play not very good, though commended much.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer mentions several plays that Samuel Pepys attended, but it does not include 'The Siege of Rhodes' or his singing lessons with Mr. Goodgroome, which are key facts from the Gold Answer. Additionally, the plays listed in the Model Answer are not supported by the Retrieved Context, making the answer unfaithful to the provided evidence."
+  }
+}

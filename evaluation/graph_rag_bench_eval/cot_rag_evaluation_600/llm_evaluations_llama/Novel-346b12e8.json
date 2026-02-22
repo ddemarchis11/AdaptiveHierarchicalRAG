@@ -1,0 +1,12 @@
+{
+  "id": "Novel-346b12e8",
+  "question": "What is the relationship between St. Michael's Mount and Marazion?",
+  "gold_answer": "St. Michael's Mount was opposite Marazion.",
+  "llm_answer": "The relationship between St. Michael's Mount and Marazion is that St. Michael's Mount is located in Mount's Bay, opposite the town of Marazion. \n\nMarazion is described as a small, ugly fishy-smelling beach, which is overlooked from everywhere in the town. \n\nSt. Michael's Mount is described as a picturesque and romantic place, especially at night when it is illuminated by moonlight. It is said to have a rich history and has been the site of many legends and stories, including the story of the giant Cormoran and the saintly Keyne. \n\nThe Mount is also said to have been inhabited by the St. Aubyn family since 1660, who have received royal visitors, including the Queen and the Prince of Wales. \n\nThe author and her companions visit St. Michael's Mount by rowing around it at night, and they are struck by its beauty and romance. They imagine all sorts of stories and legends about the place, and they feel as though they are in a fairy scene.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the relationship between St. Michael's Mount and Marazion, stating that St. Michael's Mount is opposite Marazion in Mount's Bay. It provides additional details about the Mount's history, legends, and the author's experience, all of which are supported by the retrieved context. The core meaning of the Gold Answer is fully contained, and the extra information is relevant and grounded."
+  }
+}

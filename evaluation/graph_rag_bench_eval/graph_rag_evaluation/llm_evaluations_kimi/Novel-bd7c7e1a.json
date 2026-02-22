@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bd7c7e1a",
+  "question": "How is Aunt Katy connected to Port William and Suza Fairfield, considering Aunt Katy moved to Port William, Suza Fairfield returned there after an attempted abduction, and Aunt Katy ultimately bequeathed her possessions to Suza?",
+  "gold_answer": "Aunt Katy is connected to Port William because she moved there and bequeathed her possessions to Suza Fairfield; Suza Fairfield also returned to Port William.",
+  "llm_answer": "Aunt Katy is Suza Fairfield’s foster mother, having raised and educated the orphaned girl in Port William, where she moved to occupy one of the village’s best houses. After Suza escapes an attempted abduction, she returns to Port William and to Aunt Katy’s home. Aunt Katy ultimately shows Suza her hidden money and will, which bequeaths all her earthly possessions to Suza, making Suza her sole heir.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the connection between Aunt Katy, Suza Fairfield, and Port William. It includes all key facts from the Gold Answer, such as Aunt Katy moving to Port William, Suza returning there after an attempted abduction, and Aunt Katy bequeathing her possessions to Suza. Additionally, the Model Answer provides relevant details about Aunt Katy being Suza's foster mother and her hidden money and will, which are supported by the retrieved context."
+  }
+}

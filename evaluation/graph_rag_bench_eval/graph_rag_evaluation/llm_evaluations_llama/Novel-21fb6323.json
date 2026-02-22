@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21fb6323",
+  "question": "In the years following the British conquest of Canada, how did the British government treat the French language in official matters, particularly regarding its use in law-courts and its status relative to English?",
+  "gold_answer": "The French language was placed on a level with the English language, and the British government made no objection to the use of French in law-courts.",
+  "llm_answer": "The British government did not suppress the French language in official matters. In fact, the Quebec Act of 1774 guaranteed the free exercise of the French language and religion.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that the British government did not suppress the French language and mentions the Quebec Act of 1774, which guaranteed certain rights. However, it does not specifically address the use of French in law-courts or its status relative to English, which are central to the User's Question and the Gold Answer. Additionally, the claim about the Quebec Act is not supported by the retrieved context, making the answer unfaithful to the provided evidence."
+  }
+}

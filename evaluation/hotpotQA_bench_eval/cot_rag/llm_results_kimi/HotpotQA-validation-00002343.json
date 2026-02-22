@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00002343",
+  "question": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+  "gold_answer": "Aden",
+  "llm_answer": "The evidence does not state that the capital of Yemen has been relocated.",
+  "context": [
+    {
+      "text": "Aulacodes peribocalis is a species of moth in the family Crambidae . It was described by Francis Walker in 1859. It is found in Yemen and India . References v t e",
+      "id": "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0"
+    },
+    {
+      "text": "Aulacodes templalis is a species of moth in the family Crambidae . It was described by Schaus in 1906. It is found in Brazil . References v t e",
+      "id": "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0"
+    },
+    {
+      "text": "Yemen , officially the Republic of Yemen , is a country in West Asia . Including the Socotra Archipelago , mainland Yemen is located in southern Arabia ; bordering Saudi Arabia to the north , Oman to the northeast , the south-eastern part of the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west, sharing maritime borders with Djibouti , Eritrea , and Somalia across the Horn of Africa . Covering roughly 455,503 square kilometres (175,871 square miles), with a coastline of approximately 2,000 kilometres (1,200 miles), Yemen is the second largest country on the Arabian Peninsula by area, and the largest by population. Sanaa is its constitutional capital and largest city. Yemen's estimated population is 34.7 million, mostly Arab Muslims , which is estimated to be greater than that of Saudi Arabia. It is a member of the Arab League , the United Nations , the Non-Aligned Movement and the Organisation of Islamic Cooperation . Owing to its geographic location, Yemen has been at the crossroads of many civilisations for over 7,000 years. The Sabaeans formed a thriving commercial kingdom that influenced parts of modern Ethiopia and Eritrea. In 275 AD, it was succeeded by the Himyarite Kingdom , which spanned much of Yemen's present-day territory and was heavily influenced by Judaism. Christianity arrived in the fourth century, followed by the rapid",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_0"
+    },
+    {
+      "text": "Hadramis migrated to Southeast Asia, East Africa and the Indian subcontinent . The Maqil were a collection of Arab Bedouin tribes of Yemeni origin who migrated westwards via Egypt. Several groups of Yemeni Arabs turned south to Mauritania , and by the end of the 17th century, they dominated the entire country. They can also be found throughout Morocco and in Algeria as well as in other North African countries. Yemen is the birthplace of the Arabs and the language ; Qahtanite Arabs — the original Arabs — originated in Yemen. According to Arab tradition, Ishmael son of Abraham married a woman from the Jurhum tribe. Yemen is the only country in the Arabian Peninsula that is signatory to two international accords dating back to 1951 and 1967 governing the protection of refugees. Yemen hosted a population of refugees and asylum seekers numbering approximately 124,600 in 2007. Refugees and asylum seekers were predominantly from Somalia (110,600), Iraq (11,000), Ethiopia (2,000), and Syria . Additionally, more than 334,000 Yemenis have been internally displaced by conflict. The Yemeni diaspora is largely concentrated in neighbouring Saudi Arabia, where between 800,000 and 1 million Yemenis reside, and the United Kingdom, home to between 70,000 and 80,000 Yemenis. Languages Modern Standard Arabic is the official language, while Yemeni Arabic is used as the",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_61"
+    },
+    {
+      "text": "in political representation, including elected government and effective parliament. Administrative divisions Yemen is divided into twenty-one governorates ( muhafazat ) plus one municipality called \"Amanat Al-Asemah\" (the latter containing the constitutional capital, Sanaa). An additional governorate ( Soqatra Governorate ) was created in December 2013 comprising Socotra Island, previously part of Hadramaut Governorate. The governorates are subdivided into 333 districts ( muderiah ), which are subdivided into 2,210 sub-districts, and then into 38,284 villages (as of 2001). In 2014, a constitutional panel decided to divide the country into six regions—four in the north, two in the south, and capital Sanaa outside of any region—creating a federalist model of governance. This federal proposal was a contributing factor toward the Houthis' subsequent coup d'état against the government. Saada Al Jawf Hadhramaut Al Mahrah Hajjah 'Amran Al Mahwit Sanaa Governorate Sanaa Municipality Ma'rib Al Hudaydah Raymah Dhamar Ibb Dhale Al Bayda Shabwah Taiz Lahij Abyan Aden Socotra Governorates of Yemen Map of the proposed Federal Regions of Yemen Foreign relations Yemen is a member of the United Nations, the Arab League , and the Organisation of Islamic Cooperation , and also participates in",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_49"
+    },
+    {
+      "text": "tribesmen continued to hold out in several fortresses. The Ayyubids failed to capture the Zaydis stronghold in northern Yemen. In 1191, Zaydis of Shibam Kawkaban rebelled and killed 700 Ayyubid soldiers. Imam Abdullah bin Hamza proclaimed the imamate in 1197 and fought al-Mu'izz Ismail, the Ayyubid Sultan of Yemen. Imam Abdullah was defeated at first but was able to conquer Sanaa and Dhamar in 1198, and al-Mu'izz Ismail was assassinated in 1202. Abdullah bin Hamza carried on the struggle against the Ayyubid until his death in 1217. After his demise, the Zaidi community was split between two rival imams. The Zaydis were dispersed, and a truce was signed with the Ayyubid in 1219. The Ayyubid army was defeated in Dhamar in 1226. Ayyubid Sultan Mas'ud Yusuf left for Mecca in 1228, never to return. Other sources suggest that he was forced to leave for Egypt instead in 1223. Rasulid dynasty (1229–1454) Al-Qahira Castle in Taiz , the capital of Yemen under the Rasulid dynasty The Rasulid dynasty was established in 1229 by Umar ibn Ali , who was appointed deputy governor by the",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_14"
+    }
+  ],
+  "cot_scratchpad": "- Aulacodes peribocalis found in Yemen (HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0)\n- Yemen is an Arab country (HotpotQA-validation-00002343/01_Yemen.html_c_0)\n- Sanaa is constitutional capital (HotpotQA-validation-00002343/01_Yemen.html_c_0)\n- Need to find if capital was relocated and to where\n- Aulacodes peribocalis occurs in Yemen\n- Yemen is an Arab country with constitutional capital Sanaa (HotpotQA-validation-00002343/01_Yemen.html_c_0)\n- Evidence shows Sanaa remains constitutional capital and no relocation is stated (HotpotQA-validation-00002343/01_Yemen.html_c_49)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0",
+        "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_61",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Yemen capital relocated to",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_14",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_25",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_4"
+      ]
+    }
+  ]
+}

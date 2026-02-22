@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003219",
+  "question": "Matt McKenzie had a role on the television show that focused on the lives of teenage friends from what Wisconsin town?",
+  "gold_answer": "Point Place",
+  "llm_answer": "The television show that focused on the lives of teenage friends from a Wisconsin town, and Matt McKenzie had a role on, is \"That '70s Show.\"",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'That '70s Show' as the television show but fails to mention the specific town, Point Place, which is the core detail of the Gold Answer. The answer is faithful to the context, as the retrieved information supports the show's setting in Point Place, Wisconsin. However, it does not fully cover the key fact required by the question."
+  }
+}

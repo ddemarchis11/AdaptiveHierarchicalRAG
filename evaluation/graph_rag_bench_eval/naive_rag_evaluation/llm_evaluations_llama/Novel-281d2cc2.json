@@ -1,0 +1,12 @@
+{
+  "id": "Novel-281d2cc2",
+  "question": "What is the link between Bode’s translation activity and the acceptance of the 'Koran' in Germany?",
+  "gold_answer": "Bode translated the 'Koran', which was accepted as genuine in Germany.",
+  "llm_answer": "There is no mention of the 'Koran' in the provided context. The text discusses Bode's translation activity, specifically his translation of Laurence Sterne's \"The Sentimental Journey,\" and its impact on the reception of Sterne's work in Germany.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not mention the 'Koran' or its acceptance in Germany, but it fails to address the User's Question or provide an answer related to Bode's translation of the 'Koran'. The Gold Answer explicitly states the link between Bode's translation of the 'Koran' and its acceptance in Germany, which the Model Answer does not address. While the Model Answer is faithful to the context, it does not contain the necessary information or facts to answer the question."
+  }
+}

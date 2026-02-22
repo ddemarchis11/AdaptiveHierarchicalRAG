@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003813",
+  "question": "The Sanders-Brown Center on Aging was funded by a grant from a businessman known for what restaurant chain?",
+  "gold_answer": "Kentucky Fried Chicken (KFC)",
+  "llm_answer": "The Sanders-Brown Center on Aging was funded by a grant from a businessman known for the Kentucky Fried Chicken (KFC) restaurant chain.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Kentucky Fried Chicken (KFC) as the restaurant chain associated with the businessman who funded the Sanders-Brown Center on Aging. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which explicitly mentions John Y. Brown Jr.'s involvement with KFC and the grant from his foundation."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0170eecb",
+  "question": "What types of musical instruments were found in the Kensington museum, such as the cither, harpsichord, clavichord, spinet, and virginal, and which cultures—like the North American Indians—are represented by the specimens in the museum's collection?",
+  "gold_answer": "The Kensington museum contained the cither, harpsichord, clavichord, spinet, virginal, and specimens of musical instruments of the North American Indians.",
+  "llm_answer": "Based on the provided evidence, the following types of musical instruments were found in the Kensington museum:\n\n1. Cither\n2. Harpsichord\n3. Clavichord\n4. Spinet\n5. Virginal\n6. Chitarrone\n\nAs for the cultures represented by the specimens in the museum's collection, the following are mentioned:\n\n1. North American Indians\n2. Asiatic nations (including Egypt and western Asia)\n3. Aztecs in Mexico\n4. Peruvians\n5. Chinese\n6. Tibetans (Buddhists)\n7. Indians (in Guatemala, central America)\n\nNote that the evidence does not provide information on the specific instruments found in the Kensington museum for all of these cultures.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the cither, harpsichord, clavichord, spinet, and virginal as instruments found in the Kensington museum, consistent with the Gold Answer. However, it adds 'chitarrone,' which is not explicitly stated in the context as being part of the Kensington museum's collection. Regarding cultures, the Model Answer lists several groups, including North American Indians, which aligns with the Gold Answer, but it also includes additional cultures (e.g., Aztecs, Peruvians, Chinese, Tibetans) without clear evidence that their instruments are part of the Kensington museum's collection. This diminishes faithfulness and evidence coverage, as the context does not confirm these additional claims."
+  }
+}

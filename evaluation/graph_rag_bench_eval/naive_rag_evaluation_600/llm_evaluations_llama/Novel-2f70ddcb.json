@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2f70ddcb",
+  "question": "What role did Capt. William Henry Acker have in the First Minnesota regiment?",
+  "gold_answer": "Capt. William Henry Acker organized a company for the First Minnesota regiment and was made captain of it.",
+  "llm_answer": "Capt. William Henry Acker was the captain of a company in the First Minnesota regiment. He was also the adjutant general of the State of Minnesota before resigning to join the regiment.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Capt. William Henry Acker as a captain in the First Minnesota regiment and mentions his prior role as adjutant general of Minnesota, which is supported by the context. However, it omits the key detail that he organized the company for the regiment, which is central to the Gold Answer. While the answer is faithful to the context, it does not fully cover the evidence required by the Gold Answer."
+  }
+}

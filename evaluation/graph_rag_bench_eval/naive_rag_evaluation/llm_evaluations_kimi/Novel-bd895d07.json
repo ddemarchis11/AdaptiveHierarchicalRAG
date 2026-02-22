@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bd895d07",
+  "question": "According to the CHILD'S HEALTH PRIMER, how does the body process food for use in growth and energy, specifically through the preparation of food by the stomach and the transportation of this food by the blood?",
+  "gold_answer": "The stomach prepares food, and food is carried by blood.",
+  "llm_answer": "The stomach turns the food into a gray fluid by mixing it with gastric juice. Once this fluid is ready, the blood picks it up and carries it to every part of the body, supplying the materials needed for growth and energy.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the process described in the Gold Answer, elaborating on how the stomach prepares food by turning it into a gray fluid with gastric juice and how the blood carries this prepared food to the body for growth and energy. This additional detail is supported by the retrieved context and aligns with the core meaning of the Gold Answer."
+  }
+}

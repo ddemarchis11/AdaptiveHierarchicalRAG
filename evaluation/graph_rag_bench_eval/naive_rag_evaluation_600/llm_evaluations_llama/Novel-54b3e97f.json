@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "According to the diary, the following individuals drank with Mr. Pepys during one of his social encounters:\n\n1. Greatorex: On June 2nd, Mr. Pepys had Greatorex over to his house, where they drank wine and ate anchovies while discussing mathematics.\n\n2. Mr. Salisbury: On June 31st, Mr. Pepys took Mr. Salisbury to Hercules Pillars to drink.\n\n3. Mr. Whore: Mr. Whore, a friend of Mr. Salisbury's, also joined them at Hercules Pillars to drink.\n\n4. Mr. Pechell, Sanchy, and others: On August 3rd, Mr. Pepys drank with Mr. Pechell, Sanchy, and others at the Rose in Cambridge.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not mention Mr. Starling, who is the individual specified in the Gold Answer as drinking with Mr. Pepys. Instead, it lists other individuals who drank with Mr. Pepys, none of whom are supported by the retrieved context as being relevant to the question. The answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

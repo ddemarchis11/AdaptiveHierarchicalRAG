@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bba0d522",
+  "question": "Which group or people are described by Du Chaillu in the narrative, as referenced in his observations within the text?",
+  "gold_answer": "Du Chaillu describes the Fans.",
+  "llm_answer": "The group or people described by Du Chaillu in the narrative are:\n\n1. The Ashangos: They are mentioned as a tribe in equatorial Africa that considers filing their front teeth in a sharp point a mark of beauty.\n2. The Otamo: They are mentioned as a tribe in equatorial Africa that files their front teeth in a sharp point.\n3. The Apossos: They are mentioned as a tribe in equatorial Africa that files their front teeth in a sharp point.\n4. The Fans: They are mentioned as a tribe in equatorial Africa that files their front teeth in a sharp point and are described as confirmed cannibals.\n5. The Damaras: They are mentioned as a native tribe of South-western Africa that uses their bow as a musical instrument.\n6. The African warriors: They are mentioned as wearing charmed leopard's skin around their middle, which is supposed to render them spear-proof.\n7. The African townspeople: They are mentioned as having small huts or shrines at the entrance of their villages, which contain a crucifix, an image of a saint, or a skull.\n8. The Yucatan villagers: They are mentioned as having small huts or shrines at the entrance of their villages, which contain a crucifix, an image of a saint, or a skull.\n9. The Mayas: They are mentioned as a great and powerful nation that had reached a high degree of civilization, and are compared to the African tribes in terms of their customs and traditions.\n10. The Caribs or Carians: They are mentioned as a tribe in South America that files their front teeth in a sharp point.\n11. The Nahualts and Aztecs: They are mentioned as introducing the custom of devouring the hearts of their fallen enemies to the Mayas.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies the Fans as the group described by Du Chaillu, while the Model Answer includes the Fans but also lists numerous other groups and tribes, some of which are not directly described by Du Chaillu in the retrieved context. This dilutes the focus on the Fans and introduces unsupported claims. While the Fans are mentioned, the inclusion of other groups reduces evidence coverage and faithfulness to the context."
+  }
+}

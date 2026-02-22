@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007092",
+  "question": "Are both American Zeitgeist and Michael Jackson's This Is It documentary films about entertainment?",
+  "gold_answer": "no",
+  "llm_answer": "Michael Jackson's This Is It is explicitly described as a documentary film about Michael Jackson's preparation for a planned concert residency, which falls under entertainment.  \nAmerican Zeitgeist is described as a 2006 documentary film that discusses the war on terror and religion; the evidence does not indicate it is about entertainment.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that 'Michael Jackson's This Is It' is about entertainment, while 'American Zeitgeist' is about the war on terror and religion, not entertainment. This aligns with the Gold Answer ('no') and is fully supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

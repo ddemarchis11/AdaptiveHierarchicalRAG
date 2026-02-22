@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4a90fe75",
+  "question": "In the novel, what is the name of the place that serves as the primary home for Toto and his grandmother throughout their adventures?",
+  "gold_answer": "Cottage",
+  "llm_answer": "The primary home for Toto and his grandmother is not explicitly stated in the provided text. However, based on the context, it appears to be a house or a cottage, likely in a forest or woodland area, given the presence of various woodland creatures such as the raccoon, squirrel, and bear.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies 'Cottage' as the primary home for Toto and his grandmother, but the Model Answer does not definitively state this and instead speculates about the setting being a house or cottage in a forest. The retrieved context does not explicitly confirm the term 'Cottage,' making the Model Answer unfaithful to the context. While the Model Answer partially aligns with the Gold Answer by suggesting a house or cottage, it fails to provide the exact term 'Cottage,' reducing evidence coverage."
+  }
+}

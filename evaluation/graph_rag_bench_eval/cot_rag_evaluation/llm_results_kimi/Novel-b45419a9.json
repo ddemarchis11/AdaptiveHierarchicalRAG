@@ -1,0 +1,42 @@
+{
+  "id": "Novel-b45419a9",
+  "question": "To whom did Muley Ismail direct his request during the historical interactions described in the text?",
+  "gold_answer": "Muley Ismail made a request to Louis XIV.",
+  "llm_answer": "Muley Ismail directed his request to Louis XIV.",
+  "context": [
+    {
+      "text": "The Shereefs have been accustomed to wrap themselves up in their sublime indifference, as to the fate and fortunes of Europe. During late centuries, their diplomatic intercourse with European princes has been scarcely relieved by a single interesting event, beyond their piratical wars and our complaisant redemptions of their prisoners. But, in the reign of Louis XIV., Muley Ismail having heard an extremely seductive account of the Princesse de Conti (Mademoiselle de Blois), natural daughter of the Grand Monarch and Mademoiselle de la Valliere, by means of his ambassador, Abdullah Ben Aissa, had the chivalrous temerity to demand her in marriage. \"Our Sultan,\" said the ambassador, \"will marry her according to the law of God and the Prophet, but she shall not be forced to abandon her religion, or manner of living; and she will be able to find all that her heart desires in the palace of my sovereign--if it please God.\" This request, of course, could not be granted, but the \"king of Christian kings\" replied very graciously, \"that the difference alone of religion prevented the consummation of the happiness of the Shereef of Shereefs.\" This humble demand of the hand of the princess mightily amused \"the Court of Courts,\" and its hireling poets taxed their wit to the utmost in chanting the praises of the royal virgin, who had attacked the regards (or the",
+      "id": "Novel-10356_c_37"
+    },
+    {
+      "text": "Muley Ismail, in 1727. 31. Muley Abdullah, in 1757. 32. Sidi Mohammed, in 1789. 33. Muley Yezeed, who assumed the surname of El-Mahdee _i.e._ \"the director,\" in 1792. 34. Muley Hisham, in 1794. 35. Muley Suleiman, in 1822. 36. Muley Abd Errahman, nephew of Muley Suleiman and eldest son of Muley Hisham, the reigning Shereefian prince. [5] In the Shereefian lineage of Muley Suleiman, copied for Ali Bey by the Emperor himself, and which is very meagre and unsatisfactory, we miss the names of the two brothers, the Princes Yezeed and Hisham, who disputed the succession on the death of their father, Sidi Mohammed which happened in April 1790 or 1789, when the Emperor was on a military expedition to quell the rebellion of his son, Yezeed--the tyrant whose bad fame and detestable cruelties filled with horror all the North African world. The Emperor Suleiman evidently suppressed these names, as disfiguring the lustre of the holy pedigree; although Yezeed was the hereditary prince, and succeeded his father",
+      "id": "Novel-10356_c_33"
+    },
+    {
+      "text": "men; but though the Maroquines were disaffected, groaning under the avarice of their Shereefian Lord, and occasionally do revolt, nevertheless they would not deliberately set aside the dynasty of the Shereefs, the veritable root and branch of the Prophet of God, for an adventurer of other blood, however powerful in arms and in sanctity. Morocco is the only independent Mussulman kingdom remaining, founded by the Saracens when they conquered North Africa. Tunis and Tripoli are regencies of the Port of Tunis, having an hereditary Bey, while Tripoli is a simple Pasha, removable at pleasure. Algeria has now become an integral portion of France by the Republic. Muley Abd Errahman was nominated to the throne by the solemn and dying request of his uncle, Muley Suleiman, to the detriment of his own children. He belonged to one of the most illustrious branches of the reigning dynasty. In the natural order of succession, he ought to have taken possession of the Shereefian crown at the end of the last age; but, being a child, his uncle was preferred; for Mahometan sovereigns and empire are exposed to convulsions enough, without the additional dangers and elements of strife attendant on regencies. In transmitting the sceptre to him, Muley Suleiman, therefore, only performed an act of justice. Muley Abd Errahman, during his long",
+      "id": "Novel-10356_c_25"
+    },
+    {
+      "text": "noble,\" died in 1437, was the first to assume this name, and had, after forty years elapsed, two sons, the first, Muley Mahommed, by a concubine, and the second: 25. Yousef, by a legitimate wife; he retired into Arabia, where he died in 1485. It was said of Yousef, that no child was born to him until his eightieth year, when he had five children, the first born of which was, 26. Ali, who died in 1527, and had at least, eighty male children. 27. Mohammed, in 1691, brother of Muley Meherrez, a famous brigand, and afterwards a king of Tafilett: this Mohammed was father of many children, and among the rest-- 28. Ali, who was called by his uncle from Zambo (?) into Moghrele-el-Aksa Morocco about the year 1620, and died in 1632, after having founded the second, and present, dynasty of the Hoseinee Shereefs, surnamed the _Filei_, 29. Muley Shereeff, died in 1652; he had eighty sons, and a hundred and twenty-four daughters. 30. Muley Ismail, in 1727. 31. Muley Abdullah, in 1757. 32. Sidi",
+      "id": "Novel-10356_c_32"
+    },
+    {
+      "text": "to him, Muley Suleiman, therefore, only performed an act of justice. Muley Abd Errahman, during his long reign, rendered the imperial authority more solid than formerly, and established a species of conservative government in a semi-barbarous country, and exposed to continual commotions, like all Asiatic and African states. In governing the multitudinous and heterogeneous tribes of his empire, his grand maxim has ever been, like Austria, with her various states and hostile interests of different people, \"Divide et empera.\" When will sovereigns learn to govern their people upon principles of homogenity of interests, natural good will, and fraternal feeling? Alas! we have reason to fear, never. It seems nations are to be governed always by setting up one portion of the people against the other. Muley Abd Errahman was chosen by his uncle, on account of his pacific and frugal habits, educated as he was by being made in early life the administrator of the customs in Mogador, and as a prince likely to preserve and consolidate the empire. The anticipations of the uncle have been abundantly realized by the nephew, for Muley Abd Errahman, with the exception of the short period of the French hostilities, (which was not his own work and happened in spite of him), has preserved the intact without, and quiet during the many years he has occupied the throne. His Moorish Majesty,",
+      "id": "Novel-10356_c_26"
+    }
+  ],
+  "cot_scratchpad": "- Muley Ismail demanded the Princesse de Conti in marriage (Novel-10356_c_37)\n- The request went through his ambassador, Abdullah Ben Aissa (Novel-10356_c_37)\n- The reply came from Louis XIV, \"king of Christian kings\" (Novel-10356_c_37)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "To whom did Muley Ismail direct his request during the historical interactions described in the text?",
+      "doc_ids": [
+        "Novel-10356_c_37",
+        "Novel-10356_c_33",
+        "Novel-10356_c_25",
+        "Novel-10356_c_32",
+        "Novel-10356_c_26"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-48c2f6ad",
+  "question": "How did the Portuguese and French actions affect the cities of Mazagran and Mogador?",
+  "gold_answer": "The Portuguese abandoned Mazagran, while the French bombarded Mogador.",
+  "llm_answer": "The Portuguese rebuilt Mazagran’s castle in 1506 and held the town until 1769, when they abandoned it; this long occupation left the place with thick defensive walls and a small port.  \nMogador is mentioned only as having “already been described,” so the text itself supplies no information about any French (or Portuguese) impact on that city.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that the Portuguese abandoned Mazagran, aligning with the Gold Answer. However, it fails to address the French bombardment of Mogador, which is a key part of the Gold Answer. Additionally, the claim that Mogador is only mentioned as 'already described' is not fully supported by the retrieved context, which does not explicitly confirm or deny French actions. Thus, the answer is partially correct and partially faithful, but misses full evidence coverage."
+  }
+}

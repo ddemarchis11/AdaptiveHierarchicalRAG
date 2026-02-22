@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0d21d2d6",
+  "question": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+  "gold_answer": "Brindle Bill did not believe Rose.",
+  "llm_answer": "Brindle Bill expressed disbelief toward Sundown Hill during the discussion about the inheritance and family matters.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Sundown Hill as the character Brindle Bill expressed disbelief toward, whereas the Gold Answer correctly states that Brindle Bill did not believe Rose. The retrieved context supports the Gold Answer, as it mentions Brindle Bill's skepticism about Rose Simon being the heir. The Model Answer is neither correct nor grounded in the provided context, and it fails to cover the key fact from the Gold Answer."
+  }
+}

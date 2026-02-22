@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0d21d2d6",
+  "question": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+  "gold_answer": "Brindle Bill did not believe Rose.",
+  "llm_answer": "Brindle Bill expressed disbelief toward Simon, when he said \"The balance of them children is dead, Simon,\" implying that he did not believe that the other children from the orphan children were still alive.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Simon as the character Brindle Bill expressed disbelief toward, whereas the Gold Answer states it was Rose. Additionally, the context does not support the claim that Brindle Bill expressed disbelief toward Simon regarding the orphan children. The Model Answer fails to align with the Gold Answer and the retrieved context."
+  }
+}

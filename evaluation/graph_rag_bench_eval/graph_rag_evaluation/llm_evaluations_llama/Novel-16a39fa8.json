@@ -1,0 +1,12 @@
+{
+  "id": "Novel-16a39fa8",
+  "question": "According to the narrative, what literary works was C. A. S. HALL engaged with, specifically mentioning her reading of 'Prometheus Bound' and her work on 'Prometheus Unbound'?",
+  "gold_answer": "C. A. S. HALL was working on 'Prometheus Unbound' and read 'Prometheus Bound.'",
+  "llm_answer": "I cannot find any information about C. A. S. HALL reading 'Prometheus Bound' or working on 'Prometheus Unbound'.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that there is no information in the retrieved context about C. A. S. HALL reading 'Prometheus Bound' or working on 'Prometheus Unbound'. However, it fails to answer the question as per the Gold Answer, which explicitly states that C. A. S. HALL was engaged with these works. The retrieved context does not provide evidence to support the Gold Answer, so the Model Answer is faithful to the context but does not align with the Gold Answer or cover its key facts."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006351",
+  "question": "In what league does the team play that has Marko Dmitrović as a player ?",
+  "gold_answer": "La Liga",
+  "llm_answer": "La Liga",
+  "context": [
+    {
+      "text": "Honours Újpest Magyar Kupa : 2013–14 Sevilla UEFA Europa League : 2022–23 Individual La Liga Save of the Month : September 2024 , December 2024 References External links Wikimedia Commons has media related to Marko Dmitrović . Marko Dmitrović at BDFutbol Marko Dmitrović at Magyar Labdarúgó Szövetség (MLSZ) (in Hungarian) Marko Dmitrović at Hivatásos Labdarúgók Szervezete (HLSZ) [ hu ] (in Hungarian) Marko Dmitrović at Soccerway ( archive )",
+      "id": "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_3"
+    },
+    {
+      "text": "Marko Dmitrović ( Serbian Cyrillic : Марко Дмитровић , pronounced [mâːrko dmîtroʋitɕ] ; born 24 January 1992) is a Serbian professional footballer who plays for La liga club Espanyol as a goalkeeper . He has also previously played for the Serbia national team . Club career Red Star Belgrade and Újpest Born in Subotica , Dmitrović was a Red Star Belgrade youth graduate, being promoted to the main squad in 2010.  On 3 September 2013, after not making appearances for its senior team, he moved to Nemzeti Bajnokság I club Újpest FC in Hungary. Dmitrović made his professional debut on 1 March 2014, starting in a 3–2 away loss against Budapest Honvéd FC .  He finished the campaign with 12 appearances, as his side narrowly avoided relegation  Charlton Athletic On 6 January 2015, Dmitrović signed an 18-month contract with Charlton Athletic for an undisclosed fee. He made his debut for the club on 24 January, starting in a goalless away draw against Wolverhampton Wanderers . Alcorcón and Eibar On 27 July 2015, Dmitrović moved to Spanish Segunda División club AD Alcorcón on",
+      "id": "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_0"
+    },
+    {
+      "text": "and Eibar On 27 July 2015, Dmitrović moved to Spanish Segunda División club AD Alcorcón on a-year loan. The following year on 7 July, after being an undisputed starter, he signed a permanent three-year contract with the club. On 23 June 2017, Dmitrović signed a four-year contract with SD Eibar in La Liga . He made his debut in the category on 21 August, starting in a 1–0 away victory against Málaga CF . In May 2018, Dmitrović was elected for the best player of SD Eibar for the 2017–18 season . On 21 January 2021, he scored the first goal of his career from the penalty spot in a 2–1 defeat against Atlético Madrid . Later career On 4 July 2021, Dmitrović was announced as a new signing on a free agent contract by Sevilla , with a deal that ran until 2025. On 23 February 2023, he was attacked by a pitch invader whilst playing away at PSV Eindhoven in the Europa League. His attacker was already banned from all stadiums by the Royal Dutch Football Association until 2026, but entered the Philips Stadion on a friend's ticket. The man was jailed for three months, then banned from the stadium for 40 years and from its surroundings for two years. On",
+      "id": "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_1"
+    },
+    {
+      "text": "friend's ticket. The man was jailed for three months, then banned from the stadium for 40 years and from its surroundings for two years. On 11 August 2024, Dmitrović joined newly-promoted Leganés on a free transfer. In a league match against Getafe on 22 September, he made a save with the tip of his fingers to deny Mauro Arambarri , which would later win the La Liga Save of the Month award for September. On 15 December, he made a crucial stop to keep out Raphinha 's shot in a match against Barcelona that earned him the second accolade for December. On 19 June 2025, Dmitrović joined RCD Espanyol to replace departing Joan García . International career In August 2016, Dmitrović was named in Serbia 's squad for a 2018 FIFA World Cup qualifier against the Republic of Ireland . He debuted on 14 November 2017 in a friendly match against South Korea . Dmitrović was selected in Serbia's squads for the 2018 , where he was unused backup to Vladimir Stojković , and 2022 FIFA World Cups. Career statistics Club As of match played 22 December 2025 International As of match played 9 June 2022 Honours Újpest Magyar Kupa : 2013–14 Sevilla UEFA Europa League : 2022–23 Individual La Liga",
+      "id": "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_2"
+    },
+    {
+      "text": "The alternate logo of the AHL The American Hockey League ( AHL ) is a professional ice hockey league in North America that serves as the primary developmental league of the National Hockey League (NHL). The league comprises 32 teams, with 26 in the United States and 6 in Canada . As of the 2025–26 AHL season , all 32 NHL teams held affiliations with an AHL team. Historically, when an NHL team does not have an AHL affiliate, its players are assigned to AHL teams affiliated with other NHL franchises. The league offices are located in Springfield, Massachusetts , and its current president is Scott Howson . A player must be at least 18 years of age and not belong to a junior ice hockey team to be eligible. The league limits the number of experienced professional players in a team's lineup during any given game; a team may dress a maximum of six skaters who are both 25 years old (or older) by July 1 of the current season and have accumulated more than 260 regular season games played across the National Hockey League, American Hockey League, Kontinental Hockey League , or the six founding leagues of the Champions Hockey League . Goaltenders are exempt from this rule, and games played in the European Elite Leagues before and during a player's final U-20 year will not count towards the Veteran Rule qualifications. The annual playoff champion is awarded the Calder Cup , named for Frank Calder , the first president",
+      "id": "HotpotQA-validation-00004939/01_American-Hockey-League.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Marko Dmitrović plays for RCD Espanyol (HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_0).\n- Espanyol is a La Liga club (HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_0).\n- Therefore, Espanyol currently competes in La Liga.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what league does the team play that has Marko Dmitrović as a player ?",
+      "doc_ids": [
+        "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_3",
+        "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_0",
+        "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_1",
+        "HotpotQA-validation-00006351/00_Marko-Dmitrovi.html_c_2",
+        "HotpotQA-validation-00004939/01_American-Hockey-League.html_c_0"
+      ]
+    }
+  ]
+}

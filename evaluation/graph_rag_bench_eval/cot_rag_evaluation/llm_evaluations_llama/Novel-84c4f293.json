@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c4f293",
+  "question": "For which guests did Mr. Pepys arrange a special collation during the events described in his diary?",
+  "gold_answer": "Mr. Pepys had a collation for Sir Williams.",
+  "llm_answer": "Based on the provided evidence, Mr. Pepys arranged a special collation for the following guests:\n\n1. Sir Williams (both of them) and his wife, and Mrs. Margarett Pen (on August 1st, 1661, at Walthamstow)\n2. Some ladies, his father, and mother (on August 2d, 1661, at his cozen, Thos. Pepys' house)\n3. Sir Williams (both of them), Captain Allen, his daughter Rebecca, and Mr. Hempson (on June 23rd, 1661, at his home)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies that Mr. Pepys arranged a collation for 'Sir Williams,' which is supported by the context. The Model Answer correctly identifies this but also includes additional guests and events that are not explicitly tied to the question or supported by the retrieved context. While some of these details are grounded in the context, they are not directly relevant to the specific question about the collation for Sir Williams, leading to partial correctness and faithfulness. Evidence coverage is also partial as the core fact about 'Sir Williams' is included, but extraneous details dilute the focus."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8217a825",
+  "question": "According to the narrative's description of coastal towns, near which location is the town of Falmouth situated?",
+  "gold_answer": "Falmouth is located near FLUSHING.",
+  "llm_answer": "The narrative does not mention the town of Falmouth. It does mention several coastal towns in North Africa, such as Melilla, Tetuan, Tangier, and Salee, but Falmouth is not mentioned.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the narrative does not mention Falmouth, while the Gold Answer specifies that Falmouth is located near Flushing. The retrieved context does not provide information about Falmouth or Flushing, so the Model Answer is faithful to the context but fails to answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

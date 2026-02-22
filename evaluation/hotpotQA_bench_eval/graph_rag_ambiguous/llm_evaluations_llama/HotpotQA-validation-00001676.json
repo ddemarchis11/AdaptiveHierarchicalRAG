@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001676",
+  "question": "Between a genus of flowering shrubs and small trees distributed across tropical and subtropical regions worldwide and a genus of trees and shrubs known for their fragrant resinous bark, which encompasses the greater number of species?",
+  "gold_answer": "Myrsine",
+  "llm_answer": "I'm unable to answer the question as it is not fully supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer fails to address the question and does not utilize the retrieved context to determine which genus encompasses the greater number of species. The correct answer, 'Myrsine,' is supported by the context, which states that Myrsine contains over 280 species, a fact not acknowledged or utilized by the model."
+  }
+}

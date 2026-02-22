@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002238",
+  "question": "In what ecclesiastical province is Stephen Conway currently part of?",
+  "gold_answer": "Province of Canterbury",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect. The retrieved context explicitly mentions that the Diocese of Salisbury, led by Stephen Lake, is part of the ecclesiastical Province of Canterbury. Therefore, the Model Answer fails to provide the correct information, is not grounded in the context, and does not cover the key fact from the Gold Answer."
+  }
+}

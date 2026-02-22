@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006147",
+  "question": "Who was born last, Dave Peverett or Jang Hyun-seung?",
+  "gold_answer": "Jang Hyun-seung",
+  "llm_answer": "Jang Hyun-seung was born on September 3, 1989.  \nDave Peverett's birth date is not provided in the evidence.  \n\nInsufficient evidence to determine who was born last.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies Jang Hyun-seung's birth date as September 3, 1989, which is supported by the context. However, it fails to provide information about Dave Peverett's birth date, which is necessary to answer the question fully. The retrieved context does not include Peverett's birth date, so the model's claim of insufficient evidence is partially grounded but incomplete. The Gold Answer directly states Jang Hyun-seung was born last, which the model does not confirm due to missing information."
+  }
+}

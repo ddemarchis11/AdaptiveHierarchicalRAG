@@ -1,0 +1,68 @@
+{
+  "id": "Novel-6d2a190d",
+  "question": "During the diplomatic interactions noted in Samuel Pepys's diary, which foreign envoy took leave of the King?",
+  "gold_answer": "The Portuguese Embassador took leave of the King.",
+  "llm_answer": "The foreign envoy who took leave of the King is not explicitly mentioned in the provided evidence.",
+  "context": [
+    {
+      "text": "and like a man that is drunk, and sometimes speechless. Home, and after my singing master had done, took coach and went to Sir William Davenant's Opera; this being the fourth day that it hath begun, and the first that I have seen it. To-day was acted the second part of \"The Siege of Rhodes.\" We staid a very great while for the King and the Queen of Bohemia. And by the breaking of a board over our heads, we had a great deal of dust fell into the ladies' necks and the men's hair, which made good sport. The King being come, the scene opened; which indeed is very fine and magnificent, and well acted, all but the Eunuch, who was so much out that he was hissed off the stage. Home and wrote letters to my Lord at sea, and so to bed. 3rd. To Westminster to Mr. Edward Montagu about business of my Lord's, and so to the Wardrobe, and there dined with my Lady, who is in some mourning for her brother, Mr. Saml. Crew, who died yesterday of the spotted fever. So home through Duck Lane' to inquire for some Spanish books, but found none that pleased me. So to the office, and that being done to Sir W. Batten's with the Comptroller, where we sat late talking and disputing with Mr. Mills the parson of our parish. This day",
+      "id": "Novel-4128_c_29"
+    },
+    {
+      "text": "I walked to Whitehall, and then went to Mr. Pierce's and sat with his wife a good while (who continues very pretty) till he came, and then he and I, and Mr. Symons (dancing master), that goes to sea with my Lord, to the Swan tavern, and there drank, and so again to White Hall, and there met with Dean Fuller, and walked a great while with him; among other things discoursed of the liberty the Bishop (by name the of Galloway) takes to admit into orders any body that will; among others, Roundtree, a simple mechanique that was a person [parson ?] formerly in the fleet. He told me he would complain of it. By and by we went and got a sculler, and landing him at Worcester House, I and W. Howe, who came to us at Whitehall, went to the Wardrobe, where I met with Mr. Townsend, who is very willing he says to communicate anything for my Lord's advantage to me as to his business. I went up to Jane Shore's towre, and there W. Howe and I sang, and so took my wife and walked home, and so to bed. After I came home a messenger came from my Lord to bid me come to him tomorrow morning. 10th. Early to my Lord's, who privately told me how the King had made him Embassador in the bringing over the Queen.",
+      "id": "Novel-4128_c_9"
+    },
+    {
+      "text": "and so came to some ease I would fain have stolen a pretty dog that followed me Instructed by Shakespeare himself King, Duke and Duchess, and Madame Palmer, were Lady Batten how she was such a man's whore Lately too much given to seeing of plays, and expense Lewdness and beggary of the Court Look askew upon my wife, because my wife do not buckle to them None will sell us any thing without our personal security given Quakers do still continue, and rather grow than lessen Sat before Mrs. Palmer, the King's mistress, and filled my eyes So the children and I rose and dined by ourselves Sorry in some respect, glad in my expectations in another respec The Alchymist,--Comedy by Ben Jonson The Lords taxed themselves for the poor--an earl, s. This week made a vow to myself to drink no wine this week Those absent from prayers were to pay a forfeit To be so much in love of plays Woman with a rod in her hand keeping time to the musique End of the Project Gutenberg EBook of Diary of Samuel Pepys, June/July/August 1661, by Samuel Pepys",
+      "id": "Novel-4128_c_84"
+    },
+    {
+      "text": "I found a letter from my Lord Sandwich, who is now very well again of his feaver, but not yet gone from Alicante, where he lay sick, and was twice let blood. This letter dated the 22nd July last, which puts me out of doubt of his being ill. In my coming home I called in at the Crane tavern at the Stocks by appointment, and there met and took leave of Mr. Fanshaw, who goes to-morrow and Captain Isham toward their voyage to Portugal. Here we drank a great deal of wine, I too much and Mr. Fanshaw till he could hardly go. So we took leave one of another. 27th. This morning to the Wardrobe, and there took leave of my Lord Hinchingbroke and his brother, and saw them go out by coach toward Rye in their way to France, whom God bless. Then I was called up to my Lady's bedside, where we talked an hour about Mr. Edward Montagu's disposing of the L5000 for my Lord's departure for Portugal, and our fears that he will not do it to my Lord's honour, and less to his profit, which I am to enquire a little after. Hence to the office, and there sat till noon, and then my wife and I by coach to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry,",
+      "id": "Novel-4128_c_76"
+    },
+    {
+      "text": "and spoke with Mr. Shaw at the Alderman's, who offers me L300 if my Lord pleases to buy this cloth with, which pleased me well. So to the Wardrobe and got my Lord to order Mr. Creed to imprest so much upon me to be paid by Alderman Backwell. So with my Lord to Whitehall by water, and he having taken leave of the King, comes to us at his lodgings and from thence goes to the garden stairs and there takes barge, and at the stairs was met by Sir R. Slingsby, who there took his leave of my Lord, and I heard my Lord thank him for his kindness to me, which Sir Robert answered much to my advantage. I went down with my Lord in the barge to Deptford, and there went on board the Dutch yacht and staid there a good while, W. Howe not being come with my Lord's things, which made my Lord very angry. By and by he comes and so we set sayle, and anon went to dinner, my Lord and we very merry; and after dinner I went down below and there sang, and took leave of W. Howe, Captain Rolt, and the rest of my friends, then went up and took leave of my Lord, who give me his hand and parted with great respect. So went and Captain Ferrers with me into our wherry, and my Lord did give five guns, all they had",
+      "id": "Novel-4128_c_14"
+    },
+    {
+      "text": "Produced by David Widger THE DIARY OF SAMUEL PEPYS M.A. F.R.S. CLERK OF THE ACTS AND SECRETARY TO THE ADMIRALTY TRANSCRIBED FROM THE SHORTHAND MANUSCRIPT IN THE PEPYSIAN LIBRARY MAGDALENE COLLEGE CAMBRIDGE BY THE REV. MYNORS BRIGHT M.A. LATE FELLOW AND PRESIDENT OF THE COLLEGE (Unabridged) WITH LORD BRAYBROOKE'S NOTES EDITED WITH ADDITIONS BY HENRY B. WHEATLEY F.S.A. DIARY OF SAMUEL PEPYS. JUNE, JULY & AUGUST 1661 June 1st. Having taken our leaves of Sir W. Batten and my Lady, who are gone this morning to keep their Whitsuntide, Sir W. Pen and I and Mr. Gauden by water to Woolwich, and there went from ship to ship to give order for and take notice of their forwardness to go forth, and then to Deptford and did the like, having dined at Woolwich with Captain Poole at the tavern there. From Deptford we walked to Redriffe, calling at the half-way house, and there come into a room where there was infinite of new cakes placed that are made against Whitsuntide, and there we were very merry. By water home, and there did businesses of the",
+      "id": "Novel-4128_c_0"
+    }
+  ],
+  "cot_scratchpad": "- The question is about a foreign envoy taking leave of the King.\n- The current evidence is from Samuel Pepys's diary.\n- The diary mentions Sir W. Batten and his wife, Lady Batten.\n- The diary also mentions the King's mistress, Madame Palmer.\n- The King's mistress is mentioned in the context of the King's presence.\n- (Novel-4128_c_84)\n- The question is about a foreign envoy taking leave of the King.\n- The current evidence is from Samuel Pepys's diary.\n- The diary mentions Sir W. Batten and his wife, Lady Batten.\n- The diary also mentions the King's mistress, Madame Palmer.\n- The King's mistress is mentioned in the context of the King's presence.\n- The King took leave of my Lord.\n- The question is about a foreign envoy taking leave of the King.\n- The current evidence is from Samuel Pepys's diary.\n- The diary mentions Sir R. Slingsby taking leave of my Lord.\n- The King took leave of my Lord.\n- The King's mistress is mentioned in the context of the King's presence.\n- (Novel-4128_c_14)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "During the diplomatic interactions noted in Samuel Pepys's diary, which foreign envoy took leave of the King?",
+      "doc_ids": [
+        "Novel-4128_c_84",
+        "Novel-4128_c_0",
+        "Novel-4128_c_49",
+        "Novel-4128_c_22",
+        "Novel-4128_c_28"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Which foreign envoy met the King at Sir W. Batten's",
+      "doc_ids": [
+        "Novel-4128_c_29",
+        "Novel-4128_c_14",
+        "Novel-4128_c_63",
+        "Novel-4128_c_62",
+        "Novel-4128_c_71"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Which foreign envoy took leave of my Lord at Whitehall",
+      "doc_ids": [
+        "Novel-4128_c_14",
+        "Novel-4128_c_9",
+        "Novel-4128_c_76",
+        "Novel-4128_c_55",
+        "Novel-4128_c_15"
+      ]
+    }
+  ]
+}

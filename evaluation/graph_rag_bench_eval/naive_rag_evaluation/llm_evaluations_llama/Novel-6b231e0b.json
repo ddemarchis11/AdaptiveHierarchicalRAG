@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b231e0b",
+  "question": "What is the connection between Kynance and Cornwall as established by the narrative chains?",
+  "gold_answer": "Kynance Cove, which includes Kynance and the feature Devil's Throat, is in Cornwall.",
+  "llm_answer": "The connection between Kynance and Cornwall is established by the narrative as a picturesque location along the coast of Cornwall. The narrator describes the area as having a \"ticklish path\" with white-washed rocks to guide fishermen at night, and mentions that the coast-guard men are stationed there to save lives. The area is also associated with shipwrecks, with the narrator mentioning that every half-mile along the shore is recorded the place where some good ship went to pieces, often with the loss of all hands.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed description of Kynance and its connection to Cornwall, mentioning its picturesque nature, the white-washed rocks, coast-guard activities, and shipwrecks. However, it does not explicitly mention Kynance Cove or the feature Devil's Throat, which are central to the Gold Answer. While the details provided are partially grounded in the context, some claims, such as the coast-guard men saving lives, are not directly supported by the retrieved context."
+  }
+}

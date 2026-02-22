@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006109",
+  "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+  "gold_answer": "Anne Perry",
+  "llm_answer": "The given name of the character depicted as Juliet Hulme in Heavenly Creatures is Juliet.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the given name of the character depicted as Juliet Hulme in Heavenly Creatures is 'Juliet,' which is not accurate. The Gold Answer specifies 'Anne Perry,' which is supported by the Retrieved Context. The Model Answer fails to provide the correct information, is not grounded in the context, and does not cover the key fact from the Gold Answer."
+  }
+}

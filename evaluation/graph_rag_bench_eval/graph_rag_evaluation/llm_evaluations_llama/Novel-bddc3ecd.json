@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bddc3ecd",
+  "question": "In which two cities are the offices of the publisher A. S. BARNES & COMPANY located, as stated in the publication details of the CHILD'S HEALTH PRIMER?",
+  "gold_answer": "A. S. BARNES & COMPANY has offices in NEW YORK and CHICAGO.",
+  "llm_answer": "I couldn't find any information about the offices of A. S. BARNES & COMPANY in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not contain information about the offices of A. S. BARNES & COMPANY. However, it fails to answer the question using internal knowledge or external grounding, which is expected when the context is irrelevant. The Gold Answer specifies the cities (New York and Chicago), but the Model Answer does not provide this information, leading to a score of 0 for correctness and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-adf818a2",
+  "question": "In which play did W. H. Denny perform as an actor, contributing to its comic success?",
+  "gold_answer": "Dandy Dick",
+  "llm_answer": "The play in which W. H. Denny performed as an actor, contributing to its comic success, is \"Dandy Dick\".",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Dandy Dick' as the play in which W. H. Denny performed, contributing to its comic success. This is fully supported by the retrieved context, which explicitly mentions W. H. Denny's role in the play and its success. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

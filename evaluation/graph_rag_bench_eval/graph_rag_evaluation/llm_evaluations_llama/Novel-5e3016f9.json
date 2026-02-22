@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e3016f9",
+  "question": "In the CHILD'S HEALTH PRIMER, what is the relationship between the heart and blood in distributing nutrients, specifically how does the heart pump blood and how does the blood carry food throughout the body?",
+  "gold_answer": "The heart pumps blood, and blood carries food.",
+  "llm_answer": "The heart pumps blood through tubes, shaped like hose, which lead by thousands of little branches all through the body. The blood takes up the prepared food from the stomach and carries it to every part of the body, leaving with each part just what it needs.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the relationship between the heart and blood in distributing nutrients, aligning with the Gold Answer. It elaborates on how the heart pumps blood through tubes and how the blood carries food to every part of the body, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded in the context."
+  }
+}

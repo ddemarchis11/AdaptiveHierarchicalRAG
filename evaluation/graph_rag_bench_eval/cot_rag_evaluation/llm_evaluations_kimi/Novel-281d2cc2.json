@@ -1,0 +1,12 @@
+{
+  "id": "Novel-281d2cc2",
+  "question": "What is the link between Bode’s translation activity and the acceptance of the 'Koran' in Germany?",
+  "gold_answer": "Bode translated the 'Koran', which was accepted as genuine in Germany.",
+  "llm_answer": "The evidence shows that a 1778 translation of the “Koran” (ascribed—though not with absolute certainty—to Bode) was accepted in Germany as a genuine work by Sterne: the *Almanach der deutschen Musen* praised it, the *Allgemeine deutsche Bibliothek* treated it as authentic, and it was reprinted in Sammer’s collected Sterne edition. Thus Bode’s translation activity is linked to the acceptance of the “Koran” in Germany by providing a version that was received as part of Sterne’s oeuvre.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the link between Bode's translation activity and the acceptance of the 'Koran' in Germany, stating that the translation was treated as a genuine work by Sterne and widely accepted. It provides additional details about the reception of the translation, such as praise from specific publications and its inclusion in a collected edition, all of which are supported by the retrieved context. The core meaning of the Gold Answer is fully contained, and the Model Answer expands on it with relevant and grounded information."
+  }
+}

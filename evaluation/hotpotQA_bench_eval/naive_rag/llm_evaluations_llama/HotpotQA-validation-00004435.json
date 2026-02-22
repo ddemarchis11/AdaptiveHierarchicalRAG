@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004435",
+  "question": "Who wrote Bring Me Sunshine and where did they write it?",
+  "gold_answer": "Bring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe",
+  "llm_answer": "The answer to the question \"Who wrote Bring Me Sunshine and where did they write it?\" is insufficient with the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not provide any information about who wrote 'Bring Me Sunshine' or where it was written. It simply states that the evidence is insufficient, which does not address the question. The retrieved context does not contain relevant information to answer the question either."
+  }
+}

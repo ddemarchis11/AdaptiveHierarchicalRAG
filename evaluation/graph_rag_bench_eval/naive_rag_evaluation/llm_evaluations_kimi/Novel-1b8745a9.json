@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1b8745a9",
+  "question": "To whom did Angeline Hall plead during a difficult financial and personal period in her marriage, as she and her husband faced hardship?",
+  "gold_answer": "Angeline pleaded with Asaph Hall.",
+  "llm_answer": "She pleaded with her sister Charlotte.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Angeline Hall pleaded with her sister Charlotte, whereas the Gold Answer specifies that she pleaded with Asaph Hall. The retrieved context does not support the claim made by the Model Answer, and it fails to include the key fact from the Gold Answer."
+  }
+}

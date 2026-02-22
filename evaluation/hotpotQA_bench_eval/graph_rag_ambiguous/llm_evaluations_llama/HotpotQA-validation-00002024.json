@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002024",
+  "question": "In which northern English town does the Northern Irish comedian who hosted a long-running ITV variety series in the 1980s currently reside?",
+  "gold_answer": "Rochdale",
+  "llm_answer": "I cannot verify the current residence of the Northern Irish comedian.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct answer, 'Rochdale,' as stated in the Gold Answer. Additionally, the retrieved context does not explicitly confirm the residence of Jimmy Cricket in Rochdale, but the Model Answer does not attempt to use the context or provide any relevant information. Therefore, it scores zero across all metrics."
+  }
+}

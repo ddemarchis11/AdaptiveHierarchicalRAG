@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ef65fa4f",
+  "question": "In the narrative, which group is described as having customs similar to those of the inhabitants of Yucatan, based on the comparison of cultural practices?",
+  "gold_answer": "The Carians had customs similar to those of the inhabitants of Yucatan.",
+  "llm_answer": "Based on the comparison of cultural practices, the group described as having customs similar to those of the inhabitants of Yucatan is the Carians (also referred to as Carib or Carians).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Carians as the group with customs similar to those of the inhabitants of Yucatan, aligning with the Gold Answer and the Retrieved Context. It also includes the alternative names 'Carib or Carians,' which are supported by the context, providing additional relevant detail without introducing unsupported information."
+  }
+}

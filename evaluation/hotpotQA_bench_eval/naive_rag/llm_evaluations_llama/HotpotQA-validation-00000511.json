@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000511",
+  "question": "What was the nationality of the actor playing a Russian hostage taker in \"Hostage for a Day\"?",
+  "gold_answer": "Canadian",
+  "llm_answer": "The nationality of the actor playing a Russian hostage taker in \"Hostage for a Day\" is not explicitly mentioned in the provided evidence. However, it is mentioned that the actor, John Candy, was Canadian.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the nationality of John Candy, the actor playing the Russian hostage taker, as Canadian. This information is supported by the retrieved context, which mentions John Candy's Canadian nationality. The answer is accurate, faithful to the context, and includes all relevant facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006617",
+  "question": "What role was the English actress. who starred in The Priory known for",
+  "gold_answer": "Sarah Hurst in \"Easy Virtue\"",
+  "llm_answer": "The evidence does not specify what role the English actress who starred in *The Priory* was known for.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the role, which is incorrect. The context clearly mentions Charlotte Riley as Sarah Hurst in 'Easy Virtue,' which matches the Gold Answer. The Model Answer fails to provide the correct information despite it being present in the retrieved context."
+  }
+}

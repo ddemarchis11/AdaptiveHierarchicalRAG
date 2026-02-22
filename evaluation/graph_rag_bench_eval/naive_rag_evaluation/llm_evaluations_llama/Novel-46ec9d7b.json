@@ -1,0 +1,12 @@
+{
+  "id": "Novel-46ec9d7b",
+  "question": "According to the subgraphs, what are the various uses of trees, and what products are made from them?",
+  "gold_answer": "Sugar Maple is used for making furniture, trees are used for cooking victuals and to keep us warm, and sugar is made from Sugar Maple.",
+  "llm_answer": "Based on the provided text, the various uses of trees and the products made from them are as follows:\n\n1. **Sugar Maple**: \n   - Provides shade from the heat of the sun.\n   - Used for making sugar from its sap.\n   - Used for making furniture (tables, bureaus, etc.).\n   - Used for making boards for various purposes.\n   - Used for cooking and keeping warm.\n   - The ashes from the tree are used to make potash, which is then used to make glass.\n\n2. **Tobacco**:\n   - Used to make tobacco cakes.\n   - Used to make cigars.\n   - Used to make snuff.\n\n3. **Other trees**:\n   - The **Platanus occidentalis** (sycamore, button-wood, or plane tree) is used for its wood.\n   - The **redwood tree of California** is used for its wood, and its commercial products (such as tar) are exhibited.\n   - The **long-leaved pine** is used for its tar, and its commercial products are exhibited.\n\n4. **General uses of trees**:\n   - Trees are used for making furniture, boards, and other products.\n   - Trees are used for cooking and keeping warm.\n   - Trees are used to make glass and other products from their ashes.\n   - Trees are used to make various commercial products, such as tar and snuff.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed list of uses and products derived from trees, but it includes information not directly supported by the retrieved context, such as tobacco-related products and uses of other trees like sycamore and redwood. While the core uses of Sugar Maple (furniture, sugar, cooking, warmth) are mentioned, the additional details dilute the focus and introduce unsupported claims. The Gold Answer is more concise and focused on Sugar Maple, which the Model partially addresses but misses some nuances."
+  }
+}

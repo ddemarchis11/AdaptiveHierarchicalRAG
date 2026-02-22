@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4bbd03a5",
+  "question": "What specific steps did Elsie Inglis take to ensure the operational effectiveness and safety of medical aid provided by the Scottish Women's Hospitals in Serbia, as demonstrated by her stipulations with the Foreign Office, the Foreign Office's assurances of her safety, and the role of American support?",
+  "gold_answer": "Elsie Inglis secured safety guarantees from the Foreign Office, assembled support teams, and coordinated international aid to facilitate the Scottish Women's Hospitals' work in Serbia.",
+  "llm_answer": "Dr. Elsie Inglis secured the Foreign Office’s agreement to the all-women hospital scheme by formally accepting every safety-related stipulation it imposed; in return the Foreign Office repeatedly assured home committees that it would expedite the unit’s withdrawal “at the safest hour,” thereby guaranteeing its protection.  \nTo keep the Serbian hospitals running she dispatched urgent “dire necessity” cables for extra doctors and nurses, rushed forward drugs and equipment, and, once in Serbia, bargained locally for essential items such as medical scales.  \nAmerican support was channelled through Miss Burke, whom Inglis personally recruited and sent to the United States to raise funds; the money collected in America paid for additional staff and supplies that maintained the hospitals’ operational effectiveness.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing Elsie Inglis's efforts to secure safety guarantees from the Foreign Office, coordinate international aid, and ensure operational effectiveness through urgent requests and local bargaining. It also includes the role of American support, which is grounded in the retrieved context. The additional details provided are relevant, supported by the context, and enhance the understanding of her actions without contradicting the Gold Answer."
+  }
+}

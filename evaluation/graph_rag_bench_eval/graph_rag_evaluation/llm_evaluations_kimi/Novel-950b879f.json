@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "The records show that Ruth shared Angeline’s educational ambitions, as the two women together “saved what they could from their paltry women’s wages” and even joked about dressing like men to earn factory wages so they could attend college. Their emotional bond is evident in Ruth’s letter, which Angeline preserved: Ruth writes that Angeline’s letter “seems just like you,” saying she can “almost immagin I can see you & hear you talk while I am reading,” underscoring their close, affectionate connection.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses Ruth's educational ambitions and emotional connection to Angeline but diverges from the Gold Answer. While it mentions their shared efforts to save for college and their emotional bond through preserved letters, it does not explicitly state Ruth's ability to complete the scientific course in two years or her loneliness without Angeline, as noted in the Gold Answer. Additionally, some claims about their financial struggles and preserved letters are not clearly supported by the retrieved context."
+  }
+}

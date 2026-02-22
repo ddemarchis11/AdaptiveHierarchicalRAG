@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005678",
+  "question": "Where does the founder of The International Grenfell Association act as a missionary to?",
+  "gold_answer": "Newfoundland and Labrador",
+  "llm_answer": "Sir Wilfred Grenfell acted as a missionary to the fisherman and coastal communities in northern Newfoundland and the coast of Labrador.",
+  "context": [
+    {
+      "text": "The International Grenfell Association ( IGA ) was an organization founded by Sir Wilfred Grenfell to provide health care, education, religious services, and rehabilitation and other social activities to the fisherman and coastal communities in northern Newfoundland and the coast of Labrador . It was originally a branch of the Royal National Mission to Deep Sea Fishermen and was widely known as the Grenfell Mission . Before 1892 there were no medical facilities or personnel along the coast of Labrador aside from a Moravian Mission that provided basic medical care and an occasional doctor that the Newfoundland government sent on a mail ship. Grenfell undertook a medical expedition in 1892 on the hospital ship the Albert . He saw medical and living conditions that appalled him, including settlements that had been wiped out by diphtheria . In response, he developed a network of regional hospitals and nursing stations. The first hospitals were built at Battle Harbour in 1893 and Indian Harbour in 1894. By the 1960s, the network had extended into the interior of Labrador. The IGA was incorporated in the Dominion of Newfoundland on January 10, 1914, under the Companies Act of 1899. In 2017, Canadian Prime Minister Justin Trudeau apologized for the treatment of children who, between 1949 and 1979, were separated from their families and sent to boarding schools run by the IGA. See also Grenfell Mission References External links The International Grenfell Association official website Archived",
+      "id": "HotpotQA-validation-00005678/00_International-Grenfell-Association.html_c_0"
+    },
+    {
+      "text": "up a plaque saying, \"Who gave their lives for me.\" By 1914 the mission had gained international status. In order to manage its property and affairs, the International Grenfell Association , a non-profit mission society, was founded to support Grenfell's work. The Association operated until 1981, as an NGO . It had responsibility for delivery of healthcare and social services in northern Newfoundland and Labrador. After 1981 a governmental agency, The Grenfell Regional Health Services Board took over the operational responsibility. The International Grenfell Association, having divested itself of all properties and operational responsibility for health and social services, boarding schools and hospitals then became a supporting association making grants and funding scholarships for medical training. For his years of service on behalf of the people of these communities he was later knighted by the King in 1927. In 1931, Grenfell had a small speaking role in the film, The Viking , in which he narrated the film's prologue and gave a brief statement of the tragic circumstances involving the film's production. During the production of the film, which was filmed on location in Newfoundland, producer Varick Frissell felt that the film needed more action sequences and set out on the ice floes to film them. During filming, the ship, SS Viking on which filming was taking place, exploded, killing Frissell and 27 others. Personal life He married Anne Elizabeth Caldwell MacClanahan (died 1938) of Chicago",
+      "id": "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_2"
+    },
+    {
+      "text": "from their families and sent to boarding schools run by the IGA. See also Grenfell Mission References External links The International Grenfell Association official website Archived 2014-04-30 at the Wayback Machine v t e",
+      "id": "HotpotQA-validation-00005678/00_International-Grenfell-Association.html_c_1"
+    },
+    {
+      "text": "The Grenfell I Knew . St. John's, NL: Flanker Press. ISBN 1-8944-6348-X . Rompkey, Ronald (May 2008). \"Grenfell, Sir Wilfred Thomason (1865–1940)\". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi : 10.1093/ref:odnb/33565 . (Subscription, Wikipedia Library access or UK public library membership required.) Rompkey, Ronald (2015) . \"Grenfell, Sir Wilfred Thomason\" . In Cook, Ramsay; Bélanger, Réal (eds.). Dictionary of Canadian Biography . Vol. XVI (1931–1940) (online ed.). University of Toronto Press . Shannahan, Colleen (2006). Mission! : the extraordinary adventures of Sir Wilfred Grenfell . St. John's, NL: Belle Isle Press. ISBN 0978131304 . External links Wikimedia Commons has media related to Wilfred Grenfell . English Wikisource has original works by or about: Wilfred Thomason Grenfell Grenfell Museum Properties International Grenfell Association Archived 30 April 2014 at the Wayback Machine Grenfell Photo Exhibit Town of St. Anthony - Grenfell's Town Works by Wilfred Grenfell at Project Gutenberg Works by Wilfred Grenfell at Faded Page (Canada) Works by or about Wilfred Grenfell at the Internet Archive Works by",
+      "id": "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_9"
+    },
+    {
+      "text": "killing Frissell and 27 others. Personal life He married Anne Elizabeth Caldwell MacClanahan (died 1938) of Chicago , Illinois , in 1909.  They had three children and retired to Vermont after his work in Newfoundland. They were married in 1909 and came to live in the Grenfell House (which they designed together) in St. Anthony, Newfoundland. Anne gave Dr. Grenfell's life comfort and refinement. She became totally involved in his work. She organized his fundraising tours and lectures, edited his books and helped secure scholarships for the children of the area to continue their education. Although Anne was ill towards the end of her life, she kept her pain hidden from her husband and took care of him until she died in 1938. Death and legacy Grenfell died of a coronary thrombosis at Kinloch House in Charlotte, Vermont on 9 October 1940. His ashes were brought to St Anthony , where they were placed inside a rock face overlooking the harbour. Postage issue of 1941 The Sir Wilfred Thomason Grenfell Historical Society was formed in 1978. The society purchased Grenfell's home in St. Anthony , Newfoundland and Labrador . The home has been restored as a museum and archives. The Sir Wilfred Thomason Grenfell Historical Society with the support of Provincial Government and the International Grenfell Association began construction of an interpretation centre in St. Anthony and it was opened in 1997.",
+      "id": "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- Sir Wilfred Grenfell founded The International Grenfell Association (Novel-00_International-Grenfell-Association.html_c_0).\n- Grenfell's missionary work focused on northern Newfoundland and Labrador coast (Novel-00_International-Grenfell-Association.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where does the founder of The International Grenfell Association act as a missionary to?",
+      "doc_ids": [
+        "HotpotQA-validation-00005678/00_International-Grenfell-Association.html_c_0",
+        "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_2",
+        "HotpotQA-validation-00005678/00_International-Grenfell-Association.html_c_1",
+        "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_9",
+        "HotpotQA-validation-00005678/01_Wilfred-Grenfell.html_c_3"
+      ]
+    }
+  ]
+}

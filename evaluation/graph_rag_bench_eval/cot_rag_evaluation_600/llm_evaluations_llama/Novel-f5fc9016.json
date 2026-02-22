@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "The figure or concept described as coming to the Poet is a Muse, specifically Elegy, who is personified as a woman with perfumed hair and a robe of humble texture.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that 'Tragedy came to the Poet,' which is not reflected in the Model Answer. The Model Answer incorrectly identifies Elegy as the figure coming to the Poet, which contradicts the Gold Answer and is not supported by the Retrieved Context. Additionally, the Model Answer fails to include the key fact from the Gold Answer, making it incorrect and unfaithful to the context."
+  }
+}

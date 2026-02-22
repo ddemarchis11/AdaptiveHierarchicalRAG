@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00006507",
+  "question": "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995?",
+  "gold_answer": "TD Garden",
+  "llm_answer": "The Sports Museum is a non-profit museum currently located in TD Garden, a multi-purpose arena that opened in 1995.",
+  "context": [
+    {
+      "text": "The Glace Bay Heritage Museum , or the Old Town Hall , is located in Glace Bay , Nova Scotia . The building, constructed in 1901, served as the town hall, billing centre, court, council chamber, fire station, police office, and jailhouse, before roughly 1989, when it was vacated and fell into disrepair as Glace Bay had joined the Cape Breton Regional Municipality . Starting in 1998, former teacher and sportsman Howard MacKinnon (1928–2019) and RCAF veteran and ex-Deputy Mayor Inglis MacAulay (1923–2017) formed the non-profit Glace Bay Heritage Museum Society in a bid to preserve the building as a cultural landmark; at the time, demolition of the site was being planned. Initial preparations were finished five years later in 2003, with most of the functions of the building now overseen by German-Canadian curator Elke Ibrahim. The second floor, including a sports and entertainment exhibit, was finalized in 2010. The town's memorial to its deceased coal miners is located on the museum grounds. Some items contained in the museum are: Central School 1988 time capsule (opened in 2021) Ex-Olympian Joey Mullins' original running shoes Extensive mining photographs and artifacts Collections of yearbooks and yearly almanacs Fishing artifacts Affiliations The museum is affiliated with the CMA , CHIN , and Virtual",
+      "id": "HotpotQA-validation-00002024/02_Glace-Bay-Heritage-Museum.html_c_0"
+    },
+    {
+      "text": "Sports Legends Museum at the former Baltimore and Ohio Railroad 's Camden Station Sports Legends Museum at Camden Yards was a non-profit sports museum in Baltimore, Maryland . The museum is owned and operated by the Babe Ruth Birthplace and Museum . It opened on May 14, 2005, with Julia Ruth Stevens, the daughter of celebrated baseball player Babe Ruth , in attendance. The 22,000-square-foot (2,044 m 2 ) museum, housed in the former Camden Station , was adjacent to the main gate of Oriole Park at Camden Yards and had artifacts and interactive exhibits profiling Maryland's sports history. Exhibits included such area teams as the Baltimore Orioles , Baltimore Ravens , Baltimore Colts , Maryland Terrapins , Baltimore Elite Giants , Baltimore Black Sox , and the Baltimore Blast . A replica of the Vince Lombardi Trophy from Super Bowl V was part of the museum's collection. The original trophy from the Colts' 1971 Super Bowl victory was taken by former owner Carroll Rosenbloom after he traded the Colts for the Los Angeles Rams in 1972. A replica trophy was later made for the Colts, but in the Midnight Move of 1984 , the team was not allowed to keep the trophy. That trophy stayed in the city of Baltimore's possession, and was placed in the Sports Legends Museum. After ten years of operation the museum closed abruptly on October 12, 2015, after failing to reach an agreement with the Maryland Stadium Authority for the continued use",
+      "id": "HotpotQA-validation-00006507/03_Sports-Legends-Museum-at-Camden-Yards.html_c_0"
+    },
+    {
+      "text": "In the late 1960’s, a local group of Babe Ruth fans and Baltimore historians took action to have the city support a museum in Babe's honor, after almost being demolished. A non-profit museum opened to the public in 1974 and is governed by the Babe Ruth Birthplace Foundation, Inc. Camden Station Camden Station in 2010 The original Camden Station was a stop on the B&O Railroad . Constructed between 1856 and 1857, this railroad stop served both passenger and freight trains. President Abraham Lincoln traveled through Camden Station on his way to his inauguration . His body traveled through the station when his funeral train made its first stop in Baltimore. Since being closed in the 1980s, the Sports Legend Museum occupied the space starting in 2005, with the hopes of maintaining and commemorating the historic significance of Maryland's past and present sports teams. It was privately owned by The Babe Ruth Birthplace Foundation until its closure on October 12, 2015. The Sports Legends Museum is seeking a new location (in Baltimore) in order to preserve the history and legacy of Babe Ruth, the Baltimore's Orioles, Ravens, and Colts, as well as local and regional sports at the amateur, collegiate and professional levels. The museum's collection can be priced at over $3.2 million in sport memorabilia. The recent tenant in Camden Station is Geppi's Entertainment Museum , which closed on June 3, 2018. The Camden Station",
+      "id": "HotpotQA-validation-00006507/02_Camden-Yards-Sports-Complex.html_c_2"
+    },
+    {
+      "text": "of operation the museum closed abruptly on October 12, 2015, after failing to reach an agreement with the Maryland Stadium Authority for the continued use of Camden Station. Geppi's Entertainment Museum , which opened in September 2006, was located on the upper level of the building, directly above where Sports Legends at Camden Yards was, until 2018. The nearby Babe Ruth Birthplace & Museum remains in existence as a separate museum on Emory Street, two and a half blocks from Camden Station. See also Baltimore Orioles Hall of Fame References External links Sports Legends Museum at Camden Yards website Sports Legends Museum on Google Street View 39°17′02″N 76°37′09″W ﻿ / ﻿ 39.2839°N 76.6192°W ﻿ / 39.2839; -76.6192",
+      "id": "HotpotQA-validation-00006507/03_Sports-Legends-Museum-at-Camden-Yards.html_c_1"
+    },
+    {
+      "text": "TD Garden (named the FleetCenter from opening until 2005 and TD Banknorth Garden until 2009) is a multi-purpose arena in Boston . It is located directly above the MBTA 's North Station , and it replaced the original Boston Garden upon opening in 1995. It is the most visited sports and entertainment arena in New England , with nearly 3.5 million people visiting the arena each year. TD Garden is the home arena for the Boston Bruins of the National Hockey League (NHL) and the Boston Celtics of the National Basketball Association (NBA). It is owned by food service and hospitality conglomerate Delaware North , whose CEO Jeremy Jacobs also owns the Bruins. It is the site of the annual Beanpot college hockey tournament, and hosts the annual Hockey East Championships. The arena has hosted many major national sporting events including various rounds of the NCAA Division I men's basketball tournament , NCAA Division I women's basketball tournament , NCAA Division I Men's Ice Hockey Tournament , the 2014 United States Figure Skating Championships , and the 2016 World Figure Skating Championships . In addition, TD Garden hosted the 2021 Laver Cup , an international men's tennis tournament. Besides sporting events, the TD Garden has also served as a concert venue for numerous nationally touring acts in music and comedy. The naming rights deal for the arena is scheduled to continue through June 2045, with TD Bank and Delaware North extending the agreement in January 2023. History Planning",
+      "id": "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_0"
+    },
+    {
+      "text": "development agreement, and concluded that its owners had never satisfied a legal requirement to host three fundraisers a year to benefit the agency that oversees Boston's recreational facilities. By mid-August 2017, the Massachusetts governor at the time of the TD Garden's original construction, Bill Weld , reminded Jeremy Jacobs about the deal he had made with the state's government in 1993 concerning the agreement. As a result, in August 2017, the TD Garden agreed to pay the Massachusetts Department of Conservation and Recreation nearly $2 million. Features Statue In May 2010, a bronze statue of Bruins defenseman Bobby Orr , in a flying pose celebrating \"The Goal\" , was unveiled outside the stadium. Museum Located in TD Garden is The Sports Museum (also known as \"The Sports Museum of New England \"). The museum's exhibits focus on the history of various sports in the Boston area including the Boston Bruins, the Boston Celtics, the New England Patriots, the Boston Red Sox and many more. Facilities 2005 Hockey East Tournament; then the Fleet Center Just as the Boston Garden was, the TD Garden is built on top of Boston's North Station , a major transportation hub. The Commuter Rail waiting area becomes crowded during events due to this design: the fans shared a relatively small area with commuters and several fast food concessions. (There is a concourse on the second floor which is about the same size as the former main ground floor concourse, but this is utilized only as an entryway for",
+      "id": "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_19"
+    }
+  ],
+  "cot_scratchpad": "- The Sports Museum is a non-profit museum.\n- The Sports Museum is currently located in a multi-purpose arena.\n- The multi-purpose arena opened in 1995.\n- The arena is located in Boston, Massachusetts.\n- (Novel-00000001_c_1)\n- The Sports Museum is located in TD Garden.\n- TD Garden opened in 1995.\n- TD Garden is located in Boston, Massachusetts.\n- (Novel-00000001_c_1)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995?",
+      "doc_ids": [
+        "HotpotQA-validation-00002024/02_Glace-Bay-Heritage-Museum.html_c_0",
+        "HotpotQA-validation-00006507/03_Sports-Legends-Museum-at-Camden-Yards.html_c_0",
+        "HotpotQA-validation-00006507/02_Camden-Yards-Sports-Complex.html_c_2",
+        "HotpotQA-validation-00006507/03_Sports-Legends-Museum-at-Camden-Yards.html_c_1",
+        "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "The Sports Museum's current location in Boston, Massachusetts",
+      "doc_ids": [
+        "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_19",
+        "HotpotQA-validation-00006507/01_TD-Garden.html_c_19",
+        "HotpotQA-validation-00006914/02_WSYY-FM.html_c_1",
+        "HotpotQA-validation-00003649/01_Papa-Ginos.html_c_0",
+        "HotpotQA-validation-00002303/01_Massachusetts-Institute-of-Technology.html_c_3"
+      ]
+    }
+  ]
+}

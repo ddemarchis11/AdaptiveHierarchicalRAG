@@ -1,0 +1,42 @@
+{
+  "id": "Novel-77067dcd",
+  "question": "Which evidence establishes the connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians?",
+  "gold_answer": "The harp is in the Anglo-Saxon manuscript, which is in the British Museum, which has cymbals that were used by Egyptians.",
+  "llm_answer": "There is no evidence that establishes a connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians.",
+  "context": [
+    {
+      "text": "the top. Scarcely better, with regard to acoustics, appears to have been the instrument designated as _nablum_, which we engrave (p. 87) from a manuscript of the ninth century at Angers. [Illustration] A small psalterium with strings placed over a sound-board was apparently the prototype of the _citole_; a kind of dulcimer which was played with the fingers. The names were not only often vaguely applied by the mediæval writers but they changed also in almost every century. The psalterium, or psalterion (Italian _salterio_, English _psaltery_), of the fourteenth century and later had the trapezium shape of the dulcimer. [Illustration] The Anglo-saxons frequently accompanied their vocal effusions with a harp, more or less triangular in shape,--an instrument which may be considered rather as constituting the transition of the lyre into the harp. The representation of king David playing the harp is from an Anglo-saxon manuscript of the beginning of the eleventh century, in the British museum. The harp was especially popular in central and northern Europe, and was the favourite instrument of the German and Celtic bards and of the Scandinavian skalds. In the next illustration from the manuscript of the monastery of St. Blasius twelve strings and two sound holes are given to it. A harp similar in form and size,",
+      "id": "Novel-54537_c_116"
+    },
+    {
+      "text": "71, 73 Dulcimer, 5 \" Assyrian, 17 \" Hebrew, 19 \" Persian prototype, 54 Egyptian (ancient) musical instruments, 10 Egyptian harps, 11 \" flutes, 12 Etruscan instruments, 33 \" flutes, 33 \" trumpet, 33 Fiddle, originally a poor contrivance, 50 Fiddle, Anglo-saxon, 95 \" early German, 95 Fistula, 36 Flute, Greek, 32 \" Persian, 56 \" Mexican, 63 \" Peruvian, 63 \" mediæval, 100 “Free reed,” whence imported, 5 Gerbert, abbot, 86 Greek instruments, 27 \" music, whence derived, 27 Hallelujah, compared with Peruvian song, 82 Harmonicon, Chinese, 42 Harp, Egyptian, 11 \" Assyrian, 16 \" Hebrew, 19 \" Greek, 28 \" Anglo-saxon, 89 \" Irish, 90 Hebrew instruments, 19, 26 \" pipe, 22 \" drum, 24 \" cymbals, 25 \" words among Indians, 83 Hindu instruments, 46-48 Hurdy-gurdy, 107 Hydraulos, hydraulic organ, 33 Instruments, curious shapes, 2 \" value and use of collections, 4, 5, 7 Instruments, Assyrian and",
+      "id": "Novel-54537_c_152"
+    },
+    {
+      "text": "three thousand years ago. It is, therefore, perhaps not surprising that no material improvement is perceptible in the construction of the instruments of European countries during the lapse of nearly a thousand years. True, evidences to be relied on referring to the first five or six centuries of the Christian era are but scanty; although indications are not wanting which may help the reflecting musician. [Illustration] [Illustration] There are some early monuments of Christian art dating from the fourth century in which the lyre is represented. In one of them Christ is depicted as Apollo touching the lyre. This instrument occurs at an early period in western Europe as used in popular pastimes. In an Anglo-saxon manuscript of the ninth century in the British museum (Cleopatra C. VIII.) are the figures of two gleemen, one playing the lyre and the other a double-pipe. M. de Coussemaker has published in the “Annales Archéologiques” the figure of a crowned personage playing the lyre, which he found in a manuscript of the ninth or tenth century in the library at Angers. The player twangs the strings with his fingers, while the Anglo-saxon gleeman before mentioned uses a plectrum. _Cithara_ was a name applied to several stringed instruments greatly varying in form, power of sound, and compass. The illustration represents a cithara from a manuscript of the ninth century, formerly in the library of the",
+      "id": "Novel-54537_c_114"
+    },
+    {
+      "text": "chang 51 \" bagpipe 52 Turkish harp 53 Persian dulcimer 55 The _rebab_ 56 Aztec whistles 60 Antique pipe from central America 61 Pipes of the Aztecs 62 Peruvian bone pipe 64 \" huayra-puhura 65 \" \" 66 Orinoco Indian trumpet 67 South American Juruparis 68 Indian trumpets 70 Aztec drums 72 San Domingo drum 73 Peruvian bell 75 Aztec cluster of bells 76 Cithara, ninth century 86 Psalterium 87 Nablum 87 Citole 88 Anglo-saxon harp 89 Harp, ninth century 90 Ancient Irish harp 91 German rotte 91 Rotta 92 Irish rotta 93 The crwth 94 The old English \"crowd\" 95 The French crout 96 Anglo-saxon fiddle 97 German fiddle, ninth century 97 Organistrum 99 Monochord 100 Single chorus 101 Double chorus 101 Sackbut 101 Syrinx 102 Pneumatic organ, fourth century 103 Organ, twelfth century 104 Regal 104 Cymbalum, ninth century 105 Bunibulum 106 Orchestra on bas-relief 108 Vielle 109 Orchestra, twelfth century, at Santiago 110 The minstrels’ gallery, at Exeter cathedral 112 Virginal",
+      "id": "Novel-54537_c_2"
+    },
+    {
+      "text": "(a crowder) from a bas-relief on the under part of the seats of the choir in Worcester cathedral (engraved p. 95) dates from the twelfth or thirteenth century; and we give (p. 96) a copy of an illumination from a manuscript in the Bibliothèque royale at Paris of the eleventh century. The player wears a crown on his head; and in the original some musicians placed at his side are performing on the psalterium and other instruments. These last are figured with uncovered heads; whence M. de Coussemaker concludes that the _crout_ was considered by the artist who drew the figures as the noblest instrument. It was probably identical with the _rotta_ of the same century on the continent. [Illustration] An interesting drawing of an Anglo-saxon fiddle--or _fithele_, as it was called--is given in a manuscript of the eleventh century in the British museum (Cotton, Tiberius, c. 6). The instrument is of a pear shape, with four strings, and the bridge is not indicated. A German fiddle of the ninth century, called _lyra_, copied by Gerbert from the manuscript of St. Blasius, has only one string. These are shown in the woodcuts (p. 97). Other records of the employment of the fiddle-bow in Germany in the twelfth and thirteenth",
+      "id": "Novel-54537_c_122"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The harp in the Anglo-Saxon manuscript is mentioned in Novel-54537_c_116 (The Anglo-saxons frequently accompanied their vocal effusions with a harp, more or less triangular in shape,--an instrument which may be considered rather as constituting the transition of the lyre into the harp.).\n- The harp is also mentioned in Novel-54537_c_2 (Anglo-saxon harp).\n- Cymbals used by Egyptians are mentioned in Novel-54537_c_152 (Egyptian cymbals).\n- No direct connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians is established in the current evidence.\n- The harp is mentioned in Novel-54537_c_116 and Novel-54537_c_2, but there is no mention of cymbals in these passages.\n- The cymbals used by Egyptians are mentioned in Novel-54537_c_152, but there is no mention of the harp in this passage.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which evidence establishes the connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians?",
+      "doc_ids": [
+        "Novel-54537_c_116",
+        "Novel-54537_c_152",
+        "Novel-54537_c_114",
+        "Novel-54537_c_2",
+        "Novel-54537_c_122"
+      ]
+    }
+  ]
+}

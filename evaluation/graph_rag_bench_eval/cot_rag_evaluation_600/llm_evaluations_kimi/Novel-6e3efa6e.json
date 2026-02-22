@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "The narrative explicitly links Mayab and Hindostan through the figure “Maya,” described in Hindostan as “a prince of the Davanas” who “established himself there” and whose name carries the same meaning—“magician, astronomer, learned man”—as the word “Magi” in Chaldea and “Maya” in America. This shared semantic identity is treated as evidence that the concept, if not the people, travelled eastward. The text stresses that the Mayas of Hindostan were not autochthonous: they “cannot be said to have been natives of Hindostan,” but rather derived from this imported “Maya” tradition. Over time the name was deified and converted into “the mother of the gods,” exactly as happened in Greece and, by implication, in Mayab itself. Thus the relationship is one of cultural diffusion: a Maya nucleus that originated in the American Mayab was transplanted to Hindostan, where its name and associated ideas (wisdom, magic, astronomy, motherhood of the gods) survived even though the historical memory of the American homeland faded.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the relationship between Mayab and Hindostan as described in the narrative, emphasizing their similarity and the presence of Maya in Hindostan. It elaborates on the cultural diffusion and semantic connections, which are supported by the retrieved context. The additional details provided about the deification of Maya and its transformation into 'the mother of the gods' are consistent with the context and enhance the explanation without deviating from the core truth of the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddedee1e",
+  "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+  "gold_answer": "French Canadians struggled with the Chateau Clique, and the Chateau Clique conflicted with the Patriotes, shaping attempts at reform.",
+  "llm_answer": "The Château Clique’s dominance of the executive and its refusal to let the elected Assembly control spending turned French-Canadian grievances into a constitutional battle.  French Canadians first sought only to have their language and laws respected, but every concession was blocked by the Clique; this drove them to link cultural survival with control of the provincial purse and, ultimately, with the demand for a fully responsible government.  The Clique’s intransigence therefore transformed a linguistic and cultural struggle into a political reform movement led by the Patriotes, whose open conflict with the Clique made “reform” synonymous with ending executive rule by a small, self-appointed coterie and replacing it with an executive accountable to the elected representatives of the colony.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the essence of the Gold Answer, elaborating on the struggles between French Canadians, the Château Clique, and the Patriotes, and how these conflicts shaped reform efforts. It provides additional context about the cultural and political dimensions of the struggle, which is relevant and aligns with the Gold Answer. However, some details, such as the transformation of linguistic and cultural struggles into political reform movements, are not explicitly supported by the retrieved context, reducing faithfulness slightly. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

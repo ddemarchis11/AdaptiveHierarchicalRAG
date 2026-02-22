@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "Samuel Pepys observed the Duke of York at the Theatre, where he saw the play *The Tamer Tamed*.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Samuel Pepys observed the Duke of York at the Theatre during a performance of *The Tamer Tamed*. The Gold Answer specifies that the Duke of York was at the Opera, and the Retrieved Context does not provide evidence to support the Model Answer's claim. Therefore, the Model Answer is incorrect, unfaithful to the context, and does not cover the key fact from the Gold Answer."
+  }
+}

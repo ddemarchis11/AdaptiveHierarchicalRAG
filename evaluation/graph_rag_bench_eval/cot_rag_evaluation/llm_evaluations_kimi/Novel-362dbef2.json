@@ -1,0 +1,12 @@
+{
+  "id": "Novel-362dbef2",
+  "question": "Which actress was a member of the stock company at the People's theater, as outlined in the narrative detailing St. Paul's theatrical scene?",
+  "gold_answer": "Emily Dow was a member of the stock company at the People's theater.",
+  "llm_answer": "Azelene Allen and Emily Dow were members of the stock company at the People's theater.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Emily Dow as a member of the stock company at the People's theater, which aligns with the Gold Answer. However, it also includes Azelene Allen as a member, which is supported by the context but not mentioned in the Gold Answer. While this additional detail is accurate, it diverges from the specific focus of the Gold Answer, which only highlights Emily Dow. Thus, the answer is partially correct and fully faithful to the context, but it does not fully align with the evidence coverage of the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-338ef222",
+  "question": "In the novel 'Dragon's Blood', which character in the Chinese district is referred to by the nickname 'the Sword-Pen' due to his dangerous influence and reputation?",
+  "gold_answer": "Fang was known as the Sword-Pen.",
+  "llm_answer": "The character referred to by the nickname 'the Sword-Pen' is Fang, a long, pale, oval-faced man with hard eyes. He is known for being a clever and dangerous individual, with a significant influence in the district.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Fang as the character referred to by the nickname 'the Sword-Pen' and provides additional details about his appearance and reputation, which are supported by the retrieved context. It aligns with the Gold Answer and includes all relevant facts."
+  }
+}

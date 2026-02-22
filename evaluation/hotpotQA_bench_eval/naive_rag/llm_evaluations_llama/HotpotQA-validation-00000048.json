@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000048",
+  "question": "Are Ferocactus and Silene both types of plant?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes, both Ferocactus and Silene are types of plants.\n\nFerocactus is a genus of cacti, specifically a type of flowering plant in the family Cactaceae. \n\nSilene, on the other hand, is a genus of flowering plants in the family Caryophyllaceae.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that both Ferocactus and Silene are types of plants, aligning with the Gold Answer. It provides additional details about their respective families (Cactaceae for Ferocactus and Caryophyllaceae for Silene), which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the extra information is relevant and grounded."
+  }
+}

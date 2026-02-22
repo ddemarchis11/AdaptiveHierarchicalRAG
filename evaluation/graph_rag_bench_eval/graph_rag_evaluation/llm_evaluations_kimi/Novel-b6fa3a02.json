@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b6fa3a02",
+  "question": "Is William T. Donaldson listed as a member of the Minnehaha Engine Company according to the historical roster provided in the narrative?",
+  "gold_answer": "Yes, William T. Donaldson is a member of the Minnehaha Engine Company.",
+  "llm_answer": "The provided context does not mention William T. Donaldson or the Minnehaha Engine Company, so it cannot confirm whether he is listed as a member.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not mention William T. Donaldson or the Minnehaha Engine Company, but it fails to answer the user's question directly. The Gold Answer confirms that William T. Donaldson is a member, which the Model Answer does not address. While the Model Answer is faithful to the context, it does not provide the required information or match the Gold Answer."
+  }
+}

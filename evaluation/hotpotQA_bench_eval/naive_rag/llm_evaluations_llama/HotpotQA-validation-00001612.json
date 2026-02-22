@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001612",
+  "question": "KSCW-DT is part of a duopoly with which virtual channel 12 in Wichita?",
+  "gold_answer": "KWCH-DT",
+  "llm_answer": "KSCW-DT is part of a duopoly with virtual channel 12 in Wichita.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that KSCW-DT is part of a duopoly with virtual channel 12 in Wichita, but it does not explicitly name KWCH-DT, which is the specific station mentioned in the Gold Answer. The Retrieved Context supports the relationship between KSCW-DT and KWCH-DT, making the answer faithful to the context. However, the lack of explicit mention of KWCH-DT reduces evidence coverage and correctness."
+  }
+}

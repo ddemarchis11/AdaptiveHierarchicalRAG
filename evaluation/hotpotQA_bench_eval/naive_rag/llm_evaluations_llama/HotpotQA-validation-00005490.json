@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005490",
+  "question": "What type of art does The Consul and Arlecchino have in common?",
+  "gold_answer": "music",
+  "llm_answer": "Insufficient evidence to determine the type of art that The Consul and Arlecchino have in common.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to determine the type of art that The Consul and Arlecchino have in common, which is incorrect as the Gold Answer clearly identifies 'music' as the common art form. While the Model Answer is faithful to the retrieved context, it fails to provide the correct answer and does not cover the key fact from the Gold Answer."
+  }
+}

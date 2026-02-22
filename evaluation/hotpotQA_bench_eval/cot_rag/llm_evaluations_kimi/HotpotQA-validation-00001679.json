@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001679",
+  "question": "When was the host of \"British Academy Television Awards 2009\" born?",
+  "gold_answer": "4 April 1963",
+  "llm_answer": "4 April 1963",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the birth date of Graham Norton, the host of the British Academy Television Awards 2009, as 4 April 1963. This information is explicitly supported by the Retrieved Context, and the answer includes all necessary facts from the Gold Answer."
+  }
+}

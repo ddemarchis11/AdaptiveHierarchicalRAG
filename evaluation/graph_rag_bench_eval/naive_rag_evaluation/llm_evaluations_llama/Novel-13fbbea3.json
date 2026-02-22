@@ -1,0 +1,12 @@
+{
+  "id": "Novel-13fbbea3",
+  "question": "Which individual, related to Angeline Hall, was wounded at the Battle of Bull Run during the Civil War?",
+  "gold_answer": "Constant Woodward was wounded at Bull Run.",
+  "llm_answer": "The individual related to Angeline Hall who was wounded at the Battle of Bull Run during the Civil War was Jasper, a lieutenant and the best of the Woodward brothers, and also Captain Acker, who was adjutant general of the State of Minnesota, but later became captain in the Seventeenth United States Regulars.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Jasper and Captain Acker as individuals related to Angeline Hall who were wounded at the Battle of Bull Run. The Gold Answer specifies Constant Woodward as the correct individual, and the context supports this by describing how Constant was wounded at Bull Run. The Model Answer fails to mention Constant Woodward and instead provides unrelated or incorrect information, making it neither correct nor faithful to the context."
+  }
+}

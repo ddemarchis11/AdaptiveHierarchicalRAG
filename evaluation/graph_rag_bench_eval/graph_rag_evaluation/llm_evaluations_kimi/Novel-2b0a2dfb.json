@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2b0a2dfb",
+  "question": "What notable feature is described as belonging to the town of Toser, according to the text's depiction of its environment?",
+  "gold_answer": "Toser has gardens.",
+  "llm_answer": "The context provided does not mention a town named Toser or describe any of its features.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not mention Toser or describe its features, whereas the Gold Answer specifies that Toser has gardens. The retrieved context does include references to gardens, which could be linked to Toser, but the Model Answer fails to address this or provide any relevant information."
+  }
+}

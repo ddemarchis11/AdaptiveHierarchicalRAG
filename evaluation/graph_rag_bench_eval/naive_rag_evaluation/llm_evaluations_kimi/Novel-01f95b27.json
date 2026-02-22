@@ -1,0 +1,12 @@
+{
+  "id": "Novel-01f95b27",
+  "question": "What cultural activities involving the arts did Samuel Pepys engage in as described in his diary, such as attending theatrical performances like 'The Siege of Rhodes' and 'Bartholomew Fayre', and learning to sing from Mr. Goodgroome?",
+  "gold_answer": "Samuel Pepys saw 'The Siege of Rhodes' and 'Bartholomew Fayre', and learned to sing from Mr. Goodgroome.",
+  "llm_answer": "Samuel Pepys’s diary shows him regularly attending the theatre—he records seeing plays such as *The Tamer Tamed*—and taking singing lessons from his master, Mr. (Theodore) Goodgroome, for which he paid an entrance fee and a monthly stipend.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly mentions Samuel Pepys taking singing lessons from Mr. Goodgroome, which aligns with the Gold Answer and the context. However, it introduces 'The Tamer Tamed,' which is not mentioned in the Gold Answer and is only partially supported by the context. The plays 'The Siege of Rhodes' and 'Bartholomew Fayre,' explicitly mentioned in the Gold Answer, are omitted, reducing evidence coverage and correctness."
+  }
+}

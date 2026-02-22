@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003907",
+  "question": "Which Australian professional women's basketball team has an American playing in it?",
+  "gold_answer": "Adelaide Lightning",
+  "llm_answer": "The provided evidence does not specify any American players on Australian professional women's basketball teams.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the retrieved context does not specify any American players on Australian professional women's basketball teams, which is accurate based on the provided context. However, the Gold Answer explicitly identifies 'Adelaide Lightning' as the team with an American player, and the Model Answer fails to include this information. Thus, the Model Answer is incorrect in terms of answering the question and does not cover the key fact from the Gold Answer."
+  }
+}

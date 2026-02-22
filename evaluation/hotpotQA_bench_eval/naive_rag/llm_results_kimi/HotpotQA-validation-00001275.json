@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001275",
+  "question": "Which of the singers has more things to be known for, Greg Puciato or Syd Barrett?",
+  "gold_answer": "Gregory John \"Greg\" Puciato",
+  "llm_answer": "Syd Barrett has more things to be known for.  \nEvidence lists: multiple biographies, a dedicated official website, an archives site, a 2003 documentary, a 2023 documentary, song lists, and extensive discography entries.  \nGreg Puciato evidence only lists: rankings in two “greatest front-person” lists, praise for his vocals, and standard discography links.",
+  "context": [
+    {
+      "text": "Syd Barrett . Wikiquote has quotations related to Syd Barrett . The Official Syd Barrett Website The Syd Barrett Archives Official trailer for Have You Got It Yet? The Story of Syd Barrett and Pink Floyd Syd Barrett at AllMusic Syd Barrett discography at Discogs",
+      "id": "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_38"
+    },
+    {
+      "text": "ISBN 978-0-9554624-0-5 . Schaffner, Nicholas (2005). Saucerful of Secrets: The Pink Floyd Odyssey (New ed.). London: Helter Skelter. ISBN 978-1-905139-09-5 . Schaffner, Nicholas (1991). Saucerful of Secrets: The Pink Floyd Odyssey . New York: Delta Trade Paperbacks. ISBN 978-0-385306-84-3 . Smith, Norman \"Hurricane\" (2008). John Lennon Called me Normal: \"The Man that Got the Sound that Changed the World\" . United States: Norman Smith. ISBN 978-1-409202-90-5 . Tolinski, Brad (2012). Light & Shade: Conversations with Jimmy Page . New York: Crown. ISBN 978-0307985712 . Watkinson, Mike; Anderson, Pete (2001). Crazy Diamond: Syd Barrett & the Dawn of Pink Floyd . Omnibus Press. ISBN 978-1-84609-739-3 . Willis, Tim (2002a). Madcap: The Half-Life of Syd Barrett, Pink Floyd's Lost Genius . Short Books. ISBN 978-1-904095-24-8 . External links Wikimedia Commons has media related to Syd Barrett . Wikiquote has quotations related to Syd Barrett . The Official Syd Barrett Website The Syd Barrett Archives Official trailer for Have You",
+      "id": "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_37"
+    },
+    {
+      "text": "Syd Barrett Story (2003) Have You Got It Yet? The Story of Syd Barrett and Pink Floyd (2023) See also Biography portal List of songs recorded by Syd Barrett List of songs about or referencing Syd Barrett References Informational notes Citations Bibliography Anderson, Pete (2009). Crazy Diamond: Syd Barrett and the Dawn of Pink Floyd . Omnibus Press. ISBN 978-0-857-12122-6 . Blake, Mark (2008). Comfortably Numb: The Inside Story of Pink Floyd . Cambridge, MA: Da Capo. ISBN 978-0-306-81752-6 . Boyd, Joe (2009). White Bicycles: Making Music in the 1960s (eBook ed.). London: Serpent's Tail. ISBN 978-1-84765-216-4 . Chapman, Rob (2010). Syd Barrett: A Very Irregular Head (Paperback ed.). London: Faber. ISBN 978-0-571-23855-2 . Guesdon, Jean-Michel; Margotin, Philippe (2017). Pink Floyd All the Songs – The Story Behind Every Track . Running Press. ISBN 978-0-316-43923-7 . Jones, Malcolm (2003). The Making of The Madcap Laughs (21st Anniversary ed.). Brain Damage. Manning, Toby (2006). The Rough Guide to Pink Floyd",
+      "id": "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_35"
+    },
+    {
+      "text": "place. There'll never be another just like him. He is the only one.\" In 2015, Uproxx ranked him at No. 17 on \"The 20 Most Dynamic, Chaotic, Entertaining Frontmen and Frontwomen of All-Time\". In 2018, Loudwire placed him 9th in their listing of the \"Top 30 frontmen + frontwomen of the 21st century\". Several authors have named Puciato among the greatest harsh vocalists in hardcore punk and metal, one of the best contemporary vocalists in popular music, as well as one of the most versatile singers in rock. The Bled frontman James Muñoz said that he \"wanted to quit singing\" after listening to Option Paralysis , \"but that always happens when [he] listens to [the Dillinger Escape Plan] albums.\" Some musicians have also praised Puciato after collaborating with him: Max Cavalera from Sepultura said that their joint composition of Soulfly's \"Rise of the Fallen\" made it \"one of the most exciting songs I've been part of in my career\" and in 2017 went on to call Puciato \"the best frontman of the last twenty years. Hands down.\" Upon hearing the vocals that Puciato recorded for his song \"The Mighty Masturbator\", Devin Townsend remarked: \"Ladies and Gentlemen, Greg Puciato just tore me a new asshole. Fucking",
+      "id": "HotpotQA-validation-00001275/00_Greg-Puciato.html_c_35"
+    },
+    {
+      "text": "The Dillinger Escape Plan: The Sound and The Story\" . Fret12.com (video). Chicago, Illinois. December 8, 2016. Archived from the original on December 12, 2021 . Retrieved December 19, 2017 . External links Wikimedia Commons has media related to Greg Puciato . Greg Puciato at AllMusic Greg Puciato discography at Discogs Federal Prisoner The Black Queen",
+      "id": "HotpotQA-validation-00001275/00_Greg-Puciato.html_c_37"
+    }
+  ],
+  "cot_scratchpad": "- Syd Barrett is referenced in a 2023 doc “Have You Got It Yet?” and has extensive bibliography/discography (Novel-00001275_01_c_35, 37, 38)\n- Greg Puciato ranked No. 17 dynamic frontman, 9th 21st-c frontman, praised by Cavalera & Townsend (Novel-00001275_00_c_35)\n- Evidence lists Barrett books, films, song lists; Puciato lacks comparable breadth of documented achievements",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which of the singers has more things to be known for, Greg Puciato or Syd Barrett?",
+      "doc_ids": [
+        "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_38",
+        "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_37",
+        "HotpotQA-validation-00001275/01_Syd-Barrett.html_c_35",
+        "HotpotQA-validation-00001275/00_Greg-Puciato.html_c_35",
+        "HotpotQA-validation-00001275/00_Greg-Puciato.html_c_37"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-007bd442",
+  "question": "Through what sequence is Bruin connected to the grandmother?",
+  "gold_answer": "Bruin settled in the cottage, which was home to the grandmother.",
+  "llm_answer": "The sequence through which Bruin is connected to the grandmother is:\n\n1. Bruin is introduced as a bear who is friends with Toto and the grandmother.\n2. Bruin is described as being a good friend to the grandmother and Toto, and is willing to help take care of the grandmother and the household.\n3. The grandmother is shown to be fond of Bruin and values his friendship and help.\n4. Bruin is invited to the wedding of the woodmouse's son, and is included in the plans for the celebration.\n5. Bruin is shown to be a part of the household, helping with chores and participating in activities with Toto and the grandmother.\n6. The grandmother is shown to be grateful for Bruin's help and companionship, and values his presence in her life.\n\nOverall, the sequence through which Bruin is connected to the grandmother is one of friendship and mutual support, with Bruin serving as a loyal and helpful companion to the grandmother and Toto.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed narrative about Bruin's relationship with the grandmother, emphasizing friendship and mutual support. However, it does not directly address the specific sequence mentioned in the Gold Answer, which is that Bruin settled in the cottage, the grandmother's home. While the Model Answer includes relevant details about Bruin's role and connection to the grandmother, some claims (e.g., Bruin being invited to the woodmouse's son's wedding) are not supported by the retrieved context. Additionally, the core fact from the Gold Answer is not explicitly stated, leading to partial correctness and evidence coverage."
+  }
+}

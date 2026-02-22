@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004149",
+  "question": "What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?",
+  "gold_answer": "Saturday",
+  "llm_answer": "The evidence states that ESPN covers both the post position draw and the undercard races for the Kentucky Derby. The Kentucky Derby is held on the first Saturday in May.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Saturday as the day of the Kentucky Derby, which aligns with the Gold Answer. It also provides additional context about the timing of the event (first Saturday in May), which is relevant and supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

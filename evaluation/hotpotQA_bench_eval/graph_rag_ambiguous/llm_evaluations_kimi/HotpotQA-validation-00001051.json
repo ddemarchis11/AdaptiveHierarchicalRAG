@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001051",
+  "question": "Does a health-oriented food periodical focused on lighter recipes and a culture and music publication historically associated with urban Black audiences both fall under the same medium?",
+  "gold_answer": "yes",
+  "llm_answer": "The context does not provide enough information to determine whether a health-oriented food periodical focused on lighter recipes and a culture and music publication historically associated with urban Black audiences both fall under the same medium.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not provide enough information to answer the question, which is incorrect as the Gold Answer ('yes') directly answers the question. The context does not contradict the Gold Answer, but the Model Answer fails to address the question correctly or align with the Gold Answer."
+  }
+}

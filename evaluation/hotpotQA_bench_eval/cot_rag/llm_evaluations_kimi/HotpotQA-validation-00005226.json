@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005226",
+  "question": "Who is one other client that is represented by the same person that also represents a barrister at Doughty Street Chambers?",
+  "gold_answer": "Angelina Jolie",
+  "llm_answer": "Jimmy Lai",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer 'Jimmy Lai' is incorrect and does not align with the Gold Answer 'Angelina Jolie'. The retrieved context does not support the claim that Jimmy Lai is represented by the same person who represents a barrister at Doughty Street Chambers. The Gold Answer is not addressed, and the Model Answer is unfaithful to the context and misses the required factual point."
+  }
+}

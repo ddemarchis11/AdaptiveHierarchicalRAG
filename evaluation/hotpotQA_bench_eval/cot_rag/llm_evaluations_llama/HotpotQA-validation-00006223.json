@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006223",
+  "question": "How many women in total competed at the Asian Games the year Lee Young-Sun achieved her personal best throw of 58.87 metres?",
+  "gold_answer": "179 women",
+  "llm_answer": "Based on the provided evidence, I can determine that Lee Young-Sun achieved her personal best throw of 58.87 metres at the 2002 Asian Games in Busan.\n\nTo find the total number of women who competed at the Asian Games that year, I need to refer to the evidence about the 2002 Asian Games. \n\nAccording to the evidence, a total of 459 athletes from 39 nations competed in athletics at the 2002 Asian Games. However, it does not specify the exact number of women who competed.\n\nTo find the number of women who competed, I need to refer to the evidence about the participating nations. \n\nUnfortunately, the evidence does not provide a comprehensive list of the number of women who competed from each nation. However, it does provide a list of the number of athletes from each nation, but it does not specify the gender of the athletes.\n\nHowever, I can try to estimate the number of women who competed by looking at the number of athletes from each nation and making an educated guess based on the typical ratio of men to women in athletics competitions.\n\nUnfortunately, I do not have enough information to provide an accurate estimate of the number of women who competed at the 2002 Asian Games.\n\nHowever, I can say that a total of 459 athletes from 39 nations competed in athletics at the 2002 Asian Games, but I do not know the exact number of women who competed.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct number of women who competed at the 2002 Asian Games, which is explicitly stated as 179 in the Gold Answer. Additionally, the retrieved context does not contain the specific number of women, and the model does not accurately address the question or provide grounded information. It instead speculates and admits a lack of sufficient information, which is incorrect given the Gold Answer."
+  }
+}

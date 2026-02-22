@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004210",
+  "question": "Which opera has more acts, Don Quichotte or Tosca?",
+  "gold_answer": "Don Quichotte",
+  "llm_answer": "There is insufficient evidence to directly compare the number of acts in Don Quichotte and Tosca. However, we can infer that Don Quichotte has 5 acts, as stated in the evidence. \n\nTo determine the number of acts in Tosca, we need to look at the evidence provided for Tosca. Unfortunately, there is no information about the number of acts in Tosca in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Don Quichotte has 5 acts based on the context but fails to definitively answer the question due to the lack of information about Tosca's acts in the retrieved context. While the Gold Answer states Don Quichotte has more acts, the Model Answer does not explicitly confirm this comparison, leading to partial correctness and evidence coverage."
+  }
+}

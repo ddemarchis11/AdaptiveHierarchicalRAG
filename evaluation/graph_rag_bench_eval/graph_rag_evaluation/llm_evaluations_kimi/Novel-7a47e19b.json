@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7a47e19b",
+  "question": "In the context of the ancient Yucatan as described in the novel, why might chroniclers and historians include detailed descriptions of caves in their accounts, given that these caves are adorned with stalactites, contain springs and streams inhabited by fishes and shrimps, and provide natural outlets for the escape of gases?",
+  "gold_answer": "Chroniclers might be interested in describing caves because they are adorned with stalactites, have springs and streams inhabited by fishes and shrimps, and provide an outlet for the escape of gases.",
+  "llm_answer": "Chroniclers likely described the caves in detail because their beauty (stalactites), life-supporting water and creatures, and role in preventing earthquakes by venting subterranean gases made them remarkable natural features of Yucatan.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, explaining why chroniclers might describe the caves in detail. It includes all relevant details from the Gold Answer (stalactites, springs and streams with aquatic life, and gas outlets) and adds contextually supported information about their role in preventing earthquakes, which is grounded in the retrieved context. The answer is accurate, faithful, and comprehensive."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001121",
+  "question": "What did the second First Lady to be born outside the United States or areas that would become part of the United States do before marrying?",
+  "gold_answer": "fashion model",
+  "llm_answer": "Before marrying Donald Trump, Melania Knauss worked as a fashion model at the age of 16 while pursuing her education in Yugoslavia. She changed the spelling of her name to Melania Knauss and traveled to Paris and Milan to seek modeling work before meeting Paolo Zampolli, who hired her and sponsored her immigration to the United States in 1996.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Melania Knauss's profession as a fashion model before marrying Donald Trump, which aligns with the Gold Answer. It provides additional relevant details about her early career, name change, and immigration, all of which are supported by the Retrieved Context. The extra information enhances the answer without deviating from the core truth."
+  }
+}

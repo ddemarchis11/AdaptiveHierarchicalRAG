@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0b161de9",
+  "question": "What are the key events that define the life and relationships of Suza Fairfield in 'Pen Pictures'? Please include how she was raised and educated by Aunt Katy Demitt, her engagement to Don Carlo, and her role as the belle of Port William.",
+  "gold_answer": "Suza Fairfield was raised and educated by Aunt Katy Demitt, was engaged to be married to Don Carlo, and was the belle of Port William.",
+  "llm_answer": "Suza Fairfield, the belle of Port William, was orphaned and raised by Aunt Katy Demitt, who educated her and ultimately willed her all her money and property. She became engaged to Don Carlo, the hero of Shirt-Tail Bend, after having previously saved him from the river. Though courted by many, Suza chose to stay with Aunt Katy until the old woman’s death, after which she returned to Port William to claim her inheritance.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Suza Fairfield as the belle of Port William, raised and educated by Aunt Katy Demitt, and engaged to Don Carlo, which aligns with the Gold Answer. However, it introduces additional details, such as Suza saving Don Carlo from the river and inheriting Aunt Katy's money and property, which are not explicitly supported by the retrieved context. While the core facts are correct, some claims lack grounding in the provided context, and the inheritance detail is not mentioned in the Gold Answer, leading to partial evidence coverage and faithfulness."
+  }
+}

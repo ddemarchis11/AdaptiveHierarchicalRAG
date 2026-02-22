@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfb9683e",
+  "question": "Which educational book includes a dedicated section on the topic of TOBACCO as part of its contents?",
+  "gold_answer": "TOBACCO is included as part of the CHILD'S HEALTH PRIMER.",
+  "llm_answer": "Based on the provided evidence, I could not find any information about an educational book that includes a dedicated section on the topic of TOBACCO as part of its contents.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that no information about an educational book including a section on TOBACCO is found, despite the context clearly indicating that TOBACCO is part of the CHILD'S HEALTH PRIMER. This contradicts the Gold Answer and fails to utilize the relevant evidence from the context."
+  }
+}

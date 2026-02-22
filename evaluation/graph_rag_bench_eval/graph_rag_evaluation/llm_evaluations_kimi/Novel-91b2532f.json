@@ -1,0 +1,12 @@
+{
+  "id": "Novel-91b2532f",
+  "question": "During the period of unrest in Minnesota, what patterns of protest and government response emerged, particularly as Indians protested against traders sitting at the government's pay table and the government was accused of neglecting its wards in Minnesota, eventually leading to the state's call to furnish military regiments such as the Sixth regiment?",
+  "gold_answer": "Indians protested against traders sitting at the pay table of the government, while the government neglected its wards in Minnesota, leading to ongoing unrest and calls for military intervention.",
+  "llm_answer": "The context does not directly address patterns of protest by Indians against traders at the government's pay table or accusations of government neglect in Minnesota. It also does not mention the Sixth regiment or link such unrest to Minnesota's call to furnish military regiments.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not address the specific question about Indian protests, government neglect, or the Sixth regiment. However, it fails to provide an answer to the question using internal knowledge or reasoning, resulting in a score of 0.0 for answer correctness and evidence coverage. The response is faithful to the context, as it accurately reflects the lack of relevant information in the retrieved context."
+  }
+}

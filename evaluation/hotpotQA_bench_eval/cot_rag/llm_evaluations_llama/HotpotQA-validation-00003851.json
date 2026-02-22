@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003851",
+  "question": "Which town is named after the developers of Monmouth Heights at Manalapan?",
+  "gold_answer": "Levittown",
+  "llm_answer": "I cannot verify which town is named after the developers of Monmouth Heights at Manalapan.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Levittown,' as stated in the Gold Answer. Additionally, the retrieved context does not contain information directly supporting the Gold Answer, but the Model Answer does not utilize internal knowledge to provide the correct answer either. Therefore, it is incorrect, ungrounded, and lacks evidence coverage."
+  }
+}

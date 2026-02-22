@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b418b955",
+  "question": "Within the context of Cornwall's geography, how is the feature known as the Devil's Throat situated and described in relation to Kynance Cove and the broader Lizard region as depicted in the narrative?",
+  "gold_answer": "The Devil's Throat is identified as a prominent feature of Kynance Cove, which is situated in Cornwall.",
+  "llm_answer": "Within the context of Cornwall's geography, the feature known as the Devil's Throat is situated near Kynance Cove and the broader Lizard region. \n\nThe Devil's Throat is described as a \"yawning cave and a wide fissure\" between two rocks, and is considered a dangerous part of the coastline. It is also referred to as \"Hell's Mouth\" by some locals. \n\nThe Devil's Throat is situated near Asparagus Island, which is described as \"easy enough climbing.\" However, the Devil's Throat itself is not recommended for climbing, as it involves a \"good jump\" and can be hazardous if one misses their footing. \n\nThe Devil's Throat is located near Kynance Cove, which is a popular destination for tourists and locals alike. The cove is described as a beautiful and peaceful place, with a \"dull murmur of waves\" and a \"black outline\" that can be seen from a distance.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Devil's Throat as a feature near Kynance Cove in Cornwall, consistent with the Gold Answer. It provides additional details about its description, location, and associated risks, all of which are supported by the Retrieved Context. The answer includes all key facts from the Gold Answer and expands on them faithfully."
+  }
+}

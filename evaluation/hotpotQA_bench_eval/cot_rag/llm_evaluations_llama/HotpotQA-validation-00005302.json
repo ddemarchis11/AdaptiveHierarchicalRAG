@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005302",
+  "question": "What is the name for plastic water-filled barriers that you might find along the MacArthur Road highway in Pennsylvania?",
+  "gold_answer": "Jersey barrier",
+  "llm_answer": "The name for plastic water-filled barriers that you might find along the MacArthur Road highway in Pennsylvania is plastic Jersey barriers.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer specifies 'plastic Jersey barriers,' which is a correct term for water-filled barriers as supported by the context. However, the Gold Answer 'Jersey barrier' is broader and does not specify the plastic variant. While the Model Answer is faithful to the context, it misses the broader terminology used in the Gold Answer, which could encompass both concrete and plastic variants. Thus, correctness and evidence coverage are partial."
+  }
+}

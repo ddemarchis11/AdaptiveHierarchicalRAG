@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "Based on the provided evidence, it is unclear which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm.\n\nFor Tim Cluess, the evidence shows that he was in his 5th year as head coach in the 2014-2015 season and his 6th year as head coach in the 2015-2016 season. This suggests that he has been the head coach for at least 6 years.\n\nFor Steve Prohm, the evidence shows that he was in his 1st year as head coach at Murray State in the 2011-2012 season and his 1st year as head coach at Iowa State in the 2015-2016 season. This suggests that he has been the head coach for at least 4 years.\n\nHowever, the evidence does not provide information on the duration of Steve Prohm's tenure as head coach at Murray State before he joined Iowa State. Therefore, it is unclear whether Steve Prohm has led his team for a longer period of time than Tim Cluess.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Tim Cluess as having been head coach for at least 6 years and Steve Prohm for at least 4 years based on the context. However, it fails to definitively conclude that Tim Cluess has led his team for a longer period, which is the core truth of the Gold Answer. The reasoning is faithful to the context, but the evidence coverage is partial as it does not fully utilize the context to confirm the Gold Answer."
+  }
+}

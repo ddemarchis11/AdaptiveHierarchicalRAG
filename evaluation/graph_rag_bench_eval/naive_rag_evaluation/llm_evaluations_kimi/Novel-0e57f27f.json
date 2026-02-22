@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e57f27f",
+  "question": "In the story, Eily expresses a desire to possess wealth greater than the Countess o' Kilmoggen and specifically wishes for diamonds and pearls to drop from her mouth whenever she speaks. What evidence from the events and Eily's own words shows that she aspired to be wealthy?",
+  "gold_answer": "Eily wanted to be richer than the Countess o' Kilmoggen, wished for diamonds and pearls, and talked about diamonds and pearls.",
+  "llm_answer": "Eily’s own words prove her wish for riches: she tells the Green Man she wants “the di’monds an’ pearrls…to dhrop out o’ me mouth ivery time I shpake,” explaining that “I’d be richer than the Countess o’ Kilmoggen hersilf…be the time I’d talked for an hour.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Eily's desire for wealth, referencing her wish for diamonds and pearls to drop from her mouth and her aspiration to be richer than the Countess o' Kilmoggen. These details are supported by the retrieved context and align with the Gold Answer, covering all key facts."
+  }
+}

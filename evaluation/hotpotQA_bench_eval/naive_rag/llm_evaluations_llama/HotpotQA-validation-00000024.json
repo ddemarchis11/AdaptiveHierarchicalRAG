@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000024",
+  "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+  "gold_answer": "World's Best Goalkeeper",
+  "llm_answer": "The father of Kasper Schmeichel was voted to be by the IFFHS in 1992. \n\nThe answer is: Antoni \"Tolek\" Schmeichel",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Antoni 'Tolek' Schmeichel as the person voted by the IFFHS in 1992, which is factually wrong. The correct answer is Peter Schmeichel, who was voted 'World's Best Goalkeeper' in 1992. The retrieved context clearly supports this, but the model fails to utilize it correctly."
+  }
+}

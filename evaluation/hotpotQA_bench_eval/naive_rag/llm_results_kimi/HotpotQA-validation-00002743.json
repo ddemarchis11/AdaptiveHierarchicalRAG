@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002743",
+  "question": "Which one of the Long Island Herald newspaper chain serves a village in Nassau County, New York with a population of 6,483?",
+  "gold_answer": "The Nassau Herald",
+  "llm_answer": "The evidence does not specify any village in Nassau County with a population of exactly 6,483, nor does it identify a particular Long Island Herald newspaper serving such a village.",
+  "context": [
+    {
+      "text": "The Nassau Herald is a liberal weekly newspaper serving the Five Towns communities of Nassau County – Lawrence , Cedarhurst , Inwood , Woodsburgh , Woodmere , and Hewlett . It is part of the Long Island Herald newspaper chain, which includes The Jewish Star and the Oyster Bay Guardian , is owned by Richner Communications, and covers Nassau County, New York . The paper started publishing in 1934 by the Beegle Publishing Company and was based out of Lawrence, Nassau County, New York . After the offices were destroyed by a fire in 2004, the newspaper moved into offices in Garden City, New York with the other Long Island Herald newspapers. Published every Thursday with a daily online presence, The Herald is sold for $1.00 at newsstands.  The Herald newspapers are members of the New York Press Association .  References External links Nassau Herald Long Island Herald newspapers",
+      "id": "HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0"
+    },
+    {
+      "text": "Lawrence is a village within the Town of Hempstead in Nassau County , on Long Island , in New York , United States. It is located adjacent to the border with the New York City borough of Queens to the west and is near the Reynolds Channel to the south. The population was 6,809 at the time of the 2020 census. Lawrence is one of the \" Five Towns ,\" which consist of the villages of Lawrence and Cedarhurst , the hamlets (unincorporated areas) of Woodmere and Inwood , and \"The Hewletts\", which is made up of the hamlet of Hewlett together with the villages of Hewlett Bay Park , Hewlett Harbor and Hewlett Neck , along with Woodsburgh . History Old Lawrence, or Back Lawrence, is a part of the village, comprising many large homes, mansions, beach side villas and former plantations with very large property, a few dating back to the time of the American Revolution . This area, like Hewlett is unique because its rural affluence is similar in character to the more well known Gold Coast of the North Shore instead of being more urbanized like the rest of the South Shore of Nassau County . One of the area's oldest structures, Rock Hall – once home to two prominent families, the Martins and Hewletts – was constructed during colonial times and is now an active museum, Hewlett still being the most expensive city in the 5 towns. Beginning in",
+      "id": "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_0"
+    },
+    {
+      "text": "The Grand Central Parkway ( GCP ) is a 14.61-mile (23.51 km) controlled-access parkway that stretches from the Triborough Bridge in New York City to the Queens – Nassau County line on Long Island . At the Nassau County line, it becomes the Northern State Parkway , which runs across the northern part of Long Island into Suffolk County , where it ends in Hauppauge . The westernmost stretch (from the RFK Bridge to the BQE) also carries a short stretch of Interstate 278 (I-278). The parkway runs through Queens and passes the Cross Island Parkway , Long Island Expressway , LaGuardia Airport and Citi Field , home of the New York Mets . The parkway is designated New York State Route 907M ( NY 907M ), an unsigned reference route . Despite its name, the Grand Central Parkway was not named after Grand Central Terminal . The Grand Central Parkway has a few unique distinctions. It is only one of four parkways in New York State to carry an elliptical black-on-white design for its trailblazer, the others being the Henry Hudson Parkway , the Jackie Robinson Parkway , and the Cross Island Parkway , all in New York City. Other parkways in the Bronx , Manhattan , and Staten Island use the state-standard design, while the Belt-system parkways use a modified version of the Long Island regional parkway shield with the Montauk Point Lighthouse logo. In addition, it is one of",
+      "id": "HotpotQA-validation-00002743/03_Grand-Central-Parkway.html_c_0"
+    },
+    {
+      "text": "Station and Grand Central Madison in Midtown Manhattan and Atlantic Terminal in Brooklyn , with connections at Jamaica to other parts of Long Island. The n31 , n31x , n32 buses of Nassau Inter-County Express run along Central Avenue extending southwest into Far Rockaway (with a connection to the A train of the New York City Subway at Far Rockaway – Mott Avenue ) and northeast to the Hempstead Transit Center in central Nassau County with connections to other parts of Long Island. Lawrence is connected to Atlantic Beach to the south, across Reynolds Channel , via the Atlantic Beach Bridge . Emergency services The Nassau County Police Department provides police services in Lawrence and most of Nassau County. Lawrence is part of the force's Fourth Precinct. Lawrence is served by the EMS group named Hatzalah of Rockaway Lawrence. Lawrence is served by the Lawrence–Cedarhurst Fire Department. The LCFD consists of 85 volunteer firefighters and emergency medical technicians and provides fire protection to the villages of Lawrence and Cedarhurst, as well as the North Lawrence Fire District and East Lawrence Fire District. The LCFD also responds to alarms such as car accidents and aided cases on the Atlantic Beach Bridge . Notable people Notable current and former residents of Lawrence include: Ben Ashkenazy (born 1969), real estate developer Louis Auchincloss (1917–2010), lawyer, novelist, historian and essayist J. Stewart Baker (1893–1966), banker who served",
+      "id": "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_6"
+    },
+    {
+      "text": "Great Neck Public Schools is a public school district serving students residing in specific areas of Great Neck , North New Hyde Park , North Hills , and Manhasset Hills, New York . It is Union Free School District Number 7 in the Town of North Hempstead in Nassau County , Long Island , New York , United States. About 6,846 students according to Niche rankings, grades K-12 , attend the Great Neck Public Schools. On May 21, 2019, the voters of this district passed a budget of $234,418,944. As of the 2015-16 school year, the district's ten schools had a total enrollment of 6,399 students and 585.0 classroom teachers (on an FTE basis), for a student-teacher ratio of 10.7. List of schools Current schools Great Neck South High School, 2009 Lakeville Elementary School, July 2021 Parkville School, May 2021 There are three high schools: North High School, with an alternative program, Community School; South High School; and The Village School, a small alternative high school. There are also two middle schools, four elementary schools, and a nursery school. High schools: Great Neck North High School Great Neck South High School Great Neck Village High School (Alternative school) Middle schools: Great Neck North Middle School Great Neck South Middle School Elementary schools: Elizabeth Mellick Baker Elementary School(also known as E. M.",
+      "id": "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0"
+    },
+    {
+      "text": "Great Neck Village High School – also known as Village School or simply VS – is a public alternative high school serving students in grades 8 through 12, located in the Village of Great Neck , in Nassau County , New York , United States. A member of Coalition of Essential Schools , Village High School is one of three high schools operated by the Great Neck Union Free School District . Description The Village School offers its 52 students an outdoor education program , college preparatory program, and inclusion of students with disabilities. Co-founder Arnie Langberg has been called \"one of the most important pioneers in the field of public alternative education.\" Village School is home to the newspaper 'The Villager. As of the 2014-15 school year, the school had an enrollment of 48 students and 6.0 classroom teachers (on an FTE basis), for a student–teacher ratio of 8.0:1. There were 3 students (6.3% of enrollment) eligible for free lunch and none eligible for reduced-cost lunch. As of the 2024-25 school year, the school had an enrollment of 52 students and 8.0 classroom teachers, for a student teacher ratio of 7:1. Students Students who enroll must be considered at risk academically for an array of reasons. The students must be in danger of getting lost in Great Neck’s two large, comprehensive high schools or becoming overwhelmed by their environments. Students may have social and",
+      "id": "HotpotQA-validation-00001316/03_Village-School-Great-Neck-New-York.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Nassau Herald serves Lawrence, Cedarhurst, Inwood, Woodsburgh, Woodmere, and Hewlett (HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0)\n- Lawrence is a village in Nassau County with 2020 population 6,809 (HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_0)\n- 6,483 ≠ 6,809, so we need a different village served by a Herald paper\n- Nassau Herald covers Five Towns villages: Lawrence, Cedarhurst, Woodsburgh, etc. (HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0)\n- Lawrence pop 6,809; none yet match 6,483\n- Need pop for Cedarhurst, Woodsburgh, Hewlett villages",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which one of the Long Island Herald newspaper chain serves a village in Nassau County, New York with a population of 6,483?",
+      "doc_ids": [
+        "HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0",
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_0",
+        "HotpotQA-validation-00002743/03_Grand-Central-Parkway.html_c_0",
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_6",
+        "HotpotQA-validation-00001316/01_Great-Neck-School-District.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Herald chain serves Nassau village population 6,483",
+      "doc_ids": [
+        "HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0",
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_0",
+        "HotpotQA-validation-00001316/03_Village-School-Great-Neck-New-York.html_c_0",
+        "HotpotQA-validation-00002343/02_Amka.html_c_2",
+        "HotpotQA-validation-00002343/02_Amka.html_c_3"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Cedarhurst population Nassau County 6483",
+      "doc_ids": [
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_6",
+        "HotpotQA-validation-00002743/00_Nassau-Herald.html_c_0",
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_0",
+        "HotpotQA-validation-00002743/03_Grand-Central-Parkway.html_c_0",
+        "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_c_7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "HotpotQA-validation-00001612",
+  "question": "A low-power television station in the Kansas plains city known for its aviation industry operates as a duopoly alongside which local station broadcasting on virtual channel 12?",
+  "gold_answer": "KWCH-DT",
+  "llm_answer": "It operates as a duopoly alongside KWCH-DT, the local station that broadcasts on virtual channel 12.",
+  "context": [
+    {
+      "text": "each week for sister station KSCW (with 3 + 1 ⁄ 2 hours on weekdays and 1 + 1 ⁄ 2 hours each on Saturdays and Sundays); in addition, the station airs the agricultural news program AG AM in Kansas , which airs weekdays at 6 a.m. In 2008, KWCH began producing a two-hour extension of its weekday morning newscast for KSCW, titled Eyewitness News This Morning on KSCW ; the program competes against the national morning news programs seen on the \"Big Three\" networks . In October 2008, KWCH became the first television station in the Wichita market to begin broadcasting its local newscasts in high definition ; the KSCW broadcast was included in the upgrade. Although not initially included in the change, KWCH upgraded its weather forecast segments to HD in March 2009. In 2010, that station added a half-hour Sunday evening newscast at 7 p.m. to KSCW, titled Eyewitness News Weekend . On September 12, 2011, KWCH began producing half-hour newscasts at 4 p.m. weekdays and seven nights a week at 9 p.m. for KSCW; the latter production directly competed temporarily with another half-hour nightly newscast on Fox affiliate KSAS-TV that KWCH also produced since January 2004 through a separate news share agreement, which expired on December 31. In theory, KWCH could have simultaneously broadcast two 9 p.m. newscasts until the expiration of the agreement, because KSAS' newscast originated from a secondary set (designed by FX Group) at KWCH's studio facility; however on October 5, 2011, KSAS filed a lawsuit against KWCH in Sedgwick County District Court claiming that in violation of the news share agreement, KWCH began taping the KSAS newscasts in advance, while KWCH produced its newscast for KSCW live; District Judge Jeff Goering signed an order requiring KWCH to restore the live newscast on KSAS while the suit was pending. After KWCH's agreement with KSAS ended, NBC affiliate KSNW took over the production of the KSAS newscasts (the station had previously produced a 9 p.m. newscast for KSAS from 1997 to 1999). The addition of the 4 p.m. newscast made KSCW one of the few CW affiliates not owned by Tribune Broadcasting to carry a late afternoon newscast, and was the only newscast in that timeslot in the Wichita market from September 2011 to September 2013, after ABC affiliate KAKE discontinued its own 4 p.m. newscast that same month. In September 2013, KSCW began airing a two-hour Sunday morning newscast, which airs on the station",
+      "id": "HotpotQA-validation-00001612/00_KSCW-DT.html_c_2",
+      "doc_id": "HotpotQA-validation-00001612/00_KSCW-DT.html",
+      "community_id": 3,
+      "score": 58.520214
+    },
+    {
+      "text": "KWCH-DT (channel 12) is a television station licensed to Hutchinson, Kansas , United States, serving the Wichita area as an affiliate of CBS . It is owned by Gray Media alongside CW affiliate KSCW-DT (channel 33) and maintains studios on 37th Street North in northeast Wichita and a transmitter facility located east of Hutchinson in rural northeastern Reno County . KWCH-DT serves as the flagship of the Kansas Broadcasting System ( KBS ), a network of four full-power stations that relay CBS network and other programming provided by KWCH across central and western Kansas , as well as bordering counties in Colorado , Nebraska , and Oklahoma . The station was established as KTVH in Hutchinson on July 1, 1953, and was the first television station built within the state. Though based in Hutchinson until 1978, when the main studio was officially moved to Wichita, it has had a presence in that city since 1954. The KBS network took its present form in the early 1960s. KTVH was the third-rated news outlet in the area until the owners of two of the other three KBS stations purchased it, changed the call letters to KWCH in 1983, and successfully led it to first place in the local ratings. History KTVH On June 30, 1952, Wichita-Hutchinson Company, Inc., filed an application for a construction permit to build channel 12 in Hutchinson, which the Federal Communications Commission (FCC) granted on January 7, 1953. The company was composed of several shareholders from Hutchinson and other Kansas cities, including Ray Dillon of the Dillons grocery store family; local car dealer J. C. Child; W. D. P. Carey, whose family owned salt mines; the publisher of The Hutchinson News-Herald ; and the owner of radio station KWBW . The call letters KTVH were selected; a tract of land on Plum Street was purchased for studio facilities; and a tower site was acquired selected east of town. The first test pattern went out on June 24, 1953, ahead of July 1, when the station launched as the first commercial television station based in Kansas. KTVH was the first television station to open that covered Wichita, the state's largest city. In August 1954, channel 12 opened a satellite studio in Wichita's Lassen Hotel . Its attempts to identify as a station serving both Hutchinson and Wichita, in what would become a running theme in the first three decades of station history, rankled the stations licensed there. KAKE radio and television petitioned the FCC in November 1954 to order KTVH to stop identifying as a \"Wichita station\"; it declined to do so. In 1955, Wichita-Hutchinson Company sold 80 percent of KTVH to the Des Moines -based Minneapolis Star & Tribune Company , owned by the Cowles",
+      "id": "HotpotQA-validation-00001612/01_KWCH-DT.html_c_0",
+      "doc_id": "HotpotQA-validation-00001612/01_KWCH-DT.html",
+      "community_id": 1,
+      "score": 53.91373
+    },
+    {
+      "text": "KSCW-DT (channel 33) is a television station in Wichita, Kansas , United States, affiliated with The CW . It is owned by Gray Media alongside Hutchinson -licensed CBS affiliate KWCH-DT (channel 12). The two stations share studios on 37th Street in northeast Wichita; KSCW-DT's transmitter is located in rural northeastern Reno County (east of Hutchinson). KSCW-DT also operates a digital replacement translator on UHF channel 33 (its previous analog signal allotment) from a transmitter in North Wichita, just north of the station's studio facility. History KWCV's second logo used from 2003 to 2006. The station was first licensed on June 8, 1988, under permits from LIN TV filing an application with the Federal Communications Commission (FCC), under the call letters KWCV. It was temporarily licensed as DKWCV on November 5, 1998, but on February 11, 1999, it was changed back to KWCV. The station first signed on the air on August 5, 1999, along with LIN TV (which also briefly owned KAKE and its satellites in 2000 before selling KAKE to Benedek Broadcasting ) forming and owning 50% of Banks Broadcasting, which would become the station's owner. Originally operating as a WB affiliate, it was branded on-air as \"Kansas' WB\". Prior to the station's launch, The WB's programming could only be viewed in the Wichita market through Chicago -based cable superstation WGN , which carried the network's programming nationwide from The WB's January 1995 launch until October 1999, or Denver 's KWGN-TV on cable or satellite. The station's original transmitter was located on a tower near Colwich . KSCW-DT's first logo as simply KSCW used from 2006 to 2008. On January 24, 2006, the Warner Bros. unit of Time Warner and CBS Corporation announced that the two companies would shut down The WB and UPN and combine the networks' respective programming onto a newly created \"fifth\" network called The CW . One month later on February 22, 2006, News Corporation announced that it would launch another new network called MyNetworkTV . On March 21, not long after it was announced that the station would become the market's CW affiliate, KWCV received approval from the FCC to change its call letters to KSCW in order to reflect its upcoming affiliation change. On September 5, former UPN affiliate KMTW became Wichita's MyNetworkTV affiliate when that network launched. KSCW became the CW outlet for the market when that network launched on September 18; the station also changed its branding to \"Kansas CW\" on that date. In March 2007, Banks Broadcasting announced that it would sell the station to Schurz Communications , owner of CBS affiliate",
+      "id": "HotpotQA-validation-00001612/00_KSCW-DT.html_c_0",
+      "doc_id": "HotpotQA-validation-00001612/00_KSCW-DT.html",
+      "community_id": 3,
+      "score": 50.936737
+    },
+    {
+      "text": "1954 to order KTVH to stop identifying as a \"Wichita station\"; it declined to do so. In 1955, Wichita-Hutchinson Company sold 80 percent of KTVH to the Des Moines -based Minneapolis Star & Tribune Company , owned by the Cowles family, for $1.07 million. The Star & Tribune Company expanded channel 12's Wichita presence in 1956 by purchasing the former studios of KEDD , the first station to be built in that city, which had just closed. A power increase from 240,000 watts to the class-maximum 316,000 watts followed in 1957. The new owners also made a second effort at seeking permission to identify more closely with Wichita in 1958; the station's president, Joyce Swan, cited confusion from national advertisers, who thought the dual designation of Wichita and Hutchinson signified separate markets, and stated that \"it is obvious that an advertising media that covers a large area must cater to the largest metropolitan market\". The FCC allowed it to identify as \"Hutchinson–Wichita\" in 1959 and further tossed out petitions for reconsideration from the two Wichita commercial stations. As KTVH grew, other television stations were set up in western and central Kansas. KTVC at Ensign , serving communities in southwestern Kansas including Dodge City and Garden City , launched in 1957; in 1958, television stations were established at Goodland ( KWGB-TV ) and Hays ( KAYS-TV ) in the northwestern part of the state. KWGB-TV aired CBS and NBC programs, while KTVC and KAYS-TV were ABC affiliates engaged in a regional hookup with KAKE-TV known as the \"Golden K Network\". In 1961, KTVC switched affiliations from ABC to CBS. The owners of KAYS-TV purchased the Goodland station, by then known as KWHT-TV. Both stations underwent changes: KAYS-TV announced it would join CBS on September 1, 1962, and KWHT-TV changed its call letters in October to KLOE-TV, matching co-owned KLOE radio. KTVC, KLOE, and KAYS then joined KTVH to form the Kansas Broadcasting System (KBS), with KTVH as the flagship. KBS claimed coverage of 66 Kansas counties as well as portions of Oklahoma and Colorado. In 1963, KTVH activated a new transmitter located northwest of Burrton and east of Hutchinson, operating from the tallest broadcast tower in the state at 1,504 ft (458 m). The Star & Tribune Company announced the sale of KTVH to the WKY Television System of Oklahoma City , owned by the Gaylord family, for $4.4 million in December 1968. However, much to both parties' surprise, the FCC voted 4–2 to designate the transaction for hearing in August 1969. The decision",
+      "id": "HotpotQA-validation-00001612/01_KWCH-DT.html_c_1",
+      "doc_id": "HotpotQA-validation-00001612/01_KWCH-DT.html",
+      "community_id": 1,
+      "score": 43.184193
+    },
+    {
+      "text": "KMBC-TV (channel 9) is a television station in Kansas City, Missouri , United States, affiliated with ABC . It is owned by Hearst Television alongside CW affiliate KCWE (channel 29). The two stations share studios on Winchester Avenue near Swope Park in southeast Kansas City, Missouri; KMBC-TV's transmitter is located at 23rd Street and Topping Avenue, east of downtown in the Blue Valley area. Channel 9 began broadcasting on August 2, 1953. For the first ten months, two stations operated on the channel: KMBC-TV, associated with KMBC radio , and WHB-TV, the television adjunct of WHB radio. The stations had separate studios and staffs, alternating every 90 minutes on the air, but shared transmitter facilities and an affiliation with CBS . The two stations were combined in 1954 when Cook Paint and Varnish Company , owner of WHB radio and television, bought out KMBC radio and television and retained the KMBC facilities and designation. In 1955, a multi-market affiliation switch by the Meredith Publishing Company forced KMBC-TV to switch from CBS to ABC. Metromedia acquired the KMBC stations in 1961, selling KMBC radio off in 1967. Under Metromedia, KMBC-TV became a competitive station in the market, at first in non-news programming—where its offerings sometimes resembled one of Metromedia's own independent stations —and later in news in the 1970s. This began to change at the end of the decade, as KCMO-TV (now KCTV ) mounted a ratings challenge, and one of Metromedia's last substantive decisions as owner of the station was a watershed. In 1981, KMBC-TV fired anchorwoman Christine Craft after seven months on the air, claiming negative audience acceptance. Believing she was fired because of her looks, which the news director did not like, Craft sued Metromedia in a highly watched sex discrimination case; while she ultimately lost, the trial embarrassed KMBC-TV, whose manager testified that appearance was \"at the top of the list\" of qualities desired in a news anchor, and spotlighted the unequal treatment of women in TV news. KMBC-TV was sold to Hearst in 1981 to make room for Metromedia's purchase of WCVB-TV in Boston. The news department, which had initially weathered the loss of Craft in the ratings, fell to third place. In the late 1980s, under general manager Dino Dinovitz, the station orchestrated a turnaround, commanding a news ratings lead in the market throughout the 1990s. KMBC-TV began programming channel 29 in 1996. In 2007, the stations moved out of their longtime home—the historic Lyric Theatre building—and to their present studios in southeast Kansas City. KMBC continues to compete for first place in local news ratings. History",
+      "id": "HotpotQA-validation-00001612/02_KMBC-TV.html_c_0",
+      "doc_id": "HotpotQA-validation-00001612/02_KMBC-TV.html",
+      "community_id": 0,
+      "score": 42.457848
+    },
+    {
+      "text": "from KMBC-TV. The two stations alternated presenting the programs throughout the day. With a full-time CBS affiliate, many new CBS programs were seen in Kansas City, while WDAF-TV relinquished its CBS programs and replaced them with shows from its primary network, NBC . KMBC-TV and WHB-TV were the first share-time stations in the United States to go into service, though there had been proposals in other communities. The stations jointly promoted themselves as \"channel 9\" and had to liaise on efforts from news to promotion to avoid duplication. WHB-TV employees found themselves going back and forth between the studio and the Scarritt Building, which housed WHB radio; the company paid for an hourly shuttle service but hoped to build a common facility for WHB radio and television at some other site. Cook Paint and Varnish Company , the owner of WHB, agreed in April 1954 to purchase KMBC radio and television from Midland Broadcasting Company, retain the KMBC stations and their studio facility, and sell WHB radio to the Mid-Continent Broadcasting Company of Omaha, Nebraska . A driving factor in the transaction was the share-time situation on channel 9. The principals of Cook and Midland issued a joint statement reading, \"We have learned that shared-time operation of a television channel can be successfully accomplished, but we have learned also that the difficulties of such shared time can be eliminated by one ownership.\" On June 13, 1954, channel 9 became solely KMBC-TV; WHB-TV's staff and equipment were folded into the expanded operation, and the Power and Light Building studio was closed. In November 1954, the final transmitter facility was activated, bringing KMBC-TV's effective radiated power to the maximum of 316,000 watts and improving reception of the station. In January 1955, the Meredith Publishing Company , owner of KCMO-TV (channel 5, now KCTV ), reached a group affiliation deal with CBS covering most of its radio and television properties. The agreement saw KCMO radio and television become CBS secondary outlets with immediate effect. The news was received, per a report in Variety , with \"puzzlement\" in Kansas City, given KMBC's long association with CBS. KCMO-TV joined CBS and KMBC-TV joined ABC on September 28, 1955, with their radio counterparts exchanging affiliations on December 1. Cook Paint acquired KDRO-TV (channel 6), an ABC affiliate in Sedalia, Missouri , in 1958. The call sign was changed to KMOS-TV on February 6, 1959. Cook operated KMOS-TV as a semi-satellite of KMBC-TV, simulcasting the Kansas City station about 40% of the time. The Kansas City studio building became home to the Victoria Theater and was converted to the Capri, a movie house, in 1959. It also housed other offices and",
+      "id": "HotpotQA-validation-00001612/02_KMBC-TV.html_c_2",
+      "doc_id": "HotpotQA-validation-00001612/02_KMBC-TV.html",
+      "community_id": 0,
+      "score": 41.213207
+    },
+    {
+      "text": "as a semi-satellite of KMBC-TV, simulcasting the Kansas City station about 40% of the time. The Kansas City studio building became home to the Victoria Theater and was converted to the Capri, a movie house, in 1959. It also housed other offices and a restaurant. Metromedia ownership Cook Paint announced on December 23, 1960, that it was selling KMBC radio and television to the Metropolitan Broadcasting Corporation for $10.25 million. Metropolitan did not retain KMOS-TV, which was concurrently sold to Jefferson Television Company, owner of KRCG in Jefferson City . The sales marked Cook Paint's exit from broadcasting after 30 years to focus on its paint manufacturing business. The transactions closed in August 1961, with Metropolitan Broadcasting having renamed itself Metromedia the preceding April. Under Metromedia and new general manager Al Krivin, the station moved from a third-place position locally to a slight first-place lead by 1963. KMBC-TV began presenting local programming in color in 1966. In 1967, the KMBC radio stations were spun off to Bonneville International Corporation , with KMBC AM changing its call sign to the similar-sounding KMBZ . In its early years under Metromedia ownership, KMBC-TV was a comparatively high pre-empter of ABC network programs. Writing for Variety in 1963, Les Brown noted that KMBC-TV had 14 of the market's top 15 syndicated programs, reportedly owned \"as much as syndicated film as an independent [station] , and reputedly programs in the manner of an indie\". This was particularly apt for Metromedia, which had become known as a quality operator of major-market independent stations. In 1968, Variety 's Bill Greeley reported that one Metromedia sales executive had recommended to his bosses that the station drop its network affiliation, while some speculated that Metromedia could trade with Cox Broadcasting for its independent in Oakland, California, KTVU , giving Metromedia another independent and Cox another network affiliate. In 1969, Ellis Shook moved from Metromedia's WTTG in Washington, D.C., to run KMBC-TV. He put an end to the independent-style programming and pre-emptions while launching a series of new local programs: Dimensions in Black and the talk show Etcetera . During his tenure, KMBC began airing the ABC Evening News , which previously had not aired in Kansas City. In 1980, when ABC debuted the late-night newscast Nightline , KMBC-TV delayed it to show reruns after its late newscast; this practice of deferring ABC's late-night programming lasted until January 2015. The theater inside the KMBC building was used by the Kansas City Lyric Theatre beginning in 1970 and renamed the Lyric Theatre in 1974. Hearst ownership Metromedia agreed to",
+      "id": "HotpotQA-validation-00001612/02_KMBC-TV.html_c_3",
+      "doc_id": "HotpotQA-validation-00001612/02_KMBC-TV.html",
+      "community_id": 0,
+      "score": 41.211636
+    },
+    {
+      "text": "began broadcasting a digital signal on VHF channel 7 on April 24, 2002. It was the first commercial TV station in Kansas City to broadcast in digital, though public station KCPT had begun broadcasting in 1998. The signal was full-power but had to be curtailed to the south to protect KOAM-TV in Pittsburg, Kansas , which was short-spaced. Though KMBC-TV had originally been projected to continue digital broadcasting in VHF on channel 9 after the transition concluded, this would have made it the only major Kansas City station transmitting on the VHF band. The FCC granted permission to switch that assignment to channel 29 effective February 19, 2009. The channel had been vacated when KCWE terminated analog broadcasts on February 17. This also resolved the spacing issue to KOAM and allowed for a stronger signal to areas south of Kansas City. Analog service continued until the final digital television transition date of June 12, 2009, and was followed by a \"nightlight\" service to provide digital transition information. Notes References External links Official website KMBC MeTV website",
+      "id": "HotpotQA-validation-00001612/02_KMBC-TV.html_c_9",
+      "doc_id": "HotpotQA-validation-00001612/02_KMBC-TV.html",
+      "community_id": 0,
+      "score": 40.655624
+    },
+    {
+      "text": "began producing a two-hour extension of its weekday morning newscast for KSCW; this later expanded on September 12, 2011, to include half-hour newscasts at 4 p.m. weekdays and nightly at 9 p.m. For the rest of 2011, KSAS and KSCW carried simultaneous and separate newscasts before KSNW assumed the KSAS news production contract at the start of 2012. This resulted in a lawsuit where KSAS alleged a breach of contract because it was receiving a taped newscast instead of a live one; the suit was settled when KWCH agreed to air the Fox newscast live for the remainder of the contract. Beyond local news programs, KWCH operates the high school sports outlet Catch It Kansas, which includes a website and a weekly show aired on KSCW. Notable former on-air staff David Bloom – reporter (1988–1990) Cheryl Burton – anchor Shon Gables – anchor/reporter Andrea Joyce (Andi Joyce) – anchor Susan Peters – anchor (1983–1991) Don Woods – weatherman (1953–1954) Lily Wu – anchor/reporter (2020–2023) Technical information and subchannels The primary KWCH-TV transmitter is east of Hutchinson in Reno County . The station's signal is multiplexed : Broadcast on behalf of another station Analog-to-digital conversion KWCH shut down its analog signal, over VHF channel 12, on February 17, 2009, the original target date on which full-power television stations in the United States were to transition from analog to digital broadcasts under federal mandate (which was later pushed back to June 12, 2009). The station's digital signal relocated from its pre-transition UHF channel 19 to VHF channel 12. After the transition, KWCH became one of four television stations that operated their digital signals on the VHF band that were granted a power increase later that month due to reception issues that the stations experienced as a result of moving their digital channel allocations from UHF to VHF. As reception problems continued even after the increase, the FCC granted KWCH-DT permission to swap transmitter facilities with sister station KSCW-DT; on September 29, 2009, KWCH-DT moved its digital signal back to UHF channel 19, with KSCW-DT moving its digital allocation to VHF channel 12. In 2012, Schurz built a digital replacement translator of KSCW-DT in Wichita, broadcast from the studios. The 12.1 and 12.2 subchannels are also carried; this aids reception of KSCW and KWCH in parts of Wichita that may not get as strong a signal from the Hutchinson transmitters. Satellites Kansas Broadcasting System stations KWCH-DT KBSD-DT KBSH-DT KBSL-DT KWCH operates a network",
+      "id": "HotpotQA-validation-00001612/01_KWCH-DT.html_c_5",
+      "doc_id": "HotpotQA-validation-00001612/01_KWCH-DT.html",
+      "community_id": 6,
+      "score": 40.080215
+    },
+    {
+      "text": "WJXX (channel 25) is a television station licensed to Orange Park, Florida , United States, serving the Jacksonville area as an affiliate of ABC . It is owned by Tegna Inc. alongside NBC affiliate WTLV (channel 12). The two stations share studios on East Adams Street (near EverBank Stadium ) in downtown Jacksonville; WJXX's transmitter is located on Anders Boulevard on the south side of the city. Though plans for an Orange Park television station dated to 1977 and the construction permit to 1988, it took upheaval in the city's ABC affiliation to induce the construction of channel 25, which began broadcasting in February 1997. The launch was moved two months ahead of schedule after outgoing ABC affiliate WJKS-TV ceased airing more than half of the network's prime time lineup and intended ABC affiliate WBSG-TV was unable to adequately cover the market. Due to the compressed timetable, permanent transmission facilities were not built out for another seven months. The ensuing issues hampered WJXX's efforts to make a good impression with viewers in Jacksonville, a market that has been historically weak for the ABC network. Even though the founding owner, Allbritton Communications , built studios and started a local news team, WJXX made little headway in the ratings. The problems caused by the early launch proved insurmountable, leading Allbritton to sell WJXX to Gannett , owner of WTLV, just as common ownership of two stations in a market was permitted. Gannett merged the two stations at WTLV's studios in 2000 and began to simulcast nearly all local newscasts under the name First Coast News . History Early years In 1977, a group known as Clay Television, Inc., was formed and petitioned the Federal Communications Commission (FCC) to allocate channel 25 to Orange Park, a community in Clay County, Florida , 12 miles (19 km) south of Jacksonville . The FCC allocated the channel in January 1980, and in October, Clay filed an application for a construction permit to build the proposed station. Principals in Clay Television consisted of Richard Fellows, a former city manager in Green Cove Springs and Orange Park; his son; and three Clay County physicians and their wives. A second application was received for the channel in early 1981 from Orange Park Florida T.V., a company majority-owned by Malcolm Glazer . In 1982, an FCC administrative law judge refused to grant the construction permit and returned both applications. Clay Television had experienced a cumulative change of 50 percent of ownership, which, per the judge, required refiling; Orange Park Florida T.V. was \"basically and technically unqualified\" because its antenna site did not meet minimum spacing requirements to other stations. The FCC then permitted Clay to cure the defect on its application, citing uncertainty about processing practices, and ultimately granted a construction permit in October",
+      "id": "HotpotQA-validation-00001612/03_WJXX.html_c_0",
+      "doc_id": "HotpotQA-validation-00001612/03_WJXX.html",
+      "community_id": 2,
+      "score": 38.62547
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001612/01_KWCH-DT.html_6",
+      "summary": "**Title:** KWCH-DT Station History & Operations  \n\n**Summary:**  \nKWCH-DT, Wichita’s CBS affiliate, transformed from ratings also-ran KTVH to market leader after a 1985 image revamp and call-letter change. Under Beach/Schmidt and later Smith, Spartan, Schurz and Gray ownership, it built the Kansas Broadcasting System (KBS) of four full-power satellites, centralized news production and adopted Eyewitness News, overtaking rival KAKE by 1988. The station expanded output via news-share agreements—producing 9 p.m. newscasts for Fox affiliate KSAS and morning/prime-time shows for sister CW outlet KSCW—while operating the high-school-sports franchise “Catch It Kansas.” Technical upgrades included the 2009 digital transition, a UHF/VHF channel swap with KSCW to fix reception, and a Wichita translator for both stations’ subchannels.  \n\n**Keywords:** KWCH-DT, Kansas Broadcasting System, local news ratings, digital transition, Catch It Kansas",
+      "is_seed": true,
+      "expand_score": 0.8619368672370911
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/01_KWCH-DT.html_1",
+      "summary": "**Title**: KTVH/KWCH Ownership Evolution  \n\n**Summary**:  \nThe chunks trace the corporate history of Kansas CBS affiliate KTVH (now KWCH-DT) from its 1953 founding in Hutchinson through multiple ownership changes and regulatory battles. After local investors launched the station, the Minneapolis Star & Tribune Company (later Cowles Media) acquired majority control in 1955, expanded its Wichita presence, and built the Kansas Broadcasting System (KBS) regional network. An attempted 1968 sale to Oklahoma City’s WKY Television System collapsed when the FCC demanded a hearing, leaving Cowles in control until 1982. New owners Beach and Schmidt then rebranded the station as KWCH in 1983, invested heavily in facilities and marketing, and aimed to lift it from third to first place in local news ratings.  \n\n**Keywords**: KTVH, KWCH, Cowles Media, FCC hearing, Kansas Broadcasting System",
+      "is_seed": true,
+      "expand_score": 0.8484468460083008
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/02_KMBC-TV.html_0",
+      "summary": "**Title**: KMBC-TV History & Evolution  \n\n**Summary**:  \nKMBC-TV, Kansas City’s ABC affiliate since 1955, evolved from a shared-time CBS outlet with WHB-TV into a Hearst-owned ratings leader. After Metromedia’s 1961 purchase, the station adopted color local programming and shed its independent-style pre-emptions, later facing national scrutiny in the 1981 Christine Craft sex-discrimination case. Hearst’s 1981 acquisition restored news dominance through the 1990s, expanded newscasts across multiple time slots, and launched KCWE newscasts in 2008. Digital transition began in 2002, culminating on UHF 29 in 2009, while on-air talent like Len Dawson and Larry Moore became local icons.  \n\n**Keywords**: KMBC-TV, Hearst Television, Kansas City broadcasting, news ratings, digital transition",
+      "is_seed": true,
+      "expand_score": 0.825507402420044
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/00_KSCW-DT.html_3",
+      "summary": "**Title**: KSCW-DT Station History & News Operations  \n\n**Summary**:  \nKSCW-DT, Wichita’s CW affiliate, launched in 1999 as KWCV (WB) before rebranding to KSCW when The CW formed in 2006. Owned successively by Banks Broadcasting, Schurz Communications, and Gray Media, it became part of a duopoly with CBS affiliate KWCH-DT. The station’s local programming relies heavily on KWCH, which produces 20½ hours of newscasts weekly for KSCW, plus agricultural show AG AM. KWCH’s 2008 upgrade to HD newscasts included KSCW, and subsequent expansions added 4 p.m., 9 p.m., and weekend slots. A 2011 legal dispute with Fox affiliate KSAS-TV over live newscast production briefly complicated operations. KSCW also added digital subchannels Decades/Catchy Comedy and Antenna TV, and completed a flash-cut digital transition in 2009.  \n\n**Keywords**:  \nKSCW-DT, KWCH newscasts, Wichita CW affiliate, Gray Media duopoly, HD local news",
+      "is_seed": true,
+      "expand_score": 0.8619368672370911
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/02_KMBC-TV.html_6",
+      "summary": "**Title**: KMBC-TV Ownership and News Evolution  \n\n**Summary**:  \nThe chunks trace KMBC-TV’s corporate and journalistic journey from the 1970s through the 2000s, highlighting Hearst Corporation’s 1982 acquisition for $79 million and subsequent creation of a duopoly with KCWE. Major milestones include relocation from the historic Lyric Theatre to a custom-built 53,000 ft² facility in 2007, carriage of Kansas City Chiefs preseason games and Royals baseball, and affiliation shifts that formed The CW outlet KCWE. The narrative also covers the station’s volatile news ratings: a mid-1970s peak as a “news giant,” a sharp decline after personnel turnover, and the 1981 firing of co-anchor Christine Craft—an event that sparked industry debate over gender bias even as KMBC reclaimed first place in local news.  \n\n**Keywords**: Hearst ownership, Christine Craft controversy, duopoly with KCWE, news ratings volatility, studio relocation",
+      "is_seed": true,
+      "expand_score": 0.8484468460083008
+    },
+    {
+      "community_key": "HotpotQA-validation-00002440/03_KWXL-LP.html_0",
+      "summary": "**Title**: KWXL-LP Student Radio\n\n**Summary**: KWXL-LP (98.7 FM) is Tucson’s only high school radio station, operated by the Tucson Unified School District and based at Pueblo High Magnet School. It offers a variety format while serving as a hands-on learning platform for students enrolled in the “Writing/Reporting for Broadcasting” class led by instructor Sarah Wilson. Founded by Douglas Potter, the station streams on iTunes and continues to provide student-produced news and programming to the Tucson area.\n\n**Keywords**: high school radio, Tucson, student broadcasting, KWXL-LP, Pueblo High Magnet School",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/03_WJXX.html_2",
+      "summary": "**Title**: WJXX Jacksonville Launch Struggles  \n\n**Summary**:  \nWJXX (channel 25) entered the Jacksonville market in 1997 under intense time pressure after ABC’s previous affiliate, WJKS, began preempting most network programming. Allbritton Communications rushed the station on-air two months early using an interim facility, but technical shortcomings and hasty preparation left viewers with a poor first impression. Industry peers blamed Allbritton for prioritizing studio construction over programming, promotion, and staff development, while WJXX battled established competitors WJXT and WTLV. Ratings remained weak, prompting Allbritton to sell WJXX to Gannett in 2000; Gannett merged it with WTLV as “First Coast News,” eventually converting both to Tegna ownership in 2015.  \n\n**Keywords**:  \nWJXX launch, Allbritton Communications, Jacksonville ABC affiliate, First Coast News, television realignment",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003246/02_List-of-Pittsburgh-Light-Rail-stations.html_0",
+      "summary": "**Title**: Pittsburgh Light Rail Stations\n\n**Summary**: The Pittsburgh Light Rail—locally called “The T”—operates 53 stations along 26.2 miles of Red, Blue, and Silver lines managed by Pittsburgh Regional Transit. Originating as streetcars in 1897, the modern light-rail network was last extended in 2012 via the North Shore Connector and now ranks 18th nationally with ~28 k daily boardings. Station count has fluctuated through waves of closures: 22 Overbrook stops were consolidated to 8 in 2004, route eliminations (47D Drake, Brown Line) removed 16 more, and low-ridership or structural issues led to additional shutdowns, most recently Pennant in 2021.\n\n**Keywords**: Pittsburgh Light Rail, T system, station closures, Port Authority, ridership",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "summary": "**Title**: The Mall Wood Green History\n\n**Summary**: The Mall Wood Green, originally \"Wood Green Shopping City,\" is a six-storey retail-residential complex in north London built on a disused 1970s railway station and opened by Queen Elizabeth II in 1981. After early-1990s recession and a 1992 bomb attack, The Mall Fund bought it in 2002, invested £30 million, added a 12-screen cinema and larger market hall, and won 2007 permission for a westward extension that introduced a flagship Primark. The centre now hosts 100-plus shops, 45 market stalls, Sky City housing above, its own police unit, and strong Piccadilly-line and bus links, making it Haringey’s commercial hub.\n\n**Keywords**: Wood Green Shopping City, The Mall Fund, Sky City housing, retail redevelopment, Haringey commerce",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003609/03_KFAC-radio-station.html_5",
+      "summary": "**Title:** KFAC Radio Legacy  \n\n**Summary:**  \nKFAC, Los Angeles’ pioneering classical-music station, evolved from the 1922 Bible Institute outlet KJS/KTBI, was re-launched commercially as KFAC in 1931 by auto magnate Errett Lobban Cord, and became America’s first full-time fine-arts station. Operating from Wilshire Boulevard’s Auburn-Cord penthouse studios, it launched stars like Bing Crosby and Deanna Durbin, ran the 49-year Gas Company Evening Concert, and maintained an unchanged on-air team from 1953-1983. After ownership changes and format shifts, the classical service ended in 1989, while its 1330 AM facility survives today as Spanish-language KWKW.  \n\n**Keywords:** KFAC, classical radio, Errett Lobban Cord, Gas Company Evening Concert, Los Angeles broadcasting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006914/02_WSYY-FM.html_1",
+      "summary": "**Title**: WSYY-FM Radio Station Profile\n\n**Summary**: WSYY-FM (94.9 FM) is a full-service adult-hits station licensed to Millinocket, Maine, owned by Katahdin Communications, Inc. Since its 1978 launch as WKTR on 97.7 FM, it has evolved from country (as “North Country 95”) to its current “Mountain 94.9” mix of oldies, adult contemporary, rock, and country crossovers, plus CBS News Radio and syndicated shows like When Radio Was. A 2004 ownership transfer resolved land disputes that forced transmitter downgrades and relocations, with an FCC-approved upgrade to 45 kW/146.7 m HAAT pending. Sports coverage once included local high-school games and Boston Red Sox broadcasts until those rights moved to sister station WSYY in 2021.\n\n**Keywords**: WSYY-FM, Millinocket radio, adult hits, Katahdin Communications, FCC upgrades",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001612/03_WJXX.html_7",
+      "summary": "**Title**: WJXX Jacksonville Launch Struggles\n\n**Summary**:  \nWJXX’s rushed 1997 sign-on as Jacksonville’s new ABC affiliate was plagued by technical and logistical problems, including a weak interim transmitter, poor cable carriage, and unavailable closed captioning. Allbritton’s hasty build-out—meant to prevent a two-month ABC blackout—alienated viewers and produced low ratings. After building new studios and launching local newscasts, continued underperformance led Allbritton to sell WJXX to Gannett in 1999; the station was merged with WTLV under the “First Coast News” brand in 2000, while its former Georgia satellite WBSG-TV was spun off to Pax.\n\n**Keywords**:  \nWJXX, ABC affiliate, Allbritton, Gannett, First Coast News",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003609/03_KFAC-radio-station.html_17",
+      "summary": "**Title**: KFAC Classical Radio Demise  \n\n**Summary**:  \nKFAC-AM-FM, Los Angeles’ long-running commercial classical outlet, was sold in 1988-89 for a record $63.7 million, triggering format changes and public outcry. After new owners dismissed veteran announcers—who later won an age-discrimination suit—the FM’s classical format was scrapped despite initial promises, leaving the city without a commercial classical station. The stations’ 50,000-item music library was donated to non-profit KUSC, and the frequency became “Pirate Radio,” marking the end of an era for classical broadcasting in L.A.  \n\n**Keywords**: KFAC sale, classical radio, format flip, Evergreen Media, music library donation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "summary": "**Title**: Humberside Airport Operations  \n\n**Summary**:  \nHumberside Airport, located in North Lincolnshire, England, transitioned from a WWII RAF base to a regional airport serving passenger, cargo, helicopter, and general-aviation traffic. Scheduled passenger numbers peaked near 500,000 in the mid-2000s but fell to ~200,000 by 2016, with several short-lived airline services. The airport thrives as a North Sea offshore-energy hub, recording over 5,000 helicopter movements in 2016 and hosting major operators such as Bristow, CHC, and UNI-FLY. Infrastructure includes a 02/20 runway, a dedicated FBO opened by Weston Aviation, flying clubs, maintenance academies, on-site hotels, and ground-transport links via bus and nearby Barnetby railway station. Ownership shifted from Manchester Airports Group to the Eastern Group; Bristow Helicopters now holds the majority stake.  \n\n**Keywords**:  \nHumberside Airport, offshore helicopter hub, North Sea energy, passenger decline, aviation infrastructure",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006248/01_Riverdale-Georgia.html_1",
+      "summary": "**Title**: Riverdale, Georgia Overview\n\n**Summary**: Riverdale is a 4.5-square-mile Atlanta suburb in Clayton County, incorporated in 1908 and home to 15,129 residents. The city operates under a mayor-council government with a city manager and five departments, and it supports 12 public schools within the Clayton County School System. Transportation links include I-75, three state highways, and two MARTA bus routes, while local pride is reflected in three nearby parks and a notable roster of athletes, musicians, and entertainers.\n\n**Keywords**: Riverdale Georgia, Clayton County, Atlanta suburb, municipal government, transportation infrastructure",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_3",
+      "summary": "**Title**: Pittsburgh Light-Rail Evolution  \n\n**Summary**:  \nPittsburgh’s modern light-rail system emerged after the 1970s rejection of the automated “Skybus” proposal, leveraging a 1979 federal grant to convert aging South-Hills streetcar corridors into a rapid-transit “T” network. Stage I (1980-87) rebuilt 10.5 mi of former trolley line, added a 1.1-mi downtown subway, and eliminated street-running cars by 1985. Stage II later modernized the Overbrook branch, retaining its 1870s rail alignment while upgrading track, power, and signaling for contemporary LRVs.  \n\n**Keywords**:  \nPittsburgh “T”, PCC streetcars, Skybus cancellation, downtown subway, South Hills light-rail",
+      "is_seed": false,
+      "expand_score": 0.8511496186256409
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "summary": "**Title**: Eastern Airways Operations History\n\n**Summary**:  \nEastern Airways, a British regional airline based at Humberside Airport, operated from 1997 until entering administration in November 2025. The airline evolved from a small operator using Jetstream aircraft to a multifaceted carrier providing scheduled, charter, PSO-subsidised lifeline routes, and ACMI flying for KLM Cityhopper. Key developments included franchise agreements with Flybe, expansion into oil-and-gas shuttles, acquisition by Bristow Group and later repurchase by founder Richard Lake, and fleet upgrades to ATR 72-600s and Embraer 190s. After Flybe’s 2020 collapse, Eastern attempted strategic growth at Southampton, Cardiff, and Gibraltar, but most new routes were short-lived. Long-term Public Service Obligation contracts—notably Newquay–Gatwick and Aberdeen–Wick—underpinned regional connectivity until administration ended all flights and terminated the remaining PSO services.\n\n**Keywords**:  \nregional airline, Public Service Obligation, Flybe franchise, KLM Cityhopper, administration",
+      "is_seed": false,
+      "expand_score": 0.8295176029205322
+    },
+    {
+      "community_key": "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_6",
+      "summary": "**Title:** Pittsburgh Light Rail Modernization  \n\n**Summary:**  \nThe Pittsburgh Light Rail system is undergoing a multi-year, $523 million infrastructure overhaul (2024-2028) that includes tunnel closures, track replacement, and downtown subway plinth rebuilding, causing temporary route changes and shuttle-bus substitutions. Historically rooted in the 1902-formed Pittsburgh Railways PCC fleet, today’s 83-vehicle LRV fleet is stored at the South Hills Village Rail Center and is slated for replacement after decades of service. The network’s three active lines—Red, Blue, and Silver—traverse a mix of dedicated right-of-way and street-running segments, with high- and low-platform stops matched by dual-height train doors.  \n\n**Keywords:**  \ninfrastructure rehabilitation, tunnel closures, fleet replacement, PCC heritage, multi-line network",
+      "is_seed": false,
+      "expand_score": 0.8232972621917725
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0",
+      "summary": "**Title**: Haringey Heartlands Regeneration  \n\n**Summary**:  \nHaringey Heartlands is a large-scale urban regeneration initiative in north London’s Wood Green area, designed to create a new civic and cultural quarter centring on Clarendon Square and the new Mary Neuner Road spine. The project will deliver 1,300–1,500 homes, business units, a 20-storey tower, and public open spaces. Public consultation began in 2003, a development plan followed in 2005, and a £4.6 million government grant enabled construction of the spine road between 2008 and 2009.  \n\n**Keywords**:  \nurban regeneration, Haringey, Clarendon Square, Wood Green, housing development",
+      "is_seed": false,
+      "expand_score": 0.8159486055374146
+    },
+    {
+      "community_key": "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2",
+      "summary": "**Title**: Haringey Council Governance & History\n\n**Summary**: Haringey London Borough Council, a Labour-run authority since 1971, was created in 1965 through the merger of Hornsey, Tottenham and Wood Green councils. After the 2020 closure of its Wood Green Civic Centre due to structural problems, meetings temporarily shifted to Tottenham Town Hall and George Meehan House while a refurbishment aims to reopen the Civic Centre by 2026. The council’s history includes major child-protection failures surrounding the Victoria Climbié and Baby P cases, leading to national criticism, leadership resignations, and performance rankings at the bottom of national audits in 2009; children’s services exited central government “special measures” in 2013 following sustained improvements.\n\n**Keywords**: Haringey Council, Civic Centre refurbishment, child-protection scandals, Labour control, London borough governance",
+      "is_seed": false,
+      "expand_score": 0.8018331527709961
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_6",
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_1",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_0",
+      "HotpotQA-validation-00001612/00_KSCW-DT.html_3",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_6",
+      "HotpotQA-validation-00002440/03_KWXL-LP.html_0",
+      "HotpotQA-validation-00001612/03_WJXX.html_2",
+      "HotpotQA-validation-00003246/02_List-of-Pittsburgh-Light-Rail-stations.html_0",
+      "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "HotpotQA-validation-00003609/03_KFAC-radio-station.html_5",
+      "HotpotQA-validation-00006914/02_WSYY-FM.html_1",
+      "HotpotQA-validation-00001612/03_WJXX.html_7",
+      "HotpotQA-validation-00003609/03_KFAC-radio-station.html_17",
+      "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "HotpotQA-validation-00006248/01_Riverdale-Georgia.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001612/00_KSCW-DT.html_3",
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_6",
+      "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_3",
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_1",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_6",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_0",
+      "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_6",
+      "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0",
+      "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_6",
+      "HotpotQA-validation-00001612/01_KWCH-DT.html_1",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_0",
+      "HotpotQA-validation-00001612/00_KSCW-DT.html_3",
+      "HotpotQA-validation-00001612/02_KMBC-TV.html_6",
+      "HotpotQA-validation-00002440/03_KWXL-LP.html_0",
+      "HotpotQA-validation-00001612/03_WJXX.html_2",
+      "HotpotQA-validation-00003246/02_List-of-Pittsburgh-Light-Rail-stations.html_0",
+      "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_1",
+      "HotpotQA-validation-00003609/03_KFAC-radio-station.html_5",
+      "HotpotQA-validation-00006914/02_WSYY-FM.html_1",
+      "HotpotQA-validation-00001612/03_WJXX.html_7",
+      "HotpotQA-validation-00003609/03_KFAC-radio-station.html_17",
+      "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "HotpotQA-validation-00006248/01_Riverdale-Georgia.html_1",
+      "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_3",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00003246/03_Pittsburgh-Light-Rail.html_6",
+      "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_0",
+      "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_2"
+    ],
+    "allowed_chunk_pool_size": 69,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

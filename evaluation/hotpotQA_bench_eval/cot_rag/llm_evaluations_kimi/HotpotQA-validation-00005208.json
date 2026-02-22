@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005208",
+  "question": "The Van cat's eyes have what feline form of complete heterochromia, a condition that occurs in some other animals?",
+  "gold_answer": "odd-eyed",
+  "llm_answer": "The Van cat’s eyes exhibit the feline form of complete heterochromia known as “odd-eyed,” in which one eye is blue and the other is green, yellow, amber, or brown.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'odd-eyed' as the feline form of complete heterochromia, consistent with the Gold Answer and supported by the Retrieved Context. It also provides additional details about the possible eye colors, which are accurate and grounded in the context."
+  }
+}

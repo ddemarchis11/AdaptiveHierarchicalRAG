@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f5fc9016",
+  "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+  "gold_answer": "Tragedy came to the Poet.",
+  "llm_answer": "The figure described as coming to the Poet is **Roman Tragedy**, who urges the Poet to move beyond his current subject matter and undertake a \"greater task,\" inspiring him to sing of the exploits of heroes.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that 'Tragedy came to the Poet,' which is a specific and concise response. The Model Answer incorrectly identifies 'Roman Tragedy' as the figure coming to the Poet and elaborates on its role, but this interpretation is not directly supported by the retrieved context. While the context mentions Roman Tragedy speaking to the Poet, it does not confirm that Tragedy 'came to the Poet' in the sense described in the Gold Answer. The Model Answer fails to align with the Gold Answer and misses the central factual point, resulting in low scores for correctness and evidence coverage. However, some grounding exists in the context, so faithfulness is partially credited."
+  }
+}

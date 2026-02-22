@@ -1,0 +1,42 @@
+{
+  "id": "Novel-166bcaa7",
+  "question": "In the operation of soaking pits for steel ingots, what is the composition of the gas that fills the pits during the soaking process, and which specific gases are identified as being present according to the description in the novel?",
+  "gold_answer": "The gas used in the soaking pits is composed of hydrogen, carbonic oxide, and nitrogen.",
+  "llm_answer": "The gas that fills the pits during the soaking process is entirely composed of hydrogen, nitrogen, and carbonic oxide.",
+  "context": [
+    {
+      "text": "to be at least as hot in the center as it is on the surface. [Illustration: Fig. 2] Every ingot, when cast, contains within itself a considerably larger store of heat than is necessary for the rolling operation. Some of this heat is, of course, lost by passing into the mould, some is lost by radiation before the ingot enters into the soaking pit, and some is lost after it enters, by being conducted away by the brickwork; but in the ordinary course of working, when there is no undue loss of time in transferring the ingots, after allowing for this loss, there remains a surplus, which goes into the brickwork of the soaking pits, so that this surplus of heat from successive ingots tends continually to keep the pits at the intense heat of the ingot itself. Thus, occasionally it happens that inadvertently an ingot is delayed so long on its way to the pit as to arrive there somewhat short of heat, its temperature will be raised by heat from the walls of the pit itself; the refractory mass wherein the pit is formed, in fact, acting as an accumulator of heat, giving and taking heat as required to carry on the operation in a continuous and practical manner. [Illustration: GJERS' SOAKING PITS FOR STEEL INGOTS.] During the soaking operation a quantity of gas exudes from the ingot and fills the pit, thus entirely excluding atmospheric air from entering; this is seen escaping",
+      "id": "Novel-8559_c_8"
+    },
+    {
+      "text": "Produced by Olaf Voss, Don Kretz, Juliet Sutherland, Charles Franks and the Online Distributed Proofreading Team [Illustration] SCIENTIFIC AMERICAN SUPPLEMENT NO. 360 NEW YORK, NOVEMBER 25, 1882 Scientific American Supplement. Vol. XIV, No. 360. Scientific American established 1845 Scientific American Supplement, $5 a year. Scientific American and Supplement, $7 a year. TABLE OF CONTENTS. I. ENGINEERING AND MECHANICS.--Soaking Pits for Steel Ingots. --On the successful rolling of steel ingots with their own initial heat by means of the soaking pit process. By JOHN GJERS. 6 figures.--Gjers' soaking pits for steel ingots. Tempering by compression.--L. Clemandot's process. Economical Steam Power. By WILLIAM BARNET LE VAN. Mississippi River Improvements near St. Louis, Mo. Bunte's Burette for the Analysis of Furnace Gases. 2 figures. The \"Universal\" Gas Engine. 8 figures.--Improved gas engine. Gas Furnace for Baking Refractory Products. 1 figure. The Efficiency of Fans. 5 figures. Machine for Compressing Coal Refuse into Fuel. 1 figure.-- Bilan's machine. Hank Sizing and Wringing Machine. 1 figure. Improved Coke Breaker. 2 figures. Improvements in Printing Machinery.",
+      "id": "Novel-8559_c_0"
+    },
+    {
+      "text": "the soaking operation a quantity of gas exudes from the ingot and fills the pit, thus entirely excluding atmospheric air from entering; this is seen escaping round the lid, and when the lid is removed combustion takes place. It will be seen by analyses given hereinafter that this gas is entirely composed of hydrogen, nitrogen, and carbonic oxide, so that the ingots soak in a perfectly non-oxidizing medium. Hence loss of steel by oxidation does not take place, and consequently the great loss of yield which always occurs in the ordinary heating furnace is entirely obviated. The author does not think it necessary to dilate upon the economical advantages of his process, as they are apparent to every practical man connected with the manufacture of steel. The operation of steel making on a large scale will by this process be very much simplified. It will help to dispense with a large number of men, some of them highly paid, directly and indirectly connected with the heating department; it will do away with costly heating furnaces and gas generators, and their costly maintenance; it will save all the coal used in heating; and what is perhaps of still more importance, it will save the loss in yield of steel; and there will be no more steel spoiled by overheating in the furnaces. The process has been in operation too short a time to give precise and reliable figures, but it is hoped that by the next meeting of the Institute these will be forthcoming from various quarters. Referring to the",
+      "id": "Novel-8559_c_9"
+    },
+    {
+      "text": "each, placed under a 25 ft. sweep crane, L. This crane, if a good one, could handle any ordinary make--up to 2,000 tons per week, and ought to have hydraulic racking out and swinging round gear. This crane places the ingots into the pits, and, when they are ready, picks them out and swings them round to blooming mill, M. With such a crane, four men and a boy at the handles are able to pass the whole of that make through the pits. The author recommends two sets of pits as shown, although one set of eight pits is quite able to deal with any ordinary output from one Bessemer pit. In case of an extraordinarily large output, the author recommends a second crane, F, for the purpose of placing the ingots in the pits only, the crane, L, being entirely used for picking the ingots out and swinging them round to the live rollers of the mill. The relative position of the cranes, soaking pits, and blooming mill may of course be variously arranged according to circumstances, and the soaking pits may be arranged in single or more rows, or concentrically with the crane at pleasure. Figs. 4 and 5 also show outline plan and elevation of a Bessemer plant, conveniently arranged for working on the soaking pit system. A A are the converters, with a transfer crane, B. C is the casting pit with its crane, D.",
+      "id": "Novel-8559_c_11"
+    },
+    {
+      "text": "non-heat-conducting material in a pulverized state, for the purpose of retaining and equalizing the heat; but all these attempts have proved futile in practice, and the fact remains, that the universal practice in steel works at the present day all over the world is to employ a heating furnace of some description requiring fuel. The author introduced his new mode of treating ingots at the Darlington Steel and Iron Company's Works, in Darlington, early in June this year, and they are now blooming the whole of their make, about 125 tons a shift, or about 300 ingots every twelve hours, by such means. The machinery at Darlington is not adapted for rolling off in one heat; nevertheless they have rolled off direct from the ingot treated in the \"soaking pits\" a considerable number of double-head rails; and the experience so gained proves conclusively that with proper machinery there will be no difficulty in doing so regularly. The quality of the rails so rolled off has been everything that could be desired; and as many of the defects in rails originate in the heating furnace, the author ventures to predict that even in this respect the new process will stand the test. Many eminently practical men have witnessed the operation at Darlington, and they one and all have expressed their great surprise at the result, and at the simple and original means by which it is accomplished. The process is in course of adoption in several works, both in England and abroad, and",
+      "id": "Novel-8559_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Gas exudes from ingot and fills pit (Novel-8559_c_8).\n- Gas entirely excludes air from pit (Novel-8559_c_9).\n- Analysis shows gas is hydrogen, nitrogen, carbonic oxide (Novel-8559_c_9).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the operation of soaking pits for steel ingots, what is the composition of the gas that fills the pits during the soaking process, and which specific gases are identified as being present according to the description in the novel?",
+      "doc_ids": [
+        "Novel-8559_c_8",
+        "Novel-8559_c_0",
+        "Novel-8559_c_9",
+        "Novel-8559_c_11",
+        "Novel-8559_c_5"
+      ]
+    }
+  ]
+}

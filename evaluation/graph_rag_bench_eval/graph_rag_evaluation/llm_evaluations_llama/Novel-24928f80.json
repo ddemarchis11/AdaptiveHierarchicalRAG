@@ -1,0 +1,12 @@
+{
+  "id": "Novel-24928f80",
+  "question": "In which city did Elsie Inglis take up her medical practice after completing her studies and training abroad?",
+  "gold_answer": "Elsie Inglis took up practice in Edinburgh.",
+  "llm_answer": "Elsie Inglis took up her medical practice in London, after completing her clinical work in Glasgow and passing the examination for the Triple Qualification in 1892. She worked as a house-surgeon in the new Hospital for Women in the Euston Road.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Elsie Inglis took up her medical practice in London, whereas the Gold Answer specifies Edinburgh. The retrieved context does not provide evidence supporting the claim that she practiced in London after her studies, making the answer unfaithful to the context and missing the key fact from the Gold Answer."
+  }
+}

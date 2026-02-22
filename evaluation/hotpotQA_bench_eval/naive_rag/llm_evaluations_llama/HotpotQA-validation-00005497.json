@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005497",
+  "question": "What American politician from Tennessee born December 13, 1943 is related to former United States Congressman Harold Ford Jr. as well as former Congressman Harold Ford Sr.",
+  "gold_answer": "Emmitt H. Ford",
+  "llm_answer": "Based on the provided evidence, the American politician from Tennessee born December 13, 1943, who is related to former United States Congressman Harold Ford Jr. as well as former Congressman Harold Ford Sr., is Emmitt H. Ford.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Emmitt H. Ford as the American politician from Tennessee born on December 13, 1943, who is related to Harold Ford Jr. and Harold Ford Sr. This is fully supported by the retrieved context, which provides details about Emmitt H. Ford's birth date, political career, and familial connections. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000507",
+  "question": "Which constituent college of the University of Oxford endows four professorial fellowships for sciences including chemistry and pure mathematics?",
+  "gold_answer": "Magdalen College",
+  "llm_answer": "Based on the provided evidence, the constituent college of the University of Oxford that endows four professorial fellowships for sciences including chemistry and pure mathematics is:\n\nMagdalen College.\n\nThis is stated in the text [HotpotQA-validation-00000507/01_Magdalen-College-Oxford.html_c_0] which mentions that Magdalen College is home to several of the university's distinguished chairs, including the Agnelli-Serena Professorship, the Sherardian Professorship, and the four Waynflete Professorships.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Magdalen College as the constituent college of the University of Oxford that endows four professorial fellowships for sciences including chemistry and pure mathematics. This is fully supported by the retrieved context, which explicitly mentions the Waynflete Professorships endowed by Magdalen College. The Model Answer also references the relevant evidence from the context, ensuring complete coverage of the key facts."
+  }
+}

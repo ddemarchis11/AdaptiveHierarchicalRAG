@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005641",
+  "question": "whats the famous bavagheet by arun date?",
+  "gold_answer": "Shukratara",
+  "llm_answer": "I cannot verify the famous bavagheet by Arun Date.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Shukratara,' as stated in the Gold Answer and supported by the Retrieved Context. Additionally, the model claims it cannot verify the information, which contradicts the available context that clearly mentions 'Shukratara' as a famous Bhavageet by Arun Date."
+  }
+}

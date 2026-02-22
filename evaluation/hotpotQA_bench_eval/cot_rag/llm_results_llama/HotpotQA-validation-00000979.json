@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000979",
+  "question": "Who was born first, Aleksandr Ivanovsky or Arthur Lubin?",
+  "gold_answer": "Aleksandr Ivanovsky",
+  "llm_answer": "Based on the provided evidence, Aleksandr Ivanovsky was born first. \n\nAleksandr Ivanovsky was born on November 29, 1881. \nArthur Lubin was born on July 25, 1898.",
+  "context": [
+    {
+      "text": "Aleksandr Viktorovich Ivanovsky ( Russian : Александр Викторович Ивановский ; November 29, 1881 – January 12, 1968) was a screenwriter and film director in the Soviet Union . He was awarded the Stalin Prize in 1941, for his work on the 1940 film Musical Story . His 1944 operetta film Silva was one of the most popular releases in the Soviet Union that year. Selected filmography Comedienne (1923) The Palace and the Fortress (1924) The Decembrists (1927) House of Greed (1933) Dubrovsky (1936) Musical Story (1940) Spring Song (1941) Anton Ivanovich Is Angry (1941) Silva (1944) Russian Ballerina (1947) Tamer of Tigers (1955) References Bibliography Spring, Derek & Taylor, Richard. Stalinism and Soviet Cinema . Routledge, 2013. External links Aleksandr Ivanovsky at IMDb v t e",
+      "id": "HotpotQA-validation-00000979/00_Aleksandr-Ivanovsky.html_c_0"
+    },
+    {
+      "text": "Arthur Lubin (July 25, 1898 – May 11, 1995) was an American film director and producer who directed several Abbott & Costello films, Phantom of the Opera (1943), the Francis the Talking Mule series and created the talking-horse TV series Mister Ed . A prominent director for Universal Pictures in the 1940s and 1950s, he is perhaps best known today as the man who gave Clint Eastwood his first contract in film. Lubin, Motion Picture Magazine , August 1928 Early life Arthur William Lubovsky was born in Los Angeles in 1898. His father, William Lubovsky, had come to the US from Poland in 1889. He originally lived in Willsborough, Pennsylvania then moved to California. Lubovsky changed his name to Lubin in honour of filmmaker Siegmund Lubin and became a salesman. Lubin says his father \"became quite wealthy\" due to his success selling clothes and investments in copper mines in Arizona. His family moved to Jerome, Arizona , when Arthur was five. He was interested in acting at an early age, appearing in local Sunday school productions, with the encouragement of his mother, who died when Lubin was six. His father remarried and Lubin was sent away to the Page School for Little Boys, a military school. The family moved from Jerome to San Diego when Lubin was eight for the climate, to help with his step-mother's",
+      "id": "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_0"
+    },
+    {
+      "text": ". Demaris, James (December 1976 – January 1977). A Directors Guild of America Oral History: Arthur Lubin . Directors Guild of America. Erskine, Lucille (February 1927). \"A Changeling in Our Midst\" . The Motion Picture Director of Hollywood . p. 62 . Flynn, Charles; McCarthy, Todd (1975). \"Arthur Lubin\". In Flynn, Charles; McCarthy, Todd (eds.). Kings of the Bs : working within the Hollywood system : an anthology of film history and criticism . E. P. Dutton. pp. 364– 375. Steinbrunner, Chris (1964). \"The Incredible Mr Lubin\" . Castle of Frankenstein . No. 5. pp. 45 –47. Vagg, Stephen (14 September 2019). \"The Cinema of Arthur Lubin\" . Diabolique Magazine . External links Media related to Arthur Lubin at Wikimedia Commons Arthur Lubin at IMDb Arthur Lubin at the Internet Broadway Database Arthur Lubin at TCMDB Obituary at The Independent Arthur Lubin script collection",
+      "id": "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_20"
+    },
+    {
+      "text": "The Palace and the Fortress (1924) The Palace and the Fortress ( Russian : Дворец и крепость , romanized : Dvorets i krepost ) is a 1924 Soviet silent biopic directed by Aleksandr Ivanovsky . The film is about the tragic fate of revolutionary democrat Mikhail Beideman who was held prisoner at the Peter and Paul Fortress and spent over twenty years in the west Alexei- ravelin . Plot The film tells the story of Mikhail Beideman , who, at the age of 21, was imprisoned without trial or investigation in the Peter and Paul Fortress by the sole order of Alexander II . Beydeman spent more than twenty years in captivity. The opening titles set the scene: “Within the walls of the Peter and Paul Fortress , the enemies of Russian autocracy languish, while on the opposite bank of the Neva stands the grandiose Winter Palace …” Beydeman, a young officer cadet, lives with his mother and sisters in a modest apartment. He is in love with Vera, the daughter of a wealthy landowner, Lagutin. However, Vera’s hand is also sought by Prince Kurakin. Amid these personal dramas, the Narodnaya Volya revolutionaries detonate a bomb targeting the tsar’s carriage, prompting a crackdown on those suspected of opposing the monarchy. Beydeman is arrested and spends the next two decades in the grim confines of the Peter and Paul",
+      "id": "HotpotQA-validation-00000979/03_The-Palace-and-the-Fortress.html_c_0"
+    },
+    {
+      "text": "and Republic Lubin received acclaim for directing a theatre production of The Green Bay Tree . He said \"a man who knew my family [Hermann Slum]said to me, 'Why don't you come with us and Trem Carr and direct a picture?'\" This was at Monogram , where he directed his first film as director: A Successful Failure (1934). It was followed by Great God Gold (1935) and Honeymoon Limited (1935), all of which were produced by Carr. Carr went to MGM and Lubin moved over to Republic Pictures when they merged with Monogram. In May 1935, he signed a contract with Republic for a year to make six pictures starting with Two Black Sheep which became Two Sinners . He also made an experimental film, Journey by Train , He later made Frisco Waterfront (1935) and The House of a Thousand Candles (1936). These were produced by Nat Levine. In August 1935, Variety wrote about Republic, \"under such fast production methods and with the limited budget [around $50,000 a film], training here is perfect for a jump into the big league. Arthur Lubin started with Republic last year, has so far turned out three good pictures.\" He was reportedly directing The Leavenworth Case but is not credited on the film. Universal In 1936, he signed a contract with Universal starting 15 April. His first film for them was Yellowstone (1936). He",
+      "id": "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Aleksandr Ivanovsky was born in 1881 (Novel-00000979_c_0).\n- Arthur Lubin was born in 1898 (Novel-00000979_c_0).\n- The question asks for who was born first (Novel-00000979_c_0).\n- The evidence does not provide a direct comparison of their birth years (Novel-00000979_c_0).\n- next_query: When was Aleksandr Ivanovsky born? (Novel-00000979_c_0)\",\n- \"enough\": false,",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who was born first, Aleksandr Ivanovsky or Arthur Lubin?",
+      "doc_ids": [
+        "HotpotQA-validation-00000979/00_Aleksandr-Ivanovsky.html_c_0",
+        "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_0",
+        "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_20",
+        "HotpotQA-validation-00000979/03_The-Palace-and-the-Fortress.html_c_0",
+        "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_5"
+      ]
+    }
+  ]
+}

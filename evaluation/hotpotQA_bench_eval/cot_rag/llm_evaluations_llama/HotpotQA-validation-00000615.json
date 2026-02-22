@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000615",
+  "question": "The Simpsons episode that aired on February 19, 2012 entitled \"At Long Last Leave\" represented what milestone for the show?",
+  "gold_answer": "show's 500th episode",
+  "llm_answer": "The Simpsons episode that aired on February 19, 2012 entitled \"At Long Last Leave\" represented the 500th episode milestone for the show.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the milestone represented by the episode 'At Long Last Leave' as the 500th episode of The Simpsons. This is fully supported by the retrieved context, which explicitly states that the episode is the 500th overall. The answer is concise and includes all key facts from the Gold Answer."
+  }
+}

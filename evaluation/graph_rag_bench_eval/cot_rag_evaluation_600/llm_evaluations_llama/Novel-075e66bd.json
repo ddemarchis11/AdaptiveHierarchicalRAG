@@ -1,0 +1,12 @@
+{
+  "id": "Novel-075e66bd",
+  "question": "Who influenced the sale of a strip of land involving the Sioux, leading to internal division among the tribe as described in the novel?",
+  "gold_answer": "Little Crow influenced the sale of a strip of land involving the Sioux.",
+  "llm_answer": "The evidence does not mention who influenced the sale of a strip of land involving the Sioux, leading to internal division among the tribe as described in the novel.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not mention who influenced the sale of the land. The Retrieved Context explicitly identifies Little Crow as the individual who influenced the sale, which aligns with the Gold Answer. The Model Answer fails to provide the correct information and does not utilize the relevant details from the context."
+  }
+}

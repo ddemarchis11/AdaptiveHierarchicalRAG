@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002733",
+  "question": "Season of Migration to the North  is a counter narrative to a novella by what Polish-British novelist?",
+  "gold_answer": "Joseph Conrad",
+  "llm_answer": "I cannot verify the requested information.",
+  "context": [
+    {
+      "text": "Heart of Darkness is an 1899 novella by Polish-British novelist Joseph Conrad , in which sailor Charles Marlow tells the story of his assignment as steamer captain for a Belgian company in the African interior. The novel is widely regarded as a critique of European colonial rule in Africa , whilst also examining the themes of power dynamics and morality. Although Conrad does not name the river on which most of the narrative takes place, at the time of writing, the Congo Free State —the location of the large and economically important Congo River —was a private colony of Belgium's King Leopold II . Marlow is given an assignment to find Kurtz , an ivory trader working on a trading station far up the river, who has \"gone native\" and is the object of Marlow's expedition. Central to Conrad's work is the idea that there is little difference between \"civilised people\" and \"savages\". Heart of Darkness implicitly comments on imperialism and racism. The novella's setting provides the frame for Marlow's story of his fascination for the prolific ivory trader Kurtz. Conrad draws parallels between London (\"the greatest town on earth\") and Africa as places of darkness. Originally issued as a three-part serial story in Blackwood's Magazine to celebrate the 1000th edition of the magazine, Heart of Darkness has been widely republished and translated in many languages. It provided the inspiration for Francis Ford Coppola 's 1979 film Apocalypse Now . In 1998,",
+      "id": "HotpotQA-validation-00002733/01_Heart-of-Darkness.html_c_0"
+    },
+    {
+      "text": "Season of Migration to the North was initially published in 1966, in serialized form, by Hiwar , a Beirut-based literary magazine that was covertly established and funded by the CIA . The novel was banned in the author's native Sudan for a period of time starting in 1983 because its graphic sexual imagery offended the Islamic government. Today the novel is readily available in Sudan. Theater Season of Migration to the North , adapted and directed by Ouriel Zohar , starring Mohammad Bakri . Bakri won the award for best actor in the 1993 Acco Festival of Alternative Israeli Theatre .  Editions in print ISBN 0-435-90630-5 Season of Migration to the North , 1969 Heinemann ISBN 0-935576-29-0 Season of Migration to the North (hardcover), 1989 M. Kesend Pub. Ltd. ISBN 0-435-90066-8 Season of Migration to the North (paperback), 1970 Heinemann ISBN 0-89410-199-4 Season of Migration to the North: A novel (paperback reprint), 1980 Lynne Rienner Publishers ISBN 0-14-118720-4 Season of Migration to the North , 2003 Penguin Classics Series ISBN 978-159017-302-2 Season of Migration to the North , 2009 New York Review Books, Introduction by Laila Lalami ISBN",
+      "id": "HotpotQA-validation-00002733/00_Season-of-Migration-to-the-North.html_c_6"
+    },
+    {
+      "text": "Season of Migration to the North , 2009 New York Review Books, Introduction by Laila Lalami ISBN 978-9953-970-02-8 Season of Migration to the North , 2017 Dongola Limited Editions Publishing , Artist's book limited edition of 30, 10 original etchings by Mohammad Omar Khalil Notes References Johnson-Davies, Denys , Memories In Translation: A Life Between The Lines Of Arabic Literature , American University in Cairo Press, 2006, ISBN 9774249380 . Further reading The Wedding of Zein by Tayeb Salih External links Review by Marina Harss at Words Without Borders Essay by Mike Velez",
+      "id": "HotpotQA-validation-00002733/00_Season-of-Migration-to-the-North.html_c_7"
+    },
+    {
+      "text": "Ghorahi (Nepali: घोराही उपमहानगरपालिका) is the largest sub-metropolitan city by area and population of Lumbini Province. The city (formerly Tribhuvannagar ) lies in Lumbini Province in the Mid-Western part of Nepal. It is the largest city of Dang Deukhuri District of southwest Nepal. Located in the Inner Terai region, it lies 413 kilometres (257 mi) south-west of Nepal's capital, Kathmandu , and is one of the Counter Magnets being developed as an alternative centre of growth to help ease the migration and population explosion in the Kathmandu metropolitan area  . It is the largest city of the Rapti Zone and is surrounded by the Sivalik Hills to the south and Mahabharata Range to the north. Ghorahi is located in the Dang Valley in the foothills of the Himalayas nestled between the Babai River in the east, south, and in the west which ends being the famous Sarayu and Ganges rivers in India. The city is known for its landscape and slightly milder climate and provides a gateway to the surrounding regions of Rolpa , Pyuthan , Salyan and Rukum . It is well-connected and close to tourist destinations such as Bardiya National Park in the west, Surkhet in the north-west,",
+      "id": "HotpotQA-validation-00002733/03_Ghorahi.html_c_0"
+    },
+    {
+      "text": "Zimbabwean scholar Rino Zhuwarara, however, broadly agreed with Achebe, though considered it important to be \"sensitised to how peoples of other nations perceive Africa\". The novelist Caryl Phillips stated in 2003 that: \"Achebe is right; to the African reader the price of Conrad's eloquent denunciation of colonisation is the recycling of racist notions of the 'dark' continent and her people. Those of us who are not from Africa may be prepared to pay this price, but this price is far too high for Achebe\". In his 1983 criticism, the British academic Cedric Watts criticises the insinuation in Achebe's critique—the premise that only black people may accurately analyse and assess the novella, as well as mentioning that Achebe's critique falls into self-contradictory arguments regarding Conrad's writing style, both praising and denouncing it at times. Stan Galloway writes, in a comparison of Heart of Darkness with Jungle Tales of Tarzan , \"The inhabitants [of both works], whether antagonists or compatriots, were clearly imaginary and meant to represent a particular fictive cipher and not a particular African people\". More recent critics like Nidesh Lawtoo have stressed that the \"continuities\" between Conrad and Achebe are profound and that a form of \"postcolonial mimesis\" ties the two authors via productive mirroring inversions. Adaptations and influences Radio",
+      "id": "HotpotQA-validation-00002733/01_Heart-of-Darkness.html_c_12"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Season of Migration to the North is a counter narrative to a novella by Joseph Conrad (Novel-00002733_c_0).\n- Joseph Conrad is a Polish-British novelist (Novel-00002733_c_0).\n- Season of Migration to the North is a novel by Tayeb Salih (Novel-00002733_c_7).\n- Tayeb Salih is a Sudanese novelist (Novel-00002733_c_7).\n- Bridge Entity: Tayeb Salih is a novelist (Novel-00002733_c_7).\n- Next query: Tayeb Salih's work is a counter narrative to a novella by what Polish-British novelist? (Novel-00002733_c_7)\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Season of Migration to the North  is a counter narrative to a novella by what Polish-British novelist?",
+      "doc_ids": [
+        "HotpotQA-validation-00002733/01_Heart-of-Darkness.html_c_0",
+        "HotpotQA-validation-00002733/00_Season-of-Migration-to-the-North.html_c_6",
+        "HotpotQA-validation-00002733/00_Season-of-Migration-to-the-North.html_c_7",
+        "HotpotQA-validation-00002733/03_Ghorahi.html_c_0",
+        "HotpotQA-validation-00002733/01_Heart-of-Darkness.html_c_12"
+      ]
+    }
+  ]
+}

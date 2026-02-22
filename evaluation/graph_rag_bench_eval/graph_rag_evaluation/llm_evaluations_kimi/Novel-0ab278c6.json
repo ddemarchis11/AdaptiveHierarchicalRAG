@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0ab278c6",
+  "question": "What circumstances in Miss Euphemia Trotter's early life, as described in the novel, led her to become a teacher at an Eastern seminary, considering her background as a poor girl educated at the same institution?",
+  "gold_answer": "Miss Euphemia Trotter was really a poor girl who had been educated in an Eastern seminary and later became a teacher there.",
+  "llm_answer": "The provided context does not mention Miss Euphemia Trotter, her early life, or her becoming a teacher at an Eastern seminary.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Miss Euphemia Trotter or her early life, but it fails to answer the user's question using internal knowledge or reasoning. While the response is faithful to the context, it does not provide any relevant information or address the Gold Answer, resulting in low correctness and evidence coverage scores."
+  }
+}

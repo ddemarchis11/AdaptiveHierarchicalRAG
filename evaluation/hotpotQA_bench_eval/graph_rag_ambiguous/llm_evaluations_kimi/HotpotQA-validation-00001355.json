@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001355",
+  "question": "Which politician, previously a two-term governor who had run in the Republican primary, secured the presidential nomination of a third party at their 2012 national convention?",
+  "gold_answer": "Gary Earl Johnson",
+  "llm_answer": "Gary Johnson, who had served two terms as governor of New Mexico and initially sought the 2012 Republican presidential nomination, secured the Libertarian Party’s presidential nomination at its 2012 national convention.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Gary Johnson as the politician who secured the Libertarian Party's presidential nomination at its 2012 national convention. It provides additional context about his prior role as a two-term governor of New Mexico and his initial attempt to run in the Republican primary, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

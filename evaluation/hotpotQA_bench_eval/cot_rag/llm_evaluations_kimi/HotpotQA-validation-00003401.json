@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003401",
+  "question": "The first of the Simon Bloom books was optioned by a company founded in what year?",
+  "gold_answer": "1912",
+  "llm_answer": "The evidence does not state the year Walden Media was founded.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide the founding year of Walden Media, but it fails to answer the question using external knowledge or internal reasoning. The Gold Answer specifies the year (1912), which is not addressed in the Model Answer. While the Model Answer is faithful to the context, it does not contain the required information or cover the key fact from the Gold Answer."
+  }
+}

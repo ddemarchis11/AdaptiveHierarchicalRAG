@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21fb6323",
+  "question": "In the years following the British conquest of Canada, how did the British government treat the French language in official matters, particularly regarding its use in law-courts and its status relative to English?",
+  "gold_answer": "The French language was placed on a level with the English language, and the British government made no objection to the use of French in law-courts.",
+  "llm_answer": "The British government made no objection to the use of French in the law-courts.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly states that the British government made no objection to the use of French in law-courts, which aligns with the Gold Answer and the Retrieved Context. However, it omits the detail that the French language was placed on a level with English, which is a key fact from the Gold Answer."
+  }
+}

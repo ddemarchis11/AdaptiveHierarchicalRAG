@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8217a825",
+  "question": "According to the narrative's description of coastal towns, near which location is the town of Falmouth situated?",
+  "gold_answer": "Falmouth is located near FLUSHING.",
+  "llm_answer": "The evidence does not specify the location of Falmouth.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Falmouth is located near Flushing, which is a specific fact. The Model Answer incorrectly claims that the evidence does not specify the location of Falmouth, despite the retrieved context containing an illustration caption explicitly stating 'Falmouth, from Flushing.' This demonstrates a failure in correctness, faithfulness, and evidence coverage."
+  }
+}

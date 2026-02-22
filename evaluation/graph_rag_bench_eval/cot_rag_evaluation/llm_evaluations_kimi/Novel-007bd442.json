@@ -1,0 +1,12 @@
+{
+  "id": "Novel-007bd442",
+  "question": "Through what sequence is Bruin connected to the grandmother?",
+  "gold_answer": "Bruin settled in the cottage, which was home to the grandmother.",
+  "llm_answer": "Bruin is connected to the grandmother through direct conversation and interaction: he addresses her as “dear Madam,” she responds to him, and they jointly discuss how to help the hermit.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer provides a general description of Bruin's interaction with the grandmother but does not address the specific sequence mentioned in the Gold Answer, which is that Bruin settled in the cottage, the grandmother's home. While the context does show Bruin interacting with the grandmother, the Model Answer does not directly connect this to the sequence described in the Gold Answer. Additionally, the Model Answer includes details about their conversation that are partially grounded in the context but does not fully align with the specific facts required by the question."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001577",
+  "question": "According to the 2011 census, what was the recorded population of the affluent south Manchester suburb where a British regional airline has its administrative base?",
+  "gold_answer": "26,788",
+  "llm_answer": "According to the 2011 census, the population of Didsbury—the affluent south Manchester suburb where the British regional airline BA Connect had its administrative base—was 26,788.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Didsbury as the affluent south Manchester suburb with a population of 26,788 according to the 2011 census, matching the Gold Answer and being fully supported by the Retrieved Context."
+  }
+}

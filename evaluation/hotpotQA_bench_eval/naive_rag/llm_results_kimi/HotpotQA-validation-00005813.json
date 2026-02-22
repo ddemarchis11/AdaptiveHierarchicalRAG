@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005813",
+  "question": "What city is the the Iranian Airlines involved in the 1993 Tehran mid-air collision based out of?",
+  "gold_answer": "Tehran, Iran",
+  "llm_answer": "The Iranian airline involved in the 1993 Tehran mid-air collision is Iran Airtour, and its primary base is Mashhad Airport.",
+  "context": [
+    {
+      "text": "The 2009 Iranian Air Force Il-76MD Adnan 2 accident occurred on 22 September 2009, when an Ilyushin Il-76MD Adnan 2 crashed during a flyby near the city of Tehran . Sources conflict on the cause of the loss, with some stating that there was a mid-air collision with an Iranian Air Force Northrop F-5E Tiger II or a HESA Saeqeh , and others stating that the rotodome detached from the aircraft, striking and removing the tailplane while the aircraft was manoeuvring for an emergency landing following an engine fire. The crash resulted in the deaths of all seven people on board the plane and the destruction of Iran's only functional airborne early warning and control (AWACS) aircraft. Accident A military parade was held in Tehran on 22 September 2009 to mark the anniversary of the start of the 1980–1988 Iran–Iraq War and was a send-off for President Mahmoud Ahmadinejad who was to give a speech at the United Nations General Assembly in New York on 23 September. A flyby by the Iranian Air Force was part of the parade involving the AWACS-equipped Ilyushin-76MD as well as Northrop F-5E Tiger IIs and HESA Saeqeh aircraft. Sources vary on the cause of the accident. Some state that a fire developed in one of the engines, and that the radome detached when the aircraft",
+      "id": "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_c_0"
+    },
+    {
+      "text": "On 8 February 1993, Iran Airtour Flight 962 , a Tupolev Tu-154 , collided in mid-air with an Islamic Republic of Iran Air Force (IRIAF) Sukhoi Su-24 attack aircraft near the Iranian capital of Tehran , killing all 133 people aboard both aircraft. It was the deadliest aviation accident in 1993. Aircraft Iran Airtour Flight 962 Flight 962, with 119 passengers and 12 crew on board, departed from runway 29R at Tehran's Mehrabad Airport on a non-scheduled domestic flight to Mashhad International Airport in Mashhad. The aircraft was flown by an unnamed Russian captain who had 12,000 flight hours (the information on the remaining flight crew is unknown). After takeoff, the aircraft was instructed to climb to 6,000 feet (1,800 m). Sukhoi Su-24 At the same time, five IRIAF Sukhoi Su-24 fighter jets were approaching Mehrabad's runway 29L using visual flight rules (VFR). They would later perform special maneuvers for the Iranian Revolution Commemoration Ceremony. The fighter jets flew in a westerly heading and were placed at an altitude of 5,000 feet (1,500 m) by Mehrabad air traffic controller (ATC) Faramarz Sarvi. Collision Flight 962 was climbing at the direction of runway 29R, and at the same time the five",
+      "id": "HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_c_0"
+    },
+    {
+      "text": "[update] , Iran Airtour operates the following aircraft: Accidents and incidents Since 1993, Iran AirTour has had three fatal aircraft accidents. On 8 February 1993, a Tupolev Tu-154 , Iran Airtour Flight 962 , shortly after departure from Tehran International Airport , crashed into a Sukhoi Su-24 of the Iranian Air Force which was landing. In this accident, all 133 people – both pilots of the Su-24 and Tu-154, all 12 crew members, and 119 passengers on board – died. The main cause of this accident was the Sukhoi Su-24 pilot's error. On 12 February 2002, a Tupolev Tu-154 , Iran Airtour Flight 956 , flying from Tehran to Khorramabad , crashed into the Sefid Kooh mountains during heavy rain, snow and dense fog. All 12 crew members and 107 passengers died. On 1 September 2006, a Tupolev Tu-154 , Iran Airtour Flight 945 , flying from Bandar Abbas to Mashhad , with 11 crew and 137 passengers on board, burst into flames upon landing at Mashhad International Airport , 28 out of the 148 passengers and crew died. See also List of airlines of Iran References External links Media related to Iran Airtour at Wikimedia Commons Official website Portals : Iran Companies Aviation",
+      "id": "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_c_2"
+    },
+    {
+      "text": "converted to an AWACS system by the Iraqi Military Industrialization Corporation for the Iraqi Air Force called the Ilyushin Il-76MD Adnan 2 . It had been flown from Iraq to Iran in 1991 during the First Gulf War , given serial number 5-8208 and renamed from \"Baghdad\" to \"Simorgh\" (a flying creature of Iranian fable which performs wonders in mid-flight). After arrival in Iran, Russian technicians had reportedly upgraded the aircraft and installed a newer Iranian-made radar, which could trace flying objects within a 1,000 kilometres (540 nmi) range. The aircraft came into service in April 2008 and was the only AWACS-equipped Iranian aircraft. Possible second aircraft If a mid-air collision was the cause of the accident, some sources state that the second aircraft involved was a Northrop F-5E Tiger II . References",
+      "id": "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_c_2"
+    },
+    {
+      "text": "the original assignment was canceled. After another auction in 2016, the airline was conceded to the private sector . In October 2021, Iran Airtour got permission to fly in the European airspace, making it the second Iranian airline to be able to do so.  Iran Airtour is also one of the companies that has a license for aviation training in Iran (ATO) from the National Aviation Organization. Iran Airtour is a member of the International Air Transport Association (IATA) and holds the IATA Operational Safety Audit (IOSA), audited by IATA-approved auditors. Iran Airtour Airlines consists of more than 1300 specialized and skilled personnel in different parts.  On 17 January 2025, it was reported that Iran Airtour will launch non-stop flights between Tehran and Paris commencing 31 January 2025. The route will be serviced two times weekly with its Airbus A300-600 aircraft. In addition, new routes to Germany , Spain and Italy are in the pipeline and will be launched in March 2025. Destinations Iran Airtour's primary base is Mashhad Airport . As of April 2023, Iran Airtour operates scheduled services to the following destinations. Fleet Airbus A300-600 . McDonnell Douglas MD-82 . As of August 2025 [update] , Iran Airtour operates the following aircraft: Accidents and incidents Since 1993, Iran AirTour has had three",
+      "id": "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Iran Airtour Flight 962 Tupolev Tu-154 collided with IRIAF Su-24 near Tehran on 8 Feb 1993 (HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_c_0).\n- Iran Airtour is the airline that operated Flight 962 (HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_c_0).\n- Iran Airtour’s primary base is Mashhad Airport (HotpotQA-validation-00005813/01_Iran-Air-Tours.html_c_1).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What city is the the Iranian Airlines involved in the 1993 Tehran mid-air collision based out of?",
+      "doc_ids": [
+        "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_c_0",
+        "HotpotQA-validation-00005813/00_1993-Tehran-mid-air-collision.html_c_0",
+        "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_c_2",
+        "HotpotQA-validation-00005813/03_2009-Iranian-Air-Force-Il-76MD-Adnan-2-accident.html_c_2",
+        "HotpotQA-validation-00005813/01_Iran-Air-Tours.html_c_1"
+      ]
+    }
+  ]
+}

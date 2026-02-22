@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005988",
+  "question": "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne?",
+  "gold_answer": "Alan Tudyk",
+  "llm_answer": "Alan Tudyk",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Alan Tudyk as the actor who starred in '3:10 to Yuma' and is also known for his role as Hoban Washburne. This is supported by the retrieved context, which explicitly mentions Tudyk's roles in both '3:10 to Yuma' and 'Firefly/Serenity.' The answer is concise but fully accurate and grounded."
+  }
+}

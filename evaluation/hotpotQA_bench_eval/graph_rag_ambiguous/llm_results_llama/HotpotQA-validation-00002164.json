@@ -1,0 +1,296 @@
+{
+  "id": "HotpotQA-validation-00002164",
+  "question": "The neurologist and author who compiled the first standalone introductory rulebook for a seminal fantasy tabletop roleplaying game held an academic position at which university?",
+  "gold_answer": "University of Southern California",
+  "llm_answer": "I cannot verify the academic position of the neurologist and author who compiled the first standalone introductory rulebook for a seminal fantasy tabletop roleplaying game.",
+  "context": [
+    {
+      "text": "The Dungeons & Dragons Basic Set is a set of rulebooks for the Dungeons & Dragons ( D&D ) fantasy role-playing game . First published in 1977, it saw a handful of revisions and reprintings. The first edition was written by J. Eric Holmes based on Gary Gygax and Dave Arneson 's original work. Later editions were edited by Tom Moldvay , Frank Mentzer , Troy Denning , and Doug Stewart. The Basic Set details the essential concepts of the D&D game. It provides the rules for character creation and advancement for player characters at beginning levels . It also includes information on how to play adventures inside dungeons for both players and the Dungeon Master . 1977 version The original Dungeons & Dragons Basic Set was published by TSR, Inc. in 1977. TSR hired outside writer John Eric Holmes to produce the Basic Set as an introductory version of the D&D game. It incorporates game concepts from the original 1974 D&D boxed set plus Supplement I: Greyhawk . The rulebook is intended for characters of levels one through three, with rules for adventuring in dungeons, and introduces the main concepts of the game; it explains the game's concepts and method of play in terms that make them accessible to new players ages twelve and older who might not be familiar with the rules and structure of tabletop miniatures wargaming . Although the Basic Set was not fully compatible with Advanced Dungeons & Dragons , players were expected to continue play beyond third level by moving to AD&D , which was released beginning later that year. Holmes preferred a lighter tone with more room for personal improvisation, while Gary Gygax, who wrote the Advanced books, wanted an expansive game with rulings on any conceivable situation which might come up during play, and so could be used to arbitrate disputes at tournaments. The first Basic Set was available as a 48-page standalone rulebook featuring artwork by David C. Sutherland III , or as part of a boxed set , which was packaged in a larger, more visually appealing box than the original boxed set, allowing the game to be stocked on retail shelves and targeted at the general public via toy stores. The boxed set included a set of polyhedral dice and supplemental materials. In that same year, Games Workshop (U.K.) published their own version of the rulebook, with a cover by John Blanche , and illustrations by Fangorn. The boxed set contained geomorphs , lists of monsters and treasures, and a polyhedral dice set as supplemental materials. For a period in 1979, TSR experienced a dice shortage. Basic sets published during this time frame came with two sheets of numbered cutout cardstock chits that functioned in lieu of dice, along with a coupon for ordering dice from TSR. The rulebook also included a brief sample dungeon with a full-page map. Starting with the fourth printing in 1978, the two booklets of maps, encounter tables, and treasure lists were replaced",
+      "id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_c_0",
+      "doc_id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html",
+      "community_id": 5,
+      "score": 35.910107
+    },
+    {
+      "text": "chits that functioned in lieu of dice, along with a coupon for ordering dice from TSR. The rulebook also included a brief sample dungeon with a full-page map. Starting with the fourth printing in 1978, the two booklets of maps, encounter tables, and treasure lists were replaced with the module B1 In Search of the Unknown ; printings six through eleven (1979–1982) featured the module B2 The Keep on the Borderlands instead. Jon Peterson, for Polygon , highlighted that Dave Arneson sued TSR over Basic Set royalties in 1977 – Arneson was only being paid royalties for the Basic D&D rulebook included in the boxed set and was not paid for the \"cover price of the whole Basic Set \". Peterson wrote \"as Arneson's lawsuit loomed, TSR made a very pointed substitution to the contents of the Basic Set : they rotated out the Dungeon Geomorphs and Monster & Treasure Assortment booklets, replacing them with Mike Carr's In Search of the Unknown module. [...] It was a good idea to target a module at beginning dungeon masters — but it also had clear implications for the legal situation. Previously, when Arneson sought a 5% royalty on the whole contents of the Basic Set , he was effectively asking for money that was going into Gygax's pocket. Now, he would instead be asking for money earmarked for his friend Mike Carr\". Carr received royalties for In Search of the Unknown when the module was sold alone and when it was included in the Basic Set . After the September 1979 disappearance of James Dallas Egbert III , Dungeons & Dragons received \"mainstream notoriety. And with that, sales of the Basic Set rose dramatically. Right before the steam tunnel incident, the Basic Set might have sold 5,000 copies a month. By the end of 1979, it was trading over 30,000 copies per month, and only going up from there\". Following Carr's financial success due to his module being included in the boxed set, Gygax changed the module included with the Basic Set to Keep on the Borderlands which was a module he wrote. 1981 revision After the release of the AD&D game, the Basic Set saw a major revision in 1981 by editor Tom Moldvay . The game was not brought in line with AD&D but instead further away from that ruleset, and thus the basic D&D game became a separate and distinct product line from AD&D . The former was promoted as continuing the tone of original D&D , while AD&D was an advancement of the mechanics. The revised version of the set included a larger, sixty-four page rule book with a red border and a color cover by Erol Otus , the adventure B2 The Keep on the Borderlands , a set of six polyhedral dice, as well as a marking crayon. The book came drilled with holes so that it could",
+      "id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_c_1",
+      "doc_id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html",
+      "community_id": 5,
+      "score": 28.432625
+    },
+    {
+      "text": "access to high er level rules to handle the non-play er character antagonists in his adventures. Nonetheless, this is an excellent introductory package, perfect for youths and casual beginners - good-looking, smooth-reading, right-spirited, and reasonably priced.\" In a retrospective review of Dungeons & Dragons Basic Set in Black Gate , Scott Taylor said: \"In the 'box' I had it all, the player's book with the classes, the experience charts, and the equipment. The dungeon master's booklet provided the finer points of the rules, the monsters, and the treasure I'd be able to find after hard-fought battle\". Scott Taylor for Black Gate in 2014 listed the Mentzer edition Basic D&D Boxed Set by Larry Elmore as #2 in The Top 10 TSR Cover Paintings of All Time. See also Editions of Dungeons & Dragons References Reviews: Dragon #84 (1984) External links The Inside Scoop on Gaming - RPGnet The Inside Scoop on Gaming - RPGnet",
+      "id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_c_5",
+      "doc_id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html",
+      "community_id": 5,
+      "score": 21.825016
+    },
+    {
+      "text": "Irwin M. Marcus (March 18, 1919 – October 3, 2021) was an American board certified psychiatrist , neurologist , psychoanalyst , medical educator, visual artist, and sculptor. He was a practicing psychiatrist, sex therapist , marriage counselor , psychoanalyst, child psychiatrist, and family counselor for over six decades. Marcus started the Child Psychiatry Program at Tulane University School of Medicine in 1952, he was a Founder and President of the New Orleans Psychoanalytic Institute, Emeritus Professor of Clinical Psychiatry at LSU School of Medicine , and was considered a psychoanalytic scholar. In June 2012, the American Academy of Child and Adolescent Psychiatry named Marcus a Distinguished and Life Member. He was also a Distinguished Life Fellow of the American Psychiatric Association and a Fellow of the American College of Physicians . Personal life Marcus was married to Dorothy Elrod, sister of Chicago politician and judge Richard Elrod . He was then married to former journalist Angela Hill . He turned 100 in March 2019, and died on October 3, 2021, at the age of 102. Military service Marcus was a World War II veteran . The day after the attack on Pearl Harbor , he enlisted in the United States Army as a neurologist and psychiatrist . Publications Marcus's writings are reflected in his authorship or co-authorship in hundreds of published medical articles, chapters and books on various aspects of sex therapy, marriage counseling, child psychiatry , family counseling, psychoanalysis and medical education, as well as ethical , socio-economic and philosophic discussions in these fields. Marcus, Irwin M. (2004). Why Men Have Affairs? . New Orleans: Bon Temps Press. ISBN 978-0975359204 . LCCN 2004104195 . OCLC 56315166 . Marcus, Irwin M.; Francis, John J. (1979). La masturbazione [ Masturbation: From infancy to senescence ] (in Italian). Translated by Maura Pizzorno. Milano: Feltrinelli. OCLC 450626870 . Marcus, Irwin M.; Francis, John J. (1975). Masturbation: From infancy to senescence . New York: International Universities Press. ISBN 978-0823631506 . LCCN 73016855 . OCLC 1176970 . Marcus, Irwin M. (1972). Currents in Psychoanalysis . New York: International Universities Press. ISBN 978-0823611058 . LCCN 74139116 . OCLC 309230 . Marcus, Irwin M. (1960). An interdisciplinary approach to accident patterns in children . Lafayette, IN: Child Development Publications of the Society for Research in Child Development. LCCN 60002550 . OCLC 1082420 . Newton, Niles (1957).",
+      "id": "HotpotQA-validation-00000577/03_Irwin-Marcus.html_c_0",
+      "doc_id": "HotpotQA-validation-00000577/03_Irwin-Marcus.html",
+      "community_id": 1,
+      "score": 16.180252
+    },
+    {
+      "text": "the costs rise to $38,228 and $39,069 respectively. As of the 2024–2025 academic school year, the estimated cost of tuition for in-state students is $14,222, $33,734 for out-of-state students, and $15,332 for Room and Board. In the 2010–2011 academic year, undergraduate students at Rutgers, through a combination of federal (53.5%), state (23.6%), university (18.1%), and private (4.8%) scholarships, loans, and grants, received $492,260,845 of financial aid . 81.4% of all undergraduates, or 34,473 students, received some form of financial aid. During the same period, graduate students, through a combination of federal (61.9%), state (1.8%), university (34.5%), and private (1.9%) scholarships, loans, and grants received $182,384,256 of financial aid. 81.5% of all graduate students, or 11,852 students received some form of financial aid. Alongside Pell and TAG grant which are well-known federal and state aids, Rutgers provides EOF grant, merit based scholarships such as SAS Excellence Award, Scarlet Guarantee, and many other forms of aid. Rutgers is an active participant of the EOF program giving financially or academically disadvantaged students resources to success. Furthermore, the Scarlet Guarantee covers any tuition cost for students whose aid might not if the student's household income is below a certain amount. Apart from need based aid, Rutgers University have a list of Scholarships which first-time or continuing students can apply to based upon GPA and/or extra-curriculum involvement. The University also offers multiple opportunities for students to earn while in college through Federal Work Study, on-campus employment, and internships. In 2007, the university's Office for Enrollment Management launched the Rutgers Future Scholars Program as an initiative to help 7th graders from low-income families achieve academic success and be the first in their families to go to college. The program targets students from the school systems of Rutgers's hometowns, New Brunswick/Piscataway, Newark, and Camden. Once admitted, the students receive mentoring and college prep courses each summer leading up to the year of their college applications. If admitted to the university, they are given a full tuition scholarship for four years of undergraduate study. The program has been very successful and currently admits as many as 200 new 7th graders each year with most of the original 200 now attending the university as undergraduates. Academic Support Rutgers University have a variety of resources to help students succeed academically. Rutgers offers academic counselling to help students plan a study schedule, plan a schedule for the semester, decide their major, and complete their major requirements in time. The Learning Centers at Rutgers provide Peer Tutoring and Study Groups where students can work with or receive help from others who are taking or",
+      "id": "HotpotQA-validation-00000352/00_Rutgers-University.html_c_10",
+      "doc_id": "HotpotQA-validation-00000352/00_Rutgers-University.html",
+      "community_id": 1,
+      "score": 15.799121
+    },
+    {
+      "text": "someone outside the TSR establishment who knew a noun from a verb, and the difference shows\". Freeman gave this game an Overall Evaluation of \"Very Good\", concluding: \"It's still preferable to participate in an ongoing campaign, but if you must venture into RPG country without a guide, this is the first place to visit\". Clayton Miner reviewed the 1981 version of the Basic Set for Pegasus magazine #1 (1981). Miner commented that \"the book is a vast improvement over the earlier version. Better organization and well written rules are the main features of this edition\". Anders Swenson and Douglas Law reviewed the Dungeons & Dragons Basic Set and Dungeons & Dragons Expert Set for Different Worlds magazine and stated that \"the new D&D Basic and Expert Sets should be a smooth introduction to the hobby of adventure-game playing for vast numbers of new players and an enjoyable addition to the libraries of experienced players. We recommend this version of the game over the previous editions, especially for beginners, because it is clearer, better organized, and more refined\". Games magazine included Dungeons & Dragons, Basic Set in their \"Top 100 Games of 1981\", noting that it \"is actually a set of books that tell you how to create adventures in a magical fantasy world\". Games magazine included Dungeons & Dragons, Basic Set in their \"Top 100 Games of 1982\", describing it as \"more than a game, it's a cooperative exercise limited only by the players' imaginations. For advanced players there are dozens of excellent supplemental books, adventures, and playing aids\". Doug Cowie reviewed the 1983 version of the Basic Set for Imagine magazine and gave it a positive review. According to Cowie, while the rules stay the same, thus allowing those with the older version to continue using their sets, the presentation has changed. He approved of the fact that \"at long last\", a game company released a product that explains to someone new to role-playing games how to get started. Cowie ended his review by stating that \"Basic is a lot closer to the spirit of the original game than is the rambling, unwieldy and sometimes pompous Advanced\" and that \"for one-off dungeon type games I would recommend Basic to anyone, beginner and veteran alike\". Ken Rolston reviewed Dungeons & Dragons: Basic Rules Set 1 for Different Worlds magazine and stated that \"Is the Basic Rules Set complete? Technically yes - the package contains ample material for many hours of gaming. However, the Expert Rules are really necessary if a regular gaming group develops. Personal observation indicates that young players will go through the set's three character levels in no time at all, and the gamemaster will certainly want access to high er level rules to handle the non-play er character antagonists in his adventures. Nonetheless, this is an excellent introductory package, perfect for youths and casual beginners - good-looking, smooth-reading, right-spirited, and reasonably priced.\" In a retrospective review of Dungeons & Dragons Basic",
+      "id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_c_4",
+      "doc_id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html",
+      "community_id": 5,
+      "score": 15.646485
+    },
+    {
+      "text": "The 1911 Alabama Crimson Tide football team (variously \"Alabama\", \"UA\" or \"Bama\") represented the University of Alabama in the 1911 college football season . It was the Crimson Tide's 19th overall and 16th season as a member of the Southern Intercollegiate Athletic Association (SIAA). The team was led by head coach D. V. Graves , in his first year, and played their home games at the University of Alabama Quad in Tuscaloosa and the Birmingham Fairgrounds in Birmingham , Alabama . They finished the season with a record of five wins, two losses and two ties (5–2–2 overall, 2–2–2 in the SIAA). In June 1911, Guy Lowman resigned from his position of head coach and athletic director at Alabama, and one month later the hiring of Graves to serve in both capacities was announced by the university president. Under Graves, Alabama opened their season with a pair of victories over Howard and Birmingham College at Tuscaloosa. They were then upset by Georgia at Birmingham before playing both Mississippi A&M and Georgia Tech to ties on the road. After a victory over Marion Military Institute in their final road game of the season, Alabama closed the season with victories over both Tulane and Davidson and an upset loss to Sewanee . Schedule Before the season On June 21, 1911, Kansas State Agricultural College (now known as Kansas State University ) announced Alabama head coach and athletic director Guy Lowman had been hired to serve in the same capacities at Kansas State. After a month-long search, on July 21, university president John Abercrombie offered the job of professor of physical training and athletic director to D. V. Graves to which he accepted immediately via telegraph . The appointment was inclusive of him serving as head coach of all athletic teams at Alabama, including football. Graves was selected as he was the most highly recommended candidate, and he also played baseball for a single-season under Lowman while in college at the University of Missouri . Game summaries Howard (AL) Week 1: Howard at Alabama Date: September 30 Location: The Quad Tuscaloosa, AL Referee: Donnelley Sources: Alabama opened the season with a 24–0 shutout victory over Howard (now Samford ) at Tuscaloosa. After a scoreless first quarter, the Crimson Tide took a 6–0 lead into halftime after Farley Moody scored on a 40-yard punt return for a touchdown. After a scoreless third, Alabama then closed the game with a trio of fourth quarter touchdowns. Robert Bumgardner scored first on a five-yard run, Moody on a one-yard run and Charlie Joplin on a 65-yard reception. The victory brought Alabama's all-time record against Howard to 4–0. The starting lineup was Hargrove Vandegraaff (left end), Harold Mustin Powell",
+      "id": "HotpotQA-validation-00001644/03_1911-Alabama-Crimson-Tide-football-team.html_c_0",
+      "doc_id": "HotpotQA-validation-00001644/03_1911-Alabama-Crimson-Tide-football-team.html",
+      "community_id": 3,
+      "score": 13.101102
+    },
+    {
+      "text": "South African PhD graduate (on the right, wearing a ceremonial gown) Detailed requirements for the award of a PhD degree vary throughout the world and even from school to school. It is usually required for the student to hold an Honours degree or a Master's degree with high academic standing, in order to be considered for a PhD program.  In the US, Canada, India, Sweden and Denmark, for example, many universities require coursework in addition to research for PhD degrees. In other countries (such as the UK) there is generally no such condition, though this varies by university and field. Some individual universities or departments specify additional requirements for students not already in possession of a bachelor's degree or equivalent or higher. In order to submit a successful PhD admission application, copies of academic transcripts, letters of recommendation, a research proposal, and a personal statement are often required. Most universities also invite for a special interview before admission. A candidate must submit a project, thesis, or dissertation often consisting of a body of original academic research, which is in principle worthy of publication in a peer-reviewed context. Moreover, some PhD programs, especially in science, require one to three published articles in peer-reviewed journals. In many countries, a candidate must defend this work before a panel of expert examiners appointed by the university; this defense is open to the public in some countries, and held in private in others; in other countries, the dissertation is examined by a panel of expert examiners who stipulate whether the dissertation is in principle passable and any issues that need to be addressed before the dissertation can be passed. Some universities in the non- English -speaking world have begun adopting similar standards to those of the anglophone PhD degree for their research doctorates (see the Bologna process ). A PhD student or candidate is conventionally required to study on campus under close supervision. With the popularity of distance education and e-learning technologies, some universities now accept students enrolled into a distance education part-time mode. In a \" sandwich PhD \" program, PhD candidates do not spend their entire study period at the same university. Instead, the PhD candidates spend the first and last periods of the program at their home universities and in between conduct research at another institution or field research . Occasionally a \"sandwich PhD\" will be awarded by two universities. It is possible to broaden the field of study pursued by a PhD student by the addition of a minor subject of study within a different discipline. Value and criticism A career in academia generally requires a PhD, although in some countries it is possible to reach relatively high positions without a doctorate. In North America, professors are increasingly being required to have a PhD, and the percentage of faculty with a PhD may be used as a university ratings measure. The motivation may also include increased salary, but in many cases, this is not the result. Research by Bernard H. Casey of the University of Warwick, U.K, suggests that, over all subjects, PhDs provide an earnings",
+      "id": "HotpotQA-validation-00006634/01_Doctor-of-Philosophy.html_c_6",
+      "doc_id": "HotpotQA-validation-00006634/01_Doctor-of-Philosophy.html",
+      "community_id": 7,
+      "score": 13.07927
+    },
+    {
+      "text": "Dungeons & Dragons Immortals Rules , written by Frank Mentzer , is a boxed set for the Dungeons & Dragons ( D&D ) fantasy role-playing game first published by TSR in 1986 as an expansion to the Basic Set . Publication history The Dungeons & Dragons Basic Set was revised in 1983 by Frank Mentzer as Dungeons & Dragons Set 1: Basic Rules . Between 1983 and 1985, the system was revised and expanded by Mentzer as a series of five boxed sets, including: the Basic Rules (supporting character levels 1–3), Expert Rules (supporting levels 4–14), Companion Rules (supporting levels 15–25), Master Rules (supporting levels 26–36), and Immortals Rules (supporting Immortals—characters who had transcended levels). The Immortals Rules set contains two booklets: one is fifty-two pages long and the other is thirty-two pages. The booklets, Player's Guide to Immortals and DM's Guide to Immortals , were written by Frank Mentzer and edited by Anne Gray McCready , with cover artwork by Larry Elmore , and interior illustrations by Elmore and Jeff Easley . Harold Johnson also had a role in editing and development. Contents Immortals Rules is a supplement intended for player characters after successfully completing the requirements for achieving immortality as detailed in the Master Rules . This set adds a system in which characters that attain immortality exchange all of their experience points for power points at a rate of ten thousand to one. Players can spend these power points to permanently increase attribute scores, and to use a magic point system to give the character new special abilities. Immortals advance in ranks instead of levels; a character must keep enough power points to maintain a rank, and will need to compete in the Olympics to get promoted to the next rank. The combat and magic systems have been modified to account for Immortal powers. Each Immortal player character has an abundance of powers, literally able to cast any magic spell in addition to new combat abilities. The rules detail playing transhuman Immortal characters, and cover their powers, artifacts, and relationships with each other, as well as their ability to construct their own personal \"home planes\". The set also presents powerful new monsters, and suggestions for adventure scenarios. The set describes the history of Immortals within the D&D game: once there were only three Immortals, who discovered the multiverse , and decided to give it order and purpose. This set expands the D&D multiverse system, with an Astral Plane that permeates and connects the whole of the multiverse. In addition to the Astral Plane, there are also the Prime Material Plane , elemental planes, the Ethereal Planes , and many outer planes; these outer planes range from mono-spatial atto-planes (about 1/3\" big) to penta-spatial tera-planes",
+      "id": "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_c_0",
+      "doc_id": "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html",
+      "community_id": 1,
+      "score": 13.024829
+    },
+    {
+      "text": "win over West Georgia but fell short to Delta State on the road. After a 3–2 start, the Tigers reeled off three consecutive wins including a last-second Homecoming triumph over Henderson State . It appeared the game had ended, but officials put a second back on the clock. Quarterback Deon Williams connected to wide receiver Gerald Worsham in the back of the endzone for the game-winner. The team dropped back-to-back heartbreakers the following two weeks before returning home to face Valdosta State in the season finale. The day before the contest, Bobby Wallace announced to his players that he would be stepping down as head coach upon the end of the season. After falling behind and trailing at the half, the Tigers upset the #7 ranked Blazers to give Wallace a victory in his final game. The team notched its second win ever against Valdosta State and picked up their first win in the series since 1985. UWA finished the season 7–4 to earn consecutive winning seasons for the first time since 1991 and 1992. Deon Williams was recognized as one of 24 candidates for the Harlon Hill Trophy, the Division II equivalent to Division I 's Heisman Trophy . Offensive coordinator Will Hall was named Bobby Wallace's successor a week after the season concluded. Bobby Wallace was inducted into the Division II Hall of Fame in December to close out a storied career. The 2011 team went 8–4, beat DI foe Georgia State, and qualified for the NCAA DII tournament. The 2012 team went undefeated in Gulf South play (5-0) to claim the conference title. UWA defeated Miles College 41–7 in round one of the playoffs. The team lost at eventual national champion Valdosta State 49–21 in the second round. UWA finished 9–4. The 2013 team finished with an 8–3 (5–1)overall record. The Tigers claimed back to back GSC titles for the first time in history with a 5–1 GSC record. In that year they beat 4 rank team, including Delta state and #1 rank team Valdosta in consecutive weeks. Coach Hall resigned to become the coach of West Georgia. Brett Gilliland then took his place as head coach of the Tigers. In his first year, he would go 5–6 and have five all GSC players. In June 2024, Gilliland was named interim athletic director at West Alabama after the retirement of Kent Partridge, while remaining on the sidelines as the Tigers' head coach. West Alabama eventually removed the interim tag from Gilliland, after which he resigned as head football coach. On February 3, 2025, former Alabama and Georgia strength and conditioning coach Scott Cochran was named head coach of the Tigers. Championships National championships Postseason appearances NCAA Division II West Alabama have made seven appearances in the NCAA Division",
+      "id": "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_c_4",
+      "doc_id": "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html",
+      "community_id": 4,
+      "score": 12.744332
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "summary": "**Title**: John Eric Holmes Bibliography\n\n**Summary**:  \nJohn Eric Holmes (1930-2010) was a neurologist, professor, and prolific author whose works spanned academic neurology, fantasy role-playing games, and speculative fiction. He edited the 1977 Dungeons & Dragons Basic Set, authored the textbook Basic Human Neurophysiology, and wrote numerous short stories and novels set in Edgar Rice Burroughs’s Pellucidar, Buck Rogers, and Conan universes. His fiction includes the collected Boinger & Zereth tales and standalone stories in Dragon and Alarums & Excursions, while his nonfiction ranges from brain-science articles in Analog to essays on gaming psychology.\n\n**Keywords**:  \nD&D Basic Set, Pellucidar pastiches, Boinger & Zereth, Analog neurology articles, fantasy RPG essays",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000577/03_Irwin-Marcus.html_1",
+      "summary": "**Title**: Irwin M. Marcus Psychoanalytic Legacy\n\n**Summary**: Irwin M. Marcus was a pioneering American psychiatrist, neurologist, and psychoanalyst who shaped child and adolescent psychiatry for over 60 years. He founded the Child Psychiatry Program at Tulane in 1952, led the New Orleans Psychoanalytic Institute, and authored seminal works on sex therapy, marriage counseling, and child development. His extensive publications span psychoanalysis, family counseling, and ethical issues in medicine, cementing his reputation as a distinguished scholar and educator.\n\n**Keywords**: child psychiatry, psychoanalysis, sex therapy, medical education, Tulane University",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/00_Migene-Gonzlez-Wippler.html_0",
+      "summary": "**Title**: Migene González-Wippler & Santería  \n\n**Summary**: Migene González-Wippler is a Puerto Rican cultural anthropologist and prolific new-age author best known for her authoritative works on Santería, the Afro-Caribbean religion. With advanced degrees in psychology and anthropology from the University of Puerto Rico and Columbia University, she blends academic rigor with practical insight. Her career spans science editing for major institutions and lecturing worldwide, while her extensive bibliography covers Santería rituals, Kabbalah, magic, and dream interpretation.  \n\n**Keywords**: Santería, cultural anthropology, Afro-Caribbean religion, Migene González-Wippler, new-age author",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "summary": "**Title**: Keep on the Borderlands Legacy  \n\n**Summary**:  \n“The Keep on the Borderlands,” Gary Gygax’s 1979 introductory D&D module, became the gateway adventure for millions of players after it replaced Mike Carr’s B1 in the Basic Set, ultimately selling ~750k copies a year at the 1981 D&D boom’s peak. Reviewers praised its beginner-friendly cave-crawl structure, modular session design, and enduring nostalgic charm, while later critics noted its generic setting and simple plot. The module spawned sequels, novelizations, reprints, and adaptations across five editions of D&D, as well as retro-clones, video-game versions, and a forthcoming 2025 starter set, securing its status as one of the most revisited and reprinted adventures in RPG history.  \n\n**Keywords**:  \nD&D Basic Set, Caves of Chaos, introductory module, reprints & adaptations, nostalgic classic",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000352/00_Rutgers-University.html_1",
+      "summary": "**Title**: Rutgers University Academic & Financial Overview\n\n**Summary**:  \nRutgers University provides extensive academic support including free counseling, peer tutoring, and specialized programs like RUCATS for computer science. It offers over 100 undergraduate, 100 master’s, and 80 doctoral programs across three campuses, with New Brunswick classified as an R1 research institution. Admissions are moderately selective with a 68% acceptance rate and strong retention and graduation rates. Financial aid is widely accessible, with 81% of undergraduates receiving assistance through federal, state, university, and private sources. Programs like the Scarlet Guarantee and Rutgers Future Scholars support low-income and first-generation students with full tuition coverage.\n\n**Keywords**:  \nRutgers University, academic support, financial aid, admissions, R1 research",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006567/03_Andrew-Davis-Bruce.html_3",
+      "summary": "**Title**: General Andrew D. Bruce Biography\n\n**Summary**: Lieutenant General Andrew Davis Bruce was a decorated U.S. Army officer and academic who served in both World Wars, earning the Distinguished Service Cross and founding Fort Hood, Texas. After commanding the 77th Infantry Division in key Pacific battles such as Guam, Leyte, and Ie Shima, he became military governor of Hokkaidō and later the third president of the University of Houston. At the university, he championed the construction of an interfaith chapel and improved academic standards. Bruce retired from the Army in 1954 and from academia in 1961, leaving a legacy honored by monuments, highway names, and military awards.\n\n**Keywords**: Andrew D. Bruce, 77th Infantry Division, Fort Hood, University of Houston, Distinguished Service Cross",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004159/03_NBL-Canada-All-Star-Game.html_0",
+      "summary": "**Title**: NBL Canada All-Star Game\n\n**Summary**: The NBL Canada All-Star Game is an annual exhibition event organized by the National Basketball League of Canada, first held in 2012. Initially featuring randomly divided teams led by captains, the format later shifted to division-based matchups between the Central and Atlantic Divisions. The 2014 edition introduced coach-voted player selections, and the game is part of a larger All-Star Weekend that includes the Three-Point Shootout and Slam Dunk Championship.\n\n**Keywords**: NBL Canada, All-Star Game, exhibition, All-Star Weekend, basketball",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000668/01_Rogue-One.html_4",
+      "summary": "**Title**: Rogue One Production & Casting\n\n**Summary**:  \nThe chunks detail the development, casting, and filming of *Rogue One: A Star Wars Story*, emphasizing its unique position as the first standalone anthology film. Multiple writers—including Tony Gilroy, Chris Weitz, and Gary Whitta—reshaped the script, ultimately opting for a darker ending where the main characters perish. Casting saw Felicity Jones confirmed as Jyn Erso in March 2015, with Diego Luna, Ben Mendelsohn, Riz Ahmed, and Forest Whitaker joining shortly after. Principal photography spanned Pinewood Studios and global locations such as Iceland, Jordan, and the Maldives, while post-production featured extensive reshoots directed by Gilroy and digital resurrection of Peter Cushing’s Grand Moff Tarkin.\n\n**Keywords**:  \nRogue One, casting, reshoots, Tony Gilroy, digital effects",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006634/01_Doctor-of-Philosophy.html_7",
+      "summary": "**Title**: Evolution of the PhD Degree\n\n**Summary**:  \nThe Doctor of Philosophy (PhD) evolved from medieval European academic traditions, where doctorates were awarded for advanced scholarship rather than original research. In the 19th century, German educational reforms, particularly at the University of Berlin, transformed the PhD into a research-based degree requiring a dissertation. This model influenced global academia, including the United States, where Yale awarded the first PhDs in 1861. Over time, the PhD spread across Europe and beyond, adapting to national educational systems. Today, PhD requirements vary by country and institution, typically involving coursework, research, and a dissertation defense, and the degree remains a key credential for academic careers.\n\n**Keywords**:  \nPhD history, doctoral education, academic degrees, dissertation, research doctorate",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "summary": "**Title**: Emilie de Ravin's Acting Career\n\n**Summary**: Emilie de Ravin gained prominence through her role as Belle on ABC’s fantasy drama Once Upon a Time, becoming a series regular after initially guest-starring. She first rose to wider attention on the hit series Lost, which drew massive audiences throughout its run. Her filmography spans indie and mainstream cinema, including the neo-noir Brick, the horror remake The Hills Have Eyes, the romantic drama Remember Me opposite Robert Pattinson, and the indie feature The Submarine Kid. She has also appeared in Public Enemies and The Perfect Game, and was once attached to the video-game adaptation Onimusha before its cancellation.\n\n**Keywords**: Emilie de Ravin, Once Upon a Time, Lost, Remember Me, filmography",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004159/02_47th-National-Hockey-League-All-Star-Game.html_1",
+      "summary": "**Title**: 1997 NHL All-Star Game\n\n**Summary**: The 47th NHL All-Star Game, held on January 18, 1997, at San Jose Arena, saw the Eastern Conference defeat the Western Conference 11–7. Mark Recchi’s hat-trick earned him MVP honors, while Owen Nolan thrilled the home crowd with a hat-trick that included a memorable called-shot goal. The weekend also featured the Eastern Conference’s first Super Skills victory since 1992, with standout wins by Al MacInnis (Hardest Shot), Ray Bourque (Accuracy), and John Vanbiesbrouck (Goaltenders).\n\n**Keywords**: 1997 NHL All-Star Game, Mark Recchi, Owen Nolan, Super Skills Competition, San Jose Sharks",
+      "is_seed": true,
+      "expand_score": 0.8171083927154541
+    },
+    {
+      "community_key": "HotpotQA-validation-00001939/03_Neman-album.html_0",
+      "summary": "**Title**: Klopka Za Pionira's Neman Album\n\n**Summary**: *Neman* is a 2006 instrumental noise-rock album by Serbian band Klopka Za Pionira, released on the independent Ne-ton label. The five untitled tracks are pure improvisations captured in single takes, showcasing the band’s self-built noise machines rather than conventional instruments. Acting as a sonic laboratory, the record previews techniques and textures the group would refine on later releases. Its raw, unedited performances position *Neman* as both a standalone experiment and a blueprint for the band’s subsequent work.\n\n**Keywords**: Klopka Za Pionira, Neman album, noise-rock improvisation, Serbian underground, 2006 instrumental",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002473/03_Pooley-Hubert.html_1",
+      "summary": "**Title**: Pooley Hubert Football Legacy\n\n**Summary**: Allison \"Pooley\" Hubert was a legendary University of Alabama quarterback (1922-1925) who led the Crimson Tide to its first bowl victory in the 1926 Rose Bowl, a game credited with transforming Southern football. A triple-threat star who played offense, defense, and special teams, Hubert scored 35 touchdowns and was hailed by coach Wallace Wade as one of the greatest players ever. After captaining Alabama’s first conference-championship team in 1924 and securing the 1925 national title, he enjoyed a long coaching career at Mississippi State Teachers College and VMI, compiling a 69-69-13 collegiate record before retiring to peach farming and high-school coaching.\n\n**Keywords**: Pooley Hubert, Alabama football, 1926 Rose Bowl, college football Hall of Fame, Southern football history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004159/00_53rd-National-Hockey-League-All-Star-Game.html_3",
+      "summary": "**Title**: 2003 NHL All-Star Game Highlights\n\n**Summary**: The 53rd NHL All-Star Game, held on 2 February 2003 in Sunrise, Florida, returned to the Eastern vs. Western Conference format and featured a record-setting offensive showcase. Atlanta Thrashers forward Dany Heatley stole the spotlight by scoring four consecutive goals—tying an All-Star record—and adding the East’s lone shootout tally, earning him MVP honors. After regulation ended 5-5, the Western Conference secured a 6-5 victory in the first shootout finish in All-Star history. The weekend also included the YoungStars exhibition (East won 8-3) and the SuperSkills Competition (West won 15-9), with Al MacInnis capturing his seventh Hardest Shot title.\n\n**Keywords**: Dany Heatley, NHL All-Star Game 2003, shootout, MVP, SuperSkills",
+      "is_seed": true,
+      "expand_score": 0.8171083927154541
+    },
+    {
+      "community_key": "HotpotQA-validation-00002303/03_Journal-of-Accounting-and-Economics.html_0",
+      "summary": "**Title**: Journal of Accounting and Economics\n\n**Summary**: The Journal of Accounting and Economics is a peer-reviewed academic journal covering research at the intersection of accounting and economics. Led by editors from MIT, Stanford, and the University of Pennsylvania, it achieved a 2021 impact factor of 7.239. Rankings place it among the top-tier journals in its field, with the Tinbergen Institute listing it in category A for quality.\n\n**Keywords**: accounting research, economics journals, impact factor, peer-reviewed, academic ranking",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/01_Santera.html_28",
+      "summary": "**Title**: Afro-Cuban Santería Studies\n\n**Summary**:  \nThis collection of academic references centers on the history, practice, and scholarly interpretation of Santería and related Afro-Cuban religions. Key themes include the religion’s evolution from repressed “brujería” to recognized cultural heritage, its role in mental health and healing, and its transnational spread. Works trace how early 20th-century scholars like Fernando Ortiz pathologized Afro-Cuban rituals, while later researchers such as Rómula Lachatañeré reframed Santería as a legitimate religious system. Studies also examine possession performance, divination, diasporic adaptation, and the interplay between Santería, Catholic imagery, and revolutionary Cuban politics.\n\n**Keywords**:  \nSantería, Afro-Cuban religion, brujería, possession rituals, diaspora",
+      "is_seed": false,
+      "expand_score": 0.8385230898857117
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "summary": "**Title**: Dungeons & Dragons Basic Set Editions\n\n**Summary**:  \nThe Dungeons & Dragons Basic Set evolved through multiple revisions from 1977 to 1994, each aiming to streamline rules and attract new players. Early editions included modules like *In Search of the Unknown* and *Keep on the Borderlands*, with legal disputes influencing content choices. The 1981 Moldvay revision introduced clearer rules and vibrant presentation, while the 1983 Mentzer version adopted a tutorial format to teach younger players. Later editions, including the 1991 “black box” and 1994’s *Classic Dungeons & Dragons*, further simplified gameplay and expanded support for higher-level characters. Reception was generally positive, praising accessibility and organization, especially for newcomers.\n\n**Keywords**:  \nD&D Basic Set, Moldvay edition, Mentzer edition, Keep on the Borderlands, TSR revisions",
+      "is_seed": false,
+      "expand_score": 0.8380080461502075
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/01_Santera.html_24",
+      "summary": "**Title**: Santería Initiation & Global Spread  \n\n**Summary**:  \nThese chunks detail the elaborate, week-long initiation into Santería (kariocha), including secluded rites in the igbodu, animal sacrifice, divination of the Lucumí ritual name, and the year-long iyaworaje restrictions that follow. They trace how Cuba’s post-1992 secularization and santurismo tourism policy moved Santería from marginalization to state-promoted cultural heritage, while emigration after the Revolution transplanted the religion to the U.S., Latin America, Europe, and West-African-inspired enclaves such as Oyotunji. The texts also note ongoing tensions over syncretism versus Yorubización and the religion’s demographic weight—roughly 8 % of Cubans are now initiates, with far more consulting santeros/as for practical aid.  \n\n**Keywords**:  \nSantería initiation, kariocha, Cuban Revolution, santurismo, global diaspora",
+      "is_seed": false,
+      "expand_score": 0.8122310638427734
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/01_Santera.html_7",
+      "summary": "**Title:** Santería Beliefs and Practices  \n\n**Summary:**  \nSantería practitioners interpret everyday events as messages from orichas, often using divination to clarify their meaning. The religion emphasizes the spiritual essence of the head (eledá/orí), links each person to a guardian oricha, and venerates ancestors (egun) who influence daily life. Altars, offerings, and rituals—including animal sacrifice—maintain relationships with both orichas and the dead. Healing practices address ailments attributed to spiritual causes, employing herbs, divination, and protective talismans (resguardos). Divination systems such as obi and dilogún guide decisions and determine required sacrifices.  \n\n**Keywords:**  \noricha, divination, egun, healing, altars",
+      "is_seed": false,
+      "expand_score": 0.8056322336196899
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/01_Santera.html_5",
+      "summary": "**Title**: Santería Beliefs and Oricha Pantheon  \n\n**Summary**:  \nSantería (Regla de Ocha) is an Afro-Cuban religion that venerates a creator deity, Olodumare, and a host of intermediary spirits called oricha, each governing specific natural forces or human concerns. Practitioners interact with these oricha through offerings, drumming ceremonies, divination, and possession rituals, seeking aché (universal life-force) and guidance. The pantheon includes major figures such as Changó (lightning), Yemaja (sea/fertility), Eleguá (crossroads), and Ochún (love/rivers), each linked to colors, numbers, songs, and Catholic saints. Syncretized from Yoruba, Catholic, and Spiritist elements, Santería remains centered in Cuba but has spread globally through diaspora communities.\n\n**Keywords**:  \nSantería, oricha, Olodumare, aché, Afro-Cuban religion",
+      "is_seed": false,
+      "expand_score": 0.8055939674377441
+    },
+    {
+      "community_key": "HotpotQA-validation-00002249/01_Santera.html_10",
+      "summary": "**Title**: Santería Rituals and Cosmology  \n\n**Summary**:  \nSantería centers on reciprocal relationships with oricha and ancestral spirits, sustained through offerings (ebbó) and animal sacrifice (matanza) that channel aché—cosmic life-force—into human affairs. Divination prescribes the exact offerings, which may be food, liquor, flowers, or slaughtered birds and four-legged animals; blood and organs are shared with deities and practitioners, while residual blood empowers cleansing omiero. Ritual life unfolds in autonomous house-temples (ilé) whose “families” are knit by god-parent/apprentice ties, prostration rites, and annual remembrance of house ancestors. Shrines housing living stones (otanes) in tureens (sopera) anchor each oricha’s presence, and secrecy—reinforced by the liturgical Lucumí language—protects esoteric knowledge. Morality stresses social conservatism, respect for elders, and pragmatic problem-solving, with gendered taboos during menstruation and limits on homosexual male participation, yet women and LGBTQ+ adherents still attain high priestly status.\n\n**Keywords**: aché, ebbó/matanga, ilé house-temple, Lucumí language, animal sacrifice",
+      "is_seed": false,
+      "expand_score": 0.8049837946891785
+    },
+    {
+      "community_key": "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_4",
+      "summary": "**Title**: West Alabama Tigers Football Legacy\n\n**Summary**:  \nThe West Alabama Tigers football program experienced a resurgence under coach Bobby Wallace, highlighted by dramatic wins like the 2009 overtime upset of #1 North Alabama and Wallace’s emotional 2010 finale victory over #7 Valdosta State. Success continued under Will Hall, who led back-to-back Gulf South Conference titles in 2012–13 and the school’s first NCAA Division II playoff wins. After Hall’s departure, the program navigated coaching transitions—Brett Gilliland, interim AD duties, and 2025 hire Scott Cochran—while maintaining competitiveness and producing NFL/CFL talent such as Malcolm Butler and Tyreek Hill.\n\n**Keywords**:  \nBobby Wallace, Gulf South Conference, NCAA D-II playoffs, coaching transitions, NFL alumni",
+      "is_seed": false,
+      "expand_score": 0.7989038228988647
+    },
+    {
+      "community_key": "HotpotQA-validation-00001644/03_1911-Alabama-Crimson-Tide-football-team.html_3",
+      "summary": "**Title**: 1911 Alabama Crimson Tide Season  \n\n**Summary**:  \nThe 1911 Alabama Crimson Tide football team, led by first-year head coach D. V. Graves, compiled a 5-2-2 record while competing in the Southern Intercollegiate Athletic Association. Standout performances included shutouts of Howard, Marion Military Institute, and Tulane, with Adrian and Hargrove Vandegraaff anchoring both offense and defense. After early wins, Alabama tied Mississippi A&M and Georgia Tech (earning praise for Hargrove from John Heisman) and suffered narrow losses to Georgia and Sewanee before rallying to defeat Davidson in the finale.  \n\n**Keywords**:  \nAlabama football, 1911 season, Vandegraaff brothers, SIAA, D. V. Graves",
+      "is_seed": false,
+      "expand_score": 0.7905642986297607
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1",
+      "summary": "**Title**: D&D Immortals Rules Expansion  \n\n**Summary**:  \nThe 1986 Dungeons & Dragons Immortals Rules boxed set, written by Frank Mentzer, caps the BECM series by letting characters who have achieved immortality trade experience for power points, advance through ranks, and wield vast magic and combat abilities. It details the cosmology of the D&D multiverse—Astral, Prime Material, Ethereal, elemental, and outer planes—while providing rules for Immortals to craft personal planes, artifacts, and monsters. The set also gives Dungeon Masters guidance on running high-powered campaigns, sample plots, and statistics for formidable creatures. Reviewers praised it as the system’s culmination yet noted its play style diverges sharply from traditional low-level D&D.  \n\n**Keywords**:  \nImmortals, multiverse, power points, BECM series, high-level play",
+      "is_seed": false,
+      "expand_score": 0.7821067571640015
+    },
+    {
+      "community_key": "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_1",
+      "summary": "**Title**: West Alabama Tigers Football History\n\n**Summary**: The West Alabama Tigers football program, established in 1931, has experienced cycles of success and decline under various coaches. Early achievements included Vaughn Mancha’s 1946 team that defeated Florida State and played in the Paper Bowl, followed by Morris Higginbotham’s 1968 Peanut Bowl appearance. Mickey Andrews led the Tigers to their only championship in 1971, while Jim King guided them to a notable 1975 NCAA playoff run. After a 15-year drought without a winning season, Bobby Wallace’s hiring in 2006 briefly revived the program with a 6–5 record in his first year, though subsequent seasons saw mixed results.\n\n**Keywords**: West Alabama Tigers, college football history, Gulf South Conference, NCAA Division II, coaching legacy",
+      "is_seed": false,
+      "expand_score": 0.7816969156265259
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "HotpotQA-validation-00000577/03_Irwin-Marcus.html_1",
+      "HotpotQA-validation-00002249/00_Migene-Gonzlez-Wippler.html_0",
+      "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "HotpotQA-validation-00000352/00_Rutgers-University.html_1",
+      "HotpotQA-validation-00006567/03_Andrew-Davis-Bruce.html_3",
+      "HotpotQA-validation-00004159/03_NBL-Canada-All-Star-Game.html_0",
+      "HotpotQA-validation-00000668/01_Rogue-One.html_4",
+      "HotpotQA-validation-00006634/01_Doctor-of-Philosophy.html_7",
+      "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "HotpotQA-validation-00004159/02_47th-National-Hockey-League-All-Star-Game.html_1",
+      "HotpotQA-validation-00001939/03_Neman-album.html_0",
+      "HotpotQA-validation-00002473/03_Pooley-Hubert.html_1",
+      "HotpotQA-validation-00004159/00_53rd-National-Hockey-League-All-Star-Game.html_3",
+      "HotpotQA-validation-00002303/03_Journal-of-Accounting-and-Economics.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00002249/01_Santera.html_28",
+      "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "HotpotQA-validation-00004159/02_47th-National-Hockey-League-All-Star-Game.html_1",
+      "HotpotQA-validation-00004159/00_53rd-National-Hockey-League-All-Star-Game.html_3",
+      "HotpotQA-validation-00002249/01_Santera.html_24",
+      "HotpotQA-validation-00002249/01_Santera.html_7",
+      "HotpotQA-validation-00002249/01_Santera.html_5",
+      "HotpotQA-validation-00002249/01_Santera.html_10",
+      "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_4",
+      "HotpotQA-validation-00001644/03_1911-Alabama-Crimson-Tide-football-team.html_3",
+      "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1",
+      "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "HotpotQA-validation-00000577/03_Irwin-Marcus.html_1",
+      "HotpotQA-validation-00002249/00_Migene-Gonzlez-Wippler.html_0",
+      "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "HotpotQA-validation-00000352/00_Rutgers-University.html_1",
+      "HotpotQA-validation-00006567/03_Andrew-Davis-Bruce.html_3",
+      "HotpotQA-validation-00004159/03_NBL-Canada-All-Star-Game.html_0",
+      "HotpotQA-validation-00000668/01_Rogue-One.html_4",
+      "HotpotQA-validation-00006634/01_Doctor-of-Philosophy.html_7",
+      "HotpotQA-validation-00005794/01_Emilie-de-Ravin.html_1",
+      "HotpotQA-validation-00004159/02_47th-National-Hockey-League-All-Star-Game.html_1",
+      "HotpotQA-validation-00001939/03_Neman-album.html_0",
+      "HotpotQA-validation-00002473/03_Pooley-Hubert.html_1",
+      "HotpotQA-validation-00004159/00_53rd-National-Hockey-League-All-Star-Game.html_3",
+      "HotpotQA-validation-00002303/03_Journal-of-Accounting-and-Economics.html_0",
+      "HotpotQA-validation-00002249/01_Santera.html_28",
+      "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "HotpotQA-validation-00002249/01_Santera.html_24",
+      "HotpotQA-validation-00002249/01_Santera.html_7",
+      "HotpotQA-validation-00002249/01_Santera.html_5",
+      "HotpotQA-validation-00002249/01_Santera.html_10",
+      "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_4",
+      "HotpotQA-validation-00001644/03_1911-Alabama-Crimson-Tide-football-team.html_3",
+      "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1",
+      "HotpotQA-validation-00001644/02_West-Alabama-Tigers-football.html_1"
+    ],
+    "allowed_chunk_pool_size": 106,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Greatorex drank with Mr. Pepys.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Greatorex drank with Mr. Pepys, whereas the Gold Answer specifies Mr. Starling as the individual who drank with him. The retrieved context does not support the claim about Greatorex drinking with Mr. Pepys, making the answer both incorrect and unfaithful to the context. Additionally, the Model Answer fails to include the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006892",
+  "question": "Where is the summer retreat the American mining engineer, inventor, and self-made member of fashionable society and his wife, who was a survivor of the \"RMS Titanic\"?",
+  "gold_answer": "Denver, Colorado",
+  "llm_answer": "The summer retreat is Avoca Lodge, located in southwest Denver, Colorado near Bear Creek.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the summer retreat as Avoca Lodge in southwest Denver, Colorado near Bear Creek, which aligns with the Gold Answer and is fully supported by the Retrieved Context. It also provides additional detail about the specific location, which is relevant and accurate."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000853",
+  "question": "Who died first, Bryce Courtenay or Juan Carlos Onetti?",
+  "gold_answer": "Juan Carlos Onetti",
+  "llm_answer": "Juan Carlos Onetti died first.  \nEvidence: Onetti’s death date is given as 30 May 1994; no death date for Bryce Courtenay is provided.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Juan Carlos Onetti as the person who died first, aligning with the Gold Answer. However, the claim that 'no death date for Bryce Courtenay is provided' is incorrect, as the context mentions Bryce Courtenay's death on 23 November 2012. This reduces faithfulness and evidence coverage since the Model Answer does not fully utilize the retrieved context to compare both death dates."
+  }
+}

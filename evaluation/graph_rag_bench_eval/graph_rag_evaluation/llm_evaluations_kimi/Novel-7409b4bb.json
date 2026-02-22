@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7409b4bb",
+  "question": "While building her collection of medals and decorations, what item did Miss Catherwaight find on Bowery, and why was it noteworthy?",
+  "gold_answer": "Miss Catherwaight found a silver medal on Bowery.",
+  "llm_answer": "The provided context does not mention Miss Catherwaight, Bowery, or any medals and decorations, so I cannot answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Miss Catherwaight, Bowery, or the silver medal, and therefore does not attempt to fabricate an answer. However, it fails to provide the core information from the Gold Answer, which is that Miss Catherwaight found a silver medal on Bowery. The retrieved context is irrelevant to the question, so the Model Answer is faithful to the context but does not meet the correctness or evidence coverage criteria."
+  }
+}

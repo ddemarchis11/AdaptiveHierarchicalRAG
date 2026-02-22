@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005980",
+  "question": "Sachin H. Jain served as Chief Medical Information and Innovation Officer for one of the largest pharmaceutical companies in the world called what?",
+  "gold_answer": "Merck & Co.",
+  "llm_answer": "The answer to the question is: Yangtze River Pharmaceutical Group.\n\nThis is based on the evidence provided in [HotpotQA-validation-00005980/02_Yangtze-River-Pharmaceutical-Group.html_c_0], which states that Yangtze River Pharmaceutical Group is a Chinese multinational pharmaceutical corporation and one of the Asia's largest pharmaceutical companies by revenues.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Sachin H. Jain served as Chief Medical Information and Innovation Officer for Yangtze River Pharmaceutical Group, which is not supported by the context. The correct answer, as per the Gold Answer and the context, is Merck & Co. The Model Answer fails to provide the correct information and is not grounded in the retrieved context."
+  }
+}

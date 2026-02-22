@@ -1,0 +1,212 @@
+{
+  "id": "Novel-3c025533",
+  "question": "In the context of surveying as discussed in the text, for what purpose is the determination of latitude needed?",
+  "gold_answer": "Latitude is needed for determination of true meridian.",
+  "llm_answer": "The determination of latitude is needed to find the true meridian, which is essential for accurate surveying.",
+  "context": [
+    {
+      "text": "London Times_. HOW TO ESTABLISH A TRUE MERIDIAN. [Footnote: A paper read before the Engineers' Club of Philadelphia.] By PROFESSOR L. M. HAUPT. INTRODUCTORY. The discovery of the magnetic needle was a boon to mankind, and has been of inestimable service in guiding the mariner through trackless waters, and the explorer over desert wastes. In these, its legitimate uses, the needle has not a rival, but all efforts to apply it to the accurate determination of permanent boundary lines have proven very unsatisfactory, and have given rise to much litigation, acerbity, and even death. For these and other cogent reasons, strenuous efforts are being made to dispense, so far as practicable, with the use of the magnetic needle in surveying, and to substitute therefor the more accurate method of traversing from a true meridian. This method, however, involves a greater degree of preparation and higher qualifications than are generally possessed, and unless the matter can be so simplified as to be readily understood, it is unreasonable to expect its general application in practice. Much has been written upon the various methods of determining, the true meridian, but it is so intimately related to the determination of latitude and time, and these latter in turn upon the fixing of a true meridian, that the novice can find neither beginning nor end. When to these difficulties are added the corrections for parallax,",
+      "id": "Novel-8559_c_149",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 22.853395
+    },
+    {
+      "text": "either above or below the pole, and from this observed altitude corrected for refraction, subtract the distance of the star from the pole, or its _polar distance_, if it was an upper transit, or add it if a lower. The result will be the required latitude with sufficient accuracy for ordinary purposes. The time of the star's being on the meridian can be determined with sufficient accuracy by a mere inspection of the heavens. The refraction is _always negative_, and may be taken from the table appended by looking up the amount set opposite the observed altitude. Thus, if the observer's altitude should be 40 deg. 39' the nearest refraction 01' 07\", should be subtracted from 40 deg. 37' 00\", leaving 40 deg. 37' 53\" for the latitude. TO FIND THE AZIMUTH OF POLARIS. As we have shown the azimuth of Polaris to be a function of the latitude, and as the latitude is now known, we may proceed to find the required azimuth. For this purpose we have a right-angled spherical triangle, Z S P, Fig. 4, in which Z is the place of observation, P the north pole, and S is Polaris. In this triangle we have given the polar distance, P S = 10 deg. 19' 13\"; the angle at S = 90 deg.; and the distance Z P, being the complement of the latitude",
+      "id": "Novel-8559_c_156",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 15.227174
+    },
+    {
+      "text": "the fixing of a true meridian, that the novice can find neither beginning nor end. When to these difficulties are added the corrections for parallax, refraction, instrumental errors, personal equation, and the determination of the probable error, he is hopelessly confused, and when he learns that time may be sidereal, mean solar, local, Greenwich, or Washington, and he is referred to an ephemeris and table of logarithms for data, he becomes lost in \"confusion worse confounded,\" and gives up in despair, settling down to the conviction that the simple method of compass surveying is the best after all, even if not the most accurate. Having received numerous requests for information upon the subject, I have thought it expedient to endeavor to prepare a description of the method of determining the true meridian which should be sufficiently clear and practical to be generally understood by those desiring to make use of such information. This will involve an elementary treatment of the subject, beginning with the DEFINITIONS. The _celestial sphere_ is that imaginary surface upon which all celestial objects are projected. Its radius is infinite. The _earth's axis_ is the imaginary line about which it revolves. The _poles_ are the points in which the axis pierces the surface of the earth, or of the celestial sphere. A _meridian_ is a great circle of the earth cut out by a plane passing through the axis. All meridians are therefore north and south lines",
+      "id": "Novel-8559_c_150",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 14.685737
+    },
+    {
+      "text": "be gained by the use of potash soap as compared with soda soap were pointed out, and the reasons of this superiority, especially in the case of washing wool or woolen fabrics, were pretty fully gone into. It was also further explained why the potash soaps generally sold to the public were unfit for general use, owing to their not being neutral--that is to say, containing a considerable excess of free or unsaponified alkali, which acts injuriously on the fiber of any textile material, and causes sore hands if used for household or laundry purposes. It was shown that the cause of this defect was owing to the old-fashioned method of making potash or soft soap, by boiling with wood ashes or other impure form of potash; but that a perfectly pure and neutral potash soap could readily be made with pure caustic potash, which within the last few years has become a commercial article, manufactured on a large scale; just in the same manner as the powdered 98 per cent. caustic soda, which was recommended in our previous articles on making hard soap without boiling. The process of making pure neutral potash soap is very simple, and almost identical with that for making hard soap with pure powdered caustic soda. The following directions, if carefully and exactly followed, will produce a first-class potash soap, suitable either for the woolen manufacturer for washing his wool, and the cloth afterward made from it, or for household and laundry",
+      "id": "Novel-8559_c_78",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 14.656332
+    },
+    {
+      "text": "the intermediate values being readily obtained by interpolation. We see also that an error of a few minutes of latitude will not affect the result in finding the meridian, e.g., the azimuth at 40 deg. north latitude is 1 deg. 43' 21\", that at 41 deg. would be 1 deg. 44' 56\", the difference (01' 35\") being the correction for one degree of latitude between 40 deg. and 41 deg. Or, in other words, an error of one degree in finding one's latitude would only introduce an error in the azimuth of one and a half minutes. With ordinary care the probable error of the latitude as determined from the method already described need not exceed a few minutes, making the error in azimuth as laid off on the arc of an ordinary transit graduated to single minutes, practically zero. REFRACTION TABLE FOR ANY ALTITUDE WITHIN THE LATITUDE OF THE UNITED STATES. _____________________________________________________ | | | | | | Apparent | Refraction | Apparent | Refraction | | Altitude. | _minus_. | Altitude. | _minus_. | |___________|______________|___________|______________| | | | | | | 25 deg. | 0 deg. 2' 4.2\" | 38 deg. | 0 deg. 1' 14.4\" | | 26 | 1 58.8 | 39",
+      "id": "Novel-8559_c_161",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 11.952872
+    },
+    {
+      "text": "Produced by Julia Miller and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.) Transcriber's Note A number of typographical errors have been maintained in this version of this book. They have been marked with a [TN-#], which refers to a description in the complete list found at the end of the text. Inconsistent spelling, hyphenation, and capitalization have been maintained. A list of inconsistently spelled, hyphenated, and capitalized words is found in a list at the end of the text. Oe ligatures have been expanded. The following codes are used for characters that are not available in the character set used for this book: [sun] Sun symbol [=a] a with macron [c] open o [C] open O VESTIGES OF THE MAYAS, OR, _Facts tending to prove that Communications and Intimate Relations must have existed, in very remote times, between the inhabitants of_ MAYAB AND THOSE OF ASIA AND AFRICA. BY AUGUSTUS LE PLONGEON, M. D., Member of the American Antiquarian Society of Worcester, Mass., of the California Academy of Sciences, and several other Scientific Societies. Author of various Essays and Scientific Works. NEW YORK: JOHN POLHEMUS, PRINTER AND STATIONER, 102 NASSAU STREET.",
+      "id": "Novel-30752_c_0",
+      "doc_id": "Novel-30752",
+      "community_id": 53,
+      "score": 11.882662
+    },
+    {
+      "text": "are arranged on each side of the same fire-place two rows of cast-iron retorts, D, of undulating form, each composed of three parts, set one within the other. These retorts, which serve for the revivification of the black, are incased in superposed blocks of refractory clay, P, Q, S, designed to regularize the transmission of heat and to prevent burning. These pieces are kept in their respective places by crosspieces, R. The space between the retorts occupied by the fire-place, Y, is covered with a cylindrical dome, O, of refractory tiles, forming a fire-chamber with the inner surface of the blocks, P, Q, and S. The front of the surface consists of a cast-iron plate, containing the doors to the fire-place and ash pan, and a larger one to allow of entrance to the interior to make repairs. One of the principal disadvantages of furnaces for revivifying animal charcoal has been that they possessed no automatic drier for drying the black on its exit from the washer. It was for the purpose of remedying this that Mr. Schreiber was led to invent the automatic system of drying shown at the upper part of the furnace, and which is formed of two pipes, B, of undulating form, like the retorts, with openings throughout their length for the escape of steam. Between these pipes there is a closed space into which enters the waste heat and products of",
+      "id": "Novel-8559_c_75",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 11.782172
+    },
+    {
+      "text": "pounds of excellent potash soap. If this soap is made with tallow or grease it will be nearly as hard as soda soap. When made by farmers or householders tallow or grease will generally be taken, as it is the cheapest, and ready to hand on the spot. For manufacturers, or for making laundry soap, nothing could be better than cotton seed oil. A magnificent soap can be made with this article, lathering very freely. When made with oil it is better to remelt in a kettle the potash soap, made according to the above directions, with half its weight of water, using very little heat, stirring constantly, and removing the fire as soon as the water is mixed with and taken up by the soap. A beautifully bright soap is obtained in this way, and curiously the soap is actually made much harder and stiffer by this addition of water than when it is in a more concentrated state previously to the water being added. With reference to the caustic potash for making the soap, it can be obtained in all sizes of drums, but small packages just sufficient for a batch of soap are generally more economical than larger packages, as pure caustic potash melts and deteriorates very quickly when exposed to the air. The Greenbank Alkali Co., of St. Helens, seems to have appreciated this, and put upon the market pure caustic potash in twenty pound canisters, which are very convenient for potash soft soap",
+      "id": "Novel-8559_c_80",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 11.316989
+    },
+    {
+      "text": "in passing. Then the two currents mount through the lateral flues, V, and unite so as to form but one in the drier. Within the latter there are arranged plates designed to break the current from the flames, and allow it to heat all the inner parts of the pipes, while the apertures in the drier allow of the escape of the steam. By turning one of the cylinders, G, so as to present its aperture opposite that of the cooler, it instantly fills up with black. At this moment the whole column, from top to bottom, is set in motion. The bone-black, in passing through the undulations, is thrown alternately to the right and left until it finally reaches the coolers. This operation is repeated as many times as the cylinder is filled during the descent of one whole column, that is to say, about forty times. With an apparatus of the dimensions here described, 120 hectoliters of bone-black may be revivified in twenty four hours, with 360 to 400 kilogrammes of coke.--_Annales Industrielles_. [Continued from SUPPLEMENT, No. 330, page 5264.] SOAP AND ITS MANUFACTURE, FROM A CONSUMER'S POINT OF VIEW. In our last article, under the above heading, the advantages to be gained by the use of potash soap as compared with soda soap were pointed out, and the reasons of this superiority, especially in the case of",
+      "id": "Novel-8559_c_77",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 11.104064
+    },
+    {
+      "text": "deg. These two co-ordinates, the altitude and azimuth, will determine the position of any object with reference to the observer's place. The latter's position is usually given by his latitude and longitude referred to the equator and some standard meridian as co-ordinates. The _latitude_ being the angular distance north or south of the equator, and the _longitude_ east or west of the assumed meridian. We are now prepared to prove that _the altitude of the pole is equal to the latitude of the place of observation_. Let H P Z Q1, etc., Fig. 2, represent a meridian section of the sphere, in which P is the north pole and Z the place of observation, then H H1 will be the horizon, Q Q1 the equator, H P will be the altitude of P, and Q1 Z the latitude of Z. These two arcs are equal, for H C Z = P C Q1 = 90 deg., and if from these equal quadrants the common angle P C Z be subtracted, the remainders H C P and Z C Q1, will be equal. To _determine the altitude of the pole_, or, in other words, _the latitude of the place_. Observe the altitude of the pole star _when on the meridian_, either above or below the pole, and from this observed altitude corrected for refraction, subtract the distance of the star from the pole, or its",
+      "id": "Novel-8559_c_155",
+      "doc_id": "Novel-8559",
+      "community_id": 164,
+      "score": 11.087211
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-8559_164",
+      "summary": "1. **Title**: Potash Soap Manufacturing\n2. **Summary**: The topic revolves around the production and use of potash soap, highlighting its superiority over soda soap, especially in washing wool and woolen fabrics. The discussion includes the importance of using pure caustic potash, the process of making neutral potash soap, and its applications in household and laundry purposes. Additionally, the text touches on the use of cotton seed oil as a suitable alternative in soap making. The community also explores unrelated topics, such as surveying and astronomy, but the primary focus remains on potash soap and its manufacturing process.\n3. **Keywords**: Potash Soap, Caustic Potash, Soap Manufacturing, Cotton Seed Oil, Laundry Purposes",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-51410_22",
+      "summary": "1. **Title**: Dr. Elsie Inglis' Legacy\n2. **Summary**: Dr. Elsie Inglis was a pioneering figure in the medical field, particularly in the context of women's healthcare and suffrage. She founded the Scottish Women's Hospitals and played a crucial role in providing medical aid during World War I, including her work in Serbia. Her dedication to her patients and her unwavering commitment to the cause of women's rights are evident throughout her life's work. Dr. Inglis' legacy extends beyond her medical achievements, as she inspired countless individuals with her unselfish devotion and tireless energy. Her story serves as a testament to the power of determination and the importance of empathy in shaping a better world.\n3. **Keywords**: Dr. Elsie Inglis, Scottish Women's Hospitals, Women's Suffrage, Medical Aid, World War I",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-41603_51",
+      "summary": "1. **Mice and Forest Creatures**\n2. The text chunks describe the adventures of two mice, Squeak and Scrabble, as they explore a mysterious black hill that turns out to be a moving, fiery entity. The story also involves a group of forest creatures, including a raccoon, a bear, a squirrel, and a parrot, who discuss a missing pie and accuse each other of taking it. The mice's nocturnal adventure is eventually revealed, and they are found to be the culprits behind the missing pie.\n3. **Keywords**: Mice, Forest Creatures, Adventure, Mystery, Pie",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-54537_150",
+      "summary": "1. **Title**: Ancient Musical Instruments\n2. **Summary**: The collection of text chunks discusses various ancient musical instruments from different cultures, including the harp, lyre, pipes, flutes, and drums. The instruments are described in terms of their construction, shape, and usage, with examples from ancient civilizations such as the Greeks, Assyrians, and Egyptians. The texts also touch on the evolution of musical instruments and their significance in understanding the cultural and historical context of different societies. The use of musical instruments in religious and cultural practices is also mentioned, highlighting their importance in human expression and communication. The texts provide a comprehensive overview of the diversity of ancient musical instruments and their role in shaping the music of different cultures.\n3. **Keywords**: Ancient Instruments, Musical History, Cultural Significance, Instrument Evolution, Historical Context",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-51410_40",
+      "summary": "1. **Elsie Inglis Biography**\n2. **Summary**: Elsie Inglis was a determined and independent individual who pursued a career in medicine despite the challenges she faced. Her father, Mr. Inglis, played a significant role in her life, providing guidance and support throughout her education and career. Elsie's time in Paris and her experiences at the Medical College for Women in Edinburgh shaped her into a strong-willed and compassionate person. She went on to become a pioneering figure in the field of medicine, overcoming numerous obstacles and inspiring those around her. Elsie's relationship with her father was built on mutual respect and understanding, and she credited him with instilling in her the confidence to pursue her dreams. Her story is a testament to the power of perseverance and the importance of supportive relationships.\n3. **Keywords**: Elsie Inglis, Medicine, Women's Education, Independence, Family Support",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-47558_110",
+      "summary": "1. **Title**: Family Drama and Inheritance\n2. **Summary**: The text chunks revolve around the themes of family, inheritance, and social status. Aunt Patsy, a wealthy and stylish woman, navigates her relationships with her poor relatives, including her nephew Jim. Meanwhile, Roxie Daymon and Governor Morock engage in discussions about the Simon estate and the potential for financial gain. The narrative also touches on the history of the characters, including their family backgrounds and past experiences. As the story unfolds, it becomes clear that the characters are entangled in a complex web of family dynamics, power struggles, and financial interests. The late civil war between the States of the American Union is also mentioned, highlighting the broader historical context in which the story takes place.\n3. **Keywords**: Inheritance, Family Drama, Social Status, Power Struggle, American Civil War",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-47676_90",
+      "summary": "1. **Classical Love and Poetry**\n2. **Summary**: The text chunks discuss themes of love, poetry, and classical literature, with references to Roman mythology and the works of Ovid. The author reflects on the nature of love and relationships, using metaphors and allusions to convey their thoughts. The chunks also touch on the idea of artistic expression, with the poet deliberating between writing elegies and tragedies. The language is lyrical and expressive, with a focus on the emotional and personal aspects of love and creativity.\n3. **Keywords**: Classical Literature, Love Poetry, Roman Mythology, Ovid, Elegies",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-8559_56",
+      "summary": "1. **Title**: Perche District Mining Excitement\n2. **Summary**: The Perche district has experienced significant mining excitement due to the discovery of rich silver deposits, with many prospectors flocking to the area. The district has seen numerous strikes, including the notable Solitaire mine, which showed promising results but was later reported to be a blind lead. Despite this, the area remains a hub of mining activity, with many mines and prospects being developed. The region's mining fever has drawn in investors and prospectors, with some notable figures, such as Governor Tabor, showing interest in the area. The human body's resistance to heat is also discussed, with experiments demonstrating the ability to withstand high temperatures using protective gear. Additionally, the Soy bean is mentioned as a valuable food source, rich in fat and albuminoids.\n3. **Keywords**: Perche District, Mining, Silver, Prospecting, Heat Resistance",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-5956_103",
+      "summary": "1. **Title**: Love and Redemption\n2. **Summary**: The text chunks revolve around two main storylines: the blossoming romance between Young Latimer and Ellen, and the struggles of a burglar who has escaped from jail. The bishop, Ellen's father, is initially hesitant about the relationship but eventually warms up to Latimer. Meanwhile, the burglar, who is desperate to reunite with his family, is shown kindness by Van Bibber, who decides to help him instead of turning him in. The stories explore themes of love, redemption, and the complexities of human relationships. The characters' emotions and motivations are deeply intertwined, leading to a nuanced and empathetic portrayal of their experiences. Through their journeys, the text highlights the importance of understanding, compassion, and the power of human connection.\n3. **Keywords**: Romance, Redemption, Family, Love, Forgiveness",
+      "is_seed": false,
+      "expand_score": 0.7877459526062012
+    },
+    {
+      "community_key": "Novel-30752_53",
+      "summary": "1. **Title**: Maya Civilization Connections\n2. **Summary**: The text discusses the potential connections between the Maya civilization and other ancient cultures, including the Egyptians, Chaldeans, and Etruscans. The author highlights similarities in language, writing systems, and symbolism between these cultures, suggesting that there may have been communication and exchange between them in the distant past. The author also describes their own research and discoveries, including the deciphering of Maya inscriptions and the identification of identical characters and symbols in different cultures. The text also touches on the idea that the Maya civilization may have had roots in Atlantis, and that their language and customs show similarities with those of other ancient cultures.\n3. **Keywords**: Maya Civilization, Ancient Cultures, Linguistic Connections, Symbolism, Archaeology",
+      "is_seed": false,
+      "expand_score": 0.784898042678833
+    },
+    {
+      "community_key": "Novel-58553_49",
+      "summary": "1. **Title**: 19th Century American Life\n2. **Summary**: The provided text chunks describe various aspects of 19th century American life, including the experiences of women, the impact of the Civil War, and the struggles of individuals pursuing education and careers. The writings touch on themes of social justice, personal freedom, and the pursuit of knowledge. The authors express strong opinions on issues like slavery and women's rights, showcasing the tumultuous nature of the time period. The texts also provide glimpses into the daily lives of individuals, including their relationships, occupations, and personal struggles.\n3. **Keywords**: 19th Century America, Civil War, Women's Rights, Education, Social Justice",
+      "is_seed": false,
+      "expand_score": 0.783982515335083
+    },
+    {
+      "community_key": "Novel-30752_59",
+      "summary": "1. **Title**: Maya Civilization and Culture\n2. **Summary**: The Maya civilization is discussed in relation to their cultural practices, superstitions, and traditions. Their beliefs in witchcraft, use of talismans, and reverence for certain objects are compared to those of other ancient cultures, such as the Chaldeans and Africans. The Maya language is also analyzed, with etymologies provided for various words and names. Additionally, the text describes Maya clothing, musical instruments, and funeral customs, highlighting similarities with other cultures. The author draws parallels between Maya practices and those of other civilizations, suggesting a shared human experience.\n3. **Keywords**: Maya Civilization, Cultural Practices, Superstitions, Comparative Anthropology, Ancient Cultures",
+      "is_seed": false,
+      "expand_score": 0.7822593450546265
+    },
+    {
+      "community_key": "Novel-40700_102",
+      "summary": "1. **Title**: Social Gathering at the Deanery\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the interactions and conversations among characters at a social gathering, likely at the Deanery. The characters, including the Dean, Hannah, Darbey, Tarver, and others, engage in discussions, music, and other activities, revealing their personalities and relationships. The conversations often touch on themes of morality, social status, and personal struggles. Throughout the excerpts, the characters' dialogue and actions provide insight into their individual concerns and the social dynamics at play.\n3. **Keywords**: Deanery, Social Gathering, Morality, Relationships, Music",
+      "is_seed": false,
+      "expand_score": 0.7821995615959167
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-8559_81",
+      "Novel-8559_164",
+      "Novel-51410_22",
+      "Novel-10146_95",
+      "Novel-41603_51",
+      "Novel-41603_79",
+      "Novel-54537_150",
+      "Novel-51410_40",
+      "Novel-58553_70",
+      "Novel-47558_110",
+      "Novel-10321_48",
+      "Novel-47676_90",
+      "Novel-47676_80",
+      "Novel-8559_56",
+      "Novel-10321_60"
+    ],
+    "expanded_community_keys": [
+      "Novel-5956_103",
+      "Novel-30752_53",
+      "Novel-58553_49",
+      "Novel-30752_59",
+      "Novel-40700_102"
+    ],
+    "all_community_keys": [
+      "Novel-8559_81",
+      "Novel-8559_164",
+      "Novel-51410_22",
+      "Novel-10146_95",
+      "Novel-41603_51",
+      "Novel-41603_79",
+      "Novel-54537_150",
+      "Novel-51410_40",
+      "Novel-58553_70",
+      "Novel-47558_110",
+      "Novel-10321_48",
+      "Novel-47676_90",
+      "Novel-47676_80",
+      "Novel-8559_56",
+      "Novel-10321_60",
+      "Novel-5956_103",
+      "Novel-30752_53",
+      "Novel-58553_49",
+      "Novel-30752_59",
+      "Novel-40700_102"
+    ],
+    "allowed_chunk_pool_size": 221,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

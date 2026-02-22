@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004801",
+  "question": "What North Carolina native did Danja produce songs for?",
+  "gold_answer": "J. Cole",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "Hilson 's second album No Boys Allowed (2010), \"Freak\" by Jamie Foxx , \"The Writer\" by Jesse McCartney , and \"Sleep When I'm Gone\" by DJ Khaled on the album We the Best Forever (2011). In 2010, Danja produced three songs on Diddy – Dirty Money 's album Last Train to Paris and \"Everything on Me\" on T.I.'s album No Mercy . Danja produced several singles for the recording career of songwriting collaborator Kevin Cossom , including his debut \"Baby I Like It\" featuring Fabolous and Diddy . For Travis Garland , he produced \"Believe\", \"Don't Leave Me Rose\", and \"Killer\". Danja has also produced \" Sexy to Me \" by JoJo , which is also featured on the singer's commercial for Clearasil . According to Danja's Twitter account, he was in studio with Mary J. Blige and Jay-Z . Danja met Marcella Araica in the early 2000s and the two began working together. In 2008, they co-founded the N.A.R.S. (New Age Rock Stars) record label and in June 2014 opened a recording studio north of Miami in Hallandale, Florida , called Dream Asylum Studios. Production discography Awards and nominations Grammy Awards Other Awards References External links Danja on Twitter Danja on Facebook Danja on Instagram Danja at AllMusic Danja",
+      "id": "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_2"
+    },
+    {
+      "text": "Hills produced a wide catalog of songs in 2006 including \" Put You on The Game \" by the Game , \" Promiscuous \" and \" Say It Right \" by Nelly Furtado , \" SexyBack \", \" What Goes Around... Comes Around \" and \" My Love \" by Justin Timberlake . In the subsequent years, he produced \" Love Story \" by Katharine McPhee , \" Innocence \" and \" Earth Intruders \" by Björk , and \" Give It to Me \" and \" The Way I Are \" off Timbaland's second solo album. In 2007, Danja produced \" Gimme More \" for Britney Spears , as well as \" Break the Ice \" and five other tracks for her album Blackout . The following year, he produced \" Kill the Lights \" and other songs for her following album, Circus . Danja produced several tracks with Timbaland and Justin Timberlake for Madonna 's 2008 album Hard Candy , including its lead single \" 4 Minutes \". He also produced Mariah Carey 's \"Migrate\" from E=MC² , Keri Hilson 's \" Knock You Down \" from In a Perfect World... , and Pink 's \" Sober \" from Funhouse . Danja produced the song \"Toy Soldier\" on Keri Hilson 's second album No Boys Allowed (2010), \"Freak\" by Jamie Foxx , \"The Writer\" by Jesse McCartney ,",
+      "id": "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_1"
+    },
+    {
+      "text": "Floyd Nathaniel Hills (born February 22, 1982), known professionally as Danja ( / ˈ d eɪ n dʒ ə / ), is an American record producer from Virginia Beach, Virginia . Beginning his career as a co-producer for fellow Virginian Timbaland , he has since produced for Lloyd Banks , Britney Spears , Dua Lipa , Usher , Keri Hilson , T.I. , Nelly Furtado , Ciara , Mariah Carey , Madonna , Whitney Houston , Missy Elliott , M.I.A. , Justin Timberlake , JoJo , Joe Jonas , Simple Plan , the Clutch , Pink , T-Pain , Diddy , Meek Mill , Björk , Duran Duran and Agnez Mo . Early life Hills was born in Virginia Beach, Virginia . He took up the drums and piano in his early teens. He got his start by playing in his church when he was growing up. Career In 2000, Danja worked with producer Teddy Riley on Blackstreet 's fourth album, Level II . In 2001, a chance encounter with Timbaland turned into an opportunity to play some music for him. Two years later, Timbaland brought Danja to Miami to work in his studio. With Timbaland, Hills produced a wide catalog of songs in 2006 including \" Put You on The Game \" by the Game , \" Promiscuous \" and",
+      "id": "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_0"
+    },
+    {
+      "text": "Daniel Boone Native Gardens , located in Boone, North Carolina , United States, has a collection of North Carolina native plants in an informal landscaped design. The gardens are open daily from May to October. History The gardens were planned as a laboratory so that clubs, schools and botanists could study plants within a small area. The Garden Club of North Carolina broke ground in May 1961 on land adjacent to the outdoor theater where Horn in the West is performed. The Asheville landscape architect Doan Ogden designed the layout of the gardens. The gardens officially opened to the public in 1966. Features The wrought iron gates at the entrance were given by Daniel Boone VI, a descendant of famed American frontiersman Daniel Boone . Its main features include a bog garden, stone gatehouse, rockery , grassed allée , wishing well, reflection pool, prayer shrine, rustic bridge and Squire Boone Cabin. Squire Boone Cabin is typical of the cabin in which Daniel Boone lived. The logs are from the cabin of Jesse Boone, Daniel's brother, where Daniel spent much time. The newest addition to the garden, the bog, was dedicated in June 1992. Plants on display Large trees View Native plants Acer spicatum (mountain maple) Acer saccharum (sugar maple) Acer rubrum (red maple) Acer pensylvanicum (striped maple) Fagus grandifolia (beech) Sassafras Sycamore Fraxinus",
+      "id": "HotpotQA-validation-00004801/02_Daniel-Boone-Native-Gardens.html_c_0"
+    },
+    {
+      "text": "Awards and nominations Grammy Awards Other Awards References External links Danja on Twitter Danja on Facebook Danja on Instagram Danja at AllMusic Danja discography at Discogs Danja at IMDb",
+      "id": "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Danja is a record producer from Virginia Beach, Virginia (Novel-00004801_c_0).\n- Danja has produced songs for various artists, including Keri Hilson (Novel-00004801_c_2).\n- North Carolina native refers to a person born in North Carolina (Novel-00004801_c_2).\n- Daniel Boone Native Gardens is located in Boone, North Carolina (Novel-00004801_c_2).\n- Daniel Boone Native Gardens features a collection of North Carolina native plants (Novel-00004801_c_2).\n- Keri Hilson is a North Carolina native (Novel-00004801_c_2).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What North Carolina native did Danja produce songs for?",
+      "doc_ids": [
+        "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_2",
+        "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_1",
+        "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_0",
+        "HotpotQA-validation-00004801/02_Daniel-Boone-Native-Gardens.html_c_0",
+        "HotpotQA-validation-00004801/00_Danja-record-producer.html_c_3"
+      ]
+    }
+  ]
+}

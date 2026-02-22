@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000994",
+  "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+  "gold_answer": "great-grandfather",
+  "llm_answer": "Fred Gehrke is the great-grandfather of Christian Yelich, who was the 23rd overall pick in the 2010 Major League Baseball draft.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Fred Gehrke as the great-grandfather of Christian Yelich, who was the 23rd overall pick in the 2010 MLB draft. This relationship is explicitly supported by the retrieved context, and the answer includes all relevant facts from the Gold Answer."
+  }
+}

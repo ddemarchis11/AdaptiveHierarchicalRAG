@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c03282ac",
+  "question": "How is the movement of Tom Ditamus ultimately associated with the Ohio river?",
+  "gold_answer": "Tom Ditamus moved to the Ohio river.",
+  "llm_answer": "The movement of Tom Ditamus is ultimately associated with the Ohio river in the following ways:\n\n1. Tom Ditamus moved from the backwoods of the Cumberland mountains to the Ohio river, but was not pleased with the surroundings of his adopted locality.\n2. Tom Ditamus made up his mind to return to his old home, but then moved to the Ohio river again with his family after his wife's death.\n3. Tom Ditamus engaged to make a trip to Fort Washington (Cincinnati) on a keel-boat, descending the Kentucky and ascending the Ohio rivers.\n4. Tom Ditamus was absent from home for three months on this trip, during which time he first beheld the stupendous precipices on the Kentucky river and the beautiful country at the mouth of the Kentucky on the Ohio river.\n5. The half-way castle, where Don Carlo was left in a senseless condition, was one of the first brick houses ever built on the Ohio river.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the association of Tom Ditamus's movement with the Ohio river, including his relocation and activities tied to the river. It provides additional relevant details supported by the context, such as his trip to Fort Washington and observations of the Kentucky river, which enrich the answer without contradicting the Gold Answer. All key facts from the Gold Answer are included."
+  }
+}

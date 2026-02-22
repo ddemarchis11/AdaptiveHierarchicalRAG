@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4b359d87",
+  "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+  "gold_answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+  "llm_answer": "Samuel Pepys’s naval involvement is shown in two clear ways in the day described.  \nFirst, he spends the morning “from ship to ship” at Woolwich and Deptford “to give order for and take notice of their forwardness to go forth,” directly supervising naval preparations.  \nSecond, although he later shows the monkeys and buys trinkets for Lady Jemimah and Paulina, these are purely social diversions and do not relate to naval business.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Pepys's involvement in naval matters by mentioning his supervision of ships at Woolwich and Deptford, which aligns with the context. However, it incorrectly dismisses the act of showing ships to Lady Jemimah and Paulina as unrelated to naval business, which contradicts the Gold Answer. Additionally, the claim about supervising naval preparations is partially grounded but not explicitly supported by the retrieved context, leading to partial faithfulness and evidence coverage."
+  }
+}

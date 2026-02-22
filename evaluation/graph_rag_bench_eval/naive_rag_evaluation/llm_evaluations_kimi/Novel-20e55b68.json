@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20e55b68",
+  "question": "With which other literary figure is Lichtenberg mentioned alongside in discussions of critics and commentators on German sentimentalism?",
+  "gold_answer": "Lichtenberg was mentioned alongside Helfreich Peter Sturz.",
+  "llm_answer": "Lichtenberg is mentioned alongside Helfreich Peter Sturz as an opponent of the Sterne cult and its German distortions.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Helfreich Peter Sturz as the literary figure mentioned alongside Lichtenberg in discussions of critics and commentators on German sentimentalism. This is supported by the retrieved context, which explicitly states that Sturz's name may well be coupled with Lichtenberg as an opponent of the Sterne cult and its German distortions. The Model Answer is accurate, faithful to the context, and includes all key facts from the Gold Answer."
+  }
+}

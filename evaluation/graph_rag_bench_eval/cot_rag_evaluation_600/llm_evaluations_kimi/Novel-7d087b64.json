@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7d087b64",
+  "question": "From which prominent location was Roughtor visible, as experienced by the travelers during their visit to Cornwall?",
+  "gold_answer": "Roughtor was visible from Land's End.",
+  "llm_answer": "From Land’s End.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Land's End as the location from which Roughtor was visible, matching the Gold Answer and being fully supported by the Retrieved Context. It is concise but accurate, containing all necessary information."
+  }
+}

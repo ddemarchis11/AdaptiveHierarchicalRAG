@@ -1,0 +1,12 @@
+{
+  "id": "Novel-710f8505",
+  "question": "What does Madame Palmer's presence at the Theatre, where the play Harry the 4th was performed and she is known to be the King's mistress, suggest about the King's interests in both personal relationships and cultural events beyond his official royal duties?",
+  "gold_answer": "The King's mistress, Madame Palmer, was at the Theatre where Harry the 4th was shown, suggesting the King's interests include personal relationships and cultural events.",
+  "llm_answer": "The evidence shows only that Samuel Pepys once sat “before Mrs. Palmer, the King’s mistress” at a performance of “Harry the 4th.”  \nNothing in the passages indicates what the King’s personal or cultural interests are, so the evidence is insufficient to draw any further inference.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not explicitly provide evidence about the King's personal or cultural interests, which is a valid observation. However, it fails to address the inference suggested by the Gold Answer—that Madame Palmer's presence at the Theatre implies the King's interest in both personal relationships and cultural events. While the Model Answer is faithful to the context, it does not fully align with the Gold Answer's interpretation or include the key facts about Madame Palmer and the King's connection to the Theatre."
+  }
+}

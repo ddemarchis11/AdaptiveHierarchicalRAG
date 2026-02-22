@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004632",
+  "question": "What industry does Edgar Selwyn and Chantal Akerman work in?",
+  "gold_answer": "theater and film",
+  "llm_answer": "Based on the provided evidence, Edgar Selwyn and Chantal Akerman work in the film industry.\n\nEdgar Selwyn is mentioned as a film director, with credits including \"Madelon Claudet\" (1931), \"Skyscraper Souls\" (1932), \"Men Must Fight\" (1933), \"Turn Back the Clock\" (1933), and \"The Mystery of Mr. X\" (1934). He is also listed as a director and co-writer on \"Turn Back the Clock\" (1933).\n\nChantal Akerman is also mentioned as a filmmaker, with credits including feature films, short films, and documentaries. Her filmography includes \"No Home Movie\" (2015), a documentary about her mother, as well as other films such as \"Family in Brussels\" (an autobiographical book that interchanges her own voice with her mother's) and \"Saute ma ville\" (a short film).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that both Edgar Selwyn and Chantal Akerman work in the film industry, which is supported by the context. However, it misses the mention of the theater industry, which is part of the Gold Answer. The details provided about their film work are accurate and grounded in the retrieved context, but the omission of theater reduces evidence coverage and correctness."
+  }
+}

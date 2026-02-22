@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007147",
+  "question": "What is the name of shipping magnate Mærsk Mc-Kinney Møller' father?",
+  "gold_answer": "A.P. Møller",
+  "llm_answer": "Arnold Peter Møller",
+  "context": [
+    {
+      "text": "Arnold Mærsk Mc-Kinney Møller ( Danish: [ˈmɛɐ̯sk məˈkʰini ˈmølˀɐ] ; 13 July 1913 – 16 April 2012) was a Danish shipping magnate . He was a longtime figure at A.P. Moller–Maersk Group , which was founded by his father. Personal life Mærsk Mc-Kinney Møller was born in Hellerup , the son of a Danish father, Arnold Peter Møller , founder of the A.P. Moller–Maersk Group and an American mother of Irish and German descent, Chastine Estelle Roberta (née McKinney) Møller. Mærsk married his high-school sweetheart, Emma Neergaard Rasmussen in 1940 and remained married to her until her death in 2005. They had three daughters: Leise (born 1941), Kirsten, Mrs Olufsen (born 1944), and Ane , Mrs Uggla (born 1948). He ranked 557th-wealthiest person in the world (2007) on the Forbes list with an estimated fortune of 142 billion Danish kroner , which made him the wealthiest person in Denmark until his death.  Business activities A.P. Møller – Mærsk headquarters at Nordre",
+      "id": "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_0"
+    },
+    {
+      "text": "Amaliehaven , a park between the Palace and the harbour, in the 1980s.  Death Møller died on 16 April 2012, aged 98, just four days after his last public appearance. He was survived by his three daughters. Distinctions and accolades Møller was a knight of the Danish Order of the Elephant (awarded 15 December 2000); he was, during his membership of the order, the only person who was neither royal nor a head of state to hold this honour (the nuclear physicist Niels Bohr and founder of the East Asiatic Company Hans Niels Andersen held the same order), which granted him the title His Excellency. He was awarded the honour of Life Honorary Membership of the Baltic Exchange in recognition of his service to shipping by the Baltic. AP Møller-Maersk has conducted business through Baltic Exchange brokers since the early 20th century and its London company has been a Baltic member since 1951. The Maersk 2013 , a new Triple E-class container ship (165,000 metric tons deadweight), IMO:9619907, yard number 4250, ship name Mærsk Mc-Kinney Møller , was named for Mærsk Mc-Kinney Møller. References External links Wikimedia Commons has media related to Mærsk Mc-Kinney Møller . Forbes.com: Forbes World's Richest People Bny.dk:",
+      "id": "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_4"
+    },
+    {
+      "text": "Gregers Frederik Raben (1875-1879) Julius Raben (1879-1889) Josias Raben-Levetzau (1889-1921) Frederik Christopher Otto Raben-Levetzau (1921-1927) Frederik Thy (1927-1939) Hans Carl Lundgreen (1939-1998) Arnold Mærsk Mc-Kinney Møller (1998-2009) Bramsløkke Landbrug A/S * (2009–present) Leise Mærsk Mc-Kinney Møller References External links Wikimedia Commons has media related to Bramsløkke .",
+      "id": "HotpotQA-validation-00007147/03_Bramslkke.html_c_6"
+    },
+    {
+      "text": "Peter Mærsk Møller ( / m ɛər s k ˈ m uː l ər / mairsk MOO -lər ; 22 September 1836 – 9 February 1927) was a Danish sea captain and the father of Arnold Peter Møller , founder of the Maersk corporation, and grandfather of Mærsk Mc-Kinney Møller , who made Maersk the largest container ship operator and supply vessel operator in the world. In 1864, Peter Mærsk Møller married shipowner Hans Nielsen Jeppesen ’s daughter Anna, and the couple had ten children. Career He passed his merchant officer's examination at Flensborg Navigation School and became a captain in 1861. His first assignment was the ship Prima in 1862. After the Second Schleswig War in 1864, Peter Mærsk Møller's birthplace Rømø, as Flensborg, passed under Prussian rule (and from 1871 was German territory; Rømø remained so until 1920, and Flensborg – now Flensburg – still is a German city), so Captain Mærsk Møller moved to Dragør , only a few kilometres to the east of Copenhagen. He was the first in Denmark to suggest steam ships instead of sailing ships.  He did so in 1884, as he moved from",
+      "id": "HotpotQA-validation-00007147/02_Peter-Mrsk-Mller.html_c_0"
+    },
+    {
+      "text": "Wikimedia Commons has media related to Mærsk Mc-Kinney Møller . Forbes.com: Forbes World's Richest People Bny.dk: Danish Billionaires 2006 Operaen.dk: New Opera house donated by the foundations to the people of Denmark Apmollerfonde.dk: Projects supported by the foundations",
+      "id": "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Mærsk Mc-Kinney Møller's father is Arnold Peter Møller (HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the name of shipping magnate Mærsk Mc-Kinney Møller' father?",
+      "doc_ids": [
+        "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_0",
+        "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_4",
+        "HotpotQA-validation-00007147/03_Bramslkke.html_c_6",
+        "HotpotQA-validation-00007147/02_Peter-Mrsk-Mller.html_c_0",
+        "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_c_5"
+      ]
+    }
+  ]
+}

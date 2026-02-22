@@ -1,0 +1,12 @@
+{
+  "id": "Novel-12ce277c",
+  "question": "What materials were used in the construction of the Assyrian harp, specifically catgut and silk, and what does this reveal about the combination of animal and plant fibers in ancient instrument making practices?",
+  "gold_answer": "The Assyrian harp was made of catgut and silk, showing the use of both animal and plant fibers in instrument making.",
+  "llm_answer": "The strings of the Assyrian harp were made either of silk or of catgut. This shows that the Assyrians combined animal-derived material (catgut) with a plant-derived fiber (silk) in their instrument making, indicating a deliberate use of both animal and plant resources to achieve the desired sound and durability in their harps.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the Assyrian harp was made of catgut and silk, aligning with the Gold Answer. It elaborates on the significance of combining animal and plant fibers, which is relevant to the question and supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are grounded in the context."
+  }
+}

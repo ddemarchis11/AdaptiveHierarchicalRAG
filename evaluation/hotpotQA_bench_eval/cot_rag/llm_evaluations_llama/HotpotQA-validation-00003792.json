@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003792",
+  "question": "What are both Caleb Shomo and Brian Welch?",
+  "gold_answer": "singer",
+  "llm_answer": "Based on the provided evidence, both Caleb Shomo and Brian Welch are:\n\n1. American\n2. Born in the 1990s (Caleb Shomo) and 1980s (Brian Welch)\n3. Musicians (Caleb Shomo) and former ski jumper (Brian Welch)\n\nHowever, the evidence does not provide a complete match for both individuals.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Brian Welch as a former ski jumper, which is not supported by the context provided. The Gold Answer states that both Caleb Shomo and Brian Welch are singers, but the Model Answer fails to address this and provides irrelevant information instead. Additionally, the context does not support the claim that Brian Welch is a ski jumper, nor does it confirm the shared characteristic of being singers."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000475",
+  "question": "What is the full birth name of the cable news morning show host who previously served multiple terms representing a Florida district in the lower chamber of Congress?",
+  "gold_answer": "Charles Joseph",
+  "llm_answer": "Charles Joseph Scarborough is the full birth name of the cable news morning show host who previously served multiple terms representing a Florida district in the lower chamber of Congress.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the full birth name 'Charles Joseph Scarborough' and aligns with the Gold Answer. It is fully supported by the Retrieved Context, which explicitly states his full name and political background. All key facts from the Gold Answer are included."
+  }
+}

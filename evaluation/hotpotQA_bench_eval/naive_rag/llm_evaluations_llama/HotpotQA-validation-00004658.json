@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004658",
+  "question": "In what year did the playwright who wrote \"The City Heiress\" die?",
+  "gold_answer": "1689",
+  "llm_answer": "I cannot verify the year in which the playwright who wrote \"The City Heiress\" died.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct year of death for Aphra Behn, the playwright of 'The City Heiress,' which is 1689 as stated in the Gold Answer. Additionally, the Retrieved Context does not directly address the year of her death, but the Model Answer does not utilize any external knowledge to answer correctly. Thus, it is incorrect, ungrounded, and lacks evidence coverage."
+  }
+}

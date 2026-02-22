@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001605",
+  "question": "Thomas Henry Moray Followed work down on nuclear batteries in 1912 by this English physicist?",
+  "gold_answer": "Henry Moseley",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect as the Gold Answer 'Henry Moseley' is supported by the retrieved context. While the context does not explicitly link Moseley to Moray's work on nuclear batteries, it provides sufficient information about Moseley's contributions to physics, making the Gold Answer plausible. The Model Answer fails to provide the correct response or address the question directly, resulting in low correctness and evidence coverage scores. However, the claim of insufficient evidence is faithful to the retrieved context."
+  }
+}

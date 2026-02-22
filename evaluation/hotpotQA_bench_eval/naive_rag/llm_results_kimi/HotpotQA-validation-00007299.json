@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007299",
+  "question": "Between Aspidistra and Cyrtanthus, which genus of plant belongs to the Subfamily Amaryllidoideae?",
+  "gold_answer": "Cyrtanthus",
+  "llm_answer": "Cyrtanthus belongs to the subfamily Amaryllidoideae.",
+  "context": [
+    {
+      "text": "Cyrtanthus is a genus of perennial , herbaceous and bulbous plants in the family Amaryllidaceae , subfamily Amaryllidoideae . Taxonomy Cyrtanthus is the sole genus in the African tribe Cyrtantheae. Phylogeny The placement of Cyrtantheae within subfamily Amaryllidoideae is shown in the following cladogram: Subdivision There are over 50 recognized species, all native to central and southern Africa . Cyrtanthus angustifolius Cyrtanthus attenuatus Cyrtanthus aureolinus Cyrtanthus bicolor Cyrtanthus brachyscyphus Cyrtanthus brachysiphon Cyrtanthus breviflorus Cyrtanthus carneus Cyrtanthus clavatus Cyrtanthus collinus Cyrtanthus contractus Cyrtanthus debilis Cyrtanthus elatus Cyrtanthus epiphyticus Cyrtanthus erubescens Cyrtanthus eucallus Cyrtanthus falcatus Cyrtanthus fergusoniae Cyrtanthus flammosus Cyrtanthus flanaganii Cyrtanthus flavus Cyrtanthus galpinii Cyrtanthus guthrieae Cyrtanthus helictus Cyrtanthus herrei Cyrtanthus huttonii Cyrtanthus inaequalis",
+      "id": "HotpotQA-validation-00007299/01_Cyrtanthus.html_c_0"
+    },
+    {
+      "text": "Phycella cyrtanthoides Traubiinae is a subtribe of plants classified under the tribe Hippeastreae . It belongs to the subfamily Amaryllidoideae of the Amaryllis family ( Amaryllidaceae ). Description Bulbous perennial herbaceous plants, terrestrial in habitat. Leaves linear or lorate , annual, sometimes hysteranthous . Taxonomy The term was originally used by the Müller-Doblies ' in 1996 as a monotypic subtribe of Hippeastreae, to include Traubia , based on Traub 's original use of Traubeae for the same purpose. Created from a redistribution of genera of Hippeastreae following a molecular phylogenetic study it is composed of the following genera, based on the presence of lorate-leaves rather than petiolate , which form the remaining genera of the tribe Hippeastreae, i.e. Hippeastrinae . In this redistribution the four species of Famatina were polyphyletic and F. maulensis segregated with Phycella and was consequently transferred: The generic distribution here is based on Garcia et al 2019. [ Placea previous genus] Phycella (~13 species) Rhodolirium (2 species) Traubia (monotypic for T. modesta ) Paposoa (monotypic for P. laeta ) The tribe",
+      "id": "HotpotQA-validation-00007299/02_Traubiinae.html_c_0"
+    },
+    {
+      "text": "Aspidistra / ˌ æ s p ɪ ˈ d ɪ s t r ə / is a genus of flowering plants in the family Asparagaceae , subfamily Convallarioideae , native to eastern and southeastern Asia, particularly China and Vietnam . They grow in shade under trees and shrubs. Their leaves arise more or less directly from ground level, where their flowers also appear. The number of species known has increased considerably from the 1980s onwards, with around 100 accepted as of July 2013 [update] . Aspidistra elatior is common worldwide as a foliage house plant that is very tolerant of neglect. It and other species can also be grown in shade outside, where they are generally hardy to −15 °C (5 °F). Description Species of Aspidistra are perennial herbaceous plants growing from rhizomes . The leaves are either solitary or are grouped in small \"tufts\" of two to four. They arise more or less directly from the rhizome, rather than being borne on stems. Each leaf has a long stalk ( petiole ) and a blade with many veins. The flowering stem ( scape ) is usually very short so that the flowers appear low down among the leaves. The fleshy flowers are bell-, urn- or cup-shaped. They vary considerably in size and shape, although few are showy. The flowers of A. longipedunculata",
+      "id": "HotpotQA-validation-00007299/00_Aspidistra.html_c_0"
+    },
+    {
+      "text": "urn- or cup-shaped. They vary considerably in size and shape, although few are showy. The flowers of A. longipedunculata are yellow and, unusually for the genus, are borne on scapes up to 20 cm (8 in) high. A. grandiflora has spider-like flowers up to 12 cm (5 in) across. The flower has a large stigma with a flattened top. The fruit is a berry , often with a single seed. Taxonomy The genus Aspidistra was named by the English botanist John Ker Gawler in 1822, as a blend of Greek ασπίς/ασπίδ- aspid- , meaning shield, and the name of the sister genus Tupistra . The genus was at one time placed in a broadly defined Liliaceae, along with many other lilioid monocots . It has also been placed in the families Convallariaceae and Ruscaceae. The APG III system of 2009 places it in the family Asparagaceae , subfamily Convallarioideae . Species Aspidistra is a genus that was largely ignored by field botanists until the 1980s onwards, and there has been a rapid rise in the number of recognised species since then. Some 8 to 10 species were known in the late 1970s; 30 new species were described from China in the",
+      "id": "HotpotQA-validation-00007299/00_Aspidistra.html_c_1"
+    },
+    {
+      "text": "Nerine masoniorum is a species of flowering plant in the family Amaryllidaceae , subfamily Amaryllidoideae , native to the eastern Cape Province of South Africa. It is a bulbous perennial belonging to the group of nerines that have narrow evergreen foliage. The thread-like leaves reach a length of 25 cm or more. The flowering stem is 15–25 cm tall, with up to 11 flowers arranged in an umbel . Each flower has six narrow pink tepals with wavy edges. It flowers in late summer in cultivation, the first of the nerines to do so. It has received the Royal Horticultural Society 's Award of Garden Merit . The species was named by Louisa Bolus in 1930. The specific epithet masoniorum honours Marianne Harriet Mason and her brother Edward Mason, who collected in southern and tropical Africa. (The spelling masonorum is also found. ) Nerine masoniorum is regarded as \"critically endangered\" by the South African National Biodiversity Institute. It is known from only two locations, one of which was reported in 2007 to have been lost to development. Inflorescence of cultivated plant References",
+      "id": "HotpotQA-validation-00007299/03_Nerine-masoniorum.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Cyrtanthus is in subfamily Amaryllidoideae (HotpotQA-validation-00007299/01_Cyrtanthus.html_c_0)\n- Aspidistra is in subfamily Convallarioideae, not Amaryllidoideae (HotpotQA-validation-00007299/00_Aspidistra.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Between Aspidistra and Cyrtanthus, which genus of plant belongs to the Subfamily Amaryllidoideae?",
+      "doc_ids": [
+        "HotpotQA-validation-00007299/01_Cyrtanthus.html_c_0",
+        "HotpotQA-validation-00007299/02_Traubiinae.html_c_0",
+        "HotpotQA-validation-00007299/00_Aspidistra.html_c_0",
+        "HotpotQA-validation-00007299/00_Aspidistra.html_c_1",
+        "HotpotQA-validation-00007299/03_Nerine-masoniorum.html_c_0"
+      ]
+    }
+  ]
+}

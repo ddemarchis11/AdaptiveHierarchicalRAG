@@ -1,0 +1,12 @@
+{
+  "id": "Novel-75f181e8",
+  "question": "During the travelers' excursions from The Lizard, to which beach did Charles offer to drive the party for sightseeing and bathing?",
+  "gold_answer": "Charles drove to Kennack Sands.",
+  "llm_answer": "Charles offered to drive the party to Church Cove for sightseeing and bathing, from where they would row to the sea-caves between the Lizard and Cadgwith.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies Kennack Sands as the beach Charles drove the party to for sightseeing and bathing, while the Model Answer incorrectly states Church Cove and mentions rowing to sea-caves, which is not supported by the context provided. The Model Answer fails to align with the Gold Answer and the retrieved context."
+  }
+}

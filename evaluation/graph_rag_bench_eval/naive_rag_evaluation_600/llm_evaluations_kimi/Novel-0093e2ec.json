@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0093e2ec",
+  "question": "In the context of the military operations during the Sioux Uprising, what was Maj. Joseph R. Brown's leadership role in relation to Company A, and how was this company associated with the St. Paul organizations?",
+  "gold_answer": "Maj. Joseph R. Brown commanded Company A, which was part of the St. Paul organizations.",
+  "llm_answer": "Maj. Joseph R. Brown was placed in overall command of the relief column that included Company A of the Sixth Regiment.  \nCompany A itself was one of the “St. Paul organizations”: it was the St. Paul–based unit (together with the Cullen Guards and citizen volunteers) that Maj. Brown led on the mission to bury the dead and rescue the wounded after the outbreak.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Maj. Joseph R. Brown's leadership role over Company A and its association with St. Paul organizations. It provides additional context about the relief column and mission, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

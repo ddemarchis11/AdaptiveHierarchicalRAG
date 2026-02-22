@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5825991f",
+  "question": "During Ulysses's journey as recounted in the narrative, what did he receive from Æolus to aid his travels?",
+  "gold_answer": "Ulysses received favourable wind from Æolus during his journey.",
+  "llm_answer": "Æolus gave Ulysses favourable wind sewn up in a leather bag.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Æolus gave Ulysses favourable wind sewn up in a leather bag, which aligns with the Gold Answer and is explicitly supported by the Retrieved Context. It includes all key facts mentioned in the Gold Answer and does not introduce unsupported details."
+  }
+}

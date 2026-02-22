@@ -1,0 +1,12 @@
+{
+  "id": "Novel-10d68c1c",
+  "question": "How did Rudolph demonstrate his engagement with different cultures during his travels in Dragon's Blood, such as by speaking English and journeying to China as part of his experiences?",
+  "gold_answer": "Rudolph demonstrated engagement with different cultures by speaking English and traveling to China.",
+  "llm_answer": "I cannot answer this question as it is not supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states it cannot answer the question due to lack of support in the context, which is accurate given the retrieved context does not provide information about Rudolph's engagement with different cultures, speaking English, or traveling to China. However, the Model Answer fails to address the question using internal knowledge, which could have been possible. Thus, correctness and evidence coverage are rated as 0.0, while faithfulness is rated as 1.0 since the response does not contradict the context."
+  }
+}

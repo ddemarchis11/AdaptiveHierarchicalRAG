@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002043",
+  "question": "One of the directors of Mediastan is well-known for founding what organisation in 2006?",
+  "gold_answer": "WikiLeaks",
+  "llm_answer": "The evidence does not mention any organisation founded by a director of *Mediastan* in 2006. Therefore, the answer is:  \n**Evidence is insufficient.**",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence is insufficient to answer the question, which is incorrect. The Gold Answer clearly identifies WikiLeaks as the organization founded in 2006 by Julian Assange, who is one of the producers of Mediastan. The Retrieved Context supports this information, but the Model Answer fails to provide it."
+  }
+}

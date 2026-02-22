@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002698",
+  "question": "What region has the indigenous language that includes the word Catuaba?",
+  "gold_answer": "South America",
+  "llm_answer": "Based on the provided evidence, I can conclude that the region with the indigenous language that includes the word \"Catuaba\" is not mentioned in the provided text. However, the text does mention the Guarani language, which is spoken in Paraguay and neighboring countries, including parts of northeastern Argentina, southeastern Bolivia, and southwestern Brazil.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Guarani language and its regional distribution in South America, which aligns with the Gold Answer's mention of South America. However, it does not explicitly confirm that 'Catuaba' is part of the Guarani language or directly link it to South America. The answer is faithful to the context provided but misses the direct connection to the Gold Answer's core fact."
+  }
+}

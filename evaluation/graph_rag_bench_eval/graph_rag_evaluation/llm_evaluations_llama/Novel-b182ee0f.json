@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b182ee0f",
+  "question": "During the succession events in the city, whom did the people lead to the market-place, resulting in an encounter with the new king?",
+  "gold_answer": "The people led the princess to the market-place.",
+  "llm_answer": "The people led a beautiful princess to the market-place, where the new king was sitting in royal state.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the people led the princess to the market-place, which aligns with the Gold Answer. It is faithful to the retrieved context, which explicitly mentions the people leading the princess to the market-place to meet the new king. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

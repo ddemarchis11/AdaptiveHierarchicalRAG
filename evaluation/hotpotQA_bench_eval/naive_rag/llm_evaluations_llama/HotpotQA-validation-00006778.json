@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006778",
+  "question": "Careers and The Really Nasty Horse Racing Game are both what kind of game?",
+  "gold_answer": "board game",
+  "llm_answer": "Based on the provided evidence, Careers and The Really Nasty Horse Racing Game are both:\n\n1. Board games\n2. Games that involve racing (although in different forms, Careers involves racing through occupation paths and The Really Nasty Horse Racing Game involves racing horses around a track)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that both Careers and The Really Nasty Horse Racing Game are board games, aligning with the Gold Answer. However, the additional claim that Careers involves racing through occupation paths is not supported by the retrieved context, which does not explicitly describe Careers as a racing game. This reduces faithfulness and evidence coverage, as the core fact about Careers being a board game is present but the additional detail is unsupported."
+  }
+}

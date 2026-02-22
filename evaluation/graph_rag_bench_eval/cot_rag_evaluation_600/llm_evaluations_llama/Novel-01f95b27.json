@@ -1,0 +1,12 @@
+{
+  "id": "Novel-01f95b27",
+  "question": "What cultural activities involving the arts did Samuel Pepys engage in as described in his diary, such as attending theatrical performances like 'The Siege of Rhodes' and 'Bartholomew Fayre', and learning to sing from Mr. Goodgroome?",
+  "gold_answer": "Samuel Pepys saw 'The Siege of Rhodes' and 'Bartholomew Fayre', and learned to sing from Mr. Goodgroome.",
+  "llm_answer": "Samuel Pepys engaged in the following cultural activities involving the arts as described in his diary:\n\n1. Attending theatrical performances:\n   - He went to Sir William Davenant's Opera on July 2nd, 1661, where he saw the second part of \"The Siege of Rhodes.\"\n   - He attended the Theatre on August 31st, 1661, where he saw \"The Tamer Tamed\" well done.\n\n2. Learning to sing:\n   - He hired a singing master, Mr. Goodgroome (Theodore Goodgroome), on July 25th, 1661, and agreed to pay him 20s. entrance and 20s. a month to teach him to sing.\n   - He mentioned that he had made progress in singing, as he was able to sing \"La cruda la bella\" on July 25th, 1661.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Samuel Pepys's engagement in cultural activities involving the arts, including attending theatrical performances ('The Siege of Rhodes') and learning to sing from Mr. Goodgroome. It adds relevant details about 'The Tamer Tamed' and Pepys's progress in singing, which are supported by the context. However, the Gold Answer specifically mentions 'Bartholomew Fayre,' which is not included in the Model Answer, leading to partial evidence coverage."
+  }
+}

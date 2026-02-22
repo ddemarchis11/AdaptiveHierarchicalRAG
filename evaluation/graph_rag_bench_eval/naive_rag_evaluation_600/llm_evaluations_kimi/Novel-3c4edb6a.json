@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c4edb6a",
+  "question": "How did Elsie Maud Inglis’s role connect with the Scottish Women's Hospitals’ journey to Serbia?",
+  "gold_answer": "Elsie Maud Inglis sent Miss Burke, who influenced her countrymen in America; America aided the Scottish Women's Hospitals, which then went to Serbia.",
+  "llm_answer": "Elsie Maud Inglis was the founder and leader of the Scottish Women’s Hospitals (S.W.H.). In October 1914 the Scottish Federation formally adopted her scheme, and she was sent to London to present the plan and raise support. Shortly afterward she herself led a fully equipped S.W.H. unit to Serbia, where it worked with the Serbian army on the Bulgarian front.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Elsie Maud Inglis as the founder and leader of the Scottish Women’s Hospitals and mentions her leading a unit to Serbia, which aligns with the context. However, it omits the specific connection described in the Gold Answer, namely her sending Miss Burke to America, where Burke influenced her countrymen to aid the S.W.H., which then went to Serbia. Additionally, the claim about Inglis leading the unit herself is not explicitly supported by the retrieved context, making the answer partially faithful and incomplete in evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-459e0a03",
+  "question": "Throughout the play 'Dandy Dick', by what other names is THE DEAN, who is also referred to as Augustin and Gus, known by the characters?",
+  "gold_answer": "THE DEAN is also known as Augustin and Gus.",
+  "llm_answer": "Throughout the play 'Dandy Dick', THE DEAN, who is also referred to as Augustin and Gus, is also known by the following names:\n\n1. Augustin (as seen in the first-night programme and in the dialogue between Georgiana and the Dean)\n2. Gus (as seen in the dialogue between Georgiana and the Dean, and between Sir Tristram and the Dean)\n3. Jedd (as seen in the dialogue between Sir Tristram and the Dean)\n4. Angustin (as seen in the dialogue between Georgiana and the Dean)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Augustin' and 'Gus' as names for THE DEAN, which aligns with the Gold Answer. However, the additional names 'Jedd' and 'Angustin' are not clearly supported by the retrieved context as alternative names used by characters to refer to THE DEAN. The context does mention 'Jedd' as part of THE DEAN's full title, but it is not used as a nickname or alternative name by other characters. Similarly, 'Angustin' appears to be a misinterpretation or typo in the dialogue. Thus, the answer partially aligns with the Gold Answer and context but includes unsupported claims."
+  }
+}

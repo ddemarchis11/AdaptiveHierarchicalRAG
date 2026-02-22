@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c3a2a387",
+  "question": "How was the city of Mogador affected by both the French and the Berbers, according to the novel's account of its bombardment and subsequent destruction?",
+  "gold_answer": "Mogador was bombarded by the French and was left in ruins by the Berbers.",
+  "llm_answer": "According to the novel's account of the bombardment and subsequent destruction of Mogador, the city was affected by both the French and the Berbers as follows:\n\nThe French bombarded the city on August 13, 1844, with a squadron of ships, including the 'Gemappes,' 'Suffren,' 'Triton,' 'Belle Poule,' 'Asmodee,' and 'Pluton.' The bombardment lasted for 28 hours, resulting in the deaths of around 500 Moors and the destruction of the city's defenses. The French then landed 900 troops on the island of Mogador, who took possession of the city and its forts after a brief encounter with the garrison.\n\nThe Berbers, who had been levied to defend the town, instead sacked and fired the city, along with the Arab tribes and the Moorish rabble. They plundered the city, breaking open houses, assaulting the inhabitants, murdering those who resisted, and stripping the women of their clothing and ornaments. The Berbers also pillaged the Moors who had escaped from the city with their booty.\n\nThe novel describes the situation as \"sanguinary violence\" and \"turbulent confusion,\" with the plunderers appearing before the Consulates and ransacking places for money and other treasures. The British Consul and his wife, along with a few others, managed to escape from the city, but many Jews and natives were left behind to be maltreated, stripped naked, and possibly murdered.\n\nIn summary, the city of Mogador was affected by both the French, who bombarded the city and took possession of it, and the Berbers, who sacked and fired the city, along with the Arab tribes and the Moorish rabble.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Mogador was bombarded by the French and left in ruins by the Berbers. It provides additional details about the bombardment, the involvement of the French squadron, and the actions of the Berbers, all of which are supported by the Retrieved Context. The Model Answer includes all key facts from the Gold Answer and expands on them with relevant and grounded information."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000193",
+  "question": "In which city are the headquarters of the American research and scientific development company where Ravi Sethi worked as computer scientist located?",
+  "gold_answer": "Murray Hill",
+  "llm_answer": "Murray Hill, New Jersey",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Murray Hill, New Jersey as the location of the headquarters of Bell Labs, where Ravi Sethi worked as a computer scientist. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly states that Bell Labs' headquarters are located in Murray Hill, New Jersey."
+  }
+}

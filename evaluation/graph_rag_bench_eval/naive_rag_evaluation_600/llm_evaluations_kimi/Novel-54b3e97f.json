@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Mr. Salisbury drank with Mr. Pepys; they went together to Hercules Pillars for a drink.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Mr. Salisbury as the individual who drank with Mr. Pepys, whereas the Gold Answer specifies Mr. Starling. The retrieved context does not support the claim about Mr. Salisbury drinking with Mr. Pepys at Hercules Pillars, making the answer both incorrect and unfaithful to the context. Additionally, the key fact from the Gold Answer (Mr. Starling) is entirely missed."
+  }
+}

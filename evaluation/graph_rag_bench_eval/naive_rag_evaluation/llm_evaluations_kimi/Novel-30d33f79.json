@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30d33f79",
+  "question": "Which series of relationships connects David to the musical instrument santir, considering the involvement of Egyptian musicians?",
+  "gold_answer": "David used to suspend the kinnor, which is rendered as harp, found in the British Museum; cymbals in the museum were used by Egyptian musicians; Assyrian musicians played the dulcimer, which is known as santir.",
+  "llm_answer": "The santir is linked to David through a chain that begins with Egyptian musicians: an Egyptian painting in the tomb at Beni Hassan (c. 1700 B.C.) shows a Hebrew lyre of Joseph’s time; the same lyre form is later seen in the Egyptian-made “rotta” that King David is shown playing in early-Christian manuscripts.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning a connection between David and the rotta, an instrument derived from the Hebrew lyre, but it does not establish the full chain of relationships involving the santir and Egyptian musicians as described in the Gold Answer. Additionally, the retrieved context does not support the specific claims about the santir or the rotta being linked to David, making the answer unfaithful to the context. The evidence coverage is partial because the Model Answer misses key facts about the cymbals used by Egyptian musicians and the Assyrian dulcimer (santir)."
+  }
+}

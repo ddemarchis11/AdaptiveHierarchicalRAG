@@ -1,0 +1,42 @@
+{
+  "id": "Novel-c0ac21ce",
+  "question": "To whom did Heinse address his correspondence, as documented among exchanges between German literary figures?",
+  "gold_answer": "Heinse wrote to Gleim.",
+  "llm_answer": "Heinse addressed his correspondence to Gleim.",
+  "context": [
+    {
+      "text": "in other minor regards (VII, 158; VIII, pp. 51, 77, and Briefe II, 76). Yet in spite of this evident infatuation, Matthison’s account of his own travels cannot be classed as an imitation of Yorick, but is purely objective, descriptive, without search for humor or pathos, with no introduction of personalities save friends and celebrities. Heinse alluded to Sterne frequently in his letters to Gleim (1770-1771),[85] but after August 23, 1771, Sterne vanished from his fund of allusion, though the correspondence lasts until 1802, a fact of significance in dating the German enthusiasm for Sterne and the German knowledge of Shandy from the publication of the Sentimental Journey, and likewise an indication of the insecurity of Yorick’s personal hold. Miscellaneous allusions to Sterne, illustrating the magnitude and duration of his popularity, may not be without interest: Kästner “Vermischte Schriften,” II, p. 134 (Steckenpferd); Lenz “Gesammelte Werke,” Berlin, 1828, Vol. III, p. 312; letter from the Duchess Amalie, August 2, 1779, in “Briefe an und von Merck,” Darmstadt, 1838; letter of Caroline Herder to Knebel,",
+      "id": "Novel-26183_c_309"
+    },
+    {
+      "text": "on from digression to digression without grasping the real humor of the author. I regarded him as a man like our Liscow, whom, as you know, I don’t particularly fancy; and yet the book pleases Lessing!” This is sufficient proof that Mendelssohn first read Shandy early in 1763, but, though not improbable, it is yet rather hazardous to conclude that Lessing also had read the book shortly before, and had just recommended it to his friend. The literary friendship existing between them, and the general nature of their literary relations and communications, would rather favor such a hypothesis. The passage is, however, a significant confession of partial failure on the part of the clever and erudite Mendelssohn to appreciate Sterne’s humor. It has been generally accepted that Lessing’s dramatic fragment, “Die Witzlinge,” included two characters modeled confessedly after Yorick’s familiar personages, Trim and Eugenius. Boxberger and others have stamped such a theory with their authority.[32] If this were true, “Die Witzlinge” would undoubtedly be the first example of Sterne’s influence working directly upon the literary activity of a German author. The fragment has, however, nothing to do with Tristram Shandy, and a curious error has here crept in through the remarkable juxtaposition of names later associated with Sterne. The plan is really derived directly from",
+      "id": "Novel-26183_c_44"
+    },
+    {
+      "text": "second literary period, the frivolous, sensuous, epicurean, even as the moral meanderings of Richardson agreed with his former serious, religious attitude. Probably soon after or while reading Shandy, Wieland conceived the idea of translating it. The letter which contains this very first mention of Sterne also records Wieland’s regret that the Germans can read this incomparable original only in so wretched a translation, which implies a contemporary acquaintance with Dr. Zückert’s rendering. This regret may well have been the foundation of his own purpose of translating the book; and knowledge of this seems to have been pretty general among German men of letters at the time. Though the account of this purpose would bring us into a time when the Sentimental Journey was in every hand, it may be as well to complete what we have to say of it here. His reason for abandoning the idea, and the amount of work done, the length of time he spent upon the project, cannot be determined from his correspondence and must, as Behmer implies, be left in doubt. But several facts, which Behmer does not note, remarks of his own and of his contemporaries, point to more than an undefined general purpose on his part; it is not improbable that considerable work was done. Wieland says incidentally in his _Teutscher Merkur_,[56] in a review of the new edition of Zückert’s translation: “Vor drei Jahren,",
+      "id": "Novel-26183_c_56"
+    },
+    {
+      "text": "1798). Goethe’s connection with the “Koran,” which forms the most interesting phase of its German career, will be treated later. Sterne’s unacknowledged borrowings, his high-handed and extensive appropriation of work not his own, were noted in Germany, the natural result of Ferriar’s investigations in England, but they seem never to have attracted any considerable attention or aroused any serious concern among Sterne’s admirers so as to imperil his position: the question in England attached itself as an ungrateful but unavoidable concomitant of every discussion of Sterne and every attempt to determine his place in letters. Böttiger tells us that Lessing possessed a copy of Burton’s “Anatomy of Melancholy,” from which Sterne filched so much wisdom, and that Lessing had marked in it several of the passages which Ferriar later advanced as proof of Sterne’s theft. It seems that Bode purchased this volume at Lessing’s auction in Hamburg. Lessing evidently thought it not worth while to mention these discoveries, as he is entirely silent on the subject. Böttiger is, in his account, most unwarrantedly severe on Ferriar, whom he calls “the bilious Englishman” who attacked Sterne “with so much bitterness.” This is very far from a veracious conception of Ferriar’s attitude. The comparative indifference in Germany to this phase of Sterne’s literary career may well be attributed to",
+      "id": "Novel-26183_c_147"
+    },
+    {
+      "text": "translation,” naturally for the purpose of comparison. This evasive reply is Bode’s only defense or explanation. Böttiger claims that the review of Bode’s translation in the _Allgemeine deutsche Bibliothek_ did much to spread the idea of Bode’s authorship, though the reviewer in that periodical[39] only suggests the possibility of German authorship, a suspicion aroused by the substitution of German customs and motif and word-play, together with contemporary literary allusion, allusion to literary mediocrities and obscurities, of such a nature as to preclude the possibility of the book’s being a literal translation from the English. The exact amount and the nature of Bode’s divergence from the original, his alterations and additions, have never been definitely stated by anyone. The reviewer in the _Allgemeine deutsche Bibliothek_ is manifestly ignorant of the original. Böttiger is indefinite and partisan, yet his statement of the facts has been generally accepted and constantly repeated. He admits the German coloring given the translation by Bode through German allusions and German word-plays: he says that Bode allowed himself these liberties, feeling that he was no longer dealing with Sterne, a statement of motive on Bode’s part which the latter never makes and never hints at. The only absolute additions which Böttiger mentions as made by Bode to the narrative of Eugenius are the episode, “Das Hündchen,”",
+      "id": "Novel-26183_c_91"
+    }
+  ],
+  "cot_scratchpad": "- Heinse's letters were addressed to Gleim in the years 1770-1771 (Novel-26183_c_309).\n- These letters form part of documented German literary correspondence (Novel-26183_c_309).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "To whom did Heinse address his correspondence, as documented among exchanges between German literary figures?",
+      "doc_ids": [
+        "Novel-26183_c_309",
+        "Novel-26183_c_44",
+        "Novel-26183_c_56",
+        "Novel-26183_c_147",
+        "Novel-26183_c_91"
+      ]
+    }
+  ]
+}

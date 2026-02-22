@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003047",
+  "question": "What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?",
+  "gold_answer": "Teamsters leader",
+  "llm_answer": "The evidence states that the 1992 film *Hoffa* starred Danny DeVito and Jack Nicholson. Therefore, Jack Nicholson played Jimmy Hoffa in that French-American biographical crime film.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Jack Nicholson played Jimmy Hoffa in the 1992 film *Hoffa*, which aligns with the Gold Answer stating he was a Teamsters leader. The context supports this information, as it mentions Nicholson's role in *Hoffa* and the film's biographical nature. All key facts are covered."
+  }
+}

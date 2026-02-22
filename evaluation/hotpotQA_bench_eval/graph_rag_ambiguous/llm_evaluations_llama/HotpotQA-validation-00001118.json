@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001118",
+  "question": "Which British actress, who trained and performed at a fringe venue in south London, became widely recognised for her long-running role as a landlady in a flagship BBC soap opera?",
+  "gold_answer": "Tamzin Outhwaite",
+  "llm_answer": "I'm unable to identify the specific British actress from the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer fails to provide the correct response to the question, which is 'Tamzin Outhwaite.' Additionally, the retrieved context does not contain relevant information to support the answer, and the model does not attempt to use external knowledge to address the question."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "The text does not explicitly state that Samuel Pepys observed the Duke of York at a performance. However, it does mention that he met with the Duke of York at Whitehall, after walking up and down there.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not mention the Duke of York attending a performance, whereas the Gold Answer specifies that the Duke of York was at the Opera. The retrieved context does not provide explicit evidence for the Gold Answer, but the Model Answer fails to address the question correctly and misses the key fact about the venue being the Opera."
+  }
+}

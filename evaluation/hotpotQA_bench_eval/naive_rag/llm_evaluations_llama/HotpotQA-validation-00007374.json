@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007374",
+  "question": "What type of diet does the author of Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss advocate?",
+  "gold_answer": "micronutrient-rich",
+  "llm_answer": "The author of Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss, Joel Fuhrman, advocates for a diet that is:\n\n1. Vegetarian\n2. Vegan (for the first six weeks)\n3. Low-salt\n4. Low-fat\n5. Gluten-free (for the first six weeks)\n6. Nutritarian (a diet that focuses on nutrient-dense foods)\n\nThis diet is considered \"extremely restrictive\" and restricts snacks, sugar, and oils. After the first six weeks, animal products may be added.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed description of the diet advocated by Joel Fuhrman, including its vegetarian, vegan, low-salt, low-fat, and gluten-free aspects, as well as its restrictive nature. However, it does not explicitly emphasize the 'micronutrient-rich' aspect, which is the core of the Gold Answer. While the details are faithful to the context, the omission of the key term 'micronutrient-rich' reduces evidence coverage and correctness."
+  }
+}

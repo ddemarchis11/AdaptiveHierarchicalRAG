@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f05a2e9b",
+  "question": "After his experiences in Monte Carlo, where did Louis intend to return with his wife, as discussed in their conversation?",
+  "gold_answer": "Louis would go back to Paris.",
+  "llm_answer": "Paris.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Paris as the place Louis intended to return with his wife after their experiences in Monte Carlo. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly mentions their plan to take the train to Paris. The answer is concise but fully accurate and faithful to the context."
+  }
+}

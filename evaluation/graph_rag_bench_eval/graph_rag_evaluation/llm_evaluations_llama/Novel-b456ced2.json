@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b456ced2",
+  "question": "With whom does the Emperor of Morocco correspond in the narrative's depiction of diplomatic or political exchanges?",
+  "gold_answer": "The Emperor of Morocco corresponds with Mr. Hay.",
+  "llm_answer": "The Emperor of Morocco corresponds with European Powers, specifically France and England, as depicted in the narrative.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the Emperor of Morocco corresponds with European Powers, specifically France and England, which is not supported by the retrieved context. The Gold Answer specifies Mr. Hay as the correspondent, and this fact is not mentioned or supported in the Model Answer. Additionally, the retrieved context does not provide evidence for the claim about correspondence with European Powers."
+  }
+}

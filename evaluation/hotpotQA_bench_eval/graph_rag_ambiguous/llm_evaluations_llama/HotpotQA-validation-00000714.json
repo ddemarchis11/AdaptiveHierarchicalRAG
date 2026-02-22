@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000714",
+  "question": "The actress who appeared in a supernatural thriller about cursed mirrors set in a department store had previously made her cinematic debut in a mid-2000s romantic comedy featuring a professional date coach — what is her full birth name?",
+  "gold_answer": "Paula Maxine Patton",
+  "llm_answer": "I'm unable to answer the question as the provided context does not fully support the answer.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model fails to provide the correct answer to the question and does not utilize the retrieved context effectively. The correct answer, Paula Maxine Patton, is not mentioned, and the model incorrectly states that the context does not support the answer, despite relevant information about Paula Patton being present in the context."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "Novel-237238e6",
+  "question": "How can consuming candy ultimately lead to the presence of alcohol in the body, and what role does sugar play in this process?",
+  "gold_answer": "Candy contains sugar, and sugar is changed into alcohol.",
+  "llm_answer": "The evidence does not explain any process by which eating candy (sugar) can be turned into alcohol inside the human body; it only describes how the sugar already present in fruit juices is changed into alcohol when those juices are left to stand.",
+  "context": [
+    {
+      "text": "unripe apples. CANDY. Most children like candy so well, that they are in danger of eating more sugar than is good for them. You would starve if fed only on sugar. We would not need to be quite so much afraid of a little candy if it were not for the poison with which it is often . Even what is called pure, white candy is sometimes not really such. There is a simple way by which you can find this out for yourselves. If you put a spoonful of sugar into a tumbler of water, it will all dissolve and disappear. Put a piece of white candy into a tumbler of water; and, if it is made of pure sugar only, it will dissolve and disappear. If it is not, you will find at the bottom of the tumbler some white earth. This is not good food for anybody. Candy-makers often put it into candy in place of sugar, because it is cheaper than sugar. REVIEW QUESTIONS.           1. Why do we need food?           2. How do people get water to drink?           3. Why is it not safe to drink water that has been           standing in lead pipes?           4. Why is the water of a well",
+      "id": "Novel-25646_c_62"
+    },
+    {
+      "text": "standing in lead pipes?           4. Why is the water of a well that is near a drain           or a stable, not fit to drink?           5. What food do the bones need?           6. How do we get lime for our bones?           7. What is said about salt?           8. What food do the muscles need?           9. Name some flesh-making foods.           10. Why do we need fat in our bodies?           11. What is said of the fat made by alcohol?           12. What kinds of food will make good fat?           13. What do the Esquimaux eat?           14. How does the sun change unripe fruits?           15. Why is  candy often poisonous?           16. What is",
+      "id": "Novel-25646_c_63"
+    },
+    {
+      "text": "the body which need it, comes from fat-making foods. In cold weather, we need more fatty food than we do in summer, just as in cold countries people need such food all the time. The Esquimaux, who live in the lands of snow and ice, catch a great many walrus and seal, and eat a great deal of fat meat. You would not be well unless you ate some fat or butter or oil. WHAT WILL MAKE FAT? Sugar will make fat, and so will starch, cream, rice, butter, and fat meat. As milk will make muscle and fat and bones, it is the best kind of food. Here, again, it is the earth that sends us our food. Fat meat comes from animals well fed on grain and grass; sugar, from sugar-cane, maple-trees, or beets; oil, from olive-trees; butter, from cream; and starch, from potatoes, and from corn, rice, and other grains. Green apples and other unripe fruits are not yet ready to be eaten. The starch which we take for food has to be changed into sugar, before it can mix with the blood and help feed the body. As the sun ripens fruit, it changes its starch to sugar. You can tell this by the difference in the taste of ripe and unripe apples. CANDY. Most children like candy so well, that they are in danger of eating more sugar than is good for them.",
+      "id": "Novel-25646_c_61"
+    },
+    {
+      "text": "How does it affect his manners? [Illustration: _Bones of the human body._] CHAPTER IV. WHAT IS ALCOHOL? [Illustration: R]IPE grapes are full of juice. This juice is mostly water, sweetened with a sugar of its own. It is flavored with something which makes us know, the moment we taste it, that it is grape-juice, and not cherry-juice or plum-juice. Apples also contain water, sugar, and apple flavor; and cherries contain water, sugar, and cherry flavor. The same is true of other fruits. They all, when ripe, have the water and the sugar; and each has a flavor of its own. Ripe grapes are sometimes gathered and put into great tubs called vats. In these the juice is squeezed out. In some countries, this squeezing is done by bare-footed men who jump into the vats and press the grapes with their feet. The grape-juice is then drawn off from the skins and seeds and left standing in a warm place. Bubbles soon begin to rise and cover the top of it with froth. The juice is all in motion. [Illustration: _Picking grapes and making wine._] If the cook had wished to use this grape-juice to make jelly, she would say: \"Now, I can not make my grape-jelly, for the grape-juice is spoiled.\" WHAT",
+      "id": "Novel-25646_c_31"
+    },
+    {
+      "text": "21. What does alcohol make the person who takes it           want?           22. What is such a one called?           23. What has wine done to many persons?           24. What does alcohol hurt?           25. How does it change a person?           26. Are you sure you will not become a drunkard if           you drink wine?           27. Why should you not drink it?           28. What is cider made from?           29. What soon happens to apple-juice?           30. How may vinegar be made? FOOTNOTE: [Footnote A: This gas is called car bon'ic acid gas.] CHAPTER V. BEER. [Illustration: A]LCOHOL is often made from grains as well as from fruit. The grain has starch instead of sugar. If the starch in your mother's starch-box at home should be changed into",
+      "id": "Novel-25646_c_36"
+    },
+    {
+      "text": "because they do not put any in. But you know that the alcohol is made in the fruit-juice itself by the change of the sugar into alcohol and the gas. [Illustration] It is the nature of alcohol to make the person who takes a little of it, in wine, or any other drink, want more and more alcohol. When one goes on, thus taking more and more of the drinks that contain alcohol, he is called a drunkard. In this way wine has made many drunkards. Alcohol hurts both the body and mind. It changes the person who drinks it. It will make a good and kind person cruel and bad; and will make a bad person worse. Every one who takes wine does not become a drunkard, but you are not sure that you will not, if you drink it. You should not drink wine, because there is alcohol in it. CIDER. Cider is made from apples. In a few hours after the juice is pressed out of the apples, if it is left open to the air the sugar begins to change. Like the sugar in the grape, it changes into alcohol and bubbles of gas. At first, there is but little alcohol in cider, but a little of this poison is dangerous. More alcohol is all the time forming until in ten cups of cider there may be one cup of alcohol. Cider often makes its drinkers ill-tempered and cross. Cider and wine will turn into vinegar if left in a",
+      "id": "Novel-25646_c_33"
+    }
+  ],
+  "cot_scratchpad": "- Candy and sugar can ferment into alcohol under the right conditions (Novel-25646_c_31).\n- Sugar, a main component of candy, is the raw material for fermentation to produce alcohol.\n- Sugar in grape-juice, apple-juice, or barley-malt is fermented by yeast into alcohol + CO₂ gas (Novel-25646_c_33, Novel-25646_c_38, Novel-25646_c_32).\n- Fermentation happens inside the fruit juice or soaked malt, not in the human body (Novel-25646_c_33, Novel-25646_c_38).\n- No evidence shows gut microbes ferment ingested candy sugar into alcohol.\n- Sugar in candy can ferment into alcohol (Novel-25646_c_31).\n- Fermentation occurs outside the body, not in the gut (Novel-25646_c_33, Novel-25646_c_38).\n- No evidence that gut microbes convert candy sugar to alcohol.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "How can consuming candy ultimately lead to the presence of alcohol in the body, and what role does sugar play in this process?",
+      "doc_ids": [
+        "Novel-25646_c_62",
+        "Novel-25646_c_63",
+        "Novel-25646_c_61",
+        "Novel-25646_c_31",
+        "Novel-25646_c_36"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "sugar fermentation alcohol microbes body",
+      "doc_ids": [
+        "Novel-25646_c_33",
+        "Novel-25646_c_38",
+        "Novel-25646_c_32",
+        "Novel-25646_c_31",
+        "Novel-25646_c_36"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "gut microbiome sugar alcohol intestinal fermentation",
+      "doc_ids": [
+        "Novel-25646_c_32",
+        "Novel-25646_c_33",
+        "Novel-25646_c_38",
+        "Novel-25646_c_36",
+        "Novel-25646_c_31"
+      ]
+    }
+  ]
+}

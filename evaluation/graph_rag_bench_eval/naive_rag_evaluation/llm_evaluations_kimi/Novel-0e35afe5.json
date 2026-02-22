@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e35afe5",
+  "question": "Amidst the pressures and uncertainties of their situation in China, to whom did Rudolph confess his thoughts and feelings, seeking understanding?",
+  "gold_answer": "Rudolph confessed to Heywood.",
+  "llm_answer": "Rudolph confided in his companion, the man who led him through the compound and proposed they take a holiday—evidently the only person present with whom he could share his thoughts.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies that Rudolph confessed to Heywood, but the Model Answer does not mention Heywood and instead refers to an unnamed companion. The Retrieved Context does not provide evidence to support the claim that Rudolph confided in this companion, making the answer unfaithful to the context. Additionally, the Model Answer misses the key fact from the Gold Answer, which is the identity of the person Rudolph confessed to."
+  }
+}

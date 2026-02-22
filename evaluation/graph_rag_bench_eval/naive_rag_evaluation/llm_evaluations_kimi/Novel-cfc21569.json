@@ -1,0 +1,12 @@
+{
+  "id": "Novel-cfc21569",
+  "question": "When Raegen is fleeing the police after a violent encounter, where does he wish to hide in order to avoid being caught, and why does he consider these locations safe?",
+  "gold_answer": "Raegen wanted to lie hidden in his own cellar and his own garret.",
+  "llm_answer": "Raegen wants to dive into the river—specifically off Wakeman’s Slip—because he is an expert swimmer and can stay underwater long enough to double back unseen while the police watch the surface for him.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Raegen wants to dive into the river to escape the police, which is not supported by the Gold Answer or the Retrieved Context. The Gold Answer specifies that Raegen wanted to hide in his own cellar and garret, and the context does not provide evidence for the river escape scenario described in the Model Answer. Therefore, the Model Answer is incorrect, unfaithful to the context, and does not cover the key facts from the Gold Answer."
+  }
+}

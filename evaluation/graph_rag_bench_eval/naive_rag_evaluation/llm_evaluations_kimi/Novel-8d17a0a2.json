@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d17a0a2",
+  "question": "In the apple jelly manufacturing process described in the narrative, how are apple seeds separated and collected during the handling of pomace, and what is the role of the troughs in this procedure?",
+  "gold_answer": "Apple seeds are saved by troughs and drop to the bottom of the troughs.",
+  "llm_answer": "After the pomace is ground a second time, it is dropped into a series of large troughs through which a steady stream of water flows. As the pulp drifts downstream, the troughs are raked so the lighter pulp stays on the surface and is carried away by the current, while the heavier apple seeds sink into still water at the bottom. This sequence of troughs thus traps and collects nearly all of the seeds.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the process of separating and collecting apple seeds during the handling of pomace, aligning with the Gold Answer and the Retrieved Context. It provides additional relevant details about the role of water flow and raking in the troughs, which are supported by the context. All key facts from the Gold Answer are included, and the explanation is faithful to the described procedure."
+  }
+}

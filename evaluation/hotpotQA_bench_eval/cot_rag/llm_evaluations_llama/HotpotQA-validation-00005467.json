@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005467",
+  "question": "Who was the narrator of the 26-episode series which featured the British national museum organization with branches at five locations in England?",
+  "gold_answer": "Michael Redgrave",
+  "llm_answer": "The narrator of the 26-episode series which featured the British national museum organization with branches at five locations in England was not directly stated in the provided evidence. However, the evidence does mention a 26-episode documentary series called \"The Great War\" from 1964, and the narrator of that series is mentioned as Michael Redgrave.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Michael Redgrave as the narrator of the 26-episode series, aligning with the Gold Answer and the Retrieved Context. It also provides additional context about the series, which is relevant and supported by the evidence."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f83e84a2",
+  "question": "To which professional association did Elsie Maud Inglis write, seeking support or collaboration during the organization of medical units?",
+  "gold_answer": "Elsie Maud Inglis wrote to the Registered Medical Women's Association.",
+  "llm_answer": "The text does not explicitly mention the professional association to which Elsie Maud Inglis wrote, seeking support or collaboration during the organization of medical units. However, it does mention that she was authorized to speak on the plans of the Scottish Women's Hospitals (S.W.H.) at a meeting in the Kingsway Hall, and that the National Union of Women's Suffrage Societies (N.U.W.S.S.) adopted the plan of campaign on 15th October.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly identify the Registered Medical Women's Association as the professional association Elsie Maud Inglis wrote to, as stated in the Gold Answer. While the Model Answer is faithful to the retrieved context, it fails to address the specific question and misses the key fact provided in the Gold Answer."
+  }
+}

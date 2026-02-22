@@ -1,0 +1,135 @@
+{
+  "id": "Novel-afb11f97",
+  "question": "In which German city was the periodical 'Neue Zeitungen von Gelehrten Sachen' published, contributing to Enlightenment literary culture?",
+  "gold_answer": "Neue Zeitungen von Gelehrten Sachen was published in Leipzig.",
+  "llm_answer": "The context does not specify the city in which the *Neue Zeitungen von Gelehrten Sachen* was published.",
+  "context": [
+    {
+      "text": "probability, of error. This state of affairs is hardly reconcilable with any widespread knowledge of the first volumes of Shandy. The criticism of the sermons which follows implies, on the reviewer’s part, an acquaintance with Sterne, with Tristram, a “whimsical and roguish novel which would in our land be but little credit to a clergyman,” and with the hobby-horse idea. The spirit of the review is, however, quite possibly prompted, and this added information supplied, by the London correspondent, and retold only with a savor of familiarity by this critic; for at the end of this communication this London correspondent is credited with the suggestion that quite probably the sermons were never actually preached. The first mention of Sterne in the _Göttingische Gelehrte Anzeigen_ is in the number for November 15, 1764. In the report from London is a review[16] of the fifth edition of Yorick’s Sermons, published by Dodsley in two volumes, 1764. To judge by the tenor of his brief appreciation, the reviewer does not anticipate any knowledge of Sterne whatsoever or of Shandy among the readers of the periodical. He states that the sermons had aroused much interest in England because of their authorship “by Lorenz Sterne, author of Tristram Shandy, a book in which a remarkable humor is exhibited.” He mentions also that",
+      "id": "Novel-26183_c_35",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 26.661745
+    },
+    {
+      "text": "“by Lorenz Sterne, author of Tristram Shandy, a book in which a remarkable humor is exhibited.” He mentions also that the sermon on the conscience had already been published in the novel, but is ignorant of its former and first appearance. Three years later, July 20, 1767,[17] the same periodical devotes a long critical review to the four-volume London edition of the sermons. The publisher’s name is not given, but it is the issue of Becket and de Hondt. The restating of elementary information concerning authorship is indicative of the tardy progress made by Yorick in these years in gaining recognition in Germany. The reviewer thinks it even necessary to add that Yorick is the name of the clergyman who plays a waggish (possierliche) rôle in Shandy, and that Sterne cherished the opinion that this designation on the title-page would be better known than his own name. In the meantime Swiss piety and Swiss devotion to things English had been instrumental in bringing out a translation of Sterne’s sermons,[18] the first volume of which appeared in 1766. The Swiss translation was occasioned by its author’s expectation of interest in the sermons as sermons; this is in striking contrast to the motives which led to their original publication in England. The brief preface of the translator gives no information of Sterne, or of Shandy; the translator states his reasons",
+      "id": "Novel-26183_c_36",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 26.484531
+    },
+    {
+      "text": "Hillebrand strikes the root of the matter when he says,[11] “We are all schoolmasters, even Hippel could not get away from the tutorial attitude.” The inborn necessity of German culture is to impart information, to seek recruits for the maintenance of some idea, to exploit some political, educational, or moral theory. This irresistible impulse has left its trail over German fiction. The men who wrote novels, as soon as they began to observe, began to theorize, and the results of this speculation were inevitably embodied in their works. They were men of mind rather than men of deeds, who minimized the importance of action and exaggerated the reflective, the abstract, the theoretical, the inner life of man. Hettner,[12] with fine insight, points to the introduction to “Sebaldus Nothanker” as exhibiting the characteristic of this epoch of fiction. Speculation was the hero’s world, and in speculation lay for him the important things of life; he knew not the real world, hence speculation concerning it was his occupation. Consequential connection of events with character makes the English novel the mirror of English life. Failure to achieve such a union makes the German novel a mirror of speculative opinions concerning life. Hence we have Germany in the mid-eighteenth century prepared to accept and adopt any literary dogma, especially when stamped with an English popularity, which shall represent an interest rather in extraordinary characters and unusual opinions than in astounding adventure; which shall display a knowledge of human",
+      "id": "Novel-26183_c_10",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 24.390118
+    },
+    {
+      "text": "in 1767. The outlook maintained in Germany for the worthy in British thought, the translatable, the reproducible, was so vigilant and, in general, so discerning that the introduction of Yorick into Germany was all but inevitable. The nature of the literary relations then obtaining and outlined above would forecast and almost necessitate such an adoption, and his very failure to secure recognition would demand an explanation. Before the publication of Tristram Shandy it would be futile to seek for any knowledge of Sterne on German soil. He had published, as is well known, two sermons preached on occasions of note; and a satirical skit, with kindly purpose, entitled “The History of a Good Warm Watchcoat,” had been written, privately circulated, and then suppressed; yet he was an unknown and comparatively insignificant English clergyman residing in a provincial town, far, in those days very far, from those centers of life which sent their enlightenment over the channel to the continent. His fame was purely local. His sermons had, without doubt, rendered the vicar of Sutton a rather conspicuous ecclesiastic throughout that region; his eccentricities were presumably the talk of neighboring parishes; the cathedral town itself probably tittered at his drolleries, and chattered over his sentiments; his social graces undoubtedly found recognition among county families and in provincial society, and his reputation as a wit had probably spread in a vague, uncertain, transitory fashion beyond the boundaries of",
+      "id": "Novel-26183_c_21",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 22.449944
+    },
+    {
+      "text": "point the English novel stepped in as a guide, and the gradual shaping of the German novel in the direction of an art-form is due primarily to the prevailing admiration of English models. The novel has never been a characteristic method of German self-expression, while if any form of literary endeavor can be designated as characteristically English, the novel may claim this distinction; that is, more particularly the novel as distinguished from the romance. “Robinson Crusoe” (1719) united the elements of the extraordinary and the everyday, being the practical, unromantic account of a remarkable situation; and its extensive vogue in Germany, the myriad confessed imitations, may be said to form a kind of transition of interests. In it the commonplace gains interest through the extraordinary situation. Such an awakening assures a certain measure of interest remaining over for the detailed relation of the everyday activities of life, when removed from the exceptional situation. Upon this vantage ground the novel of everyday life was built. Near the mid-century comes another mighty influence from England, Richardson, who brings into the narration of middle-class, everyday existence, the intense analysis of human sensibilities. Richardson taught Germany to remodel her theories of heroism, her whole system of admirations, her conception of deserts. Rousseau’s voice from France spoke out a stirring appeal for the recognition of human feelings. Fielding, though attacking Richardson’s exaggeration of manner, and opposing him in his excess of emotionalism, yet added a forceful influence still",
+      "id": "Novel-26183_c_6",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 21.54397
+    },
+    {
+      "text": "which he was led on by his own interest. The satire on sentimentalism is purposeful, the imitation and adaptation of the whimsical and original is half-unconscious, and bespeaks admiration and commendation. Timme’s book was sufficiently popular to demand a second edition, but it never received the critical examination its merits deserved. Wieland’s _Teutscher Merkur_ and the _Bibliothek der schönen Wissenschaften_ ignore it completely. The _Gothaische Gelehrte Zeitungen_ announces the book in its issue of August 2, 1780, but the book itself is not reviewed in its columns. The _Jenaische Zeitungen von gelehrten Sachen_ accords it a colorless and unappreciative review in which Timme is reproached for lack of order in his work (a censure more applicable to the first volume), and further for his treatment of German authors then popular.[72] The latter statement stamps the review as unsympathetic with Timme’s satirical purpose. In the _Erfurtische gelehrte Zeitung_,[73] in the very house of its own publication, the novel is treated in a long review which hesitates between an acknowledged lack of comprehension and indignant denunciation. The reviewer fears that the author is a “Pasquillant oder gar ein Indifferentist” and hopes the public will find no pleasure",
+      "id": "Novel-26183_c_365",
+      "doc_id": "Novel-26183",
+      "community_id": 189,
+      "score": 21.490944
+    },
+    {
+      "text": "Out of this one reads clearly how the Germany of that time was hanging on the lips of England. As has been suggested, conscious or unconscious imitation in the home literature is the unavoidable result of admiration for the foreign; imitation of English masters is written large on this period of German letters. Germany is especially indebted to the stirring impulse of the English novel. The intellectual development of a people is observable in its successive periods of interest in different kinds of narration, in its attitude toward the relation of fictitious events. The interest in the extraordinary always precedes that in the ordinary; the unstored mind finds pleasure only in the unusual. An appreciation of the absorbing, vital interest of everyday existence is the accomplishment of reflective training, and betokens the spiritualized nature. Yet it must be observed in passing that the crude interest of unschooled ignorance, and undeveloped taste in the grotesque, the monstrous, the unreal, is not the same as the intellectual man’s appreciation of the unreal in imagination and fancy. The German novel had passed its time of service under the wild, extraordinary and grotesque. The crudities of such tales of adventure were softened and eliminated by the culturing influence of formal classicism and by a newly won admiration for the everyday element in life, contemporaneous with and dependent upon the gradual appreciation of middle-class worth. At this point the English novel stepped in as a guide, and the gradual shaping of the German novel in the direction of an art-form is due primarily to the",
+      "id": "Novel-26183_c_5",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 20.363064
+    },
+    {
+      "text": "Shandy, Lange once more forced his wares upon the market, this time publishing the Zückert translation with the use of Wieland’s then influential name on the title page, “Auf Anrathen des Hrn. Hofraths Wielands verfasst.” Wieland was indignant at this misuse of his name and repudiated all connection with this “new translation.” This edition was probably published late in 1773, as Wieland in his review in the _Merkur_ gives it that date, but the volumes themselves bear the date of 1774.[11] We learn from the _Merkur_ (VI. 363) that Zückert was not responsible for the use of Wieland’s name. These are the facts of the case. Meusel in his account of Zückert gives the date of the first edition as 1774, and the second edition is registered but the date is left blank. Jördens, probably depending on the information given by the review in the _Merkur_, to which reference is made, assigns 1773 as the date. This edition, as is shown above, is really the third. This Zückert translation is first reviewed by the above mentioned _Hamburgischer unpartheyischer Correspondent_ in the issue for January 4, 1764. The review, however, was not calculated to lure the German reader of the",
+      "id": "Novel-26183_c_28",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 20.297424
+    },
+    {
+      "text": "1798, I, p. 173.)] [Footnote 55: Von Rabenau wrote also “Hans Kiekindiewelts Reise” (Leipzig, 1794), which Ebeling (III, p. 623) condemns as “the most commonplace imitation of the most ordinary kind of the comic.”] [Footnote 56: It is also reviewed by Musäus in the _Allg. deutsche Bibl._, XIX, 2, p. 579.] [Footnote 57: The same opinion is expressed in the _Jenaische Zeitungen von Gelehrten Sachen_, 1776, p. 465. See also Schwinger’s study of “Sebaldus Nothanker,” pp. 248-251; Ebeling, p. 584; _Allg. deutsche Bibl._, XXXII, 1, p. 141.] [Footnote 58: Leipzig and Liegnitz, 1775.] [Footnote 59: The _Leipziger Museum Almanach_, 1776, pp. 69-70, agrees in this view.] [Footnote 60: XXIX, 2, p. 507.] [Footnote 61: 1776, I, p. 272.] [Footnote 62: An allusion to an episode of the",
+      "id": "Novel-26183_c_323",
+      "doc_id": "Novel-26183",
+      "community_id": 189,
+      "score": 19.774797
+    },
+    {
+      "text": "the doves done to you?” he queries. “Nothing,” is the reply, “but they will taste good to you.” “But they were alive,” interposed the friend, “and would have caressed (geschnäbelt) one another,” and later he refuses to partake of the doves. Connection with Yorick is established by the narrator himself: “If my friend had not read Yorick’s story about the sparrow, he would have had no rule of conduct here about shooting doves, and my doves would have tasted better to him.” The influence of Yorick was, however, quite possibly indirect through Jacobi as intermediary; for the latter describes a sentimental family who refused to allow their doves to be killed. The author of this letter, however, refers directly to Yorick, to the very similar episode of the sparrows narrated in the continuation of the Sentimental Journey, but an adventure original with the German Bode. This is probably the source of Jacobi’s narrative. The other side of Yorick’s character, less comprehensible, less capable of translation into tangibilities, was not disregarded. His humor and whimsicality, though much less potent, were yet influential. Ramler said in a letter to Gebler dated November 14, 1775, that everyone wished to jest like Sterne,[21] and the _Frankfurter Gelehrte Anzeigen_ (October",
+      "id": "Novel-26183_c_182",
+      "doc_id": "Novel-26183",
+      "community_id": 21,
+      "score": 19.69833
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-26183_21",
+      "summary": "1. **Title**: Laurence Sterne's German Reception\n2. **Summary**: The provided text chunks discuss the reception of Laurence Sterne's works, particularly \"Tristram Shandy\" and \"Yorick's Sermons\", in 18th-century Germany. The texts highlight the influence of Sterne's writings on German literature, with many German authors and translators being inspired by his unique style and humor. The chunks also touch on the challenges of translating Sterne's works into German, with various translators and critics offering their opinions on the best approach. Additionally, the texts mention the role of key figures such as J. L. Benzler, Bode, and Wieland in promoting Sterne's works in Germany. The overall tone suggests that Sterne's writings had a significant impact on German literary circles, with his works being widely read, translated, and admired.\n3. **Keywords**: Laurence Sterne, Tristram Shandy, German Literature, 18th Century, Literary Reception",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-26183_189",
+      "summary": "1. **Title**: Sterne's German Reception\n2. **Summary**: The provided text chunks discuss the reception of Laurence Sterne's works, particularly \"Tristram Shandy\" and \"A Sentimental Journey\", in 18th century Germany. The translations of these works by various authors, including Bode, are analyzed, and the impact of Sterne's writing style on German literature is explored. The text also touches on the sentimental movement in Germany, which was influenced by Sterne's works, and the way German authors, such as Wieland and Goethe, responded to his writing. The discussion highlights the complexities of translating Sterne's unique style and the varying degrees of success achieved by different translators.\n3. **Keywords**: Sterne, Sentimental Journey, German Literature, 18th Century, Translation",
+      "is_seed": true,
+      "expand_score": null
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-26183_201",
+      "Novel-26183_203",
+      "Novel-26183_139",
+      "Novel-26183_205",
+      "Novel-26183_86",
+      "Novel-26183_8",
+      "Novel-26183_111",
+      "Novel-26183_92",
+      "Novel-26183_118",
+      "Novel-26183_157",
+      "Novel-26183_21",
+      "Novel-26183_103",
+      "Novel-26183_65",
+      "Novel-10356_118",
+      "Novel-26183_189"
+    ],
+    "expanded_community_keys": [],
+    "all_community_keys": [
+      "Novel-26183_201",
+      "Novel-26183_203",
+      "Novel-26183_139",
+      "Novel-26183_205",
+      "Novel-26183_86",
+      "Novel-26183_8",
+      "Novel-26183_111",
+      "Novel-26183_92",
+      "Novel-26183_118",
+      "Novel-26183_157",
+      "Novel-26183_21",
+      "Novel-26183_103",
+      "Novel-26183_65",
+      "Novel-10356_118",
+      "Novel-26183_189"
+    ],
+    "allowed_chunk_pool_size": 135,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

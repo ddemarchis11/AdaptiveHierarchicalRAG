@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ed6db2db",
+  "question": "Trace the reasoning path from Mayab’s similarity with Hindostan to the Mayas' conflict with the Spanish.",
+  "gold_answer": "Mayab has similarity with Hindostan; Hindostan has Mayas; Mayab is a country of the Mayas, who fought the Spanish.",
+  "llm_answer": "The chain of thought runs like this:\n\n1. The author first notices that the name “Maya” (or “Mayab”) occurs both in Yucatán and in ancient Hindostan, and that many religious, architectural and linguistic traits are shared.  \n2. He therefore proposes that the two regions once formed part of a single cultural sphere and that the American Mayas were not pupils but probable elders of that sphere.  \n3. To prove the Mayas’ antiquity he cites the Ake monument, whose 36 “katun” columns are said to record 5 760 years of national life—i.e., the Maya civilisation was already old long before the earliest Egyptian monuments.  \n4. Because the Mayas possessed this deep, independent past, their land (Mayab / Yucatán) is treated as a sacred patrimony that later intruders—first the Toltec-Mexican allies, then the Spaniards—were seen as violating.  \n5. The text therefore presents the Spanish conquest not as a meeting with a primitive people but as the collision of an ancient, self-conscious civilisation (the Mayas) with European invaders, a clash that ended the long, independent history whose roots the author had traced back to Hindostan.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately traces the reasoning path from the similarity between Mayab and Hindostan to the Mayas' conflict with the Spanish. It includes all key points from the Gold Answer, such as the connection between Mayab and Hindostan, the Mayas' ancient civilization, and their conflict with the Spanish. The additional details provided by the Model Answer are relevant, grounded in the retrieved context, and enhance the explanation without deviating from the core truth of the Gold Answer."
+  }
+}

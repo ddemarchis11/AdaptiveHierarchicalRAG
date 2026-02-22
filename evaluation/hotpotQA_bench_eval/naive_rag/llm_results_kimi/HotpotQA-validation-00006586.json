@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00006586",
+  "question": "What is the name of the largest shipping facility in the Northeastern United States, where the Boston Red Socks play?",
+  "gold_answer": "Port of Boston",
+  "llm_answer": "The evidence does not specify a single “largest shipping facility in the Northeastern United States” that is also the place “where the Boston Red Sox play.”",
+  "context": [
+    {
+      "text": "Newark Bay is a tidal bay at the confluence of the Passaic and Hackensack Rivers in northeastern New Jersey . It is home to the Port Newark-Elizabeth Marine Terminal , the largest container shipping facility in Port of New York and New Jersey , the second busiest in the United States. An estuary , it is periodically dredged to accommodate seafaring ships. Geography Newark Bay is entered by passing under the Bayonne Bridge Newark Bay is rectangular, approximately 5.5 miles (8.9 km) long, varying in width from 0.6 to 1.2 miles (0.97 to 1.93 km). It is enclosed on the west by the cities of Newark and Elizabeth , and on the east by Jersey City and Bayonne . At the south is Staten Island , New York and at the north Kearny Point and Droyer's Point mark the mouth of the Hackensack. Shooters Island is a bird sanctuary where the borders of Staten Island, Bayonne and Elizabeth meet at one point. The southern tip of Bergen Neck , known as Bergen Point , juts into the bay and lent its name to the former Bergen Point Lighthouse. Built offshore in 1849 it was demolished and replaced with a skeletal tower in the mid 20th century. The Atlantic Ocean at Sandy Hook and Rockaway Point is approximately 11 miles (18 km) away and reached by tidal straits dredged to maintain shipping lanes . Newark Bay is connected to",
+      "id": "HotpotQA-validation-00006586/02_Newark-Bay.html_c_0"
+    },
+    {
+      "text": "Topographic map of Boston Harbor USCGC James pulls into Harbor in August 2015 Boston Harbor is a natural harbor and estuary of Massachusetts Bay , located adjacent to Boston , Massachusetts. It is home to the Port of Boston , a major shipping facility in the Northeastern United States . The harbor was the site of the Boston Tea Party , a major 1773 event in the American Revolution . History Before colonization Boston Harbor was inhabited for thousands of years prior to European colonization of the Americas , with some of the earliest human remains in the Boston area found on Peddocks Island , dated to more than 4000 years before present. At the time of colonization, Moswetuset Hummock on the peninsula of Squantum was an important seat of the Massachusett sachem Chickatawbut . 17th century The Brig Antelope in Boston Harbor , an 1863 painting by Fitz Henry Lane now housed at the Museum of Fine Arts in Boston Since it was first described by Europeans by John Smith in 1614, Boston Harbor has been an important port in American history. Boston Harbor was recognized by Europeans as one of the finest natural harbors in the world due to its depth and natural defense from the Atlantic as a result of the many islands that dot the harbor. It was also favored due to its access to the Charles River , Neponset River , and Mystic River , which made travel from the harbor deeper into Massachusetts far easier. By 1660, almost",
+      "id": "HotpotQA-validation-00006586/01_Boston-Harbor.html_c_0"
+    },
+    {
+      "text": "The Massachusetts Bay Transportation Authority provides services in five different modes (trolleybus not pictured) around Greater Boston. Transportation in Boston includes roadway, subway, regional rail, air, and sea options for passenger and freight transit in Boston, Massachusetts . The Massachusetts Port Authority (Massport) operates the Port of Boston , which includes a container shipping facility in South Boston , and Logan International Airport , in East Boston . The Massachusetts Bay Transportation Authority (MBTA) operates bus, subway, short-distance rail, and water ferry passenger services throughout the city and region. Amtrak operates passenger rail service to and from major Northeastern cities, and a major bus terminal at South Station is served by varied intercity bus companies. The city is bisected by major highways I-90 and I-93 , the intersection of which has undergone a major renovation, nicknamed the Big Dig . Road transportation Road infrastructure Lechmere Viaduct and Zakim Bridge Except for the Back Bay and part of the South Boston neighborhoods, Boston has no street grid . The City of Boston, composed of many smaller towns annexed over the years, retained most of the pre-existing street names, resulting in many duplicates throughout the city.  Expressways and freeways in and around Greater Boston are laid out with two circumferential expressways: Interstate 495 and Route 128 . The circumferential routes are intersected by several radial highways, including: Interstate 93 (the Northern/Southeast Expressway), which extends north of the",
+      "id": "HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_0"
+    },
+    {
+      "text": "Efficiency (2007) The Volvo C30 Efficiency is a version of the 1.6D rated at 105 PS (104 hp; 77 kW) with reduced chassis height, a new rear roof spoiler, a new rear bumper, underbody panels, optimised engine cooling, aerodynamically optimised 16-inch wheel rims, low friction tyres, revised gearing on third through fifth gears, low-friction transmission oil, optimisation of steering servo assistance and engine management optimisation. The vehicle was unveiled at the 2007 Frankfurt Motor Show . Boston Red Sox edition (2008) The C30 Boston Red Sox edition is a limited (107 units) version of the C30 T5 R-Design with either a five-speed automatic transmission or 6 speed manual transmission with Geartronic for the US market, commemorating Boston Red Sox 's 107 victories in 2007. It included red body colour, Boston Red Sox logo at rear hatch glass, Red Sox logo floor mats, and Boston Red Sox fender badges. C30 R-Design (2008) The C30 R-Design is a limited (400 units) version of the C30 T5 for the North American market. It included a choice of four body colours (Black Sapphire, Titanium Grey, Orinoco Blue and Passion Red), Sport Body kit, off-black Flex-tech seat upholstery, cushions and backrests trimmed in contrasting crème-colored leather, blue-face instrument cluster, center console with",
+      "id": "HotpotQA-validation-00001663/02_Volvo-C30.html_c_10"
+    },
+    {
+      "text": "facing increasing land disputes, initially as a short term lease agreement, but the transfer of ownership became permanent. Those land disputes would lead to a loss of WSYY-FM's 23,500-watt transmitter location (featuring an antenna HAAT of 211 meters). WSYY-FM may have been operating under special temporary authority (a 12,000-watt facility with an antenna HAAT of 68 meters via Hammond Ridge on Lake Road), ever since as long ago as late 2007, pending a planned permanent move to a 22,000-watt facility with an antenna HAAT of 198.4 meters (from just off Nicatou Road in Medway , well east of WSYY-FM's old or current transmitter tower location). On November 23, 2016, the construction permit for this proposed move was modified to a 45,000-watt facility with an antenna HAAT of 146.7 meters, the first time this proposed move has ever received official approval from the FCC . Former sports offerings The Mountain 94.9 carried local high school sports in season until fall 2017. The Mountain 94.9 also carried the schedule of Red Sox Baseball from 1997 through 2015, when Millinocket 's affiliation with the Boston Red Sox Radio Network transferred to co-owned WSYY , concluding the interruptions to the music during Major League Baseball . The transfer was completed on April 2, 2021, when",
+      "id": "HotpotQA-validation-00006914/02_WSYY-FM.html_c_1"
+    },
+    {
+      "text": "co-owned WSYY , concluding the interruptions to the music during Major League Baseball . The transfer was completed on April 2, 2021, when 1240 WSYY returned to the air with translator 102.5 W273DJ debuting with the opening game of the Boston Red Sox . Syndicated programming WSYY-FM is one of two Maine affiliates (the other being WLOB in Portland ) of When Radio Was , is one of the two Maine affiliates (the other being WWMJ ) of The Acoustic Storm, is Maine's only affiliate of the Crook & Chase syndicated country music countdown programming, and is an affiliate of the Blues Deluxe radio show. References External links Facility details for Facility ID 740018 (WSYY) in the FCC Licensing and Management System WSYY in Nielsen Audio 's FM station database",
+      "id": "HotpotQA-validation-00006914/02_WSYY-FM.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- The largest container shipping terminal in the Port of NY/NJ is the Port Newark-Elizabeth Marine Terminal (HotpotQA-validation-00006586/02_Newark-Bay.html_c_0).\n- The Boston Red Sox do not play at the Newark terminal (no evidence found for a Red Sox arena at that facility).\n- The Red Sox play in Boston, not at the Newark terminal (no direct link established).\n- The largest shipping facility in Boston area is Port of Boston with a container facility in South Boston (HotpotQA-validation-00006586/01_Boston-Harbor.html_c_0, HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_0).\n- The Boston Red Sox play at Fenway Park in Boston (no evidence yet).\n- Fenway Park is not a shipping facility (no evidence yet).\n- Largest northeastern shipping facility is Port Newark-Elizabeth Marine Terminal (HotpotQA-validation-00006586/02_Newark-Bay.html_c_0).\n- No link exists between Fenway Park and Port Newark-Elizabeth (no evidence yet).\n- Port Newark-Elizabeth Marine Terminal is largest container shipping facility in Port of NY/NJ (Novel-00006586_c_0).\n- Fenway Park is a baseball stadium in Boston, not a shipping facility (Novel-00003238_c_10).\n- No evidence links Fenway Park or the Red Sox to any shipping terminal.\n- Port Newark-Elizabeth is in New Jersey; Red Sox play in Massachusetts.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the name of the largest shipping facility in the Northeastern United States, where the Boston Red Socks play?",
+      "doc_ids": [
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_0",
+        "HotpotQA-validation-00006586/01_Boston-Harbor.html_c_0",
+        "HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_0",
+        "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_11",
+        "HotpotQA-validation-00006507/01_TD-Garden.html_c_11"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Boston Red Sox ballpark associated facility",
+      "doc_ids": [
+        "HotpotQA-validation-00001663/02_Volvo-C30.html_c_10",
+        "HotpotQA-validation-00006914/02_WSYY-FM.html_c_1",
+        "HotpotQA-validation-00006914/02_WSYY-FM.html_c_2",
+        "HotpotQA-validation-00006586/00_Congress-Street-Grounds.html_c_0",
+        "HotpotQA-validation-00006507/00_The-Sports-Museum.html_c_5"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Fenway Park shipping facility",
+      "doc_ids": [
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_3",
+        "HotpotQA-validation-00006586/02_Newark-Bay.html_c_0",
+        "HotpotQA-validation-00003238/03_The-J-Geils-Band.html_c_10",
+        "HotpotQA-validation-00000193/01_Bell-Labs.html_c_10",
+        "HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_0"
+      ]
+    }
+  ]
+}

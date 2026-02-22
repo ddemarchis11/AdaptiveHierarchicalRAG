@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6c255c33",
+  "question": "What is the title of the literary work that C. A. S. HALL, also known as Angeline Hall, read during her intellectual pursuits later in life?",
+  "gold_answer": "C. A. S. HALL read Prometheus Bound.",
+  "llm_answer": "The context does not specify any particular literary work that C. A. S. Hall (Angeline Hall) read during her later intellectual pursuits.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify any literary work read by C. A. S. Hall, which is incorrect as the Gold Answer clearly identifies 'Prometheus Bound' as the work she read. While the Model Answer is faithful to the retrieved context, it fails to address the Gold Answer and misses the key fact entirely."
+  }
+}

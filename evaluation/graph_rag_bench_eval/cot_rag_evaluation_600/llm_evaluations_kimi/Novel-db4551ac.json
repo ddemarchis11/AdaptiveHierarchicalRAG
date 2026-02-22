@@ -1,0 +1,12 @@
+{
+  "id": "Novel-db4551ac",
+  "question": "Imagine you are Dipsas. Write a diary entry about your knowledge of magic arts and the charms of Ææa.",
+  "gold_answer": "Diary Entry — My reputation as a mistress of the magic arts and the charms of Ææa precedes me. These stories, told in Metamorphoses, travel far and wide, even as Jupiter’s utter hatred of the Telchines echoes through Olympus. Ovid’s words ensure my legend endures.",
+  "llm_answer": "Diary of Dipsas\n\nNight again, and my throat still burns as though I had swallowed a coal from Vesta’s hearth. They call me Dipsas because I never wake sober; the name fits like a worn slipper. Today, as every day, I proved it true.\n\nI know the magic arts: how to twist a stream until it runs uphill, back to its mountain mother; how to knot the thrums on a spinning-wheel so a girl’s fate snarls or unravels at my whim; how to squeeze the venom from a mare in heat and drip it into wine so desire turns to frenzy. The herbs of Ææa are my garden: the slimy sap that loosens limbs, the bitter leaf that binds the tongue, the black bloom that makes a free woman crawl like a slave. Circe and Medea walked that island before me; I keep their footsteps alive in the dust of my little room.\n\nA trembling boy brought me a lock of his mistress’s hair today, begging I bind her will to his. I twisted it with red wool, spat on it, whispered the words that make the moon blink. By morning she will dream of no one but him; by night she will hate him for the dream. Either way, my purse grows heavier.\n\nThe charms of Ææa are not gentle; they are the iron hooks that pull the heart outward and leave it bleeding. I wield them because thirst never loosens its grip, and gold buys the next cup that quiets the fire in my gullet.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer effectively captures the essence of Dipsas's reputation as a mistress of magic arts and the charms of Ææa, as described in the Gold Answer. It elaborates on her abilities and practices, which are consistent with the retrieved context, such as her knowledge of herbs, spinning-wheel charms, and magical incantations. The detailed diary entry aligns with the Gold Answer's mention of her legend and the context's references to her magical prowess, ensuring full evidence coverage and faithfulness."
+  }
+}

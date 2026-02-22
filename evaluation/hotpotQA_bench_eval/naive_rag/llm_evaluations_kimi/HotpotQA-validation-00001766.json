@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001766",
+  "question": "Eusebio Valli studied alongside a physician who was the pioneer of what field?",
+  "gold_answer": "bioelectromagnetics",
+  "llm_answer": "The evidence does not specify which physician Eusebio Valli studied alongside, nor does it identify any such physician as the pioneer of a particular field.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the physician or the field, while the context clearly mentions Luigi Galvani, who influenced Valli in the study of 'animal electricity' or 'bioelectricity,' which aligns with the Gold Answer of bioelectromagnetics. The Model Answer fails to address the question and disregards the relevant information in the context."
+  }
+}

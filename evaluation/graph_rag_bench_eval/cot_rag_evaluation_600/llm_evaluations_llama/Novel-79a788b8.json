@@ -1,0 +1,12 @@
+{
+  "id": "Novel-79a788b8",
+  "question": "Within the narrative's depiction of famous courtesans, throughout which region did Lais become renowned for her beauty?",
+  "gold_answer": "Lais became famous throughout Greece.",
+  "llm_answer": "The evidence does not provide information on the region where Lais became renowned for her beauty.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not provide information on the region where Lais became renowned for her beauty, which is incorrect. The retrieved context explicitly mentions that Lais became famous throughout Greece for her beauty. While the Model Answer is faithful to the retrieved context in acknowledging its limitations, it fails to correctly answer the question and misses the key fact provided in the Gold Answer."
+  }
+}

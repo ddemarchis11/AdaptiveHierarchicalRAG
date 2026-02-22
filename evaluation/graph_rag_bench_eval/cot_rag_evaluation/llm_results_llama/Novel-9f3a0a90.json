@@ -1,0 +1,42 @@
+{
+  "id": "Novel-9f3a0a90",
+  "question": "In the context of the mythological epistolary exchanges described in the narrative, what did Hypsipyle receive from Jason?",
+  "gold_answer": "Hypsipyle received a sad letter from Jason.",
+  "llm_answer": "Insufficient evidence.",
+  "context": [
+    {
+      "text": "[481] and for this pursuit I was well prepared. Love smiled both at my tragic pall, and my coloured buskins, and the sceptre wielded so well by a private hand. From this pursuit, too, did the influence of my cruel mistress draw me away, and Love triumphed over the Poet with his buskins. As I am allowed _to do_, either I teach the art of tender love, (alas! by my own precepts am I myself tormented:) or I write what was delivered to Ulysses in the words of Penelope, or thy tears, deserted Phyllis. What, _too_, Paris and Macareus, and the ungrateful Jason, and the parent of Hip-polytus, and Hippolytus _himself_ read: and what the wretched Dido says, brandishing the drawn sword, and what the Lesbian mistress of the Æolian lyre. How swiftly did my friend, Sabinus, return [482] from all quarters of the world, and bring back letters [483] from different spots! The fair Penelope recognized the seal of Ulysses: the stepmother read what was written by her own Hippolytus. Then did the dutiful Æneas write an answer to the afflicted Elissa; and Phyllis, if she only survives, has something to read. The sad letter came to Hypsipyle from Jason: the Lesbian",
+      "id": "Novel-47676_c_92"
+    },
+    {
+      "text": "and Phyllis, if she only survives, has something to read. The sad letter came to Hypsipyle from Jason: the Lesbian damsel, beloved _by Apollo_, may give the lyre that she has vowed to Phoebus. [484] Nor, Macer, so far as it is safe for a poet who sings of wars, is beauteous Love unsung of by thee, in the midst of warfare. Both Paris is there, and the adultress, the far-famed cause of guilt: and Laodamia, who attends her husband in death. If well I know thee; thou singest not of wars with greater pleasure than these; and from thy own camp thou comest back to mine. ELEGY XIX. _He tells a husband who does not care for his wife to watch her a little more carefully._ |If, fool, thou dost not need the fair to be well watched; still have her watched for my sake: that I may be pleased with her the more. What one may have is worthless; what one may not have, gives the more edge to the desires. If a man falls in love with that which another permits him _to love_, he is a man without feeling. Let us that love, both hope and fear in equal degree; and let an occasional repulse make room for our desires. Why should I _think of_ Fortune, should she never care to deceive me? I value",
+      "id": "Novel-47676_c_93"
+    },
+    {
+      "text": "to Penelope, Hippolytus to Phaedra, Æneas to Dido, Demophoôn to Phyllis, Jason to Hypsipyle, and Phaon to Sappho. All these works of Sabinus have perished, except the Epistle of Ulysses to Penelope, and Demophoôn to Phyllis. His Epistle from Paris to Oenonc, is not here mentioned. See the Pontic Epistles, Book iv. Ep. xvi. 1. 13, and the Note to the passage.] [Footnote 483: Bring back letters.--Ver. 28. As the ancients had no establishment corresponding to our posts, they employed special messengers called 'tabellarii,' for the conveyance of their letters.] [Footnote 484: Vowed to Phobus.--Ver. 34. Sappho says in her Epistle, that if Phaon should refuse to return, she will dedicate her lyre to Phobus, and throw herself from the Leucadian rock. This, he tells her, she may now-do, as by his answer Phaon declines to return.] [Footnote 485: Pain in her head.--Ver. 11. She pretended a head-ache, when nothing wras the matter with her; in order that too much familiarity, in the end, might not breed contempt.] [Footnote",
+      "id": "Novel-47676_c_237"
+    },
+    {
+      "text": "in the _Allgemeine deutsche Bibliothek_ finds passages in this book in which the author of the “Empfindsame Reisen” is visible,--where his fancy runs away with his reason,--and a passage is quoted in which reference is made to Slawkenberg’s book on noses. It would seem that the seeking for wit survived the crude sentimentality. Two years later Schummel published “Fritzen’s Reise nach Dessau,”[22] a work composed of letters from a twelve-year old boy, written on a journey from Magdeburg to Dessau. The letters are quite without whim or sentiment, and the book has been remembered for the extended description of Basedow’s experimental school, “Philantropin” (opened in 1774). Its account has been the source of the information given of this endeavor in some pedagogical treatises[23] and it was re-issued, as a document in the history of pedagogical experiment, in Leipzig, by Albert Richter in 1891. About fifteen years later still the “Reise durch Schlesien”[24] was issued. It is a simple narrative of a real journey with description of places and people, frankly personal, almost epistolary in form, without a suggestion of Sterne-like whim or sentiment. One passage is significant as indicating the author’s realization of his change of attitude. The sight of a group of prisoners bound by a chain",
+      "id": "Novel-26183_c_267"
+    },
+    {
+      "text": "men. Indeed, hardly any of his acquaintances know what Mixtus really is, considered as a whole--nor does Mixtus himself know it. X. DEBASING THE MORAL CURRENCY. \"Il ne faut pas mettre un ridicule ou il n'y en a point: c'est se gater le gout, c'est corrompre son jugement et celui des autres. Mais le ridicule qui est quelque part, il faut l'y voir, l'en tirer avec grace et d'une maniere qui plaise et qui instruise.\" I am fond of quoting this passage from La Bruyere, because the subject is one where I like to show a Frenchman on my side, to save my sentiments from being set down to my peculiar dulness and deficient sense of the ludicrous, and also that they may profit by that enhancement of ideas when presented in a foreign tongue, that glamour of unfamiliarity conferring a dignity on the foreign names of very common things, of which even a philosopher like Dugald Stewart confesses the influence. I remember hearing a fervid woman attempt to recite in English the narrative of a begging Frenchman who described the violent death of his father in the July days. The narrative had impressed her, through the mists of her flushed anxiety to understand it, as something quite grandly pathetic; but finding the facts turn out meagre, and her audience cold, she broke off, saying, \"It sounded so",
+      "id": "Novel-10762_c_128"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\":\n- \"- Hypsipyle received a letter from Jason (Novel-47676_c_92).\n- The letter was sad (Novel-47676_c_92).\n- Jason's letter was one of the works of Sabinus (Novel-47676_c_237).\n- Sabinus' works included letters from Paris to Oenonc, but this one is not mentioned (Novel-47676_c_237).\n- The Epistle of Ulysses to Penelope and Demophoôn to Phyllis are the only surviving works of Sabinus (Novel-47676_c_237).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the context of the mythological epistolary exchanges described in the narrative, what did Hypsipyle receive from Jason?",
+      "doc_ids": [
+        "Novel-47676_c_92",
+        "Novel-47676_c_93",
+        "Novel-47676_c_237",
+        "Novel-26183_c_267",
+        "Novel-10762_c_128"
+      ]
+    }
+  ]
+}

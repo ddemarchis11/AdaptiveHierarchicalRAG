@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Based on the provided evidence, here is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position:\n\n1. Miss Trotter was the housekeeper at the Summit House, a hotel owned by Mr. Bilson.\n2. Frida Jansen was a chambermaid at the Summit House, who was assigned to take care of Mr. Calton, a patient at the hotel.\n3. Miss Trotter had initially suspected Frida Jansen of being involved with Mr. Calton, but later discovered that Frida was actually involved with Mr. Bilson, the owner of the hotel.\n4. Mr. Bilson eventually married Frida Jansen, and Miss Trotter was promoted to the position of manager of the Summit House.\n5. Miss Trotter's selection of Frida Jansen for the position of taking care of Mr. Calton's room was a mistake, as she had initially believed that the doctor wanted her to show more kindness and personal sympathy to the young man, but it was actually Frida who was assigned to the task.\n\nThere is no evidence to suggest that Miss Trotter resigned from the Summit House. In fact, she was promoted to the position of manager after Mr. Bilson's marriage.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation but diverges from the Gold Answer and context in key aspects. While it correctly identifies Miss Trotter's role at the Summit House and her selection of Frida Jansen for a position, it incorrectly states that Miss Trotter was promoted to manager after Mr. Bilson's marriage, rather than resigning. Additionally, the claim that Miss Trotter's selection of Frida was a mistake is not explicitly supported by the context. The answer partially aligns with the Gold Answer but misses the core fact of Miss Trotter's resignation and misrepresents her subsequent actions."
+  }
+}

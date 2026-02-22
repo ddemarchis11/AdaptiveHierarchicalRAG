@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002185",
+  "question": "Who directed the coming-of-age summer romance in which a tall American actor plays a graduate student visiting an Italian family's countryside villa?",
+  "gold_answer": "Luca Guadagnino",
+  "llm_answer": "I'm not able to identify the director of the coming-of-age summer romance you're asking about. The provided context does not fully support an answer.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct director, Luca Guadagnino, despite the context containing relevant information about 'Call Me by Your Name,' which he directed. The response does not utilize the retrieved context effectively and does not align with the Gold Answer."
+  }
+}

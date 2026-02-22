@@ -1,0 +1,12 @@
+{
+  "id": "Novel-94e134ef",
+  "question": "Which city is described as being near Mogador in the narrative's discussion of regional geography?",
+  "gold_answer": "Saffee is near Mogador.",
+  "llm_answer": "The city described as being near Mogador in the narrative's discussion of regional geography is El-Waladia.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Saffee is near Mogador, which is supported by the retrieved context. However, the Model Answer incorrectly identifies El-Waladia as the city near Mogador. While El-Waladia is mentioned in the context, it is not described as being near Mogador in the same way Saffee is. The Model Answer is faithful to the context but fails to provide the correct answer and misses the key fact from the Gold Answer."
+  }
+}

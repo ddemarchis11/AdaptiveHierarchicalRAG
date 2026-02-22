@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006028",
+  "question": "McLemore Avenue is to Booker T. & the M.G.s as what road in the city of Westminster in London is to the Beatles?",
+  "gold_answer": "This road is best known for the Abbey Road Studios and the 1969 album, \"Abbey Road\", by The Beatles.",
+  "llm_answer": "Abbey Road",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Abbey Road' as the road analogous to McLemore Avenue in the context of the Beatles. This is supported by the retrieved context, which explains the connection between Abbey Road Studios and the Beatles' album 'Abbey Road.' However, the Model Answer does not include the additional details about Abbey Road Studios or the 1969 album mentioned in the Gold Answer, which impacts evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000580",
+  "question": "The South Korean actress who works as a radio DJ and stars in a hotel-themed romantic series first gained wide recognition through which earlier television production?",
+  "gold_answer": "Queen In-hyun's Man",
+  "llm_answer": "The South Korean actress who works as a radio DJ and stars in a hotel-themed romantic series is Yoo In-na. She first gained wide recognition through the television production \"High Kick! Through the Roof\" in 2009-10.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Yoo In-na first gained wide recognition through 'High Kick! Through the Roof,' whereas the Gold Answer specifies 'Queen In-hyun's Man' as the production that brought her wide recognition. This claim is not supported by the retrieved context, which explicitly mentions her rise to fame as the lead actress in 'Queen and I' (alternative title for 'Queen In-hyun's Man'). The Model Answer fails to align with the Gold Answer and the context."
+  }
+}

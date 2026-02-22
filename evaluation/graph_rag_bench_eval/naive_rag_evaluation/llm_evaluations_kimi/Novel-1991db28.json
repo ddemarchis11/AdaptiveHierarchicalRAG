@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1991db28",
+  "question": "In the historical context of the Assembly of Lower Canada, which key figures or groups specifically opposed the passage of the Ninety-Two Resolutions, as reflected by their votes or public statements, and what actions did the resolutions themselves call for regarding the impeachment of Lord Aylmer?",
+  "gold_answer": "The Ninety-Two Resolutions were opposed by Quesnel and John Neilson; Augustin Cuvillier and F. A. Quesnel voted against them; and the resolutions demanded the impeachment of Lord Aylmer.",
+  "llm_answer": "Key figures who publicly opposed the Ninety-Two Resolutions were the Assembly members Neilson, Cuvillier, Quesnel, Stuart and “two or three others”; all of them were defeated at the ensuing general election. The Resolutions themselves explicitly demanded the impeachment of Governor Lord Aylmer.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the key figures who opposed the Ninety-Two Resolutions, including Neilson, Cuvillier, Quesnel, and Stuart, as supported by the retrieved context. It also accurately states that the Resolutions demanded the impeachment of Lord Aylmer, which aligns with both the Gold Answer and the context. All relevant facts from the Gold Answer are included, and the response is faithful to the provided context."
+  }
+}

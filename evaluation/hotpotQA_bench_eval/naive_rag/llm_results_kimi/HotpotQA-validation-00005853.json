@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005853",
+  "question": "Who is the American actress that stars in the movie \"Innocesnce\" and is best known for her role as Alexandra Cabot in a long-running NBC series?",
+  "gold_answer": "Stephanie Caroline March",
+  "llm_answer": "The evidence does not mention any American actress starring in a movie titled “Innocence,” so the requested information cannot be determined from the provided text.",
+  "context": [
+    {
+      "text": "Stephanie Caroline March (born July 23, 1974) is an American actress and activist . She is known for playing Alexandra Cabot in the NBC crime drama series Law & Order: Special Victims Unit (2000–2018) and its spinoff media . She is also recognized for her activism towards abuse victims, education, and women's rights . March has appeared in the films Head of State (2003), Mr. & Mrs. Smith (2005), Falling for Grace (2006), The Treatment (2006), Jesse Stone: Night Passage (2006), Confessions of a Shopaholic (2009), and Origin (2023). She also executive produced and starred in the independent film The Social Ones (2019). Her continued television roles include Carol Blanton on the Adult Swim miniseries Neon Joe, Werewolf Hunter (2015), Debora Green in the Lifetime film A House on Fire (2021), and Akira on the superhero series Naomi (2022), and Angelica Wyatt in Amazon Prime 's miniseries Shelter (2023). Early life March was born in Dallas, Texas , the daughter of John and Laura March, and has a sister, Charlotte. She attended McCulloch Middle School in Highland Park, and Highland Park High School , where Law & Order ' s Angie Harmon , who played the role of an assistant district attorney on Law & Order , attended concurrently. After her parents' divorce, her mother married Robert",
+      "id": "HotpotQA-validation-00005853/01_Stephanie-March.html_c_0"
+    },
+    {
+      "text": "Angie Harmon , who played the role of an assistant district attorney on Law & Order , attended concurrently. After her parents' divorce, her mother married Robert Derby. In 1996, March graduated from Northwestern University , where she was a member of Kappa Alpha Theta sorority. At Northwestern University, March played Helena in A Midsummer Night's Dream in Chicago , where she continued to pursue her stage career. Career Beginnings and Law & Order In 1997, March made her screen debut in an episode of the CBS series Early Edition . In 1999, March moved to New York and made her Broadway debut in a production of Arthur Miller 's Death of a Salesman with Brian Dennehy . She later co-starred in the television film based on the play . March is best known for her role as Assistant District Attorney Alexandra Cabot on the NBC crime legal drama series Law & Order: Special Victims Unit , who she played as a main character from 2000 to 2003, and reprised in recurring appearances on the show until 2018. On landing the role, March told People magazine \"I'm not sure that when I got the job, I intended for this to happen, but once I had the job, I became pretty deliberate about it because the subject matter I found disturbing and compelling. It was just not something I could put away when I came home at night from work. So, I became quite deliberate in my choices of how I wanted to",
+      "id": "HotpotQA-validation-00005853/01_Stephanie-March.html_c_1"
+    },
+    {
+      "text": "just not something I could put away when I came home at night from work. So, I became quite deliberate in my choices of how I wanted to participate and how I wanted to use my voice.\" The character of Cabot and March's work has earned widespread acclaim, and is often considered one of the best characters and acting performances in the Law & Order series . In 2003, at the 8th Golden Satellite Awards , she and her Law & Order: Special Victims Unit co-stars were nominated for the Satellite Award for Best Television Series – Drama . March reprised the role as Cabot, now the Bureau Chief ADA of the homicide bureau, on the short-lived NBC courtroom drama Conviction , which debuted in spring 2006. The show, which saw March in a leading role and was part of the Law & Order universe, was cancelled after one 13-episode season following a negative reception from critics and audiences. Despite this, Entertain your Brain wrote that \"... March, she has already proven herself on Special Victims Unit .\" Continued film and television work In 2003, March made her film debut with a supporting role in the political comedy Head of State opposite Chris Rock . She later appeared in the films Mr. & Mrs. Smith , The Treatment , and Falling for Grace , the latter two romantic comedies. March also appeared in the 2009 film The Invention of Lying as the woman Ricky Gervais 's character tells the world will end unless she has",
+      "id": "HotpotQA-validation-00005853/01_Stephanie-March.html_c_2"
+    },
+    {
+      "text": "Phylicia Rashad ( / f ɪ ˈ l ɪ ʃ ə r ə ˈ ʃ ɑː d / fil- ISH -ə rə- SHAHD ; née Ayers-Allen ; born June 19, 1948) is an American actress. She was most recently dean of the College of Fine Arts at Howard University before her three-year contract ended in May 2024. Known for her roles on stage and screen, she has received two Tony Awards as well as nominations for six Primetime Emmy Awards and a Screen Actors Guild Award . She is best known for her role as Clair Huxtable on the NBC sitcom The Cosby Show (1984–1992) which earned her two Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series nominations in 1985 and 1986. She also played Ruth Lucas on Cosby (1996–2000), and Brenda Glover in Little Bill (1999–2004). She was also Emmy-nominated for her roles in A Raisin in the Sun (2008) and This Is Us (2019–2021). On stage, Rashad became the first Black actress to win the Tony Award for Best Actress in a Play , for a revival of A Raisin in the Sun (2004). She won her second Tony Award for Best Featured Actress in a Play for Dominique Morisseau 's",
+      "id": "HotpotQA-validation-00005853/03_Phylicia-Rashad.html_c_0"
+    },
+    {
+      "text": "Lee So-young ( Korean : 이소영 ; January 30, 1990), known by her stage name Esom ( 이솜 ), is a South Korean actress. Career She gained recognition for her leading role in the 2014 film Scarlet Innocence , for which she was nominated for Best New Actress in five different award ceremonies. She then had notable roles in television series The Third Charm (2018), Taxi Driver (2021), and film Samjin Company English Class (2020). In January 2023, Esom signed with new agency Management MMM. Filmography Film Television series Web series Television shows Music video appearances Hosting Awards and nominations References External links Esom at HanCinema Esom at the Korean Movie Database Esom at IMDb",
+      "id": "HotpotQA-validation-00003650/02_Esom.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Stephanie March is American and played Alexandra Cabot on NBC’s Law & Order: SVU (HotpotQA-validation-00005853/01_Stephanie-March.html_c_0)\n- No evidence shows she starred in a movie titled “Innocesnce” (HotpotQA-validation-00005853/01_Stephanie-March.html_c_0,1,2)\n- Check if she appears in any film called “Innocence”",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who is the American actress that stars in the movie \"Innocesnce\" and is best known for her role as Alexandra Cabot in a long-running NBC series?",
+      "doc_ids": [
+        "HotpotQA-validation-00005853/01_Stephanie-March.html_c_0",
+        "HotpotQA-validation-00005853/01_Stephanie-March.html_c_1",
+        "HotpotQA-validation-00005853/01_Stephanie-March.html_c_2",
+        "HotpotQA-validation-00005853/03_Phylicia-Rashad.html_c_0",
+        "HotpotQA-validation-00003650/02_Esom.html_c_0"
+      ]
+    }
+  ]
+}

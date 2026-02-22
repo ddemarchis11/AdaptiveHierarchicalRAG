@@ -1,0 +1,12 @@
+{
+  "id": "Novel-889e2c6a",
+  "question": "How is the city of Rabat historically connected to Yakob-el-Mansour, and what does the novel say about the Sultan's influence over Western Barbary?",
+  "gold_answer": "Rabat was built by Yakob-el-Mansour, and the Sultan has influence over Western Barbary.",
+  "llm_answer": "The city of Rabat is historically connected to Yakob-el-Mansour, also known as Jakoub Almanzor, in that he built the city, naming it Rabat-el-Fatah, or \"camp of victory.\" \n\nThe novel does not provide a detailed account of Yakob-el-Mansour's influence over Western Barbary. However, it does mention that he was a famous Sultan who expelled the Moravedi from Spain and was considered the \"Nero of Western Africa\" and their \"King Arthur.\" \n\nThe novel also mentions that Yakob-el-Mansour built Mehedia or Mamora to defend the embouchure of the river, and that it was captured by the Spaniards in 1614 and retaken by the Moors in 1681.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Yakob-el-Mansour as the builder of Rabat and provides additional details about his historical significance, which are partially supported by the context. However, it does not clearly address the Sultan's influence over Western Barbary as stated in the Gold Answer. The mention of Mehedia or Mamora is tangential and not directly relevant to the question, reducing faithfulness and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e354dbd2",
+  "question": "On which river is the location known as Shirt-Tail Bend, where woodcutters such as Don Carlo worked?",
+  "gold_answer": "Shirt-Tail Bend is on the Mississippi.",
+  "llm_answer": "The context does not specify on which river Shirt-Tail Bend is located.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not specify the river for Shirt-Tail Bend, which is accurate based on the retrieved context. However, the Gold Answer clearly identifies the river as the Mississippi, which the Model Answer fails to include. Thus, the Model Answer is incorrect and does not cover the key fact from the Gold Answer, but it remains faithful to the provided context."
+  }
+}

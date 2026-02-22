@@ -1,0 +1,260 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What class of vehicle did both a Belgian-born American aerospace engineer and the chief engineer behind the Soviet space programme independently develop?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both a Belgian-born American aerospace engineer (Karel Jan Bossart) and the chief engineer behind the Soviet space programme (Sergei Korolev) independently developed an Intercontinental Ballistic Missile (ICBM).",
+  "context": [
+    {
+      "text": "the early Soviet space program . Korolev returned from Germany in February 1947 and took up his duties as chief designer and Head of Department No 3 of NII-88, initially tasked with reproduction of the V-2. The Soviets were only able to obtain parts to assemble approximately a dozen V-2 rockets, so the decision was made to replicate a Soviet version, which was designated the R-1 . Initially Korolev opposed this decision as he thought it was a waste of time and they should move immediately to manufacture a more advanced version, which had been designated the R-2 . However Korolev was overruled and was ordered to assemble what V-2s they had for flight testing, then create the R-1 using Soviet infrastructure and materials. NII-88 also incorporated 170+ German specialists – including Helmut Gröttrup and Fritz Karl Preikschat – with approximately half based at Branch 1 of NII-88 on Gorodomlya Island in Lake Seliger some 200 kilometres (120 mi) from Moscow. The Germans provided a variety of support to the Soviet efforts, particularly on assembling the V-2 and creating the R-1. The first Soviet tests of V-2 rockets took place in October 1947 at Kapustin Yar , with Korolev as management lead for the project. Numerous German engineers also participated in the tests. A total of 11 V-2 rockets were launched, with 5 reaching their designated targets. In September 1948 testing of the R-1 began at Kapustin Yar, where Korolev was a formal member of the \"State Commission for testing the R-1\". No Germans participated in these tests, which launched 9 rockets between September and November 1948. \"Chief Designer\" Korolev (left) with \"father of the Soviet atomic bomb\" Igor Kurchatov (centre) and \"Chief Theoretician\" Mstislav Keldysh (right), 1956 Korolev continued to lobby for the design and construction of the R-2, including meeting with Stalin in April 1947, but faced competition from a proposal from the Germans, called the G-1. Whilst the German proposal was initially supported by Soviet management, Korolev opposed utilising German specialists for personal reasons and basically ignored their suggestions and advice. Due to political and security concerns, German specialists were not allowed knowledge or access to any Soviet missile design and in December 1948 work on the G-1 proposal was terminated. The Ministry of Defence decided to dissolve the German team in 1950 and repatriated the German engineers and their families between December 1951 and November 1953. In April 1948 the go ahead for \"scientific and experimental work\" was approved, which led to the creation of the R-2. The R-2 doubled the range of the V-2, and was the",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_6",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 15,
+      "score": 30.884245
+    },
+    {
+      "text": "My Line? as a guest credited as \"Rocket Designer U.S.A.F. Atlas Missile\". The next year, the Air Force awarded him the Exceptional Civilian Award for his work in developing America's first ICBM. His co-workers called Bossart one of the finest technical men in the country. They credit him with having spearheaded a major phase in the art of rocketry. In 1965, Bossart was inducted into the International Aerospace Hall of Fame for his pioneering contributions to the Atlas rocket system. He is featured in the Hall of Fame's exhibit within the San Diego Air and Space Museum . Bossart was later inducted into the International Space Hall of Fame in 1990. Bossart died on August 3, 1975, in San Diego , California. References External links \"Karel Jan Bossart\" . Florida International University . Archived from the original on February 16, 2006 . Retrieved May 7, 2006 . Powell, Stewart M. (October 2009). \"The Day of the Atlas\" (PDF) . Air Force Magazine . airforcemag.com. pp. 60– 63.",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_1",
+      "doc_id": "HotpotQA-validation-00001674/00_Karel-Bossart.html",
+      "community_id": 1,
+      "score": 27.847885
+    },
+    {
+      "text": "mother, Maria Nikolaevna Koroleva (Moskalenko/Bulanina), was a daughter of a wealthy merchant from the city of Nizhyn , with Zaporozhian Cossack , Greek and Polish heritage. His father moved to Zhytomyr to be a teacher of the Russian language. Three years after Sergei's birth the couple separated due to financial difficulties. Although Pavel later wrote to Maria requesting a meeting with his son, Sergei was told by his mother that his father had allegedly died. Sergei never saw his father after the family break-up, and Pavel died in 1929 before his son learned the truth. Korolev grew up in Nizhyn, under the care of his maternal grandparents Nikolay Yakovlevich Moskalenko who was a trader of the Second Guild and Maria Matveevna Moskalenko (née Fursa), a daughter of a local cossack . Korolev's mother also had a sister Anna and two brothers Yuri and Vasily. Maria Koroleva was frequently away attending Women's higher education courses in Kiev, so Sergei was often by himself and grew up a lonely child with few friends. In 1914 World War I commenced with social unrest in the Kiev area. No one had time for the seven year old Korolev during this period and he was noted as being stubborn, persistent, and argumentative. Korolev began reading at an early age from his grandfather's newspapers, and his pre-school teacher noted he had an excellent memory with abilities in mathematics, reading and writing. His mother divorced Pavel in 1915 and in 1916 married Grigory Mikhailovich Balanin, an electrical engineer who had been educated in Germany but who had to attend the Kiev Polytechnic University because German engineering diplomas were not recognized in Russia. Grigory was an excellent step-father, positively influencing Korolev's manners and study habits. After getting a job with the regional railway, Grigory moved the family to Odessa in 1917, where they endured hardships with many other families through the tumultuous years following the Russian Revolution and continuing internecine struggles until the Bolsheviks assumed unchallenged power in 1920. Local schools were closed and young Korolev had to continue his studies at home, where he suffered from a bout of typhus during the severe food shortages of 1919. Education Korolev in 1925 Korolev received vocational training in carpentry and academics at the Odessa Building Trades School (Stroyprofshkola No. 1). Enjoyment of a 1913 air show inspired interest in aeronautical engineering . He made an independent study of flight theory, and worked at the local glider club. A detachment of military seaplanes had been stationed in Odessa, and Korolev took a keen interest in their operations. Korolev in",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_1",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 15,
+      "score": 25.920134
+    },
+    {
+      "text": "Moon , which was something the people of Earth had never seen beforehand. The Luna missions were intended to make a successful soft landing on the Moon, but Korolev was unable to see a success. Luna 4 and Luna 6 both missed, Luna 5 , Luna 7 , and Luna 8 all crashed on the Moon. It was not until after Korolev's death that the Soviet Union successfully achieved a soft landing on the Moon with Luna 9 . Towards the latter part of Korolev's life, he had been working on projects for reaching the planets Mars and Venus , and even had spacecraft ready to reach both. The United States was also working towards reaching these planets, so it was a race to see who would be successful. Korolev's two initial Mars probes suffered from engine failures, and the five probes the Soviet Union launched in hopes of reaching Venus all failed between 1961 and 1962, Korolev himself supervised the launches of all probes. On 1 November 1962, the Soviet Union successfully launched Mars 1 and although communications failed, was the first to complete a flyby of Mars. Later, the Soviet Union launched Venera 3 , which was the first impact of Venus. It was not until after Korolev's death that the Soviet Union impacted Mars. Korolev's group was also working on ambitious programs for missions to Mars and Venus, putting a man in orbit, launching communication, spy and weather satellites, and making a soft-landing on the Moon. A radio communication center needed to be built in the Crimea , near Simferopol and near Yevpatoria to control the spacecraft. Many of these projects were not realized in his lifetime, and none of the planetary probes performed a completely successful mission until after his death. Human spaceflight Korolev (right) with cosmonaut Yuri Gagarin and Marshal Kirill Moskalenko , before Gagarin's launch in Vostok 1 (1961) Although he had conceived of the idea as early as 1948, Korolev's planning for the piloted mission began in 1958 with design studies for the future Vostok spacecraft . It was to hold a single passenger in a space suit , and be fully automated. The space suit, unlike the United States' pure oxygen system, was 80 percent nitrogen and only 20 percent oxygen. The capsule had an escape mechanism for problems prior to launch, and a soft-landing and ejection system during the recovery. The spacecraft was spherical, just like the Sputnik design, and Korolev explained his reasoning for this by saying \"the spherical shape would be more stable dynamically\". Beginning with work on the Vostok, Konstantin Feoktistov was recruited directly by Korolev to be the principal designer for crewed spaceflight vehicles. On 15 May 1960 an uncrewed prototype performed 64 orbits of",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_11",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 15,
+      "score": 25.482586
+    },
+    {
+      "text": "Sergei Pavlovich Korolev (12 January 1907 [ O.S. 30 December 1906] – 14 January 1966) was the lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s. He invented the R-7 Rocket , Sputnik 1 , and was involved in the launching of Laika , Sputnik 3 , the first human-made object to make contact with another celestial body, Belka and Strelka , the first human being, Yuri Gagarin , into space, Voskhod 1 , and the first person, Alexei Leonov , to conduct a spacewalk . Although Korolev trained as an aircraft designer , his greatest strengths proved to be in design integration, organization and strategic planning. Arrested on a false official charge as a \"member of an anti-Soviet counter-revolutionary organization\" (which would later be reduced to \"saboteur of military technology\"), he was imprisoned in 1938 for almost six years, including a few months in a Kolyma labour camp. Following his release he became a recognized rocket designer and the key figure in the development of the Soviet Intercontinental ballistic missile program. He later directed the Soviet space program and was made a Member of Soviet Academy of Sciences , overseeing the early successes of the Sputnik and Vostok projects including the first human Earth orbit mission by Yuri Gagarin on 12 April 1961. Korolev's unexpected death in 1966 interrupted implementation of his plans for a Soviet crewed Moon landing before the United States 1969 mission. Before his death he was officially identified only as glavny konstruktor ( главный конструктор ), or the Chief Designer , to protect him from possible Cold War assassination attempts by the United States. Even some of the cosmonauts who worked with him were unaware of his last name; he only went by Chief Designer. Only following his death in 1966 was his identity revealed, and he received the appropriate public recognition as the driving force behind Soviet accomplishments in space exploration during and following the International Geophysical Year . Early life Korolev with his nanny Varvara Marchenko (1907) Korolev in 1912 Korolev was born in the city of Zhytomyr , the capital of Volhynian Governorate of the Russian Empire (now in Ukraine). His father, Pavel Yakovlevich Korolev, was born in Mogilev to a Russian soldier and a Belarusian mother. His mother, Maria Nikolaevna Koroleva (Moskalenko/Bulanina), was a daughter of a wealthy merchant from the city of Nizhyn , with Zaporozhian Cossack , Greek and Polish heritage. His father moved to Zhytomyr to be a",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_0",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 13,
+      "score": 24.076723
+    },
+    {
+      "text": "engineers and their families between December 1951 and November 1953. In April 1948 the go ahead for \"scientific and experimental work\" was approved, which led to the creation of the R-2. The R-2 doubled the range of the V-2, and was the first design to utilize a separable warhead. This was followed by the R-3, which had a range of 3,000 kilometres (1,900 mi), and thus could target England. Glushko couldn't obtain the required thrust from the R-3 engines, so the project was canceled in 1952. Korolev joined the Soviet Communist Party that year to request money from the government for future projects including the R-5 , with a more modest 1,200 kilometres (750 mi) range. It completed a first successful flight by 1953. The world's first true intercontinental ballistic missile (ICBM) was the R-7 Semyorka . This was a two-stage rocket with a maximum payload of 5.4 tons, sufficient to carry the Soviets' bulky nuclear bomb an impressive distance of 7,000 kilometres (4,300 mi). During the summer of 1957, the first three launches of the R-7 all failed, severely demoralizing Korolev and his colleagues. The failures also jeopardized his position and dream of using an R-7 to launch an artificial satellite in the future. The fourth test, completed on 21 August 1957, was finally able to deliver a dummy payload to the Kamchatka Peninsula . The Soviet news agency TASS made a brief announcement about the ICBM's success, but it was largely ignored or dismissed by members of the American public and media. Because of Korolev's success with the R-7 and because the Soviet Union had successfully created the ICBM before the United States of America, he was nationally recognized by the Soviet Union, although his name was kept secret. However, despite the Soviet R-7 initial success, it experienced later failures as it was not intended to be a practical weapon. On 19 April 1957 Korolev was declared fully \" rehabilitated \", as the government acknowledged that his sentence was unjust. Space program Korolev was keenly aware of the orbital possibilities of the rockets being designed as ICBMs, ideas that were shared by Tikhonravov then working at NII -4. On 26 May 1954, six days after being tasked to lead the R-7 ballistic missile program, Korolev submitted a proposal to use the R-7 to launch a satellite into space, naming a technical report from Tikhonravov and mentioning similar work being carried out by Americans. After receiving lukewarm support from the Soviet leadership, Korolev initiated a modest satellite research project in coordination with Tikhonravov. To intensify his lobbying",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_7",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 8,
+      "score": 22.174643
+    },
+    {
+      "text": "decree, although the charges against him were not dropped until 1957. Korolev rarely talked about his experience in the Gulag, and lived under constant fear of being executed for the military secrets he possessed. He was deeply affected by his time in the camp, becoming reserved and cautious as a result. He later learned that Glushko was one of his accusers, and this was likely the cause of the lifelong animosity between the two men. The design bureau was handed over from NKVD control to the government's aviation industry commission. Korolev continued working with the bureau for another year, serving as deputy designer under Glushko and studying various rocket designs. Ballistic missiles Korolev was commissioned into the Red Army with the rank of colonel in 1945; his first military decoration was the Badge of Honor, awarded in 1945 for his work on the development of rocket motors for military aircraft. On 8 September 1945, Korolev was brought to Germany along with many other experts to recover the technology of the German V-2 rocket . The Soviets worked with German specialists to understand and replicate the rocket technology, placing a priority on recreating the entire German V-2 rocket . In February 1946 the Institute Nordhausen was formed, with Korolev as Chief Engineer, Glushko as head of Engine assembly and propulsion systems and German Helmut Gröttrup , who previously worked with Wernher von Braun , as General Director. The work continued in East Germany until late 1946, when 2,000+ German scientists and engineers were sent to the USSR through Operation Osoaviakhim . Most of the German experts, Gröttrup being an exception, had not worked directly with Wernher von Braun . Many of the leading German rocket scientists, including Dr. von Braun himself, surrendered to Americans and were transported to the United States as part of Operation Paperclip . Stalin made rocket and missile development a national priority upon signing a decree on 13 May 1946, and a new institute called Scientific Research Institute No. 88 ( NII-88 ) was created for that purpose, in the suburbs of Moscow. Development of ballistic missiles was placed under the military control of Dmitriy Ustinov through the decree signed by Stalin, and Ustinov appointed Korolev as chief designer of long-range missiles at Department No. 3 of NII-88. During this period Korolev demonstrated his organisation and management capabilities by organising a \"Council of Chief Designers\", which assisted in circumnavigating the bureaucratic hierarchy of the Soviet missile industry. This group eventually assumed engineering control over the early Soviet space program . Korolev returned from Germany in February 1947 and took up his duties as chief designer and Head of Department No 3 of NII-88, initially tasked with reproduction of the V-2. The Soviets were only able to obtain parts to assemble approximately a",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_5",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 8,
+      "score": 21.735813
+    },
+    {
+      "text": "Karel Jan Bossart (February 9, 1904 – August 3, 1975) was an innovative rocket designer and creator of the Atlas ICBM . His achievements rank alongside those of Wernher von Braun and Sergei Korolev . But as most of his work was for the United States Air Force and was therefore classified, his achievements are not widely known. Biography Karel Bossart was born on February 9, 1904, in Antwerp , Belgium . He graduated in Mining Engineering at the Université libre de Bruxelles in 1924. After winning a scholarship to Massachusetts Institute of Technology under the Belgian American Educational Foundation to study aeronautical engineering, he remained in the United States, working for various aircraft companies. In 1945 he was chief of structures at Convair and proposed to the United States Air Force that a missile could be developed with a range of 8000 km. The Air Force was skeptical of Bossart's proposal, partly wishing to preserve the priority of strategic bombers, but granted him a limited contract to develop a prototype. Bossart's major innovation was the use of a monocoque design in which structural support was maintained by pressure within the inelastic fuel tanks. After a series of tests in 1947 the Air Force lost interest and Bossart was instructed to abandon the research, but by 1951 the escalation of the Cold War enabled Bossart to revive the project that became known as 'Atlas'. In 1955 the Central Intelligence Agency reported that Soviet Russia had made swift progress on its own intercontinental ballistic missile (ICBM) programme and Atlas became a crash project of the highest national importance. Bossart used this opportunity to advance work with high energy cryogenic fuels that resulted in the Centaur upper stage. Atlas was first launched in June 1957 but was never fully effective as an ICBM. However, used as a launch vehicle , the Atlas design has excelled and has formed the basis of the most successful and reliable expendable rockets in service. As a result, Bossart's achievements include Launch of first communications satellite; Launch of first United States orbital crewed missions; Launch of Mariner probes to Mars and Venus ; and Launch of Pioneer 10 and Pioneer 11 to Jupiter and Saturn . In 1955 Bossart became chief engineer of the Atlas project and in 1957 was promoted to Technical Director of Aeronautics at General Dynamics. On December 17, 1957, eleven years of Bossart's work climaxed in the first successful flight of the Atlas. A few days later, on December 22, 1957, he appeared on What's My Line? as a guest credited as \"Rocket Designer U.S.A.F. Atlas Missile\". The next year, the Air Force awarded him the Exceptional Civilian Award for his work in developing America's first ICBM. His co-workers called Bossart one of the finest technical men in",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_0",
+      "doc_id": "HotpotQA-validation-00001674/00_Karel-Bossart.html",
+      "community_id": 1,
+      "score": 19.763956
+    },
+    {
+      "text": "Alan H. Epstein (born February 9, 1949) is a distinguished aeronautical engineer. He received his S.B. , S.M. and Ph.D. degrees from Massachusetts Institute of Technology in 1971, 1972 and 1975 respectively. At M.I.T. he was the R.C. Maclaurin Professor of Aeronautics and Astronautics and the Director of the Gas Turbine Laboratory. Epstein was elected a member of the National Academy of Engineering in 1999 for time-resolved flow and heat transfer measurements in turbo-mechanics, and for conception and development of smart engines and micro-engines. He is also a Fellow of the American Institute of Aeronautics and Astronautics and the American Society of Mechanical Engineers . He currently works at Pratt & Whitney where he is responsible for long-term technology and environmental strategy. He is also Professor Emeritus at the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology . References v t e",
+      "id": "HotpotQA-validation-00002303/02_Alan-H-Epstein.html_c_0",
+      "doc_id": "HotpotQA-validation-00002303/02_Alan-H-Epstein.html",
+      "community_id": 0,
+      "score": 17.607231
+    },
+    {
+      "text": "James F. Albaugh (born May 31, 1950) is the former executive vice president of The Boeing Company and chief executive officer of the Boeing Commercial Airplanes business unit. He served in these capacities for Boeing Commercial Airplanes from September 1, 2009, until his retirement on June 26, 2012. He retired from the company on October 1, 2012. He previously served as president and chief executive officer of the Boeing Defense, Space & Security business unit. Albaugh oversaw a $30.8 billion budget while managing over 70,000 personnel in that position. Albaugh earned $1,499,923 in 2005, making him one of the highest-paid managers in the defense sector. Early life Albaugh was raised in Richland, Washington . He graduated from Richland High School in Richland, Washington, in 1968. Graduating in the same class with Albaugh was future Secretary of Defense James Mattis . Albaugh received a bachelor's degree in mathematics and physics from Willamette University (1972) and a master's degree in civil engineering from Columbia University . Career In 1975, Albaugh joined Boeing and held various other executive positions. His first assignment at Boeing was at their Richland, Washington operations in 1975. From July 2002 to September 2009 Albaugh was president and CEO of Boeing Integrated Defense Systems (presently named Boeing Defense, Space & Security ), a business unit of The Boeing Company . From September 2009 to October 2012, Albaugh was president and CEO of Boeing Commercial Airplanes , a business unit of The Boeing Company . On October 1, 2012, Albaugh retired from Boeing Commercial Airplanes . From December 2012 to July 2016, Albaugh served as a senior advisor to The Blackstone Group . On September 1, 2016, Albaugh was appointed to the Harris Corporation board of directors. Honors and awards Albaugh is a recipient of the Howard Hughes Memorial Award given \"to an aerospace leader whose accomplishments over a long career have contributed significantly to the advancement of aviation or space technology.\"  . He was elected to the National Academy of Engineering in 2011 for technical leadership in defense and commercial aerospace industry. References External links James (Jim) F. Albaugh biography at Boeing in PDF format ; archived from the original on December 24, 2016. James Albaugh biography at Harris Corporation v t e v t e",
+      "id": "HotpotQA-validation-00004312/03_James-Albaugh.html_c_0",
+      "doc_id": "HotpotQA-validation-00004312/03_James-Albaugh.html",
+      "community_id": 0,
+      "score": 17.228582
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "summary": "**Title**: Karel Bossart and the Atlas Rocket\n\n**Summary**:  \nKarel Jan Bossart was a pioneering Belgian-American rocket engineer whose monocoque design for the Atlas ICBM became a cornerstone of U.S. spaceflight. Despite early Air Force skepticism and classified constraints, Bossart’s Atlas evolved from a faltering missile into the nation’s most reliable expendable launch vehicle, enabling America’s first communications satellite, crewed orbital missions, and deep-space probes to Mars, Venus, Jupiter, and Saturn. His technical leadership at Convair/General Dynamics and advocacy of high-energy cryogenic fuels also produced the Centaur upper stage, cementing his legacy alongside von Braun and Korolev.\n\n**Keywords**: Atlas rocket, ICBM, monocoque design, space launch history, Karel Bossart",
+      "is_seed": true,
+      "expand_score": 0.7926269173622131
+    },
+    {
+      "community_key": "HotpotQA-validation-00004312/03_James-Albaugh.html_0",
+      "summary": "**Title**: James Albaugh Boeing Career\n\n**Summary**: James F. Albaugh, born in 1950, is a retired aerospace executive who spent nearly four decades at Boeing, culminating as CEO of both Boeing Commercial Airplanes (2009-2012) and Boeing Defense, Space & Security (2002-2009). Raised in Richland, Washington and classmates with future Defense Secretary James Mattis, Albaugh holds degrees in mathematics/physics and civil engineering. He managed a $30.8 billion budget and over 70,000 employees, earning recognition as one of the defense sector's highest-paid managers. After retiring from Boeing in 2012, he served as senior advisor to The Blackstone Group and joined the Harris Corporation board in 2016.\n\n**Keywords**: Boeing executive, aerospace leadership, Boeing Commercial Airplanes, Boeing Defense Space Security, aviation technology",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_5",
+      "summary": "**Title**: Hornsby Chain-Track Innovations  \n\n**Summary**:  \nRichard Hornsby & Sons pioneered the world’s first practical tracked tractor, patented in 1904 and demonstrated to the British Army from 1905-1910. Chief engineer David Roberts developed the “chain-track” system, winning a £1,000 War Office prize and inspiring the term “caterpillar,” though the military ultimately rejected the machine and the patents were sold to Benjamin Holt in 1911. Despite this setback, Hornsby’s engineering legacy survives in preserved tractors, oil engines, and steam vehicles held in museums and private collections. The firm, later absorbed by Ruston & Proctor in 1918, also contributed to WWI munitions production and left an indirect but notable influence on early British tank development.  \n\n**Keywords**:  \nchain-track tractor, caterpillar precursor, David Roberts, Richard Hornsby & Sons, tracked vehicle history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "summary": "**Title**: Korolev’s Vostok Program\n\n**Summary**: Sergei Korolev led the Soviet Vostok program that achieved the first human spaceflight, launching Yuri Gagarin on 12 April 1961 after a series of precursor dog flights. Under intense political pressure from Khrushchev for rapid “firsts,” Korolev incrementally upgraded the single-seat Vostok into the three-cosmonaut Voskhod while simultaneously planning the Soyuz and N-1 Moon rocket. Revered as the anonymous “Chief Designer,” Korolev’s authority was absolute; he personally coordinated launches, selected cosmonauts, and negotiated with the Kremlin until his sudden 1966 death derailed Soviet lunar ambitions.\n\n**Keywords**: Vostok, Gagarin, Chief Designer, Space Race, Voskhod",
+      "is_seed": true,
+      "expand_score": 0.78590989112854
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "summary": "**Title**: Sergei Korolev’s Formative Years  \n\n**Summary**:  \nThese excerpts trace Sergei Korolev’s path from a teenage aviation enthusiast designing gliders in Odessa to his emergence as the Soviet Union’s pivotal rocket engineer. After studying under Andrei Tupolev at Bauman University, he joined TsAGI, earned a pilot’s license, and championed liquid-fueled rocket propulsion for aircraft. In 1931 he co-founded GIRD, led the group by 1932, and oversaw the USSR’s first liquid-fueled rocket launch in 1933. The merger of GIRD with GDL created RNII, where Korolev directed cruise-missile and rocket-glider projects until Stalin’s Great Purge demoted, imprisoned, and ultimately silenced many of its leading engineers, including Korolev himself.  \n\n**Keywords**:  \nSergei Korolev, GIRD, Soviet rocketry, liquid-fueled rockets, Great Purge",
+      "is_seed": true,
+      "expand_score": 0.7966257333755493
+    },
+    {
+      "community_key": "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "summary": "**Title**: Soviet & Post-Soviet “33 Best” Football Awards  \n\n**Summary**:  \nThe “List of 33 Best Football Players of the Year” was an official Soviet Union honor awarded from 1948-1991, compiled by the USSR Football Federation’s Presidium on recommendations from the National Coaches’ Council. It operated independently of the journalists’ poll-based Soviet Footballer of the Year award. After the USSR dissolved, the Russian Football Federation revived the tradition in 1992 for the Russian Premier League, while Ukraine’s newspaper Komanda created a parallel Ukrainian version, both continuing the annual recognition of top performers.  \n\n**Keywords**:  \nSoviet football, 33 Best Players, Russian Premier League, post-Soviet awards, Komanda",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "summary": "**Title**: Soviet Lunokhod Moon Rovers  \n\n**Summary**:  \nThe 2007 French documentary *Tank on the Moon* chronicles the secret Soviet Lunokhod program (1970-1973) that landed two robotic rovers on the Moon, covering 50 km of terrain while the world focused on Apollo. Drawing on newly declassified Soviet archives and interviews with surviving engineers, the film highlights chief designer Alexander Kemurdzhian and the technological feats achieved amid Cold War secrecy. It premiered internationally, won multiple festival awards, and is distributed digitally in English, French, and Portuguese.  \n\n**Keywords**: Lunokhod, Soviet Moon rover, Cold War space race, Alexander Kemurdzhian, *Tank on the Moon*",
+      "is_seed": true,
+      "expand_score": 0.7955948114395142
+    },
+    {
+      "community_key": "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "summary": "**Title**: Honda S660 Kei Sports Car  \n\n**Summary**:  \nThe Honda S660 is a lightweight, mid-engined kei-class roadster produced from 2015 to 2022, succeeding the Beat and honoring Honda’s “S” nomenclature. Offered in β and α trims with 6-speed manual or 7-speed CVT, it uses a turbocharged 658 cc S07A engine producing 64 PS. Development was led by 22-year-old engineer Ryo Mukumoto, and the design evolved from the 2011 EV-STER concept. Special editions—Concept Edition (660 units), Modulo X, and final Version Z—added aerodynamic, cosmetic, and interior upgrades. Production peaked at ~10k units in 2016, then steadily declined until the model’s March 2022 discontinuation.\n\n**Keywords**: Honda S660, kei car, mid-engine roadster, S07A turbo, limited editions",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "summary": "**Title**: Soviet 212 Cruise Missile  \n\n**Summary**:  \nThe 212 was an early Soviet experimental cruise missile conceived in 1936 under Sergei Korolev, featuring a winged rocket launched from a catapult or TB-3 bomber. After repeated control-system failures and engine issues, including explosions with Glushko’s ORM-65, the missile—renamed 803—underwent four unsuccessful flight tests between 1936 and 1939. Korolev’s arrest in 1938 did not halt the program, but persistent guidance problems led to its cancellation in 1939.  \n\n**Keywords**:  \nSergei Korolev, 212 cruise missile, Soviet rocketry, 1930s aviation, ORM-65 engine",
+      "is_seed": true,
+      "expand_score": 0.7966257333755493
+    },
+    {
+      "community_key": "HotpotQA-validation-00000847/01_Daiquiri.html_1",
+      "summary": "**Title**: Daiquiri Cocktail History & Variations\n\n**Summary**:  \nThe daiquiri is a classic rum-based cocktail made with lime juice and sugar, originating near Santiago de Cuba and attributed to American mining engineer Jennings Cox around 1898. After being refined in Havana bars and popularized by figures like Hemingway and JFK, its U.S. fame surged during WWII when rum was plentiful due to Roosevelt’s Good Neighbor policy while whiskey and vodka were rationed. The drink evolved from cracked-ice tall glasses to shaken or frozen blender versions, spawning numerous variations such as the Hemingway daiquiri, strawberry, banana, and coffee-chocolate Mulata.\n\n**Keywords**:  \ndaiquiri, rum cocktail, Jennings Cox, Hemingway, frozen daiquiri",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "summary": "**Title**: Raymond Carver’s Life & Works  \n\n**Summary**:  \nRaymond Carver (1938-1988) revitalized the American short story through spare, emotionally resonant prose. After modest beginnings in the Pacific Northwest, he studied under John Gardner at Chico State, published his first story in 1961, and broke through with the collections *What We Talk About When We Talk About Love* (1981) and *Cathedral* (1983). Drawing on his working-class background, heavy drinking, and turbulent marriage, Carver crafted minimalist fictions that earned widespread acclaim and a posthumous Pulitzer nomination.  \n\n**Keywords**:  \nminimalism, short-story renaissance, working-class fiction, Cathedral, Iowa Writers’ Workshop",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "summary": "**Title**: Korolev’s Ballistic & Space Program\n\n**Summary**:  \nSergei Korolev led the Soviet Union’s post-war ballistic-missile effort, evolving captured V-2 technology into the R-7—the world’s first ICBM—which enabled Sputnik 1’s historic 1957 launch and triggered the space race. After political lobbying and rushed development, his team orbited increasingly sophisticated satellites (Sputnik 2 with Laika, Sputnik 3) and achieved lunar firsts via the Luna probes, including imaging the Moon’s far side in 1959. Persistent funding battles, technical setbacks, and secrecy shaped the program, yet Korolev’s rockets secured Soviet space prestige before the U.S.\n\n**Keywords**:  \nR-7 Semyorka, Sputnik 1, Luna missions, ICBM, space race",
+      "is_seed": true,
+      "expand_score": 0.7955948114395142
+    },
+    {
+      "community_key": "HotpotQA-validation-00002303/02_Alan-H-Epstein.html_0",
+      "summary": "**Title**: Alan H. Epstein – Turbomachinery Pioneer  \n\n**Summary**:  \nAlan H. Epstein is an aeronautical engineer celebrated for time-resolved flow and heat-transfer measurements in turbo-machinery and for conceiving “smart” and micro-engines. After earning three degrees from MIT, he became the R.C. Maclaurin Professor and directed MIT’s Gas Turbine Laboratory before joining Pratt & Whitney to shape long-term technology and environmental strategy. Election to the National Academy of Engineering, plus Fellow status in AIAA and ASME, underscores his impact on modern propulsion systems.  \n\n**Keywords**:  \nturbomachinery, smart engines, micro-engines, Pratt & Whitney, MIT",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005641/00_Arun-Date.html_0",
+      "summary": "**Title**: Arun Date – Marathi Bhavageete Icon\n\n**Summary**: Arun Date, a textile-engineer-turned-singer, abandoned a 28-year corporate career to revolutionize Marathi Bhavageete. His 1962 debut “Shukratara Mand-Vara,” composed by Shriniwas Khale, became an instant classic and launched a string of popular Marathi songs. As the first recipient of the Gajananrao Vatave Puraskar, Date is celebrated for bridging linguistic boundaries and elevating the genre’s mainstream appeal. His legacy is further enriched by the musical contributions of his tabla-virtuoso brother, Ravi Date.\n\n**Keywords**: Bhavageete, Marathi music, Shukratara Mand-Vara, Gajananrao Vatave Puraskar, Shriniwas Khale",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004312/01_Boeing-757.html_2",
+      "summary": "**Title**: Boeing 757 Freighter & Variant Conversions\n\n**Summary**:  \nThe Boeing 757 has been extensively adapted into cargo and combi configurations to extend its service life and meet freight market demands. Key conversions include the 757-200SF, 757-200PCF, and 757-200M/CB, each offering different payload capacities and door configurations. Major operators like FedEx, UPS, and DHL have invested billions in these freighters, citing significant cost and noise reductions over older models. Aftermarket converters such as Precision Conversions and ST Aerospace continue to develop new variants, including 14–15 pallet configurations and combi layouts for mixed passenger-cargo operations. Nepal Airlines uniquely operated the 757-200M for high-altitude, mixed-load missions from Kathmandu.\n\n**Keywords**:  \n757 freighter conversions, 757-200SF, 757-200PCF, FedEx 757 fleet, combi aircraft",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "summary": "**Title:** Carver’s Love & Violence Stories  \n\n**Summary:**  \nThese chunks revolve around Raymond Carver’s 1981 collection *What We Talk About When We Talk About Love*, summarizing its bleak, spare tales where affection collapses into abuse, neglect, or murder. Characters—married couples, old friends, strangers—grapple with failed communication, emotional numbness, and sudden eruptions of violence (fatal beatings, hit-and-runs, suicide). The excerpts also trace the book’s editorial history: Gordon Lish heavily cut the stories, Carver later restored originals in *Beginners*, and multiple tales were adapted into film, TV, and song, cementing Carver’s influence on minimalist fiction and popular culture.  \n\n**Keywords:**  \nCarver, minimalist fiction, love & violence, Lish editing, Beginners",
+      "is_seed": false,
+      "expand_score": 0.8748701810836792
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "summary": "**Title:** Sergei Korolev’s Lunar Setbacks  \n\n**Summary:**  \nSoviet Chief Designer Sergei Korolev’s insistence on adapting the 1958-era N1 rocket—built for lighter payloads—into a Moon launcher, coupled with his “build-then-test” philosophy, is portrayed as a fundamental strategic flaw that doomed the USSR’s crewed lunar effort. Chronic health decline (heart, kidney, gallbladder, gulag injuries) and a toxic rivalry with designer Vladimir Chelomey further fragmented resources and leadership, while post-Korolev successors inherited a troubled N1 program that ultimately failed four test flights and was cancelled after Apollo’s success.  \n\n**Keywords:**  \nN1 rocket, Moon race, Korolev-Chelomey rivalry, Soviet lunar program, managerial strategy",
+      "is_seed": false,
+      "expand_score": 0.8179470300674438
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "summary": "**Title**: Raymond Carver’s Final Stories\n\n**Summary**:  \nThese chunks center on Raymond Carver’s 1988 collection *Elephant and Other Stories*, the last seven stories he completed before his death.  The pieces repeatedly return to themes of financial strain, family obligation, and emotional exhaustion: narrators are bled dry by relatives’ demands for money, haunted by failed marriages, and left wrestling with guilt, resentment, and fleeting hope.  Several plots—*Elephant*, *Intimacy*, *Menudo*, *Whoever Was Using This Bed*—feature middle-aged men caught between duty and self-preservation, while the historical vignette *Errand* closes the book with Chekhov’s dignified acceptance of mortality.  Throughout, Carver’s spare prose exposes the fragile bargains people make to keep going.\n\n**Keywords**:  \nfamily debt, marital collapse, Raymond Carver, *Elephant* stories, emotional fatigue",
+      "is_seed": false,
+      "expand_score": 0.8026547431945801
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "summary": "**Title**: Walter Dornberger’s Rocket Legacy  \n\n**Summary**:  \nWalter Dornberger, a WWI artillery officer turned rocket pioneer, led Nazi Germany’s V-2 program at Peenemünde, orchestrating the first successful guided ballistic-missile test in 1942. After hiding V-2 documents and surrendering to U.S. forces in 1945, he was brought to America via Operation Paperclip, avoiding war-crime prosecution. At Bell Aircraft (1950-1965) he rose to vice-president, contributing to the X-15, Dyna-Soar, and the world’s first guided nuclear air-to-surface missile (ASM-A-2), while later advising West Germany on European space initiatives.  \n\n**Keywords**:  \nV-2 rocket, Operation Paperclip, Peenemünde, Bell Aircraft, guided missiles",
+      "is_seed": false,
+      "expand_score": 0.7998936772346497
+    },
+    {
+      "community_key": "HotpotQA-validation-00004849/02_Hans-Bethe.html_1",
+      "summary": "**Title**: Hans Bethe: Nuclear Astrophysicist\n\n**Summary**:  \nHans Bethe was a German-American physicist whose work shaped nuclear physics, astrophysics, and quantum electrodynamics. He elucidated the CNO cycle powering massive stars, earning the 1967 Nobel Prize, and co-developed the proton-proton chain for the Sun. A wartime leader of Los Alamos’ Theoretical Division, he calculated critical masses for the atomic bomb and later contributed to hydrogen-bomb development while advocating arms-control treaties. Bethe’s seven-decade career included the Bethe ansatz, Lamb-shift QED calculations, and neutrino astrophysics, continuing into his nineties.\n\n**Keywords**:  \nnucleosynthesis, Manhattan Project, CNO cycle, quantum electrodynamics, arms control",
+      "is_seed": false,
+      "expand_score": 0.7949099540710449
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00004312/03_James-Albaugh.html_0",
+      "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_5",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00000847/01_Daiquiri.html_1",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00002303/02_Alan-H-Epstein.html_0",
+      "HotpotQA-validation-00005641/00_Arun-Date.html_0",
+      "HotpotQA-validation-00004312/01_Boeing-757.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00004849/02_Hans-Bethe.html_1",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00004312/03_James-Albaugh.html_0",
+      "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_5",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_13",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00002473/02_List-of-33-Best-Football-Players-of-the-Year.html_0",
+      "HotpotQA-validation-00001674/02_Tank-on-the-Moon.html_1",
+      "HotpotQA-validation-00000762/02_Honda-S660.html_2",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00000847/01_Daiquiri.html_1",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00002303/02_Alan-H-Epstein.html_0",
+      "HotpotQA-validation-00005641/00_Arun-Date.html_0",
+      "HotpotQA-validation-00004312/01_Boeing-757.html_2",
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00004849/02_Hans-Bethe.html_1"
+    ],
+    "allowed_chunk_pool_size": 77,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

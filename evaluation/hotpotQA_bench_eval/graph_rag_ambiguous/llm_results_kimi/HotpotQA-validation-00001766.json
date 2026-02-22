@@ -1,0 +1,291 @@
+{
+  "id": "HotpotQA-validation-00001766",
+  "question": "An eighteenth-century Italian physician who studied alongside the man credited with founding a discipline concerned with biological responses to electrical stimuli — what was that field?",
+  "gold_answer": "bioelectromagnetics",
+  "llm_answer": "The field is “animal electricity” (or bioelectricity), the discipline Luigi Galvani founded and in which Eusebio Valli studied under him.",
+  "context": [
+    {
+      "text": "Luigi Galvani ( / ɡ æ l ˈ v ɑː n i / gal- VAH -nee , US also / ɡ ɑː l -/ gahl- , Italian: [luˈiːdʒi ɡalˈvaːni] ; Latin : Aloysius Galvanus ; 9 September 1737 – 4 December 1798) was an Italian physician , physicist , biologist and philosopher who studied animal electricity . In 1780, using a frog, he discovered that the muscles of dead frogs' legs twitched when struck by an electrical spark. This was an early study of bioelectricity , following experiments by John Walsh and Hugh Williamson . Early life and career Luigi Galvani was born to goldsmith Domenico Galvani and Barbara Caterina Foschi, in Bologna , then part of the Papal States . A portion of his childhood home still stands in the Giardino Salvatore Pincherle. In 1759, Galvani graduated with a degree in medicine and philosophy and began to practice medicine at nearby hospitals. He published his first work, a paper on the anatomy and physiology of bones, in 1762, when he was 25 years old. Galvani presented the work at the Archiginnasio di Bologna , which allowed him to start lecturing at the Academy of Sciences of the Institue of Bologna (now part of the University of Bologna ) where he taught anatomy for most of his career. In 1766, Galvani was appointed curator of the anatomical museum by the senate of Bologna. This position \"required him to give lectures and demonstrations of anatomical operations before surgeons, painters and sculptors.\" In 1782, he was appointed Professor of Obstetric Arts , which he remained for the next 16 years. Animal electricity Galvani then began taking an interest in the field of \"medical electricity\". This field emerged in the middle of the 18th century, following electrical researches and the discovery of the effects of electricity on the human body by scientists including Bertrand Bajon and Ramón María Termeyer in the 1760s, and by John Walsh and Hugh Williamson in the 1770s. The publication in 1791 of Galvani’s main work ( De Viribus Electricitatis in Motu Musculari Commentarius ), summarizing and discussing more than 10 years of research on the effect of electricity on animal preparations, had an enormous impact on the scientific community and sparked heated controversy in Europe. Experiment De viribus electricitatis in motu musculari. Late 1780s diagram of Galvani's experiment on frog legs. Electrodes touch a frog, and the legs twitch into the upward position. (see also: Frog galvanoscope ) Galvani vs.",
+      "id": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_c_0",
+      "doc_id": "HotpotQA-validation-00001766/01_Luigi-Galvani.html",
+      "community_id": 2,
+      "score": 28.574787
+    },
+    {
+      "text": "Eusebio Giacinto Valli ( Casciana Alta , Casciana Terme Lari , Pisa , 13 December 1755 – Havana , 24 September 1816) was an Italian physician and scientist . Biography Eusebio Valli's paternal house, Casciana Alta, Casciana Terme Lari, Pisa, Italy, decorated with a big commemorative marble plaque He was born in Casciana Alta, current district of the municipality of Casciana Terme Lari, Pisa, from an important Tuscan family originally from Ponsacco . His father was a distinguished physician named Giuseppe Valli and his mother was a woman named Anna Maria Jacoponi , whose family came from Casciana. When he was five years old he was taken by his family to Monterchi , where his father worked as a local doctor and where he was educated by a local teacher, Ignazio Chiaverini, who taught him Italian and Latin until the age of 16, in order to prepare him for academic studies. The economic situation of his family didn't allow him to apply to the University of Pisa , where Jacopo-Filippo, one of Eusebio's siblings, was already studying. For this reason, in 1771 his father found himself forced to send to Leopold II, Holy Roman Emperor , Grand Duke of Tuscany , a letter in which he asked him to admit his son freely to the Collegio della Sapienza di Pisa (which later became today's Scuola Normale di Pisa ): Unfortunately there wasn't any vacant place there, so Eusebio, in order to contain familiar expenses, had to wait for his brother to graduate before being able to attend University . During his university years he stayed in a certain Mr. Domenico Cola 's house, in via Santa Maria, Pisa, while his uncle, Michelangelo Valli , acted as his guarantor . In 1783 he graduated in Medicine and Philosophy at the Collegio della Sapienza and in the following years he was called to work as a surgeon in various places. He went to Mantova where he was elected medico primario dello Spedal Civile and professor of Clinical Medicine. In Turkey , Greece and Egypt he studied the epidemiology of plague , smallpox and of a \"certain malignant putrid fever\" (probably malaria ). Valli subsequently travelled to Dalmatia as a military doctor with the Franco-Italian army. Eusebio followed in the footsteps of great masters such as Luigi Galvani from whom he learned the art of physiology , of which the latter was the spokesperson, and Alessandro Volta , whose influence led Valli to study phenomena like “animal electricity” or “bioelectricity”. Eusebio Valli is considered the forerunner of vaccination , in fact through his numerous studies he heralded one of the medical techniques still used today, and was",
+      "id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html_c_0",
+      "doc_id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html",
+      "community_id": 3,
+      "score": 17.218048
+    },
+    {
+      "text": "Europe. Experiment De viribus electricitatis in motu musculari. Late 1780s diagram of Galvani's experiment on frog legs. Electrodes touch a frog, and the legs twitch into the upward position. (see also: Frog galvanoscope ) Galvani vs. Volta Alessandro Volta , a professor of experimental physics in the University of Pavia , was among the first scientists who repeated and checked Galvani’s experiments. At first, he embraced animal electricity. However, he started to doubt that the conductions were caused by specific electricity intrinsic to the animal's legs or other body parts. Volta believed that the contractions depended on the metal cable Galvani used to connect the nerves and muscles in his experiments. Every cell has a cell potential ; biological electricity has the same chemical underpinnings as the current between electrochemical cells , and thus can be duplicated outside the body. Volta's intuition was correct. Volta, essentially, objected to Galvani’s conclusions about \"animal electric fluid\", but the two scientists disagreed respectfully and Volta coined the term \"Galvanism\" for a direct current of electricity produced by chemical action. Since Galvani was reluctant to intervene in the controversy with Volta, he trusted his nephew, Giovanni Aldini , to act as the main defender of the theory of animal electricity. Personal life 1862 painting of Luigi Galvani and Lucia Galeazzi Galvani. Galvani married scientist Lucia Galeazzi , daughter of his mentor Domenico Gusmano Galeazzi , in 1762. After her death in 1790, Galvani moved in with his brother, who was living in their childhood home in Bologna. Galvani was described by contemporaries as an \"honest, mild, modest man, polite, charitable to the unfortunate and always a noble and generous friend.\" He was noted for his religious devotion and saw his medical work as being a spiritual mission. French dermatologist Jean-Louis-Marc Alibert said of Galvani that he never ended his lessons “without exhorting his hearers and leading them back to the idea of that eternal Providence, which develops, conserves, and circulates life among so many diverse beings.” Death and legacy Galvani actively investigated animal electricity until the end of his life. In April 1798, the Cisalpine Republic , a French client state founded after the French occupation of Northern Italy, required every university professor to swear loyalty to the new authority. Galvani disagreed with the oath and refused to take it; as a result, he was stripped of his offices and sent into poverty. Aldini led a movement to restore him to his university position — it was successful, but his restoration was only announced shortly before his death. Galvani died in his brother’s house on 4 December 1798. Luigi Galvani's monument in Piazza Luigi",
+      "id": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_c_1",
+      "doc_id": "HotpotQA-validation-00001766/01_Luigi-Galvani.html",
+      "community_id": 3,
+      "score": 15.9354925
+    },
+    {
+      "text": "in Writing and Difference , translated by Alan Bass. Chicago: Chicago University Press . Dreyfus, Herbert L., and Paul Rabinow . 1983. Michel Foucault: Beyond Structuralism and Hermeneutics (2nd edn). Chicago: University of Chicago Press . Foucault, Michel. \"Sexual Morality and the Law\" [originally published as \"La loi de la pudeur\"], pp. 271–285 in Politics, Philosophy, Culture .  Foucault, Michel, Ignacio Ramonet , Daniel Mermet [ fr ] , Jorge Majfud , and Federico Kukso [ es ] . 2018. Cinco entrevistas a Noam Chomsky (in Spanish). Santiago: Aun Creemos en los Sueños. ISBN 978-956-340-126-4 . Garland, David . 1997. \" 'Governmentality' and the Problem of Crime: Foucalt, Criminology, Sociology\". Theoretical Criminology 1(2):173–214. Ghamari-Tabrizi, Behrooz . 2016. Foucault in Iran: Islamic Revolution after the Enlightenment . Minneapolis: University of Minnesota Press . Deleuze, Gilles . 1988. Foucault . Minneapolis: University of Minnesota Press, ISBN 978-0816616756 . Retrieved via University of Minnesota Press . Deleuze, Gilles , and Félix Guattari . 1983. Anti-Oedipus . Minneapolis: University of Minnesota Press. Kuznicki, Jason (2008). \"Foucault, Michel (1926–1984)\" . In Hamowy, Ronald (ed.). The Encyclopedia of Libertarianism . Thousand Oaks, CA: Sage ; Cato Institute . pp. 180– 181. doi : 10.4135/9781412965811.n110 . ISBN 978-1412965804 . LCCN 2008009151 . OCLC 750831024 . MacIntyre, Alasdair . 1990. Three Rival Versions of Moral Enquiry: Encyclopaedia, Genealogy, and Tradition . Notre Dame, IN: University of Notre Dame Press . Merquior, J.G. 1987. Foucault . Berkeley, Calif.: University of California Press . A critical view of Foucault's work. Mills, Sara (2003). Michel Foucault . London: Routledge. ISBN 978-0-415-24569-2 . Olssen, M. 2009. Toward a Global Thin Community: Nietzsche, Foucault and the Cosmopolitan Commitment . Boulder, CO: Paradigm Press. Roudinesco, Élisabeth . 2008. Philosophy in Turbulent Times: Canguilhem, Sartre,",
+      "id": "HotpotQA-validation-00007021/01_Michel-Foucault.html_c_37",
+      "doc_id": "HotpotQA-validation-00007021/01_Michel-Foucault.html",
+      "community_id": 38,
+      "score": 15.022109
+    },
+    {
+      "text": "In black hole theory, the membrane paradigm is a simplified model, useful for visualising and calculating the effects predicted by quantum mechanics for the exterior physics of black holes, without using quantum-mechanical principles or calculations. It models a black hole as a thin, classically radiating surface (or membrane ) at or vanishingly close to the black hole's event horizon . This approach to the theory of black holes was created by Thibault Damour , Kip S. Thorne , R. H. Price and D. A. Macdonald. Electrical resistance Thorne (1994) relates that this approach to studying black holes was prompted by the realisation by Hanni, Ruffini , Wald and Cohen in the early 1970s that since an electrically charged pellet dropped into a black hole should still appear to a distant outsider to be remaining just outside the event horizon, if its image persists, its electrical fieldlines ought to persist too, and ought to point to the location of the \"frozen\" image (1994, pp. 406). If the black hole rotates, and the image of the pellet is pulled around, the associated electrical fieldlines ought to be pulled around with it to create basic \"electrical dynamo\" effects ( see: dynamo theory ). Further calculations yielded properties for a black hole such as apparent electrical resistance (pp. 408). Since these fieldline properties seemed to be exhibited down to the event horizon, and general relativity insisted that no dynamic exterior interactions could extend through the horizon, it was considered convenient to invent a surface at the horizon that these electrical properties could be said to belong to. Hawking radiation After being introduced to model the theoretical electrical characteristics of the horizon, the membrane approach was then pressed into service to model the Hawking radiation effect predicted by quantum mechanics . In the coordinate system of a distant stationary observer, Hawking radiation tends to be described as a quantum-mechanical particle- pair production effect (involving virtual particles ), but for stationary observers hovering nearer to the hole, the effect is supposed to look like a purely conventional radiation effect involving real particles [ why? ] . In the membrane paradigm , the black hole is described as it should be seen by an array of these stationary, suspended noninertial observers, and since their shared coordinate system ends at the event horizon (because an observer cannot legally hover at or below the event horizon under general relativity), this conventional-looking radiation is described as being emitted by an arbitrarily thin shell of hot material at or just above the event horizon, where this coordinate system fails. As in the electrical case, the membrane paradigm is useful because these effects should appear all the way down to the event horizon, but are not allowed by GR to be coming through the horizon – attributing them to a hypothetical thin radiating membrane at the horizon allows them to be modeled classically without explicitly contradicting general relativity's prediction that the event horizon is",
+      "id": "HotpotQA-validation-00002708/02_Membrane-paradigm.html_c_0",
+      "doc_id": "HotpotQA-validation-00002708/02_Membrane-paradigm.html",
+      "community_id": 1,
+      "score": 12.988367
+    },
+    {
+      "text": "argues that this is an example of power/knowledge since psychiatry, from the \"common sense\" premise \"the world consists of women and men\" (a premise which is upheld in this status by power), created a new diagnosis, a new type of subject and a whole body of knowledge surrounding this new subject. Influence and reception Foucault's works have exercised a powerful influence over numerous humanistic and social scientific disciplines as one of the most influential and controversial scholars of the post-World War II period. According to a London School of Economics ' analysis in 2016, his works Discipline and Punish and The History of Sexuality were among the 25 most cited books in the social sciences of all time, at just over 100,000 citations. In 2007, Foucault was listed as the single most cited scholar in the humanities by the ISI Web of Science among a large quantity of French philosophers, the compilation's author commenting that \"What this says of modern scholarship is for the reader to decide—and it is imagined that judgments will vary from admiration to despair, depending on one's view\". According to Gary Gutting , Foucault's \"detailed historical remarks on the emergence of disciplinary and regulatory biopower have been widely influential\". Leo Bersani wrote that: \"[Foucault] is our most brilliant philosopher of power. More originally than any other contemporary thinker, he has attempted to define the historical constraints under which we live, at the same time that he has been anxious to account for—if possible, even to locate—the points at which we might resist those constraints and counter some of the moves of power. In the present climate of cynical disgust with the exercise of political power, Foucault's importance can hardly be exaggerated.\" Foucault's work on \"biopower\" has been widely influential within the disciplines of philosophy and political theory , particularly for such authors as Giorgio Agamben , Roberto Esposito , Antonio Negri , and Michael Hardt . His discussions on power and discourse have inspired many critical theorists , who believe that Foucault's analysis of power structures could aid the struggle against inequality. They claim that through discourse analysis , hierarchies may be uncovered and questioned by way of analyzing the corresponding fields of knowledge through which they are legitimated. This is one of the ways that Foucault's work is linked to critical theory. His work Discipline and Punish influenced his friend and contemporary Gilles Deleuze , who published the paper \"Postscript on the Societies of Control\", praising Foucault's work but arguing that contemporary western society has in fact developed from a 'disciplinary society' into a 'society of control'. Deleuze went on to publish a book dedicated to Foucault's thought in 1988 under the title Foucault . Foucault's discussions of the relationship between power and knowledge has influenced postcolonial critiques in explaining the discursive formation of colonialism , particularly",
+      "id": "HotpotQA-validation-00007021/01_Michel-Foucault.html_c_32",
+      "doc_id": "HotpotQA-validation-00007021/01_Michel-Foucault.html",
+      "community_id": 38,
+      "score": 12.456117
+    },
+    {
+      "text": "these effects should appear all the way down to the event horizon, but are not allowed by GR to be coming through the horizon – attributing them to a hypothetical thin radiating membrane at the horizon allows them to be modeled classically without explicitly contradicting general relativity's prediction that the event horizon is inescapable. In 1986, Kip S. Thorne , Richard H. Price and D. A. Macdonald published an anthology of papers by various authors that examined this idea: \"Black Holes: The membrane paradigm\" . See also Holographic principle Black hole complementarity Citations References Price, Richard H. & Thorne, Kip (1988). \"The Membrane Paradigm for Black Holes\". Scientific American . 258 (4): 69– 77. Bibcode : 1988SciAm.258d..69P . doi : 10.1038/scientificamerican0488-69 . Leonard Susskind , \"Black holes and the information paradox\", Scientific American , April 1997 ( cover story ). Also reprinted in the special edition \"The edge of physics\" Kip S. Thorne , R. H. Price and D. A. Macdonald (eds.) \"Black Holes: The Membrane Paradigm\" (1986) Thorne, Kip , Black Holes and Time Warps: Einstein's Outrageous Legacy , W. W. Norton & Company; Reprint edition, January 1, 1995, ISBN 0-393-31276-3 , chapter 11, pp. 397–411",
+      "id": "HotpotQA-validation-00002708/02_Membrane-paradigm.html_c_1",
+      "doc_id": "HotpotQA-validation-00002708/02_Membrane-paradigm.html",
+      "community_id": 1,
+      "score": 11.890984
+    },
+    {
+      "text": "chs. I, II, III, VIII, IX, XI. Cenni biografici sul dottore Eusebio Valli da Ponsacco (Pisa). Estratti dal capitolo XXII dell'antico libro dei ricordi della famiglia di Valle, Valla, della Valle, oggi Valli da Ponsacco, ripristinati dall'avv. Giuseppe Valli nell'anno 1881. 2a edizione, riveduta ed ampliata coll'aggiunta di un... epistolario e di scritti sulla priorità della scoperta dell'inoculazione del virus rabido come rimedio contra la rabbia canina . Pontedera (Pisa, Italy): Massimo Ristori. pp. 9–15, 31–37, 39, 40, 45, 51. Volpi, Roberto (Oct 5, 2017). L' uomo che inventò i vaccini. Storia di Eusebio Valli, avventuroso inventore e sperimentatore di vaccini a cavallo tra Sette e Ottocento . Turin (Italy): Lindau. pp. 23, 24, 39, 40. ISBN 88-6708-763-0 Webliography NCBI (short for National Center for Biotechnology Information ) advances science and health by providing access to biomedical and genomic information. JSTOR (short for Journal Storage ) is a digital library of academic journals, books, and primary sources. Google Arts & Culture is a non-profit initiative that works with cultural institutions and artists around the world. SlidePlayer References",
+      "id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html_c_3",
+      "doc_id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html",
+      "community_id": 3,
+      "score": 11.553068
+    },
+    {
+      "text": "and Alessandro Volta , whose influence led Valli to study phenomena like “animal electricity” or “bioelectricity”. Eusebio Valli is considered the forerunner of vaccination , in fact through his numerous studies he heralded one of the medical techniques still used today, and was the first vaccinator to operate in several countries in the world. He died in Havana in September 1816 after not injecting enough attenuated germs into his own body. After his death, numerous streets and squares have been dedicated to the great Eusebio Valli in Tuscany, and two large marble plaques commemorate him respectively in his birthplace in Casciana Alta and in his paternal house in Ponsacco. His tomb, situated in the Cristóbal Colón Cemetery , bears the epigraph: “ victima de su amor à la humanidad \" (\"a victim of his love for humanity\"). Scientific activity Luigi Galvani Eusebio Valli's passion for physics and chemistry , applied to the human body, led him to conduct numerous studies and multiple discoveries. In 1781, he discovered the anti- fermentation action of the red precipitate in wine preparation. During his stays in the Middle East and Asia Minor , Valli worked out a theory according to which the etiopathogenetic development of the plague required the so-called “principle of affinity”, that is to say, a sort of predisposition to the disease. “ The forces that it deploys in the various subjects depend more on the constitution of each individual than on the character of the miasma ”. In his Discorso sopra il sangue considerato in stato di sanità e di malattia ( Discourse on blood in the state of health and of disease ), Valli claimed that alterations in haematological parameters were not due to the influence of humoral agents, but of solid agents. Eusebio Valli's portable pharmaceutical kit, Museo di Storia della Medicina – Polo museale Sapienza Great attention was paid to \"animal electricity\". Luigi Galvani, one of Eusebio's leading figures, published some applications of various metals to frogs, and this prompted a large number of other Italian scientists to share and discuss these researches. Eusebio Valli was the first of these to divulge these discoveries, and furthermore, he wrote that his study had \"prevented him from sleeping for many nights\". Valli became a respected exponent in this field throughout Europe; he gave public lectures on Galvani's experiments and published articles on this topic in various Italian and foreign cities, including Lausanne , Paris , London . In 1793 he published a volume of 300 pages entitled Esperimenti sull'elettricità animale ( Experiments on animal electricity ), which at the time constituted one of the most organic analyses of all the problems of galvanism . The \"intuition frog\" Valli subsequently returned",
+      "id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html_c_1",
+      "doc_id": "HotpotQA-validation-00001766/00_Eusebio-Valli.html",
+      "community_id": 3,
+      "score": 11.147563
+    },
+    {
+      "text": "Leaving Las Vegas 1996: Fargo 1997: Eve's Bayou 1998: Dark City 1999: Being John Malkovich 2000: Almost Famous 2001: Monster's Ball 2002: Minority Report 2003: Monster 2004: Million Dollar Baby 2005: Crash 2006: Pan's Labyrinth 2007: Juno 2008: Synecdoche, New York 2009: The Hurt Locker 2010: The Social Network 2011: A Separation 2012: Argo Ebert revisited and sometimes revised his opinions. After ranking E.T. the Extra-Terrestrial third on his 1982 list, it was the only movie from that year to appear on his later \"Best Films of the 1980s\" list (where it also ranked third). He made similar reevaluations of Raiders of the Lost Ark (1981) and Ran (1985). The Three Colours trilogy ( Blue (1993), White (1994), and Red (also 1994), and Pulp Fiction (1994) originally ranked second and third on Ebert's 1994 list; both were included on his \"Best Films of the 1990s\" list, but their order had reversed. In 2006, Ebert noted his own \"tendency to place what I now consider the year's best film in second place, perhaps because I was trying to make some kind of point with my top pick,\" adding, \"In 1968, I should have ranked 2001 above The Battle of Algiers . In 1971, McCabe & Mrs. Miller was better than The Last Picture Show . In 1974, Chinatown was probably better, in a different way, than Scenes from a Marriage . In 1976, how could I rank Small Change above Taxi Driver ? In 1978, I would put Days of Heaven above An Unmarried Woman . And in 1980, of course, Raging Bull was a better film than The Black Stallion ... although I later chose Raging Bull as the best film of the entire decade of the 1980s, it was only the second-best film of 1980 ... am I the same person I was in 1968, 1971, or 1980? I hope not.\" Best films of the decade Ebert compiled \"best of the decade\" movie lists in the 2000s for the 1970s to the 2000s, thereby helping provide an overview of his critical preferences. Only three films for this listing were named by Ebert as the best film of the year, Five Easy Pieces (1970), Hoop Dreams (1994), and Synecdoche, New York (2008). Five Easy Pieces (1970s) Raging Bull (1980s) Hoop Dreams",
+      "id": "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_16",
+      "doc_id": "HotpotQA-validation-00001066/01_Roger-Ebert.html",
+      "community_id": 8,
+      "score": 10.465698
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "summary": "**Title**: Luigi Galvani’s Bioelectricity Discoveries  \n\n**Summary**:  \nItalian physician-physicist Luigi Galvani (1737-1798) pioneered the study of “animal electricity,” famously demonstrating in 1780 that dead frogs’ legs convulsed when touched by an electrical spark. Over the next decade he systematically explored the phenomenon, culminating in his 1791 treatise *De Viribus Electricitatis in Motu Musculari*, which ignited Europe-wide debate and laid foundations for electrophysiology. Galvani spent his career in Bologna, teaching anatomy and obstetrics while curating the city’s anatomical museum. His work, building on earlier findings by Walsh and Williamson, ultimately inspired Volta’s invention of the battery and the term “galvanize.”  \n\n**Keywords**: animal electricity, frog experiments, bioelectricity, electrophysiology, galvanism",
+      "is_seed": true,
+      "expand_score": 0.8341777324676514
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "summary": "**Title**: Eusebio Valli: Pioneer of Vaccination and Bioelectricity  \n\n**Summary**:  \nEusebio Valli (1755–1816) was an Italian physician-scientist who anticipated Edward Jenner by developing early smallpox inoculations and rabies immunizations, earning recognition as a forerunner of modern vaccination. Inspired by Luigi Galvani and Alessandro Volta, he conducted extensive experiments on “animal electricity,” publishing the 300-page *Esperiments on Animal Electricity* that became a foundational galvanism text. Valli traveled from Tuscany to Turkey, Greece, Egypt, and Cuba mapping plague and smallpox epidemiology, formulating theories of cross-immunity and individual predisposition to disease. His self-experimentation with attenuated pathogens ultimately caused his death in Havana, memorialized as “a victim of his love for humanity.”  \n\n**Keywords**:  \nvaccination pioneer, animal electricity, smallpox inoculation, Luigi Galvani, early immunology",
+      "is_seed": true,
+      "expand_score": 0.8341777324676514
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "summary": "**Title**: Luigi Galvani’s Legacy\n\n**Summary**:  \nLuigi Galvani, an 18th-century Italian physician-physicist, discovered “animal electricity” by showing that frog muscles twitch when touched by dissimilar metals, laying the groundwork for electrophysiology. His findings sparked the science of galvanism, influenced Mary Shelley’s conception of Frankenstein, and permeate modern language and technology through terms like “galvanize,” “galvanic cell,” and “galvanometer.” Despite political setbacks that left him in poverty, supporters restored his university position shortly before his 1798 death, and his name now labels an asteroid, a Bologna square, and numerous electrochemical concepts.\n\n**Keywords**:  \ngalvanism, animal electricity, Frankenstein, electrophysiology, galvanize",
+      "is_seed": true,
+      "expand_score": 0.8220650553703308
+    },
+    {
+      "community_key": "HotpotQA-validation-00000548/02_Alexander-Burt.html_0",
+      "summary": "**Title**: Alexander Burt Olympic Hockey\n\n**Summary**: Alexander Baird Burt was a Scottish field-hockey player who won an Olympic bronze medal at the 1908 London Games as part of the Scottish team. Born to a farming family in Glasgow, he played club hockey for Rutherglen Hockey Club alongside his brother John, who also competed in 1908. After emigrating to the United States in the 1920s and working as a leather merchant, Burt eventually returned to Scotland in later life.\n\n**Keywords**: 1908 Olympics, Scottish hockey, bronze medal, Rutherglen Hockey Club, field hockey",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002708/02_Membrane-paradigm.html_1",
+      "summary": "**Title**: Black-Hole Membrane Paradigm  \n\n**Summary**:  \nThe membrane paradigm recasts black-hole exterior physics as if the event horizon were a thin, classical, radiating surface endowed with familiar electromagnetic and thermal properties. Introduced by Damour, Thorne, Price and Macdonald, it lets distant or hovering observers treat field-line persistence, electrical resistance, and Hawking radiation without invoking full quantum-gravity calculations, while respecting general relativity’s rule that no outward influence can cross the horizon. A 1986 anthology and related papers formalized this effective “stretched horizon” picture, providing a practical bridge between classical general relativity and quantum black-hole phenomena.  \n\n**Keywords**: membrane paradigm, event horizon, Hawking radiation, black-hole thermodynamics, electrical resistance",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002543/02_Sten-Forshufvud.html_1",
+      "summary": "**Title**: Napoleon Poisoning Theory  \n\n**Summary**:  \nSwedish dentist-physician Sten Forshufvud advanced the controversial claim that Napoleon Bonaparte was slowly poisoned with arsenic while exiled on St. Helena, publishing his findings in *Who Killed Napoleon?* (1961) and later in *Assassination at St. Helena* (1983, with Ben Weider). Hair-strand analyses reportedly showed arsenic levels up to 38 times normal, though critics question the samples’ provenance and dating. Forshufvud and Weider fingered French officer Montholon as the likely assassin, arguing that French national pride fuels skepticism toward their theory.  \n\n**Keywords**: Napoleon, arsenic poisoning, Sten Forshufvud, assassination theory, Montholon",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001066/01_Roger-Ebert.html_8",
+      "summary": "**Title:** Roger Ebert’s Critical Philosophy  \n\n**Summary:**  \nRoger Ebert viewed film as an art form whose merit lies in execution, not subject matter, insisting “it’s not what a movie is about, it’s how it’s about what it’s about.” He championed animation, documentaries, and black-and-white photography for their power to reveal emotional essence beyond literal reality. Personal favorites—*Citizen Kane*, *La Dolce Vita*, *The Third Man*—reflected his admiration for morally complex, humanistic storytelling. Even after cancer left him unable to speak, he continued writing passionate, star-rated reviews that balanced intellect with emotional honesty until his death in 2013.  \n\n**Keywords:**  \nfilm criticism, animation advocacy, black-and-white aesthetics, emotional honesty, Life Itself",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004110/02_Chicago-Tigers.html_1",
+      "summary": "**Title**: Chicago Tigers 1920 Season\n\n**Summary**:  \nThe Chicago Tigers played their sole season in 1920, the inaugural year of what became the NFL, and are recognized as the league’s first franchise to fold. Competing at Wrigley Field (then Cubs Park), they posted a 2-5-1 record against APFA opponents despite never formally joining the league. Key figures included quarterback Johnny Barrett and ends Jack Meagher and Oscar Knop, with a passing attack noted as their offensive strength. A high-profile 10-0 loss to George Halas’ Decatur Staleys and a later 6-3 defeat to the Racine Cardinals fueled a legend that the Tigers agreed to disband if they lost the city’s “winner-take-all” showdown, though evidence for this pact is weak. The team folded after 1920, succeeded in local lore by the Hammond Pros and ultimately the Staleys, who became the Chicago Bears.\n\n**Keywords**:  \nChicago Tigers, 1920 APFA season, Wrigley Field, George Halas, NFL franchise folding",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002769/03_Quinto-Vadi.html_0",
+      "summary": "**Title**: Quinto Vadi Olympic Gymnast\n\n**Summary**: Quinto Vadi was an Italian gymnast who represented Italy at the 1948 and 1952 Summer Olympics, achieving his best individual result of 13th place in the pommel horse in 1948. After his competitive career, he worked as a teacher, athletics instructor, and trainer with the Italian sports association P.G. Libertas. Born in Faenza in 1921, Vadi lived to the age of 92, passing away in Prato in 2014.\n\n**Keywords**: Quinto Vadi, Italian gymnast, 1948 Olympics, pommel horse, P.G. Libertas",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "summary": "**Title**: Raymond Carver’s Life & Works  \n\n**Summary**:  \nRaymond Carver (1938-1988) revitalized the American short story through spare, emotionally resonant prose. After modest beginnings in the Pacific Northwest, he studied under John Gardner at Chico State, published his first story in 1961, and broke through with the collections *What We Talk About When We Talk About Love* (1981) and *Cathedral* (1983). Drawing on his working-class background, heavy drinking, and turbulent marriage, Carver crafted minimalist fictions that earned widespread acclaim and a posthumous Pulitzer nomination.  \n\n**Keywords**:  \nminimalism, short-story renaissance, working-class fiction, Cathedral, Iowa Writers’ Workshop",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007021/01_Michel-Foucault.html_38",
+      "summary": "**Title**: Foucault’s Radical Academia & Activism  \n\n**Summary**:  \nThese passages trace Michel Foucault’s trajectory from founding the militantly left-wing philosophy department at Vincennes—staffed by Marxist luminaries and embroiled in 1969 student occupations—to his prestigious Collège de France chair where weekly public lectures became Parisian intellectual events. They foreground his parallel activism: co-founding the Groupe d’Information sur les Prisons to expose carceral conditions, helping launch the newspaper *Libération*, and campaigning against racism and the death penalty. His 1975 landmark *Discipline and Punish* and the first volume of *The History of Sexuality* crystallize his evolving theory of power/knowledge, while an LSD epiphany in Death Valley reportedly reshaped the latter project. Throughout, Foucault’s scholarly output and political interventions blur boundaries between academic genealogy, institutional critique, and embodied resistance.  \n\n**Keywords**:  \npower/knowledge, prisons/penality, Vincennes ultra-left, Discipline and Punish, History of Sexuality",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005521/01_Cheyenne-military-societies.html_3",
+      "summary": "**Title**: Cheyenne Military Societies\n\n**Summary**:  \nThe Cheyenne military societies are six traditional warrior organizations—Fox, Elk, Shield, Bowstring, Dog, and Contrary—that serve as key pillars of tribal governance alongside the Council of Forty-four. Each society has distinct roles, rituals, and branches, such as the Dog Warriors (Dog Soldiers) and the Contrary Warriors who ride backward into battle. Over time, some societies like the Bowstring Men split into Northern Crazy Dogs and Southern Wolf Warriors, while others like the Red Shields persist only among the Northern Cheyenne. These societies maintain discipline, lead hunts and ceremonies, and provide military leadership, with women warriors like Ehyophsta and Mochi also recognized in specific warrior societies.\n\n**Keywords**: Cheyenne warrior societies, Dog Soldiers, Contrary Warriors, tribal governance, military leadership",
+      "is_seed": true,
+      "expand_score": 0.8548181056976318
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "summary": "**Title**: Boise Airport History & Incidents\n\n**Summary**:  \nBoise Airport, tracing its roots to 1926 as Booth Field, evolved into a major regional hub with United Airlines operating continuously for a century. The airport’s history includes WWII training operations, jet service introduction in the 1960s, and major terminal renovations in the 2000s. Future expansion plans include a new Concourse A and three parking garages. Alongside its growth, the airport has experienced several fatal aviation accidents and a recent hangar collapse, highlighting ongoing safety challenges.\n\n**Keywords**:  \nBoise Airport, aviation history, airport expansion, aviation accidents, United Airlines",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "summary": "**Title**: Go Bo Diddley Album\n\n**Summary**: *Go Bo Diddley* is Bo Diddley’s second studio album, released in July 1959 on Checker Records, notable for being his first LP to include previously unreleased material. The album compiles several 1958-59 singles—such as “I’m Sorry,” “Crackin’ Up,” and the crossover hit “Say Man”—alongside four album-only tracks. Recorded in mono with an Ampex-350, it features core collaborators Peggy Jones, Jerome Green, Willie Dixon, and others, and was later ranked among Rolling Stone’s 500 Greatest Albums of All Time.\n\n**Keywords**: Bo Diddley, Checker Records, 1959, Say Man, Greatest Albums",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005521/02_Council-of-Forty-four.html_1",
+      "summary": "**Title**: Cheyenne Council of Forty-Four Governance  \n\n**Summary**:  \nThe Council of Forty-four is the central civil authority of the Cheyenne, formed from four chiefs of each of the ten bands plus four revered “Old Man” chiefs who serve ten-year terms. Chiefs, chosen by the council itself, renounce military-society ties and rely on moral authority to manage tribal-wide diplomacy and peace, while rotating military societies handle discipline and defense. The 1864 Sand Creek Massacre killed eight council members and other peace advocates, shattering the traditional clan-based succession and shifting power toward the militant Dog Soldiers, who rejected accommodation with whites. Despite this rupture, the Cheyenne still maintain the Council of Forty-four, with contemporary peace chiefs active in Native governance.  \n\n**Keywords**: Cheyenne, Council of Forty-four, Sand Creek Massacre, Dog Soldiers, tribal governance",
+      "is_seed": true,
+      "expand_score": 0.8548181056976318
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "summary": "**Title:** Carver’s Love & Violence Stories  \n\n**Summary:**  \nThese chunks revolve around Raymond Carver’s 1981 collection *What We Talk About When We Talk About Love*, summarizing its bleak, spare tales where affection collapses into abuse, neglect, or murder. Characters—married couples, old friends, strangers—grapple with failed communication, emotional numbness, and sudden eruptions of violence (fatal beatings, hit-and-runs, suicide). The excerpts also trace the book’s editorial history: Gordon Lish heavily cut the stories, Carver later restored originals in *Beginners*, and multiple tales were adapted into film, TV, and song, cementing Carver’s influence on minimalist fiction and popular culture.  \n\n**Keywords:**  \nCarver, minimalist fiction, love & violence, Lish editing, Beginners",
+      "is_seed": false,
+      "expand_score": 0.8748701810836792
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "summary": "**Title**: Bo Diddley 1958 Debut Album\n\n**Summary**: Bo Diddley’s self-titled 1958 debut album compiles his groundbreaking 1955-1958 singles that introduced the iconic “Bo Diddley beat,” cementing his place in rock & roll history. Released by Chess Records, the 12-track LP was later paired with 1959’s *Go Bo Diddley* on Rolling Stone’s 500 Greatest Albums list, peaking at #216 in 2012 before slipping to #455 in 2020. Critics laud the record as essential listening; AllMusic awarded it five stars, and in 2022 it was inducted into the Blues Hall of Fame as a ‘Classic of Blues Recording – Album’.\n\n**Keywords**: Bo Diddley beat, Chess Records, Rolling Stone 500, Blues Hall of Fame, rock & roll essential",
+      "is_seed": false,
+      "expand_score": 0.8582791090011597
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "summary": "**Title**: Galvani and the Birth of Bioelectricity\n\n**Summary**: Luigi Galvani’s late-18th-century experiments with frog legs demonstrated that muscles twitch when touched by metal, leading him to propose an “animal electric fluid.” Alessandro Volta replicated the work but argued the electricity arose from the dissimilar metals, not living tissue, sparking a respectful dispute that birthed the term “Galvanism.” Galvani, supported by his nephew Giovanni Aldini, defended the concept of intrinsic animal electricity, while Volta’s objections ultimately guided him to invent the battery. Galvani’s refusal to swear loyalty to the French-backed Cisalpine Republic cost him his academic post and left him in poverty until shortly before his death in December 1798.\n\n**Keywords**: animal electricity, Galvani-Volta debate, frog experiments, galvanism, bioelectricity",
+      "is_seed": false,
+      "expand_score": 0.8241350650787354
+    },
+    {
+      "community_key": "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_4",
+      "summary": "**Title**: Northern Cheyenne Reservation Bands\n\n**Summary**: The text details the major historical and present-day Cheyenne bands settled on the Northern Cheyenne Indian Reservation in southeastern Montana, including the Ononeo’o (mixed Arikara-Mandan-Cheyenne), Totoemanaho (“Backward Clan”), Vóhpoométaneo’o (“White River People”), and Northern Só’taeo’o (Suhtai). Each band’s unique origin, traditional territories in the Black Hills and Powder River Country, intertribal marriages with Lakota, and current reservation locales such as Busby, Birney, Ashland, and Lame Deer are described. The passage also notes the tribe’s higher-education hub, Chief Dull Knife College in Lame Deer, which serves as a community and land-grant institution helping graduates transition to four-year universities.\n\n**Keywords**: Cheyenne bands, Northern Cheyenne Reservation, Suhtai, White River Cheyenne, Chief Dull Knife College",
+      "is_seed": false,
+      "expand_score": 0.8202352523803711
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3",
+      "summary": "**Title**: Idaho Falls Regional Airport Airline History\n\n**Summary**: Idaho Falls Regional Airport (IDA) has experienced shifting airline service since National Parks Airways first arrived in 1934–35. Major carriers such as Western/Delta, American, Horizon, United Express, Allegiant, Northwest/Delta, Frontier, and SeaPort have periodically added and removed routes to hubs like Salt Lake City, Denver, Seattle, Las Vegas, Dallas/Fort Worth, Minneapolis, Oakland, and Chicago, often via code-shares or regional affiliates. Aircraft evolved from early DC-3s and Fairchild F-27s through Boeing 727/737, MD-80, DC-9, Dash 8, CRJ-200, EMB-120, Q400, and E-175 jets, while terminal expansions in 1982, 1998, 2014, 2019, and 2020 adapted to changing traffic. After Horizon’s final 2010 exit, Delta Connection (SkyWest) and United Express emerged as primary carriers, supplemented by Allegiant and seasonal Delta mainline A220s during Jackson Hole’s 2022 runway work, pushing enplanements to 610,641 in 2024.\n\n**Keywords**: Idaho Falls Regional Airport, airline service history, Horizon Air, Delta Connection, terminal expansions",
+      "is_seed": false,
+      "expand_score": 0.8114804029464722
+    },
+    {
+      "community_key": "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "summary": "**Title**: Raymond Carver’s Final Stories\n\n**Summary**:  \nThese chunks center on Raymond Carver’s 1988 collection *Elephant and Other Stories*, the last seven stories he completed before his death.  The pieces repeatedly return to themes of financial strain, family obligation, and emotional exhaustion: narrators are bled dry by relatives’ demands for money, haunted by failed marriages, and left wrestling with guilt, resentment, and fleeting hope.  Several plots—*Elephant*, *Intimacy*, *Menudo*, *Whoever Was Using This Bed*—feature middle-aged men caught between duty and self-preservation, while the historical vignette *Errand* closes the book with Chekhov’s dignified acceptance of mortality.  Throughout, Carver’s spare prose exposes the fragile bargains people make to keep going.\n\n**Keywords**:  \nfamily debt, marital collapse, Raymond Carver, *Elephant* stories, emotional fatigue",
+      "is_seed": false,
+      "expand_score": 0.8026547431945801
+    },
+    {
+      "community_key": "HotpotQA-validation-00005521/00_Ehyophsta.html_0",
+      "summary": "**Title**: Cheyenne Woman Warrior Ehyophsta\n\n**Summary**: Ehyophsta (c. 1826-1915) was a prominent Cheyenne warrior who fought in multiple battles, including Beecher Island in 1868 and two engagements against the Shoshone, where she killed enemies and saved fellow tribespeople. As the daughter of Chief Stands-in-the-Timber, she rode her father's horse into battle alongside other women warriors like Buffalo Wallow Woman and belonged to an exclusive Cheyenne women's secret society. Her legacy as a female warrior is recognized in Judy Chicago's feminist artwork \"The Dinner Party,\" where she is honored on the Heritage Floor.\n\n**Keywords**: Cheyenne warrior, female fighter, Battle of Beecher Island, Native American women, The Dinner Party",
+      "is_seed": false,
+      "expand_score": 0.789897084236145
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "summary": "**Title**: Bo Diddley’s Legacy  \n\n**Summary**:  \nBo Diddley (born Ellas Bates McDaniel) was a pioneering guitarist, singer, and songwriter who fused African rhythms with blues to create the signature “Bo Diddley beat,” a cornerstone of rock, pop, and hip-hop. After moving from Mississippi to Chicago, he absorbed sanctified church rhythms and street-corner blues, launching his career with the 1955 hit “Bo Diddley.” Known for his rectangular guitars and innovative use of tremolo and reverb, he recorded prolifically for Chess/Checker, toured internationally, and influenced artists from the Beatles to the Clash. Inducted into multiple Halls of Fame, he also produced early Marvin Gaye sessions and remained a crossover live favorite through the 1960s surf era.  \n\n**Keywords**: Bo Diddley beat, rock-and-roll pioneer, Chess Records, African rhythms, guitar innovator",
+      "is_seed": false,
+      "expand_score": 0.7874951362609863
+    },
+    {
+      "community_key": "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_6",
+      "summary": "**Title**: Northern Cheyenne Reservation Heritage  \n\n**Summary**:  \nThe Northern Cheyenne Indian Reservation in southeastern Montana encompasses 690 square miles and is home to about 6,000 citizens of the federally recognized Northern Cheyenne Tribe, who maintain strong spiritual ties to their land and traditional culture. Formed after the 1878 Northern Cheyenne Exodus from Oklahoma, the reservation’s communities—Lame Deer, Busby, Ashland, and Birney—center on education, including Chief Dull Knife College and St. Labre Indian School, while economic activity involves tribal government, forestry, ranching, and coal-adjacent work. Historic bands such as the Notameohmésêhese (“Northern Eaters”) and Northern Só’taeo’o continue to shape political and cultural life, and sacred sites like Bear Butte, buffalo jumps, and battle-related landmarks anchor Cheyenne identity. Notable figures—chiefs Little Wolf and Two Moons, flutist Joseph Fire Crow, and linguist Marie Sanchez—exemplify the tribe’s enduring contributions to Indigenous leadership, arts, and scholarship.  \n\n**Keywords**:  \nNorthern Cheyenne, Montana reservation, cultural preservation, tribal education, spiritual land ties",
+      "is_seed": false,
+      "expand_score": 0.7843033671379089
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "HotpotQA-validation-00000548/02_Alexander-Burt.html_0",
+      "HotpotQA-validation-00002708/02_Membrane-paradigm.html_1",
+      "HotpotQA-validation-00002543/02_Sten-Forshufvud.html_1",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_8",
+      "HotpotQA-validation-00004110/02_Chicago-Tigers.html_1",
+      "HotpotQA-validation-00002769/03_Quinto-Vadi.html_0",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00007021/01_Michel-Foucault.html_38",
+      "HotpotQA-validation-00005521/01_Cheyenne-military-societies.html_3",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "HotpotQA-validation-00005521/02_Council-of-Forty-four.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "HotpotQA-validation-00005521/02_Council-of-Forty-four.html_1",
+      "HotpotQA-validation-00005521/01_Cheyenne-military-societies.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_4",
+      "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00005521/00_Ehyophsta.html_0",
+      "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_6"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "HotpotQA-validation-00000548/02_Alexander-Burt.html_0",
+      "HotpotQA-validation-00002708/02_Membrane-paradigm.html_1",
+      "HotpotQA-validation-00002543/02_Sten-Forshufvud.html_1",
+      "HotpotQA-validation-00001066/01_Roger-Ebert.html_8",
+      "HotpotQA-validation-00004110/02_Chicago-Tigers.html_1",
+      "HotpotQA-validation-00002769/03_Quinto-Vadi.html_0",
+      "HotpotQA-validation-00003404/01_Raymond-Carver.html_0",
+      "HotpotQA-validation-00007021/01_Michel-Foucault.html_38",
+      "HotpotQA-validation-00005521/01_Cheyenne-military-societies.html_3",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "HotpotQA-validation-00005521/02_Council-of-Forty-four.html_1",
+      "HotpotQA-validation-00003404/02_What-We-Talk-About-When-We-Talk-About-Love.html_8",
+      "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_4",
+      "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3",
+      "HotpotQA-validation-00003404/03_Elephant-stories.html_3",
+      "HotpotQA-validation-00005521/00_Ehyophsta.html_0",
+      "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "HotpotQA-validation-00005521/03_Northern-Cheyenne-Indian-Reservation.html_6"
+    ],
+    "allowed_chunk_pool_size": 82,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

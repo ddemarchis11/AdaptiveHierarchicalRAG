@@ -1,0 +1,12 @@
+{
+  "id": "Novel-eb7d39ee",
+  "question": "What evidence is there that the British Museum holds a significant collection of ancient musical instruments?",
+  "gold_answer": "The British Museum has bells and cymbals, a fragment of a Greek lyre, an example of a tibia, and Anglo-Saxon trumpets may be seen in a manuscript of the eighth century in the British Museum.",
+  "llm_answer": "The text states that a *diaulos* found in a tomb at Athens “is in the British museum,” and it also mentions that a seventh-century psalter (Cott. Vesp. A. I) depicting King David playing a *rotta* is preserved in the British Museum. These specific items confirm that the British Museum holds at least these ancient musical instruments and related iconography.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the presence of a diaulos and a psalter depicting King David playing a rotta in the British Museum, which is supported by the context. However, it does not mention other items listed in the Gold Answer, such as bells, cymbals, a fragment of a Greek lyre, a tibia, or Anglo-Saxon trumpets. While the answer is faithful to the context, it only partially covers the evidence provided in the Gold Answer."
+  }
+}

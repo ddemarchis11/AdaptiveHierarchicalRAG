@@ -1,0 +1,200 @@
+{
+  "id": "Novel-166bcaa7",
+  "question": "In the operation of soaking pits for steel ingots, what is the composition of the gas that fills the pits during the soaking process, and which specific gases are identified as being present according to the description in the novel?",
+  "gold_answer": "The gas used in the soaking pits is composed of hydrogen, carbonic oxide, and nitrogen.",
+  "llm_answer": "I cannot verify the composition of the gas that fills the pits during the soaking process.",
+  "context": [
+    {
+      "text": "effect of hydraulic pressure is much greater. The phenomena which are produced in both methods of tempering may be interpreted in different ways, but it seems likely that there is a molecular approximation, an amorphism from which results the homogeneity that is due to the absence of crystallization. Being an operation which can be measured, it may be graduated and kept within limits which are prescribed in advance; directions may be given to temper at a specified pressure, as readily as to work under a given pressure of steam.--_Chron. Industr_. ECONOMICAL STEAM POWER. [Footnote: A paper read by title at a recent stated meeting of the Franklin Institute] By WILLIAM BARNET LE VAN. The most economical application of steam power can be realized only by a judicious arrangement of the plant: namely, the engines, boilers, and their accessories for transmission. This may appear a somewhat broad assertion; but it is nevertheless one which is amply justified by facts open to the consideration of all those who choose to seek for them. While it is true that occasionally a factory, mill, or a water-works may be found in which the whole arrangements have been planned by a competent engineer, yet such is the exception and not the rule, and such examples form but a very small percentage of the whole. The fact is that but few users of steam power are aware of the numerous items which compose the cost of economical steam power, while a yet smaller number give sufficient consideration to the",
+      "id": "Novel-8559_c_13",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 27.586744
+    },
+    {
+      "text": "the first named of which, in one instance under the writer's observation, absorbed _sixty horse-power_ out of about 480, or about _seven per cent_. _Third_.--The general convenience of subdividing the work to be done, so that in case of a stoppage of one portion of the work by reason of a loose coupling or the changing of a pulley, etc., that portion only would need to be stopped. This last is of itself a most important point, and demands careful consideration. For example, I was at a mill a short time ago when the governor belt broke. The result was a stoppage of the whole mill. Had the motive power of this mill been subdivided into a number of small engines only one department would have been stopped. During the stoppage in this case the windows of the mill were a sea of heads of men and women (the operatives), and considerable excitement was caused by the violent blowing off of steam from the safety-valves, due to the stoppage of the steam supply to the engine; and this excitement continued until the cause of the stoppage was understood. Had the power in this mill been subdivided the stoppage of one of a number of engines would scarcely have been noticed, and the blowing off of surplus steam would not have occurred. In building a mill the first item to be considered is the interest on the first cost of the engine, boilers, etc. This item can be subdivided with advantage into the",
+      "id": "Novel-8559_c_15",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 24.61341
+    },
+    {
+      "text": "An automatic engine costs more than a plain slide-valve engine, but it will depend upon the cost of fuel at the location where the engine is to be placed, and the number of hours per day it is kept running, to decide which class of machine can be adopted with the greatest economy to the proprietor. The cost of lubricating materials, fuel, repairs, and percentage of cost to be put aside for depreciation, will be less in case of the high-class than in the low-class engine, while the former will also require less boiler power. Against these advantages are to be set the greater first cost of the automatic engine, and the consequent annual charge due to capital sunk. These several items should all be fairly estimated when an engine is to be bought, and the kind chosen accordingly. Let us take the item of fuel, for instance, and let us suppose this fuel to cost four dollars per ton at the place where the engine is run. Suppose the engine to be capable of developing one hundred horse-power, and that it consumes five pounds of coal per hour per horse-power, and runs ten hours per day: this would necessitate the supply of two and one-half tons per day at a cost of ten dollars per day. To be really economical, therefore, any improvement which would effect a saving of one pound of coal per hour per horse-power must not cost a greater sum per horse-power than that on which the cost of the difference of the coal saved (one pound of coal per",
+      "id": "Novel-8559_c_18",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 24.38812
+    },
+    {
+      "text": "on the soaking pit system. A A are the converters, with a transfer crane, B. C is the casting pit with its crane, D. E E are the two ingot cranes. F is a leading crane which transfers the ingots from the ingot cranes to the soaking pits, K K, commanded by the crane, L, which transfers the prepared ingots to the mill, M. as before described. TEMPERING BY COMPRESSION. L. Clemandot has devised a new method of treating metals, especially steel, which consists in heating to a cherry red, compressing strongly and keeping up the pressure until the metal is completely cooled. The results are so much like those of tempering that he calls his process tempering by compression. The compressed metal becomes exceedingly hard, acquiring a molecular contraction and a fineness of grain such that polishing gives it the appearance of polished nickel. Compressed steel, like tempered steel, acquires the coercitive force which enables it to absorb magnetism. This property should be studied in connection with its durability; experiments have already shown that there is no loss of magnetism at the expiration of three months. This compression has no analogue but tempering. Hammering and hardening modify the molecular state of metals, especially when they are practiced upon metal that is nearly cold, but the effect of hydraulic pressure is much greater. The phenomena which are produced in both methods of tempering may be interpreted in different ways, but it seems likely",
+      "id": "Novel-8559_c_12",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 23.575453
+    },
+    {
+      "text": "putting a weight--that of the air--in motion. The resistances incurred are due to the inertia of the air and various frictional influences; the nature and amount of these last vary with the construction of the fan. As the air enters at the center of the fan and escapes at the circumference, it will be seen that its motion is changed while in the fan through a right angle. It may also be taken for granted that within certain limits the air has no motion in a radial direction when it first comes in contact with a fan blade. It is well understood that, unless power is to be wasted, motion should be gradually imparted to any body to be moved. Consequently, the shape of the blades ought to be such as will impart motion at first slowly and afterward in a rapidly increasing ratio to the air. It is also clear that the change of motion should be effected as gradually as possible. Fig. 1 shows how a fan should not be constructed; Fig. 2 will serve to give an idea of how it should be made. [Illustration: FIG. 2] In Fig. 1 it will be seen that the air, as indicated by the bent arrows, is violently deflected on entering the fan. In Fig. 2 it will be seen that it follows gentle curves, and so is put gradually in motion. The curved form of the blades shown in Fig. 2 does not appear to add much to the efficiency of a fan; but it",
+      "id": "Novel-8559_c_38",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 16.71953
+    },
+    {
+      "text": "we consider that where machinery is to be driven the balance of advantages is decidedly in favor of the former class, and particularly so in the case of large powers. The next point to be decided is, whether a condensing or non-condensing engine should be employed. In settling this question not only the respective first costs of the two classes of engines must be taken into consideration, but also the cost of water and fuel. Excepting, perhaps, in cases of very small powers, and in those instances where the exhaust steam from a non-condensing engine can be turned to good account for heating or drying purpose, it may safely be asserted that in all instances where a sufficient supply of condensing water is available at a moderate cost, the extra economy of a well-constructed condensing engine will fully warrant the additional outlay involved in its purchase. In these days of high steam pressures, a well constructed non-condensing engine can, no doubt, be made to approximate closely to the economy of a condensing engine, but in such a case the extra cost of the stronger boiler required will go far to balance the additional cost of the condensing engine. Having decided on the form, the next question is, what \"class\" of engine shall it be; and by the term class I mean the relative excellence of the engine as a power-producing machine. An automatic engine costs more than a plain slide-valve engine, but it will depend upon the cost of fuel at the location where the engine is to",
+      "id": "Novel-8559_c_17",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 15.625094
+    },
+    {
+      "text": "the lead showed a depth of twelve feet. Beard's Island, a short distance further, is also being improved, the largest force of men at any one place being here engaged. Four thousand feet of mattresses have been begun, and in placing them work will be vigorously prosecuted until operations are suspended by floating ice. The different sections are under the direction of W. F. Fries, resident engineer, and E. M. Currie, superintending engineer. There are now employed about 1,200 men, thirty barges and scows, two steam launches, and the stern-wheel steamer A. A. Humphreys. The improvements have cost, in actual money expended, about $200,000, and as the appropriation for the ensuing year approximates $600,000, the prospect of a clear channel is gratifying to those interested in the river. BUNTE'S BURETTE FOR THE ANALYSIS OF FURNACE GASES. For analyzing the gases of blast-furnaces the various apparatus of Orsat have long been employed; but, by reason of its simplicity, the burette devised by Dr. Buente, and shown in the accompanying figures, is much easier to use. Besides, it permits of a much better and more rapid absorption of the oxide of carbon; and yet, for the lost fractions of the latter, it is necessary to replace a part of the absorbing liquid three or four times. The absorbing liquid is prepared by making a",
+      "id": "Novel-8559_c_24",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 15.211833
+    },
+    {
+      "text": "few users of steam power are aware of the numerous items which compose the cost of economical steam power, while a yet smaller number give sufficient consideration to the relations which these items bear to each other, or the manner in which the economy of any given boiler or engine is affected by the circumstances under which it is run. A large number of persons--and they are those who should know better, too--take for granted that a boiler or engine which is good for one situation is good for all; a greater error than such an assumption can scarcely be imagined. It is true that there are certain classes of engines and boilers which may be relied upon to give moderately good results in almost any situation--and the best results should _always_ be desired in arrangement of a mill--there are a considerable number of details which must be taken into consideration in making a choice of boilers and engines. Take the case of a mill in which it has been supposed that the motive power could be best exerted by a single engine. The question now is whether or not it would be best to divide the total power required among a number of engines. _First_.--A division of the motive power presents the following advantages, namely, a saving of expense on lines of shafting of large diameter. _Second_.--Dispensing with the large driving belt or gearing, the first named of which, in one instance under the writer's observation, absorbed _sixty horse-power_ out of about 480, or about",
+      "id": "Novel-8559_c_14",
+      "doc_id": "Novel-8559",
+      "community_id": 18,
+      "score": 14.582151
+    },
+    {
+      "text": "Dill and a number of assistants are engaged in preparing the specimens for exhibition. The logs as they reach the workroom are wrapped in bagging and inclosed in cases, this method being used so that the bark, with its growth of lichens and delicate exfoliations, shall not be injured while the logs are in process of transportation from various parts of the country to this city. The logs are each 6 feet in length, and each is the most perfect specimen of its class that could be found by the experts employed in making the collection. With the specimens of the trees come to the museum also specimens of the foliage and the fruits and flowers of the tree. These come from all parts of the Union--from Alaska on the north to Texas on the south, from Maine on the east to California on the west--and there is not a State or Territory in the Union which has not a representative in this collection of logs. On arrival here the logs are green, and the first thing in the way of treatment after their arrival is to season them, a work requiring great care to prevent them from \"checking,\" as it is technically called, or \"season cracking,\" as the unscientific term the splitting of the wood in radiating lines during the seasoning process. As is well known, the sap-wood of a tree seasons much more quickly than does the heart of the wood. The prevention of this splitting is very necessary in preparing these specimens for exhibition, for when once the wood",
+      "id": "Novel-8559_c_179",
+      "doc_id": "Novel-8559",
+      "community_id": 90,
+      "score": 13.993054
+    },
+    {
+      "text": "and 21 deg. 50', of latitude north, and the 88 deg. and 91 deg. of longitude west from the Greenwich meridian. The whole peninsula is of fossiferous limestone formation. Elevated a few feet only above the sea, on the coasts, it gradually raises toward the interior, to a maximum height of above 70 feet. A bird's-eye view, from a lofty building, impresses the beholder with the idea that he is looking on an immense sea of verdure, having the horizon for boundary; without a hill, not even a hillock, to break the monotony of the landscape. Here and there clusters of palm trees, or artificial mounds, covered with shrubs, loom above the green dead-level as islets, over that expanse of green foliage, affording a momentary relief to the eyes growing tired of so much sameness. About fifty miles from the northwestern coast begins a low, narrow range of hills, whose highest point is not much above 500 feet. It traverses the peninsula in a direction a little south from east, commencing a few miles north from the ruined city of Uxmal, and terminating some distance from the eastern coast, opposite to the magnificent bay of Ascension. Lately I have noticed that some veins of red oxide of iron exist among these hills--quarries of marble must also be found there; since the sculptured ornaments that adorn the facade of all the",
+      "id": "Novel-30752_c_2",
+      "doc_id": "Novel-30752",
+      "community_id": 136,
+      "score": 13.523365
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-30752_136",
+      "summary": "1. **Yucatan Peninsula Geography**\n2. The Yucatan Peninsula is a region of vast limestone formations, with a geography characterized by a flat, low-lying landscape punctuated by clusters of palm trees and artificial mounds. The peninsula is home to numerous caves and senotes, which are large, circular holes that can contain water and provide a unique ecosystem. The region's geology is notable for its lack of surface water, with no rivers or streams, and its immunity to earthquakes. The author attributes this immunity to the extensive network of caves and senotes that provide an outlet for subterranean gases.\n3. **Keywords**: Yucatan Peninsula, Geology, Caves, Senotes, Limestone Formations",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-54537_142",
+      "summary": "1. **Historical Musical Instruments**\n2. **Summary**: The text discusses various historical musical instruments, including the lute, tamboura, kanoon, carillon, and organ. The lute, in particular, is mentioned as being played in the Persian style, with a system of seventeen intervals in the compass of an octave. The carillon, a musical instrument composed of multiple bells, is also described, with its origins and evolution in European countries. The text highlights the unique characteristics of each instrument and their suitability for producing specific musical effects. The development of musical instruments has led to the creation of new musical compositions and expressions. The history of bell-ringing and peal-ringing in England is also explored, with descriptions of the techniques and instruments used.\n3. **Keywords**: Historical instruments, Lute, Carillon, Organ, Musical evolution",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-8559_18",
+      "summary": "1. **Title**: Industrial Machinery and Processes\n2. **Summary**: The text chunks discuss various industrial machinery and processes, including the use of gas furnaces for baking refractory products, the efficiency of fans, and the operation of engines and soaking pits in steel manufacturing. The chunks also touch on the economic advantages of certain processes, such as the soaking pit system, and the properties of metals, including steel, when subjected to different treatments like tempering by compression. The discussions are technical and focused on the practical applications of these machines and processes. The text also mentions the importance of considering factors like fuel cost, maintenance, and efficiency when selecting and operating industrial equipment.\n3. **Keywords**: Industrial Machinery, Steel Manufacturing, Gas Furnaces, Engine Efficiency, Tempering Processes",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-10146_144",
+      "summary": "1. **Title**: Early St. Paul Fire Department\n2. **Summary**: The early St. Paul fire department was formed with the organization of the Pioneer Hook and Ladder company, followed by the establishment of other companies such as Hope Engine Company No. 1 and Minnehaha Engine Company No. 2. These companies played a crucial role in protecting the city from fires, with their members being exempt from certain civic duties as compensation for their services. The fire department's annual parade became a significant event in the city, and the companies worked together to respond to fires and protect the community. The city's fire department was also influenced by national events, such as the Civil War, with many St. Paul residents participating in the war effort. The fire department's history is closely tied to the development of the city, with many prominent business leaders and citizens involved in its formation and operation.\n3. **Keywords**: St. Paul, Fire Department, Pioneer Hook and Ladder, Hope Engine Company, Minnehaha Engine Company",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-8559_90",
+      "summary": "1. **Title**: Botany and Tree Collections\n2. **Summary**: The provided text chunks discuss various aspects of botany, including the characteristics of specific tree species, such as the Maidenhair tree and the Gingkgo. The collection of woods at the American Museum of Natural History is also described, featuring 394 logs representing different tree varieties. Additionally, the importance of nutrition, particularly the role of nitrogenous substances in the human body, is explored. The prevention of scurvy and the use of preserved foods are also mentioned. The text also touches on the preparation of tree specimens for exhibition and the challenges of preserving them.\n3. **Keywords**: Botany, Tree Species, Nutrition, Scurvy, Wood Preservation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-10762_6",
+      "summary": "1. **Title**: Self-Discovery and Human Nature\n2. **Summary**: The text chunks explore the themes of self-discovery, human nature, and the complexities of personal relationships. The narrator reflects on their own life, acknowledging feelings of loneliness and disconnection, despite being part of society. They also examine the tendency to seek validation and approval from others, and the dangers of egoism and self-importance. The chunks also touch on the idea that true understanding of oneself and others can only be achieved through honest self-reflection and empathy. The narrator critiques the tendency to present a false image of oneself, and the importance of authenticity in personal relationships.\n3. **Keywords**: Self-Discovery, Human Nature, Authenticity, Empathy, Egoism",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-5956_114",
+      "summary": "1. **Title**: Life After Separation\n2. **Summary**: The text chunks revolve around the theme of separation and the emotional aftermath. The protagonist has parted ways with a woman and is grappling with the idea of returning to his old life. He reflects on the experiences they shared and the lessons he learned from her, realizing that he has been changed by their time together. Meanwhile, another storyline emerges, focusing on a character named Gallegher, who has been through a challenging experience and is seeking comfort and support. The narrative explores the complexities of human emotions, relationships, and personal growth. The protagonist's journey is marked by a mix of sadness, self-discovery, and a desire to improve himself. The story also touches on the themes of love, loss, and the search for meaning and connection.\n3. **Keywords**: Separation, Personal Growth, Relationships, Self-Discovery, Emotional Aftermath",
+      "is_seed": false,
+      "expand_score": 0.8419436812400818
+    },
+    {
+      "community_key": "Novel-58553_46",
+      "summary": "1. **Title**: Life of Angeline Hall\n2. **Summary**: The text chunks appear to be excerpts from a novel or biography about Angeline Hall, a woman who lived in the 19th century. The passages describe her daily life, interactions with others, and her ambitions, as well as her relationships with her husband and friends. The narrative also touches on themes of women's rights, education, and personal growth. The story is presented in a non-linear fashion, with different passages jumping between various points in Angeline's life. The overall tone is reflective and introspective, with a focus on Angeline's experiences and emotions.\n3. **Keywords**: Angeline Hall, Women's Rights, 19th Century, Biography, Personal Growth",
+      "is_seed": false,
+      "expand_score": 0.7818125486373901
+    },
+    {
+      "community_key": "Novel-40700_102",
+      "summary": "1. **Title**: Social Gathering at the Deanery\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the interactions and conversations among characters at a social gathering, likely at the Deanery. The characters, including the Dean, Hannah, Darbey, Tarver, and others, engage in discussions, music, and other activities, revealing their personalities and relationships. The conversations often touch on themes of morality, social status, and personal struggles. Throughout the excerpts, the characters' dialogue and actions provide insight into their individual concerns and the social dynamics at play.\n3. **Keywords**: Deanery, Social Gathering, Morality, Relationships, Music",
+      "is_seed": false,
+      "expand_score": 0.7816757559776306
+    },
+    {
+      "community_key": "Novel-5956_180",
+      "summary": "1. **Title**: Raegen's Turbulent Life\n2. **Summary**: The text chunks revolve around the life of Raegen, a man entangled in a complex web of crime, friendship, and loyalty. His story is intertwined with that of a young woman, possibly his love interest, and a child who seems to be a source of comfort and motivation for him. Raegen's past is marked by run-ins with the law, and he is forced to confront his demons when faced with the possibility of imprisonment or worse. Throughout the narrative, themes of redemption, personal struggle, and the power of human connections emerge. The story also touches on the idea of past mistakes and their consequences, as well as the possibility of making amends and finding a path towards a better life.\n3. **Keywords**: Raegen, Crime, Redemption, Loyalty, Personal Struggle",
+      "is_seed": false,
+      "expand_score": 0.7810696363449097
+    },
+    {
+      "community_key": "Novel-5956_103",
+      "summary": "1. **Title**: Love and Redemption\n2. **Summary**: The text chunks revolve around two main storylines: the blossoming romance between Young Latimer and Ellen, and the struggles of a burglar who has escaped from jail. The bishop, Ellen's father, is initially hesitant about the relationship but eventually warms up to Latimer. Meanwhile, the burglar, who is desperate to reunite with his family, is shown kindness by Van Bibber, who decides to help him instead of turning him in. The stories explore themes of love, redemption, and the complexities of human relationships. The characters' emotions and motivations are deeply intertwined, leading to a nuanced and empathetic portrayal of their experiences. Through their journeys, the text highlights the importance of understanding, compassion, and the power of human connection.\n3. **Keywords**: Romance, Redemption, Family, Love, Forgiveness",
+      "is_seed": false,
+      "expand_score": 0.7800869941711426
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-25646_39",
+      "Novel-30752_136",
+      "Novel-8559_73",
+      "Novel-26183_8",
+      "Novel-30752_3",
+      "Novel-54537_142",
+      "Novel-8559_18",
+      "Novel-10146_144",
+      "Novel-40700_44",
+      "Novel-8559_90",
+      "Novel-10762_6",
+      "Novel-10762_94",
+      "Novel-26183_30",
+      "Novel-10356_118",
+      "Novel-26183_157"
+    ],
+    "expanded_community_keys": [
+      "Novel-5956_114",
+      "Novel-58553_46",
+      "Novel-40700_102",
+      "Novel-5956_180",
+      "Novel-5956_103"
+    ],
+    "all_community_keys": [
+      "Novel-25646_39",
+      "Novel-30752_136",
+      "Novel-8559_73",
+      "Novel-26183_8",
+      "Novel-30752_3",
+      "Novel-54537_142",
+      "Novel-8559_18",
+      "Novel-10146_144",
+      "Novel-40700_44",
+      "Novel-8559_90",
+      "Novel-10762_6",
+      "Novel-10762_94",
+      "Novel-26183_30",
+      "Novel-10356_118",
+      "Novel-26183_157",
+      "Novel-5956_114",
+      "Novel-58553_46",
+      "Novel-40700_102",
+      "Novel-5956_180",
+      "Novel-5956_103"
+    ],
+    "allowed_chunk_pool_size": 212,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

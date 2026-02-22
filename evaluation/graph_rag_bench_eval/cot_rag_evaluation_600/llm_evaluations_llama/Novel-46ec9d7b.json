@@ -1,0 +1,12 @@
+{
+  "id": "Novel-46ec9d7b",
+  "question": "According to the subgraphs, what are the various uses of trees, and what products are made from them?",
+  "gold_answer": "Sugar Maple is used for making furniture, trees are used for cooking victuals and to keep us warm, and sugar is made from Sugar Maple.",
+  "llm_answer": "According to the subgraphs, the various uses of trees and the products made from them are:\n\n1. The Sugar Maple tree is used to make sugar, furniture, and boards for various uses. Its ashes are used to make potash, which is then used to make glass.\n2. The long-leaved pine tree is valued for its tar, resin, and pitch.\n3. The Elaeonderron Argan tree is mentioned as a natural product of Morocco.\n4. The Shebbel, or Barbary salmon, is a fish that is native to Morocco and is mentioned as a natural product of the country.\n5. The Atlas chain of mountains, also known as the Derem, is a natural feature of Morocco.\n6. The Sherb-Errech, or Desert-horse, is a natural product of Morocco.\n7. The Habin tree is used to make ropes and cables.\n8. The trunks of trees are used to make the capstan and the framework of the mausoleum.\n9. The bark of the Habin tree is used to make ropes and cables.\n\nNote: The subgraphs do not provide a comprehensive list of the uses of trees and the products made from them. The information provided is limited to the specific texts mentioned.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer includes some relevant uses of trees and products made from them, such as sugar, furniture, and boards from the Sugar Maple, and tar, resin, and pitch from the long-leaved pine. However, it introduces several unsupported claims (e.g., Elaeonderron Argan, Shebbel, Sherb-Errech, and Habin tree uses) that are not grounded in the retrieved context. While it partially aligns with the Gold Answer, it misses key details like cooking victuals and keeping warm, and includes extraneous information not relevant to the question."
+  }
+}

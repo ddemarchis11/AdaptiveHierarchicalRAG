@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "According to the narrative, the relationship between Mayab and Hindostan is described as follows:\n\n1. **Similarity in names and customs**: The names \"Maya\" and \"Magi\" have the same meaning in Hindostan, referring to a magician, astronomer, or learned man. Similarly, the Mayas in Hindostan are described as deifying and paying divine honors to their eminent men and women after their death, which is also a custom among the Mayas in Mayab.\n2. **Presence of Maya in Hindostan**: Maya is considered the \"Mother of the Gods\" in Hindostan, similar to her role in Greece and Mayab.\n3. **Historical connections**: The narrative suggests that a colony from Mayab may have emigrated eastward and settled on the banks of the Nile, influencing the development of Egyptian civilization.\n4. **Shared traditions and myths**: The story of Isis and Osiris in Egypt is similar to the story of Chaacmol and Moo in Mayab, suggesting a common origin or influence.\n5. **Cultural exchange**: The Mayas in Hindostan have adopted customs and traditions from Mayab, such as carrying children astride on the hips of nurses and recording vows by imprinting hands on walls.\n\nThe narrative suggests that the Mayas in Hindostan have a cultural and historical connection with the Mayas in Mayab, and that the Mayas in Mayab may have influenced the development of civilizations in other parts of the world, including Egypt and Hindostan.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of the relationship between Mayab and Hindostan, but it introduces several claims that are not explicitly supported by the retrieved context, such as the influence of Mayab on Egyptian civilization and the similarity between the stories of Isis and Osiris and Chaacmol and Moo. While it captures the idea of similarity and the presence of Maya in Hindostan, it includes unsupported details and misses the concise focus of the Gold Answer."
+  }
+}

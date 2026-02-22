@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e57f27f",
+  "question": "In the story, Eily expresses a desire to possess wealth greater than the Countess o' Kilmoggen and specifically wishes for diamonds and pearls to drop from her mouth whenever she speaks. What evidence from the events and Eily's own words shows that she aspired to be wealthy?",
+  "gold_answer": "Eily wanted to be richer than the Countess o' Kilmoggen, wished for diamonds and pearls, and talked about diamonds and pearls.",
+  "llm_answer": "Several pieces of evidence from the story show that Eily aspired to be wealthy:\n\n1. Eily's initial wish: When Eily meets the Green Man, she wishes for diamonds and pearls to drop from her mouth whenever she speaks. This suggests that she desires to possess wealth and luxury, as diamonds and pearls are highly valued and expensive items.\n\n2. Comparison to the Countess o' Kilmoggen: Eily specifically wishes to be wealthier than the Countess o' Kilmoggen, indicating that she is aware of the social status and wealth associated with being a countess. This comparison shows that Eily is motivated by a desire to be wealthy and to surpass others in terms of material possessions.\n\n3. Eily's reaction to the doctor's suggestion: When the doctor suggests that Eily's wish might be a curse, Eily responds by saying, \"Sure I'd be richer than the Countess o' Kilmoggen hersilf, let alone the Queen, be the time I'd talked for an hour.\" This statement reinforces the idea that Eily is driven by a desire for wealth and material possessions.\n\n4. Eily's love of talking: Eily's statement that she \"loove[s] to talk\" suggests that she enjoys speaking and communicating with others. However, it also implies that she is willing to use her gift to accumulate wealth, as she mentions that she would be richer than the Countess o' Kilmoggen by the time she had talked for an hour.\n\nOverall, Eily's words and actions suggest that she aspires to be wealthy and to possess material possessions, particularly diamonds and pearls.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Eily's aspiration for wealth, supported by her wish for diamonds and pearls, her comparison to the Countess o' Kilmoggen, and her expressed love of talking to accumulate wealth. All claims are grounded in the retrieved context, and the answer includes all key facts from the Gold Answer while providing additional relevant details."
+  }
+}

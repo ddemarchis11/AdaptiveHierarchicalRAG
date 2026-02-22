@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006586",
+  "question": "What is the name of the largest shipping facility in the Northeastern United States, where the Boston Red Socks play?",
+  "gold_answer": "Port of Boston",
+  "llm_answer": "The evidence does not specify a single “largest shipping facility in the Northeastern United States” that is also the place “where the Boston Red Sox play.”",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct name of the largest shipping facility in the Northeastern United States, which is the Port of Boston, as stated in the Gold Answer. While the Model Answer is faithful to the retrieved context, it does not address the question directly or include the key fact from the Gold Answer."
+  }
+}

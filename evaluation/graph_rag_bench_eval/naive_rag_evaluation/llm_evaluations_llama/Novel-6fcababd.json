@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6fcababd",
+  "question": "How is the harp’s presence in British history connected to David’s musical practices?",
+  "gold_answer": "David played the lyre and used to suspend the kinnor, which is rendered as harp and is in the Anglo-Saxon manuscript.",
+  "llm_answer": "The text does not explicitly state how the harp's presence in British history is connected to David's musical practices. However, it does mention that King David's private band is mentioned in the text, and that his favourite instrument is also mentioned. \n\nIt is likely that the harp's presence in British history is connected to the fact that the harp was a popular instrument in ancient Israel, and King David was a prominent figure in the history of the Israelites. The harp was also known to the ancient Britons, as mentioned in the text, where it is stated that Bruce discovered harps on frescoes.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not directly address the connection between David's musical practices and the harp's presence in British history as described in the Gold Answer. It fails to mention David's use of the lyre or kinnor, which is rendered as harp in the Anglo-Saxon manuscript. Additionally, the claims about Bruce discovering harps on frescoes and the harp's popularity in ancient Israel are unsupported by the retrieved context, making the answer unfaithful to the provided evidence."
+  }
+}

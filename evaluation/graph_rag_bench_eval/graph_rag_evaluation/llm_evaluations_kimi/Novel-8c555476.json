@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8c555476",
+  "question": "What type of quarries are found in Washington County, New York, as described in the narrative about building materials?",
+  "gold_answer": "Washington County has sandstone quarries in New York.",
+  "llm_answer": "Washington County, New York, has slate quarries located near the Vermont line.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Washington County, New York, has slate quarries, whereas the Gold Answer specifies sandstone quarries. The retrieved context does not support the claim about slate quarries in Washington County, making the answer unfaithful and missing the key fact from the Gold Answer."
+  }
+}

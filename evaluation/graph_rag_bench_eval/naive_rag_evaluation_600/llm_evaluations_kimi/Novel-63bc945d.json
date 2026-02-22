@@ -1,0 +1,12 @@
+{
+  "id": "Novel-63bc945d",
+  "question": "How are the legal, familial, and romantic storylines intertwined through the engagement of Roxie Daymon to Simon, Simon's obtaining a promise from Rose Simon, and Governor Morock's offer to arrange testimony for Roxie Daymon?",
+  "gold_answer": "Roxie Daymon was engaged to Simon, Simon obtained a promise from Rose Simon, and Governor Morock offered to arrange the testimony for Roxie Daymon.",
+  "llm_answer": "The three strands knot around the single question of who will control the Simon fortune.\n\n1. Romantic  \n   Roxie’s engagement to the dying Young Simon is the trigger-event: it gives her a claim to the estate as his intended widow and, once the death-bed will is signed, as the named universal legatee.\n\n2. Legal  \n   Governor Morock’s offer to “arrange the testimony” is the mechanism for turning that romantic claim into legal title. He proposes to manufacture evidence that Simon was “of sound mind” when he dictated the will, thereby protecting the bequest from the collateral heirs who would otherwise break it. The engagement supplies the motive for Roxie to accept the Governor’s scheme.\n\n3. Familial  \n   The underlying reason the will can be contested is familial: Simon’s father had earlier discovered that Roxie (alias Roxie Fairfield) is the granddaughter of Rose Simon’s sister Suza, making Roxie the rightful heir to a twenty-thousand-dollar legacy plus twenty years’ interest. Young Simon’s promise to his father—implicitly to “take Roxie Daymon away” from poverty—becomes, through the engagement and the will, the instrument for restoring that family fortune to its legitimate branch. Thus the marriage promise to Rose Simon (the aunt whose line Roxie descends from) is fulfilled by the betrothal and the will that transfers the entire Simon estate to Roxie.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the intertwined legal, familial, and romantic storylines, providing detailed explanations that align with the retrieved context. It expands on the Gold Answer by explaining the motivations and connections between the engagement, the promise, and Governor Morock's offer, all of which are supported by the context. The additional details enhance understanding without introducing unsupported claims."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004130",
+  "question": "What liberal arts college has their athletic teams named the Lincoln Memorial Railsplitters?",
+  "gold_answer": "Lincoln Memorial University",
+  "llm_answer": "The liberal arts college with their athletic teams named the Lincoln Memorial Railsplitters is Lincoln Memorial University.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Lincoln Memorial University as the liberal arts college with athletic teams named the Lincoln Memorial Railsplitters. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which explicitly states the name and details about the university's athletic teams."
+  }
+}

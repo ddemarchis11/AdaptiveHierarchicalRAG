@@ -1,0 +1,12 @@
+{
+  "id": "Novel-13fbbea3",
+  "question": "Which individual, related to Angeline Hall, was wounded at the Battle of Bull Run during the Civil War?",
+  "gold_answer": "Constant Woodward was wounded at Bull Run.",
+  "llm_answer": "Captain Acker, the father of Angeline Hall's son Angelo, was wounded at the Battle of Bull Run.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Captain Acker as the individual related to Angeline Hall who was wounded at the Battle of Bull Run, whereas the Gold Answer specifies Constant Woodward. The retrieved context supports the Gold Answer, mentioning Constant Woodward being wounded at Bull Run. The Model Answer is neither correct nor faithful to the context and fails to cover the key fact from the Gold Answer."
+  }
+}

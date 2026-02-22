@@ -1,0 +1,316 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Mr. Pepys drank with several individuals, including Captain Poole at Woolwich, Mr. Fanshaw at the Crane tavern, and Mr. Chetwind, Gregory, Hartlibb, and Mr. Kipps at the Bell at the Maypole in the Strand.",
+  "context": [
+    {
+      "text": "Produced by David Widger THE DIARY OF SAMUEL PEPYS M.A. F.R.S. CLERK OF THE ACTS AND SECRETARY TO THE ADMIRALTY TRANSCRIBED FROM THE SHORTHAND MANUSCRIPT IN THE PEPYSIAN LIBRARY MAGDALENE COLLEGE CAMBRIDGE BY THE REV. MYNORS BRIGHT M.A. LATE FELLOW AND PRESIDENT OF THE COLLEGE (Unabridged) WITH LORD BRAYBROOKE'S NOTES EDITED WITH ADDITIONS BY HENRY B. WHEATLEY F.S.A. DIARY OF SAMUEL PEPYS. JUNE, JULY & AUGUST 1661 June 1st. Having taken our leaves of Sir W. Batten and my Lady, who are gone this morning to keep their Whitsuntide, Sir W. Pen and I and Mr. Gauden by water to Woolwich, and there went from ship to ship to give order for and take notice of their forwardness to go forth, and then to Deptford and did the like, having dined at Woolwich with Captain Poole at the tavern there. From Deptford we walked to Redriffe, calling at the half-way house, and there come into a room where there was infinite of new cakes placed that are made against Whitsuntide, and there we were very merry. By water home, and there did businesses of the",
+      "id": "Novel-4128_c_0",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 18.081312
+    },
+    {
+      "text": "I do believe that the story is true. Back again at night home. 2d. At the office all the morning. At noon Dr. Thos. Pepys dined with me, and after dinner my brother Tom came to me and then I made myself ready to get a-horseback for Cambridge. So I set out and rode to Ware, this night, in the way having much discourse with a fellmonger,--[A dealer in hides.]--a Quaker, who told me what a wicked man he had been all his life-time till within this two years. Here I lay, and 3rd. Got up early the next morning and got to Barkway, where I staid and drank, and there met with a letter-carrier of Cambridge, with whom I rode all the way to Cambridge, my horse being tired, and myself very wet with rain. I went to the Castle Hill, where the judges were at the Assizes; and I staid till Roger Pepys rose and went with him, and dined with his brother, the Doctor, and Claxton at Trinity Hall. Then parted, and I went to the Rose, and there with Mr. Pechell, Sanchy, and others, sat and drank till night and were very merry, only they tell me how high the old doctors are in the University over those they found there, though a great deal better scholars than themselves; for which I am very sorry,",
+      "id": "Novel-4128_c_50",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 17.974724
+    },
+    {
+      "text": "office, there till night, and so home to my musique and then to bed. 27th. To my father's, and with him to Mr. Starling's to drink our morning draft, and there I told him how I would have him speak to my uncle Robert, when he comes thither, concerning my buying of land, that I could pay ready money L600 and the rest by L150 per annum, to make up as much as will buy L50 per annum, which I do, though I not worth above L500 ready money, that he may think me to be a greater saver than I am. Here I took my leave of my father, who is going this morning to my uncle upon my aunt's letter this week that he is not well and so needs my father's help. At noon home, and then with my Lady Batten, Mrs. Rebecca Allen, Mrs. Thompson, &c., two coaches of us, we went and saw \"Bartholomew Fayre\" acted very well, and so home again and staid at Sir W. Batten's late, and so home to bed. This day Mr. Holden sent me a bever, which cost me L4 5s. [Whilst a hat (see January 28th, 1660-61, ante) cost only 35s. See also Lord Sandwich's vexation at his beaver being stolen, and a hat only left in lieu of",
+      "id": "Novel-4128_c_24",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 17.631111
+    },
+    {
+      "text": "ante) cost only 35s. See also Lord Sandwich's vexation at his beaver being stolen, and a hat only left in lieu of it, April 30th, 1661, ante; and April 19th and 26th, 1662, Post.--B.] 28th. At home all the morning practising to sing, which is now my great trade, and at noon to my Lady and dined with her. So back and to the office, and there sat till 7 at night, and then Sir W. Pen and I in his coach went to Moorefields, and there walked, and stood and saw the wrestling, which I never saw so much of before, between the north and west countrymen. So home, and this night had our bed set up in our room that we called the Nursery, where we lay, and I am very much pleased with the room. 29th. By a letter from the Duke complaining of the delay of the ships that are to be got ready, Sir Williams both and I went to Deptford and there examined into the delays, and were satisfyed. So back again home and staid till the afternoon, and then I walked to the Bell at the Maypole in the Strand, and thither came to me by appointment Mr. Chetwind, Gregory, and Hartlibb, so many of our old club, and Mr. Kipps, where we staid and drank",
+      "id": "Novel-4128_c_25",
+      "doc_id": "Novel-4128",
+      "community_id": 52,
+      "score": 16.41502
+    },
+    {
+      "text": "I found a letter from my Lord Sandwich, who is now very well again of his feaver, but not yet gone from Alicante, where he lay sick, and was twice let blood. This letter dated the 22nd July last, which puts me out of doubt of his being ill. In my coming home I called in at the Crane tavern at the Stocks by appointment, and there met and took leave of Mr. Fanshaw, who goes to-morrow and Captain Isham toward their voyage to Portugal. Here we drank a great deal of wine, I too much and Mr. Fanshaw till he could hardly go. So we took leave one of another. 27th. This morning to the Wardrobe, and there took leave of my Lord Hinchingbroke and his brother, and saw them go out by coach toward Rye in their way to France, whom God bless. Then I was called up to my Lady's bedside, where we talked an hour about Mr. Edward Montagu's disposing of the L5000 for my Lord's departure for Portugal, and our fears that he will not do it to my Lord's honour, and less to his profit, which I am to enquire a little after. Hence to the office, and there sat till noon, and then my wife and I by coach to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry,",
+      "id": "Novel-4128_c_76",
+      "doc_id": "Novel-4128",
+      "community_id": 60,
+      "score": 15.491242
+    },
+    {
+      "text": "speak loud of the lewdness and beggary of the Court, which I am sorry to hear, and which I am afeard will bring all to ruin again. So he and I to the Wardrobe to dinner, and after dinner Captain Ferrers and I to the Opera, and saw \"The Witts\" again, which I like exceedingly. The Queen of Bohemia was here, brought by my Lord Craven. So the Captain and I and another to the Devil tavern and drank, and so by coach home. Troubled in mind that I cannot bring myself to mind my business, but to be so much in love of plays. We have been at a great loss a great while for a vessel that I sent about a month ago with, things of my Lord's to Lynn, and cannot till now hear of them, but now we are told that they are put into Soale Bay, but to what purpose I know not. 18th (Lord's day). To our own church in the morning and so home to dinner, where my father and Dr. Tom Pepys came to me to dine, and were very merry. After dinner I took my wife and Mr. Sidney to my Lady to see my Lord Hinchingbroke, who is now pretty well again, and sits up and walks about his chamber. So I went to White Hall, and there hear that my Lord General Monk continues very ill: so I went to la belle Pierce and sat with",
+      "id": "Novel-4128_c_65",
+      "doc_id": "Novel-4128",
+      "community_id": 60,
+      "score": 14.696467
+    },
+    {
+      "text": "and so came to some ease I would fain have stolen a pretty dog that followed me Instructed by Shakespeare himself King, Duke and Duchess, and Madame Palmer, were Lady Batten how she was such a man's whore Lately too much given to seeing of plays, and expense Lewdness and beggary of the Court Look askew upon my wife, because my wife do not buckle to them None will sell us any thing without our personal security given Quakers do still continue, and rather grow than lessen Sat before Mrs. Palmer, the King's mistress, and filled my eyes So the children and I rose and dined by ourselves Sorry in some respect, glad in my expectations in another respec The Alchymist,--Comedy by Ben Jonson The Lords taxed themselves for the poor--an earl, s. This week made a vow to myself to drink no wine this week Those absent from prayers were to pay a forfeit To be so much in love of plays Woman with a rod in her hand keeping time to the musique End of the Project Gutenberg EBook of Diary of Samuel Pepys, June/July/August 1661, by Samuel Pepys",
+      "id": "Novel-4128_c_84",
+      "doc_id": "Novel-4128",
+      "community_id": 79,
+      "score": 14.634447
+    },
+    {
+      "text": "that the estate left me is L200 a year in land, besides moneys, because I would put an esteem upon myself. At night home and to bed after I had set down my journals ever since my going from London this journey to this house. This afternoon I hear that my man Will hath lost his clock with my tankard, at which I am very glad. 25th. This morning came my box of papers from Brampton of all my uncle's papers, which will now set me at work enough. At noon I went to the Exchange, where I met my uncle Wight, and found him so discontented about my father (whether that he takes it ill that he has not been acquainted with things, or whether he takes it ill that he has nothing left him, I cannot tell), for which I am much troubled, and so staid not long to talk with him. Thence to my mother's, where I found my wife and my aunt Bell and Mrs. Ramsey, and great store of tattle there was between the old women and my mother, who thinks that there is, God knows what fallen to her, which makes me mad, but it was not a proper time to speak to her of it, and so I went away with Mr. Moore, and he and I to the Theatre, and saw \"The Jovial Crew,\" the first time I saw it, and indeed it is as merry and the most innocent play that ever I",
+      "id": "Novel-4128_c_42",
+      "doc_id": "Novel-4128",
+      "community_id": 79,
+      "score": 14.634447
+    },
+    {
+      "text": "a \"little billet into his hand, that contained a warrant of his own hand-writing to Sir Stephen Fox to pay to the Chancellor the sum of L20,000,--[approximately 10 million dollars in the year 2000]--of which nobody could have notice.\" In 1662 he received L5,000 out of the money voted to the king by the Parliament of Ireland, as he mentions in his vindication of himself against the impeachment of the Commons; and we shall see that Pepys, in February, 1664, names another sum of L20,000 given to the Chancellor to clear the mortgage upon Clarendon Park; and this last sum, it was believed, was paid from the money received from France by the sale of Dunkirk.--B.] to be sealed this afternoon, and so I am forced to go to Worcester House, where severall Lords are met in Council this afternoon. And while I am waiting there, in comes the King in a plain common riding-suit and velvet cap, in which he seemed a very ordinary man to one that had not known him. Here I staid till at last, hearing that my Lord Privy Seal had not the seal here, Mr. Moore and I hired a coach and went to Chelsy, and there at an alehouse sat and drank and past the time till my Lord Privy Seal came to his house, and so we to him and examined and sealed the thing, and so",
+      "id": "Novel-4128_c_67",
+      "doc_id": "Novel-4128",
+      "community_id": 68,
+      "score": 14.449024
+    },
+    {
+      "text": "and my father gone to Goody Gorum's, where I found them and Jaspar Trice got before me, and Mr. Greene, and there had some calm discourse, but came to no issue, and so parted. So home and to bed, being now pretty well again of my left hand, which lately was stung and very much swelled. 21st (Lord's day). At home all the morning, putting my papers in order against my going to-morrow and doing many things else to that end. Had a good dinner, and Stankes and his wife with us. To my business again in the afternoon, and in the evening came the two Trices, Mr. Greene, and Mr. Philips, and so we began to argue. At last it came to some agreement that for our giving of my aunt L10 she is to quit the house, and for other matters they are to be left to the law, which do please us all, and so we broke up, pretty well satisfyed. Then came Mr. Barnwell and J. Bowles and supped with us, and after supper away, and so I having taken leave of them and put things in the best order I could against to-morrow I went to bed. Old William Luffe having been here this afternoon and paid up his bond of L20, and I did give him into his hand my uncle's surrender of Sturtlow to me before Mr. Philips,",
+      "id": "Novel-4128_c_38",
+      "doc_id": "Novel-4128",
+      "community_id": 60,
+      "score": 14.38499
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-4128_37",
+      "summary": "1. **Personal Life and Family**\n2. **Summary**: The given text chunks appear to be excerpts from the diary of Samuel Pepys, detailing his personal life, family, and social interactions in 17th-century England. The entries discuss his relationships with his family members, including his father, uncle, and wife, as well as his interactions with friends and acquaintances. Pepys also mentions his professional life, including his work at the office and his involvement in various business and social matters. The diary entries provide insight into the daily life and concerns of a member of the English gentry during this time period. Pepys' family is often at the center of his concerns, with discussions about his father's financial situation, his uncle's will, and potential marriages for his brother. Additionally, Pepys' social life is filled with visits to the theatre, meetings with friends, and attendance at various social events.\n3. **Keywords**: Samuel Pepys, 17th century, England, diary, personal life, family.",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_52",
+      "summary": "1. **Diary of Samuel Pepys**: \n2. **Summary**: The provided text chunks appear to be excerpts from the diary of Samuel Pepys, a 17th-century English naval administrator and Member of Parliament. The entries detail his daily life, including visits to family and friends, attendance at social events, and discussions about politics and business. Pepys also mentions his personal interests, such as music and reading, and notes his interactions with various individuals, including his wife, colleagues, and acquaintances. The diary entries span several days and cover a range of topics, from mundane tasks to significant events.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, England, Politics, Social Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_24",
+      "summary": "1. **Diary of Samuel Pepys**\n2. **Summary**: The diary entries of Samuel Pepys describe his daily activities, social interactions, and personal experiences in 17th-century England. He attends the theatre, visits friends and family, and participates in social gatherings, often involving food, drink, and merriment. Pepys also mentions his work at the office and his interactions with prominent figures, including Sir William Batten and Captain Ferrers. The entries provide insight into Pepys' personal life, relationships, and the cultural and social context of his time. He also records significant events, such as a general fast to be kept in London and the country, and the assembly of the High Court of Parliament.\n3. **Keywords**: Samuel Pepys, 17th century, Diary, London, Social Life",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_68",
+      "summary": "1. **Diary of Samuel Pepys**\n2. **Summary**: The provided text chunks appear to be excerpts from the diary of Samuel Pepys, a 17th-century English naval administrator and Member of Parliament. The entries detail his daily life, including interactions with family and friends, attendance at social events, and discussions of business and politics. Pepys also writes about his personal interests, such as music and singing, and his efforts to learn and improve his skills. The diary entries span several days and cover a range of topics, from mundane tasks and appointments to significant events and personal reflections.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, London, Personal Reflections",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_60",
+      "summary": "1. **Personal Diary Entries**: \n2. **Summary**: The provided text chunks appear to be excerpts from the personal diary of Samuel Pepys, detailing his daily life, interactions, and experiences in 17th-century England. The entries cover various aspects, including social events, family matters, business dealings, and his observations on theater performances and other cultural activities. Pepys also discusses his health, relationships, and professional responsibilities, offering a glimpse into his personal and public life. The diary entries are dated and provide a chronological account of his experiences, thoughts, and feelings.\n3. **Keywords**: Samuel Pepys, Diary, 17th Century, England, Personal Life, Social Events.",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-4128_79",
+      "summary": "1. **17th Century London Life**\n2. The provided text chunks appear to be excerpts from the diary of Samuel Pepys, detailing his daily life in 17th century London. The entries describe his social interactions, attendance at theatrical performances, and personal business matters. Pepys frequently visits his family and friends, attends plays, and discusses various topics such as politics, literature, and his own personal affairs. He also mentions his relationships with women, including his wife and the King's mistress, Mrs. Palmer.\n3. **Keywords**: Samuel Pepys, 17th Century, London, Diary, Theatre",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-2544_184",
+      "summary": "1. **Gold Rush Encounters**\n2. **Summary**: The text chunks revolve around the lives of individuals during the gold rush era, focusing on their interactions, relationships, and experiences. The narrative explores the story of Jack Fleming, a young miner, and his encounters with a girl named Katinka Jallinger, as well as other characters, including a colonel and an editor. The stories delve into themes of social interactions, mining life, and the search for gold. The characters' conversations and actions reveal their personalities, values, and motivations, providing insight into the human aspect of the gold rush experience. The text also touches on the idea of community, as characters form connections and relationships with one another, highlighting the social dynamics of the time.\n3. **Keywords**: Gold Rush, Mining, Social Interactions, Community, Frontier Life",
+      "is_seed": true,
+      "expand_score": 0.8100078701972961
+    },
+    {
+      "community_key": "Novel-5956_97",
+      "summary": "1. **Title**: Van Bibber's Social Encounters\n2. **Summary**: The given text chunks revolve around the character Van Bibber and his interactions with various individuals, including a girl he knows, her brother, and three little girls from the East Side. Van Bibber's experiences range from a boat ride with the little girls to a conversation with a bishop, showcasing his social awkwardness and good-hearted nature. The narrative also touches on themes of bravery, love, and social class. Throughout the encounters, Van Bibber's character is revealed through his actions and dialogue, providing insight into his personality and values.\n3. **Keywords**: Van Bibber, Social Encounters, Class Distinctions, Bravery, Love",
+      "is_seed": true,
+      "expand_score": 0.8100078701972961
+    },
+    {
+      "community_key": "Novel-25646_14",
+      "summary": "1. **Title**: Health and Substance Abuse\n2. **Summary**: The provided text chunks discuss the importance of maintaining good health, particularly during childhood and adolescence. They warn against the dangers of substance abuse, such as tobacco and alcohol, which can have severe and long-lasting effects on the body. The chunks also provide guidance on how to care for various parts of the body, including the eyes, ears, and spine, and emphasize the need for healthy habits and responsible decision-making. The overall theme is one of promoting healthy lifestyles and warning against the risks associated with substance abuse. The text also highlights the importance of self-care and responsible behavior, particularly during childhood and adolescence, in order to maintain good physical and mental health.\n3. **Keywords**: Health, Substance Abuse, Tobacco, Alcohol, Wellness",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_102",
+      "summary": "1. **Title**: Social Gathering at the Deanery\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the interactions and conversations among characters at a social gathering, likely at the Deanery. The characters, including the Dean, Hannah, Darbey, Tarver, and others, engage in discussions, music, and other activities, revealing their personalities and relationships. The conversations often touch on themes of morality, social status, and personal struggles. Throughout the excerpts, the characters' dialogue and actions provide insight into their individual concerns and the social dynamics at play.\n3. **Keywords**: Deanery, Social Gathering, Morality, Relationships, Music",
+      "is_seed": false,
+      "expand_score": 0.8321786522865295
+    },
+    {
+      "community_key": "Novel-10762_163",
+      "summary": "1. **Title**: Social Commentary in England\n2. **Summary**: The text chunks discuss various aspects of English society, including the behaviors of individuals like Hinze and Ganymede, who are portrayed as exemplifying certain social traits. The narrative also touches on the changing times in England, comparing the past to the present, and noting the country's ability to balance stability with susceptibility to change. The author reflects on their own experiences and observations of English life, from their father's stories of the past to their current experiences in London. The text also explores themes of youth, age, and the perception of these qualities in society. Overall, the chunks provide a commentary on the social landscape of England, highlighting both the consistencies and changes that have occurred over time.\n3. **Keywords**: English Society, Social Commentary, Personal Reflections, Change and Stability, Youth and Age",
+      "is_seed": false,
+      "expand_score": 0.8201512098312378
+    },
+    {
+      "community_key": "Novel-2544_174",
+      "summary": "1. **Title**: Fleming's Encounter\n2. **Summary**: The story revolves around Fleming's interactions with a young woman, initially mistaken for a child, at a cabin. She returns a ring he had lost, and they engage in conversation, revealing her background and family. The narrative also touches on Fleming's observations of the girl's character and her family's religious beliefs. Additionally, the story explores themes of mistaken identity, social class, and personal relationships. The girl's singing and Fleming's reactions to her and her family create a sense of intrigue and curiosity.\n3. **Keywords**: Fleming, cabin, ring, young woman, family dynamics",
+      "is_seed": false,
+      "expand_score": 0.8102491497993469
+    },
+    {
+      "community_key": "Novel-47558_27",
+      "summary": "1. **Title**: Life in Rural Communities\n2. **Summary**: The text chunks describe life in rural communities, focusing on the struggles and relationships of the characters. The story revolves around the lives of characters such as Aunt Katy, Tom Fairfield, and Rob Roy, highlighting their daily struggles, habits, and interactions with others. The narrative also touches on themes of family, community, and the consequences of one's actions. Additionally, the story explores the lives of characters like Cousin Cæsar, who gets involved in trickery and later becomes a partner in a game, facing challenges and setbacks.\n3. **Keywords**: Rural Life, Community, Family, Struggle, Relationships",
+      "is_seed": false,
+      "expand_score": 0.8054887056350708
+    },
+    {
+      "community_key": "Novel-2544_238",
+      "summary": "1. **Title**: Life in Canada City\n2. **Summary**: The text chunks describe life in Canada City, a mining town, focusing on the experiences of its young women, particularly Cissy Trixit, the daughter of a prominent banker. The community is portrayed as vibrant, with social interactions and relationships between characters like Cissy, her friend Piney, and various men, including the Reverend Mr. Windibrook and a young engineer. The narrative touches on themes of beauty, social status, and the complexities of human connections in a small, close-knit community. The stories also mention the town's layout, its church, and the contrast between the natural beauty of the surrounding landscape and the harsh realities of mining life.\n3. **Keywords**: Canada City, Mining Town, Social Interactions, Cissy Trixit, Community Life",
+      "is_seed": false,
+      "expand_score": 0.8036877512931824
+    },
+    {
+      "community_key": "Novel-10762_204",
+      "summary": "1. **Title**: Social Commentary on Vanity\n2. **Summary**: The given text chunks revolve around the theme of social commentary, particularly focusing on the concept of vanity and its various manifestations in individuals. The narrative delves into the lives of characters like Spike, Vorticella, and others, highlighting their quirks, obsessions, and the societal implications of their behaviors. Through these characters, the text explores the human tendency towards self-importance, the pursuit of validation, and the effects of these traits on personal relationships and societal dynamics. The commentary also touches upon the idea that vanity is a universal human trait, albeit expressed differently in men and women, and that it can lead to a range of consequences, from the mundane to the profound.\n3. **Keywords**: Vanity, Social Commentary, Human Nature, Relationships, Self-Importance",
+      "is_seed": false,
+      "expand_score": 0.8018605709075928
+    },
+    {
+      "community_key": "Novel-4128_22",
+      "summary": "1. **Personal Diary Entries**\n2. **Summary**: The given text chunks appear to be excerpts from a personal diary, detailing the daily life and activities of the author. The entries cover various topics, including social events, family visits, and personal struggles, such as the author's vow to abstain from wine. The author also discusses their interactions with notable figures, like Mr. Montagu and Captain Lambert, and shares their thoughts on entertainment, like plays and music. The diary entries provide insight into the author's personal and professional life, as well as their relationships and interests.\n3. **Keywords**: Diary, Personal, Social, Entertainment, Relationships",
+      "is_seed": false,
+      "expand_score": 0.8010901212692261
+    },
+    {
+      "community_key": "Novel-10321_158",
+      "summary": "1. **Title**: Colonial Life in Asia\n2. **Summary**: The text chunks describe the life of a young man, Rudolph, in a colonial setting in Asia, likely in the early 20th century. He navigates his daily life, interacting with various characters, including his friends, servants, and acquaintances, while dealing with his own emotions and personal struggles. The narrative touches on themes of identity, culture, and social hierarchy, providing a glimpse into the complexities of colonial life. Rudolph's experiences are marked by moments of introspection, tension, and humor, as he tries to find his place in this foreign environment. The story also hints at the presence of social and cultural tensions, as well as personal relationships and conflicts.\n3. **Keywords**: Colonialism, Asia, Identity, Culture, Social Hierarchy",
+      "is_seed": false,
+      "expand_score": 0.797661542892456
+    },
+    {
+      "community_key": "Novel-2544_50",
+      "summary": "1. **Title**: Snapshot Harry's Gang\n2. **Summary**: The text chunks revolve around the interactions and conversations between the protagonist, Brice, and members of Snapshot Harry's gang, particularly the leader's niece. The discussions often touch on the gang's activities, including a recent robbery where the coach was held up twice, and the dynamics within the group. The niece, who appears to be well-respected and protected by her uncle, engages in conversations with Brice, showcasing her intelligence, audacity, and awareness of her surroundings. The narrative also hints at the complexities of the characters' relationships and the moral ambiguities of their actions.\n3. **Keywords**: Snapshot Harry, Gang, Robbery, Coach, Niece",
+      "is_seed": false,
+      "expand_score": 0.7963948249816895
+    },
+    {
+      "community_key": "Novel-40700_104",
+      "summary": "1. **Title**: The Dean's Household\n2. **Summary**: The given text chunks appear to be excerpts from a novel, focusing on the daily life and interactions of the Dean's household, including the Dean, his daughters Georgiana, Salome, and Sheba, and various guests and acquaintances. The conversations and events revolve around social gatherings, discussions about a potential restoration of the Minster Spire, and the Dean's interactions with his family and community members. The tone is often humorous and lighthearted, with witty remarks and comedic situations. The characters' personalities and relationships are also explored, revealing their quirks, interests, and values.\n3. **Keywords**: Dean's Household, Social Gatherings, Minster Spire, Family Dynamics, Humor",
+      "is_seed": false,
+      "expand_score": 0.7959067225456238
+    },
+    {
+      "community_key": "Novel-10321_223",
+      "summary": "1. **Title**: Duel and Deception\n2. **Summary**: The text chunks revolve around a series of events involving Rudolph, Heywood, and other characters, including a potential duel with Doctor Chantel. The narrative explores themes of honor, deception, and loyalty, as the characters navigate complex relationships and confront their own weaknesses. The story is set against a backdrop of social unrest and impending trouble, with hints of external conflicts and internal power struggles. Throughout the chunks, the characters' interactions and dialogue reveal their personalities, motivations, and values, adding depth to the narrative.\n3. **Keywords**: Duel, Deception, Loyalty, Honor, Conflict",
+      "is_seed": false,
+      "expand_score": 0.794482946395874
+    },
+    {
+      "community_key": "Novel-10146_186",
+      "summary": "1. **Historical Accounts**\n2. **Summary**: The text chunks discuss historical events and personal experiences from the 19th century, including the panic of 1857, the Civil War, and the development of hotels in St. Paul. The accounts also touch on education and spelling competitions in rural Pennsylvania. The narratives are descriptive and nostalgic, providing insight into life in the United States during that era. The stories are intertwined with themes of perseverance, intellectual curiosity, and community. The historical context is rich in detail, with references to significant events and figures of the time.\n3. **Keywords**: History, 19th Century, Education, Hotels, St. Paul",
+      "is_seed": false,
+      "expand_score": 0.7932347059249878
+    },
+    {
+      "community_key": "Novel-58553_49",
+      "summary": "1. **Title**: 19th Century American Life\n2. **Summary**: The provided text chunks describe various aspects of 19th century American life, including the experiences of women, the impact of the Civil War, and the struggles of individuals pursuing education and careers. The writings touch on themes of social justice, personal freedom, and the pursuit of knowledge. The authors express strong opinions on issues like slavery and women's rights, showcasing the tumultuous nature of the time period. The texts also provide glimpses into the daily lives of individuals, including their relationships, occupations, and personal struggles.\n3. **Keywords**: 19th Century America, Civil War, Women's Rights, Education, Social Justice",
+      "is_seed": false,
+      "expand_score": 0.7877124547958374
+    },
+    {
+      "community_key": "Novel-47558_13",
+      "summary": "1. **Title**: Historical American Frontier\n2. **Summary**: The given text chunks appear to be excerpts from a historical novel or narrative about the American frontier, specifically focusing on the regions of Kentucky, Arkansas, and the Mississippi River. The stories touch on themes of conflict, settlement, and daily life in the early days of American history, including interactions with Native American tribes, steam navigation, and the establishment of wood yards. The narrative also explores the characters and experiences of individuals living in these areas, such as Tom Fairfield, Don and Dan Carlo, and others. The text weaves together elements of history, adventure, and social commentary, providing a glimpse into the lives of people in the American frontier during the 18th and 19th centuries.\n3. **Keywords**: American Frontier, Kentucky, Mississippi River, Steam Navigation, Settlement",
+      "is_seed": false,
+      "expand_score": 0.7865447402000427
+    },
+    {
+      "community_key": "Novel-10762_60",
+      "summary": "1. **Title**: Social Commentary on Human Nature\n2. **Summary**: The given text chunks revolve around the themes of social commentary, human nature, and the consequences of one's actions. The narrative explores the life of Merman, a man who feels ill-used by the world and has become embittered by the scorn and unfairness he perceives. His obsession with his ideas, particularly the Magicodumbras and Zuzumotzis, has led to his social and professional downfall. The text also touches on the idea that people often show more reverence and gratitude to the past and future generations than to their contemporaries. The author reflects on the human tendency to indulge in bitterness and the importance of understanding and empathy in human relationships.\n3. **Keywords**: Social Commentary, Human Nature, Bitterness, Empathy, Contemporaries",
+      "is_seed": false,
+      "expand_score": 0.7825109958648682
+    },
+    {
+      "community_key": "Novel-47558_35",
+      "summary": "1. **Title**: Life in 19th Century Kentucky\n2. **Summary**: The text chunks describe life in 19th century Kentucky, focusing on the experiences of characters such as Tom Fairfield, Don Carlo, and Aunt Katy. The stories touch on themes of family, religion, and social class, providing a glimpse into the daily lives and struggles of people living in Kentucky during this time period. The characters face various challenges, including poverty, illness, and personal struggles, but also find joy and community in their relationships and faith. The text also mentions historical events and cultural practices, such as the \"jerks\" phenomenon in church services and the importance of navigation on the Ohio river.\n3. **Keywords**: Kentucky, 19th century, family, religion, social class",
+      "is_seed": false,
+      "expand_score": 0.7816785573959351
+    },
+    {
+      "community_key": "Novel-41603_245",
+      "summary": "1. **Title**: Forest Friends and Adventures\n2. **Summary**: The text chunks describe the adventures of a group of forest friends, including a bear named Bruin, a boy named Toto, and various other animals. They help a sick hermit and his crow, deal with troublesome mice, and have encounters with other forest creatures. The stories are filled with humor, kindness, and a sense of community among the animals. The friends work together to solve problems and help those in need, showcasing their compassion and empathy. The tales also highlight the unique personalities and quirks of each character, adding to the richness and diversity of the forest community.\n3. **Keywords**: Forest, Animals, Friendship, Adventure, Community",
+      "is_seed": false,
+      "expand_score": 0.7804579734802246
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-4128_37",
+      "Novel-4128_52",
+      "Novel-4128_24",
+      "Novel-4128_39",
+      "Novel-4128_68",
+      "Novel-4128_60",
+      "Novel-4128_28",
+      "Novel-4128_79",
+      "Novel-4128_31",
+      "Novel-4128_34",
+      "Novel-2544_111",
+      "Novel-2544_184",
+      "Novel-5956_97",
+      "Novel-40700_3",
+      "Novel-25646_14"
+    ],
+    "expanded_community_keys": [
+      "Novel-40700_102",
+      "Novel-10762_163",
+      "Novel-2544_174",
+      "Novel-5956_97",
+      "Novel-2544_184",
+      "Novel-47558_27",
+      "Novel-2544_238",
+      "Novel-10762_204",
+      "Novel-4128_22",
+      "Novel-10321_158",
+      "Novel-2544_50",
+      "Novel-40700_104",
+      "Novel-10321_223",
+      "Novel-10146_186",
+      "Novel-58553_49",
+      "Novel-47558_13",
+      "Novel-10762_60",
+      "Novel-47558_35",
+      "Novel-41603_245"
+    ],
+    "all_community_keys": [
+      "Novel-4128_37",
+      "Novel-4128_52",
+      "Novel-4128_24",
+      "Novel-4128_39",
+      "Novel-4128_68",
+      "Novel-4128_60",
+      "Novel-4128_28",
+      "Novel-4128_79",
+      "Novel-4128_31",
+      "Novel-4128_34",
+      "Novel-2544_111",
+      "Novel-2544_184",
+      "Novel-5956_97",
+      "Novel-40700_3",
+      "Novel-25646_14",
+      "Novel-40700_102",
+      "Novel-10762_163",
+      "Novel-2544_174",
+      "Novel-47558_27",
+      "Novel-2544_238",
+      "Novel-10762_204",
+      "Novel-4128_22",
+      "Novel-10321_158",
+      "Novel-2544_50",
+      "Novel-40700_104",
+      "Novel-10321_223",
+      "Novel-10146_186",
+      "Novel-58553_49",
+      "Novel-47558_13",
+      "Novel-10762_60",
+      "Novel-47558_35",
+      "Novel-41603_245"
+    ],
+    "allowed_chunk_pool_size": 588,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

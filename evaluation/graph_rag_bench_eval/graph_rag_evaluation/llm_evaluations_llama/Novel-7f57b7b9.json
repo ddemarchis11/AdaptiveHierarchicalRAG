@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7f57b7b9",
+  "question": "As described in the narrative about the mining excitement in New Mexico, what is the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the location of the Perche district?",
+  "gold_answer": "The Mimbres Mountains are part of the Rocky Mountain range and run parallel to the Rio Grande; the forks of the Perche River are in the Mimbres Mountains. The Perche district is located in New Mexico. Hillsboro is located near the Perche River.",
+  "llm_answer": "I cannot find any information about the mining excitement in New Mexico in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide any relevant information about the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the Perche district. Additionally, the retrieved context does not contain relevant information to support the answer, but the model does not use internal knowledge to answer correctly either."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6c255c33",
+  "question": "What is the title of the literary work that C. A. S. HALL, also known as Angeline Hall, read during her intellectual pursuits later in life?",
+  "gold_answer": "C. A. S. HALL read Prometheus Bound.",
+  "llm_answer": "Unfortunately, the provided text does not explicitly mention the title of the literary work that Angeline Hall read during her intellectual pursuits later in life. However, it does mention that she entered with great earnestness into the composition of essays for the Historical Society, and that one of her thoughts was inspired by Galileo and the principle of light.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not correctly identify the title of the literary work 'Prometheus Bound,' as stated in the Gold Answer. While the Model Answer is faithful to the retrieved context, it fails to address the specific question and misses the key fact entirely."
+  }
+}

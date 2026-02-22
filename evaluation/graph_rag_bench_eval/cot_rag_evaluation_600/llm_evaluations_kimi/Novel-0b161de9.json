@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0b161de9",
+  "question": "What are the key events that define the life and relationships of Suza Fairfield in 'Pen Pictures'? Please include how she was raised and educated by Aunt Katy Demitt, her engagement to Don Carlo, and her role as the belle of Port William.",
+  "gold_answer": "Suza Fairfield was raised and educated by Aunt Katy Demitt, was engaged to be married to Don Carlo, and was the belle of Port William.",
+  "llm_answer": "Key events defining Suza Fairfield’s life and relationships in *Pen Pictures*:\n\n1. **Raising and education by Aunt Katy Demitt**  \n   After her father Tom Fairfield’s death, the orphaned Suza (the baby of three sisters) is chosen and adopted by Aunt Katy Demitt, who declares that Suza “should never leave her house until she left it as a free woman.” Aunt Katy rears and educates her in Port William.\n\n2. **Role as the belle of Port William**  \n   Suza becomes “the belle of Port William,” attracting “a number of suitors” yet refusing to leave Aunt Katy’s house as a free woman.\n\n3. **Engagement to Don Carlo**  \n   Suza is identified as the girl who once saved Don Carlo from drowning. Following a camp-meeting encounter, Don and Suza ride home together and are soon “engaged to be married,” becoming “the neighborhood talk.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the key events defining Suza Fairfield's life and relationships as described in the Gold Answer. It includes her upbringing and education by Aunt Katy Demitt, her role as the belle of Port William, and her engagement to Don Carlo. The additional details provided, such as Suza saving Don Carlo and Aunt Katy's declaration about Suza's freedom, are relevant, supported by the retrieved context, and enhance the understanding of the narrative without contradicting the core facts."
+  }
+}

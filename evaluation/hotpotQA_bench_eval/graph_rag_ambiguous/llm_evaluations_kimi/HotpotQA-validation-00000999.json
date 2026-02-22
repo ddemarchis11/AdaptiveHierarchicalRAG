@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000999",
+  "question": "What is the common performative action shared between a traditional music style of a Southern African people and a single-stringed instrument fashioned from a curved piece of wood?",
+  "gold_answer": "played",
+  "llm_answer": "Both the Ovambo people’s traditional dancing—done to drumming—and the ahardin musical bow are performed by solo players who use hand gestures to create rhythm and melody: the Ovambo dancer moves to the drum while the ahardin player plucks and stops the string with her fingers.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed comparison of performative actions but introduces unsupported claims about Ovambo traditional dancing being performed by solo players and using hand gestures, which are not grounded in the retrieved context. While it correctly identifies 'playing' as the shared action, it misses the simplicity of the Gold Answer and adds speculative details not supported by the context."
+  }
+}

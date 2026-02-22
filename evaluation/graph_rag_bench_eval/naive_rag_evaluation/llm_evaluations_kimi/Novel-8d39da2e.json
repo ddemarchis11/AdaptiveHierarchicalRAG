@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8d39da2e",
+  "question": "At which venue did Samuel Pepys observe the Duke of York during his attendance at a performance?",
+  "gold_answer": "The Duke of York was at the Opera.",
+  "llm_answer": "Samuel Pepys observed the Duke of York at the Theatre during a performance of *The Joviall Crew*.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the Duke of York was at the Opera, while the Model Answer claims he was at the Theatre during a performance of 'The Joviall Crew.' The retrieved context does not provide evidence to support either claim definitively, but the Model Answer contradicts the Gold Answer and is not grounded in the provided context."
+  }
+}

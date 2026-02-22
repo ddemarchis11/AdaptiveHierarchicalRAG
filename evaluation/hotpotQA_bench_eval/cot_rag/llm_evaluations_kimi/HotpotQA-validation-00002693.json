@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002693",
+  "question": "Myron F. Diduryk's exploits were described in a book by an author holding what military rank?",
+  "gold_answer": "lieutenant general",
+  "llm_answer": "General",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer states 'General,' which is partially correct but lacks the specificity of 'Lieutenant General' as provided in the Gold Answer. The Retrieved Context explicitly mentions 'General Hal Moore,' but does not specify his rank as 'Lieutenant General,' making the Model Answer unfaithful to the context. Additionally, the Model Answer does not fully cover the specific rank mentioned in the Gold Answer."
+  }
+}

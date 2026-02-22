@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2ac8ec4",
+  "question": "Within the context of Aunt Patsy Perkins's family in the novel, what is Jim's relationship to Aunt Patsy's dear brother, who was buried in Indiana?",
+  "gold_answer": "Jim is the son of Aunt Patsy's dear brother, who was buried in Indiana.",
+  "llm_answer": "Jim is the son of Aunt Patsy's dear brother.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Jim as the son of Aunt Patsy's dear brother, which is consistent with the Gold Answer and fully supported by the Retrieved Context. The answer is concise but contains all necessary information without adding unsupported details."
+  }
+}

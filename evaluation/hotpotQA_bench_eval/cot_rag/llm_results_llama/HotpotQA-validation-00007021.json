@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007021",
+  "question": "Erving Goffman was cited as higher than a literary critic on which guide?",
+  "gold_answer": "The Times Higher Education Guide",
+  "llm_answer": "The Times Higher Education Guide listed Erving Goffman as the sixth most-cited author in the humanities and social sciences in 2007.",
+  "context": [
+    {
+      "text": "Erving Goffman (11 June 1922 – 19 November 1982) was a Canadian-born American sociologist , social psychologist , and writer, considered by some \"the most influential American sociologist of the twentieth century\". In 2007, The Times Higher Education Guide listed him as the sixth most-cited author of books in the humanities and social sciences . Goffman was the 73rd president of the American Sociological Association . His best-known contribution to social theory is his study of symbolic interaction . This took the form of dramaturgical analysis , beginning with his 1956 book The Presentation of Self in Everyday Life . Goffman's other major works include Asylums (1961), Stigma (1963), Interaction Ritual (1967), Frame Analysis (1974), and Forms of Talk (1981). His major areas of study included the sociology of everyday life , social interaction , the social construction of self, social organization ( framing ) of experience, and particular elements of social life such as total institutions and stigmas . Early life and education Goffman was born 11 June 1922, in Mannville, Alberta , Canada, to Max Goffman and Anne Goffman, née Averbach. He was from a family of Ukrainian Jews who had emigrated to Canada at the turn of the nineteenth century. He had an older sister, Frances Bay , who became an actress. The family moved to",
+      "id": "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_0"
+    },
+    {
+      "text": ". Verhoeven, J (1993). \"An interview with Erving Goffman\" (PDF) . Research on Language and Social Interaction . 26 (3): 317– 348. doi : 10.1207/s15327973rlsi2603_5 . Archived from the original (PDF) on 22 September 2017 . Retrieved 20 April 2018 . Verhoeven, J (1993). \"Backstage with Erving Goffman: The context of the interview\" . Research on Language and Social Interaction . 26 (3): 307– 331. doi : 10.1207/s15327973rlsi2603_4 . External links Wikiquote has quotations related to Erving Goffman . Algazi, Gadi. \"Erving Goffman: A Bibliography,\" Department of History, Tel Aviv University Brackwood, B. Diane. (1997). \"Erving Goffman,\" Magill's Guide to 20th Century Authors . Pasadena, CA: Salem Press. Cavan, Sherri. \"When Erving Goffman Was a Boy: The Formative Years of a Sociological Giant\" Symbolic Interaction v37 n1 pp. 41–70 (Feb. 2014) Dear Habermas (weekly journal), \"Articles on Goffman,\" Archived 11 January 2007 at the Wayback Machine California State University, Dominguez",
+      "id": "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_26"
+    },
+    {
+      "text": "(weekly journal), \"Articles on Goffman,\" Archived 11 January 2007 at the Wayback Machine California State University, Dominguez Hills . A listing of further reading and online resources. Delaney, Michael. \"Erving Goffman: Professional and Personal Timeline,\" University of Nevada Las Vegas Teuber, Andreas. \"Erving Goffman Biography,\" Brandeis University \"Erving Goffman Archives\" University of Nevada Las Vegas On Cooling the Mark Out: Some Aspects of Adaptation to Failure (1952), Erving Goffman Communication conduct in an island community (1953), Erving Goffman",
+      "id": "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_27"
+    },
+    {
+      "text": "particular social class and that the definitions of the situations they will encounter have already been defined for them. For instance. when an individual from an upper-class background goes to a black-tie affair, the definition of the situation is that they must mind their manners and act according to their class. In 2007 by The Times Higher Education Guide listed Goffman as the sixth most-cited author in the humanities and social sciences , behind Michel Foucault , Pierre Bourdieu , and Anthony Giddens , and ahead of Jürgen Habermas . His popularity with the general public has been attributed to his writing style, described as \"sardonic, satiric, jokey\", and as \"ironic and self-consciously literary\", and to its being more accessible than that of most academics. His style has also been influential in academia, and is credited with popularizing a less formal style in academic publications. Interestingly, if he is rightly so credited, he may by this means have contributed to a remodelling of the norms of academic behaviour, particularly of communicative action, arguably liberating intellectuals from social restraints unnatural to some of them. His students included Carol Brooks Gardner, Charles Goodwin , Marjorie Harness Goodwin , John Lofland , Gary T. Marx , Harvey Sacks , Emanuel Schegloff , David Sudnow and Eviatar Zerubavel . Despite his influence, according to Fine and Manning there are \"remarkably few",
+      "id": "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7"
+    },
+    {
+      "text": ". Further reading Dirda, Michael (2010). \"Waiting for Goffman\", Lapham's Quarterly (Vol 3 No 4). ISSN 1935-7494 Ditton, Jason (1980). The View of Goffman , New York:St. Martin's Press ISBN 978-0-312-84598-8 Drew, Paul; Anthony J. Wootton (1988). Erving Goffman: Exploring the Interaction Order . Polity Press. ISBN 978-0-7456-0393-3 . Goffman, Erving; Lemert, Charles; Branaman, Ann (1997). The Goffman reader . Wiley-Blackwell. ISBN 978-1-55786-894-7 . Manning, Philip (1992). Erving Goffman and Modern Sociology . Stanford University Press. ISBN 978-0-8047-2026-7 . Raab, Jürgen (2019). Erving Goffman. From the Perspective of the New Sociology of Knowledge . Routledge. ISBN 978-1-138-36451-6 . Scheff, Thomas J. (2006). Goffman unbound!: a new paradigm for social science . Paradigm Publishers. ISBN 978-1-59451-195-0 . Verhoeven, J (1993). \"An interview with Erving Goffman\"",
+      "id": "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_25"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Erving Goffman was listed as the sixth most-cited author in the humanities and social sciences by The Times Higher Education Guide in 2007 (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7).\n- The guide ranked him behind Michel Foucault, Pierre Bourdieu, and Anthony Giddens, and ahead of Jürgen Habermas (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7).\n- The question asks for the guide that listed Goffman as higher than a literary critic (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_0).\n- The guide that listed Goffman as the sixth most-cited author is the same guide that listed him as higher than a literary critic (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7).\n- The guide is The Times Higher Education Guide (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7).\n- The guide is the answer to the question (HotpotQA-validation-00007021/00_Erving-Goffman.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Erving Goffman was cited as higher than a literary critic on which guide?",
+      "doc_ids": [
+        "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_0",
+        "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_26",
+        "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_27",
+        "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_7",
+        "HotpotQA-validation-00007021/00_Erving-Goffman.html_c_25"
+      ]
+    }
+  ]
+}

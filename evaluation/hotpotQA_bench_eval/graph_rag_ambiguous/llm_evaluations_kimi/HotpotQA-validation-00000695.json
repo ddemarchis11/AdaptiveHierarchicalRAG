@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000695",
+  "question": "At the Grammy ceremony held in 2004, which award category did the album containing the riff-driven anthem that became a global football chant go on to win?",
+  "gold_answer": "Best Alternative Music Album",
+  "llm_answer": "At the 46th Annual Grammy Awards held in 2004, the album *Elephant*—which contains the riff-driven anthem \"Seven Nation Army\"—won the Grammy Award for Best Rock Song.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the award category as Best Rock Song, whereas the Gold Answer specifies Best Alternative Music Album. The retrieved context does not support the claim made by the Model Answer, and it fails to include the correct factual point from the Gold Answer."
+  }
+}

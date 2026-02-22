@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5f5a35d2",
+  "question": "With which stringed instrument is the fiddle-bow used to produce sound during musical performances?",
+  "gold_answer": "The fiddle is played with a fiddle-bow.",
+  "llm_answer": "The fiddle-bow is used with the Welsh *crwth* (also called *crowd*), a stringed instrument resembling a fiddle, to produce sound during musical performances.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer identifies the fiddle-bow as being used with the Welsh crwth, which is a stringed instrument resembling a fiddle. However, the Gold Answer specifies the fiddle itself as the instrument played with a fiddle-bow, and the context does not explicitly support the claim about the crwth being played with a fiddle-bow. Thus, the answer is partially correct but not faithful to the retrieved context, and it misses the central factual point about the fiddle."
+  }
+}

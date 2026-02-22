@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00003047",
+  "question": "What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?",
+  "gold_answer": "Teamsters leader",
+  "llm_answer": "The evidence states that the 1992 film *Hoffa* starred Danny DeVito and Jack Nicholson. Therefore, Jack Nicholson played Jimmy Hoffa in that French-American biographical crime film.",
+  "context": [
+    {
+      "text": "Batman is a 1989 superhero film based on the DC Comics character , created by Bob Kane and Bill Finger . Directed by Tim Burton , it is the first installment of Warner Bros. ' initial Batman film series . The film stars Jack Nicholson , Michael Keaton , Kim Basinger , Robert Wuhl , Pat Hingle , Billy Dee Williams , Michael Gough , and Jack Palance . The film's score was composed by Danny Elfman , and songs were written by Prince . The film takes place early in the war on crime of the title character (Keaton) and depicts his conflict with his archenemy the Joker (Nicholson). After Burton was hired as director in 1986, Steve Englehart and Julie Hickson wrote film treatments before Sam Hamm wrote the first screenplay. Batman was not greenlit until after the success of Burton's Beetlejuice (1988). The tone and themes of the film were partly influenced by Alan Moore and Brian Bolland 's The Killing Joke and Frank Miller 's The Dark Knight Returns . The film primarily adapts and then diverges from the \" Red Hood \" origin story for the Joker, having Batman inadvertently cause gangster Jack Napier to fall into Axis Chemical acid, triggering his transformation into the psychotic Joker. Additionally, Batman co-creator Bob Kane worked as a consultant for the film. Numerous leading men were considered for the role of Batman before Keaton was cast. Keaton's casting was controversial since, by",
+      "id": "HotpotQA-validation-00001144/00_Batman-1989-film.html_c_0"
+    },
+    {
+      "text": "Goin' South is a 1978 American western comedy film directed by and starring Jack Nicholson , with Mary Steenburgen , Christopher Lloyd , John Belushi , Richard Bradford , Veronica Cartwright , Danny DeVito and Ed Begley Jr. Plot Henry Lloyd Moon is a third-rate outlaw in the late 1860s; a convicted bank robber, horse thief and cattle thief. He is sentenced to be hanged in Longhorn, Texas to the glee of the locals who gather to watch his execution. A local ordinance dictates that a man convicted of any crime other than murder may be freed, if a lady will marry him and take responsibility for his good behavior. Well aware of the ordinance, many of the townswomen scrutinize Moon as he mounts the gallows. An elderly woman offers to marry him, but dies on the spot immediately. As Moon is dragged back to the gallows, Julia Tate—a headstrong, genteel virgin from the Southern United States—agrees to marry and take charge of him. She weds Moon, intending only to use him as labor in a secret gold mine under her property. This slowly evolves into a shaky partnership as he gains her trust, then develops into much more. Her chastity and his desire to consummate the marriage become a source of friction. Although they do spend the night together in a cave, she regrets her decision the following morning, and yells at Moon. In anger, Moon ties her to the bed and",
+      "id": "HotpotQA-validation-00003047/03_Goin-South.html_c_0"
+    },
+    {
+      "text": "Tanner Museum in the series premiere of the short-lived 2006 CBS television drama Smith starring Ray Liotta and Amy Smart . The 1990 film Citizen Cohn starring James Woods used the exterior to depict 1960s-era Washington, D.C. The 1992 film Hoffa starring Danny DeVito and Jack Nicholson filmed on location to depict Federal Courthouses and other government buildings. The 1992 film Lorenzo's Oil shows an interior shot of a lecture hall in Mellon Institute. The 2002 film The Mothman Prophecies starring Richard Gere depicted the building as a fictional institute for paranormal studies in Chicago. The 2012 film The Dark Knight Rises starring Christian Bale filmed on location to depict \"Gotham City Hall\". References Fenton, Edwin (2000). Carnegie Mellon 1900–2000: A Centennial History . Pittsburgh: Carnegie Mellon University Press. ISBN 0-88748-323-2 . External links Wikimedia Commons has media related to Mellon Institute . Mellon College of Science Mellon Institute architecture (archived) Documentary on the construction of the Mellon Institute 1987 news feature on Institute's history",
+      "id": "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3"
+    },
+    {
+      "text": "Stanley Kubrick , who was impressed by his performance in Easy Rider , cast Nicholson as Napoleon in a film about his life, and although production on the film commenced, the project fizzled out , partly due to a change in ownership at MGM. 1970–1989: Stardom and acclaim In 1970, Nicholson starred in Five Easy Pieces alongside Karen Black in what became his persona-defining role. Nicholson and Black were nominated for Academy Awards for their performances. Nicholson played Bobby Dupea, an oil rig worker, and Black played his waitress girlfriend. Black noted that Nicholson's character in the film was very subdued and very different from Nicholson's real personality. She said that the now-infamous restaurant scene was partly improvised by Nicholson, and was out of character for Bobby, who would not have cared enough to argue with a waitress. \"I think that Jack really has very little in common with Bobby. I think Bobby has given up looking for love. But Jack hasn't, he's very interested in love, in finding out things. Jack is a very curious, alive human being. Always ready for a new idea.\" Nicholson himself said as much, telling an interviewer, \"I like listening to everybody. This to me is the elixir of life.\" There is James Cagney , Spencer Tracy , Humphrey Bogart , and Henry Fonda . After that, who is there but Jack Nicholson? — Mike Nichols , director Black later admitted that she had a crush on",
+      "id": "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_7"
+    },
+    {
+      "text": "Mars Attacks! is a 1996 American science fiction black comedy film directed by Tim Burton , who also co-produced it with Larry J. Franco . The screenplay by Jonathan Gems was based on the Topps trading card series of the same name . The film features an ensemble cast consisting of Jack Nicholson (in a dual role ), Glenn Close , Annette Bening , Pierce Brosnan , Lukas Haas , Sarah Jessica Parker , Martin Short , Michael J. Fox , Rod Steiger , Tom Jones , Natalie Portman , Jim Brown , Danny DeVito , Lisa Marie , and Sylvia Sidney in her final film role. Alex Cox had tried to make a Mars Attacks film in the 1980s before Burton and Gems began development in 1993. When Gems turned in his first draft in 1994, Warner Bros. commissioned rewrites from Gems, Burton, and Scott Alexander and Larry Karaszewski in an attempt to lower the budget to $60 million. The final production budget came to $80 million, while Warner Bros. spent another $20 million on the Mars Attacks! marketing campaign. Filming took place from February to June 1996. The film was shot in California , Nevada , Kansas , Arizona , and Argentina . [ not verified in body ] The filmmakers hired Industrial Light & Magic to create the Martians using computer animation after their previous plan to use stop motion supervised by Barry Purves fell through because of budget and time limitations. Mars Attacks! was released",
+      "id": "HotpotQA-validation-00003047/02_Mars-Attacks.html_c_0"
+    },
+    {
+      "text": "performance! And what it says to a lot of the other actors is, 'Oooooh, I better get on my game here because this guy's coming to play! So I can't hold back; I've got to come up to him.' He sets the tone.\" In 1996, Nicholson collaborated once more with Batman director Tim Burton on Mars Attacks! , pulling double duty as two contrasting characters, President James Dale and Las Vegas property developer Art Land. Not all of Nicholson's performances have been well received. He was nominated for Razzie Awards as worst actor for Man Trouble (1992) and Hoffa (1992). But his performance in Hoffa also earned him a Golden Globe nomination. David Thomson states that the film was terribly neglected, since Nicholson portrayed one of his best screen characters, someone who is \"snarly, dumb, smart, noble, rascally—all the parts of 'Jack'\". Roger Ebert also praised his performance writing, \"Nicholson is an actor who can reflect almost anything in his face. One reason his performance is so good as Hoffa is that he reveals almost nothing.\" Nicholson in 2002 Nicholson won his next Academy Award for Best Actor in the romantic comedy As Good as It Gets (1997), his third film directed by James L. Brooks . He played Melvin Udall, a \"wickedly funny\", mean-spirited novelist with obsessive-compulsive disorder . \"I'm a studio Method actor \",",
+      "id": "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_20"
+    }
+  ],
+  "cot_scratchpad": "- 1992 film Hoffa is French-American biographical crime film directed by Danny DeVito (HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3).\n- Jack Nicholson stars in Hoffa (HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3).\n- Need to find Jack Nicholson's character's job in Hoffa.\n- Hoffa (1992) is the French-American biographical crime film directed by Danny DeVito (HotpotQA-validation-00000352/02).\n- Jack Nicholson stars in Hoffa (HotpotQA-validation-00000352/02).\n- Need his character's job/role in Hoffa.\n- 1992 film Hoffa is biographical crime film directed by Danny DeVito (HotpotQA-validation-00000352/02).\n- Jack Nicholson plays Jimmy Hoffa in Hoffa (HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_20).\n- Need Jimmy Hoffa's job/occupation as depicted in the film.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?",
+      "doc_ids": [
+        "HotpotQA-validation-00001144/00_Batman-1989-film.html_c_0",
+        "HotpotQA-validation-00003047/03_Goin-South.html_c_0",
+        "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_7",
+        "HotpotQA-validation-00003047/02_Mars-Attacks.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Jack Nicholson role job Hoffa",
+      "doc_ids": [
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_20",
+        "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_7",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_34",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_16"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Jack Nicholson character Hoffa job",
+      "doc_ids": [
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_20",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_7",
+        "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_c_3",
+        "HotpotQA-validation-00003047/03_Goin-South.html_c_4",
+        "HotpotQA-validation-00003047/01_Jack-Nicholson.html_c_34"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006248",
+  "question": "In what county did Michael Ola attend high school?",
+  "gold_answer": "Clayton County, Georgia, United States",
+  "llm_answer": "Insufficient evidence to determine the county where Michael Ola attended high school.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to determine the county where Michael Ola attended high school. The Retrieved Context explicitly mentions that Michael Ola attended Riverdale High School in Riverdale, Georgia, which is located in Clayton County. The Model Answer fails to provide the correct information and does not align with the context."
+  }
+}

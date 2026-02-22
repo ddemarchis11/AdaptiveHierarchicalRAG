@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e57f27f",
+  "question": "In the story, Eily expresses a desire to possess wealth greater than the Countess o' Kilmoggen and specifically wishes for diamonds and pearls to drop from her mouth whenever she speaks. What evidence from the events and Eily's own words shows that she aspired to be wealthy?",
+  "gold_answer": "Eily wanted to be richer than the Countess o' Kilmoggen, wished for diamonds and pearls, and talked about diamonds and pearls.",
+  "llm_answer": "Eily’s longing for riches is stated plainly in her own excited words:  \n“Sure I have it… it’s the di’monds and pearrls I’ll have… Whiniver she opened her lips… a di’mond an’ a pearrl… dhropped from her mouth… Sure I’d be richer than the Countess o’ Kilmoggen hersilf… be the time I’d talked for an hour.”  \n\nEverything that follows—her delight when the jewels actually tumble out, her vision of the fortune she will amass by simply talking, and her final departure “with her apron full of pearls and diamonds”—confirms that this wish for boundless wealth is exactly what she had aspired to.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Eily's desire for wealth, referencing her explicit wish for diamonds and pearls to drop from her mouth and her aspiration to be richer than the Countess o' Kilmoggen. It is fully supported by the retrieved context, which includes Eily's dialogue and actions confirming her longing for riches. The Model Answer also covers all key facts from the Gold Answer, including her wish for diamonds and pearls and her aspiration for wealth."
+  }
+}

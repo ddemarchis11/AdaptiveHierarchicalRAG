@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000591",
+  "question": "A 1952 Western film set around a mountainous landmark follows the efforts of a band of irregular cavalry raiders fighting for which side of the American Civil War?",
+  "gold_answer": "pro-Confederate",
+  "llm_answer": "The answer cannot be determined with certainty from the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states 'pro-Confederate,' which is supported by the retrieved context mentioning Quantrill's Raiders as pro-Confederate guerrillas. The Model Answer incorrectly claims the answer cannot be determined, despite the context providing clear evidence. This results in a failure in correctness, faithfulness, and evidence coverage."
+  }
+}

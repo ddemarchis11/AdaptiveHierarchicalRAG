@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001746",
+  "question": "A modern card game shares with a British card game dating back to the sixteenth century the notable characteristic of having no wagering element — what is the older game?",
+  "gold_answer": "In Crash, there is no betting, as in Brag",
+  "llm_answer": "The older game is not specified in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to identify the older game, which is Brag, as stated in the Gold Answer and supported by the Retrieved Context. It incorrectly claims the older game is not specified, despite clear evidence in the context."
+  }
+}

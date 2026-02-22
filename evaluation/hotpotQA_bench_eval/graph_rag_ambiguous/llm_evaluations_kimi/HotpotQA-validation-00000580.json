@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000580",
+  "question": "The South Korean actress who works as a radio DJ and stars in a hotel-themed romantic series first gained wide recognition through which earlier television production?",
+  "gold_answer": "Queen In-hyun's Man",
+  "llm_answer": "She first came to wide notice in the 2009 MBC sitcom *High Kick Through the Roof*.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'High Kick Through the Roof' as the production through which Yoo In-na gained wide recognition, whereas the Gold Answer specifies 'Queen In-hyun's Man.' While the Model Answer is faithful to the context, it fails to align with the Gold Answer and misses the key fact entirely."
+  }
+}

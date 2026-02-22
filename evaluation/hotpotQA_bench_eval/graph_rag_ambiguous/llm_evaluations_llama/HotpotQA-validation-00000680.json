@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000680",
+  "question": "The American sitcom in which a young actor played an adopted child named 3J was itself a spin-off derived from which earlier comedy series about two mismatched European cousins sharing an apartment in Chicago?",
+  "gold_answer": "Perfect Strangers",
+  "llm_answer": "The American sitcom in which a young actor played an adopted child named 3J was Family Matters, which was a spin-off derived from the earlier comedy series Perfect Strangers.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Perfect Strangers' as the earlier comedy series from which 'Family Matters' was spun off. This is consistent with the Gold Answer and supported by the Retrieved Context, which explicitly states that 'Family Matters' was a spin-off of 'Perfect Strangers'. The Model Answer also includes the detail about 'Family Matters' being the sitcom where 3J appeared, which is relevant and accurate."
+  }
+}

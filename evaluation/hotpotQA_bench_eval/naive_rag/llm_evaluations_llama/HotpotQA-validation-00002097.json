@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002097",
+  "question": "Which genus has more species in it, Othonna or Stangeria?",
+  "gold_answer": "Othonna",
+  "llm_answer": "Based on the provided evidence, the genus with more species in it is Othonna. \n\nOthonna has approximately 90 species, while Stangeria has only 1 species, Stangeria eriopus.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Othonna as the genus with more species, aligning with the Gold Answer. It provides additional context by specifying the approximate number of species in Othonna (90) and confirming that Stangeria has only one species, which is supported by the retrieved context."
+  }
+}

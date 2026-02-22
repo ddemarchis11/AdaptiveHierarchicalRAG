@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f83e84a2",
+  "question": "To which professional association did Elsie Maud Inglis write, seeking support or collaboration during the organization of medical units?",
+  "gold_answer": "Elsie Maud Inglis wrote to the Registered Medical Women's Association.",
+  "llm_answer": "She wrote to the National Union of Women’s Suffrage Societies (N.U.W.S.S.).",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Elsie Maud Inglis wrote to the Registered Medical Women's Association, while the Model Answer incorrectly claims she wrote to the National Union of Women’s Suffrage Societies (N.U.W.S.S.). The retrieved context does not support the claim made by the Model Answer, nor does it provide evidence for the Gold Answer. Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

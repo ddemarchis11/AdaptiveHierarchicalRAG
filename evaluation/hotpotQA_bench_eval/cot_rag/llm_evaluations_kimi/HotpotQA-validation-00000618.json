@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000618",
+  "question": "Which North American tribe inhabited the banks of the Winnipesaukee River and were also known as the Pawtucket people?",
+  "gold_answer": "the Pennacook people",
+  "llm_answer": "The Winnipesaukee sub-tribe of the Pennacook people inhabited the banks of the Winnipesaukee River. The evidence does not mention the Pawtucket people in connection with the Winnipesaukee River, so it is insufficient to confirm that the same tribe was also known as the Pawtucket.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Pennacook people as inhabiting the banks of the Winnipesaukee River, which aligns with the Gold Answer. However, it does not explicitly confirm that the Pennacook were also known as the Pawtucket people, which is a key part of the Gold Answer. The Retrieved Context supports the Pennacook's presence near the Winnipesaukee River but does not provide explicit evidence linking them to the Pawtucket name, making the answer faithful to the context but incomplete in evidence coverage."
+  }
+}

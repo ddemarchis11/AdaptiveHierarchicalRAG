@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000507",
+  "question": "Which Oxford college, whose name derives from a medieval English saint, funds four senior academic positions spanning both natural sciences and abstract mathematics?",
+  "gold_answer": "Magdalen College",
+  "llm_answer": "Magdalen College. The college's name is pronounced like the adjective maudlin because the late medieval English name of Mary Magdalene was Maudelen, derived from the Old French Madelaine.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Magdalen College as the Oxford college in question, aligning with the Gold Answer. The pronunciation detail provided is accurate and supported by the context, adding relevant information without detracting from the core answer. All key facts from the Gold Answer are included."
+  }
+}

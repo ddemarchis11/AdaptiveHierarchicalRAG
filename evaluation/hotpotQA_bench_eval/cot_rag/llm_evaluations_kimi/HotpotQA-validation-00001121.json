@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001121",
+  "question": "What did the second First Lady to be born outside the United States or areas that would become part of the United States do before marrying?",
+  "gold_answer": "fashion model",
+  "llm_answer": "The evidence does not state what Louisa Adams did before marrying.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly addresses Louisa Adams instead of Melania Trump, who is the second First Lady born outside the United States. The Gold Answer specifies that Melania Trump was a fashion model before marrying, which is supported by the retrieved context. The Model Answer fails to provide the correct information and is not grounded in the context."
+  }
+}

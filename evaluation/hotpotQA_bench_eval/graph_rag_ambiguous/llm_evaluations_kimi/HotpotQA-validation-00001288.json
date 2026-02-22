@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001288",
+  "question": "Which role did the British actress known for her work at a south London fringe theatre take on earlier in her career — a character in a darkly comic anthology series set inside a confined space, or the role that made her a household name in a long-running London-set soap opera?",
+  "gold_answer": "Melanie Owen",
+  "llm_answer": "The role that made her a household name in a long-running London-set soap opera—Mel Owen in EastEnders.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the role of Mel Owen in EastEnders as the one that made the actress a household name, which aligns with the Gold Answer. The information is supported by the retrieved context, which explicitly mentions Tamzin Outhwaite's portrayal of Mel Owen in EastEnders. All key facts from the Gold Answer are included."
+  }
+}

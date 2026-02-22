@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfecbf96",
+  "question": "In which city was the Minnehaha Engine Company, one of the key volunteer fire organizations, based according to the historical account?",
+  "gold_answer": "Minnehaha Engine Company was in St. Paul.",
+  "llm_answer": "The city where the Minnehaha Engine Company was based is not explicitly stated in the provided evidence.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that the Minnehaha Engine Company was based in St. Paul, and this is supported by the Retrieved Context, which repeatedly references the St. Paul fire department and its connection to the Minnehaha Engine Company. The Model Answer incorrectly claims that the city is not explicitly stated, which is both incorrect and unfaithful to the context."
+  }
+}

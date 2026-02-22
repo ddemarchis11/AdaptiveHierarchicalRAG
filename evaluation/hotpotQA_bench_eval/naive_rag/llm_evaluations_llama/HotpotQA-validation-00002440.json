@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002440",
+  "question": "What are the letters of the radio station serves the area comprising all of Belknap County, among others?",
+  "gold_answer": "WANH",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states 'Insufficient evidence to answer the question,' which is incorrect. The retrieved context explicitly mentions WANH as a radio station serving the Lakes Region, which includes all of Belknap County. The Model Answer fails to provide the correct information despite it being present in the context."
+  }
+}

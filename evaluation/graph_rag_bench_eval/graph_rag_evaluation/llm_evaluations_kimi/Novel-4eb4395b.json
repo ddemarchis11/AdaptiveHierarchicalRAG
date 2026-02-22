@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4eb4395b",
+  "question": "Who was a contending candidate to become the foster parent of Roxie Fairfield after the separation of the Fairfield sisters?",
+  "gold_answer": "Aunt Fillis Foster was a contending candidate for Roxie.",
+  "llm_answer": "The context does not name any contending candidate to become Roxie Fairfield’s foster parent after the Fairfield sisters were separated; it only mentions that Roxie was raised by “aunt Patsey Perkins” and gives no information about rival guardians.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not name any contending candidate for Roxie's foster parent. The Gold Answer specifies Aunt Fillis Foster as a contending candidate, which is supported by the retrieved context mentioning Aunt Fillis's relationship with Roxie. The Model Answer fails to address this and provides an incorrect interpretation of the context."
+  }
+}

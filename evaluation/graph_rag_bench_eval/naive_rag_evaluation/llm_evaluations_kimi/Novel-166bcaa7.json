@@ -1,0 +1,12 @@
+{
+  "id": "Novel-166bcaa7",
+  "question": "In the operation of soaking pits for steel ingots, what is the composition of the gas that fills the pits during the soaking process, and which specific gases are identified as being present according to the description in the novel?",
+  "gold_answer": "The gas used in the soaking pits is composed of hydrogen, carbonic oxide, and nitrogen.",
+  "llm_answer": "The gas that fills the soaking pits is composed of hydrogen, nitrogen, and carbonic oxide (carbon monoxide).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the composition of the gas as hydrogen, nitrogen, and carbonic oxide, which matches the Gold Answer and is fully supported by the Retrieved Context. It also includes the clarification that carbonic oxide is carbon monoxide, which is accurate and relevant."
+  }
+}

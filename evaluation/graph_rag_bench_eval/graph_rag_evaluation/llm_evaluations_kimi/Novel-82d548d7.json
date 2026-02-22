@@ -1,0 +1,12 @@
+{
+  "id": "Novel-82d548d7",
+  "question": "Drawing from Augustus Le Plongeon's analysis in 'Vestiges of the Mayas,' what evidence is presented for connections between the Mayas and the Egyptians, and what relationships or comparisons are described between the Mayas and the civilizations of the Asiatic peninsulas?",
+  "gold_answer": "The Mayas had many customs and attainments identical to those of the Egyptians, were compared to the Egyptians, and had relations with Asiatic peninsulas.",
+  "llm_answer": "Le Plongeon cites shared religious symbols (sun worship, disk/serpent emblem), similar burial customs (grave goods, empty righteousness vase), parallel calendar systems (365-day solar years plus five unlucky days), and common architectural features (mud-brick terraced temples) as evidence of intimate communication or common origin between Mayas and Egyptians. Regarding Asiatic peninsulas, he argues the few shared religious lores and customs merely indicate some remote interchange of habits and beliefs rather than the Mayas having received their civilization from Asia; sculptural evidence shows Asiatic features at Copán and American features in Hindustani temples, suggesting only episodic contact.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing the connections between Mayas and Egyptians through shared customs, symbols, and attainments, as well as the relationships with Asiatic peninsulas through limited interchange of habits and beliefs. It provides additional relevant details supported by the Retrieved Context, such as burial customs, calendar systems, and architectural similarities, while also addressing the sculptural evidence for Asiatic and American features. All claims are grounded in the context, and the key facts from the Gold Answer are fully covered."
+  }
+}

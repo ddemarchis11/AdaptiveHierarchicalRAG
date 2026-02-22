@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1b8745a9",
+  "question": "To whom did Angeline Hall plead during a difficult financial and personal period in her marriage, as she and her husband faced hardship?",
+  "gold_answer": "Angeline pleaded with Asaph Hall.",
+  "llm_answer": "The evidence does not specify to whom Angeline Hall pleaded during a difficult financial and personal period in her marriage.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies that Angeline Hall pleaded with Asaph Hall, which is not addressed in the Model Answer. The Model Answer correctly states that the retrieved context does not provide explicit evidence for this claim, making it faithful to the context but incorrect in terms of answering the question. Additionally, the Model Answer fails to include the key fact from the Gold Answer, resulting in low evidence coverage."
+  }
+}

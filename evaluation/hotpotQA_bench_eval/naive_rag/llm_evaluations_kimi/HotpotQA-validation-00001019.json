@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001019",
+  "question": "Are both Aloinopsis and Eriogonum ice plants?",
+  "gold_answer": "no",
+  "llm_answer": "No.  \nEvidence shows Aloinopsis is described as a genus of ice plants, but Eriogonum is described as a genus of flowering plants in the family Polygonaceae and is not called an ice plant.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Aloinopsis is an ice plant genus while Eriogonum is not, aligning with the Gold Answer ('no'). The retrieved context supports this distinction, as Aloinopsis is explicitly described as ice plants, whereas Eriogonum is identified as wild buckwheat and part of the Polygonaceae family. All relevant facts from the Gold Answer are included."
+  }
+}

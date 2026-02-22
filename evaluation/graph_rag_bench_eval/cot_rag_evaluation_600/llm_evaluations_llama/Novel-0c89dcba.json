@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0c89dcba",
+  "question": "According to the discussion of individuality and social enrichment in the novel, what has a modern book on Liberty maintained regarding the freedom of individual men?",
+  "gold_answer": "A modern book on Liberty has maintained that from the freedom of individual men to persist in idiosyncrasies, the world may be enriched.",
+  "llm_answer": "I cannot find any information in the provided evidence about a modern book on Liberty maintaining that the freedom of individual men to persist in idiosyncrasies enriches the world.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the retrieved context does not contain information about a modern book on Liberty maintaining that the freedom of individual men to persist in idiosyncrasies enriches the world. However, the retrieved context explicitly mentions this idea, making the Model Answer both incorrect and unfaithful to the context."
+  }
+}

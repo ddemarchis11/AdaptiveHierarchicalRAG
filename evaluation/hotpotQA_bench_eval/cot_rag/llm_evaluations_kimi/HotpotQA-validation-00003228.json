@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003228",
+  "question": "What is the scentific name of the butterfly that is widespread in the seventh-largest country in the world?",
+  "gold_answer": "I. helicon",
+  "llm_answer": "The provided evidence does not mention any butterfly that is widespread in India (the seventh-largest country in the world), so the scientific name cannot be determined from the given sources.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the scientific name of a butterfly widespread in India. However, it fails to answer the question directly, as the Gold Answer ('I. helicon') is not mentioned or inferred from the context. The Model Answer is faithful to the context but does not cover the key fact provided in the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005554",
+  "question": "Southern California Logistics Airport is how many miles northwest of Victorville, California?",
+  "gold_answer": "8 miles",
+  "llm_answer": "I cannot verify the distance between Southern California Logistics Airport and Victorville, California.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct distance of 8 miles northwest of Victorville, California, as stated in the Gold Answer and supported by the Retrieved Context. It incorrectly claims an inability to verify the information, despite the context clearly stating the distance."
+  }
+}

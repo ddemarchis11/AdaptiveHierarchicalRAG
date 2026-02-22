@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000314",
+  "question": "How many days did it take the artist awarded Best New Artist at the major U.S. Grammy-equivalent ceremony in 2009 to shatter a two-decade-old album sales milestone in her home country?",
+  "gold_answer": "29",
+  "llm_answer": "I'm unable to answer the question as the context does not provide information about the artist awarded Best New Artist at the major U.S. Grammy-equivalent ceremony in 2009.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly identifies that the retrieved context does not contain information relevant to the question about the artist awarded Best New Artist in 2009 or the album sales milestone. However, it fails to provide the correct answer (29 days) using internal knowledge, resulting in a score of 0 for correctness and evidence coverage."
+  }
+}

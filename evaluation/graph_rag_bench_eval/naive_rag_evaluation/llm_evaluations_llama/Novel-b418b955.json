@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b418b955",
+  "question": "Within the context of Cornwall's geography, how is the feature known as the Devil's Throat situated and described in relation to Kynance Cove and the broader Lizard region as depicted in the narrative?",
+  "gold_answer": "The Devil's Throat is identified as a prominent feature of Kynance Cove, which is situated in Cornwall.",
+  "llm_answer": "Within the context of Cornwall's geography, the Devil's Throat is situated near Kynance Cove. It is described as a rock formation with a yawning cave and a wide fissure between two rocks. The Devil's Throat is located near the sea, and it is mentioned that it is a dangerous part of the rock where one has to jump, and if one misses their footing, they will fall into the boiling waves below.\n\nIn relation to Kynance Cove, the Devil's Throat is situated on the same cliff face, but it is not directly accessible from the cove. The narrative mentions that the clergyman's girls are safely climbing Asparagus Rock, which is easy enough to climb, but the Devil's Throat is a more treacherous part of the rock face.\n\nThe broader Lizard region is depicted as a rugged and rocky coastline with steep cliffs and strong tides. The narrative mentions the Lizard Lights, which are likely a reference to the Lizard Lighthouse, and the Lizard itself is described as a place where launce-fishing is a popular sport. The region is also known for its strong tidal currents and rocky coastline, which makes it a challenging and potentially hazardous place to navigate.\n\nOverall, the Devil's Throat is depicted as a hazardous and potentially deadly feature of the Lizard region's coastline, and it is situated near Kynance Cove, which is a picturesque and popular tourist destination.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Devil's Throat as a feature near Kynance Cove in Cornwall and provides additional details about its description and location, which are supported by the retrieved context. It also situates the feature within the broader Lizard region, accurately reflecting the narrative's depiction of the area's rugged geography and hazards. All key facts from the Gold Answer are included, and the additional information is relevant and grounded in the context."
+  }
+}

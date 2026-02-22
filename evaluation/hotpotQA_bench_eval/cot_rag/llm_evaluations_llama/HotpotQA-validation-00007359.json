@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007359",
+  "question": "In what city does the most successful American and international five-and-dime business have a historic building?",
+  "gold_answer": "Watertown, New York",
+  "llm_answer": "The city where the most successful American and international five-and-dime business has a historic building is not explicitly stated in the provided evidence. However, it is mentioned that the Woolworth Building is located in Watertown, New York, and that the F. W. Woolworth Company was founded by Frank Winfield Woolworth, who opened his first successful store in Lancaster, Pennsylvania, and later in Utica, New York, and then in Watertown, New York.\n\nHowever, the first successful store of the F. W. Woolworth Company was opened in Lancaster, Pennsylvania, and then in Utica, New York, and then in Watertown, New York.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Watertown, New York, as the location of the Woolworth Building, which aligns with the Gold Answer. However, it introduces unnecessary and partially incorrect details about other cities like Lancaster and Utica, which are not relevant to the question. While the context supports Watertown as the correct answer, the additional claims about other cities are not fully grounded in the retrieved context, leading to partial faithfulness and evidence coverage."
+  }
+}

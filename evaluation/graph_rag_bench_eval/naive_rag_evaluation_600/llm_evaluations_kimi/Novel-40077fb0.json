@@ -1,0 +1,12 @@
+{
+  "id": "Novel-40077fb0",
+  "question": "How is the interconnectedness of the Hall and Stickney families portrayed in 'An Astronomer's Wife', specifically through the marriage of Asaph Hall and Angeline Stickney, and the lineage connecting Moses Stickney as grandfather to Angeline Stickney?",
+  "gold_answer": "The marriage of Asaph Hall and Angeline Stickney, and the lineage from Moses Stickney to Angeline Stickney, illustrate the interconnectedness of the Hall and Stickney families across generations.",
+  "llm_answer": "The marriage of Asaph Hall and Angeline Stickney is the hinge that joins the two families.  \nAngeline is first introduced as “Angeline Stickney,” a daughter of the Stickney line, and her grandfather is explicitly named as Moses Stickney, the Revolutionary veteran who settled at the foot of Mt. Monadnock.  \nWhen she marries Asaph Hall, the narrative simply continues to speak of “Mrs. Hall” (formerly Stickney), thus keeping the Stickney blood and history inside the new Hall household.  \nThe genealogical link is stated outright: “He [Moses Stickney] was Angeline Stickney’s grandfather—her paternal grandfather, of course.”  \nBecause Angeline carries the Stickney stories, traits, and even the family genealogy papers into her married life, the Hall household becomes the living continuation of the Stickney line; the two family streams are therefore shown as flowing together through her marriage and her children.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately portrays the interconnectedness of the Hall and Stickney families through the marriage of Asaph Hall and Angeline Stickney, as well as the lineage connecting Moses Stickney as Angeline's grandfather. It provides detailed context about Angeline's role in carrying Stickney traits and genealogy into the Hall household, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-887d43a9",
+  "question": "Is Mogador considered to be part of Morocco, according to the territorial definitions given in the narrative?",
+  "gold_answer": "Mogador is part of Morocco.",
+  "llm_answer": "The narrative does not explicitly state that Mogador is part of Morocco. However, it is mentioned that the merchants of Mogador have magazines in the commercial quarter of Morocco, and that the Emperor of Morocco resides in Morocco for a third portion of his time. This suggests that Mogador may be under the jurisdiction or influence of the Emperor of Morocco, but it does not explicitly state that it is part of Morocco.\n\nIn fact, the narrative later mentions that the Salee rivers have been in the power of Great Britain since the capture of Gibraltar, implying that Mogador may be under British control.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that Mogador is part of Morocco, which is not contradicted by the retrieved context. However, the Model Answer incorrectly suggests ambiguity and even implies Mogador might be under British control, which is unsupported by the context. This makes the Model Answer incorrect, unfaithful to the context, and lacking coverage of the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000596",
+  "question": "Where was the movement that August Brancart published literature from centerd?",
+  "gold_answer": "Western Europe",
+  "llm_answer": "The movement that August Brancart published literature from was centered in Western Europe, specifically in France, during the late 19th century.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Western Europe as the center of the movement, aligning with the Gold Answer. It adds the detail of France and the late 19th century, which is supported by the Retrieved Context, making the answer both accurate and faithful to the provided information."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-788a228f",
+  "question": "In which European country is the city of Poitiers, known for its prehistoric musical relics, located?",
+  "gold_answer": "Poitiers is located in France.",
+  "llm_answer": "France",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies France as the country where Poitiers is located, aligning with the Gold Answer and supported by the Retrieved Context, which mentions Poitiers in France in relation to prehistoric musical relics."
+  }
+}

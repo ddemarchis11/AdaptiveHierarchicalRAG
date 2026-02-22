@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000680",
+  "question": "Orlando Brown is best known for his role as 3J Winslow in an American sitcom that was a spin-off of what?",
+  "gold_answer": "Perfect Strangers",
+  "llm_answer": "Perfect Strangers",
+  "context": [
+    {
+      "text": "Orlando Brown (born December 4, 1987) is an American rapper, singer, restaurateur and former actor. He is best known for his roles as Eddie Thomas on That's So Raven , Cadet Kevin \"Tiger\" Dunne in Major Payne , Nelson in The Jamie Foxx Show , 3J Winslow on Family Matters , and Max on Two of a Kind . He was the title protagonist on both the Waynehead (as Damey Wayne) and Fillmore! (as Cornelius Fillmore) animated series. He also played Sticky Webb in The Proud Family . In 2023, Brown was cast in the second season of the Zeus Network reality television show Bad Boys: Texas . In 2025, he opened a restaurant called Orlando Brown's Million Dollar Fried Chicken in Phoenix, Arizona . Early life Orlando Brown was born in 1987 in Los Angeles , California, to Tiffney Anderson and Aaron Dotson. Acting career Brown made his acting debut in 1995 as Cadet Kevin \"Tiger\" Dunne in Major Payne . In 1998, he co-starred with Mary-Kate and Ashley Olsen in Two of a Kind . In 1996, he was cast as 3J Winslow in Family Matters . That same year, Brown began voice acting when he starred as a childhood version of Damon Wayans in Waynehead . For Disney he co-starred with Raven-Symoné in That's So Raven , appeared in",
+      "id": "HotpotQA-validation-00000680/00_Orlando-Brown-actor.html_c_0"
+    },
+    {
+      "text": "Family Matters is an American television sitcom that originally aired on ABC for eight seasons from September 22, 1989, to May 9, 1997, then moved to CBS for its ninth and final season from September 19, 1997, to July 17, 1998. A spin-off of Perfect Strangers , the series was created by William Bickley and Michael Warren, and revolves around the Winslow family, a Black middle class family living in Chicago, Illinois . Midway through the first season, the show introduced the Winslows' nerdy neighbor Steve Urkel ( Jaleel White ), originally as a one-time appearance. However, he quickly became the show's breakout character (and eventually the main character), joining the main cast. Running for 215 episodes over nine seasons, Family Matters is the third-longest-running live action American sitcom with a predominantly African-American cast, behind The Jeffersons with 253 episodes over 11 seasons and Tyler Perry's House of Payne with 355 episodes as of 2023. Family Matters was the last live-action scripted primetime show that debuted in the 1980s to end its run; the only scripted shows that started in the 1980s and have lasted longer in continuous production is The Simpsons and The Bold and the Beautiful . History The series was a spinoff from the ABC sitcom Perfect Strangers ; both shows aired Friday nights as part of the network's family-oriented \" TGIF \"",
+      "id": "HotpotQA-validation-00000680/01_Family-Matters.html_c_0"
+    },
+    {
+      "text": "series was a spinoff from the ABC sitcom Perfect Strangers ; both shows aired Friday nights as part of the network's family-oriented \" TGIF \" lineup. Jo Marie Payton played Harriette Winslow, the elevator operator at a newspaper where Larry Appleton and Balki Bartokomous also worked. Reginald VelJohnson , who was coming off of growing fame from his role in Die Hard , made an appearance on the show as Harriette's husband Carl Winslow, a Chicago police officer. ABC and the producers loved the character Harriette for her great morale and quick-witted humor and decided to create a show that would focus on her and her family, husband Carl, son Eddie, elder daughter Laura, and younger daughter Judy (who appeared until the character was retconned after season four as having not existed). In the pilot episode , \" The Mama Who Came to Dinner \", the family had also opened their home to Carl's street-wise mother, Estelle ( Rosetta LeNoire ), usually known as \"Mother Winslow\". Prior to the start of the series, Harriette's sister, Rachel Crawford and her infant son, Richie, had moved into the Winslow household after the death of Rachel's husband. The Winslows' nerdy teenage next-door neighbor, Steve Urkel (Jaleel White), was introduced early in the first season, given a significant role midway through the season in the episode \"Laura’s First Date\", and quickly",
+      "id": "HotpotQA-validation-00000680/01_Family-Matters.html_c_1"
+    },
+    {
+      "text": "Shawn Harrison (born December 28, 1973) is an American actor known for his role as Waldo Faldo , the dim-witted but lovable chef-in-training on the ABC sitcom Family Matters from 1990 to 1996. Biography Harrison is best known for his role as Waldo Faldo in Family Matters . He has also made occasional appearances as the hairstylist Peaches on the UPN sitcom Girlfriends and guest appearances on other series, including Moesha . Harrison voiced Timber Wolf and Ron-Karr in the animated series Legion of Super Heroes , which premiered in September 2006. He also guest starred in an episode of Punky Brewster , and played William K in The Ms. Pat Show . Filmography Film Television References External links Shawn Harrison at IMDb v t e",
+      "id": "HotpotQA-validation-00000680/03_Shawn-Harrison-actor.html_c_0"
+    },
+    {
+      "text": "Randy J. Goodwin (born as Ivan Jerome Goodwin on December 24, 1967), is an American actor. He is perhaps best known for his role as \"Kennedy Winslow\" on Fast Track and \"Max Ellis\" on the show Abby , as well as his recurring roles on Girlfriends as \"Davis Hamilton\" and The Vampire Diaries as \"Dr. Jonas Martin\". Career Goodwin was a member of GBT Academy of the Arts Advisory Board, serving as an actor and writer. Goodwin is set to direct his first full-length feature film in April 2013, a Christian film entitled The Job , written by Steve Lee and Randy Goodwin, with Goodwin set to star as well.  . Filmography Film Television References External links Randy J. Goodwin Facebook Randy J. Goodwin LinkedIn Randy J. Goodwin Twitter Page Randy J. Goodwin at IMDb v t e",
+      "id": "HotpotQA-validation-00000680/02_Randy-J-Goodwin.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Orlando Brown played 3J Winslow on Family Matters (HotpotQA-validation-00000680/00_Orlando-Brown-actor.html_c_0)\n- Family Matters was a spin-off of Perfect Strangers (HotpotQA-validation-00000680/01_Family-Matters.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Orlando Brown is best known for his role as 3J Winslow in an American sitcom that was a spin-off of what?",
+      "doc_ids": [
+        "HotpotQA-validation-00000680/00_Orlando-Brown-actor.html_c_0",
+        "HotpotQA-validation-00000680/01_Family-Matters.html_c_0",
+        "HotpotQA-validation-00000680/01_Family-Matters.html_c_1",
+        "HotpotQA-validation-00000680/03_Shawn-Harrison-actor.html_c_0",
+        "HotpotQA-validation-00000680/02_Randy-J-Goodwin.html_c_0"
+      ]
+    }
+  ]
+}

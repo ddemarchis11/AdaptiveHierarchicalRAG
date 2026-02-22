@@ -1,0 +1,12 @@
+{
+  "id": "Novel-889e2c6a",
+  "question": "How is the city of Rabat historically connected to Yakob-el-Mansour, and what does the novel say about the Sultan's influence over Western Barbary?",
+  "gold_answer": "Rabat was built by Yakob-el-Mansour, and the Sultan has influence over Western Barbary.",
+  "llm_answer": "The city of Rabat is historically connected to Yakob-el-Mansour, a famous Sultan, as the city was built by him. According to the text, Yakob-el-Mansour, the nephew of Abd-el-Moumen, built Rabat and named it Rabat-el-Fatah, which means \"camp of victory.\" This suggests that Yakob-el-Mansour was a powerful and influential leader who played a significant role in the history of Rabat.\n\nAs for the Sultan's influence over Western Barbary, the text presents two contrasting views. One view, presented by a resident of the country, suggests that the Sultan's influence is limited and that the empire is plagued by internal conflicts, disaffected populations, and quasi-independent Berber tribes. This view estimates the Sultan's standing army at 20-30,000 troops and notes that the empire's commerce is relatively small, with only 50 ships visiting Mogador and other maritime cities per year.\n\nOn the other hand, another resident of the country presents a more favorable view of the Sultan's influence. According to this view, the Sultan is the head of the orthodox religion of the Mussulmen of the West and has a strong influence over Western Barbary and Central Africa. This view suggests that the Sultan's influence is not limited to the empire's borders, but extends to the wider region, where there are many Muslims who would unite against a common enemy, such as a Christian or infidel power. This view also notes that the Sultan has a strong distribution of titles of Marabout, which can be used to maintain order and stability within the empire.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Yakob-el-Mansour as the builder of Rabat and provides additional context about the city's naming and historical significance, which is supported by the retrieved context. It also accurately discusses the Sultan's influence over Western Barbary, presenting both the limited and favorable perspectives found in the context. All claims are grounded in the retrieved context, and the key facts from the Gold Answer are fully covered."
+  }
+}

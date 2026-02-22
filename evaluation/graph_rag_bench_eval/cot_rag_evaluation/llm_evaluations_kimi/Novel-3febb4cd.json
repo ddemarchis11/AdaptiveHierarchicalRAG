@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3febb4cd",
+  "question": "In the narrative's exploration of skeletal structure and childhood development, how is the spine described in terms of its composition, and what characteristics of children's bones and growth—such as the ease with which bones bend and the tendency for children to outgrow their shoes—are highlighted?",
+  "gold_answer": "The spine is made of bones; bones bend easily in children, who are always out-growing shoes.",
+  "llm_answer": "The spine is described as being made of twenty-four small bones with elastic cushions of gristle between them. Children’s bones contain more of this soft gristle than those of older people, so they bend easily. The narrative also notes that healthy children “are always out-growing their shoes, and sometimes faster than they wear them out.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly describes the spine as being made of small bones with elastic cushions of gristle between them, which aligns with the context. It also highlights the characteristics of children's bones bending easily due to more gristle and their tendency to outgrow shoes, as mentioned in the Gold Answer and supported by the retrieved context. All key facts from the Gold Answer are included, and the details provided are faithful to the context."
+  }
+}

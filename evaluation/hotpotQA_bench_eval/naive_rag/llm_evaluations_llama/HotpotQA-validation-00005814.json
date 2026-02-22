@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005814",
+  "question": "What award won by only twelve people has a man who Ted Kooshian has performed with won?",
+  "gold_answer": "EGOT",
+  "llm_answer": "The award won by only twelve people is the British Academy Television Award for Best Actress.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the award as the British Academy Television Award for Best Actress, which is not supported by the context or relevant to the question. The correct answer, EGOT, is not mentioned in the Model Answer, and the retrieved context does not provide grounding for the Model's claim."
+  }
+}

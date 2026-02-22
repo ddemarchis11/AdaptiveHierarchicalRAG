@@ -1,0 +1,12 @@
+{
+  "id": "Novel-395b9708",
+  "question": "What was Earle S. Goodrich's involvement with the Pioneer and the Minnesotian?",
+  "gold_answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+  "llm_answer": "Earle S. Goodrich was the editor-in-chief of the Pioneer, and he also worked with the Minnesotian.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Earle S. Goodrich as the editor-in-chief of the Pioneer but inaccurately states that he worked with the Minnesotian, which is not supported by the retrieved context. The Gold Answer specifies that Goodrich prepared a joke on the Minnesotian, which is a key detail missing from the Model Answer. Additionally, the claim about working with the Minnesotian is ungrounded in the provided context."
+  }
+}

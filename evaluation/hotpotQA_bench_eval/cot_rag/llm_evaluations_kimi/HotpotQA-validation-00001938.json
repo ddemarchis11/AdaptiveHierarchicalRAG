@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001938",
+  "question": "In what year was the British actress who starred in a film adaptation of a series of eight children's books written by P. L. Travers born?",
+  "gold_answer": "9 November 1955",
+  "llm_answer": "1955",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies the year of birth (1955) as stated in the Gold Answer. However, the Retrieved Context does not provide any information about the actress born in 1955 or her connection to the P.L. Travers film adaptation. Therefore, the answer is not grounded in the provided context, and no evidence from the context supports the claim."
+  }
+}

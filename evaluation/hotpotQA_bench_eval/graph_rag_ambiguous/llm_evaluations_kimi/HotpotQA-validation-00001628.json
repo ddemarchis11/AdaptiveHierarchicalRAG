@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Between the head coach of a small Catholic college basketball programme in the New York metropolitan area and the coach who took over a Big 12 programme in Iowa after leaving a mid-major school in Kentucky, which one has held their current position for longer?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "The context does not specify how long Tim Cluess had been head coach at Iona beyond the 2015–16 season, nor does it state how many seasons Steve Prohm remained at Iowa State after 2015–16. Therefore, it cannot be determined from the given information which coach held their position longer.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not provide sufficient information to determine which coach held their position longer, which is incorrect. The Gold Answer clearly identifies Tim Cluess as the coach who held his position longer. The Model Answer is faithful to the retrieved context but fails to address the question correctly and misses the key fact provided in the Gold Answer."
+  }
+}

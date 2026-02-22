@@ -1,0 +1,12 @@
+{
+  "id": "Novel-461ce6c3",
+  "question": "What is the connection between the movements of Captain Balfour and Mr. Reade?",
+  "gold_answer": "Captain Balfour travelled to Jereed, and Mr. Reade travelled with Captain Balfour.",
+  "llm_answer": "Captain Balfour and Mr. Reade are connected through a tour they took in the Jereed, a region in Tunisia. They were accompanied by Sidi Mohammed, the \"Bey of the Camp,\" who is heir-apparent to the Tunisian throne. The Bey led the tour as a sovereign, administering affairs in the Jereed and collecting tribute from its inhabitants.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Captain Balfour and Mr. Reade were connected through a tour in the Jereed, but it introduces additional details about Sidi Mohammed and his role that are not directly relevant to the connection between Balfour and Reade. While the context mentions the Bey's involvement, the core connection is that Mr. Reade traveled with Captain Balfour, which is not explicitly stated in the Model Answer. The answer partially aligns with the context but misses the specific fact that Mr. Reade traveled with Captain Balfour, as stated in the Gold Answer."
+  }
+}

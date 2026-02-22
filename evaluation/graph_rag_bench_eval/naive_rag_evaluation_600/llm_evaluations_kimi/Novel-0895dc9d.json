@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0895dc9d",
+  "question": "During his travels in the Tunisian territory as described in the narrative, which specific locations did Captain Balfour visit, such as Kairwan, Sidi Amour Abeda, and Toser, and how was his journey characterized by being under the protection of the Bey?",
+  "gold_answer": "Captain Balfour visited Kairwan, Sidi Amour Abeda, and Toser, and was under the protection of the Bey during his travels in the Tunisian territory.",
+  "llm_answer": "Captain Balfour’s journey, as recounted in the narrative, took him to the following named places inside the Regency of Tunis:\n\n- Kairwan  \n- Nefta (with its marabet of Sidi Bou Aly and the courtyard of Sidi Mustapha Azouz)  \n- Toser  \n- Ghafsa  \n- The Plain of Manouba  \n- The camp at Beereen  \n\nThroughout the tour he and Mr. Reade travelled “under the protection of the Bey,” that is, as guests of Sidi Mohammed, the “Bey of the Camp.”  They rode with the Bey’s flying-camp, were escorted by his mamelukes and Arab guards, shared the Bey’s provisions, and were present at the tribute-collection that was the official object of the expedition.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Captain Balfour visited Kairwan, Toser, and was under the protection of the Bey, aligning with the Gold Answer. However, it introduces additional locations like Nefta, Ghafsa, and others, which are not explicitly confirmed in the Gold Answer or clearly supported by the retrieved context. While the narrative mentions these places, it does not definitively state that Captain Balfour visited all of them. The inclusion of unsupported details reduces faithfulness and evidence coverage."
+  }
+}

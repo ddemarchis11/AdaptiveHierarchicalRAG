@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005451",
+  "question": "The brother of Ferdinand Alfred Friedrich Jodl served as what position in World War II?",
+  "gold_answer": "Chief of the Operations Staff of the Armed Forces High Command",
+  "llm_answer": "Chief of the Operations Staff of the OKW.",
+  "context": [
+    {
+      "text": "Ferdinand Alfred Friedrich Jodl (28 November 1896 – 9 June 1956) was a German general during World War II who commanded the Mountain Corps Norway during the Petsamo–Kirkenes Offensive . He was the younger brother of Alfred Jodl , Chief of the Operations Staff of the OKW . He was the nephew of philosopher and psychologist Friedrich Jodl at the University of Vienna . Life and career Ferdinand Jodl (second from left) as an Oberleutnant of the Reichswehr with his brother Alfred (second from right), 1926 Ferdinand Jodl entered the Imperial German Army in August 1914 as an ensign , serving as a Leutnant in a Bavarian Field Artillery Regiment from 1915 until the end of World War I . He remained in the army after 1918, becoming a general staff officer . In this capacity he served with XII Corps in the early part of World War II , then moving to XXXXIX Mountain Corps . From 1942 he served in Finland and North Norway, first as chief of staff of the 20th Mountain Army , then as commander of the XIX Mountain Corps , receiving the Knight's Cross of the Iron Cross for his command of this corps in January 1945. He ended the war as commander of German forces in North Norway, grouped under the name Army Detachment Narvik, having attained the rank of General of Mountain Troops . Ferdinand",
+      "id": "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_c_0"
+    },
+    {
+      "text": "Alfred Josef Ferdinand Jodl ( German: [ˈjoːdl̩] ⓘ ; born Alfred Josef Baumgärtler ; 10 May 1890 – 16 October 1946) was a German military officer who served as the Chief of the Operations Staff of the Oberkommando der Wehrmacht – the German Armed Forces High Command – throughout World War II . After the war, Jodl was indicted on charges of conspiracy to commit crimes against peace , planning, initiating and waging wars of aggression , war crimes , and crimes against humanity at the Allied-organized Nuremberg trials . The principal charges against him related to his signing of the criminal Commando and Commissar Orders . Found guilty on all charges, he was sentenced to death and executed in Nuremberg in 1946. Early life and career Alfred Jodl (second from right) as a captain of the Reichswehr with his brother Ferdinand (second from left), 1926 Alfred Jodl was educated at a military cadet school in Munich , from which he graduated in 1910. Ferdinand Jodl , who also became an army general, was his younger brother. He was the nephew of philosopher and psychologist Friedrich Jodl at the University of Vienna . Jodl was raised Roman Catholic but rejected the faith later in life. From 1914 to 1916, he served with a field artillery regiment on the Western Front",
+      "id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_0"
+    },
+    {
+      "text": "\"Defendants in the Major War Figures Trial\" . University of Missouri-Kansas City: School of Law. Archived from the original on 20 May 2009. \"Alfred Jodl | German general\" . Encyclopedia Britannica . Retrieved 10 February 2018 . \"Alfred Jodl\" . Alfred Jodl Second World War . Retrieved 14 January 2020 . \"VG München, Urteil vom 26. März 2019 – M 12 K 18.1936\" [Administrative court Munich, judgment of 26 March 2019] (in German). Bayerische Staatkanzlei. Archived from the original on 16 April 2019 . Retrieved 25 August 2020 . \"Los argumentos de la defensa de ALFRED JODL en los juicios de Nuremberg\" . tercer-reich.com (in Spanish). 23 March 2011. Archived from the original on 30 November 2018 . Retrieved 7 December 2020 . \"Streit über Gedenkstein: Familie von NS-Kriegsverbrecher darf Scheingrab behalten\" [Disputed memorial stone: family of war criminal allowed to keep gravestone] (in German). Der Spiegel , (newspaper). 8 April 2019 . Retrieved 25 August 2020 . \"Das Jodl-Kreuz auf der Fraueninsel kommt weg",
+      "id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_10"
+    },
+    {
+      "text": "commander of German forces in North Norway, grouped under the name Army Detachment Narvik, having attained the rank of General of Mountain Troops . Ferdinand Jodl died in Essen on 9 June 1956, aged 59 and was buried on Frauenchiemsee in Bavaria. Awards and decorations Knight's Cross of the Iron Cross on 13 January 1945 as General der Gebirgstruppe and commander of XIX. Gebirgskorps References Citations Bibliography Fellgiebel, Walther-Peer (2000) . Die Träger des Ritterkreuzes des Eisernen Kreuzes 1939–1945 — Die Inhaber der höchsten Auszeichnung des Zweiten Weltkrieges aller Wehrmachtteile [ The Bearers of the Knight's Cross of the Iron Cross 1939–1945 — The Owners of the Highest Award of the Second World War of all Wehrmacht Branches ] (in German). Friedberg, Germany: Podzun-Pallas. ISBN 978-3-7909-0284-6 . Lucas, James (1980). Alpine Elite: German Mountain Troops of World War II . Jane's Publishing. ISBN 0531037134 . Portal : Biography",
+      "id": "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_c_1"
+    },
+    {
+      "text": "Roman Catholic but rejected the faith later in life. From 1914 to 1916, he served with a field artillery regiment on the Western Front , being awarded the Iron Cross 2nd Class for gallantry in November 1914, and for being wounded in action. In 1917, he served briefly on the Eastern Front before returning to the West as a staff officer. In 1918, he was awarded the Iron Cross 1st Class for gallantry in action. After the defeat of the German Empire in 1918, he continued his career as a professional soldier with the much-reduced German Army ( Reichswehr ). Jodl married twice: in 1913 and (after becoming a widower) in 1944. World War II (front row, from l. to r.) Reichspressechef Otto Dietrich , Wilhelm Keitel , Hitler, Jodl, and Martin Bormann , at the Führer Headquarters of Felsennest , June 1940 Jodl's appointment as a major in the operations branch of the Truppenamt ('Troop Office') in the Army High Command in the last years of the Weimar Republic put him under the command of General Ludwig Beck .  In September 1939, Jodl first met Adolf Hitler . During the build-up to the Second World War, Jodl was nominally assigned as commander of the 44th Division from October 1938 to",
+      "id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Ferdinand’s brother is Alfred Jodl (Novel-00005451/00_Ferdinand-Jodl.html_c_0).\n- Alfred Jodl served as Chief of the Operations Staff of the OKW throughout WWII (Novel-00005451/01_Alfred-Jodl.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The brother of Ferdinand Alfred Friedrich Jodl served as what position in World War II?",
+      "doc_ids": [
+        "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_c_0",
+        "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_0",
+        "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_10",
+        "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_c_1",
+        "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-665744e5",
+  "question": "During the steel processing operation, in what medium does an ingot soak within the soaking pit?",
+  "gold_answer": "An ingot soaks in gas.",
+  "llm_answer": "I cannot answer this question as it is not supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states it cannot answer the question due to lack of support in the context. While the retrieved context is irrelevant to the question, the Model Answer fails to provide the correct information ('an ingot soaks in gas') which could have been derived from internal knowledge. Therefore, the evaluation scores are all zero."
+  }
+}

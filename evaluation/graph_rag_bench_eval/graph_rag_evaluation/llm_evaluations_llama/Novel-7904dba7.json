@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7904dba7",
+  "question": "What notable feature did the settler's cabin possess that caught the attention of the stranded coach passengers as they considered seeking shelter from the storm?",
+  "gold_answer": "The cabin had the light.",
+  "llm_answer": "The cabin had a light smoke curling above a clump of willows from its chimney, indicating that it was occupied and possibly had a fire burning inside.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer states that the notable feature of the settler's cabin was the light, which caught the attention of the stranded coach passengers. The Model Answer mentions a light smoke curling above the chimney, which is not explicitly supported by the retrieved context and diverges from the Gold Answer's focus on the light itself. While the Model Answer partially aligns with the idea of the cabin being occupied, it introduces unsupported details about smoke and fire, reducing faithfulness to the context."
+  }
+}

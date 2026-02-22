@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "Based on the provided evidence, here are the answers to your questions:\n\n1. What do the records indicate about Ruth's educational ambitions?\n\nThe records do not mention Ruth's educational ambitions. The text primarily discusses Angeline Stickney's educational background and ambitions. However, it does mention that Angeline encouraged her sister Ruth to pursue education, writing to her in 1853: \"I hope you will make up your mind to come out here to school next spring. You can go through college as well as I.\"\n\n2. What do the records indicate about Ruth's emotional connection to Angeline?\n\nThe records do not provide direct information about Ruth's emotional connection to Angeline. However, it can be inferred that Angeline was a supportive and caring sister, as she encouraged Ruth to pursue education and seemed to be concerned about her well-being. In a letter, Angeline wrote to Ruth: \"Make up your mind to be a stout-hearted little woman for a couple of years. Come to Conn. as soon as you are ready.\" This suggests that Angeline was trying to motivate and support her sister during a difficult time.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the core aspects of Ruth's educational ambitions and her emotional connection to Angeline as stated in the Gold Answer. It incorrectly claims that the records do not mention Ruth's ambitions, despite the context explicitly stating that Ruth could complete the scientific course in two years after the next spring term. Additionally, the emotional connection between Ruth and Angeline, specifically Ruth feeling lonely without Angeline, is entirely omitted. The Model Answer is neither faithful to the context nor does it cover the key facts from the Gold Answer."
+  }
+}

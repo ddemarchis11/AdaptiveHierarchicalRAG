@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005906",
+  "question": "What movies has Juno Temple starred in?",
+  "gold_answer": "She has appeared in films such as \" Black Mass\", \"The Other Boleyn Girl\", \"Wild Child\", \"Atonement\", \"Maleficent\", \"The Three Musketeers\" and \"The Dark Knight Rises\".",
+  "llm_answer": "Based solely on the provided evidence, Juno Temple has starred in the following movies:\n\n- Notes on a Scandal (2006)  \n- Atonement (2007)  \n- The Other Boleyn Girl (2008)  \n- Mr. Nobody (2009)  \n- Wild Child (2008)  \n- St Trinian's 2: The Legend of Fritton's Gold (2009)  \n- Dirty Girl (2010)  \n- Kaboom (2010)  \n- The Three Musketeers (2011)  \n- Killer Joe (2011)  \n- Little Birds (2011)  \n- The Dark Knight Rises (2012)  \n- Jack & Diane (2012)  \n- Magic Magic (2013)  \n- Afternoon Delight (2013)  \n- Maleficent (2014)  \n- Black Mass (2015)  \n- Unsane (2018)  \n- Maleficent: Mistress of Evil (2019)  \n- One Percent More Humid (2017)  \n- Lost Transmissions (2020)  \n- Venom: The Last Dance (2024)",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly lists all the movies mentioned in the Gold Answer and adds additional films that are supported by the Retrieved Context. It is detailed, accurate, and faithful to the context provided, ensuring comprehensive coverage of Juno Temple's filmography."
+  }
+}

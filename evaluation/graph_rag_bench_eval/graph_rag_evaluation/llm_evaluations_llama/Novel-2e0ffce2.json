@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2e0ffce2",
+  "question": "Write a diary entry as the Parrot, describing your life with your mistress, the farewell, and being snatched away, while referencing the trouble caused to her lover.",
+  "gold_answer": "Diary Entry — My days with my mistress were filled with warmth and chatter. Today, I said farewell to Corinna, her eyes glistening with sorrow. I was snatched away by envy, separated from her gentle hands. I have heard it said that my mistress is born to be a cause of trouble to her lover, and perhaps, even my loss plays a part in the tangled affairs of the heart.",
+  "llm_answer": "I lived a life of ease and comfort with my mistress, but it was not without its troubles. My lover, the bear, Bruin, was a clumsy oaf, and his antics often caused chaos in our home. I recall the time he sat down on the custard pie, covering himself in its sticky contents. It was a mess, to say the least.\n\nBut I digress. My mistress and I were happy, and I loved her dearly. However, one day she bid me farewell, and I was snatched away by a mischievous raccoon. I was taken to a new home, where I was forced to dance with a silly squirrel, Toto. It was a far cry from my life with my mistress, and I missed her dearly.\n\nAs I look back, I realize that my mistress's departure was not without its consequences. Her lover, Bruin, was left to pick up the pieces, and I fear he may have caused even more trouble in her absence. I only hope that she is happy in her new life, and that I will one day be reunited with her.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer is entirely incorrect and irrelevant to the question. It introduces fictional elements such as a bear named Bruin, a raccoon, and a squirrel named Toto, none of which are mentioned in the Gold Answer or supported by the Retrieved Context. The diary entry fails to address the core themes of the mistress's farewell, the parrot being snatched away, and the trouble caused to her lover, as outlined in the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b456ced2",
+  "question": "With whom does the Emperor of Morocco correspond in the narrative's depiction of diplomatic or political exchanges?",
+  "gold_answer": "The Emperor of Morocco corresponds with Mr. Hay.",
+  "llm_answer": "The narrative depicts the Emperor of Morocco corresponding with the following individuals or entities in the context of diplomatic or political exchanges:\n\n1. Mr. Hay: Mr. Hay is mentioned as having correspondence with the Court of Morocco on the issue of the slave trade.\n2. European Powers: The Emperor of Morocco is said to have diplomatic relations with European Powers, although the specific countries are not mentioned.\n3. France: The narrative mentions that the French Princess de Conti has caught the eye of Muley Ismael, and that there is rival diplomacy between France and England near the Maroquine Court.\n4. England: England is mentioned as having rival diplomacy with France near the Maroquine Court, and as having treaties with Morocco that are defective and require amendment.\n5. European merchants: The narrative mentions that European merchants, when they come to Morocco, are glad to get away as quickly as possible, suggesting that there are tensions or difficulties in the diplomatic relations between Morocco and European countries.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies Mr. Hay as the individual with whom the Emperor of Morocco corresponds, which is supported by the context. The Model Answer correctly includes Mr. Hay but also introduces other entities such as European Powers, France, England, and European merchants, which are mentioned in the context but not explicitly tied to direct correspondence with the Emperor. This additional information is partially relevant but not fully grounded in the retrieved context as direct correspondence. The Model Answer misses the focus on Mr. Hay as the primary correspondent, diluting the specificity of the Gold Answer."
+  }
+}

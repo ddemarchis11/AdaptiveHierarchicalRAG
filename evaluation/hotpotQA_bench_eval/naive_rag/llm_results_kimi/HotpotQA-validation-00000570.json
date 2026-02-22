@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000570",
+  "question": "What city and nation was the location of the 2015 Pacific Games where the Kiribati national basketball team finished with a 0-4 record?",
+  "gold_answer": "Port Moresby, Papua New Guinea",
+  "llm_answer": "Port Moresby, Papua New Guinea",
+  "context": [
+    {
+      "text": "The Kiribati national basketball team are the basketball side that represent Kiribati in international competitions. They competed at the 2015 Pacific Games , where they finished with an 0–4 record. Performance at the Pacific Games 2015 - 9th place References External links Kiribati Basketball Federation v t e v t e",
+      "id": "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_c_0"
+    },
+    {
+      "text": "Basketball at the 2015 Pacific Games in Port Moresby , Papua New Guinea was held at the BSP Arena and PNG Power Dome on 3–12 July 2015. Guam won the gold medal in the men's tournament, defeating Fiji by 78–61 in the final. Tahiti secured the bronze medal by beating hosts Papua New Guinea by 83–73. Fiji won the gold medal in the women's tournament, defeating American Samoa by 75–61. Tahiti beat Papua New Guinea by 62–51 to win the bronze medal. Medal summary Medal table Results Participating nations Ten countries competed in basketball at the 2015 Pacific Games: American Samoa Fiji French Polynesia Guam Kiribati Nauru New Caledonia Papua New Guinea Samoa Solomon Islands Men's tournament Group A Source: pg2015 (archived) Rules for classification: a. points; b. win–loss record; c. goal average d. head-to-head records; e. quotient system Group B Source: pg2015 (archived) Rules for classification: a. points; b. win–loss record; c. overall goal average d. head-to-head records; e. quotient system Notes: Classification playoffs Source: pg2015 (archived) Top six playoffs Source: pg2015 (archived) Finals Semi-finals and medal finals were played at the Power Dome on Saturday 11 July and Sunday 12 July, respectively. Semi-finals Third place",
+      "id": "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_c_0"
+    },
+    {
+      "text": "Powerlifting at the 2015 Pacific Games was held from 9–10 July 2015 in the Sir John Guise Indoor Power Dome at Port Moresby , Papua New Guinea. The host nation Papua New Guinea was the dominant team, particularly in the women's divisions where it claimed six of the seven possible gold medals. Nauru was the strongest team in the men's divisions, winning four of the eight weight categories. Telupe Iosefa received the first ever gold medal won by Tuvalu at the Pacific Games in the 120 kg male division. Medal summary Medal table * Host nation ( Papua New Guinea ) Men Women References",
+      "id": "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_c_0"
+    },
+    {
+      "text": "The 2015–16 Iona Gaels men's basketball team represented Iona College during the 2015–16 NCAA Division I men's basketball season . The Gaels, led by sixth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference (MAAC). They finished the season 22–11, 16–4 in MAAC play to finish in second place. They defeated Canisius , Siena , and Monmouth to be champions of the MAAC tournament and earn the conference's automatic bid to the NCAA tournament where, as a #13 seed, they lost in the first round to Iowa State . Previous season The Gaels finished the 2014–15 season 26–9, 17–3 in MAAC play to win the MAAC regular season championship. Iona lost to Manhattan in the championship game of the MAAC tournament and earned an automatic bid to the National Invitation Tournament . In the NIT, they lost in the first round to Rhode Island . Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The Adelaide Lightning are an Australian professional basketball team competing in the Women's National Basketball League (WNBL). The club is based in the city of Adelaide , South Australia , and will play their home games at the State Basketball Centre in Wayville from the 2025–26 season. History The Adelaide Lightning were formed in 1993 as a South Australian composite team following multiple Adelaide team entries in the Women's National Basketball League (WNBL) since the league's inception in 1981. The Lightning originally played at the Clipsal Powerhouse . Under coach Jan Stirling , the Lighting won three straight WNBL championships between 1994 and 1996 . After a runner-up finish in 1997 , the Lighting won their fourth championship in 1998 . They finished runners-up again in 2000 . Between 1993 and 2009, the team played in the WNBL playoffs every year. The club's captain during its glory years of the 1990s was Rachael Sporn . Sporn represented Australia at three Olympic Games, winning two silver and one bronze medal, and three World Championships. She played 377 WNBL games and was named MVP in 1996 and 1997 and was a key member of the Lightning's four championships. She was inducted into the Australian Basketball Hall of Fame in 2007. Her number 14 jersey was retired in 2007. The team changed to private ownership in 2005–06 , with",
+      "id": "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Kiribati national basketball team finished 0-4 at 2015 Pacific Games (HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_c_0)\n- 2015 Pacific Games basketball events held in Port Moresby, Papua New Guinea (HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What city and nation was the location of the 2015 Pacific Games where the Kiribati national basketball team finished with a 0-4 record?",
+      "doc_ids": [
+        "HotpotQA-validation-00000570/00_Kiribati-national-basketball-team.html_c_0",
+        "HotpotQA-validation-00000570/01_Basketball-at-the-2015-Pacific-Games.html_c_0",
+        "HotpotQA-validation-00000570/02_Powerlifting-at-the-2015-Pacific-Games.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00003907/01_Adelaide-Lightning.html_c_0"
+      ]
+    }
+  ]
+}

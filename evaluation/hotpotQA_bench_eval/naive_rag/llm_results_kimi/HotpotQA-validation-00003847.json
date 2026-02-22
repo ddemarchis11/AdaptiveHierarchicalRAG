@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003847",
+  "question": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+  "gold_answer": "Rivington Moor",
+  "llm_answer": "Bolton",
+  "context": [
+    {
+      "text": "Dean Mills Reservoir is a small water reservoir to the north of the town of Bolton , Greater Manchester located high on the slopes of Winter Hill . The reservoir was constructed above the village of Barrow Bridge by John and Robert Lord. “The Lord Brothers opened a mill there in the late 18th Century using Crompton's spinning mules. With the success of this operation they built a water-powered mill further down the valley and carried out ambitious waterworks including the construction of a reservoir, waterfall and sluices to power the mill.” The dark brown appearance of the water in the reservoir is due to discolouration from the surrounding peat that naturally drains into the reservoir. It was put up for sale by auction in March 2018. References",
+      "id": "HotpotQA-validation-00003847/00_Dean-Mills-Reservoir.html_c_0"
+    },
+    {
+      "text": "Dylewska Góra ( German : Kernsdorfer Höhe ) is a hill located in northeastern Poland , south of the town of Ostróda , in the Warmian-Masurian Voivodeship . With elevation of 312 metres above sea level, it is one of the highest points of northern and central Poland. Dylewska Góra is a morainic hill, with its eastern and northern slopes covered by beech forest. On top there is a TV tower, as well as a 37-metre-high observation tower, which provides views of area up to 50 kilometres away. See also Geography of Poland v t e",
+      "id": "HotpotQA-validation-00003847/02_Dylewska-Gra.html_c_0"
+    },
+    {
+      "text": "River flows north from the Lower Waterton Lake for approx. 32 km to reach the Waterton Reservoir (Est. 1964) by the village of Hill Spring . The Waterton Reservoir diverts water of about 20 m 3 /s to the Belly River just upstream from the Belly's own diversion weir which diverts water to the St. Mary River . The Waterton continues north from the reservoir for approx. 39 km until it reaches the confluence with the Belly River, which is a tributary of the Oldman River . Waterton River has relatively reduced sediment concentrations due to the lakes and the reservoir acting as a sediment-settling trap. The total length of the river is 80 km (50 mi). Waterton River's mean peak discharge averages about 80 m 3 /s. Tributaries to the Waterton River include: Foothill Creek Drywood Creek Yarrow Creek Dungarvan Creek Galwey Brook Cottonwood Creek Crooked Creek Waterton Reservoir has a Full Supply Level (FSL) of 1,185.67 metres, and an Irrigation Capacity of 114,334 dam 3 . References Montana portal",
+      "id": "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_2"
+    },
+    {
+      "text": "Moel y Gydros (English: Bare Hill of Gydros ) is a hill located just outside the Snowdonia National Park on the Gwynedd / Conwy border in North Wales . The B4501, Frongoch to Cerrigydrudion road skirts the hills lower slopes. Location Moel y Gydros is a member of the Arenig range with Arenig Fawr lying approximately 8 miles (13 km) to the south west. Its parent peak, Carnedd y Filiast is 3 miles (4.8 km) to the west, and to the north west the Carneddau , Glyderau and Snowdon can be seen on a clear day, 20 miles (32 km) distant. The bleak moorland of Mynydd Hiraethog , and the Clwydian Range is to the north, with the Dee Valley, Corwen and the Berwyn range to the east / southeast. On highly exceptional days, Kinder Scout in the Peak District of Derbyshire can be seen, 78 miles (126 km) away, although such sightings would be rare. Ascent The easy climb to the summit takes about 45 minutes steady walk. There is a farm vehicle access track that leads from the Cwmpenanner road to the summit where a small stone cairn can be found. References",
+      "id": "HotpotQA-validation-00003847/03_Moel-y-Gydros.html_c_0"
+    },
+    {
+      "text": "There are terraces between Darcha and Tandi which are under cultivation in the lower slopes, with the middle slopes having grasslands. Plantations of trees and shrubs to meet fuel wood and fodder requirements have been done on the hill slopes. Tourism National Highway skirting the lake on the left Lahaul-Spiti Valley is a common destination for Indian and foreign tourists on road trips, trekking, and motorcycling. The NH 21 route from Manali to Leh covers the Suraj Tal Lake and the Bara-lacha-la pass. Trekking Trekking tours are common. One trek route is the Zingzingbar –Suraj Tal–Bara-lacha-la. This involves trekking along the Bhaga River for 3 km (1.9 mi), crossing a bridge to the north bank, then a further climb of 2.5 km (1.6 mi) from the bridge, followed by a steep foot trail up to Suraj Tal. References External links Wikimedia Commons has media related to Suraj Tal . Suraj Tal Lake Surya Taal photos on Trek Earth Road and trekking map Lahaul and Spiti - Bara-lacha-la Pass",
+      "id": "HotpotQA-validation-00005130/02_Suraj-Tal.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+      "doc_ids": [
+        "HotpotQA-validation-00003847/00_Dean-Mills-Reservoir.html_c_0",
+        "HotpotQA-validation-00003847/02_Dylewska-Gra.html_c_0",
+        "HotpotQA-validation-00004257/01_Waterton-Lake.html_c_2",
+        "HotpotQA-validation-00003847/03_Moel-y-Gydros.html_c_0",
+        "HotpotQA-validation-00005130/02_Suraj-Tal.html_c_3"
+      ]
+    }
+  ]
+}

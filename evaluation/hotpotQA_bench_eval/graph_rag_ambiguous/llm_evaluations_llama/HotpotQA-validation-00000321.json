@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000321",
+  "question": "What recurring global tournament did the Chinese midfielder who wore number 13 participate in across three consecutive editions during the 1990s?",
+  "gold_answer": "FIFA Women's World Cup",
+  "llm_answer": "I cannot verify which recurring global tournament the Chinese midfielder who wore number 13 participated in across three consecutive editions during the 1990s.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is the FIFA Women's World Cup. The retrieved context clearly supports this answer, as it mentions Liu Ailing's participation in the 1991, 1995, and 1999 editions of the FIFA Women's World Cup. The Model Answer does not utilize the context effectively and does not cover the key fact from the Gold Answer."
+  }
+}

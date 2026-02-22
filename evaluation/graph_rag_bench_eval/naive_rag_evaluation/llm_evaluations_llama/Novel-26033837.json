@@ -1,0 +1,12 @@
+{
+  "id": "Novel-26033837",
+  "question": "In the correspondence featured within the narrative, which individuals wrote letters to Sabinus, as indicated by the exchange of letters among mythological figures?",
+  "gold_answer": "Ulysses, Phaon, Hippolytus, Jason, and Demophoôn wrote letters to Sabinus.",
+  "llm_answer": "The narrative mentions that Sabinus wrote letters to various mythological figures, including:\n\n1. Ulysses to Penelope\n2. Demophoôn to Phyllis\n3. Paris to Oenonc (although this is not mentioned in the context of the exchange of letters among Sabinus and other mythological figures)\n\nHowever, the narrative also mentions that other mythological figures wrote letters to Sabinus, including:\n\n1. Phaon to Sappho\n2. Jason to Hypsipyle",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially aligns with the Gold Answer but introduces inaccuracies and misses some key details. While it correctly identifies Ulysses and Demophoôn as writers of letters, it incorrectly includes Paris to Oenonc, which is not supported by the context. Additionally, it omits Hippolytus and Jason, who are explicitly mentioned in the Gold Answer. The faithfulness score is reduced due to unsupported claims about Paris and incomplete grounding in the retrieved context."
+  }
+}

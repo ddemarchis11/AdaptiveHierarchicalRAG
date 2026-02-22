@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9be8db74",
+  "question": "How does the narrative connect the names of Egypt, Tyre, and Khati (the Hittites) to etymological roots in the Maya language, and what examples are given to support this linguistic relationship?",
+  "gold_answer": "The names of Egypt, Tyre, and Khati have etymology in the Maya language.",
+  "llm_answer": "The text claims that the names Egypt, Tyre, and Khati (Hittites) can all be explained from Maya roots:\n\n- **Egypt** – called Mizraim in the Bible – is linked to the Maya verbs *miz* “to clean away dead-tree rubbish” and *musur* “to cut trees by the roots,” activities required after the Nile flood.  \n- **Tyre** – Phoenician *Tzur* – is derived from Maya *tzuc* “promontory / group of villages,” *tzucub* being “a province.”  \n- **Khati** (the Hittites) – is taken from Maya *kat / katah* “to place obstacles on the road,” reflecting their role as obstructers of Egyptian and Assyrian armies.\n\nThus each name is given a direct Maya etymology that supposedly mirrors the people’s or place’s historical character.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the etymological connections between the names Egypt, Tyre, and Khati and their Maya roots, as described in the context. It provides detailed examples, such as Mizraim's connection to Maya verbs related to clearing flood debris, Tyre's derivation from Maya words for promontory or province, and Khati's link to Maya words for placing obstacles. All claims are grounded in the retrieved context, and the answer includes all key facts from the Gold Answer while expanding with relevant details."
+  }
+}

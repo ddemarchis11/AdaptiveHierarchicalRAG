@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004993",
+  "question": "Who was the boyfriend of Thelma Lou in the series with Jim Nabors?",
+  "gold_answer": "Barney Fife",
+  "llm_answer": "I cannot verify who the boyfriend of Thelma Lou in the series with Jim Nabors was.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Barney Fife,' as stated in the Gold Answer. Additionally, the retrieved context contains information about Thelma Lou and Barney Fife's relationship, but the model does not utilize this context or provide any relevant information. Therefore, the answer is incorrect, ungrounded, and lacks evidence coverage."
+  }
+}

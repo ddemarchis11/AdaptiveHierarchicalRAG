@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000957",
+  "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+  "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+  "llm_answer": "Robert Smigel created the show that featured Triumph the Insult Comic Dog.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Robert Smigel as one of the creators of the show featuring Triumph the Insult Comic Dog, which is supported by the context. However, it omits the other creators, Michael Koman and David Feldman, mentioned in the Gold Answer. While the answer is faithful to the context, it does not fully cover the evidence provided in the Gold Answer."
+  }
+}

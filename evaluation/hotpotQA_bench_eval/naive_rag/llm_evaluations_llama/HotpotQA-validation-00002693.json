@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002693",
+  "question": "Myron F. Diduryk's exploits were described in a book by an author holding what military rank?",
+  "gold_answer": "lieutenant general",
+  "llm_answer": "The author of the book \"We Were Soldiers Once and Young\" that described Myron F. Diduryk's exploits is General Hal Moore, who held the military rank of General.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies the rank as 'lieutenant general,' while the Model Answer states 'General,' which is less precise. The context confirms Hal Moore's authorship but does not explicitly state his rank as 'lieutenant general,' leading to partial grounding. The Model Answer partially covers the evidence but misses the exact rank mentioned in the Gold Answer."
+  }
+}

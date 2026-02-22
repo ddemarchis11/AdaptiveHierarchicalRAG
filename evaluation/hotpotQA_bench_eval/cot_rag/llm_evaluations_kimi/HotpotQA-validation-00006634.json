@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006634",
+  "question": "What is the title of the person who is Head of the Department of Biological Sciences at the University of Lincoln",
+  "gold_answer": "Doctor",
+  "llm_answer": "The evidence states that Professor D S Mills “has been Head of the Department of Biological Sciences” at the University of Lincoln.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Professor D S Mills as having been Head of the Department of Biological Sciences at the University of Lincoln, which is supported by the context. However, it does not explicitly address the title 'Doctor' as stated in the Gold Answer. While the context does not directly confirm the title 'Doctor,' the Model Answer misses this specific detail, leading to partial correctness and evidence coverage."
+  }
+}

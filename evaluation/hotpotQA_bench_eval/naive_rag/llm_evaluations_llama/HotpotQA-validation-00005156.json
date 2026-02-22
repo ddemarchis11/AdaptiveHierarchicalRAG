@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005156",
+  "question": "What is the name of the county that Cari Roccaro is from?",
+  "gold_answer": "Suffolk",
+  "llm_answer": "The county that Cari Roccaro is from is not explicitly stated in the provided evidence. However, it is mentioned that she attended East Islip High School in Islip Terrace, New York.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct county name, 'Suffolk,' which is the Gold Answer. While the context mentions East Islip High School in Islip Terrace, New York, it does not explicitly state the county name, but Suffolk County is implied. The Model Answer is faithful to the context but does not cover the key fact required by the question."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Captain Ferrers drank with Mr. Pepys.",
+  "context": [
+    {
+      "text": "Produced by David Widger THE DIARY OF SAMUEL PEPYS M.A. F.R.S. CLERK OF THE ACTS AND SECRETARY TO THE ADMIRALTY TRANSCRIBED FROM THE SHORTHAND MANUSCRIPT IN THE PEPYSIAN LIBRARY MAGDALENE COLLEGE CAMBRIDGE BY THE REV. MYNORS BRIGHT M.A. LATE FELLOW AND PRESIDENT OF THE COLLEGE (Unabridged) WITH LORD BRAYBROOKE'S NOTES EDITED WITH ADDITIONS BY HENRY B. WHEATLEY F.S.A. DIARY OF SAMUEL PEPYS. JUNE, JULY & AUGUST 1661 June 1st. Having taken our leaves of Sir W. Batten and my Lady, who are gone this morning to keep their Whitsuntide, Sir W. Pen and I and Mr. Gauden by water to Woolwich, and there went from ship to ship to give order for and take notice of their forwardness to go forth, and then to Deptford and did the like, having dined at Woolwich with Captain Poole at the tavern there. From Deptford we walked to Redriffe, calling at the half-way house, and there come into a room where there was infinite of new cakes placed that are made against Whitsuntide, and there we were very merry. By water home, and there did businesses of the",
+      "id": "Novel-4128_c_0"
+    },
+    {
+      "text": "I do believe that the story is true. Back again at night home. 2d. At the office all the morning. At noon Dr. Thos. Pepys dined with me, and after dinner my brother Tom came to me and then I made myself ready to get a-horseback for Cambridge. So I set out and rode to Ware, this night, in the way having much discourse with a fellmonger,--[A dealer in hides.]--a Quaker, who told me what a wicked man he had been all his life-time till within this two years. Here I lay, and 3rd. Got up early the next morning and got to Barkway, where I staid and drank, and there met with a letter-carrier of Cambridge, with whom I rode all the way to Cambridge, my horse being tired, and myself very wet with rain. I went to the Castle Hill, where the judges were at the Assizes; and I staid till Roger Pepys rose and went with him, and dined with his brother, the Doctor, and Claxton at Trinity Hall. Then parted, and I went to the Rose, and there with Mr. Pechell, Sanchy, and others, sat and drank till night and were very merry, only they tell me how high the old doctors are in the University over those they found there, though a great deal better scholars than themselves; for which I am very sorry,",
+      "id": "Novel-4128_c_50"
+    },
+    {
+      "text": "speak loud of the lewdness and beggary of the Court, which I am sorry to hear, and which I am afeard will bring all to ruin again. So he and I to the Wardrobe to dinner, and after dinner Captain Ferrers and I to the Opera, and saw \"The Witts\" again, which I like exceedingly. The Queen of Bohemia was here, brought by my Lord Craven. So the Captain and I and another to the Devil tavern and drank, and so by coach home. Troubled in mind that I cannot bring myself to mind my business, but to be so much in love of plays. We have been at a great loss a great while for a vessel that I sent about a month ago with, things of my Lord's to Lynn, and cannot till now hear of them, but now we are told that they are put into Soale Bay, but to what purpose I know not. 18th (Lord's day). To our own church in the morning and so home to dinner, where my father and Dr. Tom Pepys came to me to dine, and were very merry. After dinner I took my wife and Mr. Sidney to my Lady to see my Lord Hinchingbroke, who is now pretty well again, and sits up and walks about his chamber. So I went to White Hall, and there hear that my Lord General Monk continues very ill: so I went to la belle Pierce and sat with",
+      "id": "Novel-4128_c_65"
+    },
+    {
+      "text": "Gregory, and Hartlibb, so many of our old club, and Mr. Kipps, where we staid and drank and talked with much pleasure till it was late, and so I walked home and to bed. Mr. Chetwind by chewing of tobacco is become very fat and sallow, whereas he was consumptive, and in our discourse he fell commending of \"Hooker's Ecclesiastical Polity,\" as the best book, and the only one that made him a Christian, which puts me upon the buying of it, which I will do shortly. 30th (Lord's day). To church, where we observe the trade of briefs is come now up to so constant a course every Sunday, that we resolve to give no more to them. [It appears, from an old MS. account-book of the collections in the church of St. Olave, Hart Street, beginning in 1642, still extant, that the money gathered on the 30th June, 1661, \"for several inhabitants of the parish of St. Dunstan in the West towards their losse by fire,\" amounted to \"xxs. viiid.\" Pepys might complain of the trade in briefs, as similar contributions had been levied fourteen weeks successively, previous to the one in question at St. Olave's church. Briefs were abolished in 1828.--B.] A good sermon, and then home to dinner,",
+      "id": "Novel-4128_c_26"
+    },
+    {
+      "text": "I found a letter from my Lord Sandwich, who is now very well again of his feaver, but not yet gone from Alicante, where he lay sick, and was twice let blood. This letter dated the 22nd July last, which puts me out of doubt of his being ill. In my coming home I called in at the Crane tavern at the Stocks by appointment, and there met and took leave of Mr. Fanshaw, who goes to-morrow and Captain Isham toward their voyage to Portugal. Here we drank a great deal of wine, I too much and Mr. Fanshaw till he could hardly go. So we took leave one of another. 27th. This morning to the Wardrobe, and there took leave of my Lord Hinchingbroke and his brother, and saw them go out by coach toward Rye in their way to France, whom God bless. Then I was called up to my Lady's bedside, where we talked an hour about Mr. Edward Montagu's disposing of the L5000 for my Lord's departure for Portugal, and our fears that he will not do it to my Lord's honour, and less to his profit, which I am to enquire a little after. Hence to the office, and there sat till noon, and then my wife and I by coach to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry,",
+      "id": "Novel-4128_c_76"
+    },
+    {
+      "text": "a reader exclaims, “a portmanteau, Mr. Author, so that everything, even to that, shall be just like Yorick,” and in the following passage the author quarrels with the critics who allow no one to travel with a portmanteau, because an English clergyman traveled with one. Pumper’s misunderstanding of this objection is used as a farther ridicule of the critics. When on the journey, the author converses with two poor wandering monks, whose conversation, at any rate, is a witness to their content, the whole being a legacy of the Lorenzo episode, and the author entitles the chapter: “The members of the religious order, or, as some critics will call it, a wretchedly unsuccessful imitation.” In the next chapter, “Der Visitator” (pp. 125 ff.) in which the author encounters customs annoyances, the critic is again allowed to complain that everything is stolen from Yorick, a protest which is answered by the author quite naïvely, “Yorick journeyed, ate, drank; I do too.” In “Die Pause” the author stands before the inn door and fancies that a number of spies (Ausspäher) stand there waiting for him; he protests that Yorick encountered beggars before the inn in Montreuil, a very different sort of folk. On page 253 he exclaims, “für diesen",
+      "id": "Novel-26183_c_288"
+    }
+  ],
+  "cot_scratchpad": "- Pepys drank with Captain Poole at Woolwich tavern (Novel-4128_c_0).\n- At Cambridge, drank with Mr. Pechell, Sanchy, and others (Novel-4128_c_50).\n- At home, drank with Gregory, Hartlibb, Mr. Kipps (Novel-4128_c_26).\n- At the Crane tavern, drank with Mr. Fanshaw and Captain Isham (Novel-4128_c_76).\n- At Crane tavern drank with Mr. Fanshaw and Captain Isham (Novel-4128_c_76).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+      "doc_ids": [
+        "Novel-4128_c_0",
+        "Novel-4128_c_50",
+        "Novel-4128_c_26",
+        "Novel-4128_c_76",
+        "Novel-26183_c_288"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Pepys drank with who Crane tavern",
+      "doc_ids": [
+        "Novel-4128_c_76",
+        "Novel-4128_c_65",
+        "Novel-4128_c_50",
+        "Novel-4128_c_0",
+        "Novel-8559_c_11"
+      ]
+    }
+  ]
+}

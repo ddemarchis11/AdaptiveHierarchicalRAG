@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006877",
+  "question": "What is the birthday of the man who played Lex Luthor in Superman IV: The Quest for Peace?",
+  "gold_answer": "January 30, 1930",
+  "llm_answer": "The evidence does not provide the birthday of the man who played Lex Luthor in Superman IV: The Quest for Peace.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide the birthday of the actor who played Lex Luthor in Superman IV: The Quest for Peace. However, it fails to answer the question using external knowledge, which is January 30, 1930, as stated in the Gold Answer. Thus, the answer is incorrect but faithful to the context."
+  }
+}

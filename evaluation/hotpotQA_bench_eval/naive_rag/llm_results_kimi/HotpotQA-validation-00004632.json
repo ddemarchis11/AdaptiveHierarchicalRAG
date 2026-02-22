@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004632",
+  "question": "What industry does Edgar Selwyn and Chantal Akerman work in?",
+  "gold_answer": "theater and film",
+  "llm_answer": "Edgar Selwyn and Chantal Akerman work in the film industry.",
+  "context": [
+    {
+      "text": "and Jeremy Barham (ed.): The Music and Sound of Experimental Film. New York: Oxford University Press, 2017. Marente Bloemheuvel and Jaap Guldemond (ed.): Chantal Akerman: Passages. Amsterdam: Eye Filmmuseum, 2020. External links Media related to Chantal Akerman at Wikimedia Commons chantal-akerman.foundation paradisefilms.be Archived 24 October 2020 at the Wayback Machine Retrospective by The New York Times Chantal Akerman at IMDb Artist's page in Artfacts.Net Archived 7 March 2016 at the Wayback Machine with actual major exhibitions. Screens of Film, Video, Memory, and Smoke by Ana Balona de Oliveira in Fillip",
+      "id": "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_10"
+    },
+    {
+      "text": "(ed.): Chantal Akerman. Munich: edition text + kritik, 2017. White, Jerry (2005). \"Chantal Akerman's Revisionist Aesthetic\" . In Jean Petrolle & Virginia Wright Wexman (ed.). Women & Experimental Filmmaking . Urbana: University of Illinois. ISBN 0252030060 . Smith, Dinitia (26 April 1998). \"Chantal Akerman and the Point of Point of View\". The New York Times . Searle, Adrian (15 July 2008). \"Smoke and mirror-images\" . The Guardian . London . Retrieved 14 May 2015 . Gandert, Sean (28 August 2009). \"Salute Your Shorts: Chantal Akerman's Saute ma ville \" . Paste . Retrieved 14 May 2015 . Schenker, Andrew (15 January 2010). \"Eclipse Series 19: Chantal Akerman in the Seventies\" . Slant Magazine . Retrieved 23 August 2010 . McGill, Hannah (4 November 2012). \"Leading the Way for the Flair Ladies\" . The Sunday Herald . Washington, D.C. Archived from the original on 9 April 2016 . Retrieved 14 May 2015 . Holly Rogers and Jeremy Barham (ed.): The Music and Sound of Experimental Film. New York: Oxford University Press, 2017. Marente",
+      "id": "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_9"
+    },
+    {
+      "text": "and an attempt to reconstitute the image and voice of the mother. In her autobiographical book Family in Brussels , Akerman narrates the story, interchanging her own voice with her mother's. Death Akerman died by suicide on 5 October 2015 in Paris, at the age of 65. Her last film was the documentary No Home Movie , a series of conversations with her mother shortly before her mother's death. Of the film, she said, \"I think if I knew I was going to do this, I wouldn't have dared to do it.\" According to Akerman's sister, she had been hospitalized for depression and then returned home to Paris ten days before her death. Filmography Feature films Short films Documentaries See also List of female film and television directors List of lesbian filmmakers List of LGBT-related films directed by women References Further reading Gatti, Ilaria Chantal Akerman. Uno schermo nel deserto Roma, Fefè Editore, 2019. Sultan, Terrie (ed.) Chantal Akerman: Moving through Time and Space. Houston, Tex.: Blaffer Gallery, the Art Museum of the University of Houston; New York, N.Y.: Distributed by D.A.P./Distributed Art Publishers, 2008. Fabienne Liptay, Margrit Tröhler (ed.): Chantal Akerman. Munich: edition text + kritik, 2017. White, Jerry (2005).",
+      "id": "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_8"
+    },
+    {
+      "text": "of Madelon Claudet (1931) (director) Skyscraper Souls (1932) (director) Men Must Fight (1933) (director) Turn Back the Clock (1933) (director and co-writer) The Mystery of Mr. X (1934) (director) References External links Wikimedia Commons has media related to Edgar Selwyn . Edgar Selwyn at IMDb Edgar Selwyn at the Internet Broadway Database The Selwyns at the Internet Broadway Database",
+      "id": "HotpotQA-validation-00004632/00_Edgar-Selwyn.html_c_2"
+    },
+    {
+      "text": "Park Square Theatre, Boston, 1915 The Park Square Theatre was a theatre in Park Square in Boston , Massachusetts , designed by architect Clarence Blackall . It opened January 19, 1914, as the Cort Theatre , named for impresario John Cort . It was his first theatrical venue in Boston. In August 1915 the Cort Theatre was purchased by Archibald and Edgar Selwyn and renamed the Park Square Theatre. In 1921 it was renamed the Selwyn Theatre , one of many Selwyn theatres in the United States. In time the building was replaced by a parking garage. Shows Feature story on the opening of the Cort Theatre in The Boston Sunday Post (January 11, 1914) The Cort Theatre opened Monday, January 19, 1914, with the musical comedy, When Dreams Come True . Joseph Santley starred, reprising his role in the Broadway production. Other shows include the following: Twin Beds James Forbes' The Show Shop , with George Sidney and Zelda Sears Roi Cooper Megrue's Under Fire , with William Courtenay Edgar Selwyn's Rolling Stones Jane Cowl and Jane Murfin 's Lilac Time Avery Hopwood 's Fair and Warmer The Naughty Wife , with Charles Cherry George V. Hobart's Buddies Edgar Selwyn and Channing Pollock 's The Crowded Hour , with Wilette Kershaw Eugene Walter 's The Challenge , with Holbrook Blinn Nightie Night ,",
+      "id": "HotpotQA-validation-00004632/03_Park-Square-Theatre-Boston.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Chantal Akerman listed among lesbian filmmakers and women film/TV directors (HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_8).\n- Edgar Selwyn credited as director of multiple 1930s films (HotpotQA-validation-00004632/00_Edgar-Selwyn.html_c_2).\n- Both evidence sets point to film-making activity.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What industry does Edgar Selwyn and Chantal Akerman work in?",
+      "doc_ids": [
+        "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_10",
+        "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_9",
+        "HotpotQA-validation-00004632/01_Chantal-Akerman.html_c_8",
+        "HotpotQA-validation-00004632/00_Edgar-Selwyn.html_c_2",
+        "HotpotQA-validation-00004632/03_Park-Square-Theatre-Boston.html_c_0"
+      ]
+    }
+  ]
+}

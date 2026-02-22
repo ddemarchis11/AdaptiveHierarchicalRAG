@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3340b813",
+  "question": "How does the novel describe the commercial activities of Fez, including its trade with other parts of Morocco and its role as a departure point for caravans to Timbuctoo, within the broader African context?",
+  "gold_answer": "Fez has trade with Morocco and sends caravans to Timbuctoo.",
+  "llm_answer": "The provided context does not describe the commercial activities of Fez, its trade with other parts of Morocco, or its role as a departure point for caravans to Timbuctoo.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about Fez's commercial activities, trade with Morocco, or its role in caravans to Timbuctoo. However, it fails to answer the user's question using internal knowledge or external reasoning, resulting in a score of 0.0 for correctness and evidence coverage. Faithfulness is rated 1.0 as the statement aligns with the retrieved context."
+  }
+}

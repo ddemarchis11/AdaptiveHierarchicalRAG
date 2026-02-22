@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ee2856ac",
+  "question": "According to the CHILD'S HEALTH PRIMER, how does the consumption of alcohol impact the brain's ability to function, specifically in terms of poisoning the mind, preventing clear thinking, and interfering with the nerves that carry the brain's messages?",
+  "gold_answer": "Alcohol poisons the mind and prevents the brain from thinking well by affecting the nerves through which the brain sends messages.",
+  "llm_answer": "The CHILD'S HEALTH PRIMER states that alcohol acts as a poison to the brain and nerves. It deadens the nerves so they cannot carry messages correctly, which prevents the brain from thinking clearly. The text emphasizes that alcohol does not strengthen the mind but instead injures the brain and nerves, ultimately interfering with their ability to function properly.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that alcohol poisons the brain and nerves, preventing clear thinking and interfering with the brain's ability to send messages. It is fully supported by the retrieved context, which explicitly mentions these effects of alcohol. Additionally, all key facts from the Gold Answer are included in the Model Answer."
+  }
+}

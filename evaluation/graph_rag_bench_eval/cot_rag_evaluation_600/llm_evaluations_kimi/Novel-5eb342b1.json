@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5eb342b1",
+  "question": "During the debates in the Lower Canada Assembly regarding the grievances against the colonial government, which prominent figure opposed the Ninety-Two Resolutions that were presented as the Patriote party's demands?",
+  "gold_answer": "Quesnel opposed the Ninety-Two Resolutions.",
+  "llm_answer": "The evidence names five members of the Patriote party who opposed the Ninety-Two Resolutions: Neilson, Cuvillier, Quesnel, Stuart, and “two or three others.” Among these, the only individual explicitly identified as a prominent opponent is Neilson.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Quesnel as one of the opponents of the Ninety-Two Resolutions, which aligns with the Gold Answer. However, it emphasizes Neilson as the prominent opponent, which is not explicitly supported by the context. While the context lists multiple opponents, it does not single out Neilson as the most prominent. The Model Answer is faithful to the context but misses the specific focus on Quesnel as the prominent figure, reducing evidence coverage and correctness."
+  }
+}

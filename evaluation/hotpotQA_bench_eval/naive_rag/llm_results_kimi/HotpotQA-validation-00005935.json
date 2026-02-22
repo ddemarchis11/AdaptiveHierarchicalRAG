@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005935",
+  "question": "The Admiral's Men occupied which kind of theatre in the 1590s ?",
+  "gold_answer": "Elizabethan theatre",
+  "llm_answer": "The Admiral's Men occupied the Rose Theatre in the 1590s.",
+  "context": [
+    {
+      "text": "In Renaissance-era London, playing company was the usual term for a company of actors . These companies were organised around a group of ten or so shareholders (or \"sharers\"), who performed in the plays but were also responsible for management. The sharers employed \"hired men\" – that is, the minor actors and the workers behind the scenes. The major companies were based at specific theatres in London; the most successful of them, William Shakespeare 's company the King's Men , had the open-air Globe Theatre for summer seasons and the enclosed Blackfriars Theatre in the winters. The Admiral's Men occupied the Rose Theatre in the 1590s, and the Fortune Theatre in the early 17th century. Less fortunate companies spent most of their existences touring the provinces; when Worcester's Men gained official permission to perform in London in 1602 , they were, in a manner of speaking, \"coming in from the cold\" of a life of constant touring. Origins The development of theatre in England in the 16th and 17th centuries was not an isolated phenomenon; similar developments occurred simultaneously in other European countries, to greater or lesser degrees. The same broad factors influenced English actors as those that affected actors in neighboring countries, especially Scotland, France, Denmark, and states in northern Germany like Saxony and the Rhineland Palatinate. Yet conditions in other societies also differed significantly from those in England; the following discussion applies specifically to England in the",
+      "id": "HotpotQA-validation-00005935/00_Playing-company.html_c_0"
+    },
+    {
+      "text": "this period, they were still welcome at Court (28 December 1589; 30 March 1590), and still popular in the towns and shires, where they toured more in 1589–90. Indeed, this was perhaps the height of their achievement: in these years Alleyn was making a sensation acting the heroes of Christopher Marlowe . Tamburlaine was printed in 1590 with their name on its title page. Some of the plays of Robert Greene , and Thomas Lodge 's The Wounds of Civil War, were also in their repertory in the early 1590s. Henslowe years It was during the later 1580s that the company established its long-term relationship with Philip Henslowe , theatre builder, producer, impresario. Henslowe's Rose Theatre was home to the Admiral's Men for a number of years, and Henslowe played a key role as a blend of manager and financier. After the major disruption of the 1592–94 era, when the public theatres endured a long closure due to bubonic plague , the Admiral's Men entered another lush period in 1594 and after. The re-constituted company resumed performances on 14 May 1594, with The Jew of Malta and two anonymous and lost plays, The Ranger's Comedy and Cutlack . The Admiral's Men had Edward Alleyn as their leading man; other personnel included George",
+      "id": "HotpotQA-validation-00005935/02_Admirals-Men.html_c_2"
+    },
+    {
+      "text": "continuously from June 1592 to May 1594. The plague took nearly 11,000 Londoners. The companies were forced to tour to survive, and some, like Pembroke's Men , fell on hard times. From 1592 to 1593, the Lord Strange's Men performed on the Rose Stage. From 1593 to 1594, the Earl of Sussex's Men performed in its place, suggesting that the Lord Strange's Men were among the deceased. By the summer of 1594 the plague had abated, and the companies re-organized themselves. The Queen's Men performed in 1594 and the Lord Admiral's Men, still led by Alleyn, resumed its place at the Rose by the spring . At their height, in the year from June 1595, they performed 300 times, nearly thirty-six plays, twenty of which were new. The Lord Admiral's Men resided at The Rose for seven years. Henslowe enlarged the theatre for The Lord Admiral's Men, moving the stage further back (six feet six inches, or two metres) to make room for perhaps 500 extra spectators. The original Rose was smaller than other theatres, only about two-thirds the size of the original Theatre built eleven years earlier, and its stage was also unusually small; the enlargement addressed both matters. Henslowe paid all the costs himself, given Cholmley was deceased. The renovation gave the theatre, formerly a regular",
+      "id": "HotpotQA-validation-00005935/01_The-Rose-theatre.html_c_4"
+    },
+    {
+      "text": "on 3 December 1594 and last played on 18 July 1597. Earlier scholars speculated that it might be an alternative title for Anthony Munday's John a Kent and John a Cumber , though no firm evidence supports this idea. Henslowe had interests in other theatres, including the Fortune Theatre (built in 1600); the Admiral's Men moved into the new venue, and when the lease ran out on The Rose in 1605 it was abandoned. The company prospered, at least moderately, in its new location: in 1600 a share in the Admiral's Men (one out of a total of ten) was worth £50, while in 1613 a share (one of twelve) was valued at £70. Sometime in the winter of 1603–4, after the House of Stuart succeeded to the throne of England, the Admiral's Men acquired a new patron, Prince Henry (1594–1612), later the Prince of Wales (1610–12). Edward Alleyn retired from the stage in 1604, though he was involved with the company as their Fortune Theatre landlord. During this period their core cohort of players consisted of William Bird, Thomas Towne, Samuel Rowley , Charles Massey, Humphrey and Anthony Jeffes , Edward Juby, and Thomas Downton (who had been part of the 1597 production of The Isle of Dogs ). Edward Juby was the company's",
+      "id": "HotpotQA-validation-00005935/02_Admirals-Men.html_c_5"
+    },
+    {
+      "text": "Lord High Admiral in 1585, the group's name was changed to reflect his new title. They performed regularly in the provinces and at Court in the 1585–87 period; but a fatal accident at one of their performances forced them into a temporary retirement. (During a performance in London on 16 November 1587, stage gunfire went wrong, killing a child and a pregnant woman.) But they returned to activity with two performances at Court in the winter of 1588–9, on 29 December and 11 February. Despite the power of their patron, the Admiral's Men were not entirely free of official interference. Both they and the Lord Strange's Men were stopped from playing by the Lord Mayor of London in November 1589; it seems that Edmund Tilney , the Master of the Revels , had taken a dislike to their choice of plays. During this period of difficulty the Admiral's Men moved into James Burbage's The Theatre for a time (November 1590 to May 1591), and there they played Dead Man's Fortune with a young Richard Burbage in the cast – the only time that the later competitors Burbage and Edward Alleyn , the longtime star of the Admiral's, are known to have acted together.  If the Admiral's Men were having difficulties in the city in this period, they were still welcome at Court (28 December 1589; 30 March 1590), and still popular in the towns and",
+      "id": "HotpotQA-validation-00005935/02_Admirals-Men.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Admiral's Men occupied Rose Theatre in 1590s (HotpotQA-validation-00005935/00_Playing-company.html_c_0)\n- This Rose Theatre was described as \"open-air\" Globe vs enclosed Blackfriars example shows Rose is open-air (HotpotQA-validation-00005935/00_Playing-company.html_c_0)\n- Henslowe enlarged stage for more spectators at open-air Rose (HotpotQA-validation-00005935/01_The-Rose-theatre.html_c_4)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The Admiral's Men occupied which kind of theatre in the 1590s ?",
+      "doc_ids": [
+        "HotpotQA-validation-00005935/00_Playing-company.html_c_0",
+        "HotpotQA-validation-00005935/02_Admirals-Men.html_c_2",
+        "HotpotQA-validation-00005935/01_The-Rose-theatre.html_c_4",
+        "HotpotQA-validation-00005935/02_Admirals-Men.html_c_5",
+        "HotpotQA-validation-00005935/02_Admirals-Men.html_c_1"
+      ]
+    }
+  ]
+}

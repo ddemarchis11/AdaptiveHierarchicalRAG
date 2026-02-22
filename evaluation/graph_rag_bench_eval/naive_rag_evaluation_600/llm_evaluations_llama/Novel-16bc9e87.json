@@ -1,0 +1,12 @@
+{
+  "id": "Novel-16bc9e87",
+  "question": "From which state did General Pearce's army originate during the Civil War events described in the novel?",
+  "gold_answer": "General Pearce had his army from Arkansas.",
+  "llm_answer": "The text does not mention General Pearce's army. However, it does mention General Price's division of infantry, which originated from Arkansas.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies General Price's division as originating from Arkansas, which aligns with the Gold Answer's mention of General Pearce's army being from Arkansas. However, the Model Answer does not directly address General Pearce or his army, instead focusing on General Price's division. While the context does not explicitly mention General Pearce, the connection to Arkansas is accurate and grounded in the retrieved context."
+  }
+}

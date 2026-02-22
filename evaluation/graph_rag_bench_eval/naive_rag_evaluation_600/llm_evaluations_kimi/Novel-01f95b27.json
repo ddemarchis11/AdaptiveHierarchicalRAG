@@ -1,0 +1,12 @@
+{
+  "id": "Novel-01f95b27",
+  "question": "What cultural activities involving the arts did Samuel Pepys engage in as described in his diary, such as attending theatrical performances like 'The Siege of Rhodes' and 'Bartholomew Fayre', and learning to sing from Mr. Goodgroome?",
+  "gold_answer": "Samuel Pepys saw 'The Siege of Rhodes' and 'Bartholomew Fayre', and learned to sing from Mr. Goodgroome.",
+  "llm_answer": "Samuel Pepys’s diary shows him taking singing lessons from Mr. (Theodore) Goodgroome and going to the theatre—he records seeing “The Siege of Rhodes” and “Bartholomew Fayre.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the cultural activities Samuel Pepys engaged in, including taking singing lessons from Mr. Goodgroome and attending theatrical performances such as 'The Siege of Rhodes' and 'Bartholomew Fayre.' These details are supported by the retrieved context and align with the Gold Answer, covering all key facts mentioned."
+  }
+}

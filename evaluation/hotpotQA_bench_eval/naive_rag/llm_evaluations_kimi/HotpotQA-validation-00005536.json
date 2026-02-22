@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005536",
+  "question": "Alexandra Park in Greater Manchester, England was created in response to an event that ook place during what years?",
+  "gold_answer": "1861–65",
+  "llm_answer": "The Lancashire Cotton Famine of 1861–1865.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Lancashire Cotton Famine of 1861–1865 as the event that led to the creation of Alexandra Park, matching the Gold Answer and being fully supported by the Retrieved Context. It includes all necessary facts without adding unsupported details."
+  }
+}

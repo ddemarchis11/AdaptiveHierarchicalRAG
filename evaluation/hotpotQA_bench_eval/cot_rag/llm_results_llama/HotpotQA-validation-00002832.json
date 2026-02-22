@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002832",
+  "question": "Which mathematician worked with algebraic geometry instead of probability theory, Askold Khovanskii or Andrey Kolmogorov?",
+  "gold_answer": "Askold Georgievich Khovanskii",
+  "llm_answer": "Based on the provided evidence, the mathematician who worked with algebraic geometry instead of probability theory is Askold Khovanskii.",
+  "context": [
+    {
+      "text": "Askold Georgievich Khovanskii ( Russian : Аскольд Георгиевич Хованский ; born 3 June 1947, Moscow) is a Russian and Canadian mathematician currently a professor of mathematics at the University of Toronto , Canada. His areas of research are algebraic geometry , commutative algebra , singularity theory , differential geometry and differential equations . His research is in the development of the theory of toric varieties and Newton polyhedra in algebraic geometry. He is also the inventor of the theory of fewnomials , and the Bernstein–Khovanskii–Kushnirenko theorem is named after him. He obtained his Ph.D. from Steklov Mathematical Institute in Moscow under the supervision of Vladimir Arnold . In his Ph.D. thesis, he developed a topological version of Galois theory . He studies the theory of Newton–Okounkov bodies , or Okounkov bodies for short. Among his graduate students are Olga Gel'fond, Feodor Borodich, H. Petrov-Tan'kin, Kiumars Kaveh, Farzali Izadi, Ivan Soprunov, Jenya Soprunova, Vladlen Timorin, Valentina Kirichenko, Sergey Chulkov, V. Kisunko, Mikhail Mazin, O. Ivrii, K. Matveev, Yuri Burda, and J. Yang.",
+      "id": "HotpotQA-validation-00002832/00_Askold-Khovanskii.html_c_0"
+    },
+    {
+      "text": "Andrey Nikolaevich Kolmogorov (Russian: Андре́й Никола́евич Колмого́ров , IPA: [ɐnˈdrʲej nʲɪkɐˈlajɪvʲɪtɕ kəlmɐˈɡorəf] ⓘ , 25 April 1903 – 20 October 1987) was a Soviet mathematician who played a central role in the creation of modern probability theory . He also gave fundamental contributions to the mathematics of topology , intuitionistic logic , turbulence , classical mechanics , functional analysis , algorithmic information theory and computational complexity . Biography Early life Andrey Kolmogorov was born in Tambov , about 500 kilometers southeast of Moscow , in 1903. His unmarried mother, Maria Yakovlevna Kolmogorova, died giving birth to him. Andrey was raised by two of his aunts in Tunoshna (near Yaroslavl ) at the estate of his grandfather, a well-to-do nobleman . Little is known about Andrey's father. He was supposedly named Nikolai Matveyevich Katayev and had been an agronomist . Katayev had been exiled from Saint Petersburg to the Yaroslavl province after his participation in the revolutionary movement against the tsars . He disappeared in 1919 and was presumed to",
+      "id": "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_0"
+    },
+    {
+      "text": "Kolmogorov population model Kolmogorov's Strong Law of Large Numbers Bibliography A bibliography of his works appeared in \"Publications of A. N. Kolmogorov\" . Annals of Probability . 17 (3): 945– 964. July 1989. doi : 10.1214/aop/1176991252 . Kolmogorov, Andrey (1933). Grundbegriffe der Wahrscheinlichkeitsrechnung (in German). Berlin: Julius Springer. Translation: Kolmogorov, Andrey (1956). Foundations of the Theory of Probability (2nd ed.). New York: Chelsea. ISBN 978-0-8284-0023-7 . Archived from the original on 14 September 2018 . Retrieved 17 February 2016 . {{ cite book }} : ISBN / Date incompatibility ( help ) 1991–93. Selected works of A.N. Kolmogorov , 3 vols. Tikhomirov, V. M., ed., Volosov, V. M., trans. Dordrecht : Kluwer Academic Publishers . ISBN 90-277-2796-1 1925. \"On the principle of the excluded middle\" in Jean van Heijenoort , 1967. A Source Book in Mathematical Logic, 1879–1931 . Harvard Univ. Press:",
+      "id": "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_10"
+    },
+    {
+      "text": ") became interested in probability theory . Also in 1925, he published his work in intuitionistic logic , \"On the principle of the excluded middle,\" in which he proved that under a certain interpretation all statements of classical formal logic can be formulated as those of intuitionistic logic. In 1929, Kolmogorov earned his Doctor of Philosophy degree from Moscow State University. In 1929, Kolmogorov and Alexandrov during a long travel stayed about a month in an island in lake Sevan in Armenia. In 1930, Kolmogorov went on his first long trip abroad, traveling to Göttingen and Munich and then to Paris . He had various scientific contacts in Göttingen, first with Richard Courant and his students working on limit theorems, where diffusion processes proved to be the limits of discrete random processes, then with Hermann Weyl in intuitionistic logic, and lastly with Edmund Landau in function theory. His pioneering work About the Analytical Methods of Probability Theory was published (in German) in 1931. Also in 1931, he became a professor at Moscow State University . In 1933, Kolmogorov published his book Foundations of the Theory of Probability , laying the modern axiomatic foundations of probability theory and establishing his reputation as the world's leading expert in this field. In 1935, Kolmogorov became the first chairman of the department of",
+      "id": "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_3"
+    },
+    {
+      "text": "Derived algebraic geometry is a branch of mathematics that generalizes algebraic geometry to a situation where commutative rings , which provide local charts, are replaced by either differential graded algebras (over Q {\\displaystyle \\mathbb {Q} } ), simplicial commutative rings or E ∞ {\\displaystyle E_{\\infty }} -ring spectra from algebraic topology , whose higher homotopy groups account for the non-discreteness (e.g., Tor) of the structure sheaf. Grothendieck's scheme theory allows the structure sheaf to carry nilpotent elements . Derived algebraic geometry can be thought of as an extension of this idea, and provides natural settings for intersection theory (or motivic homotopy theory ) of singular algebraic varieties and cotangent complexes in deformation theory (cf. J. Francis), among the other applications. Introduction Basic objects of study in the field are derived schemes and derived stacks . The oft-cited motivation is Serre's intersection formula . In the usual formulation, the formula involves the Tor functor and thus, unless higher Tor vanish, the scheme-theoretic intersection (i.e., fiber product of immersions) does not yield the correct intersection number . In the derived context, one takes the derived tensor product A ⊗ L B {\\displaystyle A\\otimes ^{L}B} , whose higher homotopy is higher Tor, whose Spec is not a scheme but a derived scheme .",
+      "id": "HotpotQA-validation-00002832/02_Derived-algebraic-geometry.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Askold Khovanskii works in algebraic geometry (Novel-00002832_c_0).\n- Andrey Kolmogorov works in probability theory (Novel-00002832_c_3).\n- Algebraic geometry is not probability theory (Novel-00002832_c_0).\n- Derived algebraic geometry is a branch of algebraic geometry (Novel-00002832_c_0).\n- Algebraic geometry is not derived algebraic geometry (Novel-00002832_c_0).\n- Algebraic geometry is not probability theory (Novel-00002832_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which mathematician worked with algebraic geometry instead of probability theory, Askold Khovanskii or Andrey Kolmogorov?",
+      "doc_ids": [
+        "HotpotQA-validation-00002832/00_Askold-Khovanskii.html_c_0",
+        "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_0",
+        "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_10",
+        "HotpotQA-validation-00002832/01_Andrey-Kolmogorov.html_c_3",
+        "HotpotQA-validation-00002832/02_Derived-algebraic-geometry.html_c_0"
+      ]
+    }
+  ]
+}

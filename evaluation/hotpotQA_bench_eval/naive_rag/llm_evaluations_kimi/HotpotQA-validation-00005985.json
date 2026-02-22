@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005985",
+  "question": "The runner-up in The Celebrity Apprentice 2 has written an autobiography titled what?",
+  "gold_answer": "\"How I Raised, Folded, Bluffed, Flirted, Cursed, and Won Millions at the World Series of Poker\"",
+  "llm_answer": "The evidence does not mention any autobiography written by the runner-up of The Celebrity Apprentaire 2 (Annie Duke).",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the retrieved context does not mention any autobiography by Annie Duke, which is accurate based on the provided context. However, the Gold Answer explicitly provides the title of Annie Duke's autobiography, which the Model Answer fails to include. Thus, the Model Answer is incorrect in terms of answering the question and does not cover the key fact from the Gold Answer."
+  }
+}

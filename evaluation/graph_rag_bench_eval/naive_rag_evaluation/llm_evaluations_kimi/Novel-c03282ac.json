@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c03282ac",
+  "question": "How is the movement of Tom Ditamus ultimately associated with the Ohio river?",
+  "gold_answer": "Tom Ditamus moved to the Ohio river.",
+  "llm_answer": "Tom Ditamus’s entire westward movement is inseparable from the Ohio River.  \nHe first came out of the Cumberland backwoods by descending the Kentucky River and ascending the Ohio to the mouth of the Kentucky—Port William—where he settled. After his wife died and his land-title failed, he left that very cabin and again “moved to the Ohio river,” i.e., he relocated his family to the river-front settlement. Finally, when he agreed to spirit Suza Fairfield away, he started the return journey in a wagon from that same Ohio-river landing. Thus every stage of Tom’s wandering—arrival, residence, departure, and the hired trip with Suza—is tied to the Ohio River.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, which is that Tom Ditamus moved to the Ohio River. It expands on this by detailing the stages of his movement and association with the Ohio River, all of which are supported by the Retrieved Context. The additional details provided are relevant, grounded, and enhance the understanding of the association, while including all key facts from the Gold Answer."
+  }
+}

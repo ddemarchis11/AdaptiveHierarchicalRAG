@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6e3efa6e",
+  "question": "According to the narrative, how is the relationship between Mayab and Hindostan described, particularly in terms of their similarity and the presence of Maya in Hindostan, and how does this relate to the cultural or historical connections with the Mayas?",
+  "gold_answer": "Mayab is said to have similarity with Hindostan, and Hindostan has Maya.",
+  "llm_answer": "The narrative describes the relationship between Mayab and Hindostan as one of shared cultural elements and possible historical connections, rather than direct civilizational inheritance. It notes that while some customs and religious practices are common between the Mayas and Hindostan, these are too few to assert that the Mayas received their civilization from Hindostan. Instead, the text suggests that relations existed at some point, leading to an interchange of habits and beliefs. \n\nIn Hindostan, the name *Maya* is associated with a prince or goddess, and the Maya custom of carrying children astride on nurses' hips is observed. The narrative also mentions that the story of *Isis* and *Osiris* in Egypt (which is linked to Hindostan's traditions) is a mythical account of Maya figures, indicating a shared mythological framework. However, the text emphasizes that the Mayas did not receive their civilization from Hindostan or other Asiatic regions, as their religious lores and customs are distinct. The presence of Maya-like elements in Hindostan is attributed to cultural interchange rather than direct descent or influence.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the relationship between Mayab and Hindostan, emphasizing their similarities and the presence of Maya elements in Hindostan. It provides additional context about cultural interchange and mythological connections, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the detailed explanation aligns with the narrative provided in the context."
+  }
+}

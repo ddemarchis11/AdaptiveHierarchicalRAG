@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005156",
+  "question": "What is the name of the county that Cari Roccaro is from?",
+  "gold_answer": "Suffolk",
+  "llm_answer": "Suffolk County",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Suffolk County as the county Cari Roccaro is from, which matches the Gold Answer. The retrieved context supports this information, as it mentions East Islip being located in Suffolk County, New York. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

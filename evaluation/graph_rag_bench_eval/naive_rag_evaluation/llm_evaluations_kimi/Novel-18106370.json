@@ -1,0 +1,12 @@
+{
+  "id": "Novel-18106370",
+  "question": "In what way does the chain of relationships connect the poet Naso to Ceres?",
+  "gold_answer": "Venus is goddess of Love, which Naso writes of, and Love inflamed Ceres.",
+  "llm_answer": "The chain of relationships connecting the poet Naso to Ceres is: Naso (Ovid) is compelled by Cupid to write love poetry instead of epic tales, and within those love poems he invokes Ceres as one of the traditional deities whose proper realm and attributes are humorously displaced by Love’s power.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a partially correct interpretation by mentioning Naso's connection to Cupid and Love, but it does not explicitly state the key relationship that 'Love inflamed Ceres,' as mentioned in the Gold Answer. Additionally, the Retrieved Context does not support the claims made in the Model Answer, making it unfaithful to the context. While the Model Answer touches on the theme of love poetry and deities, it misses the specific connection between Venus, Love, and Ceres outlined in the Gold Answer."
+  }
+}

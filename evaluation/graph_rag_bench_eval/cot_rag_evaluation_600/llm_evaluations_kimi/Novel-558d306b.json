@@ -1,0 +1,12 @@
+{
+  "id": "Novel-558d306b",
+  "question": "After attending the fight between 'Dutchy' Mack and the Black Diamond, who went to the Owl's Nest restaurant?",
+  "gold_answer": "Van Bibber went to the Owl's Nest.",
+  "llm_answer": "Van Bibber, Travers, Spielman, and another reporter went to the Owl's Nest restaurant after the fight.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Van Bibber as one of the individuals who went to the Owl's Nest restaurant, which aligns with the Gold Answer. It also adds details about Travers, Spielman, and another reporter, which are supported by the Retrieved Context. However, the Gold Answer specifically mentions only Van Bibber, so the Model Answer includes additional names not required for evidence coverage."
+  }
+}

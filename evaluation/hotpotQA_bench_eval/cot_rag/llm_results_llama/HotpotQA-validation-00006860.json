@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00006860",
+  "question": "What two singers who worked together on the song I Would Like to See You Again also performed as part of a country music group which was active between 1985 and 1995?",
+  "gold_answer": "Johnny Cash, Waylon Jennings",
+  "llm_answer": "Based on the provided evidence, the two singers who worked together on the song \"I Would Like to See You Again\" also performed as part of a country music group which was active between 1985 and 1995 are:\n\nJohnny Cash and Waylon Jennings.\n\nThey collaborated on the song \"I Would Like to See You Again\" and also worked together as part of the country music group The Highwaymen, which included Willie Nelson and Kris Kristofferson.",
+  "context": [
+    {
+      "text": "Knew You Were Trouble \" was the inspiration behind her song \" Send My Love (To Your New Lover) \", saying: \"I was like, 'Who did this?' I knew it was Taylor, and I've always loved her, but this is a totally other side – like, 'I want to know who brought that out in her.' I was unaware that I knew who Max Martin was. I Googled him, and I was like, 'He's literally written every massive soundtrack of my life.' So I got my management to reach out. They came to London, and I took my guitar along and was like, 'I've got this riff,' and then 'Send My Love' happened really quickly.\" Musical style Adele's music is primarily pop and soul , with elements of blues , \" classic R&B \", country , gospel , jazz , and Motown . Her early success came while several other British soul singers were present on the music scene, with the British press dubbing her a new Amy Winehouse. However, Adele called the comparisons between her and other female soul singers lazy, noting \"we're a gender, not a genre\". AllMusic wrote that \"Adele is simply too magical to compare her to anyone.\" Her song topics often address heartbreak and relationship. Adele's second album, 21 , shares the folk and soul influences of her debut album, but was further inspired by American country and Southern blues music to which she had been exposed",
+      "id": "HotpotQA-validation-00000314/01_Adele.html_c_32"
+    },
+    {
+      "text": "The Highwaymen were an American country music supergroup consisting of Johnny Cash , Waylon Jennings , Willie Nelson , and Kris Kristofferson . Between 1985 and 1995, they recorded three major label albums as the Highwaymen: two on Columbia Records and one for Liberty Records . Their Columbia works produced three chart singles, including the number one \" Highwayman \" in 1985. One other vocal artist appeared on a Highwaymen recording: Johnny Rodriguez , who provided Spanish vocal on \" Deportee \", a Woody Guthrie composition, from the album Highwayman . The four starred together in the 1986 film Stagecoach . In 1990, the original members of the 1950s-'60s folk group of the same name sued the Highwaymen over their use of the name, which was inspired by a Jimmy Webb ballad the country stars had recorded. The suit was dropped when all parties agreed that the folk group owned the name but that the earlier group would grant a nonexclusive, nontransferable license to the supergroup to use the name. The two groups shared the stage at a 1990 concert in Hollywood. Albums Highwayman Formed in 1985, the group did not have an official name when they released their first two albums on Columbia Records . The first album, Highwayman , was credited to \"Nelson, Jennings, Cash, Kristofferson\". The single \" Highwayman \", a Jimmy Webb composition, became a #1 country hit.",
+      "id": "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_0"
+    },
+    {
+      "text": "I Would Like to See You Again is an album by American country singer Johnny Cash , released on Columbia Records in 1978. The title track peaked at No. 12 on the singles chart, while \"There Ain't No Good Chain Gang\" reached No. 2; the album peaked at No. 23. The album features a pair of duets with Waylon Jennings , one of which was the \"There Ain't No Good Chain Gang\" single; it was one of Cash's first collaborations with Jennings, and the two recorded songs together throughout the 1980s, including a separate album entitled Heroes . Cash and Jennings would also work together as the Highwaymen with Willie Nelson and Kris Kristofferson . Critical reception Rolling Stone noted that, \"in current country terminology, this outsider has become an Outlaw, and Cash, in keeping with the new secular faith, strips his sound to a lean roar, writes a few hard-boiled stories ripe with romantic agonies and enjoins Waylon Jennings, country music's Incredible Hulk, to glower along on a couple of songs.\" Track listing Personnel Johnny Cash - vocals, guitar Waylon Jennings - vocals and electric guitar on \"I Wish I Was Crazy Again\" and \"There Ain't No Good Chain Gang\" Bob Wootton , Jerry Hensley, Jack Routh, Jimmy Capps, Jerry Shook, Pete Wade - guitar Marshall Grant , Gordon Payne - bass WS Holland - drums Ralph Mooney - steel guitar Larry",
+      "id": "HotpotQA-validation-00006860/00_I-Would-Like-to-See-You-Again.html_c_0"
+    },
+    {
+      "text": "by Bollywood film stars rather than playback singers. They specially composed \" Aati Kya Khandala \" in the film Ghulam for the lead actor Aamir Khan . Later, they also composed a song for Sanjay Dutt to sing in the film Khoobsurat . Jatin–Lalit has composed the highest-selling Bollywood soundtrack of the year on four occasions – Dilwale Dulhania Le Jayenge in 1995, Kuch Kuch Hota Hai in 1998, Mohabbatein in 2000, and Kabhi Khushi Kabhie Gham in 2001. The duo has been accused of plagiarism. Indian music critic Karthik Srinivasan , on his website ItwoFS , which tracks plagiarism in the Indian film music industry, lists 23 such tunes. Among those is Suno Zara from the movie Bada Din (1998) allegedly taken from Anne Murray ’s You Needed Me (1978). The separation and reunion After working for almost 16 years together, they announced that they would be parting ways due to personal problems. Reasons for the separation still are unknown. In February 2020, the Jatin–Lalit duo came together and organised a concert in Mumbai which was very well received and in which numerous leading Bollywood singers performed. Solo careers Lalit and Jatin have continued to compose separately. Lalit scored the 2007 film, Life Mein Kabhie",
+      "id": "HotpotQA-validation-00003495/01_JatinLalit.html_c_5"
+    },
+    {
+      "text": "Buchannon \"), \"Movin' In\", and \"In The Country\" ( Chicago II ), \" Free \" ( Chicago III ), \" Dialogue (Part I & II) \" ( Chicago V ), \" Wishing You Were Here \" ( Chicago VII ), and \" Brand New Love Affair \" ( Chicago VIII ). His vocal delivery was later described by Lamm as \"The White Ray Charles \". Pankow, who wrote \"Make Me Smile\", tried rehearsing the song with various members singing lead, but ultimately settled on Kath, saying \"bingo – 'that' was the voice.\" Kath was one of the three primary lead singers of Chicago, with a vocal range between those of the other two, Peter Cetera 's higher tenor and Robert Lamm 's fuller, lower baritone. He often collaborated with Cetera on lead vocals as they did in \" Dialogue (Part I & II) ,\" \"Ain't It Blue,\" \"In The Country,\" and \" Brand New Love Affair \". Kath also played lead guitar and sang lead vocals on the closing song \"Tell Me\" in the 1973 drama movie Electra Glide in Blue . The song was used in the final episode of the television series Miami Vice . Personal life and death Kath had a self-admitted history of drug abuse , including alcohol . Seraphine knew that Kath had a high tolerance for drugs and he later recalled Kath telling him: \"I'm going to get things under control ... if I",
+      "id": "HotpotQA-validation-00005877/00_Terry-Kath.html_c_8"
+    },
+    {
+      "text": "John hit used on the soundtrack to Scream 2 . Spencer said: \"The reason we did that Scream 2 soundtrack was to try working with a producer. We were definitely into the Dr. Octagon record – it's a great record, and also a bizarre kinda record. So besides 'Right Place.' we recorded some other songs.\"\" The next stop was Steve Albini 's studio, Electrical Audio , where the Blues Explosion cut some tracks in the days following their 1998 New Year's Eve Chicago performance. \"Steve's we cut everything live, like we always do,\" he says. \"I wanted to use Steve because I knew he would do a good job and the tapes would sound great, and we could send them to anybody because we had a great starting point and couldn't really go wrong\" Whilst in Chicago they also met Andre Williams who was playing locally. He recorded guest vocals for the track \"Lapdance\" (which wasn't released until the Acme Plus / Extra Acme albums issued the following year). The singer explained: Some of Acme was done in the old-fashioned Blues Explosion way, me working with the engineer, but we were also casting a wide net. Some songs were mixed and remixed by different producers, which is one reason it got so expensive, and some of them were eventually stitched together from two or three different mixes. We weren't being so precious about these songs, we were letting other people work on it and then we'd",
+      "id": "HotpotQA-validation-00004521/01_Jon-Spencer-Blues-Explosion.html_c_16"
+    }
+  ],
+  "cot_scratchpad": "- Adele's music style includes country.\n- Adele's second album, 21, was further inspired by American country and Southern blues music.\n- The Highwaymen were an American country music supergroup.\n- The Highwaymen consisted of Johnny Cash, Waylon Jennings, Willie Nelson, and Kris Kristofferson.\n- Johnny Cash and Waylon Jennings worked together as the Highwaymen and on other songs.\n- Johnny Cash and Waylon Jennings recorded songs together throughout the 1980s, including an album entitled Heroes.\n- The Highwaymen were an American country music supergroup.\n- The Highwaymen consisted of Johnny Cash, Waylon Jennings, Willie Nelson, and Kris Kristofferson.\n- Johnny Cash and Waylon Jennings worked together as the Highwaymen and on other songs.\n- Johnny Cash and Waylon Jennings recorded songs together throughout the 1980s, including an album entitled Heroes.\n- I Would Like to See You Again is an album by American country singer Johnny Cash, released on Columbia Records in 1978.\n- The album features a pair of duets with Waylon Jennings, one of which was the \"There Ain't No Good Chain Gang\" single;\n- Johnny Cash and Waylon Jennings worked together as the Highwaymen and on other songs (Novel-00006860_c_0).\n- The Highwaymen consisted of Johnny Cash, Waylon Jennings, Willie Nelson, and Kris Kristofferson (Novel-00006860_c_0).\n- The Highwaymen were an American country music supergroup (Novel-00006860_c_0).\n- The Highwaymen were active between 1985 and 1995 (Novel-00006860_c_1).\n- I Would Like to See You Again is an album by Johnny Cash, released in 1978 (Novel-00006860_c_0).\n- The album features a pair of duets with Waylon Jennings (Novel-00006860_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What two singers who worked together on the song I Would Like to See You Again also performed as part of a country music group which was active between 1985 and 1995?",
+      "doc_ids": [
+        "HotpotQA-validation-00000314/01_Adele.html_c_32",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_0",
+        "HotpotQA-validation-00006860/00_I-Would-Like-to-See-You-Again.html_c_0",
+        "HotpotQA-validation-00003495/01_JatinLalit.html_c_5",
+        "HotpotQA-validation-00005877/00_Terry-Kath.html_c_8"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Which two Highwaymen members also performed together on other songs?",
+      "doc_ids": [
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_0",
+        "HotpotQA-validation-00006860/00_I-Would-Like-to-See-You-Again.html_c_0",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_2",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_1",
+        "HotpotQA-validation-00000486/00_Tappi-Tkarrass.html_c_0"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Which two Highwaymen members also performed together on other songs besides Heroes?",
+      "doc_ids": [
+        "HotpotQA-validation-00006860/00_I-Would-Like-to-See-You-Again.html_c_0",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_0",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_2",
+        "HotpotQA-validation-00004521/01_Jon-Spencer-Blues-Explosion.html_c_16",
+        "HotpotQA-validation-00006860/01_The-Highwaymen-country-supergroup.html_c_1"
+      ]
+    }
+  ]
+}

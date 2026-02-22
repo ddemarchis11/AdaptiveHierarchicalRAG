@@ -1,0 +1,12 @@
+{
+  "id": "Novel-58758b1e",
+  "question": "What is the close personal relationship between Miss Piney Tibbs and Cissy Trixit as depicted in the social scenes of Canada City?",
+  "gold_answer": "Miss Piney Tibbs is the bosom friend of Cissy Trixit.",
+  "llm_answer": "The close personal relationship between Miss Piney Tibbs and Cissy Trixit as depicted in the social scenes of Canada City is one of friendship and loyalty. They are described as \"bosom friends\" and Cissy is referred to as the \"acknowledged belle of Canada City\" with Piney being her \"protegee.\" They share a close bond, with Piney being more reserved and less confident in her social status, while Cissy is more outgoing and confident due to her family's wealth and influence.\n\nTheir relationship is characterized by Cissy's tendency to dominate the conversation and Piney's willingness to follow her lead. Piney is also shown to be loyal to Cissy, as seen when she doesn't believe Cissy's father would do something that would harm her, despite hearing negative comments about him from others.\n\nTheir friendship is also depicted as being influenced by their social status, with Cissy being from a wealthy family and Piney being from a lower-middle-class family. However, despite these differences, they are able to maintain a close and supportive relationship.\n\nIt's worth noting that the relationship between Cissy and Piney is not without its tensions and conflicts. Cissy's tendency to dominate the conversation and Piney's loyalty to her can sometimes lead to Piney feeling uncomfortable or trapped. Additionally, Cissy's lack of awareness about her father's business dealings and her tendency to dismiss negative comments about him can create tension in their relationship.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the close personal relationship between Miss Piney Tibbs and Cissy Trixit as one of 'bosom friends,' which aligns with the Gold Answer. It expands on their dynamic, social status differences, and nuances of their friendship, all of which are supported by the Retrieved Context. The additional details provided are relevant and grounded in the context, making the answer both accurate and comprehensive."
+  }
+}

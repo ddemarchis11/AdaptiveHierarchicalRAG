@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001170",
+  "question": "Which film does \"Naked Weapon\" follow in the \"Naked\" series?",
+  "gold_answer": "\"Naked Killer\"",
+  "llm_answer": "The film \"Naked Soldier\" follows \"Naked Killer\" in the \"Naked\" series.",
+  "context": [
+    {
+      "text": "Naked Soldier (絕色武器) is a 2012 Hong Kong action film directed by Marco Mak and starring Jennifer Tse . It is the third installment of the \"Naked\" series Naked Killer (1992) and Naked Weapon (2002). Plot The story of Phoenix who was kidnapped, when she was a child, by Madame Rose after killing her family except for Phoenix's father, Interpol agent CK Lung, who is still struggling to find his daughter. Phoenix is now an assassin under Madam Rose's orders, her target was her own father. Cast Jennifer Tse as Phoenix Sammo Hung as CK Lung Ellen Chan as Madame Rose Philip Ng as Black Dragon Ankie Beilke as Selina Andy On as Sam Wong Jia-Qi Kang as Wai-Chu Lung/Skinny Lena Lin as Ivy Jiang Luxia as Thai Assassin Ian Powers as Honey/Mafia Chief Timmy Hung as Pete Anthony Wong as Power References External links Official website Naked Soldier at IMDb v t e v t e",
+      "id": "HotpotQA-validation-00001170/00_Naked-Soldier.html_c_0"
+    },
+    {
+      "text": "Naked Weapon (赤裸特工) is a 2002 Hong Kong action-thriller film directed by action choreographer Tony Ching , starring Maggie Q , Anya Wu and Daniel Wu . Written by film producer Wong Jing , Naked Weapon is similar in theme though unrelated to his earlier work Naked Killer (1992). The film revolves around three assassins who get close to their targets, primarily through seduction, before they kill them. The film grossed HK$ 72,828 in the first week of release in Hong Kong but quickly dropped in the subsequent month, therefore a box-office bomb . Plot The movie opens with the assassination of a man of unknown identity. A team of three CIA officers, including rookie Jack Chen ( Daniel Wu ), watch through surveillance as an assassin named Fiona Birch (Marit Thoresen) enters the man's heavily guarded apartment suite and, after having sex with him, kills him by breaking his spine with her bare hands during a massage. As she makes her escape, Fiona's car is hit by a rocket. As the CIA officers rush over to extricate her from the wreckage, they are shot and killed by a woman in a limousine, leaving Jack as the only survivor. The woman in the limousine is revealed to be Madam M ( Almen Wong ), the leader of a mysterious assassin organization. After the incident, young girls across the globe start disappearing one after another. The only relationship among them is that they",
+      "id": "HotpotQA-validation-00001170/01_Naked-Weapon.html_c_0"
+    },
+    {
+      "text": "The Naked Gun 2½: The Smell of Fear is a 1991 American crime comedy film serving as the sequel to the 1988 film The Naked Gun: From the Files of Police Squad! , and the second installment in The Naked Gun film series . The film stars Leslie Nielsen as the comically bumbling Police Lt. Frank Drebin of Police Squad! . Priscilla Presley plays the role of Jane, with O. J. Simpson as Nordberg and George Kennedy as police captain Ed Hocken. The film also features Robert Goulet (who previously made a \"special guest star\" appearance on Police Squad! ) as the villainous Quentin Hapsburg and Richard Griffiths in a dual role as renewable fuel advocate Dr. Albert S. Meinheimer and his evil double. Zsa Zsa Gabor and Mel Tormé have cameo roles. David Zucker returns from the first entry as director and screenwriter of the film. Jim Abrahams and Jerry Zucker serve as executive producers for the film and receive writing credit due to their contributions to the first entry of the series and the Police Squad! television series. However, neither contributed to the screenplay for the film. The film was a box office success, grossing $192 million against a budget of $23 million, making it the most commercially successful of the series. It received positive reviews from critics, though some concluded it to be inferior to its predecessor. A third installment in the series, Naked Gun",
+      "id": "HotpotQA-validation-00001170/02_The-Naked-Gun-2-The-Smell-of-Fear.html_c_0"
+    },
+    {
+      "text": "tells her that although he never had a religion, he feels peace every time he is in the temple. Faye commends his behavior and says he should visit the temple more often. Meanwhile, Charlene is in a different temple praying for Katt's soul to rest in peace, and she tells the deity that she wishes to be with the one she truly loves, Jack. Jack claims at the end of the movie that there are times when he is sure that Charlene is beside him; the last scene of the movie is Charlene watching him rush through the crowd looking for her. Cast Maggie Q as Charlene Ching, kidnapped by Madam M and trained to be a professional assassin, Katt's best friend Daniel Wu as Jack Chen, CIA officer on the trail of Madam M and her assassins Anya Wu as Katt, kidnapped by Madam M and trained to be a professional assassin, Charlene's best friend Jewel Lee as Jing, kidnapped by Madam M and trained to be a professional assassin Cheng Pei-pei as Faye Ching, Charlene's mother Andrew Lin as Ryuichi, a Yakuza boss Almen Wong as Madam M, leader of a mysterious international assassin organization See also Lethal Angels References External links Naked Weapon at IMDb Naked Weapon at Rotten Tomatoes Naked Weapon",
+      "id": "HotpotQA-validation-00001170/01_Naked-Weapon.html_c_3"
+    },
+    {
+      "text": "Critical response On Rotten Tomatoes , the film holds an approval rating of 76% based on 110 reviews, with an average rating of 6.5/10. The website's critical consensus reads, \" Naked Gun 2½: The Smell of Fear delivers a handful of moderate laughs, but overall, its strained antics pale in comparison to its gut-busting predecessor.\" On Metacritic , the film holds a weighted average score of 65 out of 100, based on 21 critics, indicating \"generally favorable reviews\". Owen Gleiberman of Entertainment Weekly awarded it a B+, but observed that in some ways, it was \"the most predictable of the ZAZ films.\" In the Los Angeles Times , Kenneth Turan stated that the funniest things about the movie were the title, the credits, and the key art . References External links Wikiquote has quotations related to The Naked Gun . The Naked Gun 2½: The Smell of Fear at IMDb The Naked Gun 2½: The Smell of Fear at Box Office Mojo The Naked Gun 2½: The Smell of Fear at Rotten Tomatoes Portals : 1990s Film United States Comedy Crime",
+      "id": "HotpotQA-validation-00001170/02_The-Naked-Gun-2-The-Smell-of-Fear.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- Naked Soldier is the third installment of the \"Naked\" series (Novel-00001170_c_0).\n- Naked Soldier follows Naked Killer (1992) and Naked Weapon (2002) (Novel-00001170_c_0).\n- Naked Killer (1992) is a film in the \"Naked\" series (Novel-00001170_c_0).\n- Naked Weapon (2002) is a film in the \"Naked\" series (Novel-00001170_c_0).\n- Naked Weapon (2002) is a film that follows in the \"Naked\" series (Novel-00001170_c_3).\n- Naked Killer (1992) is a film that precedes Naked Soldier in the \"Naked\" series (Novel-00001170_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which film does \"Naked Weapon\" follow in the \"Naked\" series?",
+      "doc_ids": [
+        "HotpotQA-validation-00001170/00_Naked-Soldier.html_c_0",
+        "HotpotQA-validation-00001170/01_Naked-Weapon.html_c_0",
+        "HotpotQA-validation-00001170/02_The-Naked-Gun-2-The-Smell-of-Fear.html_c_0",
+        "HotpotQA-validation-00001170/01_Naked-Weapon.html_c_3",
+        "HotpotQA-validation-00001170/02_The-Naked-Gun-2-The-Smell-of-Fear.html_c_7"
+      ]
+    }
+  ]
+}

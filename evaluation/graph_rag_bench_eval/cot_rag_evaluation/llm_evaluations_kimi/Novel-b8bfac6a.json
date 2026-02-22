@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b8bfac6a",
+  "question": "How did the French Canadians' loyalty to the British crown manifest in times of war?",
+  "gold_answer": "French Canadians were loyal to the British crown, which had loyalty from French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+  "llm_answer": "During the War of 1812–14, French-Canadian militiamen under French-Canadian officers fought alongside English-speaking compatriots against American invaders; at the battle of Chateauguay the day was won for British arms by Major de Salaberry and his French-Canadian soldiers.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing the loyalty of French Canadians to the British crown during the War of 1812–14. It specifically mentions the collaboration between French-Canadian militiamen and English-speaking compatriots, as well as the pivotal role of Major de Salaberry and his soldiers at the battle of Chateauguay. All claims are supported by the retrieved context, and the key facts from the Gold Answer are included."
+  }
+}

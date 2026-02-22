@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f2f431",
+  "question": "What evidence from the Hamburg literary scene demonstrates Johann Joachim Christoph Bode's involvement in both literary criticism and publication, specifically his role as a highly regarded editor of the 'Hamburgischer unpartheyischer Correspondent' (which reviewed 'Tristram Shandy') and his publication of 'Yorick's Briefe an Eliza' in Hamburg?",
+  "gold_answer": "Bode was highly regarded in Hamburg, edited the 'Hamburgischer unpartheyischer Correspondent' which reviewed 'Tristram Shandy', and published 'Yorick's Briefe an Eliza' in Hamburg.",
+  "llm_answer": "The evidence shows that Johann Joachim Christoph Bode was the editor of the *Hamburgischer unpartheyischer Correspondent* from 1763 to 1763 (Novel-26183_c_402), and that he published *Yorick’s Briefe an Eliza* in Hamburg in 1775 (Novel-26183_c_131, Novel-26183_c_132).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Bode's role as editor of the 'Hamburgischer unpartheyischer Correspondent' and his publication of 'Yorick’s Briefe an Eliza' in Hamburg, aligning with the Gold Answer. Both claims are supported by the Retrieved Context, and the key facts from the Gold Answer are fully covered."
+  }
+}

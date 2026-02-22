@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5825991f",
+  "question": "During Ulysses's journey as recounted in the narrative, what did he receive from Æolus to aid his travels?",
+  "gold_answer": "Ulysses received favourable wind from Æolus during his journey.",
+  "llm_answer": "The provided context does not mention Ulysses, Æolus, or any gift given to aid travels, so this question cannot be answered from the given passages.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Ulysses, Æolus, or the gift of favorable wind. However, it fails to answer the question using internal knowledge, which would have been appropriate given the lack of relevant context. Thus, the answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

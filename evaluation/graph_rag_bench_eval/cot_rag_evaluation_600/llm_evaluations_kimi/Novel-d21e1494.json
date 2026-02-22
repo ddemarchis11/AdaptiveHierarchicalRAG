@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d21e1494",
+  "question": "In the context of the CHILD'S HEALTH PRIMER's explanation of skin and perspiration, why can wearing rubber boots indoors cause the pores on your feet to become clogged, and what effects does this have on comfort and health?",
+  "gold_answer": "Rubber boots can cause the pores on your feet to become clogged.",
+  "llm_answer": "Wearing rubber boots indoors blocks perspiration from escaping; the trapped moisture clogs the little pores, making the feet uncomfortable and sometimes causing a headache.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains that rubber boots block perspiration, leading to clogged pores and discomfort, which aligns with the Gold Answer and is fully supported by the Retrieved Context. It also includes the additional detail about headaches, which is relevant and grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000314",
+  "question": "How many days did it take the artist awarded Best New Artist at the major U.S. Grammy-equivalent ceremony in 2009 to shatter a two-decade-old album sales milestone in her home country?",
+  "gold_answer": "29",
+  "llm_answer": "The context does not specify how many days it took Adele—who won the Grammy for Best New Artist in 2009—to break a two-decade-old album sales record in the UK, so this cannot be determined from the provided information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the number of days it took Adele to break the album sales milestone. However, it fails to answer the question directly, which is '29 days,' as stated in the Gold Answer. The retrieved context does not contain relevant information to support the Gold Answer, so the Model Answer is faithful to the context but does not provide the correct answer or cover the evidence."
+  }
+}

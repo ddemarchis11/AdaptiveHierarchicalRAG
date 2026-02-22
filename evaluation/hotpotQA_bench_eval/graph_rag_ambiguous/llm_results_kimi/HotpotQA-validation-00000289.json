@@ -1,0 +1,310 @@
+{
+  "id": "HotpotQA-validation-00000289",
+  "question": "Which of these two board games, one featuring a farm animal on a rooftop and the other about political economics, appeared on shelves first?",
+  "gold_answer": "Hey Pa! There's a Goat on the Roof",
+  "llm_answer": "“Hey Pa! There’s a Goat on the Roof” was issued by Parker Brothers in 1966, whereas “Poleconomy” was first published in 1980, so the goat-on-the-roof game appeared on shelves first.",
+  "context": [
+    {
+      "text": "Poleconomy is a board game invented by New Zealander Bruce E. Hatherley and first published in 1980. Players compete to acquire properties and investments by controlling economic and political activity . It mirrors real-world businesses and players compete to control government decisions and taxation which affect their businesses. The playing time is set by agreement from all players, e.g. 2 hours, and the winner is determined by the monetary sum of all player cash, companies, insurance or other assets. The game can also end when there are no more companies, advertisements in the bank or bonds in the treasury. Another objective of the game is \"to teach players some of the fundamentals of economics, and the ways in which the economy and the government interact.\" Different editions were published for several different countries. The name Poleconomy is a portmanteau of \"politics\" and \"economy\". History Poleconomy was invented by Bruce Hatherley, a New Zealander from Christchurch who was living in Sydney at the time. He first filed a US patent claim for it in January 1981. It was published in 1980, first in an Australian edition, then a New Zealand edition. The New Zealand edition was produced by Tanner Couch and Robyn Larsen sold the squares on the board as advertising space to the actual companies represented. The New Zealand Stock Exchange was involved with the launch in Auckland . It was also published by World Games. Hatherley contacted Canadian think tank the Fraser Institute to help introduce the game to Canada in 1983. Michael Walker, an employee of the Institute, sold the first squares as advertising and the rest were sold by stockbrokers , who had little other work because of a recession at the time. More than a million dollars was raised by the Institute and Poleconomy was credited with helping the Institute survive the recession. It was later sold in South Africa and the United Kingdom in other localised versions. More than 1.5 million copies of Poleconomy have been sold internationally, incorporating the participation of 260 major corporate sponsors who leased advertising space in the separate national versions. US patent 4,522,407 was granted for the game in 1985. The game Players compete to acquire properties and investments through stylized economic and political activity . This involves the purchase of real-world companies and advertising using artificial money. The players take turns moving around the board via the roll of the dice, landing on the gameboard squares and carrying out instruction according to the square's contents or player decision. The game is unusual in its mirroring of real-world businesses for which it has licenses to use their trademarks. It also illustrates how political events such as government decisions and taxation affect the economy. The players take turns at being the prime minister or president through elections. Once in power they have the ability to dictate the levels of inflation and so increasing or decreasing rents for property owners. If a player cannot cover their rent, the debt is written off and",
+      "id": "HotpotQA-validation-00000289/01_Poleconomy.html_c_0",
+      "doc_id": "HotpotQA-validation-00000289/01_Poleconomy.html",
+      "community_id": 1,
+      "score": 22.37077
+    },
+    {
+      "text": "Hey Pa! There's a Goat on the Roof was a children's board game issued by Parker Brothers in 1966 . The main objective to the overall game is to get more cans than any other player. The player with the most cans win the game. Details The game revolves around a game board featuring plastic farm-related items sticking out of it. Each player selects a goat as their playing piece, placing the pieces along the goat pen on the board. Players move goat-shaped pieces around the board, attempting to complete tasks to win tin can pieces. The first player to move their goat onto the roof of the barn ends the game, and the winner is then the player with the most tin cans. Movement is determined by an included spinner, which makes the game run purely on luck. Game pieces Deck of cards Six Goat player figures A farmer piece A bell Box of cans References Sources Hey Pa! There's a Goat on the Roof at BoardGameGeek v t e",
+      "id": "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_c_0",
+      "doc_id": "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html",
+      "community_id": 0,
+      "score": 22.129915
+    },
+    {
+      "text": "as government decisions and taxation affect the economy. The players take turns at being the prime minister or president through elections. Once in power they have the ability to dictate the levels of inflation and so increasing or decreasing rents for property owners. If a player cannot cover their rent, the debt is written off and they can continue, receiving a government salary; no-one becomes bankrupt. According to the rules the game ends when the central bank runs out of money. Enterprise Australia sponsored the game to \"improve understanding of the free enterprise system\" among schoolchildren, and sold over 100,000 copies. The introduction to the rules of the New Zealand version quotes Enterprise New Zealand, \"The game reflects the way industry, finance and government interact when private enterprise operates within a system of parliamentary democracy.\" Companies featured in the game Reception Paul Cockburn reviewed Poleconomy for Imagine magazine, and stated that \"Indeed, in a game where players are being cautious and keeping the amount of cash in front of them at a minimum (which limits the government's ability to tax) it's very hard not to bankrupt the country.\" In the March 1989 edition of Games International (Issue #3), John Harrington pointed out that \"what we have here is a direct descendant of Monopoly .\" He found the voting system in the basic game, which was simply based on rolls of dice, \"disappointing\", and recommended that players move to the advanced game as quickly as possible. Harrington concluded by giving the game an average rating of 3 out of 5, saying, \"I can give the advanced version of Poleconomy a recommendation, if only on the grounds that trying to stop the country going down the toilet is an illuminating experience.\" References External links Poleconomy Rules",
+      "id": "HotpotQA-validation-00000289/01_Poleconomy.html_c_1",
+      "doc_id": "HotpotQA-validation-00000289/01_Poleconomy.html",
+      "community_id": 1,
+      "score": 16.18479
+    },
+    {
+      "text": "David Morton, Christine Nicol, Clive Phillips, Peter Sandoe and Ronald Swaisgood (2010) Stress and Pheromonatherapy with Helen Zulch and Maya Dube (2013) Dog Bites: A Multidisciplinary Perspective , with Carri Westgarth (2017) References External links University of Lincoln profile",
+      "id": "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html_c_1",
+      "doc_id": "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html",
+      "community_id": 1,
+      "score": 14.894299
+    },
+    {
+      "text": "Dean Martin Sings is the first studio album by Italian-American singer Dean Martin , released in 1953. It is the first long-play 10-inch album recorded by Martin for Capitol Records during two sessions recorded on the evening of November 20, 1952. The first session was recorded between 5 and 8 PM and it produced five songs featuring string arrangements. \"There's My Lover\" was recorded but not released. After a 90-minute break, Martin was joined by a brass arrangement to record the remaining four songs. Seven of the eight songs on this album appeared in the Martin & Lewis film, The Stooge . Two years later, the songs from this 10-inch album would be combined with four newly popular songs recorded between 1951 and 1953 to create a full-length 12-inch album. The 2005 Collectors' Choice reissue added four bonus songs recorded between 1949 and 1953 and was released with alternative cover artwork. Track listing 10-inch Long Play Capitol H-401 Side A Side B 12-inch Long Play Capitol T 401 Side A Side B Compact Disc 2005 Collectors' Choice Music CD Catalog Number WWCCM05982 The 12-tracks of 2nd LP Plus: \"You're the Right One\" (Sammy Gallop / Howard Steiner) Time: 3:09. Session 3098; Master 11695–5. Recorded August 13, 1953. \"Blue Smoke (Kohu Auwahi)\" (Ruru Karaitiana) Time: 2:26. Session 2382; Master 9292–9. Recorded November 5, 1951. \"Johnny, Get Your Girl\" ( Vic Mizzy / Mann Curtis) Time: 2:33. Session 1172A; Master 3907–2. Recorded January 26, 1949. \"As You Are\" (Billy Friedman / Herbert L. Miller) Time: 3:05. Session 2382; Master 9282–7. Recorded November 5, 1951. Personnel Dean Martin : Vocals Dick Stabile : Leader Vincent Terri: Guitar Norman V. Seelig: Bass Ray S. Toland: Drums, Contractor Louis Brown: Piano Armond Kaproff: Cello (Session 2827) Elias Friede: Cello (Session 2827) Helen Bliss: Harp (Session 2827) Louis Kievman: Viola (Session 2827) Reuben Marcus: Viola (Session 2827) John Augustine: Violin (Session 2827) Victor Bay: Violin (Session 2827) John Peter DeVoogt: Violin (Session 2827) Nicholas 'Nick' Pisani : Violin (Session 2827) Joseph G. Quadri: Violin (Session 2827) Mischa",
+      "id": "HotpotQA-validation-00005121/03_Dean-Martin-Sings.html_c_0",
+      "doc_id": "HotpotQA-validation-00005121/03_Dean-Martin-Sings.html",
+      "community_id": 1,
+      "score": 12.6804
+    },
+    {
+      "text": "from the bottom 60%. Extracurriculars The small campus of 2,000 students boasts more than one hundred clubs and student groups, ranging from professional groups, interests clubs, and social groups. Among them are intramural sports groups, which have a strong presence on campus. There are intramural teams, ranging from broomball to ultimate frisbee. Student newspaper The Catalyst is a weekly newspaper published by students of Colorado College on Friday mornings throughout of the school year. It is the official and only student paper at the school and has a print circulation of roughly 1,500 circulated on the college's campus and in downtown Colorado Springs. The Catalyst consists of five sections: News, Sports, Active Life, Life, and Opinion. It has been in print since the 1890s, and has undergone dozens of transformations over the years. The newspaper was originally called The Tiger .  Housing Most students live on or directly adjacent to the college campus. Up until their junior year, students are required to live on campus in one of the residence halls or small houses, while apartments and student-owned cottages are available to upperclassmen. Campus Cutler Hall, located at 912 North Cascade Avenue, on the Colorado College campus, in Colorado Springs, Colorado. The property is listed on the National Register of Historic Places. Many of the earliest campus buildings, including Bemis , Cossitt , Cutler , McGregor , Montgomery , Palmer , and Ticknor Halls, are on the National Register of Historic Places , along with Shove Memorial Chapel and the William I. Spencer Center . Arthur House or Edgeplain , once home to the son of President Chester A. Arthur , is also on the National Register. Since the mid-1950s, newer facilities include three large residence halls, Worner Campus Center, Olin Hall of Science and the Barnes Science Center, Honnen Ice Rink, Boettcher Health Center, Schlessman Pool, Armstrong Hall of Humanities, and the El Pomar Sports Center. The face of campus changed again at the beginning of the 21st century with construction of the Western Ridge Housing Complex, which offers apartment-style living for upper-division students and completion of the Russell T. Tutt Science Center. The east campus has been expanded, and is now home to the Greek Quad and several small residence halls known as \"theme houses\".  Some of the more recent notable buildings include Tutt Library, designed by Skidmore, Owings & Merrill and later expanded and renovated by Pfeiffer Partners to be the largest carbon-neutral academic library in the United States, Packard Hall of Music and Art, designed by Edward Larrabee Barnes , and the Edith Kinney Gaylord Cornerstone Arts Center, which was designed by Antoine Predock with input from faculty and students.  Edith Kinney Gaylord Cornerstone Arts Center at Colorado College Edith Kinney Gaylord Cornerstone Arts Center Colorado College's",
+      "id": "HotpotQA-validation-00004130/02_Colorado-College.html_c_2",
+      "doc_id": "HotpotQA-validation-00004130/02_Colorado-College.html",
+      "community_id": 1,
+      "score": 10.285381
+    },
+    {
+      "text": "Professor D S Mills Daniel Simon Mills , FRCVS (born 21 August 1966) is an English veterinarian and biologist and the UK's first Professor of Veterinary Behavioural Medicine based at the University of Lincoln , United Kingdom. He attended St Edmund's College, Ware before studying at the University of Bristol where he received his BVSc degree and completed his PhD degree in animal behaviour from De Montfort University . Biography After some time spent in general practice, he became a Lecturer, Senior Lecturer and Principal Lecturer in animal behaviour at De Montfort University, and subsequently the University of Lincoln , where he has been Head of the Department of Biological Sciences, and now heads up the clinical animal behaviour team. He has an active teaching and research portfolio. His research has focused on the assessment of emotion in companion animals and the use of semiochemicals to manage their problem behaviour (pheromonatherapy ). He has led the development of what has become known as the psychobiological approach to animal behaviour assessment, and has published more than 200 full scientific papers, books and chapters. Among his achievements are becoming the first person within the UK to be recognised as a specialist in veterinary behavioural medicine by the Royal College of Veterinary Surgeons . and being awarded Fellowship of the Royal College of Veterinary Surgeons in 2016 in recognition of his contribution to the field. In 2020 he was also listed in the top 2% of scientists in the world and in 2021 was in the top 1% of cited scientists. The psychobiological approach to animal behaviour assessment, which he has pioneered, provides a scientific framework for making inferences about motivational and emotional state in animals. His recognised practical achievements include the development of the Lincoln stable mirror to assist horses with isolation problems and validation of the use of animal pheromones to influence unwanted behaviour; he has also developed a series of freely available, validated, psychometric instruments for assessment of emotional predisposition in dogs. He has appeared on several scientific and popular television programmes, such as the Horizon (BBC TV series) programme: the Secret Life of the Dog and Bang Goes the Theory . Since 2020, he has run an occasional podcast series \"What makes you click?\", in which he chats with colleagues from the field of clinical animal behaviour and welfare. Selected works The Domestic Horse: The Origins, Development and Management of its Behaviour , with Sue. M. McDonnell (2005) BSAVA Manual of Canine and Feline Behavioural Medicine , with Debra.F. Horwitz (2009) The Encyclopedia of Applied Animal Behaviour and Welfare , with Jeremy Marchant Forde , Paul McGreevy, David Morton, Christine Nicol, Clive Phillips, Peter Sandoe and Ronald Swaisgood (2010) Stress and Pheromonatherapy with Helen Zulch and Maya Dube (2013) Dog Bites: A Multidisciplinary Perspective , with Carri Westgarth",
+      "id": "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html_c_0",
+      "doc_id": "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html",
+      "community_id": 1,
+      "score": 10.192894
+    },
+    {
+      "text": "the morning after Hillary Clinton 's surprise victory in the New Hampshire Democratic presidential primary, Matthews appeared on the show and said of Clinton, \"I'll be brutal. The reason she's a U.S. senator, the reason she's a candidate for president, the reason she may be a front-runner is her husband messed around. That's how she got to be senator from New York. We keep forgetting it. She didn't win there on her merit.\" The comments, widely reacted to as sexist and unfair, were criticized by such diverse media figures as Bill O'Reilly , Joy Behar , and Gloria Steinem . They also led to protests outside NBC's Washington, D.C. studios, as well as a joint letter of complaint to NBC from the National Organization for Women , Feminist Majority , and the National Women's Political Caucus . Matthews apologized for the comments on the January 17, 2008, edition of his program, Hardball with Chris Matthews . Institution of a seven-second delay On November 10, 2008, Scarborough read the word \" fuck \" on air while reading from a story about then-President-elect Obama's incoming Chief of Staff , Rahm Emanuel . Once he realized his mistake, Scarborough repeatedly apologized for his slip of the tongue, and explained that he had meant to say \"the F word\" instead. The next day, the network instituted a seven-second delay for Morning Joe . In another incident on June 29, 2011, then Time editor-at-large Mark Halperin commented that the president came off as \"kind of a dick \" during the previous day's press conference. The word aired uncensored, despite the seven-second delay, when a producer failed to press the button that would have \"bleeped\" it. Halperin issued an on-air apology immediately following a commercial break. The White House subsequently complained about Halperin's remarks, and on June 30, 2011, Halperin was temporarily suspended for \"slurring\" the president. He returned as a guest a couple of weeks later. \"Stunningly superficial\" On December 30, 2008, Brzezinski's father and former National Security Advisor to President Jimmy Carter , Zbigniew Brzezinski appeared as a guest to discuss the unfolding Israel–Palestine crisis. Scarborough stated that Yasser Arafat was offered everything he wanted at the 2000 Camp David Summit . This statement provoked Zbigniew to reply, \"You know, you have such a stunningly superficial knowledge of what went on that it's almost embarrassing to listen to you.\" Subsequently, the phrase \"stunningly superficial\" has become something of a running gag on the show. Sponsorship Beginning on June 1, 2009, Morning Joe was presented as \"Brewed by Starbucks \", with the sponsor's logo incorporated into the show's logo. Although the hosts previously consumed Starbucks coffee on air \"for",
+      "id": "HotpotQA-validation-00000475/00_Morning-Joe.html_c_5",
+      "doc_id": "HotpotQA-validation-00000475/00_Morning-Joe.html",
+      "community_id": 6,
+      "score": 9.617924
+    },
+    {
+      "text": "the Artemis Film Festival. The same year, she earned a Best Supporting Actress nomination for her role as Molly in My Summer as a Goth . In 2019, Henry portrayed Lisa Hunt, eldest daughter of Watergate conspirator E. Howard Hunt , in the Starz series Gaslit starring Sean Penn , Julia Roberts , and Dan Stevens . In 2022, she joined the cast of Netflix's Dead to Me as a young woman mirroring Christina Applegate 's character, Jen Harding, in hospital flashbacks during her mother’s cancer battle. She also guest-starred as Annie in Justin Theroux 's Apple TV+ series The Mosquito Coast , aiding runaway protagonist Dina Fox. Henry was appointed Junior Editor at We Blab Entertainment Magazine in 2017. She frequently moderates panels and mentors aspiring artists, advocates for youth-focused legislation, and promotes student development initiatives through civic engagements. Philanthropy Henry actively supports animal welfare initiatives, notably through partnerships with Emerald City Pet Rescue and P.A.W.S. She also advocates for cancer-related causes, participating in fundraising 5K runs such as Women of Wonder and Run of Hope. Her charitable efforts benefit organizations including The Seattle Children's Hospital and Team Survivor, which focus on supporting women and children affected by cancer. Filmography Film Television Directing credits Awards and nominations References External links Rachelle Henry at IMDb Official website \"YAA Danny Glover and Rachelle Henry\" on YouTube",
+      "id": "HotpotQA-validation-00000668/02_Rachelle-Henry.html_c_1",
+      "doc_id": "HotpotQA-validation-00000668/02_Rachelle-Henry.html",
+      "community_id": 1,
+      "score": 9.57103
+    },
+    {
+      "text": "political profile was also raised when he assisted with a petition drive in late-1993, leading a tax revolt that defeated a proposed sixty-five percent increase in Pensacola's property taxes. U.S. House of Representatives Elections Scarborough in 1995 In 1994 , Scarborough was elected to the U.S. House of Representatives for Florida's 1st congressional district , becoming the first Republican to represent the Florida Panhandle since Reconstruction . The seat had become open when eight-term Democratic incumbent Earl Hutto retired. In the general election, Scarborough defeated the Democratic candidate, Pensacola attorney Vince \"Vinnie\" Whibbs, Jr., with 61 percent of the vote. Whibbs was the son of former Pensacola mayor Vince Whibbs . This district had not supported a Democratic candidate for U.S. president since 1960 ; however, Democratic candidates had continued to hold most local offices well into the 1990s. Scarborough's win coincided with a large Republican wave, known as the Republican Revolution , that allowed the Republicans to take the majority in the House for the first time in 40 years. Scarborough was reelected with 72 percent of the vote in 1996. In 1998 and 2000, he faced only write-in candidates as opposition. Tenure In June 2000, during his congressional career, he received a 95 percent lifetime rating from the American Conservative Union . He signed the Contract with America . Scarborough was a member of the Armed Services , Judiciary , Government Reform , and Education committees. In 1998 he was named chairman of the Civil Service Committee. Scarborough was one of a group of about 40 freshmen Republican legislators who dubbed themselves the \"New Federalists\" after The Federalist Papers . Scarborough was elected political director of the incoming legislators. The New Federalists called for sweeping cuts in the U.S. government, including plans to \" privatize , localize, consolidate, [or] eliminate\" the Departments of Commerce , Education , Energy and Housing and Urban Development . House Speaker Newt Gingrich tapped Scarborough to head a Republican task force on education, and Scarborough declared, \"Our goal is to get as much money, power, and authority out of Washington and get as much money, power, and authority into the classroom as possible.\" Rep. John Kasich (R-Ohio), then chairman of the House Budget Committee , adopted Scarborough's language eliminating the federal Department of Education in the 1996 House Budget Resolution. The budget passed the House by a vote of 238–193. Scarborough and the group played a pivotal role in pressing Gingrich to keep the GOP's promise to balance the federal budget. Scarborough supported a number of anti-abortion positions while in Congress including banning family planning funding in US aid abroad; banning partial-birth abortions ; and making it illegal to transport minors to get an abortion. He voted in favor of the Unborn Victims of Violence Act , that made it a crime to harm a fetus during",
+      "id": "HotpotQA-validation-00000475/01_Joe-Scarborough.html_c_1",
+      "doc_id": "HotpotQA-validation-00000475/01_Joe-Scarborough.html",
+      "community_id": 3,
+      "score": 9.291809
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000289/01_Poleconomy.html_1",
+      "summary": "**Title**: Poleconomy Board Game\n\n**Summary**:  \nPoleconomy is a 1980 educational board game blending politics and economics, invented by New Zealander Bruce E. Hatherley. Players buy real-world companies, control inflation, and take turns as prime minister to tax and legislate, aiming to amass the greatest asset value within a set time. Licensed trademarks of 260 multinational sponsors appear on country-specific boards, and over 1.5 million copies have been sold worldwide. The game was used by free-enterprise institutes to teach schoolchildren how government decisions affect business, and it helped fund the Fraser Institute during Canada’s recession.\n\n**Keywords**: Poleconomy, educational board game, politics-economics simulation, Bruce Hatherley, corporate sponsorship",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "summary": "**Title**: Colorado College Campus Life & Academics\n\n**Summary**: Colorado College is a selective private liberal-arts school of ~2,000 students where undergrads follow a distinctive one-course-at-a-time “block plan.” Most first-years through juniors live on or next to the 90-acre campus, which blends National-Register historic halls with award-winning newer facilities such as the carbon-neutral Tutt Library and the Predock-designed Cornerstone Arts Center. Outside the classroom, students choose from 100+ clubs, active intramural sports, and the long-running student newspaper *The Catalyst*. Popular majors include Economics, Political Science, and Ecology, and the college is ranked among the nation’s most innovative liberal-arts institutions.\n\n**Keywords**: Colorado College, block plan, campus housing, Tutt Library, student clubs",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000718/00_Albanian-Coalition-quotPerspectivequot.html_0",
+      "summary": "**Title**: Albanian Coalition \"Perspective\"  \n\n**Summary**:  \nThe Albanian Coalition \"Perspective\" is a Montenegrin political party representing the Albanian minority. In the 2009 parliamentary elections it secured 0.8 % of the vote and one seat. Ahead of the 2012 elections it merged with two other small parties into the “For Unity” coalition, which together obtained 1.45 % of the vote and retained a single seat.  \n\n**Keywords**:  \nAlbanian Coalition Perspective, Montenegro elections, For Unity coalition, minority politics",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_0",
+      "summary": "**Title**: Goat on the Roof Game\n\n**Summary**: \"Hey Pa! There's a Goat on the Roof\" is a 1966 Parker Brothers children's board game where players race goat-shaped pieces around a farm-themed board to collect tin cans. Movement is controlled by a spinner, making the game luck-based, and the round ends when a goat reaches the barn roof; the player with the most cans at that moment wins. The set includes six goat figures, a farmer piece, cards, a bell, and a box of cans.\n\n**Keywords**: Parker Brothers, 1966 board game, goat pieces, tin can scoring, luck-based spinner",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "summary": "**Title:** Grand Theft Auto V Development & Reception\n\n**Summary:**  \nGrand Theft Auto V was developed by Rockstar North with a team of over 1,000 people, featuring three playable protagonists and a massive open-world modeled on Southern California. The game introduced major gameplay refinements, including improved shooting and driving mechanics, and utilized motion capture for character performances. It received universal acclaim for its innovation, mission design, and technical achievements, becoming one of the highest-rated games on Metacritic. Post-launch, Rockstar shifted focus from planned single-player DLC to Grand Theft Auto Online, which experienced a rocky launch but evolved through continuous updates. Enhanced re-releases brought visual and performance upgrades to newer platforms.\n\n**Keywords:**  \nGrand Theft Auto V, Rockstar North, open-world design, critical acclaim, GTA Online",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "summary": "**Title**: Joe Scarborough Political Feuds & Career\n\n**Summary**:  \nJoe Scarborough, former Republican congressman turned MSNBC host, has been a central figure in high-profile political conflicts, most notably with Donald Trump, who revived debunked conspiracy theories about Scarborough’s involvement in a former aide’s death. Scarborough’s political career was marked by staunch conservatism, including anti-abortion stances and support for budget cuts, though he also took moderate positions on environmental and human rights issues. After resigning from Congress in 2001, he transitioned into media, creating and co-hosting *Morning Joe*, which became a major platform for political discourse and a frequent target of Trump’s attacks.\n\n**Keywords**:  \nJoe Scarborough, Donald Trump feud, Morning Joe, political controversy, media career",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html_1",
+      "summary": "**Title**: Professor Daniel Mills – Veterinary Behavioural Medicine  \n\n**Summary**:  \nDaniel Mills is the UK’s first Professor of Veterinary Behavioural Medicine at the University of Lincoln, pioneering a psychobiological framework for assessing companion-animal emotions and behaviour. His research centres on validating pheromonatherapy and other non-invasive tools—such as the Lincoln stable mirror and standardised canine psychometric scales—to mitigate stress and problem behaviours in pets and horses. With >200 publications, several mainstream textbooks, and top-1 % global citation status, he translates science into practice while holding RCVS Specialist and FRCVS recognition for advancing the field.\n\n**Keywords**:  \nveterinary behavioural medicine, psychobiological assessment, pheromonatherapy, companion-animal welfare, University of Lincoln",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006433/03_Boris-the-Spider.html_1",
+      "summary": "**Title**: Boris the Spider Song\n\n**Summary**:  \n“Boris the Spider” is a 1966 horror-comedy track written and sung by The Who’s bassist John Entwistle, notable as his first composition and a live-show staple. Inspired by a drinking session with Bill Wyman, Entwistle penned the song in six minutes, featuring basso-profundo verses, falsetto “creepy-crawly” interludes, and black-humored lyrics that became a fan favorite. Though never a UK/US single, it appeared as a Japanese B-side and was Jimi Hendrix’s favorite Who song; a Radio One jingle based on its riff later surfaced on reissues and BBC Sessions. Entwistle revisited the riff and theme in his 1971 solo track “My Size,” explicitly calling it a sequel.\n\n**Keywords**:  \nJohn Entwistle, The Who, Boris the Spider, horror-comedy, My Size",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_0",
+      "summary": "**Title**: Prince William County Governance\n\n**Summary**: The Prince William Board of County Supervisors serves as the primary policy-making authority for Prince William County, Virginia, comprising eight members: seven district-elected supervisors and one at-large Chairman. The county is divided into seven magisterial districts—Brentsville, Coles, Gainesville, Neabsco, Occoquan, Potomac, and Woodbridge—each electing one representative. Currently, Democrats hold a 6-2 majority on the board, with Deshundra Jefferson serving as Chairman. The board also selects a Vice-Chairman and Chairman Pro-Tem from within its membership to assist in leadership duties.\n\n**Keywords**: Prince William County, Board of Supervisors, magisterial districts, Deshundra Jefferson, Virginia local government",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004673/01_Hawaii-Rainbow-Warriors-football.html_10",
+      "summary": "**Title:** Hawaii Rainbow Warriors Football 2019–2023  \n\n**Summary:**  \nThe 2019 season marked Hawaii’s most successful campaign in eight years, featuring a 10–5 record, a Mountain West division title, and a dramatic Hawaii Bowl win over BYU behind Cole McDonald’s 493-yard, 4-TD performance. Head coach Nick Rolovich earned Mountain West Coach of the Year honors before departing for Washington State, prompting the hiring of Todd Graham. Graham’s 2020 squad notched a third straight winning season and a New Mexico Bowl victory, but 2021 saw Aloha Stadium shuttered, forcing on-campus games and ending with Graham’s resignation amid player-mistreatment allegations. Timmy Chang, a former UH quarterback, took over in 2022; his first two seasons produced 3–10 and 5–8 records while the program coped with mass transfers and facility uncertainty. Throughout these years, Hawaii’s rivalries with Fresno State, Air Force, and Wyoming remained central, with trophies like the Golden Screwdriver, Kuter, and Paniolo at stake.\n\n**Keywords:**  \nHawaii Rainbow Warriors, Nick Rolovich, Todd Graham, Timmy Chang, Mountain West Conference",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "summary": "**Title**: Believers 2007 Thriller Film\n\n**Summary**: *Believers* is a 2007 straight-to-DVD thriller directed by Daniel Myrick in which two paramedics are abducted by the Quanta Group, a doomsday cult of intellectuals preparing for mass suicide. One medic, Victor, is gradually indoctrinated while the other, David, struggles to escape and rescue him before the group’s apocalyptic plan is fulfilled. The film explores themes of psychological manipulation, belief systems, and survival within a secretive commune led by the enigmatic “Teacher.”\n\n**Keywords**: cult thriller, doomsday belief, psychological manipulation, paramedic abduction, Quanta Group",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002515/03_A-D-David-Mackay.html_0",
+      "summary": "**Title**: David Mackay Kellogg Leadership\n\n**Summary**: A. D. David Mackay served as Kellogg Company’s CEO and president from December 2006 to January 2011, after holding roles such as COO and president since 2003. His Kellogg career began in 1985 with Kellogg Australia, progressed through U.S., Australian, and New Zealand posts until 1992, and resumed in 1998 when he became managing director of Kellogg UK & Ireland. Over two decades he ascended through senior vice president, executive vice president, and COO positions while also serving on the boards of Kellogg and Fortune Brands. In 2008 his total compensation reached $10 million, comprising salary, bonus, equity, and other perks.\n\n**Keywords**: Kellogg CEO, David Mackay, executive compensation, food-industry leadership, board director",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000668/02_Rachelle-Henry.html_1",
+      "summary": "**Title**: Rachelle Henry Career Highlights  \n\n**Summary**:  \nRachelle Henry, born in 2000, is an American actress and filmmaker who began performing at age six and gained early acclaim for her short socially-conscious films. She has earned multiple Young Artist Academy Awards, including Best Performance in a Short Film and the first-ever Best Producer prize, and has appeared in festival-recognized projects like *Woodstock or Bust*, *My Summer as a Goth*, and the Starz series *Gaslit*. Beyond acting, Henry directs coming-of-age shorts, mentors young artists, advocates for youth legislation, and supports animal-rescue and cancer-focused charities.  \n\n**Keywords**:  \nYoung Artist Awards, socially conscious filmmaking, Gaslit, youth advocacy, animal & cancer philanthropy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005121/03_Dean-Martin-Sings.html_1",
+      "summary": "**Title**: Dean Martin Sings Album\n\n**Summary**: Dean Martin Sings, released in 1953, is Dean Martin’s debut studio album and Capitol Records’ first 10-inch LP by the singer, recorded in two November 1952 sessions featuring string and brass arrangements. Seven of its eight tracks appeared in the Martin & Lewis film *The Stooge*, and the material was later expanded into a 12-inch LP with four additional 1951-53 recordings. A 2005 Collectors’ Choice reissue appended four bonus tracks from 1949-53 and featured new cover art. Detailed session personnel, catalog numbers, and track timings are documented.\n\n**Keywords**: Dean Martin, Capitol Records, 1953 debut, 10-inch LP, Collectors' Choice reissue",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002413/02_Zaac-Pick.html_0",
+      "summary": "**Title**: Zaac Pick Music Career\n\n**Summary**:  \nZaac Pick is a Canadian singer-songwriter from Medicine Hat, Alberta, now based in Vancouver. After leaving the band Doubting Paris, he launched a solo career with his 2009 EP *Fierce Wind*, produced by Daniel Mendez. His music and his former band’s tracks have appeared on TV shows like *One Tree Hill*, *The Ghost Whisperer*, and *Joan of Arcadia*. Pick won the 104.3 Shore FM competition, earning $20,000, and actively supports charitable causes, including a 2010 benefit for Pakistan flood victims. He frequently performs with a full band featuring strings and collaborates with the Chan brothers.\n\n**Keywords**: Zaac Pick, Canadian singer-songwriter, Doubting Paris, Fierce Wind, television placements",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "summary": "**Title**: Morning Joe Controversies & Feuds\n\n**Summary**:  \nMorning Joe has repeatedly found itself at the center of media firestorms, from its 2009–2013 Starbucks sponsorship that drew mockery from Jon Stewart to on-air gaffes like Joe Scarborough’s F-bomb and Mark Halperin’s slur against President Obama. High-profile clashes include Scarborough’s on-air spats with Rush Limbaugh over Republican loyalty, a viral 2013 interview in which Russell Brand scolded the hosts for unprofessional banter, and a 2017 Twitter war with Donald Trump that escalated into allegations of National Enquirer blackmail. Recurring themes are accusations of superficiality, lapses in journalistic decorum, and the show’s shifting relationship with political power.\n\n**Keywords**:  \nMorning Joe controversies, Starbucks sponsorship, Jon Stewart feud, Trump Twitter war, on-air gaffes",
+      "is_seed": false,
+      "expand_score": 0.8691744804382324
+    },
+    {
+      "community_key": "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_2",
+      "summary": "**Title**: 2006 Hawaii Warriors Season\n\n**Summary**:  \nThe 2006 Hawaii Warriors football team achieved an 11-win season, tying the school record and finishing second in the WAC behind undefeated Boise State. Quarterback Colt Brennan set NCAA single-season records with 58 touchdown passes and a 185.96 efficiency rating, earning sixth in Heisman voting and WAC Offensive Player of the Year honors. The Warriors capped their historic season with a 41–24 Hawaii Bowl victory over Arizona State, while head coach June Jones was named WAC Coach of the Year and nine players earned All-WAC first-team recognition.\n\n**Keywords**:  \nColt Brennan, Hawaii Bowl, WAC, June Jones, 11-win season",
+      "is_seed": false,
+      "expand_score": 0.862877368927002
+    },
+    {
+      "community_key": "HotpotQA-validation-00006027/00_2012-Hawaii-Warriors-football-team.html_0",
+      "summary": "**Title**: 2012 Hawaii Warriors Football Season\n\n**Summary**:  \nThe 2012 Hawaii Warriors football team, under first-year head coach Norm Chow, transitioned into the Mountain West Conference and ended the season with a 3–9 overall record and 1–7 in conference play, tying for ninth place. Chow, a native Hawaiian and former Utah offensive coordinator, replaced the retiring Greg McMackin and shifted the team’s offensive strategy from the run-and-shoot to a pro-style system. Home games were held at Aloha Stadium, and the schedule included matchups against USC, BYU, Boise State, and other Mountain West opponents.\n\n**Keywords**: Hawaii Warriors, Norm Chow, Mountain West Conference, 2012 season, Aloha Stadium",
+      "is_seed": false,
+      "expand_score": 0.8604134917259216
+    },
+    {
+      "community_key": "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_5",
+      "summary": "**Title**: 2006 Hawaii Warriors Historic Season  \n\n**Summary**:  \nThe 2006 Hawaii Warriors, led by quarterback Colt Brennan, produced one of the most prolific offensive seasons in college football history. Brennan shattered the NCAA single-season touchdown-pass record with 58 TDs and amassed 5,549 passing yards, joining an elite group of 5,000-yard/50-TD passers. Receiver Jason Rivers set bowl-game receiving marks while the offense topped national charts in total yards, passing, and scoring. The team rode a nine-game win streak, finished 11-3, matched the school victory record, and accepted an early Hawaii Bowl invitation where they capped the year by defeating Arizona State 41-24. Coach June Jones became Hawaii’s all-time winningest coach, and multiple Warriors earned weekly conference and national honors.  \n\n**Keywords**: Colt Brennan, June Jones, NCAA records, Hawaii Bowl, 2006 season",
+      "is_seed": false,
+      "expand_score": 0.8472887873649597
+    },
+    {
+      "community_key": "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_4",
+      "summary": "**Title**: 2006 Hawaii Warriors Football Season\n\n**Summary**:  \nThe 2006 Hawaii Warriors football team, led by record-setting quarterback Colt Brennan, achieved significant success both individually and as a team. Brennan earned numerous accolades, including WAC Offensive Player of the Year, Sammy Baugh Trophy, and multiple All-American honors. The team showcased a high-powered offense, with standout performances from players like Davone Bess and Nate Ilaoa. Despite narrow losses to ranked opponents like Alabama and Boise State, Hawaii secured key victories over UNLV, Eastern Illinois, Nevada, and Fresno State. Several players received All-WAC recognition, and multiple Warriors were selected in the 2007 NFL Draft.\n\n**Keywords**:  \nColt Brennan, Hawaii Warriors, 2006 season, WAC awards, NFL draft",
+      "is_seed": false,
+      "expand_score": 0.8393778800964355
+    },
+    {
+      "community_key": "HotpotQA-validation-00005121/00_Swingin-Down-Yonder.html_0",
+      "summary": "**Title**: Dean Martin's Southern Album\n\n**Summary**:  \n\"Swingin' Down Yonder\" is Dean Martin’s debut 12-inch Capitol LP, cut in 1954-55 and themed around the American South; Capitol later retitled it \"Southern Style\" for a 1963 re-release. The 1991 CD added eight Dixieland-style bonus tracks, while the 2005 Collectors’ Choice reissue appended four loosely related cuts. Session logs list Martin backed by a core West-Coast big-band lineup led by Dick Stabile.\n\n**Keywords**:  \nDean Martin, Swingin' Down Yonder, Capitol Records, Dixieland, Southern theme",
+      "is_seed": false,
+      "expand_score": 0.8170149922370911
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "summary": "**Title**: Red Dead Redemption Development & Reception\n\n**Summary**:  \nRed Dead Redemption's creation involved extensive research and innovation, including motion-captured performances, period-authentic dialogue, and an original 200-track score composed by Bill Elm and Woody Jackson. The game’s marketing campaign featured trailers, pre-order bonuses, and DLC expansions like *Undead Nightmare*. Upon release, it was praised for its immersive open world, nuanced protagonist John Marston, and dynamic gameplay mechanics such as Dead Eye and horseback combat. The game garnered numerous awards, including Game of the Year from multiple institutions. Later re-releases on modern platforms received mixed feedback due to limited enhancements and high pricing.\n\n**Keywords**:  \nRed Dead Redemption, Rockstar Games, John Marston, game development, critical acclaim",
+      "is_seed": false,
+      "expand_score": 0.8083852529525757
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "summary": "**Title:** Morning Joe Show Evolution  \n\n**Summary:**  \nMorning Joe is MSNBC’s weekday morning talk show (6–10 a.m. ET) created by Joe Scarborough after Don Imus’s 2007 cancellation. Starting as a rotating audition program, it secured the slot in July 2007 and gradually out-rated CNN’s morning offerings while consistently trailing Fox & Friends. The show expanded to a fourth hour in 2022 and spun off radio, weekend-recap, and pre-dawn editions (Way Too Early, Morning Joe First Look). Its hallmark is a revolving panel of high-profile journalists, ex-politicos, and analysts—e.g., Mika Brzezinski, Willie Geist, Jen Psaki, Chris Matthews, Peggy Noonan—who dissect politics, policy, and culture from 30 Rock.  \n\n**Keywords:** MSNBC, Joe Scarborough, Mika Brzezinski, political talk show, Morning Joe spinoffs",
+      "is_seed": false,
+      "expand_score": 0.8051326870918274
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "summary": "**Title**: Red Dead Redemption 2 Critical Reception\n\n**Summary**: Critics universally acclaimed Red Dead Redemption 2 for its vast, lifelike open world, narrative depth, and technical artistry, with many calling it a landmark in video-game design. While praise centered on the game’s immersive detail, dynamic weather, and nuanced characters, some reviewers faulted its slow pacing, clichéd depictions of Native Americans, and restrictive mission structure. Controversy also arose over crunch-time labor practices during development and the game’s handling of player violence against a suffragette NPC.\n\n**Keywords**: open-world design, narrative acclaim, labor controversy, character realism, critical reception",
+      "is_seed": false,
+      "expand_score": 0.7935925722122192
+    },
+    {
+      "community_key": "HotpotQA-validation-00007157/01_University-of-Colorado.html_1",
+      "summary": "**Title**: University of Colorado System Overview\n\n**Summary**:  \nThe University of Colorado (CU) is a four-campus public university system anchored by the flagship CU Boulder, the fastest-growing UCCS, the research-intensive CU Denver, and the health-sciences-focused CU Anschutz Medical Campus. Together they enroll over 73,000 students, offer hundreds of degree programs, and conduct more than $420 million in annual research. Governance is by an elected nine-member Board of Regents, with Todd Saliman serving as system president. A former satellite campus, CU South Denver, closed in 2021, while UC Health and Arctic research collaborations extend the system’s reach beyond Colorado.\n\n**Keywords**:  \nCU campuses, Colorado public universities, CU Boulder flagship, CU Anschutz medical, UC Health",
+      "is_seed": false,
+      "expand_score": 0.7886272668838501
+    },
+    {
+      "community_key": "HotpotQA-validation-00005121/01_Dean-Martin.html_4",
+      "summary": "**Title**: Dean Martin's Solo Career\n\n**Summary**: After splitting from Jerry Lewis in 1956, Dean Martin reinvented himself from comic foil to respected dramatic actor and chart-topping crooner. His early solo films flopped, but dramatic roles alongside Marlon Brando and Frank Sinatra—plus the 1964 hit single “Everybody Loves Somebody”—cemented a multi-decade career spanning movies, TV, Las Vegas residencies, and country-tinged albums. As a core Rat Pack member with Sinatra and Sammy Davis Jr., Martin headlined sold-out Strip shows, recorded 35 studio albums, and became an enduring pop-culture icon whose tuxedo-clad, easygoing persona still symbolizes mid-century Vegas glamour.\n\n**Keywords**: Rat Pack, solo comeback, Las Vegas, Everybody Loves Somebody, dramatic actor",
+      "is_seed": false,
+      "expand_score": 0.782364010810852
+    },
+    {
+      "community_key": "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_16",
+      "summary": "**Title**: Albanians in Montenegro History  \n\n**Summary**:  \nThe Albanian community in Montenegro has faced recurrent violence and discrimination since 1918, including massacres by Serb forces in Plav-Gusinje (≈450 dead) and Rožaje (700 dead), WWII Chetnik killings in Bihor (5,400 dead), and Partisan executions in Bar (400–2,000 dead). These events triggered large-scale emigration to Albania. Despite oppression, Albanians preserved their Gheg dialect, Islamic and Catholic faiths, and cultural practices such as lahuta epic singing. After Tito-era modest improvements, the 1990s brought political organization (Democratic League, 1990; Albanian National Council, 2008) and decisive support for Montenegrin independence in 2006, with Albanian votes tipping the balance. By 2022, an ethnic Albanian, Dritan Abazović, became Prime Minister, marking a milestone in minority inclusion.  \n\n**Keywords**:  \nPlav-Gusinje massacres, Albanian political representation, Montenegrin independence, Gheg culture, ethnic violence",
+      "is_seed": false,
+      "expand_score": 0.7804133892059326
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000289/01_Poleconomy.html_1",
+      "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "HotpotQA-validation-00000718/00_Albanian-Coalition-quotPerspectivequot.html_0",
+      "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_0",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html_1",
+      "HotpotQA-validation-00006433/03_Boris-the-Spider.html_1",
+      "HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_0",
+      "HotpotQA-validation-00004673/01_Hawaii-Rainbow-Warriors-football.html_10",
+      "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "HotpotQA-validation-00002515/03_A-D-David-Mackay.html_0",
+      "HotpotQA-validation-00000668/02_Rachelle-Henry.html_1",
+      "HotpotQA-validation-00005121/03_Dean-Martin-Sings.html_1",
+      "HotpotQA-validation-00002413/02_Zaac-Pick.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_2",
+      "HotpotQA-validation-00006027/00_2012-Hawaii-Warriors-football-team.html_0",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_5",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_4",
+      "HotpotQA-validation-00005121/00_Swingin-Down-Yonder.html_0",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "HotpotQA-validation-00007157/01_University-of-Colorado.html_1",
+      "HotpotQA-validation-00005121/01_Dean-Martin.html_4",
+      "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_16"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000289/01_Poleconomy.html_1",
+      "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "HotpotQA-validation-00000718/00_Albanian-Coalition-quotPerspectivequot.html_0",
+      "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_0",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "HotpotQA-validation-00006634/00_Daniel-Mills-biologist.html_1",
+      "HotpotQA-validation-00006433/03_Boris-the-Spider.html_1",
+      "HotpotQA-validation-00002527/00_Prince-William-Board-of-County-Supervisors.html_0",
+      "HotpotQA-validation-00004673/01_Hawaii-Rainbow-Warriors-football.html_10",
+      "HotpotQA-validation-00004571/03_Believers-film.html_0",
+      "HotpotQA-validation-00002515/03_A-D-David-Mackay.html_0",
+      "HotpotQA-validation-00000668/02_Rachelle-Henry.html_1",
+      "HotpotQA-validation-00005121/03_Dean-Martin-Sings.html_1",
+      "HotpotQA-validation-00002413/02_Zaac-Pick.html_0",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_2",
+      "HotpotQA-validation-00006027/00_2012-Hawaii-Warriors-football-team.html_0",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_5",
+      "HotpotQA-validation-00006027/02_2006-Hawaii-Warriors-football-team.html_4",
+      "HotpotQA-validation-00005121/00_Swingin-Down-Yonder.html_0",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "HotpotQA-validation-00007157/01_University-of-Colorado.html_1",
+      "HotpotQA-validation-00005121/01_Dean-Martin.html_4",
+      "HotpotQA-validation-00000718/01_Albanians-in-Montenegro.html_16"
+    ],
+    "allowed_chunk_pool_size": 76,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-d184bb36",
+  "question": "Who were the notable individuals interested in the Ivanhoe mine during the mining excitement described in the text?",
+  "gold_answer": "Senator Plumb and Robert Ingersoll were interested in Ivanhoe.",
+  "llm_answer": "I couldn't find any information about the Ivanhoe mine in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not provide the information about Senator Plumb and Robert Ingersoll's interest in the Ivanhoe mine, as stated in the Gold Answer. Additionally, the retrieved context does not contain relevant information about the Ivanhoe mine or the individuals mentioned, making the Model Answer ungrounded and incorrect."
+  }
+}

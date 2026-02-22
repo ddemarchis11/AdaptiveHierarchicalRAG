@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006433",
+  "question": "when was Quiet in Heaven/Song of Liberty recorded?",
+  "gold_answer": "Before settling on their current name in 1982",
+  "llm_answer": "The single \"Quiet in Heaven\"/\"Song of Liberty\" was recorded in 1983.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer states that the single was recorded in 1983, which is consistent with the context. However, the Gold Answer specifies that the recording occurred before the band settled on their current name in 1982, which the Model Answer does not address. While the Model Answer is faithful to the context, it misses the nuance of the timing relative to the band's name change, leading to partial correctness and evidence coverage."
+  }
+}

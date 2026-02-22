@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4a90fe75",
+  "question": "In the novel, what is the name of the place that serves as the primary home for Toto and his grandmother throughout their adventures?",
+  "gold_answer": "Cottage",
+  "llm_answer": "The primary home for Toto and his grandmother is referred to as \"the castle.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the primary home of Toto and his grandmother as 'the castle,' which is not supported by the retrieved context or the Gold Answer. The correct answer is 'Cottage,' and there is no evidence in the context to suggest 'the castle' as their home."
+  }
+}

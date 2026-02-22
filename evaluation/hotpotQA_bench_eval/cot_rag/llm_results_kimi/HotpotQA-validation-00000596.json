@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000596",
+  "question": "Where was the movement that August Brancart published literature from centerd?",
+  "gold_answer": "Western Europe",
+  "llm_answer": "The Decadent movement that Auguste Brancart published literature from was centered in Western Europe, first flourishing in France.",
+  "context": [
+    {
+      "text": "August or Auguste Brancart (21 July 1851 – 1894?) was a Belgian publisher of pornographic literature, credited with the first publication of My Secret Life . He published translations of English pornography into French and vice versa for English publishers such as Edward Avery . He also published work of the Decadent movement such as Monsieur Vénus by Rachilde . He was already under investigation by the police in 1885, 1886 and 1888 and moved to Antwerp in 1894: in 1895 another police dossier was compiled. References Bullough, Vern L. (2000). \"Who wrote my secret life? An evaluation of possibilities and a tentative suggestion\". Sexuality & Culture . 4 (1): 37– 60. doi : 10.1007/s12119-000-1011-y . S2CID 144830385 . Green, Jonathon; Karolides, Nicholas J., eds. (2005). The encyclopedia of censorship . Facts on File library of world history. Infobase Publishing. pp. 69, 368 . ISBN 0-8160-4464-3 . Kearney, Patrick J. (1982). A history of erotic literature . Parragon. p. 126. ISBN 1-85813-198-7 . Sutherland, John, ed. (2009). The Longman companion to Victorian fiction . Pearson Longman.",
+      "id": "HotpotQA-validation-00000596/00_Auguste-Brancart.html_c_0"
+    },
+    {
+      "text": "has been suggested that, while he lived as a decadent and heralded their work, his own work was more frustrated, hopeless, and empty of the pleasure that had attracted him to the movement in the first place. Largely, he focused on cynically describing the impossibility of a true American decadence. Critical studies German doctor and social critic Max Nordau wrote a lengthy book titled Degeneration (1892). It was an examination of decadence as a trend, and specifically attacked several people associated with the Decadent movement, as well as other figures throughout the world who deviated from cultural, moral, or political norms. His language was colorful and vitriolic, often invoking the worship of Satan. What made the book a success was its suggestion of a medical diagnosis of \"degeneration\", a neuro-pathology that resulted in these behaviors. It also helped that the book named such figures as Oscar Wilde, Algernon Charles Swinburne, Paul Verlaine, and Maurice Barrès, members of the Decadent movement who were in the public eye. In 1930, Italian art and literature critic Mario Praz completed a broad study of morbid and erotic literature, translated and published in English as The Romantic Agony (1933). The study included decadent writing (such as Baudelaire and Swinburne), but also anything else that he considered dark, grim, or sexual in some way. His study centered on the",
+      "id": "HotpotQA-validation-00000596/01_Decadent-movement.html_c_22"
+    },
+    {
+      "text": "literature or art. Beginning with the association of decadence with cultural decline, it is not uncommon to associate decadence in general with transitional times and their associated moods of pessimism and uncertainty. In France, the heart of the Decadent movement was during the 1880s and 1890s, the time of fin de siècle , or end-of-the-century gloom. As part of that overall transition, many scholars of Decadence, such as David Weir , regard Decadence as a dynamic transition between Romanticism and Modernism , especially considering the Decadent tendency to dehumanize and distort in the name of pleasure and fantasy. Distinction from Symbolism Symbolism has often been confused with the Decadent movement. Arthur Symons , a British poet and literary critic contemporary with the movement, at one time considered Decadence in literature to be a parent category that included both Symbolism and Impressionism , as rebellions against realism. He defined this common, decadent thread as \"an intense self-consciousness, a restless curiosity in research, an over-subtilizing refinement upon refinement, a spiritual and moral perversity\". He referred to all such literature as \"a new and beautiful and interesting disease\". Later, however, he described the Decadent movement as an \"interlude, half a mock interlude\" that distracted critics from seeing and appreciating the larger and more important trend, which was the development of Symbolism. It",
+      "id": "HotpotQA-validation-00000596/01_Decadent-movement.html_c_6"
+    },
+    {
+      "text": "The 1878 Pornokratès by Belgian artist Félicien Rops The Decadent movement (from the French décadence , lit. ' decay ' ) was a late 19th-century artistic and literary movement, centered in Western Europe , that followed an aesthetic ideology of excess and artificiality. The Decadent movement first flourished in France and then spread throughout Europe and to the United States. The movement was characterized by a belief in the superiority of human fantasy and aesthetic hedonism over logic and the natural world . Overview The concept of decadence dates to the 18th century, especially from the writings of Montesquieu , the Enlightenment philosopher who suggested that the decline ( décadence ) of the Roman Empire was in large part due to its moral decay and loss of cultural standards. When Latin scholar Désiré Nisard turned toward French literature, he compared Victor Hugo and Romanticism in general to the Roman decadence, men sacrificing their craft and their cultural values for the sake of pleasure. The trends that he identified, such as an interest in description, a lack of adherence to the conventional rules of literature and art, and a love for extravagant language, were the seeds of the Decadent movement. French Decadent movement The first major development in French decadence appeared when writers Théophile Gautier and Charles Baudelaire used the word proudly to represent a rejection of what they considered banal \"progress\". Baudelaire",
+      "id": "HotpotQA-validation-00000596/01_Decadent-movement.html_c_0"
+    },
+    {
+      "text": "weekly Uruguayan newspaper Marcha . He had lived for some years in Buenos Aires , where he published short stories and wrote cinema critiques for the local media, and met and befriended novelist and journalist Roberto Arlt , author of the novels El juguete rabioso , Los siete locos , Los lanzallamas . He went on to become one of Latin America 's most distinguished writers, earning Uruguay National Literature Prize in 1962. He was considered a senior member of the ' Generation of 45 ', a Uruguayan intellectual and literary movement: Carlos Maggi , Manuel Flores Mora , Ángel Rama , Emir Rodríguez Monegal , Idea Vilariño , Carlos Real de Azúa , Mauricio Muller , José Pedro Díaz , Amanda Berenguer , Mario Benedetti , Ida Vitale , Líber Falco , among others. In 1974, he and some of his colleagues were imprisoned by the military dictatorship. Their crime: as members of the jury, they had chosen Nelson Marra's short story El guardaespaldas (i.e. \"The bodyguard\") as the winner of Marcha' s annual literary contest. Due to a series of misunderstandings (and the need to fill some space in the following day's edition), El guardaespaldas was published in Marcha , although it had been widely agreed among them that they shouldn't do so due to its sensitive political themes.",
+      "id": "HotpotQA-validation-00000853/01_Juan-Carlos-Onetti.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- August Brancart published work of the Decadent movement (HotpotQA-validation-00000596/00_Auguste-Brancart.html_c_0)\n- The Decadent movement was centered in Western Europe and first flourished in France (HotpotQA-validation-00000596/01_Decadent-movement.html_c_0)\n- The heart of the Decadent movement in France was during the 1880s–1890s (HotpotQA-validation-00000596/01_Decadent-movement.html_c_6)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where was the movement that August Brancart published literature from centerd?",
+      "doc_ids": [
+        "HotpotQA-validation-00000596/00_Auguste-Brancart.html_c_0",
+        "HotpotQA-validation-00000596/01_Decadent-movement.html_c_22",
+        "HotpotQA-validation-00000596/01_Decadent-movement.html_c_6",
+        "HotpotQA-validation-00000596/01_Decadent-movement.html_c_0",
+        "HotpotQA-validation-00000853/01_Juan-Carlos-Onetti.html_c_1"
+      ]
+    }
+  ]
+}

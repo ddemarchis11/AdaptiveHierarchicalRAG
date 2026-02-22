@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003907",
+  "question": "Which Australian professional women's basketball team has an American playing in it?",
+  "gold_answer": "Adelaide Lightning",
+  "llm_answer": "I cannot verify which Australian professional women's basketball team has an American playing in it.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response, which is 'Adelaide Lightning,' as stated in the Gold Answer. Additionally, the Model Answer does not utilize the retrieved context to address the question, nor does it include any relevant facts or evidence from the context."
+  }
+}

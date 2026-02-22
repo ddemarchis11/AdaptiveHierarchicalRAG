@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005718",
+  "question": "Who brewed the first espresso coffee in space, Patrick Baudry or Samantha Cristoforetti?",
+  "gold_answer": "Samantha Cristoforetti",
+  "llm_answer": "Samantha Cristoforetti brewed the first espresso coffee in space.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Samantha Cristoforetti as the person who brewed the first espresso coffee in space, which aligns with the Gold Answer and is fully supported by the Retrieved Context. The answer is concise but accurate, containing all necessary facts without any unsupported claims."
+  }
+}

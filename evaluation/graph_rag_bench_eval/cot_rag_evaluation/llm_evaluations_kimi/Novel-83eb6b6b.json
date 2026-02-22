@@ -1,0 +1,12 @@
+{
+  "id": "Novel-83eb6b6b",
+  "question": "Why are Cole Conway and Steve Sharp considered important figures in the novel's narrative, and what roles did they play together, particularly regarding their professions and activities such as playing cards?",
+  "gold_answer": "Cole Conway was an engineer who was in company with Steve Sharp, a pilot, and they played cards together.",
+  "llm_answer": "The evidence shows that Cole Conway (formerly Cousin Cæsar) and Steve Sharp (real name Steve Brindle) are important because they are lifelong partners in gambling—“partners … in the game, as they called it.”  \nTheir shared activity is playing cards for money in saloons; the narrative gives a detailed scene in which Conway, while dealing, dreams of a thick card that turns into a hoard of gold pieces, an episode that cements their joint identity as card-sharpers.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed explanation of Cole Conway and Steve Sharp's partnership and their gambling activities, which aligns partially with the Gold Answer. However, it introduces additional details about Conway's dream and their identity as card-sharpers that are not explicitly supported by the retrieved context. The context does confirm their partnership and card-playing activities but does not elaborate on their professions as an engineer and pilot, which are central to the Gold Answer. Thus, the Model Answer misses key facts and includes some unsupported claims."
+  }
+}

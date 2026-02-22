@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000548",
+  "question": "During the 2012-13 season, a Swiss football club signed a former AC Milan midfielder known for his combative style alongside a striker who currently plays for which Edinburgh-based club?",
+  "gold_answer": "Scottish Premiership club Hearts",
+  "llm_answer": "I cannot verify the answer to the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide a relevant or correct response to the question. It does not address the query about the Edinburgh-based club where the striker currently plays, nor does it utilize the retrieved context effectively. The Gold Answer specifies 'Scottish Premiership club Hearts,' which is entirely missed by the Model Answer."
+  }
+}

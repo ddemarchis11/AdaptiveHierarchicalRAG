@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004351",
+  "question": "Typically how many pages were in the fiction magazine in which Robert E. Howard wrote in 1930s?",
+  "gold_answer": "128 pages",
+  "llm_answer": "The evidence does not specify the typical page count of the fiction magazines in which Robert E. Howard wrote during the 1930s.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the page count, which is accurate based on the retrieved context. However, it fails to provide the correct answer of 128 pages as stated in the Gold Answer. The retrieved context does not contradict the Gold Answer but does not directly support it either, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

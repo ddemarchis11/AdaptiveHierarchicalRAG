@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001663",
+  "question": "During which period the sedan variant of the Volvo V50 car was manufactured?",
+  "gold_answer": "1995 to 2012",
+  "llm_answer": "The evidence does not provide a clear answer to the question of when the sedan variant of the Volvo V50 car was manufactured. However, it does provide information on the production timeline of the Volvo V50's estate variant, which was released in 2003 as the second generation of the Volvo S40/V50 range.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not provide a clear answer, while the context explicitly mentions the production timeline of the Volvo S40 (1995–2012), which includes the sedan variant. The Model Answer is faithful to the context but fails to address the question correctly and misses the key facts from the Gold Answer."
+  }
+}

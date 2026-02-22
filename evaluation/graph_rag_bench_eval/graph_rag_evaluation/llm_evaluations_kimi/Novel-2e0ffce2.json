@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2e0ffce2",
+  "question": "Write a diary entry as the Parrot, describing your life with your mistress, the farewell, and being snatched away, while referencing the trouble caused to her lover.",
+  "gold_answer": "Diary Entry — My days with my mistress were filled with warmth and chatter. Today, I said farewell to Corinna, her eyes glistening with sorrow. I was snatched away by envy, separated from her gentle hands. I have heard it said that my mistress is born to be a cause of trouble to her lover, and perhaps, even my loss plays a part in the tangled affairs of the heart.",
+  "llm_answer": "I perched on my usual spot, preening my feathers while my mistress, the fair princess, counted her growing hoard of rubies and sapphires; she had just bade farewell to the Red Chief and his foresters, their parting gift clinking beside the butterman’s bag. Suddenly a waltzing raccoon seized me round the body, whirled me off my perch, and in the dizzy spin I glimpsed her lover—the Red Chief—bowing low, unaware that my shrieks were adding to the chaos that would delay his promised devotion. Bruin’s great paw then thudded nearby, splattering custard pie everywhere, and as I flapped to regain balance I feared the whole disorder might expose the princess’s gem-laden journey and bring her lover nothing but trouble.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer is entirely unrelated to the User's Question and the Gold Answer. It introduces characters and events (princess, Red Chief, raccoon, Bruin) that are not mentioned in the Gold Answer or supported by the Retrieved Context. It fails to address the core elements of the diary entry, such as the parrot's life with its mistress, the farewell, being snatched away, and the trouble caused to her lover. The response is a hallucination and does not align with the provided context or the question."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8ddd613c",
+  "question": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+  "gold_answer": "Derem is the native name for Mount Atlas, and Dyris is the ancient name for Mount Atlas.",
+  "llm_answer": "According to the text, Mount Atlas has been known by several historical and native names, including:\n\n1. 'Derem' - This is the name given by the modern aborigines.\n2. 'Dyris' - This is the name given by the ancient aborigines.\n3. 'Der-is' - This is seen to be the same as the ancient 'Dir-is'.\n4. 'Dyris' is also compared to the Hebrew word signifying the place or aspect of the sun at noon-day, as if Mount Atlas was the back of the world, or the cultivated parts of the globe.\n\nThese names are mentioned in the context of the discussion of Mount Atlas and its geographical significance in the region.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Derem' as the modern name and 'Dyris' as the ancient name for Mount Atlas, consistent with the Gold Answer. It also includes additional relevant details about 'Der-is' and the Hebrew comparison, which are supported by the Retrieved Context. All key facts from the Gold Answer are covered, and the extra information is faithful to the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000592",
+  "question": "In what year did the actor who starred in the TV Land original series \"The Soul Man\" host the Black Movie Awards?",
+  "gold_answer": "2005",
+  "llm_answer": "I cannot verify the year that the actor who starred in the TV Land original series \"The Soul Man\" hosted the Black Movie Awards.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct year (2005) as stated in the Gold Answer and does not utilize the retrieved context to address the question. It does not contain any relevant information or attempt to answer the question accurately."
+  }
+}

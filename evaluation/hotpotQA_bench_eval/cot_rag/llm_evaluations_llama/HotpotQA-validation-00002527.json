@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002527",
+  "question": "What term is the current chairman of Prince William County serving?",
+  "gold_answer": "fourth term",
+  "llm_answer": "The current chairman of Prince William County is Democrat Deshundra Jefferson.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the current chairman as Deshundra Jefferson, which is not supported by the retrieved context. Additionally, it fails to address the specific question about the term being served, which is the fourth term according to the Gold Answer."
+  }
+}

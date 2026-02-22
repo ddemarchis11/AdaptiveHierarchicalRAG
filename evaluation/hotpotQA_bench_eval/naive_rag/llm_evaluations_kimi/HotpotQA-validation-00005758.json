@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005758",
+  "question": "What city is the women's Vans Triple Crown of Surfing event hosted at?",
+  "gold_answer": "City and County of Honolulu",
+  "llm_answer": "The evidence does not specify a single city for the women’s Vans Triple Crown of Surfing; it only lists the three venue locations—Haleiwa, Sunset, and Pipeline—on the North Shore of Oahu.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the venues of the event as Haleiwa, Sunset, and Pipeline on the North Shore of Oahu, which aligns with the retrieved context. However, it does not directly address the Gold Answer, which specifies 'City and County of Honolulu' as the hosting city. While the venues are part of the North Shore, they fall under the jurisdiction of the City and County of Honolulu, which the Model Answer fails to mention. The answer is faithful to the context but misses the specific entity mentioned in the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003743",
+  "question": "What phone series serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event?",
+  "gold_answer": "The S7 series",
+  "llm_answer": "The phone series that serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event is the Samsung Galaxy S7 series.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Samsung Galaxy S7 series as the successor to the phones unveiled at the 'Samsung Unpacked 2015' event, which aligns with the Gold Answer and is fully supported by the Retrieved Context. It includes all necessary facts without adding unsupported details."
+  }
+}

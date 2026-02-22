@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002137",
+  "question": "To which other parts of the world has the deer species found in a pair of ancient Cheshire woodlands been introduced, either by human activity or naturalisation?",
+  "gold_answer": "New Zealand, Canada, the United States, the Falkland Islands, and Peru.",
+  "llm_answer": "The European fallow deer has been widely introduced elsewhere. However, the context does not provide information on specific other parts of the world where the deer species has been introduced.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about the regions where the deer species has been introduced, as listed in the Gold Answer (New Zealand, Canada, the United States, the Falkland Islands, and Peru). While the Model Answer is faithful to the retrieved context, it does not provide the required information or facts from the Gold Answer, resulting in low correctness and evidence coverage."
+  }
+}

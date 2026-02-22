@@ -1,0 +1,12 @@
+{
+  "id": "Novel-46ec9d7b",
+  "question": "According to the subgraphs, what are the various uses of trees, and what products are made from them?",
+  "gold_answer": "Sugar Maple is used for making furniture, trees are used for cooking victuals and to keep us warm, and sugar is made from Sugar Maple.",
+  "llm_answer": "Uses of trees  \n- Provide shade for animals in summer  \n- Supply wood for cooking food and for heating homes  \n- Serve as raw material for furniture (tables, bureaus, etc.) and for boards used in various ways  \n\nProducts made from trees  \n- Sugar (boiled from the sap of the Sugar Maple)  \n- Potash (made from the tree’s ashes)  \n- Glass (produced from potash combined with flint or sand)",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a broader list of uses and products derived from trees, including sugar, potash, and glass, which are mentioned in the context. However, it misses the specific mention of Sugar Maple being used for furniture and sugar production, which are central to the Gold Answer. Additionally, the inclusion of potash and glass is partially grounded in the context but not directly relevant to the user's question about 'various uses of trees and products made from them,' as the Gold Answer focuses on Sugar Maple specifically. Thus, the answer is partially correct and partially faithful to the context, with incomplete evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002343",
+  "question": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+  "gold_answer": "Aden",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "API Error or Invalid JSON after retries"
+  }
+}

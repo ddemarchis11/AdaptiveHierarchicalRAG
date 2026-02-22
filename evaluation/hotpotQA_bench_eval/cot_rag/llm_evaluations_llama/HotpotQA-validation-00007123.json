@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007123",
+  "question": "For which film did the Director team with NASA scientists, Aliens of the Deep or Poetry in Motion?",
+  "gold_answer": "Aliens of the Deep",
+  "llm_answer": "The film for which the Director team with NASA scientists is \"Aliens of the Deep.\"",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Aliens of the Deep' as the film where the director teamed with NASA scientists, which aligns with the Gold Answer and is fully supported by the Retrieved Context. The answer is concise and directly addresses the question without introducing unsupported details."
+  }
+}

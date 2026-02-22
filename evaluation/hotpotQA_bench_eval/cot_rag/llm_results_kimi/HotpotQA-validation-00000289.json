@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000289",
+  "question": "Which came to market first, \"Hey Pa! There's a Goat on the Roof\" or \"Poleconomy\"",
+  "gold_answer": "Hey Pa! There's a Goat on the Roof",
+  "llm_answer": "\"Hey Pa! There's a Goat on the Roof\" came to market first, in 1966, while \"Poleconomy\" was first published in 1980.",
+  "context": [
+    {
+      "text": "Hey Pa! There's a Goat on the Roof was a children's board game issued by Parker Brothers in 1966 . The main objective to the overall game is to get more cans than any other player. The player with the most cans win the game. Details The game revolves around a game board featuring plastic farm-related items sticking out of it. Each player selects a goat as their playing piece, placing the pieces along the goat pen on the board. Players move goat-shaped pieces around the board, attempting to complete tasks to win tin can pieces. The first player to move their goat onto the roof of the barn ends the game, and the winner is then the player with the most tin cans. Movement is determined by an included spinner, which makes the game run purely on luck. Game pieces Deck of cards Six Goat player figures A farmer piece A bell Box of cans References Sources Hey Pa! There's a Goat on the Roof at BoardGameGeek v t e",
+      "id": "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_c_0"
+    },
+    {
+      "text": "Poleconomy is a board game invented by New Zealander Bruce E. Hatherley and first published in 1980. Players compete to acquire properties and investments by controlling economic and political activity . It mirrors real-world businesses and players compete to control government decisions and taxation which affect their businesses. The playing time is set by agreement from all players, e.g. 2 hours, and the winner is determined by the monetary sum of all player cash, companies, insurance or other assets. The game can also end when there are no more companies, advertisements in the bank or bonds in the treasury. Another objective of the game is \"to teach players some of the fundamentals of economics, and the ways in which the economy and the government interact.\" Different editions were published for several different countries. The name Poleconomy is a portmanteau of \"politics\" and \"economy\". History Poleconomy was invented by Bruce Hatherley, a New Zealander from Christchurch who was living in Sydney at the time. He first filed a US patent claim for it in January 1981. It was published in 1980, first in an Australian edition, then a New Zealand edition. The New Zealand edition was produced by Tanner Couch and Robyn Larsen sold the squares on the board as advertising space to the actual companies represented. The New Zealand Stock Exchange was involved with the launch in Auckland . It was also published by World Games. Hatherley contacted Canadian think tank the",
+      "id": "HotpotQA-validation-00000289/01_Poleconomy.html_c_0"
+    },
+    {
+      "text": "The New Zealand Stock Exchange was involved with the launch in Auckland . It was also published by World Games. Hatherley contacted Canadian think tank the Fraser Institute to help introduce the game to Canada in 1983. Michael Walker, an employee of the Institute, sold the first squares as advertising and the rest were sold by stockbrokers , who had little other work because of a recession at the time. More than a million dollars was raised by the Institute and Poleconomy was credited with helping the Institute survive the recession. It was later sold in South Africa and the United Kingdom in other localised versions. More than 1.5 million copies of Poleconomy have been sold internationally, incorporating the participation of 260 major corporate sponsors who leased advertising space in the separate national versions. US patent 4,522,407 was granted for the game in 1985. The game Players compete to acquire properties and investments through stylized economic and political activity . This involves the purchase of real-world companies and advertising using artificial money. The players take turns moving around the board via the roll of the dice, landing on the gameboard squares and carrying out instruction according to the square's contents or player decision. The game is unusual in its mirroring of real-world businesses for which it has licenses to use their trademarks. It also illustrates how political events such as government decisions and taxation affect the economy. The players take turns at being the prime minister or president through elections. Once in power they have the ability to",
+      "id": "HotpotQA-validation-00000289/01_Poleconomy.html_c_1"
+    },
+    {
+      "text": "dice, \"disappointing\", and recommended that players move to the advanced game as quickly as possible. Harrington concluded by giving the game an average rating of 3 out of 5, saying, \"I can give the advanced version of Poleconomy a recommendation, if only on the grounds that trying to stop the country going down the toilet is an illuminating experience.\" References External links Poleconomy Rules",
+      "id": "HotpotQA-validation-00000289/01_Poleconomy.html_c_3"
+    },
+    {
+      "text": "US 309 entered Allentown from the south on Jordan Street (now South 4th Street) and intersected PA 43 at Susquehanna Street, at which point it turned west to join PA 43. US 309/PA 43 curved north on 5th Street and turned west on Auburn Street to intersect PA 29 at Lehigh Street. From here, US 309/PA 29/PA 43 continued north along Lehigh Street, Union Street, and 7th Street to the center of Allentown. PA 145 was first designated in 1928 to run from PA 45 (now PA 248) in Weiders Crossing east to PA 45 (now PA 248) in Bath , heading south along its current alignment and continuing along the river to Cementon , where it turned east and passed through Northampton before continuing to Bath. When first designated, the route was paved between Treichlers and Bath. By 1930, the entire length of PA 145 was paved. The road between Cementon and Allentown was designated by 1930 as part of PA 329. This route followed Coplay Road from Cementon to Coplay and then ran along Mickley Pike through Whitehall Township before entering Allentown on 7th Street, where it ended at US 22, US 309, PA 29, and PA 43 at the intersection of 7th and Hamilton streets. In",
+      "id": "HotpotQA-validation-00005302/00_Pennsylvania-Route-145.html_c_9"
+    }
+  ],
+  "cot_scratchpad": "- Goat on the Roof issued in 1966 by Parker Brothers.\n- Poleconomy published in 1980.\n- Goat on the Roof precedes Poleconomy by 14 years.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which came to market first, \"Hey Pa! There's a Goat on the Roof\" or \"Poleconomy\"",
+      "doc_ids": [
+        "HotpotQA-validation-00000289/00_Hey-Pa-Theres-a-Goat-on-the-Roof.html_c_0",
+        "HotpotQA-validation-00000289/01_Poleconomy.html_c_0",
+        "HotpotQA-validation-00000289/01_Poleconomy.html_c_1",
+        "HotpotQA-validation-00000289/01_Poleconomy.html_c_3",
+        "HotpotQA-validation-00005302/00_Pennsylvania-Route-145.html_c_9"
+      ]
+    }
+  ]
+}

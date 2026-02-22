@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003201",
+  "question": "Where was the air-cooled version of a weapon system used on the HMAS \"Narani\" found?",
+  "gold_answer": "World War I fighter aircraft.",
+  "llm_answer": "The evidence does not specify where the air-cooled version of the weapon system used on HMAS \"Narani\" was found.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question directly, which asks where the air-cooled version of the weapon system was found. The Gold Answer specifies 'World War I fighter aircraft,' but the Model Answer does not provide this information. While the Model Answer is faithful to the retrieved context, it does not cover the key fact from the Gold Answer."
+  }
+}

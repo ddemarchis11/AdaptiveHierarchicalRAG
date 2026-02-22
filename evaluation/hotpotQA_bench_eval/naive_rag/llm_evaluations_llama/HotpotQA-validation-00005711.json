@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005711",
+  "question": "Robin R. Bottin is known for his collaboration with an American director and producer who won an Academy Award, Golden Globe and BAFTA award for what movie?",
+  "gold_answer": "The Social Network",
+  "llm_answer": "There is insufficient evidence to determine which American director and producer Robin R. Bottin collaborated with to win an Academy Award, Golden Globe, and BAFTA award.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to determine the answer, which is incorrect as the Gold Answer ('The Social Network') is supported by the context. David Fincher, mentioned in the context, directed 'The Social Network,' which won an Academy Award, Golden Globe, and BAFTA. The Model Answer is faithful to the context in acknowledging the lack of explicit linkage but fails to provide the correct answer or cover the key fact from the Gold Answer."
+  }
+}

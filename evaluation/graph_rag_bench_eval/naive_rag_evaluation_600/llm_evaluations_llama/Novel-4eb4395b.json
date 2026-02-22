@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4eb4395b",
+  "question": "Who was a contending candidate to become the foster parent of Roxie Fairfield after the separation of the Fairfield sisters?",
+  "gold_answer": "Aunt Fillis Foster was a contending candidate for Roxie.",
+  "llm_answer": "Mrs. Evaline Estep was a contending candidate to become the foster parent of Roxie Fairfield after the separation of the Fairfield sisters.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Mrs. Evaline Estep as the contending candidate for Roxie Fairfield, whereas the Gold Answer and the Retrieved Context clearly state that Aunt Fillis Foster was the candidate chosen for Roxie. While the Model Answer is grounded in the context, it fails to provide the correct information and misses the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005520",
+  "question": "What country does Haringey Heartlands and The Mall Wood Green have in common?",
+  "gold_answer": "London",
+  "llm_answer": "The country that Haringey Heartlands and The Mall Wood Green have in common is England.",
+  "context": [
+    {
+      "text": "Haringey Heartlands is an urban regeneration project in the London Borough of Haringey , in north London , England . Geography The site is located west of Shopping City in Wood Green . The aim of the development is \"to create a vibrant and attractive new urban quarter which acts as the civic and cultural Heart of Haringey , integrating with and benefiting wider communities.\" The newly named Heartlands will centre on the new Clarendon Square and spine road (to be named Mary Neuner Road, after the former mayor of the borough), based around Brook Road, Clarendon Road and Western Road. It will be the site for 1,300–1,500 new homes, as well as small business space, a 20-storey tower, and open spaces and play areas. History Public consultation on the site commenced in 2003 and a draft development plan was drawn up in 2005. A £4.6m government grant to Transport for London and Haringey London Borough Council meant that civil engineering started on the spine road through the site in Spring 2008, and was completed by October 2009. References 51°35′32.03″N 0°6′45.73″W ﻿ / ﻿ 51.5922306°N 0.1127028°W ﻿ / 51.5922306; -0.1127028",
+      "id": "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_c_0"
+    },
+    {
+      "text": "The Mall Wood Green is a large shopping centre and residential complex in Wood Green , north London. It was originally known as Wood Green Shopping City . As of 2006 [update] The Mall had over 100 retail shops, seven of them anchor stores , 45 market stalls, and an average of 221,000 customers per week. The centre and the adjoining shops on Wood Green High Road constitute the commercial hub of the borough of Haringey and its surrounding areas. History The centre was built in the 1970s as \"Wood Green Shopping City\", on the site of the former Noel Park and Wood Green railway station . Initially it included a number of unusual features, most notably a giant wooden climbing frame in the shape of a frog. The centre was opened on 13 May 1981 by Queen Elizabeth II . Unusually for a shopping centre, the A105 road (here called the High Road, though most of its length locally is called Green Lanes ) runs directly through the complex, allowing many of the stores to have entrances directly onto the street. The two halves of the mall are linked by bridges at first and second floor level. The centre is six storeys high, but only the lower two floors are occupied by shops; the upper floors make up a housing complex known as \"Sky City\". In 2006, the badly decomposed body of Joyce Vincent , who had died over two years earlier, was found in a flat in the housing complex. A documentary",
+      "id": "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_0"
+    },
+    {
+      "text": "in May 2007, despite concerns raised about the possibility of flooding on the new site from the River Moselle ; in June 2007 it was announced that the bulk of the extension would be occupied by a new Debenhams store. The proposal involved demolishing the existing Pearson's department store and extending the mall into space within and beyond this site. However, the Debenhams plan ultimately did not go ahead, and instead the bulk of the development site was taken up by a large Primark store. The Mall is also the venue for a craft fair, held four times a year. Aerial view of The Mall Wood Green and Sky City Crime Unusually for a shopping centre, The Mall has its own dedicated team of police, part of Haringey BOCU police. The scheme, initially called \"Operation Partnership\" but later renamed the \"Retail Protection Unit\", was introduced in 1998. The areas surrounding the Mall have traditionally been affected by high rates of street-drinking and its accompanying alcohol-related problems. In 2005 anti-drinking legislation was introduced, and the police were given powers to confiscate alcoholic drinks and to disperse crowds in the area around the centre. The Mall made headlines in 2006 when a shoplifter attacked and repeatedly stabbed Designer Outlet store supervisor Rudy Takkou. Takkou narrowly survived, losing 4 litres of blood. Transport Despite being situated on the site of a disused railway station , The Mall Wood Green is still",
+      "id": "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_2"
+    },
+    {
+      "text": "Political leadership is instead provided by the leader of the council . The leaders since 1965 have been: Composition Following the 2022 election and subsequent changes of allegiance up to July 2025, the composition of the council was as follows: Of the three independent councillors (all of whom had been elected for Labour), two sit together with two Green councillors (one of whom had been elected for Labour) as the 'Green Socialist Alliance'. The other independent councillor does not belong to a group. The next election is due in May 2026. Wards The wards of Haringey and the number of seats: Alexandra Park (2) Bounds Green (2) Bruce Castle (3) Crouch End (3) Fortis Green (3) Harringay (3) Hermitage & Gardens (2) Highgate (3) Hornsey (3) Muswell Hill (2) Noel Park (3) Northumberland Park (3) Seven Sisters (2) South Tottenham (3) St Ann's (2) Stroud Green (3) Tottenham Central (3) Tottenham Hale (3) West Green (3) White Hart Lane (3) Woodside (3) Elections Since the last boundary changes in 2022 the council has comprised 57 councillors representing 21 wards , with each ward electing two or three councillors. Elections are held every four years. Premises The council is usually based at Haringey Civic Centre on High Road in Wood Green, which",
+      "id": "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_c_3"
+    },
+    {
+      "text": "narrowly survived, losing 4 litres of blood. Transport Despite being situated on the site of a disused railway station , The Mall Wood Green is still very well served by public transport in comparison to London's other shopping centres. Wood Green and Turnpike Lane tube stations on the Piccadilly line are both near the mall, and due to Green Lanes , part of the A105 , running through the centre of the development, it is possible to catch buses from directly outside the shops. Alexandra Palace railway station is a short distance to the west of the centre. Gallery Sky City Western (\"Market Hall\") entrance to The Mall Wood Green Shopping City in 2005 References",
+      "id": "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_3"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Haringey Heartlands is in the London Borough of Haringey (Novel-00005520_c_0).\n- The Mall Wood Green is in north London (Novel-00005520_c_1).\n- London Borough of Haringey is in England (Novel-00005520_c_0).\n- England is in the United Kingdom (Novel-00005520_c_0).\n- The Mall Wood Green is in the London Borough of Haringey (Novel-00005520_c_1).\n- The London Borough of Haringey is in the United Kingdom (Novel-00005520_c_2).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What country does Haringey Heartlands and The Mall Wood Green have in common?",
+      "doc_ids": [
+        "HotpotQA-validation-00005520/00_Haringey-Heartlands.html_c_0",
+        "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_0",
+        "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_2",
+        "HotpotQA-validation-00005520/02_Haringey-London-Borough-Council.html_c_3",
+        "HotpotQA-validation-00005520/01_The-Mall-Wood-Green.html_c_3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e1aa48e4",
+  "question": "What actions and roles are attributed to the Bey in the Tunisian territory within the text, particularly regarding his use of the Bastinado as punishment, the existence of his palace in Toser, his administration as Bey of the Camp, carrying a present to the Britannic Majesty, and issuing orders to Arabs?",
+  "gold_answer": "The Bey is associated with the use of Bastinado as a form of punishment, has a palace in Toser, administers the Tunisian territory as Bey of the Camp, carried a present to the Britannic Majesty, and issued orders to Arabs, reflecting his authority and influence.",
+  "llm_answer": "The text attributes several distinct actions and roles to the Bey within Tunisian territory:\n\n1. **Bey of the Camp**: He leads the “flying-camp” on its annual tribute-collecting circuit, personally commanding the expedition, receiving salutes, and administering justice each morning and evening while in the Jereed.\n\n2. **Use of the Bastinado**: He orders the bastinado as a routine punishment—often more ceremonial than severe—for offences such as theft of barley or failure to have tribute ready; the strokes are usually symbolic and rarely draw blood.\n\n3. **Palace at Toser**: He occupies the large, plain “barn-like” building courteously styled his palace whenever the camp halts there; from it he hears cases, receives presents (e.g., an ostrich), and installs or imprunes local sheikhs.\n\n4. **Carrying a present to the Britannic Majesty**: After returning to Tunis he despatches the live ostrich, received as a gift in Toser, to “R.” (Richard Reade) with the request that it be forwarded to the British sovereign.\n\n5. **Issuing orders to Arabs**: Through his officers he directs Arab tribes to supply tribute, replaces recalcitrant sheikhs, and sends armed parties to summon or chastise villagers who fail to meet their obligations.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the roles and actions attributed to the Bey, including his use of the Bastinado, his palace in Toser, his administration as Bey of the Camp, carrying a present to the Britannic Majesty, and issuing orders to Arabs. All details provided are grounded in the retrieved context and align with the Gold Answer, while offering additional supported elaboration."
+  }
+}

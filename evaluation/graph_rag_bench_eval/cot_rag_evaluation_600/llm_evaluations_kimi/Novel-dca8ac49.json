@@ -1,0 +1,12 @@
+{
+  "id": "Novel-dca8ac49",
+  "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+  "gold_answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+  "llm_answer": "Diary of a Launce  \nLizard Cave, night the boat came  \n\nThey thrust their shell of wood right through my silvered door; moonlight that usually guides us to the sand was shattered by a rocking shadow. I darted beneath the prow, but the cave walls flung back the thud of their oars like thunder. Spears of lantern-light stabbed the green, picking out our flickering shoal; we twisted, flashed, hid among the rose-pink ledges while the iron beak pressed farther into the black throat I have never dared swim. A pistol cracked—sound rolled over and over the vaulted roof until I felt it in my spine. Then the keel grated, spun, retreated; daylight spilled again through the mouth, and quiet returned, save for the tremor still quivering in every fin.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the essence of the Gold Answer, describing the intrusion of the boat into the cave and the launce's reaction to it. It adds vivid, creative details about the environment and the experience, which are consistent with the retrieved context. The core facts—boat entering the cave, disturbance caused, and the launce's wary behavior—are all present and supported by the context. The additional descriptive elements enhance the narrative without contradicting the context or the Gold Answer."
+  }
+}

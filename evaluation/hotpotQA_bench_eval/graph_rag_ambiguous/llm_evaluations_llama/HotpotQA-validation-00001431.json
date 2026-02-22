@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001431",
+  "question": "Which centuries-old English children's rhyme, whose earliest known printed record dates to the early eighteenth century, was included on the debut album of a British children's television series featuring colourful antenna-topped characters?",
+  "gold_answer": "Baa, Baa, Black Sheep",
+  "llm_answer": "I'm unable to answer the question as the provided context does not mention the debut album of a British children's television series featuring colourful antenna-topped characters.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model correctly identifies that the retrieved context does not provide information relevant to the question. However, it fails to answer the question using internal knowledge, which would have been appropriate given the lack of relevant context. The correct answer, 'Baa, Baa, Black Sheep,' is not mentioned or inferred."
+  }
+}

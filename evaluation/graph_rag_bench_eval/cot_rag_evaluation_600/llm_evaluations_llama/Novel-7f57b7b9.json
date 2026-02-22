@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7f57b7b9",
+  "question": "As described in the narrative about the mining excitement in New Mexico, what is the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the location of the Perche district?",
+  "gold_answer": "The Mimbres Mountains are part of the Rocky Mountain range and run parallel to the Rio Grande; the forks of the Perche River are in the Mimbres Mountains. The Perche district is located in New Mexico. Hillsboro is located near the Perche River.",
+  "llm_answer": "Based on the provided evidence, the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the location of the Perche district is as follows:\n\n- The Perche district is located on the eastern flanks of the Mimbres Mountains.\n- The Mimbres Mountains are a part of the Rocky Mountain range and run north and south generally parallel with the Rio Grande, from which they lie about forty miles to the westward.\n- The Perche River has three forks coming down from the mountains and uniting at Hillsboro.\n- The Perche district is about twenty-five miles northwest of Lake Valley and ten miles west of Hillsboro.\n- The Solitaire mine, which was a significant discovery in the Perche district, is located on the south branch of the north fork of the Perche River.\n- The Bullion mine, another significant discovery, is located on the middle fork of the Perche River.\n- The Iron King and Andy Johnson mines are also located on the middle fork of the Perche River.\n- A valuable mine is in litigation on the south fork of the Perche River.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the Perche district, aligning with the Gold Answer and retrieved context. It includes all relevant details from the Gold Answer and expands with additional supported information from the context, such as specific mine locations and distances, which are relevant and grounded."
+  }
+}

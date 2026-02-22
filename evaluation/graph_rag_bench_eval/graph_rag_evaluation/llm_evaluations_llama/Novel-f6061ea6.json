@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f6061ea6",
+  "question": "Within the geographical description of Yucatan provided in the text, which two bodies of water does the Yucatan peninsula divide?",
+  "gold_answer": "Yucatan divides the Gulf of Mexico and Caribbean Sea.",
+  "llm_answer": "The Yucatan peninsula divides the Gulf of Mexico and the Caribbean Sea.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the two bodies of water divided by the Yucatan peninsula as the Gulf of Mexico and the Caribbean Sea. This information is explicitly supported by the retrieved context, and the answer includes all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c4edb6a",
+  "question": "How did Elsie Maud Inglis’s role connect with the Scottish Women's Hospitals’ journey to Serbia?",
+  "gold_answer": "Elsie Maud Inglis sent Miss Burke, who influenced her countrymen in America; America aided the Scottish Women's Hospitals, which then went to Serbia.",
+  "llm_answer": "Dr. Elsie Maud Inglis founded and led the Scottish Women’s Hospitals; in 1915 she personally took charge of a unit sent to work with the Serbian army on the Bulgarian front, guiding its medical work during the typhus epidemic and subsequent Austro-German invasion.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Elsie Maud Inglis's leadership role in the Scottish Women's Hospitals and her involvement in Serbia during the typhus epidemic and Austro-German invasion. However, it does not explicitly mention the connection between Miss Burke's influence in America, America's aid to the Scottish Women's Hospitals, and their journey to Serbia, which is central to the Gold Answer. While the Model Answer is partially grounded in the context, it omits key details about Miss Burke and America's role, reducing its evidence coverage and faithfulness."
+  }
+}

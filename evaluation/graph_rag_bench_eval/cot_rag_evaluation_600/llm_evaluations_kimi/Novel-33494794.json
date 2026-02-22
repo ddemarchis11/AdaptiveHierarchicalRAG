@@ -1,0 +1,12 @@
+{
+  "id": "Novel-33494794",
+  "question": "In the story, how does Rags demonstrate responsibility and care for the baby Margaret, particularly in the actions he takes regarding her well-being?",
+  "gold_answer": "Rags felt responsibility and self-respect for Margaret and bathed the baby's face, hands, and feet.",
+  "llm_answer": "Rags demonstrates responsibility and care for baby Margaret by:\n\n- Staying with her through the night, positioning her so the street-lamp light can fall on her face while she sleeps, and keeping her in the bend of his arm.  \n- Preparing and offering her a milk mixture and bread when he realizes she has gone almost two days without food, then fanning her while she sleeps.  \n- Feeling “keen self-reproach” and “bitter remorse” when he discovers he has dozed off and left her unattended in the heat, then fanning and patting her awake.  \n- Risking a trip outside to get her milk once he knows she is safe, declaring, “Why, it’s been near two days that child’s gone without eating… you’ve let her suffer to save yourself.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, detailing Rags' sense of responsibility and care for Margaret, including bathing her and other actions to ensure her well-being. It expands on the Gold Answer with additional supported details from the context, such as feeding her, fanning her, and feeling remorse for neglecting her momentarily. All claims are grounded in the retrieved context, and the Model Answer includes all key facts from the Gold Answer."
+  }
+}

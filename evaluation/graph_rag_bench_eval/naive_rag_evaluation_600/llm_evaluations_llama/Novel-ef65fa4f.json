@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ef65fa4f",
+  "question": "In the narrative, which group is described as having customs similar to those of the inhabitants of Yucatan, based on the comparison of cultural practices?",
+  "gold_answer": "The Carians had customs similar to those of the inhabitants of Yucatan.",
+  "llm_answer": "The narrative describes several groups as having customs similar to those of the inhabitants of Yucatan, based on the comparison of cultural practices. Some of these groups include:\n\n1. The inhabitants of equatorial Africa, as described by Mr. DuChaillu in the relation of his voyage to the \"Land of Ashango\".\n2. The aborigines of North America, specifically the Zunis and other Pueblo Indians of New Mexico.\n3. The inhabitants of Hindostan, specifically the tribes that dwell in that region.\n4. The ancient Chaldeans, specifically the people of Chaldea and the surrounding regions.\n5. The ancient Egyptians, specifically the people of Nubia.\n6. The ancient Carians, specifically the people of Asia Minor.\n\nThese groups are mentioned as having customs similar to those of the inhabitants of Yucatan, including practices such as:\n\n* Carrying children astride on the hip\n* Filing teeth in sharp points\n* Printing the human hand, dipped in a red liquid, on the walls of sacred edifices\n* Using similar types of dress and ornaments\n* Having similar types of tombs and burial practices\n\nThese similarities are presented as evidence of ancient connections and migrations between these groups.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifically identifies the Carians as the group with customs similar to those of the inhabitants of Yucatan. The Model Answer mentions the Carians but also includes several other groups (e.g., Zunis, Hindostan tribes, Chaldeans, Egyptians, etc.) that are not directly relevant to the question or supported by the retrieved context. While the Carians are correctly mentioned, the additional groups dilute the focus and introduce unsupported claims, reducing both faithfulness and evidence coverage."
+  }
+}

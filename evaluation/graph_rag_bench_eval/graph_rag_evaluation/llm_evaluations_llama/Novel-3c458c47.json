@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c458c47",
+  "question": "In the description of the natural environment, which region is specifically characterized in the narrative as having luxuriant vegetation?",
+  "gold_answer": "Vegetation is luxuriant in Yucatan.",
+  "llm_answer": "I cannot find any information in the provided context about a region specifically characterized as having luxuriant vegetation.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the context does not provide information about a region with luxuriant vegetation, which is incorrect as the Gold Answer specifies Yucatan. The context does not directly support the Gold Answer, but the Model Answer fails to address the question correctly using internal knowledge or reasoning."
+  }
+}

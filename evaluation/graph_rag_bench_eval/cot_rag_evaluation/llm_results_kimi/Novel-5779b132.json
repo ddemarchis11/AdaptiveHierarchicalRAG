@@ -1,0 +1,68 @@
+{
+  "id": "Novel-5779b132",
+  "question": "What is the process of making sugar as described in the subgraphs?",
+  "gold_answer": "Sugar is made from Sugar Maple.",
+  "llm_answer": "The evidence only states that “Sugar is made from the sap of this tree [the Sugar Maple].”  \nNo further details of the process are provided.",
+  "context": [
+    {
+      "text": "would try to write what I could about the Sugar Maple. The Sugar Maple is a very beautiful as well as useful tree. In the summer the beasts retire to its kind shade from the heat of the sun. And though the lofty Oak and pine tower above it, perhaps they are no more useful. Sugar is made from the sap of this tree, which is a very useful article. It is also used for making furniture such as tables bureaus &c. and boards for various uses. It is also used to cook Our victuals and to keep us warm. But its usefulness does not stop here even the ashes are useful; they are used for making potash which with the help of flint or sand and a good fire to melt it is made into glass which people could not very well do without. Glass is good to help the old to see and to give light to our houses. Besides all this teliscopes are made of glass by the help of which about all the knowledge of the mighty host of planetary worlds has been discovered. This tree is certainly very useful. In the first place sugar is made from it. Then it gives us all sorts of beautiful furniture. Then it warms our houses and cooks our victuals and then even then we get something from the ashes yes something very useful. No more at present. ANGELINE STICKNEY. Teacher’s comment: I wish there was a good deal more. This is well written. Write more next time.",
+      "id": "Novel-58553_c_20"
+    },
+    {
+      "text": "the daughters married their step-brothers, and shared the Woodward fate. Twelve-year old Angeline went to work very industriously at the Woodward farm on Dry Hill. What the big, strapping Woodward girls could have been doing it is hard to say—wholly occupied with finding husbands, perhaps. For until 1847 Angeline was her mother’s chief assistant, at times doing most of the housework herself. She baked for the large family, mopped floors, endured all sorts of drudgery, and even waded through the snow to milk cows. But with it all she attended school, and made great progress. She liked grammar and arithmetic, and on one occasion showed her ability as a speller by spelling down the whole school. She even went to singing school, and sang in the church choir. Some of the envious Woodward children ridiculed the hard-working, ambitious girl by calling her “Lady Angeline,” a title which she lived up to from that time forth. Let me reproduce here two of her compositions, written when she was fourteen years of age. They are addressed as letters to her teacher, Mr. George Waldo: RODMAN, January 21st 1845 SIR, As you have requested me to write and have given me the subjects upon which to write, I thought I would try to write what I could about the Sugar Maple. The Sugar Maple is a very beautiful as well as useful tree. In the summer the beasts",
+      "id": "Novel-58553_c_19"
+    },
+    {
+      "text": "8. How does the brewer know when sugar begins to           go and alcohol to come?           9. Why does he want the starch turned to sugar?           10. Is barley good for food?           11. Why is beer not good for food?           12. Why should you not drink it?           13. Why did the two boys of the same age, at the           same school, become so unlike?           14. Which will have the best chance in life? FOOTNOTE: [Footnote B: Car bon'ic acid gas.] CHAPTER VI. DISTILLING. [Illustration: D]ISTILLING (d[)i]s t[)i]l[\\l]'ing) may be a new word to you, but you can easily learn its meaning. You have all seen distilling going on in the kitchen at home, many a time. When the water in the tea-kettle is boiling, what comes out at the nose? Steam. What is steam? You can find out what it is",
+      "id": "Novel-25646_c_40"
+    },
+    {
+      "text": "the body which need it, comes from fat-making foods. In cold weather, we need more fatty food than we do in summer, just as in cold countries people need such food all the time. The Esquimaux, who live in the lands of snow and ice, catch a great many walrus and seal, and eat a great deal of fat meat. You would not be well unless you ate some fat or butter or oil. WHAT WILL MAKE FAT? Sugar will make fat, and so will starch, cream, rice, butter, and fat meat. As milk will make muscle and fat and bones, it is the best kind of food. Here, again, it is the earth that sends us our food. Fat meat comes from animals well fed on grain and grass; sugar, from sugar-cane, maple-trees, or beets; oil, from olive-trees; butter, from cream; and starch, from potatoes, and from corn, rice, and other grains. Green apples and other unripe fruits are not yet ready to be eaten. The starch which we take for food has to be changed into sugar, before it can mix with the blood and help feed the body. As the sun ripens fruit, it changes its starch to sugar. You can tell this by the difference in the taste of ripe and unripe apples. CANDY. Most children like candy so well, that they are in danger of eating more sugar than is good for them.",
+      "id": "Novel-25646_c_61"
+    },
+    {
+      "text": "How does it affect his manners? [Illustration: _Bones of the human body._] CHAPTER IV. WHAT IS ALCOHOL? [Illustration: R]IPE grapes are full of juice. This juice is mostly water, sweetened with a sugar of its own. It is flavored with something which makes us know, the moment we taste it, that it is grape-juice, and not cherry-juice or plum-juice. Apples also contain water, sugar, and apple flavor; and cherries contain water, sugar, and cherry flavor. The same is true of other fruits. They all, when ripe, have the water and the sugar; and each has a flavor of its own. Ripe grapes are sometimes gathered and put into great tubs called vats. In these the juice is squeezed out. In some countries, this squeezing is done by bare-footed men who jump into the vats and press the grapes with their feet. The grape-juice is then drawn off from the skins and seeds and left standing in a warm place. Bubbles soon begin to rise and cover the top of it with froth. The juice is all in motion. [Illustration: _Picking grapes and making wine._] If the cook had wished to use this grape-juice to make jelly, she would say: \"Now, I can not make my grape-jelly, for the grape-juice is spoiled.\" WHAT",
+      "id": "Novel-25646_c_31"
+    },
+    {
+      "text": "to work for him. Which of these two do you think he will select? A few years later, a young man is wanted who can be trusted with the care of an engine or a bank. It is a good chance. Which of these young men will be more likely to get it? REVIEW QUESTIONS.           1. Is there sugar in grain?           2. What is in the grain that can be turned into           sugar?           3. What can you do to a seed that will make its           starch turn into sugar?           4. What does the brewer do to the barley to make           its starch turn into sugar?           5. What is malt?           6. What does the brewer put into the malt to start           the working?           7. What gives the bitter taste to beer?           8. How does the brewer know when sugar begins to",
+      "id": "Novel-25646_c_39"
+    }
+  ],
+  "cot_scratchpad": "- Sugar is made from Sugar Maple sap (Novel-58553_c_20)\n- Sugar also comes from sugar-cane, maple-trees, or beets (Novel-25646_c_61)\n- No details on cane/beet process yet; maple only says “sap” without steps\n- Need extraction/boiling details for full process\n- Sugar made from Sugar Maple sap only (Novel-58553_c_20)\n- No boiling, evaporation, or detailed steps found\n- Cane/beet process not described in evidence\n- Only source identified is sap\n- Sugar is obtained from sap of the Sugar Maple (Novel-58553_c_20).\n- Sugar also comes from sugar-cane, maple-trees, or beets (Novel-25646_c_61).\n- No processing steps (boiling/evaporation) are described in the evidence.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the process of making sugar as described in the subgraphs?",
+      "doc_ids": [
+        "Novel-58553_c_20",
+        "Novel-25646_c_61",
+        "Novel-25646_c_31",
+        "Novel-25646_c_39",
+        "Novel-25646_c_34"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "maple sap sugar extraction boiling steps",
+      "doc_ids": [
+        "Novel-58553_c_20",
+        "Novel-58553_c_19",
+        "Novel-25646_c_61",
+        "Novel-25646_c_40",
+        "Novel-47558_c_27"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Sugar Maple sap boiling evaporation steps",
+      "doc_ids": [
+        "Novel-58553_c_20",
+        "Novel-58553_c_19",
+        "Novel-25646_c_61",
+        "Novel-25646_c_40",
+        "Novel-47558_c_27"
+      ]
+    }
+  ]
+}

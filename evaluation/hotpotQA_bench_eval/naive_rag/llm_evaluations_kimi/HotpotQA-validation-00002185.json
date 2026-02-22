@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002185",
+  "question": "Armie Hammer stars as Oliver in a film directed by who ?",
+  "gold_answer": "Luca Guadagnino",
+  "llm_answer": "Luca Guadagnino",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Luca Guadagnino as the director of the film in which Armie Hammer stars as Oliver. This is fully supported by the retrieved context, which explicitly states that Luca Guadagnino directed 'Call Me by Your Name,' where Armie Hammer played Oliver. The answer is concise but accurate, containing all necessary information."
+  }
+}

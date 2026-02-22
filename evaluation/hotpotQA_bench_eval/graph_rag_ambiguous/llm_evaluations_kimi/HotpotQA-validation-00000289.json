@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000289",
+  "question": "Which of these two board games, one featuring a farm animal on a rooftop and the other about political economics, appeared on shelves first?",
+  "gold_answer": "Hey Pa! There's a Goat on the Roof",
+  "llm_answer": "“Hey Pa! There’s a Goat on the Roof” was issued by Parker Brothers in 1966, whereas “Poleconomy” was first published in 1980, so the goat-on-the-roof game appeared on shelves first.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'Hey Pa! There's a Goat on the Roof' as the game that appeared first, aligning with the Gold Answer and the dates provided in the Retrieved Context. It is faithful to the context and includes all relevant facts from the Gold Answer."
+  }
+}

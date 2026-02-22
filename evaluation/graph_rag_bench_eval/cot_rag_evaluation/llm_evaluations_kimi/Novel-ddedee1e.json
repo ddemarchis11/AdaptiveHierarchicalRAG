@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddedee1e",
+  "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+  "gold_answer": "French Canadians struggled with the Chateau Clique, and the Chateau Clique conflicted with the Patriotes, shaping attempts at reform.",
+  "llm_answer": "The evidence shows that the French Canadians’ “struggle with the ‘Chateau Clique’” (22-5, 29) and the direct clash between the Patriotes and the Clique (25, 31-2, 54-5) framed the reform agenda: the Ninety-Two Resolutions—drafted by Patriote leaders—were the concrete programme that emerged from this confrontation (38-42, 44-5, 52).",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, elaborating on the struggles between French Canadians, the Chateau Clique, and the Patriotes, and how these shaped reform efforts. It provides additional relevant details, such as the Ninety-Two Resolutions, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the response is fully grounded in the context provided."
+  }
+}

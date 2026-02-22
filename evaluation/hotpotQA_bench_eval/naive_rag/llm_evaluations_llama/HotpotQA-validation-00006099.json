@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006099",
+  "question": "Easter Airways' head office is located at which airport owned by Manchester Airports Group?",
+  "gold_answer": "Humberside Airport",
+  "llm_answer": "I cannot verify the head office location of Easter Airways.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct location of Eastern Airways' head office, which is Humberside Airport, as stated in the Gold Answer and supported by the Retrieved Context. The model does not utilize the relevant information from the context and instead states it cannot verify the location, which is incorrect."
+  }
+}

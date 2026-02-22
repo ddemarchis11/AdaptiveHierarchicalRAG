@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005636",
+  "question": "What kind of group does At the Drive-In and Muse have in common?",
+  "gold_answer": "band",
+  "llm_answer": "Based on the provided evidence, At the Drive-In and Muse have in common that they have both been compared to Radiohead.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that At the Drive-In and Muse have in common that they have been compared to Radiohead, which is not supported by the retrieved context. The correct answer, 'band,' is not mentioned or implied in the Model Answer, and the retrieved context does not provide evidence for the claim made by the model."
+  }
+}

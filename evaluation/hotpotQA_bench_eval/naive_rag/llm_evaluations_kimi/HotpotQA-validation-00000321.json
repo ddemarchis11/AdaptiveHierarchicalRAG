@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000321",
+  "question": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
+  "gold_answer": "international football competition",
+  "llm_answer": "The international football competition for women that Liu Ailing played in the 1991, 1995, and 1999 editions is the FIFA Women's World Cup.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the FIFA Women's World Cup as the international football competition Liu Ailing participated in during the 1991, 1995, and 1999 editions. This is supported by the Retrieved Context, which explicitly mentions her participation in these editions of the FIFA Women's World Cup. The answer is accurate, grounded, and includes all relevant facts."
+  }
+}

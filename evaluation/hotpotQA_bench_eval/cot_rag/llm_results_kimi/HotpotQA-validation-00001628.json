@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00001628",
+  "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+  "gold_answer": "Tim Cluess",
+  "llm_answer": "Tim Cluess has led his team for a longer period of time.",
+  "context": [
+    {
+      "text": "The 2014–15 Iona Gaels men's basketball team represented Iona College during the 2014–15 NCAA Division I men's basketball season . The Gaels, led by fifth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference . They finished the season 26–9, 17–3 in MAAC play to finish win the MAAC regular season championship. They defeated Siena and Monmouth to advance to the championship game of the MAAC tournament where they lost to Manhattan. As a regular season champion who failed to win their conference tournament, they received an automatic bid to the National Invitation Tournament where they lost in the first round to Rhode Island. Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2011–12 Murray State Racers men's basketball team represented Murray State University during the 2011–12 NCAA Division I men's basketball season . The Racers, led by first year head coach Steve Prohm , played their home games at the CFSB Center and were members of the Ohio Valley Conference . They were the Ohio Valley regular season champions and champions of the 2012 OVC Basketball tournament to earn the conference's automatic bid into the 2012 NCAA tournament . This was the Racers 15th tournament appearance. They defeated Colorado State in the second round before falling to Marquette in the third round to finish the season 31–2. Roster Dexter Fields was ineligible this season under NCAA rules as a transfer. After this season, he had two years of eligibility remaining Schedule Rankings References",
+      "id": "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "The 2015–16 Iona Gaels men's basketball team represented Iona College during the 2015–16 NCAA Division I men's basketball season . The Gaels, led by sixth year head coach Tim Cluess , played their home games at the Hynes Athletic Center and were members of the Metro Atlantic Athletic Conference (MAAC). They finished the season 22–11, 16–4 in MAAC play to finish in second place. They defeated Canisius , Siena , and Monmouth to be champions of the MAAC tournament and earn the conference's automatic bid to the NCAA tournament where, as a #13 seed, they lost in the first round to Iowa State . Previous season The Gaels finished the 2014–15 season 26–9, 17–3 in MAAC play to win the MAAC regular season championship. Iona lost to Manhattan in the championship game of the MAAC tournament and earned an automatic bid to the National Invitation Tournament . In the NIT, they lost in the first round to Rhode Island . Roster Schedule References",
+      "id": "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results Rankings Awards and honors References",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1"
+    },
+    {
+      "text": "The 2015–16 Iowa State Cyclones men's basketball team represented Iowa State University during the 2015–16 NCAA Division I men's basketball season . The Cyclones were coached by Steve Prohm , who was in his 1st season. They played their home games at Hilton Coliseum in Ames, Iowa and competed in the Big 12 Conference . They finished the season 23–12 10–8 in Big 12 play to finish tied for 5th place. They lost to Oklahoma in the quarterfinals of the Big 12 Conference tournament . They received an at-large bid to the NCAA tournament where they defeated Iona and Little Rock to advance to the Sweet Sixteen where they lost to Virginia . Previous season Iowa State finished the season 25–9, 12–6 in Big 12 play to finish in second place. They defeated Texas , Oklahoma , and Kansas to become champions of the Big 12 Conference tournament to earn and automatic bid to the NCAA tournament . In the NCAA Tournament they were upset by UAB in the second round. After months of speculation, it was announced on June 2, 2015, that Fred Hoiberg would be accepting the head coach position with the Chicago Bulls of the NBA . On June 8, 2015, it was announced that Iowa State would be hiring Murray State head coach Steve Prohm for the same position. Offseason departures Recruiting Prep recruits Incoming transfers Roster Schedule and results",
+      "id": "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+    },
+    {
+      "text": "Tim Esmay is an American baseball coach. He is the former head coach of the Arizona State Sun Devils baseball team. He was the head coach of the Arizona State Sun Devils baseball team from prior to the 2010 season until the end of the 2014 season , when he announced his resignation. Esmay is an Arizona State alumnus , and he played baseball there from 1986–1987. After graduating from Arizona State in 1987, Esmay served as an assistant at Arizona State, Grand Canyon , and Utah . He was Utah's head coach from 1997–2004, before he was hired as an assistant at Arizona State prior to the 2005 season . From 2005–2009, Esmay served as an assistant under Pat Murphy . Following the 2009 season , Murphy was forced to resign due to violations of NCAA rules regarding student-athlete employment and recruiting. Esmay was hired as an interim head coach for the 2010 season. After leading the Sun Devils to the 2010 College World Series , Arizona State removed the \"interim\" tag from his title and formally named him the fourth head coach of the varsity era. As a result of Murphy's violations, the NCAA imposed sanctions on the program, including a ban from the postseason in 2012 . Since 2024, Esmay has been the manager of the Arizona Athletics of the Arizona Complex League . Head coaching record References",
+      "id": "HotpotQA-validation-00005979/03_Tim-Esmay.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Cluess was 5th-year head coach at Iona in 2014-15 (Novel-00001628_c_0)\n- Cluess was 6th-year head coach at Iona in 2015-16 (Novel-00001628_c_2)\n- Prohm was 1st-year head coach at Murray St in 2011-12 (Novel-00001628_c_1)\n- Prohm was 1st-year head coach at Iowa St in 2015-16 (Novel-00001628_c_4)\n- Cluess was in 5th year at Iona in 2014-15 (Novel-00001628_c_0)\n- Cluess was in 6th year at Iona in 2015-16 (Novel-00001628_c_0)\n- Prohm was in 1st year at Iowa St in 2015-16 (Novel-00001628_c_0)\n- Cluess tenure at Iona before 2014-15 unknown",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/03_201112-Murray-State-Racers-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_1",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Tim Cluess Iona head coach start",
+      "doc_ids": [
+        "HotpotQA-validation-00001628/02_201415-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/00_201516-Iona-Gaels-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00001628/01_201516-Iowa-State-Cyclones-mens-basketball-team.html_c_0",
+        "HotpotQA-validation-00005979/03_Tim-Esmay.html_c_0",
+        "HotpotQA-validation-00004673/01_Hawaii-Rainbow-Warriors-football.html_c_9"
+      ]
+    }
+  ]
+}

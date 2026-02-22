@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e988af6",
+  "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+  "gold_answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+  "llm_answer": "The woman’s desperate appeal—her plea that the Goodwood Plunger use his influence to stop her husband from gambling away their future—causes the Plunger to turn away, rub his forehead, and wish she would leave him alone; her words make him uncomfortable and irritable, but they do not persuade him to act.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not fully align with the Gold Answer. While it captures the woman's appeal and the Goodwood Plunger's discomfort, it fails to mention the critical actions of the woman pointing to her husband Louis, Louis shoving the hand off the Plunger, and the Plunger turning away from the woman. These are key facts in the Gold Answer and are not covered in the Model Answer. Additionally, the Model Answer includes unsupported claims about the Plunger's feelings and irritability, which are not clearly grounded in the retrieved context."
+  }
+}

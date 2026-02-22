@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001412",
+  "question": "Which Latin American pop provocateur, known for her flamboyant persona and legal controversies in the early 2000s, released a song whose title translates roughly as 'everyone stares at me'?",
+  "gold_answer": "Gloria Trevi",
+  "llm_answer": "Gloria Trevi released a song whose title translates roughly as 'everyone stares at me', titled \"Todos Me Miran\".",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Gloria Trevi as the artist and mentions the song 'Todos Me Miran', which translates to 'everyone stares at me'. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which provides detailed information about the song and its significance."
+  }
+}

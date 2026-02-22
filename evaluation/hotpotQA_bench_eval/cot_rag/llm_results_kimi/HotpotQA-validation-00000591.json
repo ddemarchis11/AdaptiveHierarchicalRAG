@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000591",
+  "question": "Red Mountain is a film that centers on an attempt by a group of what group of Civil War rangers?",
+  "gold_answer": "pro-Confederate",
+  "llm_answer": "Quantrill's Raiders",
+  "context": [
+    {
+      "text": "Mountain Rangers was the nickname of an Oregon militia regiment formed during the American Civil War . A mounted unit, the Mountain Rangers were officially Company A, 1st Regiment, 1st Brigade, Oregon State Militia. During the Civil War the State of Oregon organized militias to replace the Federal troops who had been recalled for the war. Organized on May 18, 1863, in Ashland , the Mountain Rangers were organized as an independent military company, the only one in Southern Oregon . The men approved a constitution and bylaws, and elected their officers and NCO's . They agreed to buy military fatigue caps, furnish their own horses and wear grey shirts and blue overalls. Officers wore U. S. military uniforms. For the Fourth of July , the Mountain Rangers ordered new uniforms with matching dark blue coats and pants. Jackson County officials rented a saloon in Ashland to serve as an armory for weapons and ammunition supplied by the state. The Rangers were primarily a marching and social organization with many of the region's leading citizens in the ranks. Prominent Oregon pioneer Abel Helman served as captain. A highlight for the Oregon militiamen was the Military Ball at the Ashland Hotel on Jan. 8, 1864, in celebration of the anniversary of the Battle of New Orleans . The Mountain Rangers are one of the best documented Oregon militia units because of the meticulous journal kept by company journalist and future captain Oliver Applegate . The Oregon volunteer troops were demobilized",
+      "id": "HotpotQA-validation-00000591/02_Mountain-Rangers.html_c_0"
+    },
+    {
+      "text": "Red Mountain is a 1951 American Western film directed by William Dieterle and starring Alan Ladd , Lizabeth Scott , Arthur Kennedy and John Ireland , set in the last days of the US Civil War . The plot centres on an attempt by Quantrill's Raiders to stir up rebellion in the West . Plot Colorado, 1865: a gold assayer is killed and Lane Waldron is seen leaving, so a posse goes after him and, when he is caught, turns into a lynch mob. Lane claims he had a sample from his mine examined by the assayer, but denies shooting him. A noose around Lane's neck is shot in half at the last second by an unseen marksman. The rescuer turns out to be Brett Sherwood, a Confederate captain from the Civil War. The pair escape to a cabin that Lane knows of. At the cabin Brett leaves a gun unattended as a test, when Lane grabs it and aims it at Brett he finds that it's not loaded. Brett the ties up Lane and leaves him. Lane's sweetheart, Chris, arrives at the cabin and releases Lane. The pair then track Brett and capture him. They tie up Brett for the night and take turns guarding him. Chris and Brett discus the war and he finds that she has different loyalties from Lane, hating the rebels and General William Quantrill in particular for killing her family. During the night Brett escapes from his bonds. As",
+      "id": "HotpotQA-validation-00000591/00_Red-Mountain-film.html_c_0"
+    },
+    {
+      "text": "Cantrell's Raiders, also led by a partisan made an officer by the Confederacy. Fighting Man of the Plains is a 1949 American film directed by Edward L. Marin. Randolph Scott plays Jim Dancer, one of Quantrill's Raiders staging attacks on Kansas on behalf of the fallen Confederacy in the years following the Civil War. The Audie Murphy film Kansas Raiders (1950) deals with Quantrill's Raiders in the period immediately after the Civil War, as does Arizona Raiders , also starring Audie Murphy. The film Best of the Badmen (1951) is a fictional account of the remnants of Quantrill's Raiders in the western frontier after they had surrendered to Union forces. The film Red Mountain (1951) has a \"General\" William Quantrill stirring up rebellion in various Indian Nations in 1865. Anthony Mann 's film Bend of the River (1952) features James Stewart as Glyn McLyntock, a Missouri-Kansas border raider trying to escape his past and make good by accompanying a wagon train of settlers to Oregon. The film The Stranger Wore a Gun (1953) has Randolph Scott playing Jeff Travis, a former spy for Quantrill's Raiders, who rides to Arizona to start a new life, but finds that his reputation has preceded him. Season 1, episode 20 of Gunsmoke titled \"Reunion '78\" (1956) shows a survivor",
+      "id": "HotpotQA-validation-00000591/01_Quantrills-Raiders.html_c_9"
+    },
+    {
+      "text": "Delauter, Roger U. McNeill's Rangers . Lynchburg, Va: H.E. Howard, 1986 Duffey, Jefferson Waite. McNeill's last charge: An account of a daring Confederate in the Civil War . Winchester, Va., Geo. F. Norton Pub. Co., 1912. (Muster roll of McNeill's Rangers: pp. 26–27.) French, Steve. Phantoms of the South Fork: Captain McNeill and His Rangers . Kent, Ohio: The Kent State University Press, 2017 Hulver, Richard A. McNeill's Rangers in the Public Memory of Hardy County, West Virginia. West Virginia History: A Journal of Regional Studies , 2014, V. 8, no. 1: 21–38. Raiford, Neil Hunter. The 4th North Carolina Cavalry in the Civil War: A History and Roster . McFarland & Company, 2003 ISBN 0-7864-1468-5 External links McNeill’s Confederate Rangers , award-winning author Steve French discusses a guerilla band of Confederates known as McNeill's Rangers McNeill's Rangers , by John Paul Strain The Great Cumberland Raid",
+      "id": "HotpotQA-validation-00000591/03_McNeills-Rangers.html_c_8"
+    },
+    {
+      "text": "enemy lines to Cumberland, Maryland . Without being detected, they captured both Union Major General George Crook and Brig. Gen. Benjamin Franklin Kelley from their beds. They evaded pursuing Federal cavalry and delivered the captured generals to Lieutenant General Jubal A. Early , who forwarded the prisoners to Richmond and commissioned Jesse McNeil as Captain of the Rangers. In the words of Gen. Sheridan, The capture of Gilmore caused the disbandment of the party he had organized at the \"camp-meeting,\" most of the men he had recruited returning to their homes discouraged, though some few joined the bands of Woodson and young Jesse McNeil, which, led by the latter, dashed into Cumberland, Maryland, at 3 o'clock on the morning of the 21st of February and made a reprisal by carrying off General Crook and General Kelly, and doing their work so silently and quickly that they escaped without being noticed. On May 8, 1865, the McNeill's Rangers surrendered and were paroled. See also List of Virginia Civil War units List of West Virginia Civil War Confederate units Charles Mynn Thruston American Civil War portal References Further reading Bright, Simeon Miller. The McNeill Rangers: A Study in Confederate Guerrilla Warfare . M.A. Thesis, West Virginia University, 1950 Delauter, Roger U. McNeill's Rangers . Lynchburg, Va: H.E. Howard, 1986 Duffey, Jefferson",
+      "id": "HotpotQA-validation-00000591/03_McNeills-Rangers.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- Mountain Rangers are Oregon militia, not the Civil-War rangers that drive the plot.\n- Red-Mountain’s plot centres on an attempt by Quantrill’s Raiders to spark rebellion in 1865 Colorado (HotpotQA-validation-00000591/00_Red-Mountain-film.html_c_0).\n- Quantrill’s Raiders were Confederate partisan rangers (HotpotQA-validation-00000591/01_Quantrills-Raiders.html_c_9).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Red Mountain is a film that centers on an attempt by a group of what group of Civil War rangers?",
+      "doc_ids": [
+        "HotpotQA-validation-00000591/02_Mountain-Rangers.html_c_0",
+        "HotpotQA-validation-00000591/00_Red-Mountain-film.html_c_0",
+        "HotpotQA-validation-00000591/01_Quantrills-Raiders.html_c_9",
+        "HotpotQA-validation-00000591/03_McNeills-Rangers.html_c_8",
+        "HotpotQA-validation-00000591/03_McNeills-Rangers.html_c_7"
+      ]
+    }
+  ]
+}

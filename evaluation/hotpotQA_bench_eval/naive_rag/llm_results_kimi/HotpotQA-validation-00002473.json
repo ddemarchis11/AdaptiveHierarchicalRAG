@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002473",
+  "question": "Are Trent Edwards and Lucy Saroyan both football players?",
+  "gold_answer": "no",
+  "llm_answer": "Trent Edwards is a football player.  \nLucy Saroyan is not a football player.",
+  "context": [
+    {
+      "text": "zero interceptions . The team cut Kafka on August 31, meaning Edwards had won the job as third-string quarterback, after the rookie Nick Foles . Edwards was released on April 15, 2013. Chicago Bears On August 18, 2013, Edwards was signed by the Chicago Bears for one year. Edwards had previously worked out with the Bears during the offseason. He was released by Chicago on August 30. Oakland Raiders (second stint) Edwards was signed by the Oakland Raiders to a futures contract on January 3, 2014. The Raiders released Edwards on August 26. NFL career statistics References External links Wikimedia Commons has media related to Trent Edwards . Stanford Cardinal football bio Trent Edwards at ESPN.com Trent Edwards at IMDb Trent Edwards profile on YouTube",
+      "id": "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_8"
+    },
+    {
+      "text": "Lucy Saroyan (January 17, 1946 – April 11, 2003) was an American actress and photographer. Life and career Saroyan was born in San Francisco, California , the daughter of the writer William Saroyan and the actress Carol Grace . Her brother is writer Aram Saroyan . Following her parents' second divorce, her mother married the actor Walter Matthau and Lucy later worked alongside her stepfather in a number of his films. She also played small parts on Broadway, off-Broadway , and on TV, in addition to working as a film library archivist . Her most notable film role was in Paul Schrader 's 1978 film Blue Collar , in which she played Harvey Keitel 's wife. Death and legacy She died in Thousand Oaks, California , on April 11, 2003, at the age of 57 from cirrhosis of the liver caused by hepatitis C . Her mother died three months later.  Lucy Saroyan's personal papers, including dozens of letters and postcards to and from her father from early childhood until their eventual estrangement, are archived in the Fresno County Public Library . The collection also comprises hundreds of personal snapshots of Lucy and her entertainment industry friends and acquaintances, and contact sheets from Lucy's early professional modeling sessions. Among the latter are portraits of Lucy and her brother Aram as children, and of Lucy as a young woman by Richard Avedon .",
+      "id": "HotpotQA-validation-00002473/01_Lucy-Saroyan.html_c_0"
+    },
+    {
+      "text": "sessions. Among the latter are portraits of Lucy and her brother Aram as children, and of Lucy as a young woman by Richard Avedon .  Filmography The Grass Roots \"Bella Linda Video\"(1967) Isadora (1968) - (uncredited) Some Kind of a Nut (1969) - Samantha Cactus Flower (1969) - Dancer (uncredited) Maidstone (1970) Kotch (1971) - Sissy The Taking of Pelham One Two Three (1974) - Coed #2 (Hostage) Columbo: Old Fashioned Murder (1976, TV) - Elise American Raspberry (1977) - Connie Greased Lightning (1977) - Hutch's Wife Blue Collar (1978) - Arlene Bartowski Hopscotch (1980) - Carla Xanadu (1980) - Roller-skater The Little Rascals (1994) - Lucy Uptown Girls (2003) - Lulu (final film role) References External links Lucy Saroyan at IMDb v t e",
+      "id": "HotpotQA-validation-00002473/01_Lucy-Saroyan.html_c_1"
+    },
+    {
+      "text": "Trent Edwards (born October 30, 1983) is an American former professional football player who was a quarterback in the National Football League (NFL). He played college football for the Stanford Cardinal and was selected by the Buffalo Bills in the third round of the 2007 NFL draft . As a rookie, Edwards took over the starting position after an injury to incumbent starter J. P. Losman , leading Buffalo to a 5–1 start in 2008 before injuries and declining play resulted in his own demotion and eventual release from the team in 2010. He was also a member of the Jacksonville Jaguars , Oakland Raiders , Philadelphia Eagles , and Chicago Bears . Early life Edwards was a highly rated recruit from Los Gatos High School and was ranked as the number 1 pro-style quarterback by USA Today in 2001. Rivals.com rated Edwards as the number 2 pro-style quarterback and number 20 player overall in its rankings. He was recruited by Michigan , Florida , Notre Dame and Tennessee , but ultimately chose Stanford . In his junior and senior seasons at Los Gatos, he led the team to two undefeated seasons and back-to-back Central Coast Section Division III championships with a combined record of 26–0. In his senior year, he completed 154 of 213 passes for 2,535 yards, 29 touchdowns, three interceptions, and was named as a National Football Foundation Hall of Fame Scholar-Athlete for Santa Clara County. As a",
+      "id": "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_0"
+    },
+    {
+      "text": "due to his arm strength, accuracy, and intelligence. The summer before 2006, Edwards worked as a Synopsys intern. He decided to pass up a career in the electronic design automation industry for the NFL. Prior to the draft, Mel Kiper Jr. projected Edwards as the third-best quarterback in the draft, behind JaMarcus Russell and Brady Quinn . College statistics Source : Professional career Buffalo Bills Trent Edwards passes the ball in a 2007 game against the New York Jets . Edwards was selected by the Buffalo Bills in the third round (92nd overall) of the 2007 NFL draft . Edwards was a part of the Willis McGahee trade that sent McGahee to the Baltimore Ravens for the Ravens' third-round pick in March 2007. After the draft, Hall of Fame coach Bill Walsh contacted Bills general manager Marv Levy to express his confidence in Edwards' abilities. 2007 Edwards made his NFL debut on September 23, 2007, in the Bills' third regular season game against the New England Patriots , after the Bills' starter J. P. Losman was injured in the first quarter. In his first game, Edwards completed 10 of 20 passes for 97 yards with no touchdowns and one interception. In his first NFL start on September 30, 2007, against the New York Jets , he made 22 of 28 passes for 234 yards with a touchdown and an interception, leading the Bills to their first win",
+      "id": "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_2"
+    }
+  ],
+  "cot_scratchpad": "- Trent Edwards is a former NFL quarterback (HotpotQA-validation-00002473/00_Trent-Edwards.html_c_0).\n- Lucy Saroyan was an actress and photographer, not a football player (HotpotQA-validation-00002473/01_Lucy-Saroyan.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Trent Edwards and Lucy Saroyan both football players?",
+      "doc_ids": [
+        "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_8",
+        "HotpotQA-validation-00002473/01_Lucy-Saroyan.html_c_0",
+        "HotpotQA-validation-00002473/01_Lucy-Saroyan.html_c_1",
+        "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_0",
+        "HotpotQA-validation-00002473/00_Trent-Edwards.html_c_2"
+      ]
+    }
+  ]
+}

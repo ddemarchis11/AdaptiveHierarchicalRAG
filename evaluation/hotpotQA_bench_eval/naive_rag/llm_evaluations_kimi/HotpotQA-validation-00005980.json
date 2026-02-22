@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005980",
+  "question": "Sachin H. Jain served as Chief Medical Information and Innovation Officer for one of the largest pharmaceutical companies in the world called what?",
+  "gold_answer": "Merck & Co.",
+  "llm_answer": "Merck",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Merck as the pharmaceutical company where Sachin H. Jain served as Chief Medical Information and Innovation Officer. This is supported by the retrieved context, which explicitly states his role at Merck. The answer is concise but fully accurate and faithful to the context."
+  }
+}

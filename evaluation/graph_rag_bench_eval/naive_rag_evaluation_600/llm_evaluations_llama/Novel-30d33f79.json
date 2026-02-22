@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30d33f79",
+  "question": "Which series of relationships connects David to the musical instrument santir, considering the involvement of Egyptian musicians?",
+  "gold_answer": "David used to suspend the kinnor, which is rendered as harp, found in the British Museum; cymbals in the museum were used by Egyptian musicians; Assyrian musicians played the dulcimer, which is known as santir.",
+  "llm_answer": "There is no direct series of relationships connecting David to the musical instrument santir, considering the involvement of Egyptian musicians. However, there is a mention of the santir in the text, which states that the name \"psanterin\" mentioned in the book of Daniel appears to be synonymous with the \"psalterion\" of the Greeks, and from which also the present oriental dulcimer, \"santir\", may have been derived.\n\nAdditionally, the text mentions that king David's favourite instrument was the kinnor, which is likely a lyre.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the connection between the psanterin and santir, as well as David's use of the kinnor. However, it does not fully address the series of relationships involving Egyptian and Assyrian musicians as outlined in the Gold Answer. While the claims are faithful to the context, the answer misses key elements such as the involvement of cymbals used by Egyptian musicians and the dulcimer played by Assyrian musicians."
+  }
+}

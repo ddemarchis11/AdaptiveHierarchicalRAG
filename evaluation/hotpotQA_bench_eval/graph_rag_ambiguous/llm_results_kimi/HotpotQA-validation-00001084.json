@@ -1,0 +1,296 @@
+{
+  "id": "HotpotQA-validation-00001084",
+  "question": "For which open-world action game set in the American frontier, developed by the studio behind the Grand Theft Auto series, did voice actor Tyler Bunch provide performances?",
+  "gold_answer": "Red Dead Redemption",
+  "llm_answer": "The context does not mention Tyler Bunch performing in any open-world action game set in the American frontier developed by Rockstar Games.",
+  "context": [
+    {
+      "text": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games . It is the seventh main entry in the Grand Theft Auto series , following 2008's Grand Theft Auto IV , and the fifteenth instalment overall. Set within the fictional state of San Andreas , based on Southern California , the single-player story follows three protagonists —retired bank robber Michael De Santa ( Ned Luke ), street gangster Franklin Clinton ( Shawn Fonteno ), and drug dealer and gunrunner Trevor Philips ( Steven Ogg )—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals. Players freely roam San Andreas's open world countryside and fictional city of Los Santos, based on Los Angeles . The game world is navigated on foot and by vehicle, from either a third-person or first-person perspective. Players control the protagonists throughout single-player and switch among them, both during and outside missions. The story is centred on the heist sequences, and many missions involve shooting and driving gameplay. A \"wanted\" system governs the aggression of law enforcement response to players who commit crimes. In Grand Theft Auto Online , the game's online multiplayer mode, up to 30 players engage in a variety of different cooperative and competitive game modes. Shared between many of Rockstar's studios worldwide, the game's development began around the time of Grand Theft Auto IV 's release. The developers drew influence from many of their previous projects (such as Red Dead Redemption and Max Payne 3 ) and designed the game around three lead protagonists to innovate on the core structure of its predecessors. Much of the development work constituted the open world's creation, and several team members conducted field research around California to capture footage for the design team. The game's soundtrack features an original score composed by a team of producers who collaborated over several years. Grand Theft Auto V was released in September 2013 for the PlayStation 3 and Xbox 360 , in November 2014 for the PlayStation 4 and Xbox One , in April 2015 for Windows , and in March 2022 for the PlayStation 5 and Xbox Series X/S . Extensively marketed and widely anticipated, the game broke industry sales records and became the fastest-selling entertainment product in history, earning $800 million in its first day and $1 billion in its first three days. It received critical acclaim, with praise directed at its multiple-protagonist design, open world, presentation and gameplay. However, its depiction of violence and women caused controversies. Several gaming publications awarded the game year-end accolades including Game of the Year awards. In retrospect, it is considered one of seventh and eighth generation console gaming 's most significant titles and among the best video games ever made . It is the second-best-selling video game of all time with 225 million copies shipped, and one of the most financially successful entertainment products of all time, with nearly $10 billion in worldwide revenue. Its",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_0",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 1,
+      "score": 47.24108
+    },
+    {
+      "text": "story and characters—particularly Trevor—polarised reviewers. Some found the narrative inferior to previous Rockstar games and cited Grand Theft Auto IV and Red Dead Redemption 's plot strengths. Others thought the protagonists' contrasting personalities tightened the narrative's pacing. GamesRadar thought the game negated the story inconsistencies and muddled morality of previous series entries. Trevor was considered a particularly \"horrible, terrifying, psychotic human being—and a terrific character\" by GameSpot . Eurogamer found Trevor \"shallow and unconvincing\", and that his eccentricities hurt the narrative and overshadowed Michael and Franklin's character development. Joystiq faulted the protagonists' perceived lack of likability, as the conflict between Michael and Trevor grew into a \"seemingly endless cycle\". The Escapist had difficulty connecting with the characters' emotions since they acted out of greed with no sense of morality and thus gave players little reason to support them. Re-release Re-release reception Grand Theft Auto V 's re-release, similarly, received critical acclaim. It is the highest-rated PlayStation 4 and Xbox One game on Metacritic alongside Rockstar's Red Dead Redemption 2 , and the second-highest rated PC game alongside several others. Game Informer considered the addition of first-person \"another significant breakthrough for the series\" in the vein of Grand Theft Auto III 's shift to third-person from Grand Theft Auto 's bird's-eye view. GameSpot found that playing in first-person heightened the impact of Grand Theft Auto V 's violence, which made him reflect on morality and character motivation more than before. VideoGamer.com opined that players feel like inhabitants of the world, rather than \"guns attached to a floating camera\". The first-person view, in IGN ' s opinion, aided immersion and created a \"surprisingly different experience\". VideoGamer.com praised the \"finer details\" in first-person animations like camera lean when players take corners on motorcycles, or the navigational instruments in plane cockpits. Reviewers found playing the game more difficult in first-person, but Game Informer preferred the challenge. GameSpot thought the improved graphics and spatial anti-aliasing made the open world \"even more spectacular\". They said that in first-person \"everything looks bigger and more imposing\". IGN favoured the PlayStation 4 version's graphics over the Xbox One but thought both consoles rendered the game well and maintained mostly consistent frame rates. They praised the increased frame rate and graphics options offered in the PC version. VideoGamer.com called the console version's frame rate so consistent it was \"scarcely believable\", although GameSpot cited occasional frame rate dips. They opined that the PC version let players \"witness the full extent of Rockstar's admirable handiwork\", but noted that it \"retains evidence of its last-gen roots ... with simple geometry\". VideoGamer.com praised the Rockstar Editor's accessibility on PC but criticised some of its limitations and camera angle restrictions. IGN appreciated",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_9",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 1,
+      "score": 45.642464
+    },
+    {
+      "text": "accomplices with unique skill sets like computer hacking and driving. If an accomplice survives a successful heist, they take a cut from the cash reward and may be available for later missions with improvements to their unique skills. Some heists afford multiple strategies; in a holdup mission, players may either stealthily subdue civilians with an incapacitating agent or conspicuously storm the venue with guns drawn. Each character has a set of eight skills that represent their ability in specific areas such as shooting and driving. Though skills improve through play, each character has a skill with expertise by default (e.g. Trevor's flying skill). The eighth \"special\" skill determines proficiency in an ability that is unique to each respective character. Michael enters bullet time in combat, Franklin slows down time while driving, and Trevor deals twice as much damage to enemies while taking half as much in combat. A meter on each character's HUD depletes when an ability is being used and regenerates when players perform skilful actions (for example, drifting in vehicles as Franklin or performing headshots as Michael). While free-roaming the game world, players may engage in context-specific activities such as scuba diving and BASE jumping , and visit businesses such as cinemas and strip clubs . Each character has a smartphone for contacting friends, starting activities and accessing an in-game Internet. The Internet lets players trade in stocks via a stock market . Players may purchase properties such as garages and businesses, upgrade the weapons and vehicles in each character's arsenal, and customise their appearance by purchasing outfits, haircuts and tattoos. Plot In 2004, criminals Michael Townley, Trevor Philips, and Brad Snider partake in a failed robbery in Ludendorff, North Yankton, resulting in Michael being presumed dead. Nine years later, Michael lives with his family in the city of Los Santos under the alias Michael De Santa, having made a secret agreement with Federal Investigation Bureau (FIB) agent Dave Norton to stay hidden. Across town, gangbanger Franklin Clinton works for a corrupt car salesman and meets Michael while attempting to fraudulently repossess his son's car. The two later become friends. When Michael finds his wife sleeping with her tennis coach, he and Franklin chase the coach to a mansion, which Michael damages in anger. The owner, drug lord Martin Madrazo, demands monetary compensation, so Michael returns to a life of crime to obtain the funds, enlisting Franklin as an accomplice. With the help of Michael's old friend Lester Crest, a disabled hacker, they rob a jewellery store to pay off the debt. Meanwhile, Trevor, who lives in squalor in rural Blaine County, hears of the heist and recognises Michael's work; Trevor had believed the FIB killed Michael in the Ludendorff heist. Trevor finds Michael and reunites with him, forcing the latter to reluctantly accept the former back into his life. As time goes on, the protagonists'",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_2",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 15,
+      "score": 44.166355
+    },
+    {
+      "text": "its violence. The mission received criticism from politicians and anti-torture charity groups. Independent journalist Tom Chick defended the torture sequence, and wrote that unlike Call of Duty: Modern Warfare 2 ' s \" No Russian \" mission or the 2012 film Zero Dark Thirty , the underlying political commentary on torture in \"By the Book\" necessitated the violent content. The torture gameplay was cut from the Japanese release. Several reviewers found the game's portrayal of women misogynistic ; VG247 wrote the female characters were \"either there to be rescued, shouted at, fucked, to be seen fucking, put up with, killed, heard prattling away like dullards on their mobile phones or shopping\". Edge noted the game treated its all-male lead characters in a similar vein through their stereotyped tendencies towards violence. After GameSpot ' s Carolyn Petit claimed the game was misogynistic, her review was met with backlash as users responded with 20,000 largely negative comments on the webpage and a Change.org petition for her firing. Many journalists defended her right to an opinion and lamented the gaming community's defensiveness towards criticism. Australian department stores Target and Kmart pulled the game from their stores in December 2014 after a Change.org petition against depictions of violence towards women in the game amassed over 40,000 signatures. Take-Two Interactive chief operating officer Strauss Zelnick publicly expressed the company's disappointment that the game had been pulled from the retailers, and affirmed that he \"stand[s] behind our products, the people who create them, and the consumers who play them\". IGN called the Change.org petition \"misinformed\", stating that its complaints about incentives for committing sexual violence in the game are untrue. Sexual violence in games is forbidden by the Australian Classification Board , meaning the game would have been refused classification. Kotaku said that the depiction of women is inherently problematic, and that Target were within their rights to refuse to stock the game and were obligated to respond to the petition's wide support. Petit (writing for Kotaku ) and online anti-harassment activist Ben Colliver criticised the game's depiction of transgender characters as sex workers with primarily muscular bodies, describing it as harmful transphobic stereotypes; Colliver wrote that the representation \"does not reflect the complex, nuanced structures that often regulate transgender people's lives\". The April 2022 re-release on PlayStation 5 and Xbox Series X/S removed the content from all portions of the game except Director Mode, meaning their models are accessible but without dialogue options. Some journalists recognised the removal may have been prompted by an open letter written by LGBTQ+ advocacy group Out Making Games, who requested the removal after reading Petit's article. The group praised Rockstar's decision to remove the content. In October 2013, rapper Daz Dillinger issued a cease and desist letter to Rockstar Games and Take Two Interactive for allegedly using two of his songs without authorisation. In February 2014,",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_12",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 15,
+      "score": 37.868923
+    },
+    {
+      "text": "Tyler Bunch , also known as H.D. Quinn , is an American puppeteer , director, and actor. Career Since 1993, Bunch has been a puppet performer for The Jim Henson Company and The Muppets Studio . Under the pseudonym H.D. Quinn , he has provided voiceovers for several video games and English anime dubs such as Pokémon , Yu-Gi-Oh! , and Lu Over the Wall . From 2007 to 2008, Bunch served as director on the PBS Kids television series SeeMore's Playhouse .  Filmography Film Television Video games References External links Tyler Bunch at IMDb",
+      "id": "HotpotQA-validation-00001084/00_Tyler-Bunch.html_c_0",
+      "doc_id": "HotpotQA-validation-00001084/00_Tyler-Bunch.html",
+      "community_id": 0,
+      "score": 37.626255
+    },
+    {
+      "text": "Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games . The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption . The story is set in a fictionalized representation of the United States in 1899 and follows the exploits of Arthur Morgan , an outlaw and member of the Van der Linde gang, who must face the challenges of a declining Wild West , while attempting to survive against government forces, rival gangs, and other adversaries. The game is presented through first- and third-person perspectives, and the player may freely roam its interactive open world . Gameplay elements include shootouts , robberies , hunting , horseback riding, interacting with non-player characters , and maintaining the character's honor rating through moral choices and deeds. A bounty system governs the response of law enforcement and bounty hunters to crimes committed by the player. The game's development lasted over eight years, beginning soon after Red Dead Redemption ' s release, and it became one of the most expensive video games ever made. Rockstar co-opted all of its studios into one large team to facilitate development. They drew influence from real locations as opposed to film or art, focused on creating an accurate reflection of the time with the game's characters and world. The game was Rockstar's first built specifically for eighth-generation consoles , having tested their technical capabilities while porting Grand Theft Auto V . The game's soundtrack features an original score composed by Woody Jackson and several vocal tracks produced by Daniel Lanois . Development included a crunch schedule of 100-hour weeks, leading to reports of mandatory and unpaid overtime . Red Dead Online , the game's online multiplayer mode, lets up to 32 players engage in a variety of cooperative and competitive game modes. Red Dead Redemption 2 was released for the PlayStation 4 and Xbox One in October 2018, and for Windows and Stadia in November 2019. It broke several records and had the second-biggest launch in the history of entertainment, generating US$725 million in sales from its opening weekend and exceeding the lifetime sales of Red Dead Redemption in two weeks. The game received critical acclaim, with praise directed at its story, characters, open world, graphics, music, and level of detail, but some criticism at its control scheme and emphasis on realism over player freedom. It won more than 175 Game of the Year awards and received multiple other accolades from awards shows and gaming publications . It is considered one of eighth-generation console gaming's most significant titles and among the greatest video games ever made . It is the fourth-best-selling video game with over 82 million copies shipped. Gameplay The player may choose to respond positively or negatively to non-player characters throughout the game world, which affects their reputation within the game. Red Dead Redemption 2 is a Western -themed action-adventure game . Played from a first- or third-person perspective, the game is set in",
+      "id": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_c_0",
+      "doc_id": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html",
+      "community_id": 1,
+      "score": 35.95421
+    },
+    {
+      "text": "game, citing its \"profound effect\" on the medium. According to Circana senior director Mat Piscatella, the game was the third-most-played game on PlayStation in the United States in both 2024 and 2025. Development of Grand Theft Auto VI was confirmed by Rockstar in February 2022; the game was formally revealed in December 2023 and is currently scheduled to be released in November 2026. Use in research The game was used in a study by Intel Labs where they presented an approach for enhancing its graphics using neural networks . Notes References Bibliography Bogenn, Tim; Barba, Rick (2013). Grand Theft Auto V Signature Series Strategy Guide . BradyGames . ISBN 978-0-7440-1467-9 . Bertz, Matt (December 2012). \"Go Big Or Go Home\". Game Informer . No. 236. United States: GameStop . pp. 72– 95. \"Play: Economies of scale\" . Edge . No. 259. Future plc . November 2013. pp. 85– 88. Archived from the original on 19 September 2013. External links Listen to this article ( 53 minutes ) This audio file was created from a revision of this article dated 29 August 2023 ( 2023-08-29 ) , and does not reflect subsequent edits. ( Audio help · More spoken articles ) Wikimedia Commons has media related to Grand Theft Auto V . Wikiquote has quotations related to Grand Theft Auto V . Official website Portals : Greater Los Angeles Video games",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_16",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 15,
+      "score": 35.65683
+    },
+    {
+      "text": "GfK Chart-Track , 65 percent of UK sales in the first week were on Xbox 360. The game was the fourth best-selling game in the United Kingdom in 2010, as well as the fourth best-selling PlayStation 3 and Xbox 360 title. The game sold over 95,000 units in its first week in Japan; the PlayStation 3 version was the fourth best-selling game of the week with over 70,000 sales, while the Xbox 360 version was seventh with over 25,000 sales. Legacy Critics concurred that Red Dead Redemption was among the best games of the seventh generation of video game consoles . Eurogamer ' s Dan Whitehead hoped the eighth generation of consoles would offer \"similarly powerful experiences\". In September 2013, IGN ranked Red Dead Redemption the fifth-best PlayStation 3 and seventh-best Xbox 360 game. In 2015, GamesRadar ranked it sixth on its list of best games, recognizing its superiority in narrative over Rockstar's Grand Theft Auto V (2013), and USgamer ranked it tenth on its list of best 21st-century games; Jaz Rignall called it \"one of the finest open world games so far seen\". GamesRadar+ named it the fourth-best game of the decade in 2019, comparing it favorably to other sandbox games Grand Theft Auto V and The Witcher 3: Wild Hunt (2015). Red Dead Redemption ranked high on several best game lists determined by the public; it featured seventh on Good Game ' s \"Top 100 Games\" list, and fifth on IGN ' s \"Games of a Generation\" list, as voted by the program and website's respective audiences. A prequel, Red Dead Redemption 2 , was released in October 2018 for PlayStation 4 and Xbox One. The game's main story is set in 1899, 12 years before Red Dead Redemption , and depicts John's life as part of Dutch's gang alongside Bill, Javier, Uncle, Abigail, and Jack. Players control fellow gang member Arthur Morgan . Notes References Bibliography Bartel, Christopher (2012). \"Resolving the gamer's dilemma\". Ethics and Information Technology . 14 . Springer Science+Business Media : 11– 16. doi : 10.1007/s10676-011-9280-8 . S2CID 14979697 . Bogenn, Tim; Barba, Rick (May 14, 2010). Red Dead Redemption Signature Series Strategy Guide . BradyGames . ISBN 978-0-744-01030-5 . Byrd, Jodi (2014). \"Red Dead Conventions: American Indian Transgeneric Fictions\". In Cox, James H.; Justice, Daniel Heath (eds.). The Oxford Handbook of Indigenous American Literature . Oxford University Press . pp. 344– 357. doi :",
+      "id": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_c_15",
+      "doc_id": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html",
+      "community_id": 1,
+      "score": 35.513344
+    },
+    {
+      "text": "Games\" list. They considered that the open world's scale and detail succeeded the majority of other Xbox 360 games. They called the game \"a triumph both for gamers and for the medium itself, and it deserves its runaway success\". In November 2013, Hardcore Gamer placed the game third on their \"Top 100 Games of the Generation\" list. They cited its improved shooting and driving mechanics over its predecessors, and considered the multiple protagonist design \"a welcome change of pace\" that could become an eighth-generation gaming benchmark. In December, The Daily Telegraph listed the game among their \"50 best games of the console generation\". They called it a \"cultural behemoth\" that \"will be Rockstar's lasting legacy\". In January 2014, Computer and Video Games ranked the game fourth on their \"Games of the Generation\" list. They said that for the first time, Rockstar created an \"utterly beautiful\" open world. They found that the game did away with Grand Theft Auto IV 's repetitive mission design and focused instead on fun gameplay. In May, IGN ranked it eighth on their \"Top 100 Games of a Generation\" list and called it a \"huge, raucous, and wildly ambitious bridge towards the [eighth] generation of console gaming\". The next month, it placed third on IGN ' s \"Games of a Generation: Your Top 100\" list as voted by the site's readers. In August, Game Informer ranked it third on their \"Top 10 Action Games Of The Generation\" list. They compared the game's quality to that of its predecessor but thought that its ensemble character set-up, varied missions and multiplayer superseded Grand Theft Auto IV 's placement on the list. They wrote of the story's absurd drama and the open world's vastness, and did not \"regret a single second\" spent playing the game. In November, Edge named it the fifth-best game of its generation and commented that \"no other game studio is even daring to attempt an open world game in its tradition because there is simply no possibility of measuring up to [its] standards.\" In 2015, the publication rated it the second-greatest video game of all time. The game ranked high on several best game lists determined by the public; it featured eighth on Empire 's \"100 Greatest Video Games Of All Time\" list, and fifth on Good Game 's \"Top 100 Games\" list, as voted by the magazine and programme's respective audiences. Grand Theft Auto V was the most tweeted game of 2015, despite being released over a year earlier. In 2025, Rolling Stone ranked it the third-best game, citing its \"profound effect\" on the medium. According to Circana senior director Mat Piscatella, the game was the third-most-played game on PlayStation in the United States in both 2024 and 2025. Development of Grand Theft Auto VI was confirmed by",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_15",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 15,
+      "score": 35.26946
+    },
+    {
+      "text": "Petit's article. The group praised Rockstar's decision to remove the content. In October 2013, rapper Daz Dillinger issued a cease and desist letter to Rockstar Games and Take Two Interactive for allegedly using two of his songs without authorisation. In February 2014, television personality Karen Gravano of the reality television programme Mob Wives filed suit against Rockstar Games in allegation that a character in the game is based on her likeness and story and was depicted without her consent. Rockstar filed to dismiss Gravano's lawsuit in April, and stated that the allegations are foreclosed by the First Amendment . In July, actress Lindsay Lohan filed a lawsuit, claiming elements in the game, including the Lacey Jonas character, were influenced by her image, voice and clothing line without permission. Rockstar responded in court papers that sought a dismissal of the case, saying that the case was frivolous and filed for publicity purposes. In 2016, both lawsuits were dismissed. Sales Within 24 hours of its release, Grand Theft Auto V generated more than US$815 million in worldwide revenue, equating to approximately 11.21 million copies sold for Take-Two Interactive. The numbers nearly doubled analysts' expectations for the title. Three days after its release, the game had surpassed one billion dollars in sales, making it the fastest-selling entertainment product in history. Six weeks after its release, Rockstar had shipped nearly 29 million copies of the game to retailers, exceeding the lifetime figures of Grand Theft Auto IV . On 7 October 2013, the game became the best-selling digital release on PlayStation Store for PlayStation 3, breaking the previous record set by The Last of Us , though numerical sales figures were not disclosed. It broke seven Guinness World Records on 8 October: best-selling video game in 24 hours, best-selling action-adventure video game in 24 hours, highest-grossing video game in 24 hours, fastest entertainment property to gross US$1 billion , fastest video game to gross US$1 billion , highest revenue generated by an entertainment product in 24 hours, and most viewed trailer for an action-adventure video game. A digital version was released on 18 October for the Xbox 360, which went on to become the highest-grossing day-one and week-one release on Xbox Live . By May 2014, the game had generated nearly US$1.98 billion in revenue. As of August 2014, the game had sold-in over 34 million units to retailers for the PlayStation 3 and Xbox 360. By December 2014, the game had shipped 45 million copies, including 10 million copies of the re-released version. By April 2018, MarketWatch reported the game had generated about $6 billion and was the most profitable entertainment product of all time; it had nearly sold around 100 million copies by July 2018, and by July",
+      "id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_c_13",
+      "doc_id": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html",
+      "community_id": 1,
+      "score": 34.462048
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "summary": "**Title:** Grand Theft Auto V Development & Reception\n\n**Summary:**  \nGrand Theft Auto V was developed by Rockstar North with a team of over 1,000 people, featuring three playable protagonists and a massive open-world modeled on Southern California. The game introduced major gameplay refinements, including improved shooting and driving mechanics, and utilized motion capture for character performances. It received universal acclaim for its innovation, mission design, and technical achievements, becoming one of the highest-rated games on Metacritic. Post-launch, Rockstar shifted focus from planned single-player DLC to Grand Theft Auto Online, which experienced a rocky launch but evolved through continuous updates. Enhanced re-releases brought visual and performance upgrades to newer platforms.\n\n**Keywords:**  \nGrand Theft Auto V, Rockstar North, open-world design, critical acclaim, GTA Online",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/00_Tyler-Bunch.html_0",
+      "summary": "**Title**: Tyler Bunch Puppeteer Career\n\n**Summary**: Tyler Bunch, also credited as H.D. Quinn, is an American puppeteer, director, and voice actor active since 1993 with The Jim Henson Company and The Muppets Studio. In addition to on-camera puppetry, he has voiced characters for English dubs of anime series including Pokémon and Yu-Gi-Oh!, as well as video games. Bunch further expanded his children’s-media work by directing the PBS Kids series SeeMore’s Playhouse from 2007 to 2008.\n\n**Keywords**: puppeteer, H.D. Quinn, Muppets, anime dubbing, PBS Kids",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_1",
+      "summary": "**Title:** Grand Theft Auto V Acclaim & Impact  \n\n**Summary:**  \nGrand Theft Auto V (2013) is Rockstar’s record-shattering open-world crime epic that has sold ~225 million copies and earned nearly $10 billion, making it the second-best-selling video game ever and the most profitable entertainment product in history. Critics lauded its three-protagonist narrative, vast satirical rendition of Southern California (Los Santos & Blaine County), seamless character-switching, refined shooting/driving mechanics, and absence of load screens. The re-release added a first-person mode and visual upgrades that further impressed reviewers, though depictions of violence and female characters sparked controversy. The title swept year-end “Game of the Year” honors, set multiple Guinness sales records, and is widely ranked among the greatest games of the seventh and eighth console generations.  \n\n**Keywords:**  \nGTA V, open-world design, record sales, critical acclaim, controversy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_15",
+      "summary": "**Title**: Grand Theft Auto V Legacy\n\n**Summary**:  \nGrand Theft Auto V (2013) is a record-shattering open-world crime epic whose three-protagonist structure, elaborate heist missions, and satirical storytelling set new benchmarks for seventh-generation consoles. Despite praise for gameplay depth and commercial dominance—225 million copies sold and nearly $10 billion revenue—it sparked enduring controversy over its torture sequence, misogynistic portrayals, and transphobic stereotypes, prompting retailer bans and content edits. Critics and players alike now hail it as a cultural milestone that bridged console generations and reshaped industry expectations.\n\n**Keywords**:  \nGTA V, heist gameplay, controversy, record sales, seventh-generation benchmark",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_1",
+      "summary": "**Title**: Red Dead Redemption Overview\n\n**Summary**: Red Dead Redemption is a 2010 Western-themed action-adventure game by Rockstar, set in 1911, where ex-outlaw John Marston hunts former gang members to save his kidnapped family. The open-world gameplay features horseback exploration, gunfights with the “Dead Eye” targeting system, honor/fame morality mechanics, and a wanted/bounty system. Multiplayer supports 16-player modes including deathmatch and co-op posses. The narrative explores redemption, violence, and the fading frontier, while extensive research and motion capture aimed for realism. Critically acclaimed, it sold 25 million copies, spawned DLC like Undead Nightmare, and was followed by the 2018 prequel Red Dead Redemption 2.\n\n**Keywords**: Red Dead Redemption, open-world Western, Dead Eye mechanic, honor system, John Marston",
+      "is_seed": true,
+      "expand_score": 0.8955308794975281
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_1",
+      "summary": "**Title**: Red Dead Redemption 2 Overview\n\n**Summary**: Red Dead Redemption 2 is a critically acclaimed 2018 Western-themed action-adventure prequel developed by Rockstar Games, set in 1899 and following outlaw Arthur Morgan of the Van der Linde gang. Its vast open-world design emphasizes realism and player choice, featuring an Honor system, Dead Eye combat mechanics, and immersive activities like hunting, bonding with horses, and interacting with NPCs. The game’s eight-year development involved extensive research, an original score by Woody Jackson, and reports of crunch culture. It achieved record-breaking sales, won over 175 Game of the Year awards, and has influenced popular culture, academic discourse, and even ecological awareness among players.\n\n**Keywords**: Red Dead Redemption 2, open-world Western, Honor system, Arthur Morgan, Rockstar Games",
+      "is_seed": true,
+      "expand_score": 0.8955308794975281
+    },
+    {
+      "community_key": "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "summary": "**Title**: Cedric the Entertainer Career Highlights\n\n**Summary**:  \nCedric Antonio Kyles, known professionally as Cedric the Entertainer, is a multifaceted American comedian, actor, and television host. He rose to fame through stand-up comedy, notably as part of *The Original Kings of Comedy* alongside Steve Harvey, Bernie Mac, and D.L. Hughley, which was later adapted into a Spike Lee film. Cedric gained widespread recognition for his roles in *The Steve Harvey Show*, the *Barbershop* film series, and as a voice actor in animated hits like *Ice Age*, *Madagascar*, and *Planes*. He has hosted several TV shows, including *Who Wants to Be a Millionaire*, and starred in sitcoms like *The Soul Man* and *The Neighborhood*. His career spans decades and includes awards, voice roles, film appearances, and even a brief stint in professional wrestling and auto racing.\n\n**Keywords**:  \nCedric the Entertainer, stand-up comedy, The Original Kings of Comedy, Barbershop, voice acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "summary": "**Title**: Tom Clancy’s The Division Overview\n\n**Summary**:  \nTom Clancy’s The Division is a 2016 online-only action-RPG set in post-pandemic Manhattan, praised for its tactical gunplay and atmospheric Dark Zone PvPvE mode, yet criticized for repetitive missions, fractured progression, and an empty open world. Despite mixed reviews highlighting design conservatism and technical exploits like the “Bullet King” farm, the game achieved record-breaking sales for Ubisoft and spawned a 2019 sequel set in Washington, D.C., while a Netflix film adaptation remains in development.\n\n**Keywords**:  \nloot shooter, Dark Zone, sales records, sequel, film adaptation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "summary": "**Title**: Alan Tudyk's Voice & Screen Career\n\n**Summary**:  \nAlan Tudyk is a prolific American actor celebrated for seamlessly moving between live-action and voice roles across film, television, and video games. After early screen credits in *A Knight’s Tale*, *Dodgeball*, and *Firefly*, he became a sought-after voice actor for Disney, voicing characters like King Candy (*Wreck-It Ralph*), Heihei (*Moana*), and Pico (*Encanto*), while also portraying K-2SO in *Rogue One* and its prequel series *Andor*. His genre footprint extends to sci-fi TV leads—Wash in *Firefly*, the alien Harry in *Resident Alien*, and multiple DC/comic roles in *Doom Patrol*, *Harley Quinn*, and *Creature Commandos*. Tudyk further reprises iconic characters in games (*Halo*, *Injustice*) and continues expanding his voice repertoire, including Optimus Prime in *Transformers: EarthSpark*.\n\n**Keywords**:  \nvoice acting, Disney animation, sci-fi roles, K-2SO, Resident Alien",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003219/00_Matt-McKenzie.html_0",
+      "summary": "**Title**: Matt McKenzie Voice Career\n\n**Summary**: Matt McKenzie is a prolific American actor whose career spans voice-over work in video games and animation, live-action television, film, and theater. He is best recognized internationally for voicing Auron in the Final Fantasy and Kingdom Hearts franchises, and for English-language roles in anime features such as Vampire Hunter D: Bloodlust. On screen he has guest-starred in numerous popular series including multiple Star Trek iterations, 24, House M.D., and Mad Men, and portrayed Colin Clive in Gods and Monsters. Frequently cast for his distinctive gruff timbre, McKenzie also performs on stage at venues like the Old Globe Theatre, appearing in productions ranging from Anna Christie to An Ideal Wife.\n\n**Keywords**: voice actor, Final Fantasy, anime dubbing, television guest roles, theater",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "summary": "**Title**: Townsend Coleman Voice Career\n\n**Summary**: Townsend Coleman is an American voice actor whose career spans from early 1980s radio and local TV to iconic animated roles such as Michelangelo in *Teenage Mutant Ninja Turtles* and the title character in *The Tick*. After starting as a Cleveland disc jockey and hosting dance shows in New York and Atlanta, Coleman moved to Los Angeles and quickly became prolific in animation, voicing characters on *Inspector Gadget*, *Jem*, *Fraggle Rock*, *Teen Wolf*, and *Transformers*. He has also voiced countless commercials (7-Up, Keebler, Raid), NBC network promos, the radio drama *Adventures in Odyssey*, and later reprised Tick-related roles in both *Transformers Animated* and the 2016 live-action *Tick* series.\n\n**Keywords**: voice actor, Michelangelo, The Tick, animation, commercials",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "summary": "**Title:** Dan Castellaneta Voice Career\n\n**Summary:**  \nDan Castellaneta is an American actor best known as the voice of Homer Simpson and numerous other characters on *The Simpsons*. Beyond *The Simpsons*, he has voiced major roles in *Hey Arnold!*, *Darkwing Duck*, *Back to the Future: The Animated Series*, *Earthworm Jim*, and *Aladdin* (as the Genie), among others. His extensive voice work spans television, film, and video games, including recurring roles in *Futurama* and *Kingdom Hearts*. Castellaneta’s career also includes live-action appearances in shows like *Friends*, *Arrested Development*, and *Stargate SG-1*, showcasing his versatility across genres.\n\n**Keywords:**  \nvoice acting, The Simpsons, Homer Simpson, animation, guest roles",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004400/01_Mona-Simpson-The-Simpsons.html_31",
+      "summary": "**Title:** Springfield’s Supporting Characters  \n\n**Summary:**  \nThese chunks catalogue a diverse set of minor Springfield residents, from co-workers and classmates to media figures and neighborhood regulars. Collectively they illustrate how The Simpsons populates its world with one-off joke characters (Jack the nuclear-plant retiree, Jake the barber), recurring foils (Janey Powell, Dewey Largo), parodies of real-world celebrities (Rainier Wolfcastle as Schwarzenegger, Declan Desmond as Michael Apted), and stereotype-driven gag figures (Old Jewish Man, Sam & Larry barflies). Their brief back-stories, running gags, and shifting voice actors show how the series mines even peripheral roles for satire, continuity nods, and cultural references.  \n\n**Keywords:**  \nSpringfield citizens, minor characters, voice-actor notes, parody figures, background cameos",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career & Legacy\n\n**Summary**:  \nNicolas Cage, born Nicolas Kim Coppola, is an Oscar-winning American actor and producer whose eclectic, genre-spanning career has earned him both blockbuster success and cult-icon status. After changing his name to avoid nepotism, he rose from early roles in *Fast Times at Ridgemont High* and *Valley Girl* to critical acclaim in *Moonstruck* and an Academy Award for *Leaving Las Vegas*. Known for intense, unpredictable performances—termed “mega-acting”—Cage has starred in action hits (*The Rock*, *National Treasure*), indie gems (*Mandy*, *Pig*), and voice roles (*Spider-Verse*, *The Croods*). Beyond acting, he owns Saturn Films, has directed *Sonny*, and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**:  \nOscar winner, versatile actor, cult icon, Coppola family, mega-acting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002295/00_Dwight-Schultz.html_0",
+      "summary": "**Title**: Dwight Schultz Career & Life\n\n**Summary**: William Dwight Schultz is an American actor born in 1947, best known for playing Captain \"Howling Mad\" Murdock on *The A-Team* and Lieutenant Reginald Barclay across multiple *Star Trek* series and films. His extensive voice-acting credits include Dr. Animo in *Ben 10*, Chef Mung Daal in *Chowder*, and the Vulture in Marvel games. After live-action and animation work, Schultz transitioned to conservative talk radio, hosting *Howling Mad Radio* and frequently guest-hosting programs such as *The Savage Nation*. A Roman Catholic and political conservative, he married actress Wendy Fulton in 1983 and has one daughter.\n\n**Keywords**: The A-Team, Star Trek, voice acting, conservative radio, Barclay",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career Overview\n\n**Summary**: Nicolas Cage, born Nicolas Kim Coppola, is an Academy Award-winning American actor and producer whose films have grossed over $6.4 billion worldwide. After changing his name to avoid nepotism claims related to his uncle Francis Ford Coppola, Cage rose from early roles in \"Valley Girl\" and \"Rumble Fish\" to critical acclaim in \"Moonstruck\" and an Oscar win for \"Leaving Las Vegas.\" Known for his versatile and often eccentric acting style described as \"mega-acting,\" Cage has starred in both blockbuster action films like \"The Rock\" and \"National Treasure\" series, as well as acclaimed independent films like \"Mandy\" and \"Pig.\" Beyond acting, he owns Saturn Films, has directed \"Sonny,\" and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**: actor, Academy Award, filmography, Coppola family, versatile performer",
+      "is_seed": false,
+      "expand_score": 0.9472348690032959
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "summary": "**Title**: Nicolas Cage Career Trajectory  \n\n**Summary**:  \nThese chunks trace Nicolas Cage’s evolving reputation from early cult oddities like *Vampire’s Kiss* through his Oscar-winning turn in *Leaving Las Vegas* and subsequent reinvention as a bankable action hero in *The Rock*, *Con Air*, and *Face/Off*. They chart his oscillation between blockbuster franchises (*National Treasure*, *Ghost Rider*) and critically praised off-beat roles (*Adaptation.*, *Bad Lieutenant*), noting periodic box-office disappointments, critical re-evaluations, and forays into independent and genre cinema that keep his status as a polarizing but enduring screen presence.  \n\n**Keywords**:  \nOscar win, action stardom, critical rebounds, cult performances, franchise blockbusters",
+      "is_seed": false,
+      "expand_score": 0.8632423877716064
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "summary": "**Title**: Red Dead Redemption Development & Reception\n\n**Summary**:  \nRed Dead Redemption's creation involved extensive research and innovation, including motion-captured performances, period-authentic dialogue, and an original 200-track score composed by Bill Elm and Woody Jackson. The game’s marketing campaign featured trailers, pre-order bonuses, and DLC expansions like *Undead Nightmare*. Upon release, it was praised for its immersive open world, nuanced protagonist John Marston, and dynamic gameplay mechanics such as Dead Eye and horseback combat. The game garnered numerous awards, including Game of the Year from multiple institutions. Later re-releases on modern platforms received mixed feedback due to limited enhancements and high pricing.\n\n**Keywords**:  \nRed Dead Redemption, Rockstar Games, John Marston, game development, critical acclaim",
+      "is_seed": false,
+      "expand_score": 0.8590965270996094
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "summary": "**Title**: Red Dead Redemption 2 Critical Reception\n\n**Summary**: Critics universally acclaimed Red Dead Redemption 2 for its vast, lifelike open world, narrative depth, and technical artistry, with many calling it a landmark in video-game design. While praise centered on the game’s immersive detail, dynamic weather, and nuanced characters, some reviewers faulted its slow pacing, clichéd depictions of Native Americans, and restrictive mission structure. Controversy also arose over crunch-time labor practices during development and the game’s handling of player violence against a suffragette NPC.\n\n**Keywords**: open-world design, narrative acclaim, labor controversy, character realism, critical reception",
+      "is_seed": false,
+      "expand_score": 0.8338908553123474
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_5",
+      "summary": "**Title**: Red Dead Redemption 2 Story Arc\n\n**Summary**:  \nRed Dead Redemption 2 follows Arthur Morgan and the Van der Linde gang as they flee a failed 1899 heist, robbing and scheming to raise money for escape while pursued by Pinkerton agents hired by tycoon Leviticus Cornwall. Their journey from Valentine to Saint Denis, Guarma, and back sees them betrayed by rival families and crime bosses, culminating in Dutch’s descent into paranoia and Arthur’s fatal tuberculosis diagnosis. As loyalties fracture, Arthur exposes Micah as the Pinkerton informant, helps John Marston’s family flee, and dies—setting up John’s eventual ranch life and the events of the original Red Dead Redemption.\n\n**Keywords**:  \nVan der Linde gang, Arthur Morgan, Dutch van der Linde, Pinkertons, Micah Bell",
+      "is_seed": false,
+      "expand_score": 0.8316824436187744
+    },
+    {
+      "community_key": "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_9",
+      "summary": "**Title**: Red Dead Redemption’s Cultural Critique\n\n**Summary**:  \nRed Dead Redemption uses its 1911 setting to interrogate the mythic American West, exposing violence, masculinity, and racial injustice rather than celebrating them. Critics debate whether its gritty depiction of virtual murder and Native American genocide serves as dark satire or risks reinforcing nihilism and erasure. John Marston’s failed quest for redemption dramatizes the collapse of the American Dream, as his hyper-masculine, government-manipulated life traps both him and his son in cycles of outlawry. The game’s constrained player agency—freedom without narrative control—mirrors this futility, while its development by a 1,000-person Rockstar team strove for raw realism through exhaustive research, cutting-edge tech, and controversial labor practices.\n\n**Keywords**:  \nviolence critique, masculinity & American Dream, Native American representation, player agency vs fate, Rockstar development",
+      "is_seed": false,
+      "expand_score": 0.8186793923377991
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career lull, Nicolas Cage rebounded with a string of critically praised, genre-spanning roles from 2018 onward, including Mandy, Pig, Dream Scenario, and Longlegs. He simultaneously embraced self-parody in The Unbearable Weight of Massive Talent and franchise fare like Renfield and The Flash, while preparing to headline the Spider-Noir series. This resurgence has been fueled by his self-devised “Nouveau Shamanic” acting style—an uninhibited, imagination-driven approach that turns even outlandish characters into emotionally resonant performances. Off-screen, Cage remains a prolific producer via Saturn Films and a high-profile philanthropist supporting children’s rights, disaster relief, and humanitarian causes.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror comeback, Pig, Mandy, Saturn Films",
+      "is_seed": false,
+      "expand_score": 0.8136320114135742
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/00_Homer-Simpson.html_15",
+      "summary": "**Title**: Homer Simpson Character Origins & Analysis  \n\n**Summary**:  \nThese chunks collect scholarly and production sources that examine Homer Simpson’s creation, traits, and cultural impact. Matt Groening conceived the character in 1987, naming him after his father and modeling key biographical details (age ~36, 6 ft, 239-260 lbs) for narrative flexibility. Homer embodies working-class stereotypes—lazy, beer-loving, impulsive—yet remains a sympathetic family patriarch voiced by Dan Castellaneta. The excerpts list academic books and episode guides that analyze Homer through lenses of philosophy, psychology, religion, gender, pedagogy, and media history, underscoring his status as an American pop-culture icon.  \n\n**Keywords**:  \nHomer Simpson, character creation, The Simpsons, pop-culture icon, academic analysis",
+      "is_seed": false,
+      "expand_score": 0.7997770309448242
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "summary": "**Title:** Grampa Simpson Character Profile  \n\n**Summary:**  \nThese chunks collectively profile Abraham “Grampa” Simpson, detailing his creation, voice work by Dan Castellaneta, and critical reception. Writers exploit his “out-datedness” and rambling anecdotes for humor, while scholars note how the show uses him to mirror stereotypes of senescence and family powerlessness. Episodes explore his back-story—WWII Flying Hellfish veteran, failed wrestler, estranged husband to Mona—and his strained yet occasionally tender relationship with Homer. Merchandise, comics, theme-park and game appearances confirm his enduring, if secondary, role in The Simpsons universe.  \n\n**Keywords:** Grampa Simpson, Dan Castellaneta, voice acting, elderly stereotypes, Flying Hellfish",
+      "is_seed": false,
+      "expand_score": 0.7955858707427979
+    },
+    {
+      "community_key": "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8",
+      "summary": "**Title:** Jack Nicholson’s Acting Legacy  \n\n**Summary:**  \nJack Nicholson’s career is marked by a series of iconic, psychologically complex roles that showcase his intelligence and improvisational skill, from the unhinged Jack Torrance in *The Shining* to the anti-authoritarian Randle McMurphy in *One Flew Over the Cuckoo’s Nest*. Directors like Kubrick, Forman, and Antonioni praised his ability to embody literate, edgy characters while bringing spontaneity and depth to every performance. Despite frequent Oscar recognition, Nicholson remains modest about his method-acting roots, emphasizing instinct and adaptability over technique. His collaborations with legendary actors and directors, along with memorable turns in films like *Chinatown*, *Terms of Endearment*, and *Batman*, cement his status as one of cinema’s most magnetic and versatile stars.  \n\n**Keywords:**  \nJack Nicholson, method acting, iconic roles, improvisation, Oscar winner",
+      "is_seed": false,
+      "expand_score": 0.7842363119125366
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "HotpotQA-validation-00001084/00_Tyler-Bunch.html_0",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_1",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_15",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_1",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_1",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "HotpotQA-validation-00003219/00_Matt-McKenzie.html_0",
+      "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "HotpotQA-validation-00004400/01_Mona-Simpson-The-Simpsons.html_31",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00002295/00_Dwight-Schultz.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_1",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_5",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_9",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00004740/00_Homer-Simpson.html_15",
+      "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_7",
+      "HotpotQA-validation-00001084/00_Tyler-Bunch.html_0",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_1",
+      "HotpotQA-validation-00001084/02_List-of-accolades-received-by-Grand-Theft-Auto-V.html_15",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_1",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_1",
+      "HotpotQA-validation-00000592/01_Cedric-the-Entertainer.html_1",
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "HotpotQA-validation-00005988/01_Alan-Tudyk.html_1",
+      "HotpotQA-validation-00003219/00_Matt-McKenzie.html_0",
+      "HotpotQA-validation-00001141/00_Townsend-Coleman.html_1",
+      "HotpotQA-validation-00004740/01_Dan-Castellaneta.html_0",
+      "HotpotQA-validation-00004400/01_Mona-Simpson-The-Simpsons.html_31",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00002295/00_Dwight-Schultz.html_0",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_10",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_8",
+      "HotpotQA-validation-00001084/03_Red-Dead-Redemption-II.html_5",
+      "HotpotQA-validation-00001084/01_Red-Dead-Redemption.html_9",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00004740/00_Homer-Simpson.html_15",
+      "HotpotQA-validation-00004740/03_Grampa-Simpson.html_5",
+      "HotpotQA-validation-00003047/01_Jack-Nicholson.html_8"
+    ],
+    "allowed_chunk_pool_size": 131,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

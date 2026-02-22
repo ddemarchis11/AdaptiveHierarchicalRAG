@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005518",
+  "question": "The vynil collectible Vinylmation are all shaped with the body of a cartoon character created by who ?",
+  "gold_answer": "Walt Disney and Ub Iwerks",
+  "llm_answer": "The cartoon character whose body shape is used for all Vinylmation figures is Mickey Mouse, who was created by Walt Disney.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Walt Disney as the creator of Mickey Mouse, whose body shape is used for Vinylmation figures. However, it omits Ub Iwerks, who is also credited as a co-creator of Mickey Mouse in the Gold Answer. The answer is faithful to the retrieved context, which mentions Mickey Mouse but does not explicitly reference Ub Iwerks. Evidence coverage is partial due to the omission of Ub Iwerks."
+  }
+}

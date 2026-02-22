@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00007385",
+  "question": "Elizabeth Austin wrote for a fitness magazine founded by who?",
+  "gold_answer": "Christine MacIntyre",
+  "llm_answer": "Christine MacIntyre",
+  "context": [
+    {
+      "text": "Shape (stylized in all caps ) is an American monthly fitness magazine started by Weider Publications in 1981, founded by Christine MacIntyre (a pioneer in women's free weight fitness) and became the number one women's fitness magazine. At that time, Weider Enterprises consisted primarily of the bodybuilding magazine Muscle & Fitness . Joe Weider and Christine MacIntyre had differing views of how to present Shape , Weider endorsing a less journalistic and more commercial approach to articles, MacIntyre endorsing a more academic, doctor-based magazine. Weider also endorsed a sexier approach to editorial while MacIntyre endorsed a healthier look for women, eschewing sexiness in the models and the copy. MacIntyre largely won that battle, editing a magazine that required that every byline have an advanced medical degree, [ clarification needed ] that cover models should look healthy rather than sexy, and that sexist language be avoided.  Christine MacIntyre was the editor-in-chief until her death in 1987. Weider was purchased by American Media in 2002. A German version of Shape is available in Germany, Austria and Switzerland. The magazine is also edited in Romania. Elizabeth Goodman Artis was named Editor-in-Chief in 2014 and held the position until 2021. On January 28, 2015, it was reported that Shape would be acquired by Meredith Corp. and Fitness , published by the company, would cease publication in May 2015 and",
+      "id": "HotpotQA-validation-00007385/01_Shape-magazine.html_c_0"
+    },
+    {
+      "text": "the Way, the Life and the Truth. Deliberately misleading others—even in fun—smacks of heresy .” She said this in an article complaining about some Wikipedia editors’ cleaning up unflattering references to themselves, or vandalizing articles about others in jest, sometimes called \" Wikiality \". However, this was one line from one article out of the thousands that she has written throughout her career, and should not be considered as her life philosophy or even as the most salient quote from her body of work. Austin won the 1996 National Mental Health Association Award for Best Magazine Journalism. She is an Episcopalian and has written about religious issues. She has been a Girl Scout leader. Books The Good Girl's Guide to Negotiating; How to Get What You Want at the Bargaining Table with Leslie Whitaker ( ISBN 0-316-60105-5 ). References Austin, Elizabeth, \"Bill and Paula\" The Washington Monthly. Washington: Jul/Aug 1997.Vol.29, Iss. 7; pg. 21 Austin, Elizabeth, \"A small plea to delete a ubiquitous expletive\" U.S. News & World Report. Washington: Apr 6, 1998.Vol.124, Iss. 13; pg. 58 Austin, Elizabeth, \"Prairie country canyonland\" National Geographic Traveler. Washington: Jul/Aug 2001. Vol. 18, Iss. 5;",
+      "id": "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_1"
+    },
+    {
+      "text": "Cover Muscle & Fitness is a British fitness magazine, which contains articles on strength and fitness training, diet plans and strategies for men and women, and tips and advice. History In 1940, health and fitness pioneer Joe Weider created a newsletter called ‘Your Physique’, which evolved into Muscle & Fitness, Weider Publications' very first magazine – and its flagship brand. Today, Muscle & Fitness is printed in 16 local editions in more than 22 countries, reaching a worldwide audience of over 7 million readers. Editorial mix It contains a varied mix of features and information on training, nutrition, sports medicine, fashion and technology. Each month its staff answer readers' questions and personal training techniques are demonstrated by fitness professionals. v t e v t e v t e",
+      "id": "HotpotQA-validation-00007385/03_Muscle-amp-Fitness-British-magazine.html_c_0"
+    },
+    {
+      "text": "country canyonland\" National Geographic Traveler. Washington: Jul/Aug 2001. Vol. 18, Iss. 5; p. 115 Austin, Elizabeth, \"Talking Points\" The Washington Monthly. Washington: Jun 2006.Vol.38, Iss. 6; pg. 50, Whitaker, Leslie and Elizabeth Austin, “The Good Girl’s Guide to Negotiating: How To Negotiate Effectively Without Being A Bitch,” (2001) Random House. ISBN 0-7126-7085-8 Whitaker,Leslie & Elizabeth Austin. \"Get what you want—now!\" Good Housekeeping. New York: Jan 2001. Vol. 232, Iss. 1; p. 106 Whitaker, Leslie and Elizabeth Austin, “The Good Girl’s Guide to Negotiating: How To Get What You Want At The Bargaining Table,” (2002) (paperback) Little, Brown and Company. ISBN 0-316-60147-0 Notes External links Austin, Elizabeth, “In Contempt of courtship” , Washington Monthly, June 2003",
+      "id": "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_2"
+    },
+    {
+      "text": "Elizabeth Austin (born 1958) is an American writer living in Oak Park, Illinois . Austin has lived in the Midwestern United States all her life. She began her journalism career at the now-defunct City News Bureau of Chicago and has written articles for national news magazines such as Newsweek and Time , in addition to a wide range of other national and regional publications, such as People , and the Chicago Tribune . She has also written for The Washington Monthly , Ladies Home Journal , Good Housekeeping , Self , and Shape . She has often written about medicine and health care. Austin also has been heard on WBEZ , the National Public Radio station in Chicago , as well as the BBC in the UK and Scotland. She has appeared on the Today Show and on ITV in Europe.  Austin was co-author of a syndicated Knight-Ridder column, leaving that job in 2004 to join the staff of Illinois Governor Rod Blagojevich , and went on to serve as Communications Director for Illinois Lt. Governor Pat Quinn . After serving a year as Vice President for Corporate Communications at Playboy Enterprises, she returned to Illinois state government as Communications Director for the Governor's Office of Management and Budget. She later served as Communications Director for Governor Quinn's 2010 primary campaign. She has stated “I believe in a God who is the Way, the Life and the Truth. Deliberately misleading others—even in fun—smacks of heresy .” She said this in an",
+      "id": "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Elizabeth Austin has written for Shape magazine (Novel-00007385_c_0).\n- Shape was founded by Christine MacIntyre (Novel-00007385_c_0).\n- Christine MacIntyre was the editor-in-chief until 1987 (Novel-00007385_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Elizabeth Austin wrote for a fitness magazine founded by who?",
+      "doc_ids": [
+        "HotpotQA-validation-00007385/01_Shape-magazine.html_c_0",
+        "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_1",
+        "HotpotQA-validation-00007385/03_Muscle-amp-Fitness-British-magazine.html_c_0",
+        "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_2",
+        "HotpotQA-validation-00007385/00_Elizabeth-Austin-writer.html_c_0"
+      ]
+    }
+  ]
+}

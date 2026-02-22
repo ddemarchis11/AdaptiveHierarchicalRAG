@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006754",
+  "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+  "gold_answer": "1927",
+  "llm_answer": "I cannot verify the birth year of the singer who popularized \"I'll Keep the Lovelight Burning\".",
+  "context": [
+    {
+      "text": "\" I'll Keep the Lovelight Burning (In My Heart) \" is a popular song written by Bennie Benjamin and George David Weiss , popularized by Patti Page in 1949 . Louis Armstrong also covered the song in 1949. This should not be confused with the song with a similar title written in 1942 by Harry Tobias , Nick Kenny , and Harold Levey . The Page recording was issued by Mercury Records as catalog number 5310, and first reached the Billboard chart on September 4, 1949, lasting 8 weeks and peaking at #26. References v t e",
+      "id": "HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0"
+    },
+    {
+      "text": "\" Keep This Fire Burning \" is a song by Swedish recording artist Robyn , released as the first single from her third album Don't Stop the Music . The single was released in Sweden on 16 September 2002, where it became her highest charting single since 1995's \" Do You Really Want Me (Show Respect) \". The song was also released as a single in Australia under the name \" By Your Side \" due to the Australian bushfires which were happening at the time. In 2008, a re-recorded version of the song appeared on the special edition of Robyn's eponymous album . British soul singer Beverley Knight released a cover of the song in 2004. Track listings CD single \"Keep This Fire Burning\" (Radio Original) – 3:52 \"Keep This Fire Burning\" (Instrumental) – 3:52 CD maxi single and Australian CD single \"Keep This Fire Burning\" (Radio Original) – 3:52 \"Keep This Fire Burning\" (Cherno Jah Remix) – 4:12 \"Keep This Fire Burning\" ( Martin Landquist 2002 Remix) – 4:16 \"Keep This Fire Burning\" (Twin 12\" Club Mix) – 7:24 \"Keep This Fire Burning\" ( Ingrosso & Father Remix) – 7:18 \"Keep This Fire Burning\" (DJ Benji Remix) – 5:51 Personnel Written by Robyn, Remee",
+      "id": "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_0"
+    },
+    {
+      "text": "– 7:18 \"Keep This Fire Burning\" (DJ Benji Remix) – 5:51 Personnel Written by Robyn, Remee , Ulf Lindström, Johan Ekhé Produced, arranged, recorded, mixed and instruments performed by Ghost Charts Beverley Knight version British soul singer Beverley Knight recorded a cover version of \"Keep This Fire Burning\" and released it as the third and final single from her fourth studio album, Affirmation (2004), on 14 March 2005. The production of the song, handled by Ghost, used the exact same instrumental as Robyn's original version, with slight mixing differences and additional orchestration by the Stockholm Session Strings. Included on the CD single release were mixes from Stargate (which sampled a portion of Robyn's original vocals) and Full Phat (featuring a rap from Estelle ). \"Keep This Fire Burning\" became Knight's sixth top-20 solo single in the UK, reaching number 16. Track listings CD1 \"Keep This Fire Burning\" (Album Version) \"Keep This Fire Burning\" (Full Phatt Mix) (Feat. Estelle ) CD2 \"Keep This Fire Burning\" (Album Version) \"Keep This Fire Burning\" (Boris Dlugosch & Michi Lange Club Mix) \"I Was Meant for You\" \"Soon Come\" \"Keep This Fire Burning\" (Music Video) 12-inch vinyl \"Keep This Fire Burning\" (Album",
+      "id": "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_1"
+    },
+    {
+      "text": "for You\" \"Soon Come\" \"Keep This Fire Burning\" (Music Video) 12-inch vinyl \"Keep This Fire Burning\" (Album Version) \"Keep This Fire Burning\" (Boris Dlugosch & Michi Lange Dub Mix) \"Keep This Fire Burning\" (Full Phatt Mix) (Feat. Estelle ) \"Keep This Fire Burning\" ( Stargate Club Mix) Personnel Written by Robyn, Remee , Ulf Lindström, Johan Ekhé Produced, arranged, recorded and mixed by Ghost All vocals by Beverley Knight String arrangement by Per Ekdahl Strings performed by Stockholm Session Strings at Cosmos Studios, Stockholm All other instruments by Ghost Charts Weekly charts Year-end charts Other versions In 2008, British dance act Outsiders released a dance cover of the song with vocals by Amanda Wilson . The track was then remixed by Wawa and then again by Freemasons , who also collaborated with Wilson on various tracks such as \"Watchin'\". This version peaked at #80 in the UK. References External links Robyn's Keep This Fire Burning at Discogs (list of releases) Beverley Knight's Keep This Fire Burning at Discogs (list of releases) Outsiders's Keep This Fire Burning at Discogs (list of releases)",
+      "id": "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_2"
+    },
+    {
+      "text": "to the Polka Hall of Fame in Euclid. Accordion player and polka musician Frankie Yankovic grew-up in Cleveland's Collinwood neighborhood, known for its large Slovenian population. Yankovic popularized Slovenian style polka in the United States, with many hit songs including his recordings of \" In Heaven There is No Beer \" and \" Who Stole the Kishka .\" R&B, soul, and funk Tiny Bradshaw , rhythm and blues bandleader, singer, composer, pianist and drummer, was born in Youngstown. Blues, R&B singer Screamin' Jay Hawkins gained R&B hit \" I Put a Spell On You \" in 1956. Hawkins is from Cleveland, Ohio. R&B singer Lula Reed was born in Port Clinton . She recorded for Cincinnati label King Records and its subsidiary Federal Records , among others, in the 1950s–60s. Doo-wop , an influential vocal harmony -based R&B form popular in the 1950s and early 1960s, was well-represented in Ohio. Groups from the state include The Students , The Valentinos , The Casinos , The Moonglows (from Cleveland), The Stereos , The Edsels , Mills Brothers , and The Constellations. Ruby & the Romantics were an Akron-based R&B group in the 1960s. The Hesitations were an R&B group from Cleveland formed in 1965.",
+      "id": "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_8"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Patti Page popularized 'I'll Keep the Lovelight Burning' in 1949 (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).\n- Patti Page's birth year is missing (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).\n- Patti Page's birth year is missing (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).\n- Patti Page's birth year is missing (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).\n- Patti Page's birth year is missing (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).\n- Patti Page's birth year is missing (HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+      "doc_ids": [
+        "HotpotQA-validation-00006754/00_Ill-Keep-the-Lovelight-Burning.html_c_0",
+        "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_0",
+        "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_1",
+        "HotpotQA-validation-00006754/02_Keep-This-Fire-Burning.html_c_2",
+        "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-995b126e",
+  "question": "Explain how the chain links Ovid's writing to the theme of Love through the narrative sequence.",
+  "gold_answer": "Naso writes of Love, which is inflamed in Ceres.",
+  "llm_answer": "The chain links Ovid’s writing to the theme of Love through the narrative sequence as follows:\n\n1. Ovid begins in heroic hexameter, intending to sing of arms and violent war (Evidence [Novel-47676_c_74], footnotes 003–004).  \n2. Cupid intervenes, steals a foot from the hexameter, and forcibly converts the poem to the elegiac couplet (hexameter + pentameter), the metre of love poetry (Evidence [Novel-47676_c_74], footnote 005 and line 010).  \n3. The poet immediately capitulates: “Henceforth, in six feet let my work commence; in five let it close. Farewell, ye ruthless wars …” (Evidence [Novel-47676_c_1]).  \n4. In the next elegy he admits he is already Cupid’s captive, wears the poet-lover’s chains, and will parade in Cupid’s triumph (Evidence [Novel-47676_c_1]).  \n5. Later, when Tragedy rebukes him for wasting talent on love-themes, the personified Elegy answers that she and Cupid are inseparable: “Without myself, the mother of wanton Love were coy; of that Goddess do I show myself the patroness and the confidant” (Evidence [Novel-47676_c_49]).  \n\nThus the narrative sequence—metrical coercion, personal surrender, public triumph, and finally a defence of love-elegy—binds every stage of Ovid’s writing to the governing theme of Love.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains how Ovid's writing is linked to the theme of Love through the narrative sequence, providing detailed steps supported by the retrieved context. It includes the core idea from the Gold Answer (Naso writes of Love, inflamed in Ceres) and expands on it with relevant and grounded details, such as Cupid's intervention and the poet's surrender to Love. All claims are supported by the context, and the answer covers the necessary facts while adding depth."
+  }
+}

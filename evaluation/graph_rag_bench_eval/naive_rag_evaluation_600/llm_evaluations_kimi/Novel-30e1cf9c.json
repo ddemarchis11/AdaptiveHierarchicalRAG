@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30e1cf9c",
+  "question": "Who created illustrations for the German edition of 'Tristram Shandy', enriching the visual presentation of Sterne's novel?",
+  "gold_answer": "J. F. Schröter created illustrations for Tristram Shandy.",
+  "llm_answer": "The German edition of *Tristram Shandy* that included illustrations was the 1798 Vienna edition, and the engravings were created by **Sammer**.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly attributes the illustrations for the German edition of 'Tristram Shandy' to Sammer, while the Gold Answer specifies J. F. Schröter as the illustrator. The retrieved context does not provide evidence to support the claim about Sammer, making the answer both incorrect and unfaithful to the context. Additionally, the Model Answer fails to cover the key fact from the Gold Answer."
+  }
+}

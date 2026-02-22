@@ -1,0 +1,222 @@
+{
+  "id": "HotpotQA-validation-00000754",
+  "question": "Between a long-running American popular science monthly and a print publication aimed at lesbian readership that ceased in the late 2000s, which came out more frequently?",
+  "gold_answer": "Girlfriends",
+  "llm_answer": "The long-running American popular science monthly, Popular Science, was published monthly from 1872 to 2020. Girlfriends magazine, aimed at lesbian readership, was published monthly from San Francisco since 1993.",
+  "context": [
+    {
+      "text": "December 2009, a new episode was premiering every Monday. Futurism In July 2021, Popular Science parent company Recurrent Ventures announced it would be acquiring Futurism , a technology and culture news website , from Singularity University . That year, Futurism interviewed the head of NASA and reported on the COVID-19 lab leak theory , The New York Times accidentally publishing an article about watermelons being found on Mars , as well as the release of 500 million gene-hacked mosquitoes in Florida . Books Popular Science has published a number of books, including the bestselling Big Book of Hacks and Big Book of Maker Skills . The brand has also published The Total Inventor's Manual and The Future Then , which was published in conjunction with the brand's 145th anniversary. Other languages In June 2014, Popular Science Italia was launched in Italy by Kekoa Publishing. Directed by Francesco Maria Avitto , the magazine is available in print and digital version. In April 2017, Popular Science was launched in Arabic by United Arab Emirates-based publisher Haykal Media. The magazine is available in print bimonthly, and through a daily updated portal. Publishers Sources: American Mass-Market Magazines The Wall Street Journal and New York Post . Gallery \"Ship on Stilts Rides Above Waves\", January 1936, by Edgar Franklin Wittmack \"Is U.S Building a 'New Moon'\"?, May 1949 \"Cars Without Wheels\", July 1959 See also Popular Mechanics References External links English Wikisource has original text related to this article: Popular Science Monthly Wikimedia Commons has media related to Popular Science Monthly . Popular Science Popular Science+ in iTunes Popular Science Australia Popular Science magazine: 1872–2008 Online, readable back issues.",
+      "id": "HotpotQA-validation-00000754/00_Popular-Science.html_c_4",
+      "doc_id": "HotpotQA-validation-00000754/00_Popular-Science.html",
+      "community_id": 4,
+      "score": 41.273705
+    },
+    {
+      "text": "focus on popular science. September 1920 volume The October 1915 issue was titled Popular Science Monthly and World's Advance . The volume number (Vol. 87, No. 4) was that of Popular Science but the content was that of World's Advance . The new editor was Waldemar Kaempffert , a former editor of Scientific American . The change in Popular Science Monthly was dramatic. The old version was a scholarly journal that had eight to ten articles in a 100-page issue. There would be ten to twenty photographs or illustrations. The new version had hundreds of short, easy to read articles with hundreds of illustrations. Editor Kaempffert was writing for \"the home craftsman and hobbyist who wanted to know something about the world of science.\" The circulation doubled in the first year. From the mid-1930s to the 1960s, the magazine featured fictional stories of Gus Wilson's Model Garage, centered on car problems. An annual review of changes to the new model year cars ran in 1940 and 1941, but did not return after the war until 1954. It continued until the mid-1970s when the magazine reverted to publishing the new models over multiple issues as information became available. From 1935 to 1949, the magazine sponsored a series of short films , produced by Jerry Fairbanks and released by Paramount Pictures . From July 1952 to December 1989, Popular Science carried Roy Doty 's Wordless Workshop as a regular feature. From July 1969 to May 1989, the cover and table of contents carried the subtitle, \"The What's New Magazine.\" The cover removed the subtitle the following month and the contents page removed it in February 1990. In 1983, the magazine introduced a new logo using the ITC Avant Garde font, which it used until late 1995. Within the next 11 years, its font changed four times (in 1995, 1997, 2001, and 2002, respectively). In 2009, the magazine used a new font for its logo, which was used until the January 2014 issue. In 2014, the magazine underwent a major redesign; its February 2014 issue introduced a new logo, and a new format featuring greater use of graphics and imagery, aiming to broaden its content to appeal to wider attention to the environment, science, and technology among a mass audience. The revamp concluded in November 2014 with a redesign of the Popular Science website. Recent history The Popular Science Publishing Company was acquired in 1967 by the Los Angeles–based Times Mirror Company . In 2000, Times Mirror merged with the Chicago-based Tribune Company , which then sold the Times Mirror magazines to Time Inc. (then a subsidiary of Time Warner ) the following year. On January 25, 2007, Time Warner sold this magazine,",
+      "id": "HotpotQA-validation-00000754/00_Popular-Science.html_c_1",
+      "doc_id": "HotpotQA-validation-00000754/00_Popular-Science.html",
+      "community_id": 4,
+      "score": 35.710674
+    },
+    {
+      "text": "Popular Science (also known as PopSci ) is an American popular science website, covering science and technology topics geared toward general readers. Popular Science has won over 58 awards, including the American Society of Magazine Editors awards for its journalistic excellence in 2003 (for General Excellence), 2004 (for Best Magazine Section), and 2019 (for Single-Topic Issue). Its print magazine, which ran from 1872 to 2020, was translated into over 30 languages and distributed to at least 45 countries. In 2021, Popular Science switched to an all-digital format and abandoned the magazine format in 2023. Early history The Popular Science Monthly , as the publication was originally called, was founded in May 1872 by Edward L. Youmans to disseminate scientific knowledge to the educated layman. Youmans had previously worked as an editor for the weekly Appleton's Journal and persuaded them to publish his new journal. Early issues were mostly reprints of English periodicals. The journal became an outlet for writings and ideas of Charles Darwin , Thomas Henry Huxley , Louis Pasteur , Henry Ward Beecher , Charles Sanders Peirce , William James , Thomas Edison , John Dewey and James McKeen Cattell . William Jay Youmans , Edward's brother, helped found Popular Science Monthly in 1872 and was an editor as well. He became editor-in-chief on Edward's death in 1887. The publisher, D. Appleton & Company , was forced to sell the journal for economic reasons in 1900. James McKeen Cattell became the editor in 1900 and the publisher in 1901. Cattell had a background in academics and continued publishing articles for educated readers. By 1915, the readership was declining and publishing a science journal was a financial challenge. In a September 1915 editorial, Cattell related these difficulties to his readers and announced that the Popular Science Monthly name had been transferred to the Modern Publishing Company to start a new publication for general audiences. The existing academic journal would continue publishing under the name The Scientific Monthly , retaining existing subscribers. Scientific Monthly was published until 1958 when it was absorbed into Science . After acquiring the Electrician and Mechanic magazine in 1914, the Modern Publishing Company had merged it with Modern Electrics to become Modern Electrics & Mechanics . Later that year, they merged the publication with Popular Electricity and World's Advance to form Popular Electricity and Modern Mechanics . After further name changes that caused confusion among librarians, the Modern Publishing Company had purchased the Popular Science Monthly name to provide a clear signifier of the publication's focus on popular science. September 1920 volume The October 1915 issue was titled Popular Science Monthly and World's Advance . The volume number (Vol. 87, No. 4) was that of Popular Science but the content was that of World's Advance . The new editor was",
+      "id": "HotpotQA-validation-00000754/00_Popular-Science.html_c_0",
+      "doc_id": "HotpotQA-validation-00000754/00_Popular-Science.html",
+      "community_id": 4,
+      "score": 33.29454
+    },
+    {
+      "text": "Girlfriends was a women's magazine that provided critical coverage of culture, entertainment, and world events from a lesbian perspective. It was founded by five women Jacob and Diane Anderson-Minshall , Heather Findlay, Bonnie Simon and Zannah Noe . It also offered relationship, health and travel advice. Published monthly from San Francisco since 1993, it was distributed nationwide by Disticor. It had the same publisher as lesbian erotica magazine On Our Backs , but distanced itself from its pornographic counterpart by refusing to carry sexual ads. Girlfriends magazine ceased publication in 2006. One of the major features of the magazine was its annual list on the best cities for a lesbian to live in, which it began publishing in 1994. The magazine also ran an online personals service through its website while it was still in operation. See also LGBT culture in San Francisco Notes v t e",
+      "id": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_c_0",
+      "doc_id": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html",
+      "community_id": 0,
+      "score": 30.722033
+    },
+    {
+      "text": "Angeles–based Times Mirror Company . In 2000, Times Mirror merged with the Chicago-based Tribune Company , which then sold the Times Mirror magazines to Time Inc. (then a subsidiary of Time Warner ) the following year. On January 25, 2007, Time Warner sold this magazine, along with 17 other special interest magazines, to Bonnier Magazine Group . In January 2016, Popular Science switched to bi-monthly publication after 144 years of monthly publication. In April 2016 it was announced that editor-in-chief Cliff Ransom would be leaving the magazine. In August 2016, Joe Brown was named Popular Science 's new editor-in-chief. In September 2018, it was announced that Popular Science would become a quarterly publication. During his tenure, Popular Science diversified its readership base, was nominated for several National Magazine Awards, winning for The Tiny Issue in 2019, and named to AdWeek ' s Hot List in 2019. Brown stepped down in February 2020. In March 2020, executive editor Corinne Iozzio was named editor-in-chief. During her tenure, the brand moved from a print to a digital-only publication, produced extensive coverage of the COVID-19 pandemic, celebrated its 150-year anniversary, and relaunched its \"Brilliant 10\" franchise. Iozzio and her team won a 2022 National Magazine Award for its \"Heat\" issue. The issue, an in-depth look at the stark realities and ingenuity of a warming world, was the second win in the Single-Topic Issue category but the first in its new digital-only format. In August 2022, after more than a decade at Popular Science and two-and-a-half years leading the brand, Iozzio announced that she would step down as editor-in-chief in October of that year. On October 6, 2020, the Bonnier Group sold Popular Science and six other special interest magazines, including the well-known titles Popular Photography , Outdoor Life , and Field & Stream , to North Equity LLC. While North Equity is a venture equity firm that primarily invests in digital media brands, David Ritchie, CEO of the Bonnier Corp, said Bonnier believes, \"North Equity is best-positioned to continue to invest in and grow these iconic legacy brands.\" In June 2021, North Equity introduced Recurrent Ventures as the new parent company to its digital media portfolio. From April 27, 2021, the Popular Science publication was changed to a fully digital format and is no longer in physical print. Its digital subscription offering, PopSci+ is inclusive of exclusive digital content and the magazine. In January 2023, Annie Colbert was named the new editor-in-chief. She joined the brand after spending more than 10 years at Mashable . Radio Popular Science Radio was a partnership between Popular Science and Entertainment Radio Network which ran through 2016. Tablet On",
+      "id": "HotpotQA-validation-00000754/00_Popular-Science.html_c_2",
+      "doc_id": "HotpotQA-validation-00000754/00_Popular-Science.html",
+      "community_id": 4,
+      "score": 21.918255
+    },
+    {
+      "text": "in quality. Moskowitz attempted to find and develop new writers, and published the first story by Anne McCaffrey , \"Freedom of the Race\", which appeared in the October 1953 issue. However, none of Moskowitz's other new writers lasted in the field, and he rejected McCaffrey's subsequent submissions. As well as fiction, Gernsback included departments such as \"Science Questions and Answers\", \"Science News Shorts\", and other science-related non-fiction; these, like the fiction, were reminiscent of the Gernsback magazines of two decades earlier. In Ashley's opinion, the artwork was of variable quality; Frank R. Paul , who had worked with Gernsback on his earlier magazines, appeared in every issue, but although this brought back the ambience of the early science fiction magazines, Paul's work had not improved over the years. Ashley notes that Alex Schomburg , who was also a frequent contributor, did provide some high-quality covers. Bibliographic details The magazine was subtitled Preview of the Future ; Sam Moskowitz was the managing editor of all seven issues of Science-Fiction Plus , and assembled the issues; Gernsback was listed as editor and wrote the editorials. The magazine remained \"large pulp\" size throughout its run. The first five issues were printed on glossy paper; the final two were pulp. It was priced at 35 cents throughout, and all issues were 64 pages. There are no reprint anthologies from the magazine, nor any foreign editions. In the mid-1950s many stories from Science-Fiction Plus were used in early issues of the Australian magazine Science-Fiction Monthly , with the first four issues almost entirely drawn from Science-Fiction Plus . Several covers and much interior artwork from the magazine were reproduced in a Swedish sf magazine titled Häpna! , which began publication in 1954. References Sources Ashley, Mike (2000). The Time Machines:The Story of the Science-Fiction Pulp Magazines from the Beginning to 1950 . Liverpool: Liverpool University Press. ISBN 0-85323-865-0 . Ashley, Mike (2004). \"The Gernsback Days\". In Ashley, Mike; Lowndes, Robert A.W. (eds.). The Gernsback Days: A Study of the Evolution of Modern Science Fiction From 1911 to 1936 . Holicong, Pennsylvania: Wildside. ISBN 0-8095-1055-3 . Ashley, Mike (2005). Transformations:The Story of the Science-Fiction Magazines from 1950 to 1970 . Liverpool: Liverpool University Press. ISBN 0-85323-779-4 . de Camp, L. Sprague (1953). Science-Fiction Handbook: The Writing of Imaginative Fiction . New York: Hermitage House. OCLC 559803608 . Lawler, Donald (1985). \"",
+      "id": "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html_c_3",
+      "doc_id": "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html",
+      "community_id": 4,
+      "score": 18.820566
+    },
+    {
+      "text": "Ainslee's Magazine was an American literary periodical published from 1897 to December 1926. It was originally published as a humor magazine called The Yellow Kid , based on the popular comic strip character. It was renamed Ainslee's the following year. The magazine's publishers were Howard, Ainslee & Co., a division of the Street & Smith publishing house in New York City. Contributors Among those who contributed essays, short stories, or poetry to Ainslee's : Stephen Crane Arthur Conan Doyle Theodore Dreiser Frances Gaither Maud Hart Lovelace Bret Harte O. Henry Anthony Hope Jack London Edna St. Vincent Millay E. Phillips Oppenheim Constance Lindsay Skinner Albert Payson Terhune Stanley J. Weyman P. G. Wodehouse I. A. R. Wylie From 1920 to 1923 Dorothy Parker wrote the monthly drama reviews column, \"In Broadway Playhouses\". Edith Isaacs worked as a critic for the magazine prior to her tenure at Theatre Arts . Ainslee's was published until December 1926, after which it was merged into Far West Illustrated , a western-fiction magazine. In 1934, Street & Smith revived Ainslee's Magazine as a \"sophisticated love-story monthly\" edited by Daisy Bacon . In 1936, the title changed to Ainslee’s Smart Love Stories , then finally Smart Love Stories . It was discontinued in 1938. Publication details Ainslee's switched from a 10¢ cover price to 15¢ with the October 1902 issue, allegedly the first magazine with a 15¢ price. The magazine switched from slick to pulp paper with the February 1914 issue (it had slick ad sections front and back throughout). References External links Media related to Ainslee's Magazine at Wikimedia Commons Works related to Ainslee's Magazine at Wikisource Gallery of Covers v t e",
+      "id": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_c_0",
+      "doc_id": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html",
+      "community_id": 0,
+      "score": 18.598654
+    },
+    {
+      "text": "digital content and the magazine. In January 2023, Annie Colbert was named the new editor-in-chief. She joined the brand after spending more than 10 years at Mashable . Radio Popular Science Radio was a partnership between Popular Science and Entertainment Radio Network which ran through 2016. Tablet On March 27, 2011, Popular Science magazine sold the 10,000th subscription to its iPad edition, nearly six weeks after accepting Apple's terms for selling subs on its tablet. Podcasts In 2018, Popular Science launched two podcasts, Last Week in Tech and The Weirdest Thing I Learned This Week , Last Week in Tech was later replaced by Techathlon . Weirdest Thing proved to be the brand's breakout hit. After just one episode, Apple Podcasts included \"Weirdest Thing\" on their weekly \"New & Noteworthy\" list, and over the years it has hosted a number of live events. Popular Science+ In early 2010, Bonnier partnered with London-based design firm BERG to create Mag+ , a magazine publishing platform for tablets. In April 2010, Popular Science+ , the first title on the Mag+ platform, launched in the iTunes Store the same day the iPad launched. The app contains all the content in the print version as well as added content and digital-only extras. Bonnier has since launched several more titles on the Mag+ platform, including Popular Photography + and Transworld Snowboarding +. Australian Popular Science On September 24, 2008, Australian publishing company Australian Media Properties (part of the WW Media Group) launched a local version of Popular Science . It is a monthly magazine, like its American counterpart, and uses content from the American version of the magazine as well as local material. Australian Media Properties also launched www.popsci.com.au at the same time, a localised version of the Popular Science website. Popular Science Predictions Exchange In July 2007, Popular Science launched the P opular Science P redictions E X change (PPX). People were able to place virtual bets on what the next innovations in technology , the environment, and science would be. Bets have included whether Facebook would have an initial public offering by 2008, when a touchscreen iPod would be launched, and whether Dongtan , China's eco-city , would be inhabited by 2010. The PPX shut down in 2009. Television: Future Of... Popular Science's Future Of... show premiered on August 10, 2009, on the Science Channel. The show was concerned with the future of technology and science in a particular topic area that varies from week to week. As of December 2009, a new episode was premiering every Monday. Futurism In July 2021, Popular Science parent company Recurrent Ventures announced it would be acquiring Futurism , a technology and culture news website , from Singularity University . That year, Futurism interviewed the head",
+      "id": "HotpotQA-validation-00000754/00_Popular-Science.html_c_3",
+      "doc_id": "HotpotQA-validation-00000754/00_Popular-Science.html",
+      "community_id": 4,
+      "score": 15.121859
+    },
+    {
+      "text": "appeared. Gernsback hired Sam Moskowitz to edit the new magazine, and produced a dummy issue in November 1952 that was never distributed or intended for sale; it was printed for trademark purposes, and contained only stories by Gernsback himself, under his own name and several pseudonyms. The first issue produced for sale was dated March 1953. It was a slick , meaning that it was in large format and was printed on high-quality paper; this was a step up from the cheap paper used in the leading science fiction magazines of the day, and sf historian Mike Ashley notes that in theory this should have given Gernsback a marketing edge. The price, 35 cents, was also competitive. Sales were initially good, and Science-Fiction Plus remained on a monthly schedule until June, but when the circulation began to slip, the magazine became bimonthly beginning with the August issue. Gernsback distributed Science-Fiction Plus along with his technical magazines, and if the circulation of the new magazine had been comparable to that of his other titles, it would have been profitable despite the more expensive slick paper, but sales were insufficient for it to continue. In October Gernsback cut costs by switching to cheaper pulp paper, but only one further issue, dated December 1953, appeared. Contents and reception Frank R. Paul 's cover for the last issue (December 1953) of Science-Fiction Plus Gernsback believed from the beginning of his involvement with science fiction in the 1920s that the stories should be instructive, although it was not long before he found it necessary to print fantastical and unscientific fiction in Amazing Stories to attract readers. During Gernsback's long absence from sf publishing, from 1936 to 1953, the field evolved away from his focus on facts and education. The Golden Age of Science Fiction is generally considered to have started in the late 1930s and lasted until the mid-1940s, bringing with it \"a quantum jump in quality, perhaps the greatest in the history of the genre\", according to science fiction historians Peter Nicholls and Mike Ashley. However, Gernsback's views were unchanged. In his editorial in the first issue of Science-Fiction Plus , he gave his view of the modern sf story: \"the fairy tale brand, the weird or fantastic type of what mistakenly masquerades under the name of Science-Fiction today!\" and he stated his preference for \"truly scientific, prophetic Science-Fiction with the full accent on SCIENCE\". In the same editorial, Gernsback called for patent reform to give science fiction authors the right to create patents for ideas without having patent models because many of their ideas predated the technical progress needed to develop specifications for their ideas. The introduction referenced the numerous prescient technologies described throughout Ralph 124C 41+ . The managing editor, Sam Moskowitz,",
+      "id": "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html_c_1",
+      "doc_id": "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html",
+      "community_id": 4,
+      "score": 14.763746
+    },
+    {
+      "text": "Universum is an Austrian popular science magazine published in German and based in Vienna , Austria. The magazine is the only Austrian publication in the field of popular science, because Germany-published magazines dominate the field in the country. The magazine is financially supported by the Austrian National Science Foundation. History and profile Universum was established in 1998 as a joint venture of Austrian Radio and Television and N.O Pressehaus. The latter owned and published the magazine. Then the magazine began to be owned and published by the LW Media. Universum is based in Vienna. The magazine is published ten times a year. It covers science and nature stories about the determination of gender, cystic fibrosis , genetic determination of wine genealogy, analysis of viral genes and RNA analysis amongst other things. The subtitle of the magazine is \"the most beautiful magazine of Austria\", reflecting its preference for covering non-conflictual topics. Oliver Lehman is the founding editor-in-chief. He served in the post until 2007 and resigned from the magazine in 2013. Martin Kugler is the current editor-in-chief of Universum . Universum had a circulation of about 70,000 copies in 2002. In 2007 the magazine sold 52,000 copies. Its circulation was 42,000 copies in 2010. See also List of magazines in Austria References External links Official website",
+      "id": "HotpotQA-validation-00000754/03_Universum-magazine.html_c_0",
+      "doc_id": "HotpotQA-validation-00000754/03_Universum-magazine.html",
+      "community_id": 0,
+      "score": 14.680041
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "summary": "**Title**: Girlfriends Lesbian Magazine\n\n**Summary**:  \nGirlfriends was a San Francisco-based monthly magazine (1993-2006) created by five women that delivered news, culture, entertainment, health, travel and relationship content from a lesbian viewpoint. Distributed nationwide by Disticor, it deliberately avoided sexual advertising to distinguish itself from its sister publication, the erotica magazine On Our Backs. Among its most popular features was the annual “Best Cities for Lesbians” list, launched in 1994, and an online personals service run through its website.\n\n**Keywords**: lesbian magazine, Girlfriends, San Francisco, LGBT media, best cities list",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000754/00_Popular-Science.html_4",
+      "summary": "**Title**: Evolution of Popular Science Media  \n\n**Summary**:  \nPopular Science has transformed from a 19th-century scholarly monthly into a 21st-century global digital-first brand. After shifting ownership from Times Mirror to Tribune, Time Warner, Bonnier, and finally Recurrent Ventures, the magazine transitioned from print to quarterly, then bi-monthly, and ultimately to an all-digital format in 2021. Along the way it spawned international editions (Australia, Italy, Arabic), multimedia extensions (radio, podcasts, TV, tablet apps, virtual prediction market PPX), book series, and award-winning journalism, including two National Magazine Awards for single-topic issues.  \n\n**Keywords**: digital transition, multimedia expansion, ownership changes, award-winning journalism, global editions",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html_4",
+      "summary": "**Title**: Science-Fiction Plus Magazine History\n\n**Summary**: Science-Fiction Plus was Hugo Gernsback’s 1953 attempt to relaunch a high-quality, instructive science-fiction magazine, printed on slick paper and priced at 35¢. Despite initial monthly publication, circulation soon declined, forcing a switch to bimonthly schedule and then to cheaper pulp paper before ceasing after seven issues. Gernsback’s editorials insisted on scientifically accurate, prophetic fiction, resisting the genre’s evolution toward more literary and fantastic themes. Managing editor Sam Moskowitz acquired new writers such as Anne McCaffrey, but most did not sustain careers, and the magazine’s content and artwork were seen as retrograde compared to contemporary standards.\n\n**Keywords**: Science-Fiction Plus, Hugo Gernsback, Sam Moskowitz, 1950s sf magazines, pulp vs slick paper",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002743/02_The-Hudson-Reporter.html_2",
+      "summary": "**Title**: Hudson Reporter Media Chain\n\n**Summary**:  \nThe Hudson Reporter was a Hudson County, New Jersey newspaper chain founded in 1983 by developer Joseph Barry, starting with the Hoboken Reporter. Over four decades it grew into eight weekly community papers and three lifestyle magazines covering Bayonne, Hoboken, Jersey City and neighboring towns. After Barry sold his stake in 1999, minority partners Lucha Malato and David Unger ran the company, which became a training ground for journalists who advanced to the New York Times, Star-Ledger and AP. Known for award-winning investigative reporting, the chain ceased print in January 2023 and continues as an online publication under Newspaper Media Group.\n\n**Keywords**: Hudson Reporter, local journalism, Hudson County, community newspapers, investigative reporting",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006925/01_Curve-magazine.html_1",
+      "summary": "**Title**: Curve Magazine Legacy\n\n**Summary**: Curve magazine, founded by Franco Stevens, became a leading voice for lesbian and queer women before being donated to The Curve Foundation in 2021 with a mission to empower LGBTQ+ communities. The documentary \"Ahead of the Curve\" chronicles the magazine's history and impact, winning multiple awards at LGBTQ+ film festivals. The publication gained mainstream recognition through appearances on \"The L Word\" but also faced controversies, including disputes with celebrities like Sinead O'Connor and Michelle Rodriguez over outing allegations.\n\n**Keywords**: Curve magazine, LGBTQ+ media, Franco Stevens, Ahead of the Curve documentary, lesbian publication",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "summary": "**Title**: Ainslee's Magazine History\n\n**Summary**: Ainslee's Magazine began in 1897 as the humor title *The Yellow Kid*, was renamed the next year, and became a respected literary periodical until its first closure in December 1926. Published by Street & Smith's Howard, Ainslee & Co., it featured major writers such as Stephen Crane, Jack London, Edna St. Vincent Millay, and Dorothy Parker. After a 1926 merger into *Far West Illustrated*, the brand was revived in 1934 as a \"sophisticated love-story monthly,\" underwent two title changes, and finally ceased publication in 1938.\n\n**Keywords**: Ainslee's Magazine, literary periodical, Street & Smith, early 20th-century fiction, publishing history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "summary": "**Title**: Colorado College Campus Life & Academics\n\n**Summary**: Colorado College is a selective private liberal-arts school of ~2,000 students where undergrads follow a distinctive one-course-at-a-time “block plan.” Most first-years through juniors live on or next to the 90-acre campus, which blends National-Register historic halls with award-winning newer facilities such as the carbon-neutral Tutt Library and the Predock-designed Cornerstone Arts Center. Outside the classroom, students choose from 100+ clubs, active intramural sports, and the long-running student newspaper *The Catalyst*. Popular majors include Economics, Political Science, and Ecology, and the college is ranked among the nation’s most innovative liberal-arts institutions.\n\n**Keywords**: Colorado College, block plan, campus housing, Tutt Library, student clubs",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003743/03_Samsung-SGH-E900.html_0",
+      "summary": "**Title**: Samsung E900 Mobile Phone\n\n**Summary**:  \nThe Samsung SGH-E900, launched in 2006, was a premium slider handset that combined touch-sensitive keys with a 2 MP camera, extensive multimedia support (MP3/MP4, Bluetooth A2DP, TV-out), and office document viewing. It introduced Samsung’s new Black & White UI, offered 80 MB internal memory plus microSD expansion, and delivered 3.5 h talk-time. Popular at launch, it was phased out in late 2007 as buyers shifted to the slimmer D900i and U600 models.\n\n**Keywords**: Samsung E900, slider phone, 2 MP camera, touch keys, 2006 flagship",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003430/02_Dog-Fancy.html_0",
+      "summary": "**Title**: Dog Fancy Magazine History\n\n**Summary**: Dog Fancy was a leading monthly magazine launched in 1970 by BowTie Inc., billing itself as the world’s most-read dog publication, peaking at 202,000 paid copies in 2009 before declining to about 149,000 by 2014. Alongside sister titles Dog World and Cat Fancy, it introduced a quarterly flip-side supplement, Natural Dog, in 2008. In late 2014, new owner Lumina Media merged Dog Fancy and Cat Fancy with the Dogster and Catster web brands, switching to alternating bimonthly issues under the Dogster and Catster names. Dogster magazine and site were later sold to Belvoir Media Group in April 2017.\n\n**Keywords**: Dog Fancy, BowTie Inc, Dogster, magazine circulation, Lumina Media",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "summary": "**Title**: Sabrina Mockenhaupt Career Highlights\n\n**Summary**:  \nGerman long-distance runner Sabrina Mockenhaupt has built a decorated career across track, road, and marathon events since the early 2000s. She earned multiple national and international medals, including bronze in the 3000 m at the 2005 European Indoor Championships and victories at the Cologne, Frankfurt, and Berlin Half Marathons. Representing Germany at three Olympic Games (2004, 2008, 2012), she set personal bests of 31:14.21 in the 10,000 m and 2:26:21 in the marathon. Her consistent podium finishes in European Cups, national championships, and major city marathons underscore her versatility and longevity in distance running.\n\n**Keywords**:  \nSabrina Mockenhaupt, German marathoner, long-distance running, European medals, Olympic athlete",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004891/01_Spider-Man.html_23",
+      "summary": "**Title**: Spider-Man Comic History & Continuity  \n\n**Summary**:  \nSpider-Man, created by Stan Lee and Steve Ditko in 1962, is Marvel’s flagship adolescent superhero whose struggles with power and responsibility resonated with readers. Over six decades his comics have repeatedly redefined continuity: Peter Parker’s marriage to Mary Jane was magically erased in “One More Day,” Doctor Octopus briefly replaced him as the “Superior Spider-Man,” and alternate-universe characters such as Miles Morales have joined the mainstream. Key supporting figures (Aunt May, J. Jonah Jameson, Gwen Stacy, Harry Osborn) and iconic villains (Green Goblin, Doctor Octopus, Venom) anchor long-running arcs that balance personal drama with superhero action. The character’s publication history includes frequent schedule changes, spin-offs, and multimedia adaptations that keep the mythos culturally dominant.\n\n**Keywords**:  \nSpider-Man, Marvel Comics, Peter Parker, continuity reboots, Superior Spider-Man",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000754/03_Universum-magazine.html_0",
+      "summary": "**Title**: Austrian Popular Science Magazine\n\n**Summary**:  \nUniversum is Austria’s only home-grown popular-science magazine, published ten times a year in Vienna since 1998. Backed by the Austrian National Science Foundation, it covers accessible science and nature topics—ranging from genetics to virology—under the motto “the most beautiful magazine of Austria.” After ownership transfers from N.O Pressehaus to LW Media, circulation declined from 70,000 (2002) to 42,000 (2010), with Martin Kugler now leading the editorial team.\n\n**Keywords**: Universum magazine, Austrian science media, popular science, Vienna publishing, National Science Foundation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005711/01_David-Fincher.html_5",
+      "summary": "**Title**: David Fincher’s 2000s Filmography\n\n**Summary**:  \nBetween 1999 and 2010, David Fincher directed a string of influential films that redefined modern American cinema. After the polarizing cult success of *Fight Club*, he delivered the commercially viable thriller *Panic Room*, followed by the meticulously researched true-crime saga *Zodiac*, notable for its pioneering digital cinematography. He then helmed the effects-heavy romantic fantasy *The Curious Case of Benjamin Button*, which earned thirteen Oscar nominations and three wins, and concluded the decade with *The Social Network*, a critical and commercial triumph that captured the cultural zeitgeist of the digital age and garnered eight Academy Award nominations.\n\n**Keywords**:  \nDavid Fincher, Zodiac, Benjamin Button, The Social Network, digital filmmaking",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007092/03_Leo-Braudy.html_1",
+      "summary": "**Title**: Leo Braudy Scholarly Profile\n\n**Summary**: Leo Braudy is a USC University Professor whose books and commentaries dissect how history reshapes fame, masculinity, fear, and other seemingly timeless cultural emotions. Spanning 17th-century literature to contemporary Hollywood, his major works—*The Frenzy of Renown*, *From Chivalry to Terrorism*, and *Haunted*—trace evolving definitions of celebrity, gender, and horror, while his anthology *Film Theory and Criticism* (with Marshall Cohen) has become a standard textbook. Braudy frequently appears on television and in documentaries to interpret American popular culture, and his honors include a Guggenheim Fellowship, NEH fellowship, and election to the American Academy of Arts and Sciences.\n\n**Keywords**: cultural studies, fame history, masculinity, film theory, American popular culture",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_2",
+      "summary": "**Title**: Austrian Filmmaker Leopold Lummerstorfer\n\n**Summary**:  \nLeopold Lummerstorfer, born 1968 in Gramastetten, is a key figure in Austria’s new-wave cinema, recognized for blending social commentary with narrative precision. His early feature “My Country in Pink” established his cult reputation, while documentaries like “The Dream That Remains” and the award-winning “White Cherries” cemented his festival success. From 2003-2007 he directed over 30 episodes of the youth TV magazine “Show ohne Namen” (SON), each 25-minute segment pairing a topical theme—drugs, pain, family parties, extremism, Vienna, etc.—with prominent musical guests and cultural figures. Beyond fiction and TV, Lummerstorfer’s ethnology background informs a filmography that spans shorts, episodic projects, and the long-running science-communication series “Science Busters,” illustrating a sustained commitment to socially engaged, audience-focused storytelling.\n\n**Keywords**:  \nAustrian cinema, social-issue filmmaking, Show ohne Namen, White Cherries, Science Busters",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007157/01_University-of-Colorado.html_1",
+      "summary": "**Title**: University of Colorado System Overview\n\n**Summary**:  \nThe University of Colorado (CU) is a four-campus public university system anchored by the flagship CU Boulder, the fastest-growing UCCS, the research-intensive CU Denver, and the health-sciences-focused CU Anschutz Medical Campus. Together they enroll over 73,000 students, offer hundreds of degree programs, and conduct more than $420 million in annual research. Governance is by an elected nine-member Board of Regents, with Todd Saliman serving as system president. A former satellite campus, CU South Denver, closed in 2021, while UC Health and Arctic research collaborations extend the system’s reach beyond Colorado.\n\n**Keywords**:  \nCU campuses, Colorado public universities, CU Boulder flagship, CU Anschutz medical, UC Health",
+      "is_seed": false,
+      "expand_score": 0.7886272668838501
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "HotpotQA-validation-00000754/00_Popular-Science.html_4",
+      "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html_4",
+      "HotpotQA-validation-00002743/02_The-Hudson-Reporter.html_2",
+      "HotpotQA-validation-00006925/01_Curve-magazine.html_1",
+      "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "HotpotQA-validation-00003743/03_Samsung-SGH-E900.html_0",
+      "HotpotQA-validation-00003430/02_Dog-Fancy.html_0",
+      "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "HotpotQA-validation-00004891/01_Spider-Man.html_23",
+      "HotpotQA-validation-00000754/03_Universum-magazine.html_0",
+      "HotpotQA-validation-00005711/01_David-Fincher.html_5",
+      "HotpotQA-validation-00007092/03_Leo-Braudy.html_1",
+      "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00007157/01_University-of-Colorado.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000754/01_Girlfriends-magazine.html_0",
+      "HotpotQA-validation-00000754/00_Popular-Science.html_4",
+      "HotpotQA-validation-00004351/02_Science-Fiction-Plus.html_4",
+      "HotpotQA-validation-00002743/02_The-Hudson-Reporter.html_2",
+      "HotpotQA-validation-00006925/01_Curve-magazine.html_1",
+      "HotpotQA-validation-00003430/00_Ainslees-Magazine.html_0",
+      "HotpotQA-validation-00004130/02_Colorado-College.html_1",
+      "HotpotQA-validation-00003743/03_Samsung-SGH-E900.html_0",
+      "HotpotQA-validation-00003430/02_Dog-Fancy.html_0",
+      "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "HotpotQA-validation-00004891/01_Spider-Man.html_23",
+      "HotpotQA-validation-00000754/03_Universum-magazine.html_0",
+      "HotpotQA-validation-00005711/01_David-Fincher.html_5",
+      "HotpotQA-validation-00007092/03_Leo-Braudy.html_1",
+      "HotpotQA-validation-00001155/00_Leopold-Lummerstorfer.html_2",
+      "HotpotQA-validation-00007157/01_University-of-Colorado.html_1"
+    ],
+    "allowed_chunk_pool_size": 42,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

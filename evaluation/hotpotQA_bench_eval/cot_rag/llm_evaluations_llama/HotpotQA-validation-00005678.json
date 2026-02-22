@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005678",
+  "question": "Where does the founder of The International Grenfell Association act as a missionary to?",
+  "gold_answer": "Newfoundland and Labrador",
+  "llm_answer": "The founder of The International Grenfell Association, Sir Wilfred Thomason Grenfell, acts as a missionary to Newfoundland.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Newfoundland as the location where Sir Wilfred Grenfell acted as a missionary, which aligns with the Gold Answer. However, it omits Labrador, which is also explicitly mentioned in the Gold Answer and supported by the Retrieved Context. The answer is faithful to the context but does not fully cover all key facts from the Gold Answer."
+  }
+}

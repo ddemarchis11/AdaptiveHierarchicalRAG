@@ -1,0 +1,12 @@
+{
+  "id": "Novel-12ce277c",
+  "question": "What materials were used in the construction of the Assyrian harp, specifically catgut and silk, and what does this reveal about the combination of animal and plant fibers in ancient instrument making practices?",
+  "gold_answer": "The Assyrian harp was made of catgut and silk, showing the use of both animal and plant fibers in instrument making.",
+  "llm_answer": "Based on the provided evidence, the materials used in the construction of the Assyrian harp are not explicitly stated as including catgut and silk. However, it is mentioned that the strings of the Assyrian harp \"were perhaps made of silk, like those which the Burmese use at the present time on their harps; or they may have been of catgut, which was used by the ancient Egyptians.\"\n\nThis suggests that catgut and silk were possible materials used for the strings of the Assyrian harp, but it does not confirm that they were actually used. The text does not provide any information about the construction of the harp itself, such as the materials used for the frame or the soundboard.\n\nAs for what this reveals about the combination of animal and plant fibers in ancient instrument making practices, the text does not provide any information about the use of animal fibers in the construction of the Assyrian harp. However, it does mention that the lyre, a different instrument, may have been constructed with the horns of animals.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the context suggests catgut and silk as possible materials for the Assyrian harp strings but does not confirm their actual use, which aligns with the retrieved context. However, it misses the broader implication of the combination of animal and plant fibers in instrument making, which is central to the Gold Answer. The answer is faithful to the context but lacks full coverage of the key facts presented in the Gold Answer."
+  }
+}

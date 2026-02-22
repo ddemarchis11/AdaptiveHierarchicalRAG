@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001629",
+  "question": "Who was born earlier — a contemporary Malayalam film actor known for comedic supporting roles, or a Belgian-born French silent film director active in the early twentieth century?",
+  "gold_answer": "Jacques Feyder",
+  "llm_answer": "Based on the provided context, the Belgian-born French silent film director, Jacques Feyder, was born on July 21, 1885. The contemporary Malayalam film actor, Jin Yi-han, was born on October 10, 1978. Therefore, Jacques Feyder was born earlier.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Jacques Feyder as being born earlier, based on the retrieved context which provides his birth date (July 21, 1885) and compares it to the birth date of Jin Yi-han (October 10, 1978). The answer is accurate, grounded in the context, and includes all relevant facts."
+  }
+}

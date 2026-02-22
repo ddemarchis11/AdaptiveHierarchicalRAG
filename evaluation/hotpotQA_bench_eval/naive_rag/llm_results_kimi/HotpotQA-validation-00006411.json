@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00006411",
+  "question": "Are Waco Regional Airport and Idaho Falls Regional Airport both city owned airports?",
+  "gold_answer": "yes",
+  "llm_answer": "Waco Regional Airport is owned by the City of Waco.  \nThe evidence does not state who owns Idaho Falls Regional Airport.",
+  "context": [
+    {
+      "text": "Douglas MD-80s to Dallas/Fort Worth ( DFW ) in 1994. The service had started in December 1987. In 1989 American MD-80s flew to Idaho Falls from both Dallas/Fort Worth and Chicago O'Hare Airport , both via Salt Lake City. After its merger with Hughes Airwest in 1980, Republic Airlines (1979-1986) served Idaho Falls until September 1982. This service dated back to the West Coast Airlines era (see above). In the early 1980s, Republic McDonnell Douglas DC-9-30s flew non-stop to Boise and Denver and direct to Seattle. After Republic left, two carriers expressed interest to airport manager Jim Thorsen. Horizon Air then started serving Idaho Falls in 1983 with Fairchild Swearingen Metroliners . See also List of airports in Idaho References External links Idaho Falls Regional Airport Photographs of Idaho Falls Airport Aerial image as of July 1992 from USGS The National Map FAA Airport Diagram ( PDF ) , effective January 22, 2026 FAA Terminal Procedures for IDA , effective January 22, 2026 Resources for this airport: AirNav airport information for KIDA ASN accident history for IDA FlightAware airport information and live flight tracker NOAA/NWS weather observations: current , past three days SkyVector aeronautical chart for KIDA FAA current IDA delay information",
+      "id": "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_8"
+    },
+    {
+      "text": "Waco Regional Airport ( IATA : ACT , ICAO : KACT , FAA LID : ACT ) is an airport in Waco , McLennan County, Texas . It is owned by the City of Waco. The airport is a 15-20 minute drive from downtown and central Waco. Facilities Waco Regional Airport covers 1,369 acres (554 ha ) and has two asphalt runways: 1/19 is 7,107 x 150 ft and 14/32 is 5,103 x 150 ft. In the year ending June 30, 2022, the airport had 66,191 aircraft operations, averaging 181 per day: 83% general aviation , 10% military, 7% air taxi , and <1% airline. 74 aircraft at that time were based at the airport: 52 single-engine, 13 multi-engine, 3 jet and 6 helicopter . The airport has 2 jetways with 3 gates in use, with Envoy Air and SkyWest Airlines service to Dallas/Fort Worth International Airport . The Aerodrome Cafe is located inside the terminal building. Waco Regional Airport is host to one full service FBO : Texas Aero. Flight training at Waco Regional is provided by Chiota Aviation, Universal Flight Concepts which provides both helicopter and airplane training, and Waco Flight Training which specializes in initial tailwheel training and endorsements. The airport is also home to the",
+      "id": "HotpotQA-validation-00006411/00_Waco-Regional-Airport.html_c_0"
+    },
+    {
+      "text": "Idaho Falls Regional Airport ( IATA : IDA , ICAO : KIDA , FAA LID : IDA ) is two miles north-northwest of downtown Idaho Falls , Idaho , United States. It is locally known as Fanning Field . It is the second-busiest airport in Idaho after Boise Airport . The National Plan of Integrated Airport Systems for 2011–2015 categorized it as a primary commercial service facility. Federal Aviation Administration records say the airport had 148,584 passenger boardings (enplanements) in calendar year 2008, 138,957 in 2009 and 144,365 in 2010. In 2024, 610,641 passengers boarded flights at IDA, which was an 11.9% increase from 2023. This was also a 73.2% increase from 2019. Facilities Idaho Falls Regional Airport covers 866 acres (350 ha ) at an elevation of 4,744 feet (1,446 m). It has two asphalt runways: 3/21 is 9,002 by 150 feet (2,744 x 46 m) and 17/35 is 3,964 by 75 feet (1,208 x 23 m). In the year ending December 31, 2016, the airport had 33,152 aircraft operations, average 91 per day: 65% general aviation , 31% air taxi ,",
+      "id": "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_0"
+    },
+    {
+      "text": "Lea County Regional Airport ( IATA : HOB , ICAO : KHOB ) (Lea County-Hobbs Airport) is four miles (6.4 km) west of Hobbs , in Lea County , New Mexico , United States . The airport covers 898 acres (363 ha) and has three runways. It is an FAA certified commercial airport served by United Airlines ' affiliate with daily regional flights. Lea County Regional Airport is the largest of the three airports owned and operated by Lea County Government. Lea County also owns and operates two general aviation airports in Lovington and Jal, New Mexico . Facilities The airport covers 898 acres (363 ha) and has three asphalt runways: 3/21 – 7,398 × 150 ft (2,255 × 46 m) 12/30 – 6,002 × 150 ft (1,829 × 46 m) 17/35 – 4,998 × 100 ft (1,523 × 30 m) In the year ending January 31, 2023 the airport had 15,445 aircraft operations, average 42 per day: 83% general aviation , 14% air taxi , 3% military, and <1% airline. 57 aircraft at the time were based at this airport: 51 single-engine, 3 multi-engine, 2 jet, and 1 helicopter. The airport has one terminal for all",
+      "id": "HotpotQA-validation-00006411/02_Lea-County-Regional-Airport.html_c_0"
+    },
+    {
+      "text": "to Massport was mandated by law in 2009, and subsequently completed on June 22, 2010. In addition, MassPort has designated two out of state regional airports (which are administered independently) as reliever airports: T. F. Green Airport near Providence, Rhode Island Manchester-Boston Regional Airport in Manchester, New Hampshire There are also several general aviation facilities for private planes in the Boston area, including Beverly Regional Airport and Lawrence Municipal Airport to the north, Hanscom Field to the west, and Norwood Memorial Airport to the south. Since the September 11, 2001 attacks , strict security has been implemented at all of Boston's airports. Because of this and its location as the closest American port to Europe, Boston is an emergency destination for airliners that experience security or mechanical problems while en route to the US, although they may also be diverted to Halifax, Nova Scotia , or other Canadian airports. Boston Vision Zero Plan In 2015, mayor Marty Walsh announced that the city of Boston would become part of a worldwide program known as Vision Zero . Vision Zero is a plan self described as “a new standard for safety on our streets.” The plan aims to eliminate deaths caused by transportation, whether that be pedestrians, personal vehicle riders, or cyclists. Since 2015, the city of Boston has adopted several different policies aimed to help bring down the number of fatalities caused by Transportation in Boston. These policies include the creation of a 25-mile per hour speed limit",
+      "id": "HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_21"
+    },
+    {
+      "text": "Horizon Air was serving Idaho Falls in 1985 with Fairchild Swearingen Metroliners non-stop to Boise and had de Havilland Canada DHC-8 Dash 8s by 1989. In 1995 Horizon Air was serving Idaho Falls with Dash 8s and Fokker F28 Fellowships for Alaska Airlines via a code sharing agreement with the non-stop flight F28 jet flight to Boise continuing to Oakland. The regional airline began operating non-stop between Idaho Falls and Seattle for Alaska Airlines in 2003 with the 76-seat Bombardier Q400 but ended the service in 2004. It reinstated non-stop flights to Seattle beginning on October 25, 2008. The flights included a stopover in Bozeman, Montana. This service was discontinued as of August 23, 2009. On June 16, 2010, Horizon Air announced its intention to once again discontinue all service to Idaho Falls effective August 22, 2010. At the time, the airline was flying between Idaho Falls and Boise. United Express operated by SkyWest Airlines via a code sharing agreement with United Airlines added nonstop Canadair CRJ-200s to Denver June 8, 2006. Allegiant Air added twice weekly McDonnell Douglas MD-80s to Las Vegas ( LAS ) in November 2005. Northwest Airlines started service between Idaho Falls and Minneapolis-St. Paul June 9, 2005.",
+      "id": "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_6"
+    }
+  ],
+  "cot_scratchpad": "- Waco Regional Airport is owned by the City of Waco (HotpotQA-validation-00006411/00_Waco-Regional-Airport.html_c_0).\n- Idaho Falls Regional Airport ownership not stated in retrieved evidence (HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_0).\n- Waco Regional Airport is owned by the City of Waco (HotpotQA-validation-00006411/00_Waco-Regional-Airport.html_c_0).\n- No evidence yet states who owns Idaho Falls Regional Airport.\n- Waco Regional Airport is owned by the City of Waco (HotpotQA-validation-00006411/00_Waco-Regional-Airport.html_c_0).\n- No evidence retrieved states who owns Idaho Falls Regional Airport.\n- Boise Airport is operated by the city of Boise Dept of Aviation (HotpotQA-validation-00006411/03_Boise-Airport.html_c_0), but Boise is not Idaho Falls.\n- Need ownership info for Idaho Falls Regional Airport specifically.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Waco Regional Airport and Idaho Falls Regional Airport both city owned airports?",
+      "doc_ids": [
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_8",
+        "HotpotQA-validation-00006411/00_Waco-Regional-Airport.html_c_0",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_0",
+        "HotpotQA-validation-00006411/02_Lea-County-Regional-Airport.html_c_0",
+        "HotpotQA-validation-00006586/03_Transportation-in-Boston.html_c_21"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Idaho Falls Regional Airport owner",
+      "doc_ids": [
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_0",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_8",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_6",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_3",
+        "HotpotQA-validation-00006411/03_Boise-Airport.html_c_0"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Idaho Falls Regional Airport ownership",
+      "doc_ids": [
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_0",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_8",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_6",
+        "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_c_3",
+        "HotpotQA-validation-00006411/03_Boise-Airport.html_c_0"
+      ]
+    }
+  ]
+}

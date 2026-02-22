@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0e35afe5",
+  "question": "Amidst the pressures and uncertainties of their situation in China, to whom did Rudolph confess his thoughts and feelings, seeking understanding?",
+  "gold_answer": "Rudolph confessed to Heywood.",
+  "llm_answer": "Rolph confided his thoughts and feelings to Miss Forrester, who listened with friendly seriousness and encouraged him to speak.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Rudolph confided in Miss Forrester, whereas the Gold Answer specifies Heywood as the person Rudolph confessed to. The retrieved context does not support the claim about Miss Forrester, making the answer unfaithful and missing the key fact from the Gold Answer."
+  }
+}

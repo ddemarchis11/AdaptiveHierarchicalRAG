@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000829",
+  "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+  "gold_answer": "Australian",
+  "llm_answer": "Australia",
+  "context": [
+    {
+      "text": "Cast The cast of Thor: The Dark World at the world premiere in London. Top to bottom: Hemsworth, Portman, Hiddleston, Elba, Eccleston, Akinnuoye-Agbaje, and Dennings (scrollable image) Chris Hemsworth as Thor : An Avenger and the crown prince of Asgard , based on the Norse mythological deity of the same name . Hemsworth stated that the film addresses unresolved issues regarding Thor's relationships from previous films, \"For Thor and Jane, there are some unanswered questions now, since obviously he didn't stop in and catch up with her in The Avengers (2012). Thor might have some explaining to do in this one. And with Loki, we get down to the major bones of our conflict with everything that's come from Thor to Avengers to now.\" Hemsworth added, \"Thor's journey I think picks more so up from where we left the first one—About to take on the throne... and now coming to the realization of what responsibility comes with that. Also, Alan [Taylor] keeps talking about the dark side of that responsibility, and the secrets of being king or becoming sort of very political about what people need to know and what they want to know.\" Hemsworth especially enjoyed the role of Thor in this film as he was able to, \"... break him down and find his human qualities and his vulnerable side.\" Natalie Portman as Jane Foster : An astrophysicist and Thor's love interest",
+      "id": "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_4"
+    },
+    {
+      "text": "Thor: The Dark World is a 2013 American superhero film based on the Marvel Comics character Thor , produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures . It is the sequel to Thor (2011) and the eighth film in the Marvel Cinematic Universe (MCU). The film was directed by Alan Taylor from a screenplay by Christopher Yost and the writing team of Christopher Markus and Stephen McFeely . It stars Chris Hemsworth as Thor alongside Natalie Portman , Tom Hiddleston , Stellan Skarsgård , Idris Elba , Christopher Eccleston , Adewale Akinnuoye-Agbaje , Kat Dennings , Ray Stevenson , Zachary Levi , Tadanobu Asano , Jaimie Alexander , Rene Russo , and Anthony Hopkins . In the film, Thor and Loki (Hiddleston) team up to save the Nine Realms from the Dark Elves . Development of a sequel to Thor began in April 2011 when producer Kevin Feige announced plans for it to follow the MCU crossover film The Avengers (2012). In July, Thor director Kenneth Branagh withdrew from the sequel. Taylor was hired to replace him as director in January 2012. The supporting cast filled out that August with the hiring of Eccleston and Akinnuoye-Agbaje as the film's villains. Filming took place from September to December 2012, primarily in Surrey , England, as well as in Iceland and",
+      "id": "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_0"
+    },
+    {
+      "text": "2013, Hemsworth starred in Ron Howard 's sports drama film Rush , as 1976 Formula 1 World Champion James Hunt . Henry Barnes of The Guardian was impressed with Hemsworth's performance, praising the actor for delivering the \"superb script\" with \"some mastery.\" Later that year, Hemsworth reprised the role of Thor for the sequel to Thor in Thor: The Dark World (2013). Although a commercial success with a worldwide gross of US$644.6 million, the film became the lowest-rated film in the MCU franchise on the review aggregator website Rotten Tomatoes at 66% approval rating. The chemistry between Hemsworth and Hiddleston was praised by critics; Ben Child of The Guardian wrote, \"Thanks to Hiddleston and Hemsworth's impressive collective charisma, Thor: The Dark World is far from a franchise killer.\" In 2015, Hemsworth starred in director Michael Mann 's action thriller Blackhat , opposite Viola Davis . The film bombed at the box office and was poorly received. For many critics, a significant issue of the film was the casting of Hemsworth as a hacker; Christy Lemire of the Chicago Sun-Times remarked, \"Anyone who makes [their] way in the world sitting in front of a computer screen all day is not going to look as hunky as Hemsworth.\" Hemsworth himself later admitted to being displeased with his performance: \"I didn't enjoy what I did in the film,\"",
+      "id": "HotpotQA-validation-00000829/01_Chris-Hemsworth.html_c_6"
+    },
+    {
+      "text": "world.\" —Alan Taylor, director of Thor: The Dark World and several episodes of Game of Thrones In April 2011, before the release of Thor (2011), Marvel Studios president Kevin Feige stated that following The Avengers (2012), \"Thor will go off into a new adventure.\" Kenneth Branagh , director of Thor , responded to his comments, saying, \"It is kind of news to me. Here's what I would say to that: It's that I'm thrilled they're that confident. I shall wait for the audience to tell us whether there should be a second one, and then if that's a nice conversation to be had [among] all of us, that'd be thrilling. But I've got too much Irish superstitious blood in me to assume that Thor 2 will happen. But if Marvel says so, then I guess it must be true\". Feige later explained that Marvel Studios would gauge how well Thor did at the box office before announcing sequels, but stated, \" Don Payne is working on story ideas for a part two. We've got various options with Ken [Branagh] to discuss coming back, but right now the focus is on the first one. Don is, slowly but surely, thinking about where to take the character next should we be so lucky\". In June 2011, Walt Disney Studios set a July 26, 2013, release date for the Thor sequel with Chris Hemsworth reprising his role",
+      "id": "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_15"
+    },
+    {
+      "text": "Christopher Hemsworth AM (born 11 August 1983) is an Australian actor and film producer. Born and raised in Melbourne, Victoria , and Bulman, Northern Territory , he rose to prominence playing Kim Hyde in the Australian television series Home and Away (2004–2007) before beginning a film career in Hollywood . In the Marvel Cinematic Universe , Hemsworth starred as Thor in the 2011 film of the same name and reprised the role in several subsequent installments, which established him among the world's highest-paid actors. His other film roles include the action films Star Trek (2009), Snow White and the Huntsman (2012) and its sequel The Huntsman: Winter's War (2016), Red Dawn (2012), Blackhat (2015), Men in Black: International (2019), Extraction (2020) and its 2023 sequel , the thriller A Perfect Getaway (2009), and the comedy Ghostbusters (2016). Hemsworth's most critically acclaimed films include the comedy horror The Cabin in the Woods (2012), the biographical sports film Rush (2013) in which he portrayed James Hunt , the action film Furiosa: A Mad Max Saga (2024)—which earned him a nomination for the AACTA Award for Best Actor in a Supporting Role —and the animated film Transformers One (2024) in which he voiced Optimus Prime . Early life Christopher Hemsworth was born on 11 August",
+      "id": "HotpotQA-validation-00000829/01_Chris-Hemsworth.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Chris Hemsworth starred in Thor: The Dark World (HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_0). (HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_4)\n- Christopher Hemsworth was born in Melbourne, Victoria, Australia (HotpotQA-validation-00000829/01_Chris-Hemsworth.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+      "doc_ids": [
+        "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_4",
+        "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_0",
+        "HotpotQA-validation-00000829/01_Chris-Hemsworth.html_c_6",
+        "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_c_15",
+        "HotpotQA-validation-00000829/01_Chris-Hemsworth.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-704f3842",
+  "question": "During the events involving the city's upheaval, who aided the Berbers according to the account provided in the narrative?",
+  "gold_answer": "The canaille aided the Berbers.",
+  "llm_answer": "The evidence does not specify who aided the Berbers during the events involving the city's upheaval.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that the 'canaille' aided the Berbers, which is supported by the Retrieved Context. The Model Answer incorrectly claims that the evidence does not specify who aided the Berbers, contradicting both the Gold Answer and the context."
+  }
+}

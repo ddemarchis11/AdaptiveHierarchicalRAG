@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006140",
+  "question": "The song by English indie rock band Florence and the Machine written by Florence Welch and Francis \"Eg\" White and released in 2011 is named after the painting which was completed in which year?",
+  "gold_answer": "1938",
+  "llm_answer": "The song by English indie rock band Florence and the Machine written by Florence Welch and Francis \"Eg\" White and released in 2011 is named after the painting which was completed in 1938.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the year 1938 as the completion year of the painting 'What the Water Gave Me,' which inspired the song by Florence and the Machine. This information is explicitly supported by the Retrieved Context, and the answer includes all necessary facts from the Gold Answer without adding unsupported details."
+  }
+}

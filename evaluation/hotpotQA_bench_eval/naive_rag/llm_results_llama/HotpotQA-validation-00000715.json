@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000715",
+  "question": "Into Dust is a song by the alternative rock band formed in which city?",
+  "gold_answer": "Santa Monica, California",
+  "llm_answer": "The alternative rock band that formed the song \"Into Dust\" is Mazzy Star, and they were formed in Santa Monica, California.",
+  "context": [
+    {
+      "text": "Mazzy Star is an American alternative rock band formed in 1988 in Santa Monica, California , from remnants of the group Opal . Founding member David Roback 's friend Hope Sandoval became the group's vocalist when Kendra Smith left Opal. Mazzy Star is best known for the song \" Fade into You \", which brought the band commercial success in the mid-1990s and was the group's biggest mainstream hit, earning extensive exposure on MTV , VH1 , and radio airplay. Roback and Sandoval were the creative center of the band, with Sandoval as lyricist and Roback as composer of the majority of the band's material until his death in Los Angeles on February 24, 2020, from cancer. Mazzy Star's founding drummer Keith Mitchell , originally part of Opal, died on May 14, 2017, also from cancer. The EP Still released on June 1, 2018, was dedicated to Keith Mitchell and stage manager Tom Cashen who also died in 2017. Following Roback's death in 2020, Sandoval and Ewers are the last surviving members of the band's original lineup. The band released the album She Hangs Brightly in 1990, So Tonight That I Might See in 1993 (the album went platinum in 1995), and Among My Swan in 1996. The band's fourth studio album, Seasons of Your",
+      "id": "HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0"
+    },
+    {
+      "text": "\" Into Dust \" is a song by American duo Mazzy Star that appears as the ninth track on their second album So Tonight That I Might See . The song's arrangement is sparse and features only acoustic guitar and cello as an accompaniment to the vocals. Although never released as an official single, the song has charted on two occasions on the UK Singles Chart . Fifteen years after the release of the album, the song charted at No. 71 in August 2009 following its appearance on a commercial for Virgin Media . Two years later, the song spent a further four weeks on the chart, reaching a new peak of No. 47, when it was used on the \"Dust to Dust\" trailer for Gears of War 3 . In September 2011, \"Into Dust\" made its début appearance on the Irish Singles Chart , where it reached a peak of No. 40. Charting positions \"Into Dust\" Album version, as it appeared on So Tonight That I Might See Problems playing this file? See media help . Covers versions and remixes A cover by Ashtar Command appeared on The O.C. soundtrack album Music from the OC: Mix 6 . This version originally appeared in \"The Chrismukk-huh?\" (Season 4, Episode 6). A trance remix by John O'Callaghan appeared on A State of Trance Episode 327. A cover by heavy metal band In This Moment on the album Mother released",
+      "id": "HotpotQA-validation-00000715/00_Into-Dust.html_c_0"
+    },
+    {
+      "text": "Ridge Boys (with bass singer Richard Sterban singing the original guitar riffs), rock supergroup Audioslave , alternative rock band the Flaming Lips , British soul singer Alice Russell , American singer and television personality Kelly Clarkson , hard rock band the Pretty Reckless , and Argentine electrotango band Tanghetto . In 2015, it was covered by Haley Reinhart for Scott Bradlee's Postmodern Jukebox in a style reminiscent of a New Orleans funeral march. French neofolk group SKÁLD covered the song in 2019 for the Alfar Fagrahvél edition of their album Vikings Chant , with minor changes to the lyrics, with the city of \" Wichita \" changed to \" Uppsala \". The song was covered during Maroon 5 's Overexposed Tour in 2012, with lead guitarist James Valentine providing guitar and vocals and lead vocalist Adam Levine providing drums. The song was also covered by KT Tunstall (as a medley with her own \" Black Horse and the Cherry Tree \") on her 2013 Invisible Empire/Crescent Moon tour. Ramin Djawadi made a cover version of the song with sitar for Westworld season 2 . The song is also included in the \"Backstage Romance\" number of Moulin Rouge! , where it is in a medley with \" Bad Romance \", \" Tainted Love \", \" Toxic \", and \" Sweet Dreams (Are Made of This) \". During Twenty",
+      "id": "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_20"
+    },
+    {
+      "text": "\" Ghost Rider \" is a song by the protopunk band Suicide appearing on their debut album . The song is based on the Marvel Comics character . Cover versions 1979: Danish punk band Sods (later Sort Sol ), covered the song on their debut album, Minutes to Go . 1981: Suicide's lead vocalist Alan Vega re-recorded the song for his second solo album, Collision Drive . 1983: Soft Cell ( Marc Almond & Dave Ball ) perform Ghost Rider live at various shows featuring guest vocalist Clint Ruin (aka JG Thirlwell , including a performance for UK television programme The Tube which also features Gary Barnacle on saxophone. 1987: American musician Henry Rollins , formerly of the hardcore group Black Flag , recorded the song for his debut album, Hot Animal Machine . 1987: Electronic rock group The Cassandra Complex performs \"Ghost Rider\" live and it appears on their live album Feel the Width . 1988: Alternative rock band R.E.M. released a cover of the song on the B-side to their 1988 single \" Orange Crush \". It later appeared on the band's 1993 compilation album The Automatic Box . 1990: Detroit garage rock band The Gories included the song on their second album. 1994: Henry Rollins also re-recorded the song with the Rollins Band for the soundtrack to the film The Crow . 2008: Industrial rock band The Young Gods did a cover version",
+      "id": "HotpotQA-validation-00000116/00_Ghost-Rider-Suicide-song.html_c_0"
+    },
+    {
+      "text": "The Replacements were an American rock band formed in Minneapolis , Minnesota , in 1979. The band was composed of the guitarist and vocalist Paul Westerberg , guitarist Bob Stinson , bass guitarist Tommy Stinson , and drummer Chris Mars for most of its existence. After two albums in the style of punk rock , they became one of the main pioneers of alternative rock with their acclaimed albums Let It Be and Tim . Bob Stinson was kicked out of the band in 1986, and Slim Dunlap joined as lead guitarist. Steve Foley replaced Mars in 1990. Towards the end of the band's career, Westerberg exerted more control over its creative output. The group disbanded in 1991 and the members found various projects. A reunion was announced on October 3, 2012. Fans affectionately refer to the band as the 'Mats, a nickname which originated as a truncation of \"The Placemats\". The Replacements' music was influenced by rock artists such as the Rolling Stones , the Beatles , Faces , Big Star , Slade , Badfinger , Creedence Clearwater Revival , and Bob Dylan as well as punk rock bands including the Ramones , the New York Dolls , the Buzzcocks , the Damned and the Sex Pistols . Unlike many of their underground contemporaries, the Replacements played \"heart-on-the-sleeve\" rock songs which combined Westerberg's \"raw-throated adolescent",
+      "id": "HotpotQA-validation-00000715/03_The-Replacements-band.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Mazzy Star is an American alternative rock band (HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0).\n- Mazzy Star was formed in 1988 in Santa Monica, California (HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0).\n- The city where Mazzy Star was formed is Santa Monica, California (HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0).\n- The city where Mazzy Star was formed is the answer to the question (HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0).\",\n- \"enough\": true,\n- \"missing\": null,",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Into Dust is a song by the alternative rock band formed in which city?",
+      "doc_ids": [
+        "HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0",
+        "HotpotQA-validation-00000715/00_Into-Dust.html_c_0",
+        "HotpotQA-validation-00000695/00_Seven-Nation-Army.html_c_20",
+        "HotpotQA-validation-00000116/00_Ghost-Rider-Suicide-song.html_c_0",
+        "HotpotQA-validation-00000715/03_The-Replacements-band.html_c_0"
+      ]
+    }
+  ]
+}

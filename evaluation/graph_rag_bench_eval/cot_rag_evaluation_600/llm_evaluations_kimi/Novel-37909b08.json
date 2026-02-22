@@ -1,0 +1,12 @@
+{
+  "id": "Novel-37909b08",
+  "question": "Within the familial relationships described in the text, who is identified as the brother of Typho?",
+  "gold_answer": "Osiris is the brother of Typho.",
+  "llm_answer": "Aroeris is identified as the brother of Typho.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that Osiris is the brother of Typho, while the Model Answer incorrectly identifies Aroeris as Typho's brother. Although the context mentions Aroeris as a sibling of Typho, Osiris, and Isis, it explicitly supports the Gold Answer that Osiris is Typho's brother. Therefore, the Model Answer is incorrect in terms of correctness and evidence coverage, but it is faithful to the retrieved context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac7eb77d",
+  "question": "According to the text, what roles does the Sultan hold in relation to Morocco, including his power over the country and his residence in a palace within Morocco?",
+  "gold_answer": "The Sultan has power over Morocco and has a palace in Morocco.",
+  "llm_answer": "The Sultan is the head of the orthodox religion of the Mussulmen of the West and is more firmly established on his throne than the Sultan of the Ottomans. His influence spreads throughout Western Barbary and Central Africa. He is the sovereign Shereef, and in the event of a Christian or Infidel enemy, all tribes, including hostile ones, would unite under him against the common foe. He can consolidate power by distributing titles and honors, and he maintains actual possession in his favor, proclaiming authority over the empire and generally making both his people and foreign nations acknowledge his power. He is obliged to reside in Fez to maintain allegiance of the north country and curb its powerful warparty, though the dynasty belongs to the south.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant information about the Sultan's roles and influence, but it diverges significantly from the Gold Answer's focus on the Sultan's power over Morocco and his residence in a palace within Morocco. While the context mentions the Sultan's residence in Fez and his influence over the empire, the Model Answer introduces additional details about his religious role and strategies for consolidating power, which are not directly relevant to the question. Furthermore, the claim about the Sultan being more firmly established than the Sultan of the Ottomans is not clearly supported by the retrieved context, reducing faithfulness. The Model Answer partially covers the Gold Answer's key facts but misses the concise focus on the Sultan's power and palace in Morocco."
+  }
+}

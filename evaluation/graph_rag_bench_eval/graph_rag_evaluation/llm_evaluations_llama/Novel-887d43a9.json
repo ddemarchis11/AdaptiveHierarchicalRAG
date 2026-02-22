@@ -1,0 +1,12 @@
+{
+  "id": "Novel-887d43a9",
+  "question": "Is Mogador considered to be part of Morocco, according to the territorial definitions given in the narrative?",
+  "gold_answer": "Mogador is part of Morocco.",
+  "llm_answer": "Mogador is mentioned as a place where the Jewish society is described, but it is not explicitly stated as part of Morocco in the given territorial definitions.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that Mogador is part of Morocco, which is supported by the context mentioning Mogador alongside other Moroccan locations. The Model Answer incorrectly claims that Mogador is not explicitly stated as part of Morocco, contradicting both the Gold Answer and the Retrieved Context."
+  }
+}

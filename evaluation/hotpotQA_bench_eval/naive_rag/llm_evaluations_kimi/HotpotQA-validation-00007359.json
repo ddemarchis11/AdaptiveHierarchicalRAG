@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007359",
+  "question": "In what city does the most successful American and international five-and-dime business have a historic building?",
+  "gold_answer": "Watertown, New York",
+  "llm_answer": "Watertown, New York",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Watertown, New York as the city with the historic building associated with the most successful American and international five-and-dime business, Woolworth's. This is fully supported by the retrieved context, which details the Woolworth Building's history in Watertown. The answer is concise but accurate, matching the Gold Answer and covering all necessary facts."
+  }
+}

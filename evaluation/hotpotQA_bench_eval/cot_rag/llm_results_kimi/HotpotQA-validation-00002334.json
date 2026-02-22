@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00002334",
+  "question": "Are Sunset Strip and American Hardcore both music documentaries?",
+  "gold_answer": "no",
+  "llm_answer": "Yes.  \nSunset Strip is described as a documentary featuring music figures and performances, and American Hardcore is explicitly labeled a 2006 documentary film about hardcore punk rock.",
+  "context": [
+    {
+      "text": "as well as hotels. 1990s During the 1990s, the center of the alternative music activity in Los Angeles shifted further east to areas like Echo Park , Silver Lake and Los Feliz . Landmarks In popular culture 77 Sunset Strip , a 1958–1964 TV series, was set on Sunset Strip between La Cienega Boulevard and Alta Loma Road. Studio 60 on the Sunset Strip was a behind-the-scenes television drama of a late-night comedy sketch show performed at a fictional theater on Sunset Strip. Premiering on January 27, 2006, in Los Angeles at Vanguard Hollywood , the Rock of Ages stage production inspired the 2012 film of the same name . Its story line is centered along Sunset Strip in 1987. The opening credits of the HBO TV series Entourage featured shots of Sunset Strip.  Los Angeles-based artist Edward Ruscha created the artist's book Every Building on the Sunset Strip in 1966, later 12 Sunsets website for the Getty Research Institute . Explanatory notes References Citations General bibliography Chick, Steve (2009). Spray Paint the Walls: The Story of Black Flag . Omnibus Press. p. 51. ISBN 978-0-857-12064-9 . Dickey, Jeff (2003). Rough Guide to Los Angeles . Rough Guides. ISBN 978-1-843-53058-9 . External links Wikimedia Commons has media related to Sunset Strip .",
+      "id": "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_4"
+    },
+    {
+      "text": "focus for punk rock and new wave music during the late 1970s. 1980s Whisky a Go Go During the latter part of the 1970s and well into the 1980s, the Sunset Strip would become synonymous with the Los Angeles heavy metal movement, commonly referred to as the West Coast Metal Explosion. The clubs on the Sunset Strip such as the Whisky a Go Go and The Roxy, became home to numerous LA-based heavy metal bands such as Van Halen , Quiet Riot , Mötley Crüe , Razor Fury, Ratt and Guns N' Roses . The scene became synonymous with glam metal , with many fans mimicking the hair and clothing worn by the bands. The many heavy metal fans who would congregate outside the clubs along the strip became a defining feature. The adoption of \"pay to play\" policies, in which bands were charged a fee to play at clubs, diminished its appeal to groups, other than as an industry showcase. As of the 2010s, the music industry establishment continues to dominate the clubs on Sunset Strip.  In November 1984, voters in West Hollywood passed a proposal on the ballot to incorporate, and the area became an independent city. Increasingly, the western end of Sunset Strip was occupied by office buildings, mostly catering to the entertainment industry, as well as hotels. 1990s During the 1990s, the center of the alternative music activity in Los Angeles shifted further east",
+      "id": "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_3"
+    },
+    {
+      "text": "by Love to \"The Trip\" by Donovan as well as music from Ratt, X, The Pussycat Dolls and Jane's Addiction. Slash, Billy Corgan, Robbie Krieger of The Doors and Perry Farrell are all featured speakers in the documentary. Release and distribution Sunset Strip debuted at the South by Southwest (SXSW) film festival in Austin Texas, The Cannes Film Festival in France and several others before being acquired by Showtime Networks and Netflix through Ben Silverman 's Electus Distribution. A special Collector's Edition DVD was also released, and contained bonus interviews from several celebrities, including Hugh Hefner , Dave Navarro , Ozzy Osbourne , Keanu Reeves , Alice Cooper and more. References External links Sunset Strip at IMDb",
+      "id": "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_c_4"
+    },
+    {
+      "text": "and 1940s In the 1930s and the 1940s, restaurants and nightclubs on Sunset Strip, like Sherry's, Ciro's , the Mocambo and the Trocadero , were patronized by people working in the movie industry. Some of its expensive nightclubs and restaurants were said to be [ by whom? ] owned by gangsters like Mickey Cohen and Bugsy Siegel , earning Sunset Strip a place in Raymond Chandler 's 1949 Philip Marlowe novel, The Little Sister . Also on Sunset Strip are the Garden of Allah apartments—Hollywood quarters for transplanted writers like Robert Benchley , Dorothy Parker , and F. Scott Fitzgerald —and Schwab's Drug Store . 1960s Rainbow Bar and Grill By the early 1960s, Sunset Strip had lost favor with the majority of movie people, but its restaurants, bars and clubs continued to serve as an attraction for locals and tourists. In the mid-1960s it became a major gathering place for the counterculture and was the scene of the Sunset Strip curfew riots in November 1966, involving police and crowds of young club-goers. Those riots inspired the Buffalo Springfield song \" For What It's Worth \". Sunset Strip became popular with rock musicians and their fans. Bands such as Led Zeppelin , the Doors , the Byrds , Love , the Seeds , Frank Zappa , and others played at clubs like",
+      "id": "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_1"
+    },
+    {
+      "text": "Los Angeles . Rough Guides. ISBN 978-1-843-53058-9 . External links Wikimedia Commons has media related to Sunset Strip . KML file ( edit • help ) Template:Attached KML/Sunset Strip KML is from Wikidata The Sunset Strip – official site",
+      "id": "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_5"
+    },
+    {
+      "text": "American Hardcore: The History of American Punk Rock 1980–1986 is a 2006 documentary film directed and produced by Paul Rachman and written by Steven Blush . It is based on the 2001 book American Hardcore: A Tribal History also written by Blush. It had its world premiere at the 2006 Sundance Film Festival and was released on September 22, 2006 on a limited basis by Sony Pictures Classics . The film features some early pioneers of the hardcore punk music scene including Bad Brains , Black Flag , D.O.A. , Minor Threat , Minutemen , SSD , and others. It was released on DVD by Sony Pictures Home Entertainment on February 20, 2007. Synopsis The film addresses the birth and evolution of hardcore punk rock from 1978 to 1986 (although the packaging says 1980-1986). The documentary boasts extensive underground footage shot during the height of the hardcore movement. It features exclusive interviews with early hardcore punk music artists from bands such as Black Flag, Minor Threat, Bad Brains, and many more. Interviewees Jonathan Anastas formerly of D.Y.S. and Slapshot Phil Anselmo of Pantera and Down Brian Baker of Bad Religion , formerly of Minor Threat and Dag Nasty Dicky Barrett of Mighty Mighty Bosstones , formerly of Impact Unit and The Cheapskates Vic Bondi formerly of Articles of Faith Dave Brockie of Death Piggy (which would later form into",
+      "id": "HotpotQA-validation-00002334/01_American-Hardcore-film.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Sunset Strip 2012 film is a documentary on the music culture of the strip (Novel-00_Sunset-Strip-2012-film.html_c_4).\n- American Hardcore’s status as a music documentary not yet confirmed.\n- Need lookup for American Hardcore document.\n- American Hardcore doc covers hardcore punk rock 1980-86 (Novel-01_American-Hardcore-film.html_c_0)\n- Features bands Bad Brains, Black Flag, Minor Threat etc. (Novel-01_American-Hardcore-film.html_c_0)\n- Sunset Strip 2012 film is a music-culture documentary (Novel-00_Sunset-Strip-2012-film.html_c_4)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are Sunset Strip and American Hardcore both music documentaries?",
+      "doc_ids": [
+        "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_4",
+        "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_3",
+        "HotpotQA-validation-00002334/00_Sunset-Strip-2012-film.html_c_4",
+        "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_1",
+        "HotpotQA-validation-00002334/02_Sunset-Strip.html_c_5"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "American Hardcore documentary type",
+      "doc_ids": [
+        "HotpotQA-validation-00002334/01_American-Hardcore-film.html_c_0",
+        "HotpotQA-validation-00002334/01_American-Hardcore-film.html_c_4",
+        "HotpotQA-validation-00002256/02_Music-of-Ohio.html_c_23",
+        "HotpotQA-validation-00007092/00_American-Zeitgeist.html_c_0",
+        "HotpotQA-validation-00005636/00_At-the-Drive-In.html_c_0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b016ff7a",
+  "question": "What is the significance of the mustang in the interactions between Grey and Cota at the Ramierez fonda, considering that Grey threw himself across the mustang and Cota cared only for the horse?",
+  "gold_answer": "Grey threw himself across the mustang, and Cota cared only for the horse.",
+  "llm_answer": "The mustang is the real center of power in every encounter between Grey and Cota.  \nCota’s first “gift” of the half-broken calico mare is a calculated dare: if Grey masters the animal he proves himself worthy of her notice; if he fails he becomes a joke.  When Grey vaults across the mustang’s back he is literally throwing himself across the one thing Cota values more than any human attention—her horse.  Her instant, rough shove into the stable and the immediate removal of the mare show that the horse, not the man, is what she is protecting.  The mustang therefore acts as the visible gauge of Grey’s position: as long as he is “on” the horse he has her gaze; the moment the horse is led away he is shut into darkness and dismissed.  In short, the mustang is the gatekeeper: control of it equals access to Cota, loss of it equals invisibility.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the core meaning of the Gold Answer, explaining that Grey threw himself across the mustang and that Cota cared only for the horse. It expands on this by providing detailed analysis of the significance of the mustang in their interactions, which is relevant and supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are faithful to the context provided."
+  }
+}

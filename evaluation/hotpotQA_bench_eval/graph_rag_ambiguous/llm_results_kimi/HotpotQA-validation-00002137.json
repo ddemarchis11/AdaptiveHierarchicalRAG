@@ -1,0 +1,270 @@
+{
+  "id": "HotpotQA-validation-00002137",
+  "question": "To which other parts of the world has the deer species found in a pair of ancient Cheshire woodlands been introduced, either by human activity or naturalisation?",
+  "gold_answer": "New Zealand, Canada, the United States, the Falkland Islands, and Peru.",
+  "llm_answer": "The European fallow deer, the species present in Tatton Park’s ancient Cheshire woodlands, has been “widely introduced elsewhere” beyond its native Europe and Anatolia, although the context does not list the specific regions.",
+  "context": [
+    {
+      "text": "Fallow deer is the common name for species of deer in the genus Dama of subfamily Cervinae . The two living species are the European fallow deer ( Dama dama ), native to Europe and Anatolia , and the Persian fallow deer ( Dama mesopotamica ), native to the Middle East . The European species has been widely introduced elsewhere. Name The name fallow is derived from the deer's pale brown colour . The Latin word dāma or damma , used for roe deer , gazelles , and antelopes , lies at the root of the modern scientific name, as well as the German Damhirsch , French daim , Dutch damhert , and Italian daino . In Serbo-Croatian , the name for the fallow deer is jelen lopatar (\"shovel deer\"), due to the form of its antlers. The Modern Hebrew name of the fallow deer is yachmur ( יחמור ). Description The Persian fallow deer is the larger of the two living species, with an average body mass around 70–140 kg (150–310 lb), and a shoulder height around 80–110 cm (31–43 in) with the European fallow deer having an average body mass around 35–80 kg (77–176 lb). The living fallow deer species have antlers that have flattened (palmate) ends, with the palmate section being somewhat narrower in the antlers of Persian fallow deer. During the summer, European fallow deer have a reddish pelt with white spots along the back and the sides (flank), while during the winter, they have a grey pelt that lacks or has less visible spots. Ecology The diet of the European fallow deer has been described as highly flexible, able to adapt to local conditions. In Britain, it has been observed to primarily feed on grass in summer and acorns and other mast during the autumn and early winter, as well as on shrubs and trees. Taxonomy and evolution The genus includes two extant species: Extant species Some taxonomists classify the Persian fallow deer as a subspecies ( D. d. mesopotamica ), while others, such as the IUCN , treat it as a separate species ( D. mesopotamica ). Based on genetic evidence, Dama is considered to be closest living relative of the extinct genus Megaloceros . The circumscription of the genus is uncertain, with some authors choosing to include taxa that are otherwise placed in the genus Pseudodama , which may be ancestral to Dama . The earliest species of Dama appeared around the Pliocene-Pleistocene boundary about 2.6 million years ago, or around the beginning of the Middle Pleistocene approximately 0.8 million years ago, depending on the species included in the genus. The relationships of most Dama",
+      "id": "HotpotQA-validation-00002137/01_Fallow-deer.html_c_0",
+      "doc_id": "HotpotQA-validation-00002137/01_Fallow-deer.html",
+      "community_id": 1,
+      "score": 28.205952
+    },
+    {
+      "text": "The earliest species of Dama appeared around the Pliocene-Pleistocene boundary about 2.6 million years ago, or around the beginning of the Middle Pleistocene approximately 0.8 million years ago, depending on the species included in the genus. The relationships of most Dama species to each other and to other fossil deer are controversial, with no overall consensus on their relationships, aside the close relationship of D. clactoniana with the living Dama species. The earliest Dama species lack palmate (broad and flattened) antlers, with this trait only developing in D. pelleponesica, D. clactoniana , and the two living species. Extinct species, based on van der Made et al. 2023: Dama nestii known from the Early Pleistocene of Europe, also assigned to the genus Pseudodama . Dama vallonnetensis known from the Early Pleistocene of Europe, also assigned to Pseudodama . Dama farnetensis known from the Early Pleistocene of Europe, also assigned to Pseudodama . Dama pelleponesica known from the early Middle Pleistocene of Greece, with similar remains referred to as Dama aff. pelleponesica known from the late Middle Pleistocene of Azokh Cave in Azerbaijan. Species not universally recognised as valid. Dama roberti known from the early Middle Pleistocene of Europe. Dama celiae known from the Middle Pleistocene of Spain Dama clactoniana , known from the late Middle Pleistocene of Europe, thought to be the ancestor of the two living species. Relationships of Dama to other deer species based on mitochondrial DNA. References",
+      "id": "HotpotQA-validation-00002137/01_Fallow-deer.html_c_1",
+      "doc_id": "HotpotQA-validation-00002137/01_Fallow-deer.html",
+      "community_id": 1,
+      "score": 26.533928
+    },
+    {
+      "text": "Tatton Hall and the Italian Garden Tatton Park is a historic estate in Cheshire , England, north of the town of Knutsford . It contains a mansion, Tatton Hall ; a medieval manor house , Tatton Old Hall ; Tatton Park Gardens , a farm and a deer park of 2,000 acres (8.1 km 2 ). It is a popular visitor attraction and hosts over a hundred events annually. The estate is owned by the National Trust and is managed under lease by Cheshire East Council . Since 1999, it has hosted North West England 's annual Royal Horticultural Society flower show. History Village There is evidence of human habitation in the area of the estate going back to the Iron Age . The village of Tatton existed in medieval times. The settlement is now a Deserted medieval village but its buildings and roadways – which are now a scheduled monument – can still be seen as imprints within the estate's parkland. Old Hall By the end of the 15th century, the land on which the estate was created was owned by the Stanley family who built and occupied what became known as the Old Hall. By the 1580s this building had been enlarged and it was owned by the Brereton family. In 1598 the estate was bought by Sir Thomas Egerton , Lord Chancellor of England, from his half sister Dorothy Brereton. Sir Thomas and his children rarely visited the estate and it was rented to tenants. The hall was originally timber-framed , which was subsequently replaced by brick. It is L-shaped, in two storeys. The floors that had been inserted into the older wing have been removed, revealing the complex wooden roof. The Old Hall stands in grounds surrounded by a wall. Within these grounds is a reconstructed cruck barn. It is timber-framed with brick infill and has a thatched roof. Most of the timber has come from a demolished barn at Clotton Hoofield . The barn has been designated by English Heritage as a Grade II listed building . Tatton Hall At the end of the 17th century the estate was owned by John Egerton, Sir Thomas' grandson, who built a new house on the site of the present mansion, some 0.75 miles (1 km) to the west of the Old Hall. Work was completed around 1716. From 1758 improvements were made to the house and between the 1770s and 1816 most of it was replaced by the present neoclassical mansion, designed by Samuel Wyatt and his nephew Lewis William Wyatt . Further additions to the house were made in 1861–62 and in 1884. During the late 19th century large house parties were held in the hall, some of them attended by British and foreign royalty. The mansion contains much of the furniture made for its occupants by the family firm Gillows of Lancaster . There are over 150 provenanced or",
+      "id": "HotpotQA-validation-00000949/01_Tatton-Park.html_c_0",
+      "doc_id": "HotpotQA-validation-00000949/01_Tatton-Park.html",
+      "community_id": 1,
+      "score": 22.483692
+    },
+    {
+      "text": "Silene is a genus of flowering plants in the family Caryophyllaceae . Containing nearly 900 species, it is the largest genus in the family. Common names include campion and catchfly . Many Silene species are widely distributed, particularly in the northern hemisphere. Scientific history Members of this genus have been the subject of research by preeminent plant ecologists, evolutionary biologists, and geneticists, including Charles Darwin , Gregor Mendel , Carl Correns , Herbert G. Baker , and Janis Antonovics . Many Silene species continue to be widely used to study systems, particularly in the fields of ecology and evolutionary biology. The genus has been used as a model for understanding the genetics of sex determination for over a century. Silene species commonly contain a mixture of hermaphroditic and female (or male-sterile) individuals ( gynodioecy ), and early studies by Correns showed that male sterility could be maternally inherited, an example of what is now known as cytoplasmic male sterility . Two independent groups of species in Silene have evolved separate male and female sexes ( dioecy ) with chromosomal sex determination that is analogous to the system found in humans and other mammals. Silene flowers are frequently visited by flies, such as Rhingia campestris . Silene species have also been used to study speciation, host-pathogen interactions, biological species invasions, adaptation to heavy-metal-contaminated soils, metapopulation genetics, and organelle genome evolution. Notably, some members of the genus Silene hold the distinction of harboring the largest mitochondrial genomes ever identified. Taxonomy Silene was originally described by Linnaeus . Divisions of the genus into subgenera or sections before 2003 do not seem to be well-supported by molecular evidence. The genus Lychnis is closely related to (and sometimes included in) Silene . When treated as a distinct genus, it can often be differentiated by the number of flower styles (five in Lychnis' and three in Silene ), the number of teeth of the seed capsule (five in Lychnis' and six in Silene ), and by the sticky stems of Lychnis . Sexual systems Sexual systems vary across species. Most Silene species are hermaphroditic representing 58.2% of Silene species, 14.3% are dioecious , 13.3% gynodioecious , and 12.2% are both gynodioecious and gynomonoecious . Trioecy , andromonoecy , and gynomonoecy have also been reported but are extremely rare. Etymology Silene is the feminine form of Silenus , an Ancient Greek woodland deity who was a companion and tutor to the wine god Dionysus . Species Ecology Lychnis is also the common name of",
+      "id": "HotpotQA-validation-00000048/01_Silene.html_c_0",
+      "doc_id": "HotpotQA-validation-00000048/01_Silene.html",
+      "community_id": 1,
+      "score": 19.030642
+    },
+    {
+      "text": "Sonerila is a genus of plants in the family Melastomataceae . This genus is characterized the by presence of three petals (along with the genera Stussenia and Lithobium ) as opposed to five in the other members of the family. Most members of the genus prefer growing in shady habitats. It is a large genus including about 175 species. This is primarily an Asiatic genus of the tropical and subtropical regions distributed from India and Sri Lanka to the Indo-Pacific . The members of the group are generally herbs or under shrubs, including some stemless members. Leaves opposite, leaf margin entire or serrulate. Inflorescence usually scorpioid cymes. Flowers in most species purple, some members with reddish or white flowers. Stamens 3, (in one whorl) or rarely 6 (in two whorls). Ovary inferior, 3-celled. Many species of this genus have restricted distribution and very small populations and would thus be regarded as Vulnerable (VU) or Endangered (EN) based on IUCN Red List criteria though this taxon has not yet been assessed for the IUCN Red List. Species Species accepted by the Plants of the World Online as of September 2021: Sonerila affinis Arn. Sonerila aiensis C.W.Lin Sonerila albiflora Stapf & King ex King Sonerila amoena Bakh.f. Sonerila anaimudica Lundin & B.Nord. Sonerila annamica Guillaumin Sonerila arguta R.Br. ex Naudin Sonerila arnottiana Thwaites Sonerila arunachalensis G.S.Giri, A.Pramanik & H.J.Chowdhery Sonerila barbata Ridl. Sonerila barnesii C.E.C.Fisch. Sonerila beccariana Cogn. Sonerila belluta Ridl. Sonerila bensonii Hook.f. Sonerila bicolor Stapf & King Sonerila biflora Zoll. & Moritzi Sonerila bokorense S.H.Cho & Y.D.Kim Sonerila bolavenensis Soulad., Tagane & Suddee Sonerila borneensis Cogn. Sonerila bracteata Stapf & King Sonerila brandisiana Kurz Sonerila brunonis Wight & Arn. Sonerila buruensis Bakh.f. Sonerila calaminthifolia Stapf & King Sonerila calophylla Ridl. Sonerila calycula Stapf & King Sonerila cannanorensis G.S.Giri & M.P.Nayar Sonerila cantonensis Stapf Sonerila cardamomensis S.H.Cho Sonerila celebica Bakh.f. Sonerila clarkei Cogn.",
+      "id": "HotpotQA-validation-00002965/00_Sonerila.html_c_0",
+      "doc_id": "HotpotQA-validation-00002965/00_Sonerila.html",
+      "community_id": 4,
+      "score": 17.837423
+    },
+    {
+      "text": "site. The Duvanny Yar section exposes the yedoma ice complex or suite and is studied by many scientists as it represents a key strategic cross-section of Late Quaternary East Siberian stratigraphy and \"an important key section for the palaeo-environmental history of the Late Pleistocene Beringia Land, the non-glaciated landmass between the Taymyr Peninsula and Alaska.\" Near Duvanny Yar is the Pleistocene Park , ( Russian : Плейстоценовый парк ), a nature reserve on the Kolyma River south of Chersky where an attempt is being made to recreate the northern subarctic steppe grassland ecosystem that flourished in the area during the Last Glacial Period . Regeneration In February 2012, a team of scientists from the Institute of Cell Biophysics of the Russian Academy of Sciences announced they had successfully regenerated specimens from fruit that had been frozen for 31,800 (±300) years according to their radiocarbon dating. The accomplishment surpasses the previous record for the oldest plant material brought back to life, of 2000 years set by Judean date palm ( Phoenix dactylifera ) seeds. The team led by David Gilichinsky used material recovered in 2007 by Stakhov et al. Gilichinsky, who for many years was head of the Geocryology Lab in the Institute for Physicochemical and Biological Problems in Soil Science at the Russian Academy of Sciences in Moscow, died in February 2012, just before the paper was published. He was recognized by the team as a \"pioneer in studying microorganisms in Siberian and Antarctic permafrost, his achievement attracted scientists from all over the world to research on permafrost life systems.\" Initially, the researchers attempted to germinate mature seeds recovered from the fruit. When these attempts failed, they turned to the fruit itself and were able to culture adult plants from placental tissue . The team grew 36 specimens from the tissue. The plants looked identical to modern specimens until they flowered, at which time the petals were observed to be longer and more widely spaced than modern versions of the plant. The reasons for the observed variations are not known. Seeds produced by the regenerated plants germinated at a 100% success rate, compared with 90% for modern plants. According to Robin Probert of the Millennium Seed Bank , the demonstration is \"by far the most extraordinary example of extreme longevity for material from higher plants\" to date. It is not surprising to find living material this old, but is surprising that viable material could be recovered, she added. The Russian scientists speculated that the tissue cells were rich in sucrose which acted as a preservative. They also noted that DNA damage caused by gamma radiation from natural ground radioactivity at the site was unusually low for the plant material's age and is comparable to levels observed in 1300-year-old",
+      "id": "HotpotQA-validation-00000048/03_Silene-stenophylla.html_c_1",
+      "doc_id": "HotpotQA-validation-00000048/03_Silene-stenophylla.html",
+      "community_id": 2,
+      "score": 17.523773
+    },
+    {
+      "text": "Aspidistra / ˌ æ s p ɪ ˈ d ɪ s t r ə / is a genus of flowering plants in the family Asparagaceae , subfamily Convallarioideae , native to eastern and southeastern Asia, particularly China and Vietnam . They grow in shade under trees and shrubs. Their leaves arise more or less directly from ground level, where their flowers also appear. The number of species known has increased considerably from the 1980s onwards, with around 100 accepted as of July 2013 [update] . Aspidistra elatior is common worldwide as a foliage house plant that is very tolerant of neglect. It and other species can also be grown in shade outside, where they are generally hardy to −15 °C (5 °F). Description Species of Aspidistra are perennial herbaceous plants growing from rhizomes . The leaves are either solitary or are grouped in small \"tufts\" of two to four. They arise more or less directly from the rhizome, rather than being borne on stems. Each leaf has a long stalk ( petiole ) and a blade with many veins. The flowering stem ( scape ) is usually very short so that the flowers appear low down among the leaves. The fleshy flowers are bell-, urn- or cup-shaped. They vary considerably in size and shape, although few are showy. The flowers of A. longipedunculata are yellow and, unusually for the genus, are borne on scapes up to 20 cm (8 in) high. A. grandiflora has spider-like flowers up to 12 cm (5 in) across. The flower has a large stigma with a flattened top. The fruit is a berry , often with a single seed. Taxonomy The genus Aspidistra was named by the English botanist John Ker Gawler in 1822, as a blend of Greek ασπίς/ασπίδ- aspid- , meaning shield, and the name of the sister genus Tupistra . The genus was at one time placed in a broadly defined Liliaceae, along with many other lilioid monocots . It has also been placed in the families Convallariaceae and Ruscaceae. The APG III system of 2009 places it in the family Asparagaceae , subfamily Convallarioideae . Species Aspidistra is a genus that was largely ignored by field botanists until the 1980s onwards, and there has been a rapid rise in the number of recognised species since then. Some 8 to 10 species were known in the late 1970s; 30 new species were described from China in the 1980s. Subsequently, more new species were found in Vietnam. The online Flora of China uses a narrow definition of species, producing a total of",
+      "id": "HotpotQA-validation-00007299/00_Aspidistra.html_c_0",
+      "doc_id": "HotpotQA-validation-00007299/00_Aspidistra.html",
+      "community_id": 6,
+      "score": 17.051025
+    },
+    {
+      "text": "Some 8 to 10 species were known in the late 1970s; 30 new species were described from China in the 1980s. Subsequently, more new species were found in Vietnam. The online Flora of China uses a narrow definition of species, producing a total of about 55, saying that the genus has \"never been well studied\". In 2008, Tillich provided the key to the 93 species known at that time. Plants of the World Online currently includes: Aspidistra acetabuliformis Y.Wan & C.C.Huang – China (Guangxi) Aspidistra alata Tillich – Vietnam (Cao Bang) Aspidistra albiflora C.R.Lin, W.B.Xu & Yan Liu Aspidistra albopurpurea Aver. & Tillich Aspidistra alternativa D.Fang & L.Y.Yu – China (Guangxi) Aspidistra anomala Aver. & Tillich Aspidistra arnautovii Tillich – Vietnam (Hai Phong) Aspidistra atrata Aver., Tillich & B.H.Quang Aspidistra atroviolacea Tillich (synonym A. renatae Bräuchler ) – Vietnam (central) Aspidistra attenuata Hayata Aspidistra australis S.Z.He & W.F.Xu Aspidistra austrosinensis Y.Wan & C.C.Huang – China (Guangxi) Aspidistra austroyunnanensis G.W.Hu, Lei Cai & Q.F.Wang Aspidistra averyanovii N.S.Lý & Tillich Aspidistra babensis K.S.Nguyen, Aver. & Tillich Aspidistra bamaensis C.R.Lin, Y.Y.Liang & Yan Liu Aspidistra basalis Tillich Aspidistra bella Aver., Tillich & K.S.Nguyen Aspidistra bicolor Tillich – Vietnam (Thai Nguyen) Aspidistra bogneri Tillich – Vietnam (Ninh Binh) Aspidistra brachypetala C.R.Lin & B.Pan Aspidistra brachystyla Aver. & Tillich – Vietnam Aspidistra cadamensis N.S.Lý & Tillich Aspidistra caespitosa C.Pei – China (Sichuan) Aspidistra campanulata Tillich – Vietnam (Tuyen Quang) Aspidistra carinata Y.Wan & X.H.Lu – China (N Guangxi) Aspidistra carnosa Tillich – Vietnam (Lam Dong) Aspidistra cavicola D.Fang & K.C.Yen – China (NW Guangxi) Aspidistra cerina G.Z.Li & S.C.Tang – China (Guangxi) Aspidistra chishuiensis S.Z.He & W.F.Xu",
+      "id": "HotpotQA-validation-00007299/00_Aspidistra.html_c_1",
+      "doc_id": "HotpotQA-validation-00007299/00_Aspidistra.html",
+      "community_id": 6,
+      "score": 16.149996
+    },
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii Fosberg & Sachet ( French Polynesia ) Myrsine africana L. ( Africa , Southern Asia and the Azores ) Myrsine andersonii Fosbert & Sachet (French Polynesia) Myrsine australis – Red matipo, mapou (New Zealand) Myrsine brownii Fosbert & Sachet (French Polynesia) Myrsine bullata Pipoly ( Peru ) Myrsine ceylanica (Mez) Wadhwa (Sri Lanka) Myrsine cheesemanii (Mez) Hemsl. ex Prain (Cook Islands) Myrsine collina Nadeaud ( Society Islands ) Myrsine degeneri Hosaka ( Oʻahu in Hawaiʻi) Myrsine diazii Pipoly ( Peru ) Myrsine divaricata Cunn (New Zealand) Myrsine falcata Nadeaud (French Polynesia) Myrsine fasciculata (J.Moore) Fosberg & Sachet (French Polynesia) Myrsine fernseei (Mez) Hosaka ( Kauaʻi in Hawaiʻi) Myrsine fosbergii Hosaka ( Oʻahu and Kauaʻi in Hawaiʻi) Myrsine fusca (J.Moore) Fosberg & Sachet (French Polynesia)",
+      "id": "HotpotQA-validation-00001676/00_Myrsine.html_c_0",
+      "doc_id": "HotpotQA-validation-00001676/00_Myrsine.html",
+      "community_id": 2,
+      "score": 14.692713
+    },
+    {
+      "text": "Myrsine is a genus of flowering plants in the family Primulaceae . It was formerly placed in the family Myrsinaceae before this was merged into the Primulaceae. It is found nearly worldwide, primarily in tropical and subtropical areas. It contains over 280 species, including several notable radiations, such as the matipo of New Zealand and the kōlea of Hawaiʻi (the New Zealand \"black matipo\", Pittosporum tenuifolium , is not related to Myrsine ). In the United States , members of this genus are known as colicwood . Some species, especially M. africana , are grown as ornamental shrubs. The leathery, evergreen leaves are simple and alternate, with smooth or toothed margins and without stipules . The one-seeded, indehiscent fruit is a thin-fleshed globose drupe . The flowers and fruits often do not develop until after leaf fall and thus appear naked on the branches. The fruits often do not mature until the year after flowering. The calyx is persistent. The Pacific basin and New World species formerly separated in the genera Rapanea and Suttonia (distinguished from the African and Southeast Asian Myrsine sensu stricto by having the style absent and staminal tube and filaments completely adnate to the corolla ) are now generally included in Myrsine . Selected species Myrsine adamsonii Fosberg & Sachet ( French Polynesia ) Myrsine africana L. ( Africa , Southern Asia and the Azores ) Myrsine andersonii Fosbert & Sachet (French Polynesia) Myrsine australis – Red matipo, mapou (New Zealand) Myrsine brownii Fosbert & Sachet (French Polynesia) Myrsine bullata Pipoly ( Peru ) Myrsine ceylanica (Mez) Wadhwa (Sri Lanka) Myrsine cheesemanii (Mez) Hemsl. ex Prain (Cook Islands) Myrsine collina Nadeaud ( Society Islands ) Myrsine degeneri Hosaka ( Oʻahu in Hawaiʻi) Myrsine diazii Pipoly ( Peru ) Myrsine divaricata Cunn (New Zealand) Myrsine falcata Nadeaud (French Polynesia) Myrsine fasciculata (J.Moore) Fosberg & Sachet (French Polynesia) Myrsine fernseei (Mez) Hosaka ( Kauaʻi in Hawaiʻi) Myrsine fosbergii Hosaka ( Oʻahu and Kauaʻi in Hawaiʻi) Myrsine fusca (J.Moore) Fosberg & Sachet (French Polynesia)",
+      "id": "HotpotQA-validation-00001676/02_Rapanea.html_c_0",
+      "doc_id": "HotpotQA-validation-00001676/02_Rapanea.html",
+      "community_id": 2,
+      "score": 14.692713
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000949/01_Tatton-Park.html_3",
+      "summary": "**Title**: Tatton Park Heritage & Gardens\n\n**Summary**: Tatton Park is a historic estate in Cheshire featuring a Grade I-listed mansion, Grade II*-listed gardens, and 2,000 acres of Grade II*-listed parkland. Designed by Humphrey Repton, the grounds include a Japanese Garden restored in the 2000s, an Arboretum with 281 species, and a deer park established by royal charter in 1290. Architectural highlights include the 1810 Knutsford Lodge by Lewis Wyatt and the 1833 Rostherne Lodge by James Hakewill, both showcasing Greek Doric elements. The estate hosts RHS shows, festivals, and public events while offering recreational activities like walking, cycling, and sailing.\n\n**Keywords**: Tatton Park, listed buildings, Japanese Garden, deer park, Humphrey Repton",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "summary": "**Title**: Stauntonia Plant Genus\n\n**Summary**:  \nStauntonia is a genus of flowering plants in the Lardizabalaceae family, named after 19th-century British diplomat George Staunton, who introduced it from China. The genus comprises numerous species, many of which were reclassified or described by modern botanists such as Christenh. and H.N.Qin. These species are primarily native to East and Southeast Asia, with notable diversity in China. The list reflects ongoing taxonomic revisions, with many names updated in recent years.\n\n**Keywords**:  \nStauntonia, Lardizabalaceae, George Staunton, flowering plants, taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "summary": "**Title**: 32,000-Year-Old Silene Regeneration\n\n**Summary**: Russian-led researchers regenerated viable Silene stenophylla plants from 31,800-year-old placental tissue found in permafrost at Duvanny Yar, Siberia, smashing the previous record for revived plant material. The ancient campion, preserved in fossil ground-squirrel burrows within the yedoma ice complex, flowered with slightly longer petals than modern counterparts and produced seeds with 100 % germination. The breakthrough revealed exceptional cryopreservation by sucrose-rich cells and minimal DNA damage, inspiring efforts to resurrect extinct species and prompting the later discovery of a 30,000-year-old viable giant virus in the same permafrost.\n\n**Keywords**: Silene stenophylla, permafrost regeneration, ancient plant revival, Duvanny Yar, Pleistocene seeds",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002137/01_Fallow-deer.html_1",
+      "summary": "**Title**: Fallow Deer Genus Dama  \n\n**Summary**:  \nThe text centers on the genus Dama, whose two living representatives are the European fallow deer (Dama dama) and the larger Persian fallow deer (D. mesopotamica). It details their physical traits—palmate antlers, seasonal coat changes—and adaptable, region-specific diets. Nomenclature across languages reflects the deer’s pale coloration and antler shape. Evolutionarily, Dama emerged near the Pliocene-Pleistocene boundary (~2.6 Ma) and diversified through the Middle Pleistocene; palmate antlers evolved only in later species such as D. pelleponesica and D. clactoniana, the latter considered ancestral to modern forms. Extinct species formerly placed in Pseudodama are discussed, and mitochondrial DNA places Dama as the closest living relative of the giant extinct Megaloceros.  \n\n**Keywords**:  \nDama, fallow deer, palmate antlers, Pleistocene evolution, Megaloceros",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0",
+      "summary": "**Title**: Von Braun Ferry Rocket\n\n**Summary**: The von Braun ferry rocket was an influential 1950s shuttle-spacecraft concept introduced by Wernher von Braun in his Collier’s magazine series “Man Will Conquer Space Soon!” Envisioned as a reusable launch system, the design helped popularize ideas of routine human spaceflight and has since been re-created in modern flight and spaceflight simulators such as Orbiter and X-Plane.\n\n**Keywords**: von Braun ferry rocket, reusable launch system, Collier’s space series, Orbiter simulator, X-Plane",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/00_Apium.html_0",
+      "summary": "**Title**: Apium Genus Overview\n\n**Summary**:  \nApium is a genus of 12 flowering plant species in the Apiaceae family, notable for its disjunct global distribution across the Northern and Southern Hemispheres. These herbs, often found in wet or marshy habitats, feature pinnate leaves and small white flowers in compound umbels. The most economically significant species, Apium graveolens, is the wild ancestor of celery, celeriac, and leaf celery. The genus also serves as the type genus for both the Apiaceae family and the Apiales order.\n\n**Keywords**:  \nApium, Apiaceae, Apium graveolens, celery, plant taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002343/01_Yemen.html_35",
+      "summary": "**Title**: Yemeni Cultural Heritage & Arts\n\n**Summary**:  \nYemen’s cultural landscape blends ancient traditions with modern expressions across theatre, media, sport, and UNESCO-recognized heritage. Theatre thrives in urban centers, staging Yemeni adaptations of Arab and Western classics, while radio and—especially—television serve low-literacy audiences. Football dominates sport, complemented by mountain and coastal recreation and unique tribal contests like camel-jumping. Four World Heritage sites anchor Yemen’s global significance: the skyscraper city of Shibam, the 2,500-year-old Old City of Sanaa, the medieval university town of Zabid, and the biodiverse Socotra Archipelago with its endemic species and Soqotri language.\n\n**Keywords**: Yemeni theatre, World Heritage sites, Socotra biodiversity, football, camel jumping",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000037/01_World-War-II-casualties.html_49",
+      "summary": "**Title:** World War II Casualties by Country\n\n**Summary:**  \nThese text chunks compile detailed casualty statistics for multiple nations during World War II, emphasizing both military and civilian losses. They highlight the staggering human cost of the war, with countries like Poland suffering up to 6 million deaths, including millions of Jews and ethnic Poles. Other nations such as the Netherlands, Norway, Greece, and the Philippines also experienced significant losses due to occupation, famine, massacres, and forced labor. The data includes breakdowns by cause—combat, Holocaust, famine, and atrocities—and reflects ongoing scholarly debates over exact figures.\n\n**Keywords:**  \nWorld War II casualties, Holocaust deaths, civilian war losses, military fatalities, occupation atrocities",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004740/02_Santas-Little-Helper.html_1",
+      "summary": "**Title**: Santa's Little Helper Profile\n\n**Summary**: Santa's Little Helper is the Simpson family’s pet greyhound, introduced in the 1989 Christmas special when Homer and Bart adopt him after his racing owner abandons him. Across the series he anchors multiple episodes—attending obedience school, fathering puppies, serving as Duff mascot, and briefly becoming a police dog—while usually behaving like a real dog rather than a talking cartoon animal. His storylines often mirror staff experiences and popular-culture references, and he has been both cherished and neglected by the family, culminating in arcs where he runs away or is replaced. The character ranks among TV’s most memorable pets, spawning extensive merchandise, media accolades, and even real-world tributes such as themed drinks and businesses.\n\n**Keywords**: The Simpsons, Santa’s Little Helper, greyhound, TV pets, merchandise",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000949/01_Tatton-Park.html_1",
+      "summary": "**Title**: Tatton Park Estate History\n\n**Summary**: Tatton Park is a 2,000-acre National Trust estate in Cheshire, featuring a neoclassical mansion, medieval Old Hall, extensive gardens, and a working farm. Originally owned by the Egerton family from 1598 until 1958, the estate expanded through centuries of architectural enhancements and hosted royalty at lavish house parties. During World War II, its parkland served as the primary training ground for Allied paratroopers, with 60,000 trainees making their first jumps there. After the last Lord Egerton's death, the property transferred to the National Trust and is now a major visitor attraction managed by Cheshire East Council.\n\n**Keywords**: Tatton Park, Egerton family, parachute training, National Trust, historic estate",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "summary": "**Title**: Joe Scarborough Political Feuds & Career\n\n**Summary**:  \nJoe Scarborough, former Republican congressman turned MSNBC host, has been a central figure in high-profile political conflicts, most notably with Donald Trump, who revived debunked conspiracy theories about Scarborough’s involvement in a former aide’s death. Scarborough’s political career was marked by staunch conservatism, including anti-abortion stances and support for budget cuts, though he also took moderate positions on environmental and human rights issues. After resigning from Congress in 2001, he transitioned into media, creating and co-hosting *Morning Joe*, which became a major platform for political discourse and a frequent target of Trump’s attacks.\n\n**Keywords**:  \nJoe Scarborough, Donald Trump feud, Morning Joe, political controversy, media career",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002855/01_Damnatio-memoriae.html_8",
+      "summary": "**Title**: Damnatio Memoriae Across History\n\n**Summary**:  \nDamnatio memoriae—the deliberate erasure of a person’s memory and legacy—has been practiced from ancient Rome to modern regimes, manifesting through statue removals, name changes, and digital alterations. Rather than erasing history, these acts often preserve negative memory, turning the dishonored into martyrs or symbols of resistance. Modern examples span post-Soviet decommunization, North Korea’s deletion of executed officials, and the UK’s post-scandal removal of Jimmy Savile’s public presence. Scholars distinguish between symbolic condemnation and actual historical erasure, noting that such destruction keeps memory alive, with vandals acting as unintended agents of remembrance.\n\n**Keywords**:  \ndamnatio memoriae, memory erasure, monument removal, historical negationism, unperson",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002698/00_Catuaba.html_2",
+      "summary": "**Title**: Catuaba Bark Research\n\n**Summary**: Multiple Brazilian tree barks are marketed as “catuaba,” most commonly Trichilia catigua and Erythroxylum vaccinifolium. Traditional medicine uses these infusions as aphrodisiacs and CNS stimulants, while commercial blends such as Catuama combine T. catigua with guaraná and other herbs. Laboratory studies report antidepressant-like effects linked to dopamine and serotonin modulation in rodents, and catuabine alkaloids show antibacterial and anti-HIV activity in mice. Analytical methods have been validated to quantify marker compounds like cinchonain Ib in bark and phytopharmaceuticals.\n\n**Keywords**: catuaba, Trichilia catigua, aphrodisiac, catuabine, phytochemical analysis",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "summary": "**Title**: Aspidistra Genus Diversity\n\n**Summary**: Aspidistra is a genus of shade-loving, rhizomatous perennial herbs in the asparagus family (Asparagaceae, subfamily Convallariodeae) native to eastern and southeastern Asia, especially China and Vietnam. Long overlooked by botanists, only 8–10 species were known before the 1980s, but intensive fieldwork—primarily in China and Vietnam—has since raised the accepted total to roughly 100 species. The plants bear ground-level, often inconspicuous, bell- or cup-shaped flowers and are cultivated worldwide as tough indoor or shade-garden foliage plants. Taxonomic revisions continue, with regional floras and monographs (e.g., Tillich 2008) enumerating over 90 named species, many recently described and narrowly endemic.\n\n**Keywords**: Aspidistra, species discovery, China, Vietnam, taxonomy",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_2",
+      "summary": "**Title**: Thor: The Dark World Production\n\n**Summary**:  \nThe production of *Thor: The Dark World* focused on deepening character arcs and expanding the mythological universe. Director Alan Taylor emphasized a darker, more mature tone, exploring themes of revenge, redemption, and familial conflict. Key characters like Thor, Loki, Jane Foster, and Malekith were given more emotional complexity, with actors like Chris Hemsworth and Tom Hiddleston pushing for more human and vulnerable portrayals. The film also expanded the Asgardian world, with enhanced roles for Heimdall, Frigga, and Sif, and introduced new characters like Malekith and The Collector to broaden the Marvel Cinematic Universe.\n\n**Keywords**:  \nThor, Loki, Malekith, Asgard, Marvel",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "summary": "**Title**: Morning Joe Controversies & Feuds\n\n**Summary**:  \nMorning Joe has repeatedly found itself at the center of media firestorms, from its 2009–2013 Starbucks sponsorship that drew mockery from Jon Stewart to on-air gaffes like Joe Scarborough’s F-bomb and Mark Halperin’s slur against President Obama. High-profile clashes include Scarborough’s on-air spats with Rush Limbaugh over Republican loyalty, a viral 2013 interview in which Russell Brand scolded the hosts for unprofessional banter, and a 2017 Twitter war with Donald Trump that escalated into allegations of National Enquirer blackmail. Recurring themes are accusations of superficiality, lapses in journalistic decorum, and the show’s shifting relationship with political power.\n\n**Keywords**:  \nMorning Joe controversies, Starbucks sponsorship, Jon Stewart feud, Trump Twitter war, on-air gaffes",
+      "is_seed": false,
+      "expand_score": 0.8691744804382324
+    },
+    {
+      "community_key": "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "summary": "**Title**: Sonerila Genus Diversity  \n\n**Summary**:  \nThe text chunks collectively catalogue the genus Sonerila (family Melastomataceae), a primarily Asian group of ~175 herbaceous or sub-shrub species distinguished by three-petaled flowers, opposite leaves, and scorpioid cymes. The lists enumerate roughly 200 accepted taxa—ranging from Sonerila affinis to S. zeylanica—highlighting centers of diversity in India, Sri Lanka, and the Indo-Pacific. Many species are micro-endemics with small populations, implying high conservation risk, although formal IUCN assessments remain incomplete.  \n\n**Keywords**:  \nSonerila, Melastomataceae, three-petaled, Asian flora, conservation",
+      "is_seed": false,
+      "expand_score": 0.8240162134170532
+    },
+    {
+      "community_key": "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "summary": "**Title**: Apiaceae Plant Family Overview\n\n**Summary**:  \nThe Apiaceae family, also known as Umbelliferae, comprises over 3,800 aromatic species across 446 genera, including economically significant plants like carrot, parsley, celery, and coriander. Characterized by umbrella-shaped flower clusters (umbels), these herbs are valued for culinary, medicinal, and ecological roles—many serve as companion plants attracting beneficial insects. While widely cultivated for edible roots, seeds, and aromatic oils, some species contain toxic compounds like furanocoumarins, causing photodermatitis, or are highly poisonous (e.g., poison hemlock). The family also includes phototoxic species such as giant hogweed and historically significant plants used for poisons, dyes, or incense.\n\n**Keywords**:  \nApiaceae, umbellifers, phototoxicity, culinary herbs, companion planting",
+      "is_seed": false,
+      "expand_score": 0.8124898076057434
+    },
+    {
+      "community_key": "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "summary": "**Title:** Morning Joe Show Evolution  \n\n**Summary:**  \nMorning Joe is MSNBC’s weekday morning talk show (6–10 a.m. ET) created by Joe Scarborough after Don Imus’s 2007 cancellation. Starting as a rotating audition program, it secured the slot in July 2007 and gradually out-rated CNN’s morning offerings while consistently trailing Fox & Friends. The show expanded to a fourth hour in 2022 and spun off radio, weekend-recap, and pre-dawn editions (Way Too Early, Morning Joe First Look). Its hallmark is a revolving panel of high-profile journalists, ex-politicos, and analysts—e.g., Mika Brzezinski, Willie Geist, Jen Psaki, Chris Matthews, Peggy Noonan—who dissect politics, policy, and culture from 30 Rock.  \n\n**Keywords:** MSNBC, Joe Scarborough, Mika Brzezinski, political talk show, Morning Joe spinoffs",
+      "is_seed": false,
+      "expand_score": 0.8051326870918274
+    },
+    {
+      "community_key": "HotpotQA-validation-00000048/01_Silene.html_1",
+      "summary": "**Title**: Silene Plant Genus Research\n\n**Summary**:  \nSilene, the largest genus in the Caryophyllaceae family with ~900 species, has served as a long-standing model in evolutionary biology and ecology. Its varied sexual systems—hermaphroditic, dioecious, gynodioecious—have enabled landmark studies on cytoplasmic male sterility, chromosomal sex determination, and sex-ratio evolution. Beyond genetics, Silene is used to investigate speciation, heavy-metal adaptation, and mitochondrial genome expansion, while also supporting pollinators like flies and moths. Culturally, species such as S. undulata are used in Xhosa divination rituals, and S. vulgaris is consumed as a Mediterranean food plant.\n\n**Keywords**:  \nSilene, sex determination, cytoplasmic male sterility, gynodioecy, model genus",
+      "is_seed": false,
+      "expand_score": 0.7946105003356934
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "summary": "**Title**: Myrsine Plant Diversity\n\n**Summary**:  \nThe genus Myrsine, now classified within Primulaceae, comprises over 280 species of leathery-leaved shrubs and small trees distributed mainly in tropical and subtropical regions worldwide. Notable adaptive radiations occur in New Zealand (e.g., red matipo, mapou) and Hawaiʻi (kōlea), with additional endemics across French Polynesia, Australia, Peru, Africa, and the Pacific islands. Formerly segregated genera Rapanea and Suttonia are merged into Myrsine, expanding its morphological and geographic range. Many species exhibit delayed fruit maturation and flowers that appear on leafless branches, contributing to their distinctive ecology and ornamental appeal.\n\n**Keywords**: Myrsine, Primulaceae, Pacific flora, adaptive radiation, tropical shrubs",
+      "is_seed": false,
+      "expand_score": 0.784982442855835
+    },
+    {
+      "community_key": "HotpotQA-validation-00001676/02_Rapanea.html_2",
+      "summary": "**Title**: Myrsine Genus Overview  \n\n**Summary**:  \nMyrsine is a large, nearly worldwide genus of ~280 evergreen shrubs and trees in the Primulaceae family, centered in tropical and subtropical regions. Formerly split among Myrsinaceae, Rapanea, and Suttonia, it now unites all species under Myrsine, characterized by leathery alternate leaves, small flowers, and one-seeded drupes that often mature a year after flowering. The genus includes notable island radiations such as the kōlea of Hawaiʻi and the matipo of New Zealand, plus ornamental species like M. africana.  \n\n**Keywords**: Myrsine, Primulaceae, island radiation, kōlea, matipo",
+      "is_seed": false,
+      "expand_score": 0.7824220657348633
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000949/01_Tatton-Park.html_3",
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "HotpotQA-validation-00002137/01_Fallow-deer.html_1",
+      "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0",
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00002343/01_Yemen.html_35",
+      "HotpotQA-validation-00000037/01_World-War-II-casualties.html_49",
+      "HotpotQA-validation-00004740/02_Santas-Little-Helper.html_1",
+      "HotpotQA-validation-00000949/01_Tatton-Park.html_1",
+      "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "HotpotQA-validation-00002855/01_Damnatio-memoriae.html_8",
+      "HotpotQA-validation-00002698/00_Catuaba.html_2",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_2"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000949/01_Tatton-Park.html_3",
+      "HotpotQA-validation-00006529/01_Stauntonia.html_0",
+      "HotpotQA-validation-00000048/03_Silene-stenophylla.html_2",
+      "HotpotQA-validation-00002137/01_Fallow-deer.html_1",
+      "HotpotQA-validation-00001238/02_Von-Braun-Ferry-Rocket.html_0",
+      "HotpotQA-validation-00000911/00_Apium.html_0",
+      "HotpotQA-validation-00002343/01_Yemen.html_35",
+      "HotpotQA-validation-00000037/01_World-War-II-casualties.html_49",
+      "HotpotQA-validation-00004740/02_Santas-Little-Helper.html_1",
+      "HotpotQA-validation-00000949/01_Tatton-Park.html_1",
+      "HotpotQA-validation-00000475/01_Joe-Scarborough.html_3",
+      "HotpotQA-validation-00002855/01_Damnatio-memoriae.html_8",
+      "HotpotQA-validation-00002698/00_Catuaba.html_2",
+      "HotpotQA-validation-00007299/00_Aspidistra.html_6",
+      "HotpotQA-validation-00000829/00_Thor-The-Dark-World.html_2",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_6",
+      "HotpotQA-validation-00002965/00_Sonerila.html_4",
+      "HotpotQA-validation-00000911/03_Apiaceae.html_6",
+      "HotpotQA-validation-00000475/00_Morning-Joe.html_3",
+      "HotpotQA-validation-00000048/01_Silene.html_1",
+      "HotpotQA-validation-00001676/00_Myrsine.html_2",
+      "HotpotQA-validation-00001676/02_Rapanea.html_2"
+    ],
+    "allowed_chunk_pool_size": 77,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

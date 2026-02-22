@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001144",
+  "question": "The 1989 blockbuster adaptation of a comic book vigilante was co-produced by Jon Peters alongside a Hollywood executive who later became the chief executive of which entertainment company?",
+  "gold_answer": "Mandalay Entertainment",
+  "llm_answer": "The context does not specify which entertainment company the unnamed Hollywood executive later led.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the entertainment company led by the Hollywood executive. However, it fails to answer the question, which is explicitly answered in the Gold Answer ('Mandalay Entertainment'). The retrieved context does mention Mandalay Entertainment, but the Model Answer does not utilize this information to provide the correct response."
+  }
+}

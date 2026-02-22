@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c3a2a387",
+  "question": "How was the city of Mogador affected by both the French and the Berbers, according to the novel's account of its bombardment and subsequent destruction?",
+  "gold_answer": "Mogador was bombarded by the French and was left in ruins by the Berbers.",
+  "llm_answer": "According to the novel's account of the bombardment and subsequent destruction of the city of Mogador, the city was affected by both the French and the Berbers in the following ways:\n\n- The French bombarded the city for 28 hours, causing significant damage and loss of life. The Moorish authorities and many inhabitants fled, leaving the city unprotected against the wild tribes.\n- The Berbers and Arab tribes, aided by the Moorish rabble, plundered the city from within. They massacred or buried many Jews, subjected their wives to plunder, and left the rest wandering naked and starving on the desolate coast or hidden in the mountains.\n- The Berbers not only plundered the Jews but also the Moors who had escaped from the city laden with their booty, as a result of their own threats and cowardice.\n- The city was sacked and fired by the wild tribes, and many of its inhabitants were left homeless and destitute.\n\nIt is worth noting that the novel also mentions the role of the Moorish authorities in the destruction of the city. The Deputy-Governor, Sidi Abdallah Deleero, refused to allow the British Consul's family and other detained Europeans to leave the city, despite their strenuous remonstrances, and even peremptorily refused permission for the wife of the Consul to leave, citing a cruel sophism.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Mogador was bombarded by the French and left in ruins by the Berbers. It provides additional details about the bombardment, the plundering by Berbers and Arabs, and the plight of the city's inhabitants, all of which are supported by the Retrieved Context. The Model Answer also includes relevant contextual information about the role of Moorish authorities, which is consistent with the context and enhances the understanding of the events."
+  }
+}

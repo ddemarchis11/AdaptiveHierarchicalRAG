@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006659",
+  "question": "IS Universidad de Oriente part of the same public university system as California State University, Dominguez Hills?",
+  "gold_answer": "no",
+  "llm_answer": "No, Universidad de Oriente is not part of the same public university system as California State University, Dominguez Hills. \n\nThe Universidad de Oriente is a university located in Venezuela, and it was founded in 1958. \n\nCalifornia State University, Dominguez Hills, on the other hand, is a public university in California, and it was founded in 1960. It is part of the California State University (CSU) system.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Universidad de Oriente is not part of the same public university system as California State University, Dominguez Hills, aligning with the Gold Answer. It provides additional context about the founding years and locations of both universities, which is relevant and supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

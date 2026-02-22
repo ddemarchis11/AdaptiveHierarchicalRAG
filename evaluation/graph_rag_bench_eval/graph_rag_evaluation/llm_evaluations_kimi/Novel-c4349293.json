@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c4349293",
+  "question": "What is the familial relationship between Muley Abd Errahman and Muley Suleiman as presented in the genealogical accounts of the narrative?",
+  "gold_answer": "Muley Abd Errahman was the nephew of Muley Suleiman.",
+  "llm_answer": "The provided context does not specify the familial relationship between Muley Abd Errahman and Muley Suleiman.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the familial relationship between Muley Abd Errahman and Muley Suleiman. However, it fails to answer the user's question, which is explicitly addressed in the Gold Answer. The Gold Answer states that Muley Abd Errahman was the nephew of Muley Suleiman, but this fact is not mentioned in the Model Answer, resulting in a score of 0 for correctness and evidence coverage."
+  }
+}

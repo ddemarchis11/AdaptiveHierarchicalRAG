@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5cf8bad1",
+  "question": "Throughout her life, Dr. Elsie Inglis made significant contributions to medicine and humanitarian work, such as founding and leading the Scottish Women's Hospitals, aiding the Serbian Army during wartime, addressing the Sanitary Congress, and extending the work of the Red Cross among many nations. She also earned her M.B., C.M. in 1899 from the University of Edinburgh. What were some of these major achievements, and what formal recognitions did Dr. Inglis receive for her efforts?",
+  "gold_answer": "Dr. Inglis founded and led the Scottish Women's Hospitals, helped the Serbian Army, addressed the Sanitary Congress, carried the work of the Red Cross among many nations, and graduated M.B., C.M. in 1899 from the University of Edinburgh.",
+  "llm_answer": "The context shows that Dr. Inglis raised and led an 80-woman Scottish Women’s Hospitals unit to serve the Serbian Army, gaining British permission for the venture and working with wounded soldiers for fifteen months. It mentions she qualified by passing the Triple Qualification examination in 1892 after clinical work in Glasgow, but it does not list any formal honours or awards she received.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Dr. Inglis's leadership of the Scottish Women's Hospitals and her work aiding the Serbian Army, which aligns with the Gold Answer. However, it omits other achievements such as addressing the Sanitary Congress, extending Red Cross work, and earning her M.B., C.M. degree in 1899. Additionally, the Model Answer does not provide information on formal recognitions, which were part of the User's question. While some details are grounded in the context, the Model Answer includes unsupported claims about the Triple Qualification examination in 1892, which is not mentioned in the Gold Answer or directly supported by the retrieved context."
+  }
+}

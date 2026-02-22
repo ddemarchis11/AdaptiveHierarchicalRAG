@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3c458c47",
+  "question": "In the description of the natural environment, which region is specifically characterized in the narrative as having luxuriant vegetation?",
+  "gold_answer": "Vegetation is luxuriant in Yucatan.",
+  "llm_answer": "The region specifically characterized as having luxuriant vegetation is the plain near Tagodast, described as \"covered with rich vegetation producing an immense quantity of Argan oil, and the finest fruits.\"",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies Yucatan as the region with luxuriant vegetation, but the Model Answer incorrectly identifies the plain near Tagodast instead. This is not supported by the retrieved context, which does not mention Yucatan or confirm the claim about Tagodast. The Model Answer fails to address the question correctly and does not align with the Gold Answer or the context."
+  }
+}

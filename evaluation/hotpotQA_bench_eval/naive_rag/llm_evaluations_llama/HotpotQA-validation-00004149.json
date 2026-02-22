@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004149",
+  "question": "What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?",
+  "gold_answer": "Saturday",
+  "llm_answer": "I cannot verify the day of the horse race of which ESPN covers both the post position draw and the undercard races.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct day ('Saturday') as stated in the Gold Answer. Additionally, the retrieved context does not directly support the Model Answer's claim of inability to verify the day, as the context includes references to ESPN's coverage of horse races but does not explicitly address the specific day. The Model Answer neither aligns with the Gold Answer nor utilizes the context effectively."
+  }
+}

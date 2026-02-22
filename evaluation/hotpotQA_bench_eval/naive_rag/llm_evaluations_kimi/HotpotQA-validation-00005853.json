@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005853",
+  "question": "Who is the American actress that stars in the movie \"Innocesnce\" and is best known for her role as Alexandra Cabot in a long-running NBC series?",
+  "gold_answer": "Stephanie Caroline March",
+  "llm_answer": "The evidence does not mention any American actress starring in a movie titled “Innocence,” so the requested information cannot be determined from the provided text.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not mention an actress starring in 'Innocence,' while the context clearly identifies Stephanie Caroline March as the actress. The Model Answer fails to provide the correct information and does not align with the retrieved context or the Gold Answer."
+  }
+}

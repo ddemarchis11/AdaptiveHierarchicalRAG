@@ -1,0 +1,243 @@
+{
+  "id": "HotpotQA-validation-00001577",
+  "question": "According to the 2011 census, what was the recorded population of the affluent south Manchester suburb where a British regional airline has its administrative base?",
+  "gold_answer": "26,788",
+  "llm_answer": "According to the 2011 census, the population of Didsbury—the affluent south Manchester suburb where the British regional airline BA Connect had its administrative base—was 26,788.",
+  "context": [
+    {
+      "text": "Didsbury is a suburb of Manchester , England, on the north bank of the River Mersey , 5 miles (8 kilometres) south of Manchester city centre . The population at the 2011 census was 26,788. Within the boundaries of the historic county of Lancashire , there are records of Didsbury existing as a small hamlet as early as the 13th century. Its early history was dominated by being part of the Manor of Withington , a feudal estate that covered a large part of what is now the south of Manchester. Didsbury was described during the 18th century as a township separate from outside influence. In 1745 a section of the Jacobite army including the Duke of Perth crossed the Mersey at Didsbury in the Jacobite march south from Manchester to Derby. Didsbury was largely rural until the mid-19th century, when it underwent development and urbanisation during the Industrial Revolution . It became part of Manchester in 1904. The Royal Society for the Protection of Birds was formed in Didsbury in 1889. History Toponymy Didsbury derives its name from the Anglo-Saxon Dyddi's burg , probably referring to a man known as Dyddi whose stronghold or township it was on a low cliff overlooking a place where the River Mersey could be forded. In the 13th century Didsbury was variously referred to as Dydesbyre, Dydesbiri, Didsbury or Dodesbury. Parish church Church of St James, Didsbury in 2013 A charter granted in about 1260 shows that a corn-grinding mill was operating in Didsbury, along the River Mersey, but the earliest reference to Didsbury is in a document dating from 1235, recording a grant of land for the building of a chapel. The church was named St James Church in 1855. It underwent major refurbishment in 1620 and again in the 19th century, although most of the stonework visible today dates from the 17th century. A parsonage was built next to one of the two public houses that flanked the nearby village green, Ye Olde Cock Inn, so-called because of the cockfighting that used to take place there. The parsonage soon gained a reputation for being haunted; servants refused to sleep on the premises, and it was abandoned in 1850. Local alderman Fletcher Moss bought the house in 1865, and lived in it for more than 40 years. In 1902, he installed a gateway complete with wrought iron gates which he purchased from the soon to be demolished Spread Eagle Hotel in central Manchester which he once owned, at the entrance to the parsonage's garden, which, because of the building's reputation, became known locally as \"the gates to Hell\". The parsonage is now open to the community and",
+      "id": "HotpotQA-validation-00001577/01_Didsbury.html_c_0",
+      "doc_id": "HotpotQA-validation-00001577/01_Didsbury.html",
+      "community_id": 2,
+      "score": 36.68725
+    },
+    {
+      "text": "Northenden is a suburb of Manchester , in Greater Manchester , England, with a population of 15,064 at the 2021 census . It lies on the south side of the River Mersey , 4 miles (6.4 km) west of Stockport and 5 miles (8.0 km) south of Manchester city centre , bounded by Didsbury to the north, Gatley to the east, Sale to the west and Wythenshawe to the south. Historically a rural township and parish within the hundred of Bucklow in Cheshire , despite unplanned urbanisation and population growth in its neighbours in the 19th century, Northenden remained a comparatively rural and unpopulated area which spanned the hamlets of Lawton Moor, Northern Moor , Rose Hill and a part of what is now Wythenshawe. By 1866 Northenden had coalesced and became a civil parish . The industrialisation of neighbouring Manchester resulted in overpopulation in the early 20th century. Manchester City Council used the Local Government Act 1929 to extend its boundaries to encompass Northenden in 1931 and throughout the mid-20th century it was redeveloped as an overspill estate . History Northenden was mentioned as Norwordine in the Domesday Book of 1086; its name came from Anglo-Saxon Norþ-worþign = \"north enclosure\". It was then a small farming community with a manor house and woodland. In later times Northenden was sometimes called Northen. There was a weir on the Mersey in the 14th century (where Mill Lane is now), and a mill was set up there to grind corn. It is recorded in the 16th century as belonging to the Tatton family of Wythenshawe Hall , who had the right to make all their tenants use the mill on payment of a fee. The weir and mill were demolished in the early 1960s. As Northenden is on a major (and very old) crossing place of the Mersey on the salt road from Cheshire to Manchester, it prospered in medieval times. The ford was an important way into and out of and into Manchester (now Ford Lane), as there was no bridge over the Mersey between Sale and Stockport , until in 1745 Bonnie Prince Charlie 's army built a troop-bridge out of big poplar tree trunks where the B5095 (Manchester Road, Didsbury) now crosses the Mersey, south of Didsbury , in his abortive attempt to seize the crown of England. The Northenden ford was unusual because its northern and southern ends were not opposite each other, but people using the ford had to wade about 500 feet along the riverbed. The Simon's Bridge was built at the ford in 1901 to help access to Poor's Field, and the rent from this field was used by the",
+      "id": "HotpotQA-validation-00001577/03_Northenden.html_c_0",
+      "doc_id": "HotpotQA-validation-00001577/03_Northenden.html",
+      "community_id": 2,
+      "score": 34.580627
+    },
+    {
+      "text": "BA Connect was a regional airline and a wholly owned subsidiary airline of British Airways . It was headquartered in Didsbury , Manchester, England, it operated a network of domestic and European services from a number of airports in the United Kingdom on behalf of British Airways . The airline operated as a low-cost carrier , with food sold via a ' buy on board ' programme (except for flights to London City Airport ). On 3 November 2006, British Airways announced the sale of BA Connect to Flybe . It formally transferred to Flybe on 25 March 2007. History Dash 8-311Q in 2006 The company was incorporated on 26 January 1970 as Brymon Aviation Limited which operated as Brymon Airways . On 30 July 1993 the company was renamed Brymon Airways Limited to reflect the operating name. The company was purchased by British Airways in 1993 and on 28 March 2002 it was merged with British Regional Airlines and was renamed British Airways Citiexpress Ltd operating as BA CitiExpress . British Airways Citiexpress is recognised for pioneering and attaining CAA approval for the print-at-home boarding pass, one of the first self-service tools of the digital era. The regional operations of British Airways at Birmingham and Manchester, and the operations of the former CityFlyer Express , were integrated into the new airline later in 2002. On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect and operations moved to a low-cost carrier model, with food sold via a ' buy on board ' programme (except for flights to London City Airport ). However, allocated seating and a baggage valet service were still available, while lounge access, tier points and BA Miles remained unaffected for those in the Executive Club. Operationally the new service came into effect on 26 March 2006. BAe 146-200 departing Manchester Airport in 2007 BA Connect handled most of British Airways' domestic and European services that do not serve London’s Heathrow or Gatwick airports. It had hubs in Birmingham , Bristol , London–City , Manchester and Southampton . From these locations the carrier operated services to several northwest European destinations and also to Glasgow , Edinburgh and Aberdeen . A few services also operated from Gatwick. In total, BA Connect flew from 17 airports in the UK and Ireland on 63 routes to major or central regional airports. On 3 November 2006, British Airways chief executive said that he had reached an agreement for Flybe to purchase BA Connect. BA would ensure that Flybe has sufficient funding in order to achieve its growth targets and the transition out of current BA Connect fleet. In return BA would acquire a 15% stake in the new business. The acquisition (which did not include BA Connect routes to London City or from Manchester to New York) would significantly increase the Flybe route network in both the UK and continental Europe, making Flybe the largest regional airline in",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_0",
+      "doc_id": "HotpotQA-validation-00001577/00_BA-Connect.html",
+      "community_id": 1,
+      "score": 28.641636
+    },
+    {
+      "text": "Tafo is a town in Kumasi Metropolitan District in the Ashanti Region of Ghana near the regional capital Kumasi . Tafo is the thirtieth most populous settlement in Ghana, in terms of population, with a population of 60,919 people. Because of the town's population and housing development in recent years, it is debatable whether Tafo is still regarded as a separate town, or already a suburb of Kumasi, the capital of the Ashanti region. The town is near Kumasi, with a distance of approximately 3.3 kilometers to the center of a similar name sounding village named New Tafo and must be distinguished from Tafo (However per traditional/kingship administrative system new Tafo and Old Tafo are basically run by a single Chief who happens to be the leader of the left wing of Kumasi Traditional council. Its therefore under same authority but political administration runs them separately. Nana Tafohene is the Chief of both Tafo which comprises the two). Tarkwa is located just 4.6 km away from Tafo. The city center of Kumasi is located approximately 9.8 kilometers away. Tafo is one of the urban constituencies of the Kumasi Metropolitan Assembly . The town's parliamentary candidate shall have one direct seat to the Parliament of Ghana . History Tafo is also due to its history of a regional headquarters of Ashanti-King, the Tafohene. An important Cocoa Research Institute was opened in June 1938 at Tafo. At one point the institute had 1,000 employees. Now it only has about 200 employees who perform essentially research and monitoring activities in the area of cocoa cultivation. On test fields in the laboratory and the biological control, African locust are tested and developed with specific pathogens. In the census of 18 March 1983, there was 25,688 people living in Tafo. A population estimation for January 2007 indicated 53,165 inhabitants. Healthcare Tafo Hospital, a major hospital in Tafo, is the health care institution of the local population and plays a major role in the overall well-being of the Town's population. Weather In Tafo, so far, the lowest temperature was measured at 12 °C, which is also the lowest temperature registered in Kumasi and Ghana. See also Railway stations in Ghana References External links MSN Map 6°44′9″N 1°36′29″W ﻿ / ﻿ 6.73583°N 1.60806°W ﻿ / 6.73583; -1.60806",
+      "id": "HotpotQA-validation-00006653/02_Tafo.html_c_0",
+      "doc_id": "HotpotQA-validation-00006653/02_Tafo.html",
+      "community_id": 0,
+      "score": 25.349419
+    },
+    {
+      "text": "Eastern Airways was a British regional airline headquartered at Humberside Airport near the village of Kirmington , North Lincolnshire , England. The airline operated domestic, international and private charter flights. Around 1,300,000 passengers flew with the airline per rolling year including on services for KLM Cityhopper, charter operations, and government subsidised public service obligation (PSO) services which would otherwise be commercially unfeasible. The airline had its own hubs in Aberdeen and Humberside . Air Kilroe held a United Kingdom Civil Aviation Authority Type A Operating Licence. It was permitted to carry passengers, cargo and mail on aircraft with 20 or more seats and was IOSA approved. History Early years Co-founded by Bryan Huxford and Richard Lake, the airline started operations in December 1997 with a scheduled route between Humberside and Aberdeen with a leased Swearingen Metro , following KLM UK's withdrawal from the route. In February 1999, it purchased Manchester based Air Kilroe , thereby acquiring an air operator's certificate and a fleet of two BAe Jetstream 32 aircraft. In 2002, the first BAe Jetstream 41 entered the Eastern fleet, the aircraft type which formed the majority of the fleet up until the airline ceased operations. 12 aircraft and their associated routes were transferred from British Airways CitiExpress on 30 March 2003. An Embraer 145 and 135 were also wet-leased from City Airline in 2003, which were then replaced with Saab 2000 aircraft, which peaked at 8 being operated by 2013 including acquisitions from Crossair and other European carriers. In 2006, Eastern Airways wet-leased a Dornier 328 from Cirrus Airlines for six months to operate a Newcastle to London City service before switching this onto the BAe Jetstream 41. Eastern Airways also purchased a Jetstream 41 training simulator . As part of One NorthEast 's \"Passionate People Passionate Places\" campaign for North East England , Eastern Airways had a Jetstream 41 painted in promotional colours. It also featured in the 2007 Sunderland International Airshow . A Saab 2000 was also painted in a promotional 'Aberdeen City and Shire' colour scheme. The airline shut down its hub at the Isle of Man in August 2009, discontinuing routes to Birmingham and Newcastle from the airport. 2010s In July 2010, the airline took delivery of an Embraer 135 with 37 seats and signed a lease on a second, thus adding jet aircraft to their fleet for the first time since the acquisition to replace their previously operated Embraer ERJ aircraft. They were to be used mainly on charter services to central and Eastern Europe; however, they also offered increased flexibility on the airline's scheduled flights. In July 2010, the airline named one of their BAe Jetstream 41 aircraft",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_0",
+      "doc_id": "HotpotQA-validation-00006099/00_Eastern-Airways.html",
+      "community_id": 3,
+      "score": 25.169306
+    },
+    {
+      "text": "In return BA would acquire a 15% stake in the new business. The acquisition (which did not include BA Connect routes to London City or from Manchester to New York) would significantly increase the Flybe route network in both the UK and continental Europe, making Flybe the largest regional airline in Europe. Retention of the London City routes would result in BA retaining the RJ100 aircraft for these domestic and European services. BA had to pay Flybe a sum of money to take on the company due to Flybe actually taking on a company that would cost them money rather than make profits for the foreseeable future. Much concern was expressed at the shedding of routes across Scotland, but Flybe stated that BA Connect routes would be kept and expanded. On 6 March 2007 Flybe stated that they would not be operating any former BA Connect services from Bristol. Consequently, the last flights on any of BA Connect's routes from Bristol was on 24 March 2007. Services BA Connect operated from several destinations that were also served by the parent company, and were part of British Airways destinations . Those that were not served by British Airways itself, mainly UK regional destinations, are listed in British Airways franchise destinations . Fleet Embraer ERJ-145 The BA Connect fleet included the following aircraft, before the sale to Flybe (March 2007) 1 BAe 146-100 (to Flybe) 2 BAe 146-200 (to Flybe) 1 BAe 146-300 (to Flybe) 10 Avro RJ100 (to BA CityFlyer ) 6 Bombardier Dash 8 Q300 (to Flybe) 28 Embraer ERJ 145 (to Flybe) See also List of defunct airlines of the United Kingdom References External links Wikimedia Commons has media related to BA Connect . BA Connect BA Connect Fleet Age BA Connect Fleet Portals : Greater Manchester Companies Aviation",
+      "id": "HotpotQA-validation-00001577/00_BA-Connect.html_c_1",
+      "doc_id": "HotpotQA-validation-00001577/00_BA-Connect.html",
+      "community_id": 1,
+      "score": 23.817816
+    },
+    {
+      "text": "the world, was a founder member of the club and later became its president. Formerly a player for Sale and Cheshire, Desmond played his last game for Manchester club Egor on his 91st birthday. Bedians AFC, an amateur football club that was founded in 1928, share the Underbank Farm ground with Old Bedians RUFC. Didsbury Cricket Club fields four Saturday teams, two Women's teams and a Sunday team. The 1st XI plays in the Cheshire County ECB Premier League . The Women's teams compete in the Cheshire Womens Cricket League, and their junior section play in the Cheshire High Peak Junior Cricket League. It is also home to Manchester Waconians Lacrosse Club and Didsbury Grey's Women's Hockey Team , which do not actually play at the site but at grounds in Belle Vue , that were designed for the XVII Commonwealth Games . Northern Tennis Club, in West Didsbury, is one of Manchester's few racquet clubs; it plays host to an Association of Tennis Professionals tournament annually every July. Public services Withington Community Hospital , opened in 2005, occupies part of the site of the former (and much larger) Withington Hospital, developed on the site of a workhouse some of whose buildings are still evident. Didsbury is covered by the South Manchester Division of Greater Manchester Police. The Towers , formerly the Shirley Institute , was once the home of engineer Daniel Adamson – the driving force behind the Manchester Ship Canal project – and the venue where the decision to build the canal was taken. The house was designed by Salford architect Thomas Worthington , for the editor and proprietor of the Manchester Guardian , John Edward Taylor . Notable people Daniel Adamson Daniel Adamson , promoter of the Manchester Ship Canal , lived at The Towers ( blue plaque – once the Shirley Institute ) on Wilmslow Road from 1874 until his death in 1890. His Grade II listed home, designed by Thomas Worthington for John Edward Taylor , the editor and proprietor of the Manchester Guardian , was the venue for the 1882 meeting at which it was decided to construct the ship canal project. Henry Gustav Simon , German engineer who developed flour milling and coke production in Manchester. Ernest Simon, 1st Baron Simon of Wythenshawe , Lord Mayor of Manchester 1921–1922, MP and Chairman of the BBC Board of Governors . Dame Kathleen Ollerenshaw , mathematician, local politician, co-founder of the Royal Northern College of Music , died there aged 101. Emily Williamson , a pioneer of wildlife protection, was a resident of Didsbury from 1882 to 1912. She founded the Plumage League in 1889 and went on to co-found the Royal Society for the Protection of Birds (RSPB) in 1904. In 1989 a plaque was placed on her former home, the Croft , to",
+      "id": "HotpotQA-validation-00001577/01_Didsbury.html_c_12",
+      "doc_id": "HotpotQA-validation-00001577/01_Didsbury.html",
+      "community_id": 2,
+      "score": 23.035753
+    },
+    {
+      "text": "to one of its founders, Richard Lake, in May 2019. Eastern Airways and Flybe franchise An Eastern BAe Jetstream 41 , operated for Flybe It was announced on 21 September 2017 that Eastern Airways would enter a franchise with Flybe, starting on 29 October 2017. The franchise saw all scheduled flights operated by Eastern Airways carry BE (Flybe) flight numbers. Following Loganair's decision to end its partnership with Flybe, to remain on multiple markets flyBe announced a significant expansion onto routes also operated by Loganair using Eastern Airways to operate the services, largely targeting the Scottish Highlands , including introduction jet service into Sumburgh for the first time as part of the operating plan flyBe contracted Eastern Airways to provide. The last of these new routes was dropped by the end of 2018, citing a lack of demand for two competing airlines given capacity had doubled on many with a static market size. 2020s On 5 March 2020, Flybe entered administration and ceased operations, resulting in Eastern Airways resuming flying under its own brand. Seeking to take advantage of Flybe's demise, the airline announced the opening of a base at Southampton , where Flybe had operated 95% of the airport's flights, with new routes to Manchester and Newcastle, eventually being joined by Belfast City and Dublin , along with pre-existing service to Aberdeen, Leeds Bradford and Teesside . The routes from Manchester were subsequently cancelled. In May 2021, Eastern commenced flying to Gibraltar for the first time, with services from both Birmingham and Southampton airports, however cancelled both routes a year later as international travel remained in slow recovery post Covid-19. The airline also commenced service between Cardiff and Belfast City, seeking to fill another gap left by Flybe's collapse, but suspended the route in early 2022 after the Welsh Government decided to permanently cancel the PSO service between Cardiff and Anglesey suspended during Covid-19, thus rendering the airline's Cardiff base unviable as a single route operation. PSO contracts Eastern Airways had previously operated the Welsh Government PSO service between Cardiff Airport and Anglesey Airport from 2015 until the government removed funding for the service in 2022 and did not reopen the north–south connection to the capital post Covid-19. In December 2021, Eastern Airways was awarded the PSO contract to operate a service between Newquay and London Gatwick which between 2021 and 2024 saw the growth of passenger volumes back to over 85,000 annually between Cornwall and London. Additionally in April 2022 Eastern Airways were awarded another PSO contract in Scotland to operate services between Aberdeen and Wick . The service was the only scheduled flight into Wick, operated by the Scottish Government / Transport Scotland via Highlands and Islands Airports , with the aim of revitalising air travel from the remote region. Both these PSOs remain operated in 2025 on the",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_2",
+      "doc_id": "HotpotQA-validation-00006099/00_Eastern-Airways.html",
+      "community_id": 3,
+      "score": 20.517586
+    },
+    {
+      "text": "in Scotland to operate services between Aberdeen and Wick . The service was the only scheduled flight into Wick, operated by the Scottish Government / Transport Scotland via Highlands and Islands Airports , with the aim of revitalising air travel from the remote region. Both these PSOs remain operated in 2025 on the ATR72-600 and BAe Jetstream 41 respectively supporting directly and indirectly over 80 jobs between the two services labelled as lifeline air services. Oil and gas contract In 2024, with over a decade of operating between Aberdeen and both Sumburgh Airport and Scatsta Airport in the Shetland Islands for multiple oil & gas sector clients, Eastern Airways were awarded a seven year contract extension in conjunction with Bristow Helicopters to support BP Oils in their shuttle flying between Aberdeen and Sumburgh on the BAe Jetstream 41 and ATR72 fleet types. KLM Cityhopper In March 2024, Eastern Airways commenced an ACMI on behalf of KLM Royal Dutch Airlines, taking over the operation of the Humberside Airport and Teesside Airport KLM services to the Netherlands with additional flying to Manchester , Glasgow , Newcastle and Norwich on two 100-seat Embraer E190 E-Jets. By October 2024 this had expanded to three Embraer 190 aircraft with the addition of Bristol as a base for KLM including operating to Southampton and Cardiff, and by March 2025 a fourth UK base had been added at Bristol with the addition of a fourth Embraer 190, bringing the airlines weekly seat capacity for KLM to 22,400 and over 1.15 million per year. As this KLM Cityhopper and Eastern Airways ACMI relationship grew, ways of protecting the critical worldwide Amsterdam hub connectivity which is fundamental to regional UK economic prosperity was added aligned to the E-Jet fleet expansion of the carrier. KLM Cityhopper ceased the contract with Eastern Airways on 5 October 2025, just a few weeks before Eastern Airways ceased operations. Administration On 27 October 2025, Eastern Airways filed a notice of intention to appoint administrators, which resulted in the suspension of all flight operations. On 31 October, the majority of Eastern Airways' staff were made redundant. The company formally went into administration on 6 November 2025. This marked the end of the BAe Jetstream 41 's active passenger service in the UK . The administration resulted in the cancellation of the Aberdeen–Wick and Gatwick–Newquay PSO services. On 6 November, Cornwall Council announced that Isles of Scilly Skybus had been appointed as replacement operator for the Gatwick–Newquay route. Corporate affairs Headquarters The head office was located at Schiphol House, on the property of Humberside Airport , in Kirmington , North Lincolnshire . Interline agreements Eastern Airways formerly had Interline agreements with the following airlines: Air France",
+      "id": "HotpotQA-validation-00006099/00_Eastern-Airways.html_c_3",
+      "doc_id": "HotpotQA-validation-00006099/00_Eastern-Airways.html",
+      "community_id": 3,
+      "score": 20.370207
+    },
+    {
+      "text": "Gateway is a census-designated place (CDP) in Lee County, Florida , United States. The population was 10,376 at the 2020 census , up from 8,401 at the 2010 United States census . It is part of the Cape Coral-Fort Myers, Florida Metropolitan Statistical Area . The community is located north of Southwest Florida International Airport . Geography According to the United States Census Bureau , the CDP has a total area of 6.14 square miles (15.9 km 2 ), of which 5.65 square miles (14.6 km 2 ) is land and 0.49 square miles (1.3 km 2 ) is water. Demographics As of the 2010 United States census , there were 8,401 people living in the CDP. The population density was 1,486.9 inhabitants per square mile (574.1/km 2 ). There were 4,108 housing units at an average density of 727.1 per square mile (280.7/km 2 ). The racial makeup of the CDP was 87.6% White , 9.3% Black , 2.0% Asian , and 0.9% from two or more races. Hispanic or Latino of any race were 9.5% of the population. The median income for a household in the CDP was $83,583 and the per capita income for the CDP was $37,682. About 6.1% of the population were below the poverty line . Education Gateway Charter High School Gateway Elementary and Intermediate Charter School K-8 References",
+      "id": "HotpotQA-validation-00002226/02_Gateway-Florida.html_c_0",
+      "doc_id": "HotpotQA-validation-00002226/02_Gateway-Florida.html",
+      "community_id": 0,
+      "score": 19.719854
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "summary": "**Title**: BA Connect Regional Airline  \n\n**Summary**:  \nBA Connect was British Airways’ wholly-owned regional carrier, headquartered in Manchester, operating domestic and European routes outside London Heathrow/Gatwick. Created through successive mergers starting with Brymon Airways in 1993, it was rebranded as BA Connect in 2006 and adopted a low-cost model with buy-on-board catering. On 3 November 2006 BA agreed to sell the airline to Flybe, retaining London City routes and a 15 % stake; the transfer completed on 25 March 2007, expanding Flybe into Europe’s largest regional airline.  \n\n**Keywords**: BA Connect, British Airways, Flybe acquisition, regional airline, low-cost carrier",
+      "is_seed": true,
+      "expand_score": 0.7860527634620667
+    },
+    {
+      "community_key": "HotpotQA-validation-00006653/02_Tafo.html_0",
+      "summary": "**Title**: Tafo, Ghana Overview\n\n**Summary**:  \nTafo is a rapidly growing urban settlement in Ghana’s Ashanti Region, now part of the Kumasi Metropolitan Assembly only 9.8 km from Kumasi’s center. Its population has more than doubled since the 1983 census, reaching 60,919, prompting debate over whether it remains a distinct town or has become a Kumasi suburb. Historically significant as a regional headquarters for the Ashanti King and home to the Cocoa Research Institute since 1938, Tafo also hosts Tafo Hospital and holds its own parliamentary constituency.\n\n**Keywords**: Tafo, Kumasi, Ashanti Region, Cocoa Research Institute, urban growth",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002226/02_Gateway-Florida.html_0",
+      "summary": "**Title**: Gateway, Florida Community Profile\n\n**Summary**: Gateway is a census-designated place in Lee County, Florida, within the Cape Coral-Fort Myers metro area, whose population grew from 8,401 in 2010 to 10,376 in 2020. The community covers 6.14 sq mi, 92% land, and sits just north of Southwest Florida International Airport. Its 2010 demographics show a predominantly White (87.6%) and affluent population—median household income $83,583—yet 6.1% live below the poverty line. Gateway is served by its own charter schools: Gateway Elementary/Intermediate (K-8) and Gateway Charter High School.\n\n**Keywords**: Gateway CDP, Lee County, population growth, Southwest Florida International Airport, charter schools",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_1",
+      "summary": "**Title**: Village of Lawrence Profile\n\n**Summary**: Lawrence is an affluent, incorporated village in Nassau County’s “Five Towns” on Long Island, New York, covering 4.7 mi² with a 2020 population of 6,809. Originally a 19th-century seaside retreat for wealthy Protestant families, it evolved into a hub for Reform and Conservative Jewish life mid-century and, since the late 1980s, has become a center for Modern Orthodox Judaism, featuring numerous yeshivas, kosher eateries, and communal institutions. The village has a median household income of ~$105k, strong public and private school options, commuter-rail and bus links to NYC, and has produced or hosted many notable figures in law, fashion, politics, and entertainment.\n\n**Keywords**: Five Towns, Orthodox Judaism, Nassau County, commuter suburb, affluent demographics",
+      "is_seed": true,
+      "expand_score": 0.7829844355583191
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "summary": "**Title**: History and Heritage of Didsbury  \n\n**Summary**:  \nDidsbury, a suburb of Manchester, England, has a rich history dating back to the 13th century, evolving from a rural hamlet to a prosperous Victorian settlement. It played notable roles in historical events such as the English Civil War and the Jacobite rising. The area became a hub for German merchants and Jewish immigrants in the 19th century, contributing to its cultural diversity. Didsbury is also significant for its religious institutions, educational establishments, and community organizations, including the founding of the Royal Society for the Protection of Birds.  \n\n**Keywords**:  \nDidsbury history, Manchester suburb, Victorian development, German immigration, RSPB founding",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "summary": "**Title**: Humberside Airport Operations  \n\n**Summary**:  \nHumberside Airport, located in North Lincolnshire, England, transitioned from a WWII RAF base to a regional airport serving passenger, cargo, helicopter, and general-aviation traffic. Scheduled passenger numbers peaked near 500,000 in the mid-2000s but fell to ~200,000 by 2016, with several short-lived airline services. The airport thrives as a North Sea offshore-energy hub, recording over 5,000 helicopter movements in 2016 and hosting major operators such as Bristow, CHC, and UNI-FLY. Infrastructure includes a 02/20 runway, a dedicated FBO opened by Weston Aviation, flying clubs, maintenance academies, on-site hotels, and ground-transport links via bus and nearby Barnetby railway station. Ownership shifted from Manchester Airports Group to the Eastern Group; Bristow Helicopters now holds the majority stake.  \n\n**Keywords**:  \nHumberside Airport, offshore helicopter hub, North Sea energy, passenger decline, aviation infrastructure",
+      "is_seed": true,
+      "expand_score": 0.8295176029205322
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "summary": "**Title**: Eastern Airways Operations History\n\n**Summary**:  \nEastern Airways, a British regional airline based at Humberside Airport, operated from 1997 until entering administration in November 2025. The airline evolved from a small operator using Jetstream aircraft to a multifaceted carrier providing scheduled, charter, PSO-subsidised lifeline routes, and ACMI flying for KLM Cityhopper. Key developments included franchise agreements with Flybe, expansion into oil-and-gas shuttles, acquisition by Bristow Group and later repurchase by founder Richard Lake, and fleet upgrades to ATR 72-600s and Embraer 190s. After Flybe’s 2020 collapse, Eastern attempted strategic growth at Southampton, Cardiff, and Gibraltar, but most new routes were short-lived. Long-term Public Service Obligation contracts—notably Newquay–Gatwick and Aberdeen–Wick—underpinned regional connectivity until administration ended all flights and terminated the remaining PSO services.\n\n**Keywords**:  \nregional airline, Public Service Obligation, Flybe franchise, KLM Cityhopper, administration",
+      "is_seed": true,
+      "expand_score": 0.8295176029205322
+    },
+    {
+      "community_key": "HotpotQA-validation-00005156/01_East-Islip-New-York.html_2",
+      "summary": "**Title**: East Islip Community Profile\n\n**Summary**: East Islip is an affluent hamlet on Long Island’s south shore in Suffolk County, New York, with a 2020 population of 13,931. Once a 17th-century English aristocrat’s 51,000-acre estate, it evolved into a Gilded-Age enclave of grand mansions and private schools; many former estates now host municipal buildings, churches, and modern gated communities like The Moorings. The 4.1-square-mile area offers strong public schools, two public marinas, a golf course, and active hunting and fishing traditions. Notable residents span sports, entertainment, and aviation history, reflecting the hamlet’s blend of historic wealth and contemporary suburban affluence.\n\n**Keywords**: East Islip, Long Island, historic estates, affluent community, Suffolk County",
+      "is_seed": true,
+      "expand_score": 0.7829844355583191
+    },
+    {
+      "community_key": "HotpotQA-validation-00005156/01_East-Islip-New-York.html_1",
+      "summary": "**Title**: East Islip Demographics & Geography\n\n**Summary**: East Islip is a Long Island hamlet covering 3.9 sq mi of land with 2.7% water area, bordered by Islip, Islip Terrace, North Great River, Great River, and the Great South Bay. The 2000 census recorded 14,000 residents in 4,578 households, yielding a density of 3,428 people per square mile. The community is predominantly white (96%), suburban, and family-oriented, with 43% of households having children and 68% married couples. Median household income was $71 k, poverty stood below 4%, and the town supports a municipal shellfish hatchery on the bay.\n\n**Keywords**: East Islip, demographics, Great South Bay, household income, shellfish hatchery",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005536/03_Association-of-Greater-Manchester-Authorities.html_1",
+      "summary": "**Title**: AGMA Governance Legacy\n\n**Summary**: The Association of Greater Manchester Authorities (AGMA) was formed in 1986 after the abolition of the Greater Manchester County Council, serving as a voluntary joint committee of the ten local authorities. It lobbied national and European bodies for investment, coordinated strategic functions like transport and waste, and pioneered an equal-sharing governance model that reduced inter-borough rivalries. AGMA’s successful 2000s campaign for a statutory city-region structure led directly to the 2011 creation of the Greater Manchester Combined Authority and the post of elected mayor, embedding its collaborative approach in the region’s devolved government.\n\n**Keywords**: AGMA, Greater Manchester, combined authority, devolution, city-region",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_2",
+      "summary": "**Title**: Dover-Foxcroft, Maine Overview  \n\n**Summary**:  \nDover-Foxcroft, the Piscataquis County seat and largest town, was formed in 1922 by merging the 19th-century mill towns of Dover and Foxcroft along the Piscataquis River. Today it serves as the region’s commercial hub, hosting the popular Maine Whoopie Pie Festival each June, an event that drew over 7,500 visitors in 2014. The community covers 71 square miles of humid-continental countryside and, according to recent censuses, is home to roughly 4,200 residents with a median age near 45.  \n\n**Keywords**:  \nDover-Foxcroft, Piscataquis County, Maine Whoopie Pie Festival, census demographics, historic mill towns",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002343/01_Yemen.html_2",
+      "summary": "**Title**: Yemen’s Historical and Modern Crisis\n\n**Summary**:  \nYemen’s rich history as a cultural and trade crossroads spans over 7,000 years, from the Sabaean and Himyarite kingdoms to its role in early Islamic civilization. Once a prosperous region known as Arabia Felix, it later became a key player in the coffee trade. Modern Yemen, formed by the 1990 union of North and South Yemen, has faced escalating turmoil since 2011, culminating in a devastating civil war by 2015. The conflict has triggered the world’s worst humanitarian crisis, with 75% of the population in need of aid, and has left Yemen ranking at the bottom of global peace, hunger, and development indices.\n\n**Keywords**:  \nYemen civil war, humanitarian crisis, ancient kingdoms, Arabia Felix, political instability",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006099/03_Airlink-helicopter-shuttle-service.html_2",
+      "summary": "**Title**: Airlink Helicopter Shuttle Service  \n\n**Summary**:  \nAirlink was a short-lived but high-profile helicopter shuttle (1978-1986) jointly run by British Caledonian and BA Helicopters to connect London’s Heathrow and Gatwick airports before the M25 existed. Despite strong airline support and a licence originally valid to 1994, the service became politically toxic because of noise complaints, low-altitude privacy concerns, and lobbying from local authorities and rival interests, leading the Secretary of State to revoke its licence in 1986. The Sikorsky S-61N helicopter (G-LINK) was scrapped in Brazil two decades later, and no direct air or rail link has since replaced the shuttle.  \n\n**Keywords**: Airlink, helicopter shuttle, Heathrow-Gatwick, British Caledonian, licence revocation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "summary": "**Title**: Didsbury Governance & Transport History  \n\n**Summary**:  \nDidsbury’s civic identity evolved from a 13th-century manor of Withington to a modern Manchester suburb, becoming a civil parish in 1866, an urban district in 1894, and fully absorbed into Manchester in 1904. Boundary reforms in 2004 split the area into Didsbury East and Didsbury West wards, now represented by Labour and Liberal Democrat councillors. Transport milestones shaped its growth: the 1880 Midland Railway connection, the 1909 Styal Line, and 1928–30 dual-carriageway arterials (Kingsway and Princess Road) with segregated tram tracks; passenger rail ceased in 1967 under Beeching cuts. The 1910 landing of French aviator Louis Paulhan after the first London–Manchester flight and the 1921 war memorial outside the former Midland station highlight Didsbury’s place in aviation and civic memory.\n\n**Keywords**:  \nDidsbury wards, Manchester boundary changes, Midland Railway, Louis Paulhan, Kingsway/Princess Road",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3",
+      "summary": "**Title**: Idaho Falls Regional Airport Airline History\n\n**Summary**: Idaho Falls Regional Airport (IDA) has experienced shifting airline service since National Parks Airways first arrived in 1934–35. Major carriers such as Western/Delta, American, Horizon, United Express, Allegiant, Northwest/Delta, Frontier, and SeaPort have periodically added and removed routes to hubs like Salt Lake City, Denver, Seattle, Las Vegas, Dallas/Fort Worth, Minneapolis, Oakland, and Chicago, often via code-shares or regional affiliates. Aircraft evolved from early DC-3s and Fairchild F-27s through Boeing 727/737, MD-80, DC-9, Dash 8, CRJ-200, EMB-120, Q400, and E-175 jets, while terminal expansions in 1982, 1998, 2014, 2019, and 2020 adapted to changing traffic. After Horizon’s final 2010 exit, Delta Connection (SkyWest) and United Express emerged as primary carriers, supplemented by Allegiant and seasonal Delta mainline A220s during Jackson Hole’s 2022 runway work, pushing enplanements to 610,641 in 2024.\n\n**Keywords**: Idaho Falls Regional Airport, airline service history, Horizon Air, Delta Connection, terminal expansions",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001577/03_Northenden.html_2",
+      "summary": "**Title**: Northenden Suburban History\n\n**Summary**: Northenden, now a Manchester suburb, evolved from a rural Cheshire parish into an urban overspill estate after Manchester annexed it in 1931. Positioned on a historic Mersey ford and salt road, it prospered in medieval times yet largely escaped 19th-century industrialisation, retaining village character until 20th-century suburban expansion. Key developments include Simon’s Bridge (1901), the short-lived railway (1866-1964), and post-annexation shopping and housing growth along Palatine Road. Today it lies within the Wythenshawe & Sale East constituency and is represented by three Labour councillors.\n\n**Keywords**: Northenden, Manchester annexation, Mersey ford, suburban development, civil parish",
+      "is_seed": false,
+      "expand_score": 0.8546842336654663
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "summary": "**Title**: Boise Airport History & Incidents\n\n**Summary**:  \nBoise Airport, tracing its roots to 1926 as Booth Field, evolved into a major regional hub with United Airlines operating continuously for a century. The airport’s history includes WWII training operations, jet service introduction in the 1960s, and major terminal renovations in the 2000s. Future expansion plans include a new Concourse A and three parking garages. Alongside its growth, the airport has experienced several fatal aviation accidents and a recent hangar collapse, highlighting ongoing safety challenges.\n\n**Keywords**:  \nBoise Airport, aviation history, airport expansion, aviation accidents, United Airlines",
+      "is_seed": false,
+      "expand_score": 0.8114804029464722
+    },
+    {
+      "community_key": "HotpotQA-validation-00006411/03_Boise-Airport.html_6",
+      "summary": "**Title**: Boise Airport Operations & Facilities\n\n**Summary**:  \nBoise Airport (BOI) is a dual-use civil-military airfield anchored by the 124th Fighter Wing (Idaho Air National Guard) flying A-10s after divesting its C-130 fleet in 2009. The airport’s 5,000-acre campus features two 9,700-ft+ parallel runways, a 295-ft control tower/TRACON (Big Sky Approach), and a 378,000-ft² post-9/11 terminal that earned national design acclaim. Annual traffic nears 140,000 operations (46% GA, 39% airline) with 2.7–4 M passengers; Horizon/Alaska Airlines dominate commercial service. Facilities include a donated FedEx 727 trainer for first responders, on-base FBOs, and historic HAER-documented Gowen Field structures.\n\n**Keywords**:  \nBoise Airport, 124th Fighter Wing, Gowen Field, Big Sky Approach, A-10 Thunderbolt",
+      "is_seed": false,
+      "expand_score": 0.7936766743659973
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "HotpotQA-validation-00006653/02_Tafo.html_0",
+      "HotpotQA-validation-00002226/02_Gateway-Florida.html_0",
+      "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_1",
+      "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00005156/01_East-Islip-New-York.html_2",
+      "HotpotQA-validation-00005156/01_East-Islip-New-York.html_1",
+      "HotpotQA-validation-00005536/03_Association-of-Greater-Manchester-Authorities.html_1",
+      "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_2",
+      "HotpotQA-validation-00002343/01_Yemen.html_2",
+      "HotpotQA-validation-00006099/03_Airlink-helicopter-shuttle-service.html_2",
+      "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00001577/03_Northenden.html_2",
+      "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_6",
+      "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "HotpotQA-validation-00005156/01_East-Islip-New-York.html_2",
+      "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001577/00_BA-Connect.html_1",
+      "HotpotQA-validation-00006653/02_Tafo.html_0",
+      "HotpotQA-validation-00002226/02_Gateway-Florida.html_0",
+      "HotpotQA-validation-00002743/01_Lawrence-Nassau-County-New-York.html_1",
+      "HotpotQA-validation-00001577/01_Didsbury.html_2",
+      "HotpotQA-validation-00006099/01_Humberside-Airport.html_1",
+      "HotpotQA-validation-00006099/00_Eastern-Airways.html_3",
+      "HotpotQA-validation-00005156/01_East-Islip-New-York.html_2",
+      "HotpotQA-validation-00005156/01_East-Islip-New-York.html_1",
+      "HotpotQA-validation-00005536/03_Association-of-Greater-Manchester-Authorities.html_1",
+      "HotpotQA-validation-00006914/03_Dover-Foxcroft-Maine.html_2",
+      "HotpotQA-validation-00002343/01_Yemen.html_2",
+      "HotpotQA-validation-00006099/03_Airlink-helicopter-shuttle-service.html_2",
+      "HotpotQA-validation-00001577/01_Didsbury.html_5",
+      "HotpotQA-validation-00006411/01_Idaho-Falls-Regional-Airport.html_3",
+      "HotpotQA-validation-00001577/03_Northenden.html_2",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_2",
+      "HotpotQA-validation-00006411/03_Boise-Airport.html_6"
+    ],
+    "allowed_chunk_pool_size": 57,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

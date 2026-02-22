@@ -1,0 +1,12 @@
+{
+  "id": "Novel-24928f80",
+  "question": "In which city did Elsie Inglis take up her medical practice after completing her studies and training abroad?",
+  "gold_answer": "Elsie Inglis took up practice in Edinburgh.",
+  "llm_answer": "The evidence does not explicitly state the city where Elsie Inglis took up her medical practice after completing her studies and training abroad. However, it does mention that she started practice in Edinburgh, but it does not specify when she started her practice in Edinburgh. \n\nHowever, it does mention that she started practice in Atholl Place, and later on they moved into 8 Walker Street, an abode which will always be associated with the name of Dr. Elsie Inglis.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Edinburgh as the city where Elsie Inglis started her practice, aligning with the Gold Answer. However, it unnecessarily questions the timing of her practice in Edinburgh, which is irrelevant to the question. The additional details about Atholl Place and Walker Street are faithful to the context but do not directly address the core question, leading to partial evidence coverage."
+  }
+}

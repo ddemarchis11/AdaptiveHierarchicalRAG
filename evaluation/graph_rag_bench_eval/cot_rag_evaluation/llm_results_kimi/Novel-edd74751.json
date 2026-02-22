@@ -1,0 +1,42 @@
+{
+  "id": "Novel-edd74751",
+  "question": "During Chris Calton's convalescence at the Summit House, which staff member was specifically assigned to attend to his needs and comfort?",
+  "gold_answer": "Frida Jansen attended to Chris Calton.",
+  "llm_answer": "Frida Jansen was specifically assigned to attend to Chris Calton's needs and comfort.",
+  "context": [
+    {
+      "text": "until you promised. Well, I had prepared the bitter cup myself--I thought I ought to drink it to the dregs.\" She turned quietly, passionately, and, standing up, faced him with a little cry. \"Why are you telling me this NOW?\" He rose too, and catching her hands in his, said, with a white face, \"Because I love you.\" Half an hour later, when the under-housekeeper was summoned to receive Miss Trotter's orders, she found that lady quietly writing at the table. Among the orders she received was the notification that Mr. Calton's rooms would be vacated the next day. When the servant, who, like most of her class, was devoted to the good-natured, good-looking, liberal Chris, asked with some concern if the young gentleman was no better, Miss Trotter, with equal placidity, answered that it was his intention to put himself under the care of a specialist in San Francisco, and that she, Miss Trotter, fully approved of his course. She finished her letter,--the servant noticed that it was addressed to Mr. Bilson at Paris,--and, handing it to her, bade that it should be given to a groom, with orders to ride over to the Summit post-office at once to catch the last post. As the housekeeper turned to go, she again referred to the departing guest. \"It seems such a pity, ma'am, that Mr. Calton",
+      "id": "Novel-2544_c_294"
+    },
+    {
+      "text": "said Miss Trotter quietly, \"although his admiration for her was well known, especially to his doctor, at whose request I selected her to especially attend to your brother.\" \"The doctor is a fool,\" broke in Mr. Calton abruptly. \"He only thought of keeping Chris quiet while he finished his job.\" \"And really, Mr. Calton,\" continued Miss Trotter, ignoring the interruption, \"I do not see what right I have to interfere with the matrimonial intentions of any guest in this house, even though or--as you seem to put it--BECAUSE the object of his attentions is in its employ.\" Mr. Calton stared--angrily at first, and then with a kind of wondering amazement that any woman--above all a housekeeper--should take such a view. \"But,\" he stammered, \"I thought you--you--looked after the conduct of those girls.\" \"I'm afraid you've assumed too much,\" said Miss Trotter placidly. \"My business is to see that they attend to their duties here. Frida Jansen's duty was--as I have just told you--to look after your brother's room. And as far as I understand you, you are not here to complain of her inattention to that duty, but of its resulting in an attachment on your brother's part, and, as you tell me, an intention as to her future, which is really the one",
+      "id": "Novel-2544_c_267"
+    },
+    {
+      "text": "Shoes.'\" And sister Abby would sing it, too. During the early part of the war the Hutchinson family was ordered out of the Army of the Potomac by Gen. McClellan on account of the abolition sentiments expressed in its songs. The general was apparently unable to interpret the handwriting on the wall, as long before the war was ended the entire army was enthusiastically chanting that beautiful melody to the king of abolitionists--   \"John Brown's body lies moldering in the grave   And his soul is marching on.\" Gen. McClellan was at one time the idol of the army, as well as of the entire American people. Before the war he was chief engineer of the Illinois Central railroad and made frequent trips to St. Paul to see the future Mrs. McClellan, a Miss Marcy, daughter of Maj. R.B. Marcy of the regular army, who lived in the old Henry M. Rice homestead on Summit avenue. When Gen. McClellan was in command of the Army of the Potomac Maj. Marcy was his chief of staff. One of the original Hutchinsons is still living, as indicated by the following dispatch, published since the above was written: \"Chicago, Ill., Jan. 4, 1902.--John W. Hutchinson, the last survivor of the famous old concert-giving Hutchinson family, which was especially prominent in anti-bellum times, received many congratulations to-day on",
+      "id": "Novel-10146_c_102"
+    },
+    {
+      "text": "that she thought the girl would prove inefficient, but she did not. She remembered the incident of the wood; yet if the girl had a lover in the wood, she could not urge it as a proof of incapacity. She gave the necessary orders, and the incident passed. Visiting the patient a few days afterward, she could not help noticing a certain shy gratitude in Mr. Calton's greeting of her, which she quietly ignored. This forced the ingenuous Chris to more positive speech. He dwelt with great simplicity and enthusiasm on the Swedish girl's gentleness and sympathy. \"You have no idea of--her--natural tenderness, Miss Trotter,\" he stammered naively. Miss Trotter, remembering the wood, thought to herself that she had some faint idea of it, but did not impart what it was. He spoke also of her beauty, not being clever enough to affect an indifference or ignorance of it, which made Miss Trotter respect him and smile an unqualified acquiescence. Frida certainly was pretty! But when he spoke of her as \"Miss Jansen,\" and said she was so much more \"ladylike and refined than the other servants,\" she replied by asking him if his bandages hurt him, and, receiving a negative answer, graciously withdrew. Indeed, his bandages gave him little trouble now, and his improvement was so marked and sustained that the doctor was greatly gratified, and, indeed, expressed as much to",
+      "id": "Novel-2544_c_262"
+    },
+    {
+      "text": "his fate and perceives beforehand that at least one German critic would deem him worthy of his applause.” “Go on, poor Yorik, try once more In German Dress, thy fate of yore, Expect few Critics, such, as by The bucket of Philosophy From out the bottom of the well May draw the Sense of what you tell And spy what wit and Morals sound Are in thy Rambles to be found.” After a passage in which the rhymester enlarges upon the probability of distorted judgment, he closes with these lines: “Dire Fate! but for all that no worse, You shall be WIELAND’S Hobby-Horse, So to HIS candid Name, unbrib’d These meditations be inscrib’d.” This was at the time of Wieland’s early enthusiasm, when he was probably contemplating, if not actually engaged upon a translation of Tristram Shandy. “Thy fate of yore” in the second line is evidently a poetaster’s acceptation of an obvious rhyme and does not set Yorick’s German experience appreciably into the past. The translator supplies frequent footnotes explaining the allusions to things specifically English. He makes occasional comparison with German conditions, always with the claim that Germany is better off, and needs no such satire. The _Hallische Neue Gelehrte Zeitungen_ for June 1, 1769, devotes a review of considerable length to this translation; in it the reviewer",
+      "id": "Novel-26183_c_142"
+    }
+  ],
+  "cot_scratchpad": "- Chris Calton convalesces at Summit House (Novel-2544_c_294).\n- Miss Trotter selected Frida Jansen to \"especially attend to your brother\" per doctor's request (Novel-2544_c_267).\n- Chris praises Frida Jansen's gentleness and care (Novel-2544_c_262).\n- Frida Jansen thus is the staff member assigned to Chris's needs.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "During Chris Calton's convalescence at the Summit House, which staff member was specifically assigned to attend to his needs and comfort?",
+      "doc_ids": [
+        "Novel-2544_c_294",
+        "Novel-2544_c_267",
+        "Novel-10146_c_102",
+        "Novel-2544_c_262",
+        "Novel-26183_c_142"
+      ]
+    }
+  ]
+}

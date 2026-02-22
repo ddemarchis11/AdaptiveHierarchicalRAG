@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005208",
+  "question": "The Van cat's eyes have what feline form of complete heterochromia, a condition that occurs in some other animals?",
+  "gold_answer": "odd-eyed",
+  "llm_answer": "The Van cat's eyes have a feline form of complete heterochromia, a condition that occurs in some other animals.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that the Van cat's eyes exhibit a feline form of complete heterochromia, which aligns with the Gold Answer's 'odd-eyed' description. However, it does not explicitly mention the term 'odd-eyed,' which is a key fact from the Gold Answer. The answer is faithful to the context, as the retrieved information supports the description of heterochromia in cats."
+  }
+}

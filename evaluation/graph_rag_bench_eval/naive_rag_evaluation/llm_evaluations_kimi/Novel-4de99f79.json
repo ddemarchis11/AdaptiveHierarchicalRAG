@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4de99f79",
+  "question": "According to the Cornish folklore referenced in the narrative, where did the legendary figure Tregeagle have his dwelling?",
+  "gold_answer": "Tregeagle had his dwelling in Cornwall.",
+  "llm_answer": "According to the narrative, Tregeagle’s dwelling was at Dozmare Pool.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Dozmare Pool as the location of Tregeagle's dwelling, which is supported by the retrieved context. However, the Gold Answer specifies 'Cornwall' as the dwelling location, which is broader and also correct. The Model Answer misses this broader aspect, focusing only on the specific location within Cornwall."
+  }
+}

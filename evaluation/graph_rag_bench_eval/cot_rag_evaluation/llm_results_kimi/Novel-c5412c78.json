@@ -1,0 +1,42 @@
+{
+  "id": "Novel-c5412c78",
+  "question": "Upon Dr. Inglis's return journey to Britain after World War I, in which city did Evelyn Simson arrive to greet her?",
+  "gold_answer": "Evelyn Simson arrived at Newcastle.",
+  "llm_answer": "Newcastle",
+  "context": [
+    {
+      "text": "across the city. As the procession was being formed, Dr. Inglis’ last message was put into the hands of the members of the London Committee for S.W.H. It ran:-- ‘_November 26, 1917._ ‘So sorry I cannot come to London. Dr. Williams and Dr. Ward are agreed, and quite rightly. Will send Gwynn in a day or two with explanations and suggestions. Colonel Miliantinovitch and Colonel Tcholah Antitch were to make appointment this week or next from Winchester; do see them, and also as many of the committee as possible and show them every hospitality. They have been very kind to us, and whatever happens, dear Miss Palliser, do beg the Committee to make sure that they (the Serbs) have their hospitals and transport, for they do need them. ‘Many thanks to the Committee for their kindness to me and their support of me. ‘ELSIE INGLIS. ‘Dictated to Miss Evelyn Simson.’ How the people loved her! was the thought, as she passed through the grief-stricken crowds. These, who knew her best, smiled as they said one to another, ‘How all this would surprise her!’ Edinburgh is a city of spires and of God’s acres, the graves cut in the living rock, within gardens and beside running waters. Across the Water of Leith the long procession wound its way. Within sight of the grave, it was",
+      "id": "Novel-51410_c_280"
+    },
+    {
+      "text": "cut our moorings?” She answered, “No one cut them, they broke.”’ There was a pause, and then to her own she broke the knowledge that she had heard the call and was about to obey the summons. ‘The same hand who cut our moorings then is cutting mine now, and I am going forth.’ Her niece Evelyn Simson notes how they heard of the arrival:-- ‘A wire came on Friday from Aunt Elsie, saying they had arrived in Newcastle. We tried all Saturday to get news by wire and ’phone, but got none. We think now this was because the first news came by wireless, and they did not land till Sunday. ‘Aunt Elsie answered our prepaid wire, simply saying, “I am in bed, do not telephone for a few days.” I was free to start off by the night train, and arrived about 2 A.M. at Newcastle. I found the S.W.H. were at the Station Hotel, and I saw Aunt Elsie’s name in the book. I did not like to disturb her at that hour, and went to my room till 7.30. I found her alone; the night nurse was next door. She was surprised to see me, as she thought it would be noon before any one could arrive. She looked terribly wasted, but she gave me such a strong embrace that I never thought the illness was more than what might easily be cured on land, with suitable",
+      "id": "Novel-51410_c_272"
+    },
+    {
+      "text": "spirit engendered, forget their great gains in the galling sensation of being ridden over rough-shod. It is an episode on which it is now unnecessary to dwell, and Dr. Inglis would always have been the first to render homage to the great pioneer work of Dr. Jex Blake. Through it all Elsie was living in the presence chamber of her father’s chivalrous, high-minded outlook. Whatever action she took then, must have had his approval, and it was from him that she received that keen sense of equal justice for all. These student years threw them more than ever together. On Sundays they worshipped in the morning in Free St. George’s Church, and in the evening in the Episcopal Cathedral. Mr. Inglis was a great walker, and Elsie said, ‘I learnt to walk when I used to take those long walks with father, after mother died.’ Then she would explain how you _should_ walk. ‘Your whole body should go into it, and not just your feet.’ Of these student days her niece, Evelyn Simson, says:-- ‘When she was about eighteen she began to wear a bonnet on Sunday. She was the last _girl_ in our connection to wear one. My Aunt Eva who is two years younger never did, so I think the fashion must have changed just then. I remember thinking how very grown up she must be.’ Another niece writes:-- ‘At the time when it became the",
+      "id": "Novel-51410_c_47"
+    },
+    {
+      "text": "meeting, and filled many a drawing-room. The Church of Scotland knew her presence in London. ‘One of our most treasured memories will be that keen, clever face of hers in St. Columba’s of a Sunday--with the far, wistful melancholy in it, added to its firm determination.’ So writes the minister. ‘We’ knew what lay behind the wistful brave eyes, a yet more complete dedication to the service of her Serbian brethren. CHAPTER X RUSSIA 1917 ‘Even so in our mortal journey, The bitter north winds blow, And thus upon life’s red river, Our hearts as oarsmen row. And when the Angel of Shadow Rests his feet on wave and shore, And our eyes grow dim with watching, And our hearts faint at the oar, Happy is he who heareth The signal of his release In the bells of the holy city The chimes of eternal peace.’ Dr. Inglis’ return to England was the signal for renewed efforts on the part of the Committees managing the S.W.H. This memoir has necessarily to follow the personality of the leader, but it must never be forgotten that her strength and all her sinews of war lay in the work of those who carried on at home, week by week. Strong committees of women, ably organised and thoroughly staffed, took over the burden of finance--a matter Dr. Inglis once amusingly said, ‘did not interest her.’",
+      "id": "Novel-51410_c_207"
+    },
+    {
+      "text": "and thoroughly staffed, took over the burden of finance--a matter Dr. Inglis once amusingly said, ‘did not interest her.’ They found and selected the _personnel_ on which success so much depended, they contracted for and supervised the sending out of immense consignments of equipment and motor transport. They dealt with the Government department, and in loyal devotion smoothed every possible obstacle out of the path of those flying squadrons, the units of the S.W.H. It was inevitable the quick brain and tenacious energy of Dr. Inglis, far away from the base of her operations, should at times have found it hard to understand why the wheels occasionally seemed to drag, and the new effort she desired to make did not move at the pace which to her eager spirit seemed possible. Two enterprises filled her mind on her return in 1916. One, by the help of the London Committee, she put through. This was the celebration of Kossovo Day in Great Britain. The flag-day of the Serbian Patriot King was under her chairmanship prepared for in six weeks. Hundreds of lectures on the history of Serbia were arranged for and delivered throughout the country, and no one failed to do her work, however remote they might think the prospect of making the British people interested in a country and patriot so far from the ken of their island isolation. Kossovo Day was a success, and through the rush of the work Dr. Inglis was planning the last",
+      "id": "Novel-51410_c_208"
+    }
+  ],
+  "cot_scratchpad": "- Dr Inglis wired 'arrived in Newcastle' on a Friday after WWI (Novel-51410_c_272).\n- Evelyn Simson took night train and reached Newcastle ~2 A.M. to meet her (Novel-51410_c_272).\n- Therefore city Simson arrived to greet Dr Inglis was Newcastle.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Upon Dr. Inglis's return journey to Britain after World War I, in which city did Evelyn Simson arrive to greet her?",
+      "doc_ids": [
+        "Novel-51410_c_280",
+        "Novel-51410_c_272",
+        "Novel-51410_c_47",
+        "Novel-51410_c_207",
+        "Novel-51410_c_208"
+      ]
+    }
+  ]
+}

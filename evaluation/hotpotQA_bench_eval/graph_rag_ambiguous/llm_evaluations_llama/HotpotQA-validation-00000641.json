@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000641",
+  "question": "What is the full birth name of the English entertainer — known for his work across comedy, music, and stage — who appears in a production whose title is an idiomatic expression for two contrasting things?",
+  "gold_answer": "Michael Patrick Smith",
+  "llm_answer": "I'm not able to find the full birth name of the English entertainer from the provided context. However, I can tell you that the entertainer is Robin Chalk, and the production is Dirty Dancing, whose title is an idiomatic expression for two contrasting things.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Robin Chalk as the entertainer and Dirty Dancing as the production, which does not align with the Gold Answer or the context. The correct full birth name, Michael Patrick Smith, is not mentioned, and the response is neither supported by the retrieved context nor accurate."
+  }
+}

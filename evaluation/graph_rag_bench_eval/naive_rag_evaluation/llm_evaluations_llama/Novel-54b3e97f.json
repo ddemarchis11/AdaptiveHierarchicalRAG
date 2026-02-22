@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "According to the diary, the following individuals drank with Mr. Pepys during one of his social encounters:\n\n1. Mr. Pechell, Sanchy, and others at the Rose in Cambridge.\n2. Mr. Gregory, Hartlibb, Mr. Kipps, and Mr. Chetwind at an unspecified location.\n3. Mr. Fanshaw at the Crane tavern at the Stocks.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not mention Mr. Starling, who is the individual specified in the Gold Answer. Additionally, the names listed in the Model Answer are not supported by the retrieved context as individuals who drank with Mr. Pepys during a social encounter. The response is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

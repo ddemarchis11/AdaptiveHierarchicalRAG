@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006471",
+  "question": "What football club was owned by the singer of \"Grow Some Funk of Your Own\"?",
+  "gold_answer": "Watford Football Club",
+  "llm_answer": "I cannot verify the football club owned by the singer of \"Grow Some Funk of Your Own\".",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct football club, Watford Football Club, as stated in the Gold Answer. Additionally, the retrieved context does not directly support the answer, and the model does not attempt to use external knowledge to answer the question correctly."
+  }
+}

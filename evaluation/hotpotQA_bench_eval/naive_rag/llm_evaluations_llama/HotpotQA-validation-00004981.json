@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004981",
+  "question": "What separates the islands where the 2015 Africa Magic Viewers Choice Awards were held?",
+  "gold_answer": "creeks",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer states 'Insufficient evidence to answer the question,' which is correct given the retrieved context does not provide information about what separates the islands where the 2015 Africa Magic Viewers Choice Awards were held. However, it fails to answer the question directly or align with the Gold Answer ('creeks'), resulting in a score of 0 for correctness and evidence coverage. Faithfulness is rated 1.0 as the model does not contradict the context."
+  }
+}

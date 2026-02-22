@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005130",
+  "question": "Which is farther west, Sheridan County, Montana or Chandra Taal?",
+  "gold_answer": "Sheridan County",
+  "llm_answer": "I cannot verify which is farther west, Sheridan County, Montana or Chandra Taal.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide a definitive answer to the question, which is clearly stated in the Gold Answer as Sheridan County being farther west. The retrieved context provides sufficient geographical information to support this conclusion, but the model does not utilize it effectively. Therefore, the answer is incorrect, ungrounded, and does not cover the necessary evidence."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003246",
+  "question": "Which light rail system would one use to visit the museum that explores the impact of modern conflicts on people and society?",
+  "gold_answer": "Greater Manchester's Metrolink",
+  "llm_answer": "The evidence provided does not specify which light rail system serves the Imperial War Museum North. Therefore, it is insufficient to determine the correct light rail system to use for visiting the museum.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the light rail system serving the Imperial War Museum North, which is accurate based on the retrieved context. However, the Gold Answer explicitly identifies Greater Manchester's Metrolink as the correct system, and the Model Answer fails to provide this information. While the Model Answer is faithful to the context, it does not answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-040ac0aa",
+  "question": "How do the actions of the Green Man, such as meeting Eileen Macarthy, granting Eily a wish, asking questions of Eily, and receiving answers from Eily, overlap or differ in his interactions with both Eily and Eileen Macarthy within the story?",
+  "gold_answer": "The Green Man meets Eileen Macarthy, gives Eily a wish, asks Eily questions, and receives answers from Eily, showing his interactions with both Eily and Eileen Macarthy.",
+  "llm_answer": "There is no mention of the Green Man in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not mention the Green Man, but it fails to address the user's question using internal knowledge or reasoning. The Gold Answer provides a summary of the Green Man's actions and interactions, which the Model Answer does not attempt to replicate or elaborate on. Thus, the answer is incorrect and lacks evidence coverage, though it is faithful to the context provided."
+  }
+}

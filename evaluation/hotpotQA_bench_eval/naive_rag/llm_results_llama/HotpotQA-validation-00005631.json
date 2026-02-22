@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005631",
+  "question": "Was Atom Egoyans biggest commercial success on stage or on film?",
+  "gold_answer": "erotic thriller film",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "was a critical and commercial success and Cher received strong reviews for her stage work (even Frank Rich called her \"ingratiating\" ) and paved the way for her to be cast in the film version the next year, that garnered her a Golden Globe nomination. She was next cast alongside Meryl Streep and Kurt Russell in the critically hailed drama Silkwood (1983) directed by Mike Nichols , inspired by the true-life story of Karen Silkwood , in which her character was a lesbian who worked at the Kerr-McGee plant in Cimarron, Oklahoma . It was a commercial success and grossed $35 million in the United States alone. Cher then appeared in the drama Mask (1985) directed by Peter Bogdanovich and with Eric Stoltz , Sam Elliott and Laura Dern . The film is based on the life and early death of Roy L. \"Rocky\" Dennis , a boy who suffered from craniodiaphyseal dysplasia . The film was considered her first critical and commercial success as a leading actress and firmly established her as an actress. For her role as a mother of a severely disfigured boy, Cher won the Best Actress prize at the Cannes Film Festival . In 1987, she starred in three films: the thriller Suspect , with Dennis Quaid and Liam Neeson ; the film has been credited for the high quality of acting despite the severe loopholes of the story. In particular, Cher, in",
+      "id": "HotpotQA-validation-00007198/02_Cher-filmography.html_c_1"
+    },
+    {
+      "text": "Officer of the Order of Canada ; he was promoted in 2015 to Companion of the Order of Canada, the highest grade of the honour. In 2009, he won the 'Master of Cinema' award from the Mannheim Film Festival, 25 years after receiving his international festival premiere at the same event. In 2017, Egoyan was presented with the Lifetime Achievement Award at the International Film Festival of India.  Filmography Feature films Executive producer only Short films TV films Awards Bibliography Dear Sandra , Volumina (2007) References External links Wikimedia Commons has media related to Atom Egoyan . Ego Film Arts – official website Atom Egoyan – faculty page at European Graduate School (includes biography and video lectures) Atom Egoyan at IMDb Order of Canada citation CTV.ca Filmmaker Egoyan set to teach at U. of Toronto Discussion of Egoyan's film, Calendar by Ron Burnett Archived 2015-07-07 at the Wayback Machine Literature on Atom Egoyan",
+      "id": "HotpotQA-validation-00005631/00_Atom-Egoyan.html_c_7"
+    },
+    {
+      "text": "away from a planned Christmas hit, as they considered the song a throwaway with no hitmaking potential. To everyone's complete surprise, it went on to spend nine weeks at No. 1 during December 1950-January 1951, while \"Boogie Woogie Santa Claus\" failed to chart at all and was quickly forgotten. \"Tennessee Waltz\" also became Page's second single to appear on the country charts, becoming her biggest hit there, reaching number two. The song later became one of the best-selling records of its era, selling 7 million copies in the early 1950s. \"Tennessee Waltz\" remains the biggest commercial success for the overdubbing technique, pioneered by producer Mitch Miller , which enabled Page to harmonize with herself. \"Tennessee Waltz\" was the last song to sell one million copies of sheet music. The song was covered by several other singers during the next few months including Jo Stafford and Les Paul and Mary Ford . The song was featured in the 1970 film Zabriskie Point and in the 1983 film The Right Stuff . Breakthrough: 1951–1965 Page with Frankie Laine , c. 1950s In 1951, Page covered \" Would I Love You (Love You, Love You) \", which had been a hit for Doris Day . Page's version was a top-five hit that sold 1 million copies. The next single, \" Mockin'",
+      "id": "HotpotQA-validation-00006754/01_Patti-Page.html_c_6"
+    },
+    {
+      "text": "'s novel of the same name . In May 2014, Witherspoon began production in Louisiana on Hot Pursuit , a comedy in which she plays a police officer trying to protect a drug lord's widow ( Sofía Vergara ). The feature was released on May 8, 2015. 2016–present: Television success Witherspoon attending the premiere of Sing at the 2016 Toronto International Film Festival In 2016, Witherspoon had a voice role in the animated musical comedy film Sing , and served as a performer to the film's soundtrack . Sing became Witherspoon's biggest commercial success, being the first of her films to make over $200 million domestically and $600 million worldwide. That same year, Witherspoon began filming her first television project since 1993's Return To Lonesome Dove , the seven-part miniseries adaptation of the Liane Moriarty bestseller, Big Little Lies . She co-produced the miniseries along with co-star Nicole Kidman and director Jean-Marc Vallée , her second project under his direction. The series premiered on February 19, 2017, on HBO and finished on April 2. Witherspoon garnered critical acclaim for her performance, with TVLine proclaiming her as \"Performer of the Week\" in the weeks of February 26 – March 4, 2017, and June 23–29, 2019. The Washington Post compared her performance to",
+      "id": "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_20"
+    },
+    {
+      "text": "Mazzy Star is an American alternative rock band formed in 1988 in Santa Monica, California , from remnants of the group Opal . Founding member David Roback 's friend Hope Sandoval became the group's vocalist when Kendra Smith left Opal. Mazzy Star is best known for the song \" Fade into You \", which brought the band commercial success in the mid-1990s and was the group's biggest mainstream hit, earning extensive exposure on MTV , VH1 , and radio airplay. Roback and Sandoval were the creative center of the band, with Sandoval as lyricist and Roback as composer of the majority of the band's material until his death in Los Angeles on February 24, 2020, from cancer. Mazzy Star's founding drummer Keith Mitchell , originally part of Opal, died on May 14, 2017, also from cancer. The EP Still released on June 1, 2018, was dedicated to Keith Mitchell and stage manager Tom Cashen who also died in 2017. Following Roback's death in 2020, Sandoval and Ewers are the last surviving members of the band's original lineup. The band released the album She Hangs Brightly in 1990, So Tonight That I Might See in 1993 (the album went platinum in 1995), and Among My Swan in 1996. The band's fourth studio album, Seasons of Your",
+      "id": "HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Atom Egoyan is a film director (HotpotQA-validation-00005631/00_Atom-Egoyan.html_c_7).\n- Atom Egoyan has a filmography (HotpotQA-validation-00005631/00_Atom-Egoyan.html_c_7).\n- Cher's biggest commercial success was a film (HotpotQA-validation-00007198/02_Cher-filmography.html_c_1).\n- Reese Witherspoon's biggest commercial success was a film (HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_20).\n- Mazzy Star's biggest commercial success was a song (HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0).\n- Patti Page's biggest commercial success was a song (HotpotQA-validation-00006754/01_Patti-Page.html_c_6).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Was Atom Egoyans biggest commercial success on stage or on film?",
+      "doc_ids": [
+        "HotpotQA-validation-00007198/02_Cher-filmography.html_c_1",
+        "HotpotQA-validation-00005631/00_Atom-Egoyan.html_c_7",
+        "HotpotQA-validation-00006754/01_Patti-Page.html_c_6",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_20",
+        "HotpotQA-validation-00000715/01_Mazzy-Star.html_c_0"
+      ]
+    }
+  ]
+}

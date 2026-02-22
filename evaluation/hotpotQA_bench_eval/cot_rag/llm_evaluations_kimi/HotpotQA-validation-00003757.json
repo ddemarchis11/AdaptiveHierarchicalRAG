@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003757",
+  "question": "Which American band was formed the earliest, CKY or Violent Femmes?",
+  "gold_answer": "Violent Femmes",
+  "llm_answer": "Violent Femmes were founded in 1981; CKY was formed in early 1998. Therefore, Violent Femmes were formed earlier.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Violent Femmes as the band formed earlier, aligning with the Gold Answer. It provides the formation years for both bands, which are supported by the Retrieved Context. All relevant facts from the Gold Answer are included."
+  }
+}

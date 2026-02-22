@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000548",
+  "question": "During the 2012-13 season, a Swiss football club signed a former AC Milan midfielder known for his combative style alongside a striker who currently plays for which Edinburgh-based club?",
+  "gold_answer": "Scottish Premiership club Hearts",
+  "llm_answer": "The context states that during the 2012–13 season FC Sion signed Italian World Cup winner Gennaro Gattuso and striker Kyle Lafferty, who formerly played for Rangers. It does not mention any Edinburgh-based club, so the required information is not provided.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the Edinburgh-based club where the striker currently plays. However, it fails to answer the question using external knowledge or internal reasoning, which would have identified 'Hearts' as the correct answer. The answer is faithful to the context but does not contain the required factual information or cover the evidence from the Gold Answer."
+  }
+}

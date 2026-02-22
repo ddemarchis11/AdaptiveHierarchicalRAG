@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The Sioux uprising prompted immediate local mobilization: St. Paul citizens organized home-guard units and nightly patrolled the bluffs overlooking the city, while the First Minnesota Cavalry was ordered back from leave and sent on a 3,000-mile campaign against the Sioux in 1864.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning the Sioux uprising and Minnesota's military mobilization, including the organization of home guards and the First Minnesota Cavalry's campaign. However, it does not explicitly connect the rebellion to Gen. Sibley or the furnishing of the Sixth regiment, as stated in the Gold Answer. Additionally, while the context mentions campaigns against the Sioux, it does not fully support the claim about the First Minnesota Cavalry's involvement or the specific details of the 3,000-mile campaign, leading to partial faithfulness and evidence coverage."
+  }
+}

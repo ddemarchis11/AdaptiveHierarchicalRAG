@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002276",
+  "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+  "gold_answer": "Brady Seals",
+  "llm_answer": "Nick Carter has released four solo albums: *Now or Never* (2002), *I'm Taking Off* (2011), *All American* (2015), and *Love Life Tragedy* (2025). Brady Seals has released four solo albums: *The Truth* (1996), *Brady Seals* (1998), *Thompson Street* (2003), and *Play Time* (2009). Therefore, both have released the same number of solo albums.",
+  "context": [
+    {
+      "text": "playing keyboards and co-writing all of the band's major hits. By late 1994, shortly after the release of their third album, Kick a Little , Seals had left the group and began a solo career. He signed to Reprise Records and released his debut album, The Truth , in 1996. It produced three chart singles for him, including his only solo top 40 hit, \"Another You, Another Me\" at number 32. Another album, the self-titled Brady Seals , was issued in 1998 via Reprise Records' parent label, Warner Bros. Records , 2003's Thompson Street , released via Image Entertainment Seals formed the band Hot Apple Pie . This band recorded a self-titled debut album for DreamWorks Records and charted three country singles, including the number 26 \"Hillbillies.\" Seals's fourth album, Play Time , was released in 2009 via StarCity Recording Company. Discography Albums Singles Music videos References External links Brady Seals at Allmusic",
+      "id": "HotpotQA-validation-00002276/01_Brady-Seals.html_c_1"
+    },
+    {
+      "text": "Brady Seals (born March 29, 1969) is an American country music artist. He is the cousin of Jim Seals (of Seals & Crofts) and Dan Seals , Johnny Duncan , the nephew of Troy Seals . Seals made his debut in 1988 as co-lead vocalist and keyboardist in the sextet Little Texas , with whom he recorded until his departure in late 1994. Between then and 2002, he recorded as a solo singer, releasing three studio albums and charting in the Top 40 on the country charts with \"Another You, Another Me\". In 2002, Seals formed a quartet called Hot Apple Pie , in which he has recorded one studio album and charted three singles. A fourth solo album, Play Time , was released in 2009 via Star City. Biography Seals was raised in a musical home in the Cincinnati , Ohio, suburb of Fairfield . He began playing piano and writing songs at the age of nine, and was performing in a high-school band at the age of 16. After leaving home not long after, Seals returned to finish his education, but then left again. He ended up in Nashville and joined the group Little Texas with friend and fellow musician Del Gray. Seals spent six years with Little Texas, playing keyboards and co-writing all of the band's major hits. By late 1994, shortly after the release of their third album, Kick a",
+      "id": "HotpotQA-validation-00002276/01_Brady-Seals.html_c_0"
+    },
+    {
+      "text": "Nickolas Gene Carter (born January 28, 1980) is an American singer and a lead vocalist of the vocal group Backstreet Boys . As of 2025, he has released four solo albums, Now or Never (2002) , I'm Taking Off (2011), All American (2015) and Love Life Tragedy (2025) all during breaks between Backstreet Boys schedules, and a collaboration with Jordan Knight titled Nick & Knight . He has made occasional television appearances and starred in his own reality shows, House of Carters and I (Heart) Nick Carter . Early life Carter was born in Jamestown, New York , where his parents, Jane Eleonora Schneck (née Spaulding, previously Carter) and Robert Carter (d. 2017), owned a bar called the Yankee Rebel in Westfield, New York . His ancestry is primarily North and West European , Scandanavian and Italian. Several years later, when Carter was four, the family moved to Ruskin , Florida , near Tampa , and managed the Garden Villa Retirement Home, where they added to the family. Carter's siblings include Leslie Carter (1986–2012), Aaron Carter (1987–2022), Angel Carter (born 1987), and Bobbie Jean Carter (1982–2023). He stated in the Fall 1999 issue of the teen magazine J-14 that \"...I have lots of siblings. My dad, who's an",
+      "id": "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_0"
+    },
+    {
+      "text": "you with all my heart, you know I always will.\" On August 18, Carter released a new single, Superman , dedicating it to his family after everything they had been through with Aaron's death as well as how his sister Angel got involved with the foundation On Our Sleeves. This foundation works to help children facing mental and emotional health struggles. In conjunction with On Our Sleeves, Nick held an event honoring Aaron at a benefit concert in January. In July 2023, Carter announced he would embark on his first solo tour in almost a decade. The Who I Am World Tour was a more personal show for fans to discover Carter's story of his many early musical influences before joining the Backstreet Boys. It would feature Carter performing music from his solo albums, Backstreet Boys songs, & covers of songs from the 1980s. The tour kicked off October 4, 2023 in Lexington, KY for an initial 14-city run across North America. It later expanded with Carter traveling to Latin America, Europe, Asia, and a second leg of North America. Carter released two new singles, Made for Us and Never Break My Heart (Not Again) in 2024. On July 17, Carter released a single from his album Searchlight . Emmy win In August 2023, Carter offered his vocal talents for the rendition of \"Happy Xmas,\" a song featuring patients from the Cure 4 The Kids Foundation, celebrities, and well-known recording artists such",
+      "id": "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_9"
+    },
+    {
+      "text": "encompass terminated endorsement deals, mental anguish, legal fees, and other damages. Since the premiere of the docuseries \" Fallen Idols ,\" Carter has filed another lawsuit against Schuman, stating that her alleged lies and defamatory statements cost him and the band a seven-figure deal. Repp's anti-SLAPP motion was granted in August 2024. However, Carter has since filed an appeal against Repp and filed court docs demanding Repp’s claims be thrown out january 7. A trial date was set for Carter's countersuit against Schuman in December, but was rescheduled to may 10 2027 while Repp and Ruth's cases will be heard together in Nevada in March 2026 and penly's case is scheduled for october 12 2026. One month after the Fallen Idols docuseries premiere, another woman contacted Schuman privately about allegedly being sexually assaulted by Carter, stating her identity and enough \"specific details\" to appear \"credible\". Schuman's lawyer told Rolling Stone that the accuser, who alleges she was assaulted sometime after 2003, had offered to give testimony in support of Schuman’s litigation. Discography Solo albums Now or Never (2002) I'm Taking Off (2011) All American (2015) Love Life Tragedy (2025) Collaborative albums Nick & Knight (2014) (with Jordan Knight ) Singles As main artist Filmography References External links Wikimedia Commons has media",
+      "id": "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_24"
+    }
+  ],
+  "cot_scratchpad": "- Brady Seals released 4 solo albums: The Truth (1996), Brady Seals (1998), Thompson Street (2003), Play Time (2009) (HotpotQA-validation-00002276/01_Brady-Seals.html_c_1)\n- Nick Carter released 4 solo albums: Now or Never (2002), I’m Taking Off (2011), All American (2015), Love Life Tragedy (2025) (HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_0, HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_24)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who has released more solo albums, Nick Carter or Brady Seals?",
+      "doc_ids": [
+        "HotpotQA-validation-00002276/01_Brady-Seals.html_c_1",
+        "HotpotQA-validation-00002276/01_Brady-Seals.html_c_0",
+        "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_0",
+        "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_9",
+        "HotpotQA-validation-00002276/00_Nick-Carter-musician.html_c_24"
+      ]
+    }
+  ]
+}

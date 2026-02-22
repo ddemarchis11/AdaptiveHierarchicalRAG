@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001051",
+  "question": "Are both \"Cooking Light\" and \"Vibe\" magazines?",
+  "gold_answer": "yes",
+  "llm_answer": "Based on the provided evidence, it appears that:\n\n- \"Vibe\" magazine is an American music and entertainment magazine that focuses on R&B and hip hop music artists, actors, and other entertainers. It was founded in 1993 by Quincy Jones and has undergone several changes in ownership and publication frequency over the years.\n\n- \"Cooking Light\" is an American monthly food and lifestyle magazine that focuses on healthy cooking and recipes. It was founded in 1987 and has undergone a merger with Eating Well in 2018, but continues to publish separate special issues.\n\nTherefore, the answer to the question is that \"Vibe\" and \"Cooking Light\" are two different magazines with distinct focuses and publication histories.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that both 'Vibe' and 'Cooking Light' are magazines, providing detailed descriptions of their focus and histories. This aligns with the Gold Answer ('yes') and is fully supported by the Retrieved Context."
+  }
+}

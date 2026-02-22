@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5504201a",
+  "question": "According to the narrative in 'Impressions of Theophrastus Such', what is described as the relationship between Christ and the Jews, particularly with respect to Christ having 'the heart of a Jew' and his origins from the Israelites?",
+  "gold_answer": "Christ is described as having the heart of a Jew and as coming from the Israelites.",
+  "llm_answer": "The text states that “The Christ of Matthew had the heart of a Jew—‘Go ye first to the lost sheep of the house of Israel,’” and it adds that, “as concerning the flesh Christ came” from the Israelites, “to whom pertaineth the adoption, and the glory, and the covenants … and the promises; whose are the fathers.” Thus, Christ is portrayed as having the heart of a Jew and as being physically descended from the Jewish people.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, stating that Christ is described as having the heart of a Jew and being descended from the Israelites. It provides additional context and quotes from the retrieved text, which are relevant and supported by the context. All key facts from the Gold Answer are included."
+  }
+}

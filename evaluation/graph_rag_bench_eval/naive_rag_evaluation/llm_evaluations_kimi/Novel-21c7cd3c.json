@@ -1,0 +1,12 @@
+{
+  "id": "Novel-21c7cd3c",
+  "question": "Which literary work did Goethe read aloud to his contemporaries, as recorded in accounts of his engagement with English literature?",
+  "gold_answer": "Goethe reads aloud Tristram Shandy.",
+  "llm_answer": "Goethe read *The Vicar of Wakefield* aloud to his contemporaries.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Goethe read 'The Vicar of Wakefield' aloud, whereas the Gold Answer specifies 'Tristram Shandy.' The retrieved context does not support the claim about 'The Vicar of Wakefield,' nor does it provide evidence for the Model Answer's assertion. The Model Answer fails to align with the Gold Answer and lacks grounding in the provided context."
+  }
+}

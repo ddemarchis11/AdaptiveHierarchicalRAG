@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000645",
+  "question": "Which American comedian born on March 21, 1962, appeared in the movie \"Sleepless in Seattle?\"",
+  "gold_answer": "Rosie O'Donnell",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "to its release being postponed from March 26 to June 25. The film became one of the highest-grossing of 1993, and remains the 13th highest-grossing romantic comedy in the United States. According to The Numbers , Sleepless in Seattle is the 21st highest-grossing romantic comedy of all-time. In July 1993, Rolling Stone journalist Lawrence Frascella predicted that Ephron \"is poised to become one of Hollywood's leading women directors\" with the success of Sleepless in Seattle. To commemorate the film's 25th anniversary, Fathom Events and Sony Pictures Entertainment re-released Sleepless in Seattle in approximately 400 theatres throughout the United States for two days, on the December 2 and 5, 2018. Ryan and Foster filmed a new introduction exclusive to the re-issue. The film continues to be aired regularly on various television stations. Home media The film was released on VHS on December 8, 1993 by Columbia TriStar Home Video . It proved very successful in the rental market, and ended up as the most rented movie of 1994 in the United States. Reception Critical response Contemporary Sleepless in Seattle received positive reviews upon release. Critics particularly praised Hanks and Ryan's performances and chemistry in the lead roles. Audiences polled by CinemaScore gave the film an average grade of \"A\" on an A+ to F scale. Rolling Stone film critic Peter Travers lauded Sleepless",
+      "id": "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_33"
+    },
+    {
+      "text": "Madonna, with whom the comedian had also starred in A League of Their Own . Inspired by Whoopie Goldberg 's Academy Award-winning performance in Ghost (1990), Ephron felt hiring a comedian in a funny supporting role would similarly benefit Sleepless in Seattle . O'Donnell based her performance on singer and actress Bette Midler , specifically emulating the way she walks and talks in order to convey \"the funny, caustic best friend with a heart of gold\" role she had wanted to play since deciding to become an actor. Eventually reduced from two-pages, the speech was the longest of O'Donnell's career at that point. She noted her experience was particularly different from A League of Their Own , which had been largely improvisational compared to Ephron's organized directorial style. O'Donnell and Ephron lived in the same apartment building while filming Sleepless in Seattle , which Ephron had obtained for her. Hanks' wife Rita Wilson originally auditioned for the role of Becky, but Ephron preferred her for the role of Sam's sister Suzy, which the director found particularly convenient because Wilson was already in Seattle with her husband. Ephron cast Rob Reiner , who directed When Harry Met Sally ..., as Sam's friend in the film, with Reiner contributing to many of the film's laughs. According to some of the main cast, Ephron typically insisted that the actors recite their lines almost exactly as-written, although Ephron herself said she",
+      "id": "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_14"
+    },
+    {
+      "text": "from simply an Italian dessert into a phenomenon almost overnight, reporting that \"Minutes after the movie opened, every morning TV show had some cook making tiramisu\", while The Free Press Journal said the film resulted in global fame for the desert. Olga Massov of The Washington Post said some tiramisu began to suffer in quality due to their popularity, reporting that several restaurants began taking shortcuts in order to keep up with the demand. In a 2014 interview with RogerEbert.com , Reiner dismissed tiramisu as overrated, insisting that he would never order it for himself. Notes References External links Wikiquote has quotations related to Sleepless in Seattle . Sleepless in Seattle at IMDb Sleepless in Seattle at the TCM Movie Database (archived version) Sleepless in Seattle at the AFI Catalog of Feature Films",
+      "id": "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_46"
+    },
+    {
+      "text": "alongside its predecessor When Harry Met Sally... and successor You've Got Mail . Despite being her second directorial effort, Sleepless in Seattle 's success eclipsed that of her directorial debut, and ultimately established Ephron \"as a major directorial force in the rom-com genre\". In 2018, The A.V. Club 's Caroline Siede said the film remains her finest work as a director. On its 20-year anniversary, HuffPost wrote that the film continues to resonate due to \"Ephron's sharp dialogue and the inherent goodness and charm projected by both Hanks and Ryan\". According to Ariel Levy of The New Yorker , Sleepless in Seattle established Ephron as a famous director. In 2013, co-executive producer Lynda Obst released a book named after the film, Sleepless in Hollywood: Tales from the New Abnormal in the Movie Business , which explores the decline of romantic comedies during the 2010s. Obst remarked that Sleepless in Seattle 's nearly $300 million gross is hardly considered a \"smash\" as of 2014, explaining, \"Studios aren't happy unless it makes close to a billion dollars\". Sleepless in Seattle is credited with introducing most Americans to tiramisu , which had been a relatively obscure dessert before 1993. Rob Reiner's character Jay mentions \"tiramisu\" during a conversation with Sam about dating, which Sam mistakes a euphemism for a sexual act. Jay does",
+      "id": "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_44"
+    },
+    {
+      "text": "to use the 1993 TriStar Pictures logo. Box office Despite initially being perceived as an underdog, the film was surprisingly successful at the box office, becoming \"the surprise hit of the season\" according to The Baltimore Sun 's Mike Littwin. The film was widely touted the sleeper hit of the summer. Sleepless in Seattle opened theatrically on June 25, 1993, coincidentally the same day as former Sleepless in Seattle director Nick Castle's Dennis the Menace . It premiered in 1,579 venues, earning $17,253,733 in its opening weekend, ranking second in the North American box office behind the third weekend of Jurassic Park . Sleepless in Seattle had the most successful opening weekend for a romantic comedy at the time. The Los Angeles Times reported that the opening weekend audience was 60% female and 40% 30 years and older. At the end of its run, the film grossed $126,808,165 in the United States and Canada, and $101,119,000 in other territories, for a worldwide total of $227,927,165. According to HuffPost , Sleepless in Seattle 's earnings established it as \"the most successful traditional romantic comedy of all-time\" at the time of its release. Ephron and Foster attribute the film's success to its release being postponed from March 26 to June 25. The film became one of the highest-grossing of 1993, and",
+      "id": "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_32"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- American comedian born on March 21, 1962 (Novel-00000645_c_14).\n- Comedian appeared in the movie 'A League of Their Own' (Novel-00000645_c_14).\n- Movie 'A League of Their Own' (Novel-00000645_c_14).\n- Comedian starred alongside Madonna in 'A League of Their Own' (Novel-00000645_c_14).\n- Ephron felt hiring a comedian in a funny supporting role would benefit 'Sleepless in Seattle' (Novel-00000645_c_14).\n- O'Donnell based her performance on Bette Midler (Novel-00000645_c_14).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which American comedian born on March 21, 1962, appeared in the movie \"Sleepless in Seattle?\"",
+      "doc_ids": [
+        "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_33",
+        "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_14",
+        "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_46",
+        "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_44",
+        "HotpotQA-validation-00000645/00_Sleepless-in-Seattle.html_c_32"
+      ]
+    }
+  ]
+}

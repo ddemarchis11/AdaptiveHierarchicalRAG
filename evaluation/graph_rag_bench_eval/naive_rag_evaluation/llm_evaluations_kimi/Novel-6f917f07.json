@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6f917f07",
+  "question": "Describe the relationship between Latimer and Ellen in the context of the novel, noting Latimer's feelings for Ellen and her identity as the daughter of the bishop.",
+  "gold_answer": "Latimer loves Ellen, who was the daughter of the bishop.",
+  "llm_answer": "Latimer is the suitor who wants to marry Ellen, the bishop’s daughter.  \nHe insists that he loves her and has asked her father for permission to marry her; earlier that same evening Ellen herself has told Latimer that she loves him.  \nWhen the bishop questions whether Latimer’s past attachment to another woman is truly over, Latimer protests that his feeling for Ellen is genuine and present, begging her not to reject him.  \nThus, within the story Latimer is the young man earnestly seeking to become the husband of the bishop’s daughter, and Ellen is the girl whose love he believes he has won and still hopes to keep.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes the relationship between Latimer and Ellen, including Latimer's feelings for Ellen and her identity as the bishop's daughter. It provides additional context about Latimer's earnestness and Ellen's earlier declaration of love, which are supported by the retrieved context. All key facts from the Gold Answer are included, and the extra details enhance understanding without introducing unsupported claims."
+  }
+}

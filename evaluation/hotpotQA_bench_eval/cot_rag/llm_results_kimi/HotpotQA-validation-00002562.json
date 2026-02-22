@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002562",
+  "question": "Wincenty Gostkowski was a lawyer for the watch manufacturer Patek Philippe & Co. in which city in Switzerland?",
+  "gold_answer": "Geneva, Switzerland",
+  "llm_answer": "Geneva",
+  "context": [
+    {
+      "text": "Wincenty Gostkowski (March 29, 1807 – August 29, 1884) was a lawyer and associate of Antoni Patek and Adrien Philippe in the watchmaker Patek Philippe & Co. in Geneva , Switzerland. Gostkowski was born in Grzymki , Poland . He became the financier of Antoni Patek's watchmaking business in Geneva that in 1851 became Patek Philippe & Co. On June 30, 1847, at the age of 40, he married a Frenchwoman Marie-Antoinette de Rabaudy from Brest , twenty years his junior. For this marriage, Antoni Norbert de Patek and Jean Adrien Philippe were two of three witnesses. Gostkowski had two sons, one of whom, Wawrzyniec , he educated in watchmaking Wincenty Gotkowski retired from Patek Philippe & Co. on January 21, 1876. He died in 1884 in Geneva ; his wife Marie-Antoinette outlived him twenty-four years. References v t e",
+      "id": "HotpotQA-validation-00002562/00_Wincenty-Gostkowski.html_c_0"
+    },
+    {
+      "text": "Patek Philippe SA ( French: [paˈtɛk fiˈlip] ) is a Swiss luxury watchmaker and clock manufacturer , located in the Canton of Geneva and the Vallée de Joux . Established in 1839, it is named after two of its founders, Antoni Patek and Adrien Philippe . Since 1932, the company has been owned by the Stern family in Switzerland and remains the last family-owned independent watch manufacturer in Geneva . Patek Philippe is one of the oldest watch manufacturers in the world with an uninterrupted watchmaking history since its founding. It designs and manufactures timepieces as well as movements , including some of the most complicated mechanical watches . The company maintains over 400 retail locations globally and over a dozen distribution centers across Asia, Europe, North America, and Oceania. In 2001, it opened the Patek Philippe Museum in Geneva. Patek Philippe is widely considered to be one of the most prestigious watch manufacturers in the world. As of July 2023, among the world's top ten most expensive watches ever sold at auctions , nine were Patek Philippe watches. In particular, Patek Philippe Grandmaster Chime Ref. 6300A-010 currently holds the title of the most expensive watch (and wristwatch) ever sold at auction (US$31 million/27 million CHF ), while the Patek Philippe Henry Graves Supercomplication , the world's most",
+      "id": "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_0"
+    },
+    {
+      "text": "developed the first Swiss quartz movements, such as the Beta 21 movement (1969) which was used by several manufacturers in their watches. In 1950s, the company even produced a prototype for a mechanical digital wristwatch, Ref. 3414. Patek Philippe popularized complications such as perpetual calendar , split-seconds hand , chronograph , and minute repeater in mechanical watches. In 2009, the company announced that all of its future mechanical timepieces would be imprinted with the Patek Philippe Seal which requires a precision of -3/+2 seconds per day for diameters no less than 20 mm and -5/+4 seconds per day for diameters less than 20 mm, surpassing the highest industry standard of watch manufacturing and thus abandoning the Geneva Seal. In December 2018, World Wide Fund for Nature (WWF) released a report assigning environmental ratings for 15 major watch manufacturers and jewelers in Switzerland. Patek Philippe was given the lowest environmental rating as \"Latecomers/Non-transparent\", suggesting the manufacturer has taken few actions addressing the impact of its manufacturing activities on the environment and climate change. Notable inventions and patents Patek Philippe has invented over 20 basic calibres and has received over 100 patents. The following are some of the important contributions from Patek Philippe to the watchmaking industry. In 1845, patented keyless winding and hand-setting system, which received a bronze medal at",
+      "id": "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_7"
+    },
+    {
+      "text": "Jean Adrien Philippe (16 April 1815, La Bazoche-Gouet , Eure-et-Loir – 5 January 1894) was a French horologist and cofounder of watchmaker Patek Philippe & Co. of Geneva , Switzerland. In 1842, Adrien Philippe invented a mechanism for watches which allowed them to be wound and set by means of a crown rather than a key. His patented invention earned him a Bronze Medal at the French Industrial Exposition of 1844 (World's Fair). At the Exhibition, Adrien Philippe first met Antoni Patek and a year later became head watchmaker at Patek & Co. in Geneva under an agreement that entitled him to one third of all company profits. Adrien Philippe proved to be very capable at his craft and a product innovator whose value to the firm was such that by 1851 he was made a full partner and the firm began operating as Patek Philippe & Co. In 1863 he published a book in Geneva and Paris on the workings of pocket watches titled Les montres sans clef . In 1875, Adrien Philippe commissioned a watch that he later gave his daughter, Louise, as a wedding present, which is known as the only wristwatch dating back to be owned by either Patek or Philippe. This historical watch is known as “The Watchmaker’s Daughter” and was auctioned at Sotheby’s in 2023",
+      "id": "HotpotQA-validation-00002562/03_Adrien-Philippe.html_c_0"
+    },
+    {
+      "text": "respectively, and both watches currently rank among the top ten most expensive watches ever sold at auction , with final prices over 5 million US dollars. 175th anniversary edition In 2014, Patek Philippe introduced the Grandmaster Chime Ref. 5175, the most complicated wristwatch ever built by the manufacturer (with 20 complications, but no tourbillon ), to celebrate its 175th anniversary. Only seven pieces of Ref. 5175 were created, with one permanently residing in the Patek Philippe Museum in Geneva. The sale price for each of the other six pieces was 2.5 million CHF (2.6 million US dollars). In 2016, Patek Philippe introduced the Grandmaster Chime Ref. 6300, succeeding the Grandmaster Chime Ref. 5175. Ref. 6300 also has 20 complications, including grande sonnerie , minute repeater , and alarm with time strike (but without tourbillon), with the sale price over 2.2 million US dollars. The purchase of each piece requires an application from the buyer and has to be approved by Patek Philippe President Thierry Stern. See also Companies portal Switzerland portal Boule de Genève List of watch manufacturers Manufacture d'horlogerie Patek Philippe Calibre 89 Patek Philippe Henry Graves Supercomplication Notes References Further reading Library of reference books on Patek Philippe watches and company Archived",
+      "id": "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_20"
+    }
+  ],
+  "cot_scratchpad": "- Wincenty Gostkowski was a lawyer in Patek Philippe & Co. in Geneva, Switzerland (HotpotQA-validation-00002562/00_Wincenty-Gostkowski.html_c_0)\n- The company became Patek Philippe & Co. in Geneva in 1851 (HotpotQA-validation-00002562/00_Wincenty-Gostkowski.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Wincenty Gostkowski was a lawyer for the watch manufacturer Patek Philippe & Co. in which city in Switzerland?",
+      "doc_ids": [
+        "HotpotQA-validation-00002562/00_Wincenty-Gostkowski.html_c_0",
+        "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_0",
+        "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_7",
+        "HotpotQA-validation-00002562/03_Adrien-Philippe.html_c_0",
+        "HotpotQA-validation-00002562/01_Patek-Philippe-amp-Co.html_c_20"
+      ]
+    }
+  ]
+}

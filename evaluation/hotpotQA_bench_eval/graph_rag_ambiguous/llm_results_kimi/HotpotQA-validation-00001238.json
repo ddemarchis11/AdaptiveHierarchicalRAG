@@ -1,0 +1,316 @@
+{
+  "id": "HotpotQA-validation-00001238",
+  "question": "In what year was the co-experimenter born who collaborated with a prominent German rocket pioneer on a 1937 pre-war rocketry experiment conducted under a military codename?",
+  "gold_answer": "1895",
+  "llm_answer": "Walter Dornberger, who co-experimented with Wernher von Braun in the 1937 Operation Lighthouse, was born in 1895.",
+  "context": [
+    {
+      "text": "powder-rocket training battery at Königsbrück . In May 1937, Dornberger and his ninety-man organization were transferred from Kummersdorf to Peenemünde . In September 1942, Dornberger was given two posts: coordinating the V-1 flying bomb and V-2 rocket development programs and directing active operations. The first successful test launch of a V-2 was the third test launch on 3 October 1942.  Dornberger (left) with Wernher von Braun (in civilian clothes) in Peenemünde, February 1941 In June 1943, in a speech to nearly 6,500 German employees and soldiers in Peenemünde, Dornberger blended traditional German patriotism with Nazi ideological motifs while also highlighting and reinforcing many of the unique factors that made missile development so successful at Peenemünde in the first place. By emphasizing the path-breaking nature of their work as well as its singular importance to the war effort, all while playing on the popular fear of the Soviet Union and the disdain for the Western Allies for bombing their cities into rubble, Dornberger composed a powerful message that would certainly appeal to many Peenemünders. In the early morning of 7 July 1943, Ernst Steinhoff flew von Braun and Major-General Dornberger in his Heinkel He 111 to Hitler's Führerhauptquartier \" Wolfsschanze \" headquarters and the next day Hitler viewed the film of the successful V-2 test launch (narrated by von Braun) and the scale models of the Watten bunker and launching-troop vehicles: This third day of October, 1942, is the first of a new era in transportation, that of space travel ... — Walter Dornberger, speech at Peenemünde 3 October 1942 I have had to apologize only to two men in my whole life. The first was Field Marshal von Brauchitsch . I did not listen to him when he told me again and again how important your research was. The second man is yourself. I never believed that your work would be successful. — Adolf Hitler, Apology to Major-General Dornberger, 8 July 1944 Dornberger (on the left, with hat) together with von Braun, after their surrender to Allies in Austria, May 1945 In January 1944, Dornberger was named Senior Artillery Commander 191 and was headquartered at Maisons-Lafitte near Saint Germain, and in December 1944, Dornberger was given complete authority for anti-aircraft rocket development ( Flak E Flugabwehrkanonenentwicklung ). On 12 January 1945 on Dornberger's proposal, Albert Speer replaced the Long-Range Weapons Commission with \"Working Staff Dornberger\". In February 1945, Dornberger and staff relocated his headquarters from",
+      "id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_c_1",
+      "doc_id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html",
+      "community_id": 3,
+      "score": 28.932926
+    },
+    {
+      "text": "spacecraft was launched initially on 27 April 1958, but the satellite had a failure with the engine which caused the satellite to fall back down to Earth in separate pieces. On 15 May 1958, Sputnik 3 was successfully launched into orbit. The tape recorder that was to store the data failed after launch. As a result, the discovery and mapping of the Van Allen radiation belts was left to the United States' Explorer 3 and Pioneer 3 satellites. Sputnik 3 left little doubt with the American government about the Soviets' pending ICBM capability. The Moon Even before the Sputnik 1 launch, Korolev was interested in getting to the Moon. He came up with the notion to modify the R-7 missile in order to carry a package to the Moon. However, it was not until 1958 that this idea was approved, after Korolev wrote a letter explaining that his current technology would make it possible to get to the Moon. A modified version of the R-7 launch vehicle was used with a new upper stage. The engine for this final stage was the first designed to be fired in outer space. Mechta is the Russian word meaning \"dream\", and this is the name Korolev called his moon ships. Officially, the Soviet Union called them Lunas . The first three lunar probes launched in 1958 all failed in part because of political pressure forcing the launches to be rushed with an inadequate budget to test and develop the hardware properly before they were ready to fly. Korolev thought political infighting in Moscow was responsible for the lack of sufficient funding for the program, although the US space program at this early phase also had a scarcely enviable launch record. Once, when pressured to beat the US to a working lunar probe, Korolev allegedly exclaimed: \"Do you think that only American rockets explode!?\" The Luna 1 mission on 2 January 1959 was intended to impact the surface, but missed by about 6,000 kilometres (3,700 mi). Nevertheless, this probe became the first to reach escape velocity and the first to go near the Moon, as well as becoming the first man-made object to orbit the Sun. A subsequent attempt ( Luna E-1A No.1 ) failed at launch, and then Luna 2 successfully impacted the surface on 14 September 1959, giving the Soviets another first. This was followed just one month later by an even greater success with Luna 3 . It was launched only two years after Sputnik 1, and on 7 October 1959 was the first spacecraft to photograph the far side of the Moon , which was something the people of Earth had never seen beforehand. The Luna missions were intended to make a successful soft landing on the Moon, but Korolev was unable to see a success. Luna 4 and Luna 6 both missed, Luna 5 , Luna 7 , and Luna",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_10",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 8,
+      "score": 27.401987
+    },
+    {
+      "text": "Major-General Dr. Walter Robert Dornberger (6 September 1895 – 26 June 1980) was a German Army artillery officer whose career spanned World War I and World War II . He was a leader of Nazi Germany's V-2 rocket programme and other projects at the Peenemünde Army Research Centre . After the war, the US Nazi scientist recruitment programme Operation Paperclip saw him move to the US, largely avoiding punishment for involvement in war crimes, to work for some decades in high positions in aerospace, including for Bell Aircraft and Boeing . Early life Dornberger was born in Gießen in 1895. In 1914 he enlisted in the German army during World War 1 . In October 1918, as an artillery lieutenant, Dornberger was captured by United States Marines and spent two years in a French prisoner of war camp, mostly in solitary confinement because of repeated escape attempts. In the late 1920s, Dornberger completed an engineering course with distinction at the Berlin Technical Institute , and in the spring of 1930, Dornberger graduated after five years with an MS degree in mechanical engineering from the Technische Hochschule Charlottenburg in Berlin. In 1935, Dornberger received an honorary doctorate , which Col. Karl Emil Becker arranged as Dean of the new Faculty of Military Technology at the TH Berlin. Rocket development In April 1930, Dornberger was appointed to the Ballistics Council of the German Army ( Reichswehr ) Weapons Department as Assistant Examiner under Klaus von Duffenberg to secretly develop a military liquid-fuel rocket suitable for mass-production that would surpass the range of artillery. In the spring of 1932, Dornberger, his commander (Captain Ritter von Horstig), and Col. Karl Emil Becker visited the Verein für Raumschiffahrt (VfR)'s leased Raketenflugplatz (English: \"Rocket Flight Field\") and subsequently issued a contract for a demonstration launch. On 21 December 1932, Captain Dornberger watched a rocket motor explode at Kummersdorf while Wernher von Braun tried to light it with a flaming gasoline can at the end of a four-meter-long (13 ft) pole. In 1933, Waffenamt Prüfwesen ( Wa Prüf , English: \"Weapons Testing\") 1/1, under the Heereswaffenamt (Army Weapons Department), commenced work under the direction of Colonel Ing. h. c. Dornberger. Dornberger also took over his last military command on 1 October 1934, a powder-rocket training battery at Königsbrück . In May 1937, Dornberger and his ninety-man organization were transferred from Kummersdorf to Peenemünde . In September 1942, Dornberger was given two posts: coordinating the V-1 flying bomb and",
+      "id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_c_0",
+      "doc_id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html",
+      "community_id": 3,
+      "score": 24.35086
+    },
+    {
+      "text": "( Flak E Flugabwehrkanonenentwicklung ). On 12 January 1945 on Dornberger's proposal, Albert Speer replaced the Long-Range Weapons Commission with \"Working Staff Dornberger\". In February 1945, Dornberger and staff relocated his headquarters from Schwedt-an-der-Oder to Bad Sachsa, then on 6 April 1945, from Bad Sachsa to Haus Ingeborg in Oberjoch near Hindelang in the Allgäu mountains of Bavaria. Before going to the Alps, General Dornberger hid comprehensive V-2 documentation in a mine near Goslar , which were recovered by the US 332nd Engineer Regiment on 16 May 1945 by a secret action when Goslar was already occupied by the British Army. On 2 May 1945, Dornberger, von Braun, and five other men departed from Haus Ingeborg and travelled through Gaicht Pass and towards the little Austrian village of Schattwald. They met American soldiers who convoyed the group to the Tyrolean town of Reutte for the night. At an internment camp after the war, known as \" CSDIC Camp 11\", the British bugged Dornberger, who in conversation with Generalmajor Gerhard Bassenge (GOC Air Defences, Tunis & Biserta) said that he and Wernher von Braun had realized in late 1944 that things were going wrong and had consequently communicated with the General Electric Corporation through the German Embassy in Portugal , with the intent of coming to some arrangement. Postwar In mid-August 1945, after taking part in Operation Backfire , Dornberger was escorted from Cuxhaven to London for interrogation by the British War Crimes Investigation Unit in connection with the use of slave labour in the production of V-2 rockets; he was subsequently transferred and detained for two years at Bridgend in South Wales. Along with some other German rocket scientists, Dornberger was released and brought to the United States under the auspices of Operation Paperclip and worked for the United States Air Force for three years, developing guided missiles . From 1950 to 1965, he worked for the Bell Aircraft Corporation , where he worked on several projects, rising to the post of Vice-President. He played a major role in the creation of the North American X-15 aircraft and was a key consultant for the Boeing X-20 Dyna-Soar project. He also had a role in the creation of ideas and projects which, in the end, led to the creation of the Space Shuttle. Dornberger also developed Bell's ASM-A-2 , the world's first guided nuclear air-to-surface missile developed for the Strategic Air Command . Dornberger advised West Germany on a European space program . During the 1950s he had some differences with von Braun and was instrumental in recruiting several engineers out of the",
+      "id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_c_2",
+      "doc_id": "HotpotQA-validation-00001238/01_Walter-Dornberger.html",
+      "community_id": 3,
+      "score": 21.789265
+    },
+    {
+      "text": "engineers and their families between December 1951 and November 1953. In April 1948 the go ahead for \"scientific and experimental work\" was approved, which led to the creation of the R-2. The R-2 doubled the range of the V-2, and was the first design to utilize a separable warhead. This was followed by the R-3, which had a range of 3,000 kilometres (1,900 mi), and thus could target England. Glushko couldn't obtain the required thrust from the R-3 engines, so the project was canceled in 1952. Korolev joined the Soviet Communist Party that year to request money from the government for future projects including the R-5 , with a more modest 1,200 kilometres (750 mi) range. It completed a first successful flight by 1953. The world's first true intercontinental ballistic missile (ICBM) was the R-7 Semyorka . This was a two-stage rocket with a maximum payload of 5.4 tons, sufficient to carry the Soviets' bulky nuclear bomb an impressive distance of 7,000 kilometres (4,300 mi). During the summer of 1957, the first three launches of the R-7 all failed, severely demoralizing Korolev and his colleagues. The failures also jeopardized his position and dream of using an R-7 to launch an artificial satellite in the future. The fourth test, completed on 21 August 1957, was finally able to deliver a dummy payload to the Kamchatka Peninsula . The Soviet news agency TASS made a brief announcement about the ICBM's success, but it was largely ignored or dismissed by members of the American public and media. Because of Korolev's success with the R-7 and because the Soviet Union had successfully created the ICBM before the United States of America, he was nationally recognized by the Soviet Union, although his name was kept secret. However, despite the Soviet R-7 initial success, it experienced later failures as it was not intended to be a practical weapon. On 19 April 1957 Korolev was declared fully \" rehabilitated \", as the government acknowledged that his sentence was unjust. Space program Korolev was keenly aware of the orbital possibilities of the rockets being designed as ICBMs, ideas that were shared by Tikhonravov then working at NII -4. On 26 May 1954, six days after being tasked to lead the R-7 ballistic missile program, Korolev submitted a proposal to use the R-7 to launch a satellite into space, naming a technical report from Tikhonravov and mentioning similar work being carried out by Americans. After receiving lukewarm support from the Soviet leadership, Korolev initiated a modest satellite research project in coordination with Tikhonravov. To intensify his lobbying",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_7",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 8,
+      "score": 21.135193
+    },
+    {
+      "text": "Alfred Josef Ferdinand Jodl ( German: [ˈjoːdl̩] ⓘ ; born Alfred Josef Baumgärtler ; 10 May 1890 – 16 October 1946) was a German military officer who served as the Chief of the Operations Staff of the Oberkommando der Wehrmacht – the German Armed Forces High Command – throughout World War II . After the war, Jodl was indicted on charges of conspiracy to commit crimes against peace , planning, initiating and waging wars of aggression , war crimes , and crimes against humanity at the Allied-organized Nuremberg trials . The principal charges against him related to his signing of the criminal Commando and Commissar Orders . Found guilty on all charges, he was sentenced to death and executed in Nuremberg in 1946. Early life and career Alfred Jodl (second from right) as a captain of the Reichswehr with his brother Ferdinand (second from left), 1926 Alfred Jodl was educated at a military cadet school in Munich , from which he graduated in 1910. Ferdinand Jodl , who also became an army general, was his younger brother. He was the nephew of philosopher and psychologist Friedrich Jodl at the University of Vienna . Jodl was raised Roman Catholic but rejected the faith later in life. From 1914 to 1916, he served with a field artillery regiment on the Western Front , being awarded the Iron Cross 2nd Class for gallantry in November 1914, and for being wounded in action. In 1917, he served briefly on the Eastern Front before returning to the West as a staff officer. In 1918, he was awarded the Iron Cross 1st Class for gallantry in action. After the defeat of the German Empire in 1918, he continued his career as a professional soldier with the much-reduced German Army ( Reichswehr ). Jodl married twice: in 1913 and (after becoming a widower) in 1944. World War II (front row, from l. to r.) Reichspressechef Otto Dietrich , Wilhelm Keitel , Hitler, Jodl, and Martin Bormann , at the Führer Headquarters of Felsennest , June 1940 Jodl's appointment as a major in the operations branch of the Truppenamt ('Troop Office') in the Army High Command in the last years of the Weimar Republic put him under the command of General Ludwig Beck .  In September 1939, Jodl first met Adolf Hitler . During the build-up to the Second World War, Jodl was nominally assigned as commander of the 44th Division from October 1938 to August 1939 after the Anschluss .  He was chosen by Hitler to be Chief of the Operations Staff of the newly formed",
+      "id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_c_0",
+      "doc_id": "HotpotQA-validation-00005451/01_Alfred-Jodl.html",
+      "community_id": 5,
+      "score": 21.015116
+    },
+    {
+      "text": "Moon , which was something the people of Earth had never seen beforehand. The Luna missions were intended to make a successful soft landing on the Moon, but Korolev was unable to see a success. Luna 4 and Luna 6 both missed, Luna 5 , Luna 7 , and Luna 8 all crashed on the Moon. It was not until after Korolev's death that the Soviet Union successfully achieved a soft landing on the Moon with Luna 9 . Towards the latter part of Korolev's life, he had been working on projects for reaching the planets Mars and Venus , and even had spacecraft ready to reach both. The United States was also working towards reaching these planets, so it was a race to see who would be successful. Korolev's two initial Mars probes suffered from engine failures, and the five probes the Soviet Union launched in hopes of reaching Venus all failed between 1961 and 1962, Korolev himself supervised the launches of all probes. On 1 November 1962, the Soviet Union successfully launched Mars 1 and although communications failed, was the first to complete a flyby of Mars. Later, the Soviet Union launched Venera 3 , which was the first impact of Venus. It was not until after Korolev's death that the Soviet Union impacted Mars. Korolev's group was also working on ambitious programs for missions to Mars and Venus, putting a man in orbit, launching communication, spy and weather satellites, and making a soft-landing on the Moon. A radio communication center needed to be built in the Crimea , near Simferopol and near Yevpatoria to control the spacecraft. Many of these projects were not realized in his lifetime, and none of the planetary probes performed a completely successful mission until after his death. Human spaceflight Korolev (right) with cosmonaut Yuri Gagarin and Marshal Kirill Moskalenko , before Gagarin's launch in Vostok 1 (1961) Although he had conceived of the idea as early as 1948, Korolev's planning for the piloted mission began in 1958 with design studies for the future Vostok spacecraft . It was to hold a single passenger in a space suit , and be fully automated. The space suit, unlike the United States' pure oxygen system, was 80 percent nitrogen and only 20 percent oxygen. The capsule had an escape mechanism for problems prior to launch, and a soft-landing and ejection system during the recovery. The spacecraft was spherical, just like the Sputnik design, and Korolev explained his reasoning for this by saying \"the spherical shape would be more stable dynamically\". Beginning with work on the Vostok, Konstantin Feoktistov was recruited directly by Korolev to be the principal designer for crewed spaceflight vehicles. On 15 May 1960 an uncrewed prototype performed 64 orbits of",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_11",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 15,
+      "score": 20.96649
+    },
+    {
+      "text": "the early Soviet space program . Korolev returned from Germany in February 1947 and took up his duties as chief designer and Head of Department No 3 of NII-88, initially tasked with reproduction of the V-2. The Soviets were only able to obtain parts to assemble approximately a dozen V-2 rockets, so the decision was made to replicate a Soviet version, which was designated the R-1 . Initially Korolev opposed this decision as he thought it was a waste of time and they should move immediately to manufacture a more advanced version, which had been designated the R-2 . However Korolev was overruled and was ordered to assemble what V-2s they had for flight testing, then create the R-1 using Soviet infrastructure and materials. NII-88 also incorporated 170+ German specialists – including Helmut Gröttrup and Fritz Karl Preikschat – with approximately half based at Branch 1 of NII-88 on Gorodomlya Island in Lake Seliger some 200 kilometres (120 mi) from Moscow. The Germans provided a variety of support to the Soviet efforts, particularly on assembling the V-2 and creating the R-1. The first Soviet tests of V-2 rockets took place in October 1947 at Kapustin Yar , with Korolev as management lead for the project. Numerous German engineers also participated in the tests. A total of 11 V-2 rockets were launched, with 5 reaching their designated targets. In September 1948 testing of the R-1 began at Kapustin Yar, where Korolev was a formal member of the \"State Commission for testing the R-1\". No Germans participated in these tests, which launched 9 rockets between September and November 1948. \"Chief Designer\" Korolev (left) with \"father of the Soviet atomic bomb\" Igor Kurchatov (centre) and \"Chief Theoretician\" Mstislav Keldysh (right), 1956 Korolev continued to lobby for the design and construction of the R-2, including meeting with Stalin in April 1947, but faced competition from a proposal from the Germans, called the G-1. Whilst the German proposal was initially supported by Soviet management, Korolev opposed utilising German specialists for personal reasons and basically ignored their suggestions and advice. Due to political and security concerns, German specialists were not allowed knowledge or access to any Soviet missile design and in December 1948 work on the G-1 proposal was terminated. The Ministry of Defence decided to dissolve the German team in 1950 and repatriated the German engineers and their families between December 1951 and November 1953. In April 1948 the go ahead for \"scientific and experimental work\" was approved, which led to the creation of the R-2. The R-2 doubled the range of the V-2, and was the",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_6",
+      "doc_id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html",
+      "community_id": 15,
+      "score": 20.880732
+    },
+    {
+      "text": "Operation Lighthouse was the name given to the failed experimental launch of four Aggregate 3 liquid-fuel rockets by Wernher von Braun and Walter Dornberger on the German island of Greifswalder Oie in December 1937. Background and preparation In the summer of 1937 the German Aggregate 3 series of rockets was nearing the testing stage. Several were tested on a special stand at Kummersdorf in an attempt to evaluate guidance systems. These consisted of vanes designed to deflect the rocket exhaust and control the missile's course. On September 1, Dornberger ordered that von Braun's team prepare for a series of test launches in the first part of November from the small island of Greifswalder Oie in an operation he designated \"Lighthouse\". Von Braun assigned the head of his measurement unit, Gerhard Reisig , to prepare the expedition to the island. In November, rain and snow storms kept the project behind schedule, delaying ferries and nearly collapsing the tent erected as a preparation site. Rodents gnawed on tar paper and telephone cables . Amidst the setbacks, Dornberger and von Braun hunted rabbits and pheasants . The rockets and launch site were not ready until December. Launches The first launch was ordered for December 2, but again weather and technical problems delayed the operation. On December 4 the first rocket blasted off just after 10 AM. Set on a test ring without a guide rail, the rocket rose vertically for three seconds, but then the parachute deployed and dragged, burning, behind the vehicle. After less than seven seconds the engine cut out and soon the rocket fell back to the ground, landing 1,000 feet (300 meters) from the launch site. It exploded and burned upon impact, leaving little wreckage to examine. Another missile was launched on the afternoon of December 6 and followed a similar pattern, crashing and exploding in the sea less than twenty feet from the island's cliffs. The wreckage did not yield an explanation for the failure, but the parachute system was suspected. For the third launch, the parachute was replaced with a flare. The rocket was set off in the afternoon of December 8. The missile turned from the vertical into the wind and after four seconds the flare deployed. At 1,000 feet (300 meters) the engine quit, and without the drag of a burning parachute (like the previous two rockets) it achieved a greater distance before crashing over a mile offshore and exploding in the sea. Despite the disappointing results of the first three launches, Dornberger and von Braun decided to launch their last A3. After further weather delays, the last rocket was set off on the morning of December 11 but demonstrated a performance much like the third. Aftermath The failure the project launch came as a shock to von Braun, who set to trying to find the causes. He suspected both the guidance control system and the jet vanes. Additionally, he developed",
+      "id": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_c_0",
+      "doc_id": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html",
+      "community_id": 1,
+      "score": 20.44477
+    },
+    {
+      "text": "My Line? as a guest credited as \"Rocket Designer U.S.A.F. Atlas Missile\". The next year, the Air Force awarded him the Exceptional Civilian Award for his work in developing America's first ICBM. His co-workers called Bossart one of the finest technical men in the country. They credit him with having spearheaded a major phase in the art of rocketry. In 1965, Bossart was inducted into the International Aerospace Hall of Fame for his pioneering contributions to the Atlas rocket system. He is featured in the Hall of Fame's exhibit within the San Diego Air and Space Museum . Bossart was later inducted into the International Space Hall of Fame in 1990. Bossart died on August 3, 1975, in San Diego , California. References External links \"Karel Jan Bossart\" . Florida International University . Archived from the original on February 16, 2006 . Retrieved May 7, 2006 . Powell, Stewart M. (October 2009). \"The Day of the Atlas\" (PDF) . Air Force Magazine . airforcemag.com. pp. 60– 63.",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_1",
+      "doc_id": "HotpotQA-validation-00001674/00_Karel-Bossart.html",
+      "community_id": 1,
+      "score": 18.38222
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "summary": "**Title**: Sergei Korolev’s Formative Years  \n\n**Summary**:  \nThese excerpts trace Sergei Korolev’s path from a teenage aviation enthusiast designing gliders in Odessa to his emergence as the Soviet Union’s pivotal rocket engineer. After studying under Andrei Tupolev at Bauman University, he joined TsAGI, earned a pilot’s license, and championed liquid-fueled rocket propulsion for aircraft. In 1931 he co-founded GIRD, led the group by 1932, and oversaw the USSR’s first liquid-fueled rocket launch in 1933. The merger of GIRD with GDL created RNII, where Korolev directed cruise-missile and rocket-glider projects until Stalin’s Great Purge demoted, imprisoned, and ultimately silenced many of its leading engineers, including Korolev himself.  \n\n**Keywords**:  \nSergei Korolev, GIRD, Soviet rocketry, liquid-fueled rockets, Great Purge",
+      "is_seed": true,
+      "expand_score": 0.7966257333755493
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "summary": "**Title**: Operation Lighthouse Rocket Tests\n\n**Summary**: Operation Lighthouse was a December 1937 series of four A3 rocket launches on Greifswalder Oie led by Wernher von Braun and Walter Dornberger. All flights failed within seconds due to premature parachute or flare deployment, rolling, and engine cut-out, culminating in explosions on land or in the sea. Post-mortem analysis blamed inadequate roll control and guidance flaws, prompting abandonment of the A3 and a fundamental redesign into the A5. The setbacks delayed Germany’s A4 (V-2) ballistic missile program by at least a year.\n\n**Keywords**: A3 rocket, Operation Lighthouse, von Braun, Greifswalder Oie, V-2 delay",
+      "is_seed": true,
+      "expand_score": 0.7980952858924866
+    },
+    {
+      "community_key": "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_2",
+      "summary": "**Title**: Charles Hastings Judd Biography  \n\n**Summary**:  \nCharles Hastings Judd (1835–1890) was a prominent Hawaiian courtier, rancher, and military officer who served as King Kalākaua’s trusted chamberlain and colonel. Born to American missionaries, he rose through political and military ranks, traveling with Kalākaua on the 1881 world tour and receiving foreign honors. After a falling-out with the king’s administration, he retired to ranching at Kualoa, where he died in 1890.  \n\n**Keywords**:  \nCharles Hastings Judd, King Kalākaua, Hawaiian Kingdom, Chamberlain, 1881 world tour",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "summary": "**Title**: Walter Dornberger’s Rocket Legacy  \n\n**Summary**:  \nWalter Dornberger, a WWI artillery officer turned rocket pioneer, led Nazi Germany’s V-2 program at Peenemünde, orchestrating the first successful guided ballistic-missile test in 1942. After hiding V-2 documents and surrendering to U.S. forces in 1945, he was brought to America via Operation Paperclip, avoiding war-crime prosecution. At Bell Aircraft (1950-1965) he rose to vice-president, contributing to the X-15, Dyna-Soar, and the world’s first guided nuclear air-to-surface missile (ASM-A-2), while later advising West Germany on European space initiatives.  \n\n**Keywords**:  \nV-2 rocket, Operation Paperclip, Peenemünde, Bell Aircraft, guided missiles",
+      "is_seed": true,
+      "expand_score": 0.7980952858924866
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "summary": "**Title**: Herbert Büchs Military Career\n\n**Summary**: Herbert Büchs was a Luftwaffe officer who served in Nazi Germany’s high command during WWII, briefing Hitler daily on air operations. He survived the 20 July 1944 bomb plot while present in the conference room, was later captured by U.S. forces, testified at Nuremberg, and rejoined the post-war German Air Force, eventually attaining Lieutenant General rank in the Bundeswehr.\n\n**Keywords**: Luftwaffe, 20 July plot, Nuremberg Trials, Bundeswehr, WWII",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "summary": "**Title**: Soviet 212 Cruise Missile  \n\n**Summary**:  \nThe 212 was an early Soviet experimental cruise missile conceived in 1936 under Sergei Korolev, featuring a winged rocket launched from a catapult or TB-3 bomber. After repeated control-system failures and engine issues, including explosions with Glushko’s ORM-65, the missile—renamed 803—underwent four unsuccessful flight tests between 1936 and 1939. Korolev’s arrest in 1938 did not halt the program, but persistent guidance problems led to its cancellation in 1939.  \n\n**Keywords**:  \nSergei Korolev, 212 cruise missile, Soviet rocketry, 1930s aviation, ORM-65 engine",
+      "is_seed": true,
+      "expand_score": 0.7966257333755493
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "summary": "**Title**: Eusebio Valli: Pioneer of Vaccination and Bioelectricity  \n\n**Summary**:  \nEusebio Valli (1755–1816) was an Italian physician-scientist who anticipated Edward Jenner by developing early smallpox inoculations and rabies immunizations, earning recognition as a forerunner of modern vaccination. Inspired by Luigi Galvani and Alessandro Volta, he conducted extensive experiments on “animal electricity,” publishing the 300-page *Esperiments on Animal Electricity* that became a foundational galvanism text. Valli traveled from Tuscany to Turkey, Greece, Egypt, and Cuba mapping plague and smallpox epidemiology, formulating theories of cross-immunity and individual predisposition to disease. His self-experimentation with attenuated pathogens ultimately caused his death in Havana, memorialized as “a victim of his love for humanity.”  \n\n**Keywords**:  \nvaccination pioneer, animal electricity, smallpox inoculation, Luigi Galvani, early immunology",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007147/02_Peter-Mrsk-Mller.html_0",
+      "summary": "**Title**: Peter Mærsk Møller Legacy\n\n**Summary**: Peter Mærsk Møller (1836-1927) was a pioneering Danish sea captain whose family founded the global Maersk conglomerate. After passing his merchant officer's examination at Flensborg Navigation School and becoming a captain in 1861, he relocated from Rømø to Dragør following the 1864 Second Schleswig War. In 1884, he became Denmark's first advocate for steam ships over sailing vessels, moving to Svendborg that same year. Together with his son Arnold Peter Møller, he established Dampskibsselskabet Svendborg in 1904, which evolved into the Maersk corporation—the world's largest container and supply vessel operator under his grandson Mærsk Mc-Kinney Møller.\n\n**Keywords**: Maersk founder, Danish sea captain, steam ship pioneer, Arnold Peter Møller, container shipping",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "summary": "**Title**: Battle of Guam 1944 Analysis\n\n**Summary**:  \nThe Battle of Guam (July-August 1944) was a pivotal U.S. operation to retake the island, marked by strategic lessons in amphibious warfare, command decisions, and post-battle infrastructure development. Initial plans faced delays due to intelligence updates, and the landing on two distant beaches was later deemed a tactical error. Poor topographical intelligence led to high casualties for the 3rd Marine Division, though naval gunfire and LVTs proved effective. Post-battle, Guam transformed into a major U.S. military hub, with extensive airfield and harbor construction supporting B-29 operations and later conflicts. Civil affairs efforts managed thousands of displaced Chamorros, and war crimes trials addressed Japanese atrocities. Japanese post-war analysis cited inadequate pre-invasion reinforcement and flawed defensive tactics.\n\n**Keywords**:  \nGuam 1944, amphibious tactics, Pacific War logistics, B-29 bases, Chamorro refugees",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_3",
+      "summary": "**Title**: Alfred Jodl Military Career & Nuremberg Fate  \n\n**Summary**:  \nAlfred Jodl rose from Bavarian artillery lieutenant to Generaloberst and Hitler’s Operations Chief, masterminding campaigns from Poland to the 1945 surrender. After signing the Reims capitulation he was arrested, tried at Nuremberg for war-crimes including the Commissar and Commando Orders, convicted and hanged. Post-war West German courts briefly annulled his conviction, then reinstated it, while 2019 litigation left his family grave intact but removed a memorial cross.  \n\n**Keywords**:  \nJodl, OKW, Nuremberg, war-crimes, posthumous rehabilitation",
+      "is_seed": true,
+      "expand_score": 0.8500511050224304
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "summary": "**Title**: General Ferdinand Jodl Biography  \n\n**Summary**:  \nFerdinand Jodl was a German World War II general who led the XIX Mountain Corps in Arctic Finland and North Norway, earning the Knight’s Cross in January 1945. After joining the Imperial Army in 1914, he remained in the Reichswehr, rising through mountain-troop commands to end the war as General of Mountain Troops heading Army Detachment Narvik. He was the younger brother of OKW Chief Alfred Jodl and nephew of Viennese philosopher Friedrich Jodl; he died in Essen in 1956 and was buried in Bavaria.  \n\n**Keywords**:  \nFerdinand Jodl, XIX Mountain Corps, Knight’s Cross, Petsamo-Kirkenes Offensive, German mountain troops",
+      "is_seed": true,
+      "expand_score": 0.8500511050224304
+    },
+    {
+      "community_key": "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "summary": "**Title**: Continental Board of War\n\n**Summary**:  \nThe Board of War, established by the Second Continental Congress on 12 June 1776, served as the central administrative body overseeing the Continental Army during the American Revolution. Initially composed of five congressional delegates, it compiled officer rosters, tracked troops and supplies, and handled prisoner-of-war affairs. Overwhelmed by workload, the board was reconstituted in October 1777 as a five-member body of non-congressional commissioners led by Horatio Gates, with expanded duties including recruitment supervision and weapons production. Further reforms in 1778–79 placed quartermaster and commissary departments under its control, cementing its role as Congress’s sole military intermediary.\n\n**Keywords**:  \nContinental Army administration, Second Continental Congress, Horatio Gates, military logistics, American Revolution",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002303/01_Massachusetts-Institute-of-Technology.html_16",
+      "summary": "**Title**: MIT’s Founding, Evolution, and Research Legacy  \n\n**Summary**:  \nThe Massachusetts Institute of Technology was chartered in 1861 by William Barton Rogers to fuse scientific principles with practical education, adopting the German research-university model of faculty-led inquiry and laboratory instruction. Surviving early financial straits, Civil War delays, and repeated Harvard merger attempts, MIT grew from “Boston Tech” into a global powerhouse under presidents like Francis Amasa Walker, who expanded engineering programs and enrollment. Modern MIT sustains vast interdisciplinary research—$952 million annually—producing breakthroughs from radar and RSA cryptography to oncogenes and the Human Genome Project, while spinning out companies such as Akamai and RSA Security. Extensive cross-registration, international alliances, and industrial liaisons extend its influence, and cultural assets like the MIT Museum and OpenCourseWare disseminate knowledge worldwide.  \n\n**Keywords**:  \nMIT history, research innovations, land-grant legacy, German model, technology transfer",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006772/02_Jackie-Gilroy.html_0",
+      "summary": "**Title**: Jackie Gilroy Gaelic Career\n\n**Summary**: Jackie Gilroy was a prominent Gaelic footballer from Dublin who won an All-Ireland medal with the Dublin senior team in 1963 and had previously claimed the All-Ireland Minor Football Championship in 1958. He played his club football with St Vincents and later served the club in several administrative roles, including two terms as chairman and a stint as secretary. Born in Drumcondra, he spent his professional life in newspaper production and was the father of Pat Gilroy, who also became Dublin’s senior football manager.\n\n**Keywords**: Gaelic football, Dublin GAA, St Vincents, All-Ireland medal, 1963",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004078/01_Special-Air-Service.html_6",
+      "summary": "**Title**: Special Air Service Operations History\n\n**Summary**: The Special Air Service (SAS) has conducted extensive operations from WWII through the 21st century, earning numerous battle honours across Europe, the Middle East, and South Atlantic. The regiment's modern history includes controversial missions in Gibraltar against the IRA, extensive deployments in Afghanistan and Iraq during the War on Terror, and more recent operations against ISIS in Syria. The SAS has evolved from its WWII origins to become a key component of British special forces, with its influence extending to the creation of similar units across Commonwealth nations including Australia, New Zealand, and Canada.\n\n**Keywords**: SAS, special forces, battle honours, counter-terrorism, military operations",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_2",
+      "summary": "**Title**: Mærsk Mc-Kinney Møller Legacy\n\n**Summary**:  \nDanish shipping magnate Mærsk Mc-Kinney Møller led the A.P. Moller–Maersk Group from 1965 to 2003, expanding it into a global conglomerate while securing a lucrative 40-year North Sea oil concession that generated massive state-contested profits. His fortune, largely held in controlling foundations, made him Denmark’s richest person and funded major philanthropic gifts such as the Copenhagen Opera House and Amaliehaven park. Upon his death in 2012 at age 98, succession passed to his youngest daughter Ane, who pledged to preserve the company’s conglomerate structure. Møller received Denmark’s highest honor, the Order of the Elephant, and a Triple-E class container ship was named in his memory.\n\n**Keywords**:  \nMaersk, North Sea oil, Danish shipping, Copenhagen Opera House, Order of the Elephant",
+      "is_seed": false,
+      "expand_score": 0.8833011984825134
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "summary": "**Title**: Luigi Galvani’s Bioelectricity Discoveries  \n\n**Summary**:  \nItalian physician-physicist Luigi Galvani (1737-1798) pioneered the study of “animal electricity,” famously demonstrating in 1780 that dead frogs’ legs convulsed when touched by an electrical spark. Over the next decade he systematically explored the phenomenon, culminating in his 1791 treatise *De Viribus Electricitatis in Motu Musculari*, which ignited Europe-wide debate and laid foundations for electrophysiology. Galvani spent his career in Bologna, teaching anatomy and obstetrics while curating the city’s anatomical museum. His work, building on earlier findings by Walsh and Williamson, ultimately inspired Volta’s invention of the battery and the term “galvanize.”  \n\n**Keywords**: animal electricity, frog experiments, bioelectricity, electrophysiology, galvanism",
+      "is_seed": false,
+      "expand_score": 0.8341777324676514
+    },
+    {
+      "community_key": "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "summary": "**Title**: Alfred Jodl’s Nuremberg Trial\n\n**Summary**:  \nAlfred Jodl, Chief of the Operations Staff of the German Armed Forces High Command, was a key defendant at the Nuremberg trials, charged with conspiracy, crimes against peace, war crimes, and crimes against humanity. Central to the prosecution were his signatures on the Commando and Commissar Orders, mandating the execution of specific POWs, and orders deporting Danish Jews to concentration camps. Despite his denials and partial refutations of some charges, he was found guilty on all counts and executed on 16 October 1946. His ashes were scattered to deter neo-Nazi memorials, yet post-war debates over evidence disclosure and his widow’s claims of procedural unfairness persist.\n\n**Keywords**:  \nNuremberg trials, Commando Order, war crimes, Alfred Jodl, crimes against humanity",
+      "is_seed": false,
+      "expand_score": 0.8308196067810059
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "summary": "**Title**: Galvani and the Birth of Bioelectricity\n\n**Summary**: Luigi Galvani’s late-18th-century experiments with frog legs demonstrated that muscles twitch when touched by metal, leading him to propose an “animal electric fluid.” Alessandro Volta replicated the work but argued the electricity arose from the dissimilar metals, not living tissue, sparking a respectful dispute that birthed the term “Galvanism.” Galvani, supported by his nephew Giovanni Aldini, defended the concept of intrinsic animal electricity, while Volta’s objections ultimately guided him to invent the battery. Galvani’s refusal to swear loyalty to the French-backed Cisalpine Republic cost him his academic post and left him in poverty until shortly before his death in December 1798.\n\n**Keywords**: animal electricity, Galvani-Volta debate, frog experiments, galvanism, bioelectricity",
+      "is_seed": false,
+      "expand_score": 0.8241350650787354
+    },
+    {
+      "community_key": "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "summary": "**Title**: Luigi Galvani’s Legacy\n\n**Summary**:  \nLuigi Galvani, an 18th-century Italian physician-physicist, discovered “animal electricity” by showing that frog muscles twitch when touched by dissimilar metals, laying the groundwork for electrophysiology. His findings sparked the science of galvanism, influenced Mary Shelley’s conception of Frankenstein, and permeate modern language and technology through terms like “galvanize,” “galvanic cell,” and “galvanometer.” Despite political setbacks that left him in poverty, supporters restored his university position shortly before his 1798 death, and his name now labels an asteroid, a Bologna square, and numerous electrochemical concepts.\n\n**Keywords**:  \ngalvanism, animal electricity, Frankenstein, electrophysiology, galvanize",
+      "is_seed": false,
+      "expand_score": 0.8220650553703308
+    },
+    {
+      "community_key": "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_1",
+      "summary": "**Title**: George W. Macfarlane – Hawaiian Courtier\n\n**Summary**: George W. Macfarlane was a British-Hawaiian businessman and courtier who rose to prominence as a colonel on King Kalākaua’s military staff, accompanying the monarch on his 1881 world tour and later serving as the king’s final chamberlain. Born in Honolulu to Scottish and English parents, he entered politics as a member of the House of Nobles and the Privy Council of State. He remained at Kalākaua’s side during the king’s fatal 1891 U.S. trip and was dismissed by Queen Liliʻuokalani shortly thereafter. Beyond politics, Macfarlane invested in sugar plantations and owned several early Honolulu and Waikīkī hotels.\n\n**Keywords**: Kalākaua, chamberlain, world tour, Hawaiian nobility, Waikīkī hotels",
+      "is_seed": false,
+      "expand_score": 0.8163568377494812
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "summary": "**Title**: Battle of Manila 1945\n\n**Summary**: In February 1945, Japanese Rear-Adm. Sanji Iwabuchi defied orders to withdraw and instead fortified Manila with 17,000 troops, vowing to fight to the death. U.S. 1st Cavalry and 37th Infantry Divisions entered the city on 3–5 February, liberating 4,000+ civilian internees at Santo Tomas and Bilibid Prison. While MacArthur prematurely declared Manila “fallen,” bitter house-to-house combat, artillery duels, and Japanese demolition of infrastructure raged for weeks. Japanese forces, trapped and facing annihilation, perpetrated systematic massacres of Filipino civilians in churches, hospitals, and schools, killing over 100,000 and reducing much of the historic capital to rubble before the last defenders were eliminated.\n\n**Keywords**: Manila 1945, Santo Tomas liberation, Japanese massacres, urban warfare, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.8096729516983032
+    },
+    {
+      "community_key": "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "summary": "**Title**: Battle of Manila 1945 Devastation  \n\n**Summary**:  \nThe month-long Battle of Manila (3 Feb–3 Mar 1945) pitted U.S. and Filipino forces against entrenched Japanese naval troops, producing the Pacific War’s fiercest urban combat and leaving at least 100,000 civilians dead. Japanese massacres, American artillery bombardment, and house-to-house fighting obliterated the city’s Spanish-colonial and early-American architectural heritage, with only two buildings in the business district surviving intact. After the Japanese garrison ignored orders to withdraw, U.S. troops systematically reduced strongholds such as Intramuros, Rizal Stadium, and Fort San Antonio Abad, counting 16,665 Japanese dead inside the Walled City alone. The battle’s aftermath saw General Yamashita executed for war crimes and Manila’s transformation from the “Pearl of the Orient” to a modernist American-style capital. Commemoration efforts, including the 1995 Memorare-Manila Monument, honor the civilian victims and the city’s cultural loss.\n\n**Keywords**:  \nManila 1945, urban warfare, civilian massacres, heritage destruction, Pacific War",
+      "is_seed": false,
+      "expand_score": 0.8012111186981201
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "summary": "**Title**: Karel Bossart and the Atlas Rocket\n\n**Summary**:  \nKarel Jan Bossart was a pioneering Belgian-American rocket engineer whose monocoque design for the Atlas ICBM became a cornerstone of U.S. spaceflight. Despite early Air Force skepticism and classified constraints, Bossart’s Atlas evolved from a faltering missile into the nation’s most reliable expendable launch vehicle, enabling America’s first communications satellite, crewed orbital missions, and deep-space probes to Mars, Venus, Jupiter, and Saturn. His technical leadership at Convair/General Dynamics and advocacy of high-energy cryogenic fuels also produced the Centaur upper stage, cementing his legacy alongside von Braun and Korolev.\n\n**Keywords**: Atlas rocket, ICBM, monocoque design, space launch history, Karel Bossart",
+      "is_seed": false,
+      "expand_score": 0.7998936772346497
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "summary": "**Title:** Sergei Korolev’s Lunar Setbacks  \n\n**Summary:**  \nSoviet Chief Designer Sergei Korolev’s insistence on adapting the 1958-era N1 rocket—built for lighter payloads—into a Moon launcher, coupled with his “build-then-test” philosophy, is portrayed as a fundamental strategic flaw that doomed the USSR’s crewed lunar effort. Chronic health decline (heart, kidney, gallbladder, gulag injuries) and a toxic rivalry with designer Vladimir Chelomey further fragmented resources and leadership, while post-Korolev successors inherited a troubled N1 program that ultimately failed four test flights and was cancelled after Apollo’s success.  \n\n**Keywords:**  \nN1 rocket, Moon race, Korolev-Chelomey rivalry, Soviet lunar program, managerial strategy",
+      "is_seed": false,
+      "expand_score": 0.7917732000350952
+    },
+    {
+      "community_key": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "summary": "**Title**: Korolev’s Ballistic & Space Program\n\n**Summary**:  \nSergei Korolev led the Soviet Union’s post-war ballistic-missile effort, evolving captured V-2 technology into the R-7—the world’s first ICBM—which enabled Sputnik 1’s historic 1957 launch and triggered the space race. After political lobbying and rushed development, his team orbited increasingly sophisticated satellites (Sputnik 2 with Laika, Sputnik 3) and achieved lunar firsts via the Luna probes, including imaging the Moon’s far side in 1959. Persistent funding battles, technical setbacks, and secrecy shaped the program, yet Korolev’s rockets secured Soviet space prestige before the U.S.\n\n**Keywords**:  \nR-7 Semyorka, Sputnik 1, Luna missions, ICBM, space race",
+      "is_seed": false,
+      "expand_score": 0.7892056703567505
+    },
+    {
+      "community_key": "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_1",
+      "summary": "**Title**: Mellon Institute of Industrial Research\n\n**Summary**:  \nThe Mellon Institute of Industrial Research, founded in 1913 by Andrew and Richard Mellon, began as a University of Pittsburgh department before becoming an independent nonprofit research center. Renowned for its contract-based industrial research, it merged with the Carnegie Institute of Technology in 1967 to create Carnegie Mellon University. Its 1937 neo-classical building—featuring the world’s largest monolithic limestone columns—remains a Pittsburgh landmark and now houses CMU’s Mellon College of Science. The institute’s legacy includes over 4,700 research papers, 1,600 patents, and pivotal discoveries like acetylene-from-petroleum production, earning it National Historic Chemical Landmark status in 2013.\n\n**Keywords**: Mellon Institute, Carnegie Mellon University, industrial research, neo-classical architecture, National Historic Chemical Landmark",
+      "is_seed": false,
+      "expand_score": 0.781436026096344
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_2",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "HotpotQA-validation-00007147/02_Peter-Mrsk-Mller.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_3",
+      "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "HotpotQA-validation-00002303/01_Massachusetts-Institute-of-Technology.html_16",
+      "HotpotQA-validation-00006772/02_Jackie-Gilroy.html_0",
+      "HotpotQA-validation-00004078/01_Special-Air-Service.html_6"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_2",
+      "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_1",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_5",
+      "HotpotQA-validation-00001238/00_Operation-Lighthouse-1937.html_1",
+      "HotpotQA-validation-00000207/00_Charles-Hastings-Judd.html_2",
+      "HotpotQA-validation-00001238/01_Walter-Dornberger.html_3",
+      "HotpotQA-validation-00005451/02_Herbert-Bchs.html_0",
+      "HotpotQA-validation-00001674/03_212-missile.html_0",
+      "HotpotQA-validation-00001766/00_Eusebio-Valli.html_3",
+      "HotpotQA-validation-00007147/02_Peter-Mrsk-Mller.html_0",
+      "HotpotQA-validation-00000467/01_Battle-of-Guam-1944.html_28",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_3",
+      "HotpotQA-validation-00005451/00_Ferdinand-Jodl.html_0",
+      "HotpotQA-validation-00001828/02_Board-of-War.html_1",
+      "HotpotQA-validation-00002303/01_Massachusetts-Institute-of-Technology.html_16",
+      "HotpotQA-validation-00006772/02_Jackie-Gilroy.html_0",
+      "HotpotQA-validation-00004078/01_Special-Air-Service.html_6",
+      "HotpotQA-validation-00007147/01_Mrsk-Mc-Kinney-Mller.html_2",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_2",
+      "HotpotQA-validation-00005451/01_Alfred-Jodl.html_5",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_3",
+      "HotpotQA-validation-00001766/01_Luigi-Galvani.html_1",
+      "HotpotQA-validation-00000207/03_George-W-Macfarlane.html_1",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_3",
+      "HotpotQA-validation-00000467/00_Battle-of-Manila-1945.html_8",
+      "HotpotQA-validation-00001674/00_Karel-Bossart.html_1",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_15",
+      "HotpotQA-validation-00001674/01_Sergei-Korolev.html_8",
+      "HotpotQA-validation-00000352/02_Mellon-Institute-of-Industrial-Research.html_1"
+    ],
+    "allowed_chunk_pool_size": 90,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

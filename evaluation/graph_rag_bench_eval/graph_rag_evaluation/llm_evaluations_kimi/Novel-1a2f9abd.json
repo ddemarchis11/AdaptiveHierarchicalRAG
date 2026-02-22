@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1a2f9abd",
+  "question": "How are the cities of Rabat and Salee geographically related?",
+  "gold_answer": "Rabat is opposite to Salee.",
+  "llm_answer": "The context does not explicitly describe the geographical relationship between Rabat and Salee.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the geographical relationship between Rabat and Salee. However, it fails to answer the user's question, which is explicitly addressed in the Gold Answer ('Rabat is opposite to Salee'). The Model Answer does not contain the core meaning of the Gold Answer, nor does it retrieve any relevant evidence to support the relationship described."
+  }
+}

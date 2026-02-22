@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00006708",
+  "question": "The music magazine launched by Rob Stone and Jon Cohen that interviewed CupcakKe about her album Audacious in September was the first print publication to be released where?",
+  "gold_answer": "on iTunes.",
+  "llm_answer": "The music magazine launched by Rob Stone and Jon Cohen that interviewed CupcakKe about her album Audacious in September was the first print publication to be released on iTunes.",
+  "context": [
+    {
+      "text": "The Fader (stylised as The FADER ) is a magazine established in 1999 as an outlet for Cornerstone Agency, a marketing and public relations firm established by Rob Stone and Jon Cohen . The magazine covers music, style and culture. History and work It is owned by The Fader Media group, which also includes its website, thefader.com, as well as Fader films, Fader Label and Fader TV. It was the first print publication to be released on iTunes . The Fader Fort The magazine hosted The Fader Fort, an annual invitation-only event at Austin, Texas 's South by Southwest (SXSW). Since its founding in 2001, the four-day party features live performances. Fader Fort NYC is a party produced during the annual CMJ Music Marathon . The festival has featured over 900 performances, including ones by Drake . In 2020, it moved to being an online event due to the coronavirus pandemic. Charity In 2023, the magazine announced FADER and Friends Vol. 1 , a collection of 44 cover songs from 44 artists, to raise money for trans rights organisations. References External links Official website",
+      "id": "HotpotQA-validation-00006708/01_The-Fader.html_c_0"
+    },
+    {
+      "text": "Elizabeth Eden Harris (born May 31, 1997), known professionally as Cupcakke (often stylized as cupcakKe ; pronounced \"cupcake\"), is an American rapper and singer-songwriter known for her hypersexualized , brazen, and often comical persona and music. Born in Chicago , Illinois , Cupcakke began her career as a rapper in 2012 by releasing material online. She drew attention in 2015 when she released two music videos, \" Vagina \" and \" Deepthroat \", on YouTube that went viral ; the songs were later included on her debut mixtape, Cum Cake (2016), which was included on Rolling Stone ' s list of the Best Rap Albums of 2016 at number 23. A second mixtape, S.T.D (Shelters to Deltas) , released in 2016, preceded her studio albums: Audacious (2016), Queen Elizabitch (2017), Ephorize (2018), and Eden (2018). Aside from a brief retirement at the end of 2019, Cupcakke has been steadily releasing standalone singles, such as \" Squidward Nose \" (2019), \" Discounts \" (2020), \"Mosh Pit\" (2021), and \"H2hoe\" (2022). After 6 years since her last full-length release she released her fifth studio album Dauntless Manifesto (2024). Her sixth studio",
+      "id": "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_0"
+    },
+    {
+      "text": "A writer for Pitchfork , which included it on \"9 Rap Mixtapes You Might Have Missed This Year\", called the mixtape a \"well rounded introduction to a skilled writer\" and said it used songs \"about love, loss, and hardship with its more explicit tracks to create a full profile of the up-and-coming Chicago rapper\". \"Pedophile\" was also specifically noted for its \"blunt commentary\" on sexual assault . In June 2016, Harris released her second mixtape, S.T.D (Shelters to Deltas) . It was preceded by the single \" Best Dick Sucker \". Other tracks, such as \"Doggy Style\" and \"Motherlands\", were also later released as singles. The mixtape was listed among Rolling Stone 's \"Best Rap Albums of 2016 So Far\". In October 2016, Harris released her debut studio album, Audacious . The album was preceded by the single \"Picking Cotton\", which was described by MTV News as \"a protest song about racist cops \". Other tracks on the album such as \"Spider-Man Dick\" and \"LGBT\" were accompanied by music videos. In an interview Harris stated that she made the song \"LGBT\" \"...strictly for the gay community to know that they are loved and don't need to feel judged.\" 2017–2018: Queen Elizabitch , Ephorize and Eden Cupcakke in 2018 In February",
+      "id": "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_3"
+    },
+    {
+      "text": "Vibe is an American music and entertainment magazine founded by producers David Salzman and Quincy Jones . The publication predominantly features R&B and hip hop music artists, actors and other entertainers. After shutting down production in the summer of 2009, it was purchased by the private equity investment fund InterMedia Partners , then issued bi-monthly with double covers and a larger online presence. The magazine's target demographic is predominantly young, urban followers of hip hop culture. In 2014, the magazine discontinued its print version. The magazine features a broader range of interests than its closest competitors The Source and XXL , which focus more narrowly on rap music, or the rock- and pop-centric Rolling Stone and Spin . The May 1998 Vibe article \"Racer X\" by Ken Li is credited as the basis for the 2001 film The Fast and the Furious and the resulting franchise . Publication history Quincy Jones launched Vibe in 1993, in partnership with Time Inc. Originally, the publication was called Volume before co-founding editor, Scott Poulson-Bryant named it Vibe . Vibe was initially \"founded with a test issue in 1992 by Time Warner.\"  Though hip hop mogul Russell Simmons was rumored to be an initial partner, publisher Len Burnett revealed in a March 2007 interview that Simmons clashed with editor-in-chief Jonathan Van Meter. In May 1994, Meter resigned after Jones prevented the publication of the June/July 1994 issue",
+      "id": "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_0"
+    },
+    {
+      "text": ", and Da Brat as early influences to her musical style. Career 2012–2016: Early output, Cum Cake , S.T.D (Shelters to Deltas) , and Audacious Harris released her first music video, \"Money\" onto her official YouTube channel in August 2012. She was only 15 at the time of its release—the original video has since been deleted. Over the next few years, she continued to release original music, as well as freestyles using beats from other artists through her YouTube channel, where she has amassed over 1.2 million subscribers. In October 2015, the official music video for her song \"Vagina\" was released on YouTube via YMCFilmz. According to Cupcakke, she wrote the song because she was inspired by Khia 's dirty rap song \" My Neck, My Back (Lick It) \" from 2002. One month later, Harris released \"Deepthroat\" on her own channel. Within weeks, the two videos went viral on YouTube, Worldstar, and Facebook . The songs later became singles for Harris' debut mixtape, Cum Cake , which was released in February 2016. Its release was also supported by further singles such as \"Juicy Coochie\", \"Tit for Tat\", and \"Pedophile\". A writer for Pitchfork , which included it on \"9 Rap Mixtapes You Might Have Missed This Year\", called the mixtape",
+      "id": "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_2"
+    },
+    {
+      "text": "Cult MTL is an English language arts, culture and news website and monthly print publication, based in Montreal , Quebec , Canada. Its first print edition appeared on 7 September 2012. It was created only a few months after Montreal's last English-language alternative weekly, Montreal Mirror , was unceremoniously closed by its parent company, Quebecor . The founding editors of Cult MTL were also involved with the Mirror . In August 2013 the print version of the magazine was started. Its editorial stance is progressive . See also List of magazines in Canada References External links Official website v t e v t e",
+      "id": "HotpotQA-validation-00006708/03_Cult-MTL.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- The Fader is a magazine established in 1999.\n- The Fader is owned by The Fader Media group.\n- The Fader was the first print publication to be released on iTunes.\n- CupcakKe is an American rapper and singer-songwriter.\n- CupcakKe's debut studio album, Audacious, was released in October 2016.\n- The music magazine that interviewed CupcakKe about her album Audacious in September was the first print publication to be released where?\n- The Fader is a magazine established in 1999.\n- The Fader is owned by The Fader Media group.\n- The Fader was the first print publication to be released on iTunes.\n- CupcakKe is an American rapper and singer-songwriter.\n- CupcakKe's debut studio album, Audacious, was released in October 2016.\n- The music magazine that interviewed CupcakKe about her album Audacious in September was the first print publication to be released where? (HotpotQA-validation-00006708/01_The-Fader.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "The music magazine launched by Rob Stone and Jon Cohen that interviewed CupcakKe about her album Audacious in September was the first print publication to be released where?",
+      "doc_ids": [
+        "HotpotQA-validation-00006708/01_The-Fader.html_c_0",
+        "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_0",
+        "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_3",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_0",
+        "HotpotQA-validation-00006708/00_Audacious-CupcakKe-album.html_c_2"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "The Fader's first print publication location",
+      "doc_ids": [
+        "HotpotQA-validation-00006708/03_Cult-MTL.html_c_0",
+        "HotpotQA-validation-00006284/00_Polytechnic-University-of-the-Philippines.html_c_23",
+        "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_c_5",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_1",
+        "HotpotQA-validation-00001051/01_Vibe-magazine.html_c_0"
+      ]
+    }
+  ]
+}

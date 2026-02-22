@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001746",
+  "question": "Crash is similar to what 16th century British card game in the sense that there is no betting?",
+  "gold_answer": "In Crash, there is no betting, as in Brag",
+  "llm_answer": "Crash is similar to the 16th century British card game of Post and Pair in the sense that there is no betting.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Post and Pair as the game similar to Crash in the sense that there is no betting. The correct answer, supported by the context, is Brag. The Model Answer is neither faithful to the retrieved context nor does it cover the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003659",
+  "question": "Near what ocean does the highway carried by the Long-Allen bridge terminate near?",
+  "gold_answer": "the Atlantic Ocean",
+  "llm_answer": "The Long–Allen Bridge carries US 80, and US 80’s eastern terminus is on Tybee Island, Georgia, near the Atlantic Ocean.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Atlantic Ocean as the ocean near the eastern terminus of US 80, which is carried by the Long-Allen Bridge. This is consistent with the Gold Answer and supported by the Retrieved Context, which states that US 80's eastern terminus is near the Atlantic Ocean on Tybee Island, Georgia. All key facts are included."
+  }
+}

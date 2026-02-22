@@ -1,0 +1,12 @@
+{
+  "id": "Novel-20e55b68",
+  "question": "With which other literary figure is Lichtenberg mentioned alongside in discussions of critics and commentators on German sentimentalism?",
+  "gold_answer": "Lichtenberg was mentioned alongside Helfreich Peter Sturz.",
+  "llm_answer": "Helfreich Peter Sturz",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Helfreich Peter Sturz as the literary figure mentioned alongside Lichtenberg in discussions of critics and commentators on German sentimentalism. This is fully supported by the retrieved context, which explicitly states that Sturz's name may well be coupled with Lichtenberg's in this regard. The answer is concise but accurate, containing all necessary information."
+  }
+}

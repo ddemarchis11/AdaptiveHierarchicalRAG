@@ -1,0 +1,12 @@
+{
+  "id": "Novel-16bc9e87",
+  "question": "From which state did General Pearce's army originate during the Civil War events described in the novel?",
+  "gold_answer": "General Pearce had his army from Arkansas.",
+  "llm_answer": "There is no mention of General Pearce's army in the provided text.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not mention General Pearce's army or its origin, making it faithful to the context. However, it fails to answer the question using external knowledge, which is necessary to provide the Gold Answer ('Arkansas'). Thus, the answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

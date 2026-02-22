@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter was placed in sole charge of the Summit House when Mr. Bilson announced his coming marriage to Frida Jansen and his own absence abroad; she thereupon selected Frida Jansen to give special attendance to the convalescent guest, Mr. Calton, at the doctor’s request.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by mentioning Miss Trotter's selection of Frida Jansen for a position and her role at the Summit House. However, it introduces details about Mr. Bilson's marriage and Frida's attendance to Mr. Calton, which are not directly relevant to the core relationship described in the Gold Answer. While some claims are supported by the context, others are either tangential or not explicitly grounded, leading to partial correctness and faithfulness. The evidence coverage is also partial, as the Model Answer does not clearly state Miss Trotter's resignation from the Summit House."
+  }
+}

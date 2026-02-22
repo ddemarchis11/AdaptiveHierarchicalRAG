@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ab36175a",
+  "question": "How did the Romans refer to the Berbers and Moors, and what does this reveal about their awareness of these groups?",
+  "gold_answer": "The Romans called the Berbers and Moors by these names.",
+  "llm_answer": "The Romans did not use the names “Berbers” or “Moors”; the context states that the Romans transmitted many names of other aboriginal tribes, some of which resemble present-day fractions, but the five original peoples listed (including those ancestral to the Berbers) “do not appear to have been known to the Romans.”  \nThis indicates that the Romans were aware of various North-African tribes yet did not clearly distinguish the specific groups later called Berbers or Moors.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the Romans did not use the names 'Berbers' or 'Moors,' which contradicts the Gold Answer. The Gold Answer explicitly states that the Romans referred to these groups by these names, and the Model Answer fails to align with this core fact. Additionally, the retrieved context does not provide evidence to support the Model Answer's claims about Roman awareness or naming conventions, making the response unfaithful and lacking evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001431",
+  "question": "What English nursery rhyme which dates from 1731 appears on Teletubbies say \"Eh-oh!\"?",
+  "gold_answer": "\"Baa, Baa, Black Sheep\"",
+  "llm_answer": "The evidence does not specify which English nursery rhyme from 1731 appears in the Teletubbies’ “Eh-oh!” recording.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the nursery rhyme, while the context clearly mentions 'Baa, Baa, Black Sheep' as one of the nursery rhymes featured in the Teletubbies' 'Eh-oh!' recording. This directly contradicts the context and fails to provide the correct answer."
+  }
+}

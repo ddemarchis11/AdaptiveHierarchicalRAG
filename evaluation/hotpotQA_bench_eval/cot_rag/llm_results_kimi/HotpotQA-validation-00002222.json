@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002222",
+  "question": "Kieran Crichlow is a footballer from what island in the Lesser Antilles?",
+  "gold_answer": "Barbados",
+  "llm_answer": "Barbados",
+  "context": [
+    {
+      "text": "Kieran Crichlow (born 31 July 1981) is a retired footballer who played as a striker . Born in England, he represented Barbados at international level. Club career He played for a number of English non-league clubs, including Hounslow Borough , Molesey , Witney United and Hampton & Richmond Borough . International career Crichlow made his debut for Barbados in a May 2008 friendly match against Trinidad & Tobago . References v t e",
+      "id": "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_c_0"
+    },
+    {
+      "text": "Location within the Lesser Antilles La Tortuga Island , Federal Dependencies of Venezuela Klein Bonaire , Netherlands The Leeward Antilles  ( Dutch : Benedenwindse Eilanden ; Spanish : islas de Sotavento ) are a chain of islands in the Caribbean , specifically part of the southerly islands of the Lesser Antilles (and, in turn, the Antilles and the West Indies ) along the southeastern fringe of the Caribbean Sea , just north of the Venezuelan coast of the South American mainland. The Leeward Antilles, while among the Lesser Antilles, are not to be confused with the Leeward Islands (also of the Lesser Antilles) to the northeast. Largely lacking in volcanic activity, the Leeward Antilles island arc occurs along the deformed southern edge of the Caribbean Plate and was formed by the plate's subduction under the South American Plate . Recent studies indicate that the Leeward Antilles are accreting to South America . Islands The Leeward Antilles comprise (roughly from west to east): ABC islands (a part of the Kingdom of the Netherlands ) Aruba , a constituent country of the Kingdom of the Netherlands Bonaire , a part of the Caribbean Netherlands ( public body of the Netherlands proper ) Curaçao , a constituent country of the Kingdom of the Netherlands Federal Dependencies of Venezuela La Blanquilla Island La Orchila Island La Sola Island La Tortuga Island Las Aves Archipelago Los Frailes",
+      "id": "HotpotQA-validation-00002222/03_Leeward-Antilles.html_c_0"
+    },
+    {
+      "text": "Kick 'em Jenny (also: Kick-'em-Jenny or Mt. Kick-'Em-Jenny ) is an active submarine volcano or seamount on the Caribbean Sea floor, located 8 km (5 mi) north of the island of Grenada and about 8 km (5 mi) west of Ronde Island in the Grenadines . Kick-'em-Jenny rises 1,300 m (4,265 ft) above the sea floor on the steep inner western slope of the Lesser Antilles ridge. The South American tectonic plate is subducting the Caribbean tectonic plate to the east of this ridge and under the Lesser Antilles island arc . Etymology The volcano was unknown before 1939, although \"Kick 'em Jenny\" appeared on earlier maps as either the name of a small island now called Diamond Rock (or Île Diamante), or the name of the strait between Grenada and Ronde Island (or Île de Ronde). The name itself may be a reference to the waters sometimes being extremely rough. Activity The first record of the volcano was in 1939, although it must have erupted many times before that date. On 23–24 July 1939 an eruption broke the sea surface, sending a cloud of steam and debris 275 m (902 ft) into the air and generating a series of tsunamis around two metres (6.6 ft) high when they reached the coastlines of northern",
+      "id": "HotpotQA-validation-00002222/02_Kick-em-Jenny.html_c_0"
+    },
+    {
+      "text": "Ocean, east of the other West Indies Islands. Barbados is the easternmost island in the Lesser Antilles . It is 21 miles (34 kilometres) long and up to 23 km (14 mi) wide, covering an area of 439 km 2 (169 sq mi). It lies about 168 km (104 mi) east of both the countries of Saint Lucia and Saint Vincent and the Grenadines ; 180 km (110 mi) south-east of Martinique and 400 km (250 mi) north-east of Trinidad and Tobago . It is flat in comparison to its island neighbours to the west, the Windward Islands . The island rises gently to the central highland region known as Scotland District, with the highest point being Mount Hillaby 340 m (1,120 ft) above sea level. In Barbados, forest cover is around 15% of the total land area, equivalent to 6,300 hectares (ha) of forest in 2020, which was unchanged from 1990. In 2020, naturally regenerating forest covered 6,300 hectares (ha) and planted forest covered 0 hectares (ha). Of the naturally regenerating forest 0% was reported to be primary forest (consisting of native tree species with no clearly visible indications of human activity) and around 5% of the forest area was found within protected areas. For the year 2015, 1% of the forest area was reported",
+      "id": "HotpotQA-validation-00002222/01_Barbados.html_c_16"
+    },
+    {
+      "text": "Barbados is an island country in the Caribbean located in the Atlantic Ocean . It is part of the Lesser Antilles of the West Indies and the easternmost island of the Caribbean region . It lies on the boundary of the South American and Caribbean plates. Its capital and largest city is Bridgetown . Inhabited by Kalinago people since the 13th century, and prior to that by other Indigenous peoples , the island was originally named Ichirouganaim. It was claimed for the Crown of Castile by Spanish navigators in the late 15th century, who named it \"Barbudos\", and it first appeared on a Spanish map in 1511. The Portuguese Empire claimed the island between 1532 and 1536, but abandoned it in 1620 with their only remnants being the introduction of wild boars intended as a supply of meat whenever the island was visited. The indigenous population was mostly sold into slavery, killed or died of disease by this time. An English ship, the Olive Blossom , arrived in Barbados on 14 May 1625; its men took possession of the island in the name of King James I . In 1627, the first permanent settlers arrived from England, and Barbados became an English and later British colony . During this period, the colony operated on a plantation economy , relying initially on the labour of Irish indentured servants and subsequently African slaves who worked on the island's plantations. Slavery continued until",
+      "id": "HotpotQA-validation-00002222/01_Barbados.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Kieran Crichlow represented Barbados internationally (Novel-HotpotQA-validation-00002222/00_Kieran-Crichlow.html_c_0).\n- Barbados is an island in the Lesser Antilles (Novel-HotpotQA-validation-00002222/01_Barbados.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Kieran Crichlow is a footballer from what island in the Lesser Antilles?",
+      "doc_ids": [
+        "HotpotQA-validation-00002222/00_Kieran-Crichlow.html_c_0",
+        "HotpotQA-validation-00002222/03_Leeward-Antilles.html_c_0",
+        "HotpotQA-validation-00002222/02_Kick-em-Jenny.html_c_0",
+        "HotpotQA-validation-00002222/01_Barbados.html_c_16",
+        "HotpotQA-validation-00002222/01_Barbados.html_c_0"
+      ]
+    }
+  ]
+}

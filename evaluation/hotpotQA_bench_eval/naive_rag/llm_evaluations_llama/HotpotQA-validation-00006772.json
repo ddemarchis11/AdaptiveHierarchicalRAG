@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006772",
+  "question": "When did the man for whom St Vincents Hall, Grantham was built found his eponymous company?",
+  "gold_answer": "1828",
+  "llm_answer": "The man for whom St Vincents Hall, Grantham was built, Richard Hornsby, found his eponymous company in 1815 when he opened a blacksmith's in Grantham, Lincolnshire, with Richard Seaman.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Richard Hornsby founded his company in 1815, which contradicts the Gold Answer and the Retrieved Context, both of which indicate the company was founded in 1828. While the Model Answer is grounded in the context, it fails to provide the correct founding year and misses the key fact from the Gold Answer."
+  }
+}

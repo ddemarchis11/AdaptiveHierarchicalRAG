@@ -1,0 +1,12 @@
+{
+  "id": "Novel-346b12e8",
+  "question": "What is the relationship between St. Michael's Mount and Marazion?",
+  "gold_answer": "St. Michael's Mount was opposite Marazion.",
+  "llm_answer": "The relationship between St. Michael's Mount and Marazion is that they are geographically close to each other, with St. Michael's Mount located in Mount's Bay and Marazion situated on the shore of the bay. \n\nMarazion is described as a small, commonplace town, but it has a connection to St. Michael's Mount, as people from Marazion gather at the beach to watch the Mount, and the town has a station where people can travel to the Mount. \n\nThe text also mentions that the old boatman, a Norwegian, is from Marazion and has knowledge of the bay and the Mount. \n\nAdditionally, the author and their companions stay in Marazion and visit St. Michael's Mount, which is described as a grand fortress, fit for its centuries of legendary lore.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the relationship between St. Michael's Mount and Marazion as being geographically close, with St. Michael's Mount opposite Marazion in Mount's Bay. It expands on the Gold Answer by providing additional context about Marazion's characteristics, its connection to St. Michael's Mount, and activities involving the Mount, all of which are supported by the Retrieved Context. The extra details are relevant and grounded in the context, and the core meaning of the Gold Answer is fully contained."
+  }
+}

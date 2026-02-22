@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001934",
+  "question": "How many albums did the company who released Tift Merritt's debut album release for Tif Merritt?",
+  "gold_answer": "two",
+  "llm_answer": "The company that released Tift Merritt's debut album, Bramble Rose, is Lost Highway Records. \n\nTift Merritt released the following albums with Lost Highway Records: \n1. Bramble Rose (2002)\n2. Tambourine (2004)\n\nThe company that released Tift Merritt's next album, Another Country, is Fantasy Records.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Lost Highway Records as the company that released Tift Merritt's debut album and states that she released two albums with them: Bramble Rose and Tambourine. This aligns with the Gold Answer and is fully supported by the Retrieved Context."
+  }
+}

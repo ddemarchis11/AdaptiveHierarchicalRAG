@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00004673",
+  "question": "What university did the winner of the 2014 CFL's Most Outstanding Defensive Player Award attend?",
+  "gold_answer": "University of Hawaii at Manoa",
+  "llm_answer": "He attended the University of Hawaii.",
+  "context": [
+    {
+      "text": "The Most Outstanding Defensive Player Award is annually awarded to the best defensive player in the Canadian football League . The winner of the award is selected by members of the Football Reporters of Canada along with the head coaches in the CFL. The two nominees for the award are the James P. McCaffrey Trophy winner from the East Division , and the Norm Fieldgate Trophy winner from the West Division . Between 1955 and 1973 , both defensive players and offensive lineman had to compete for the CFL's Most Outstanding Lineman Award . By the 1974 season , the league decided to make two separate awards for both defensive players and offensive lineman. CFL's Most Outstanding Defensive Player Award winners References See also Norm Fieldgate Trophy James P. McCaffrey Trophy CFL's Most Outstanding Lineman Award",
+      "id": "HotpotQA-validation-00004673/03_CFLs-Most-Outstanding-Defensive-Player-Award.html_c_0"
+    },
+    {
+      "text": "Solomon Elimimian (born October 21, 1986) is a Nigerian former professional Canadian football linebacker and the current president of the Canadian Football League Players' Association (CFLPA). He spent nine seasons with the BC Lions and was named the CFL's Most Outstanding Rookie in 2010 . In 2014, he won the CFL's Most Outstanding Defensive Player Award and Most Outstanding Player Award . Elimimian was the first purely defensive player to win the league's Most Outstanding Player Award as well as the first player to win three different CFL awards in his career. He played college football for the Hawaii Warriors . Early life Elimimian started playing football in the ninth grade at Crenshaw High School in South Los Angeles, California . College career In his senior year with the Hawaii Warriors , Elimimian recorded 121 tackles and four sacks. By the end of his four years playing for the Warriors , Elimimian held the school's all-time tackles record with 434 tackles. Professional career Buffalo Bills After going undrafted in the 2009 NFL draft , Elimimian was signed by the Buffalo Bills of the National Football League on August 19, 2009. He played in two preseason games before being released on September 1, 2009. BC Lions Elimimian signed as a free agent with the BC Lions of the Canadian Football League (CFL) on May 19, 2010. Elimimian recorded 77 tackles, five sacks",
+      "id": "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_0"
+    },
+    {
+      "text": "The 1977 Hamilton Tiger-Cats season was the 20th season for the team in the Canadian Football League and their 28th overall. The Tiger-Cats finished in fourth place in the Eastern Conference with a 5–11 record and missed the playoffs. Frank M.Gibson would be in his final season as the Secretary-Treasurer of the Tiger-Cats. A trophy, bearing his name, was instituted by the CFL in 1977 recognizing the Outstanding Rookie in the Eastern Division . Coming off a season as Toronto's outstanding defensive player, he was also an Eastern Football Conference All-Star in 1977. Regular season Season standings Season schedule Awards and honours CFL's Most Outstanding Player Award – Jimmy Edwards (RB) Tommy Joe Coffey was Elected into the Canadian Football Hall of Fame as a Player on, June 25, 1977. Roster References",
+      "id": "HotpotQA-validation-00004673/02_1977-Hamilton-Tiger-Cats-season.html_c_0"
+    },
+    {
+      "text": "Elimimian re-signed with the Lions hours after the opening of free agency on February 15, 2013. Elimimian earned Defensive player of the Week honors for Week 6 after registering a forced fumble and an interception in the Lions win over the Blue Bombers on August 5, 2013. He finished the 2013 season with 73 tackles, 3 sacks and 3 interceptions. Elimimian had a record-setting 2014 CFL season, setting a new CFL record for most tackles in a season with 143 (he was 54 tackles ahead of Bear Woods who finished in second place that season). In addition to setting the tackle record, Elimimian had 5 sacks, 1 interception and 3 fumble recoveries. He won the 2014 CFL Most Outstanding Defensive Player Award and Most Outstanding Player Award . He is the first purely defensive player to win the league's Most Outstanding Player Award as well as the first player to win three different CFL awards in his career. Just as the 2015 free agency period opened, the BC Lions announced a contract extension for Elimimian. The deal is reportedly worth $700,000 over three seasons. Elimimian played in the first 7 games of the 2015 CFL season after suffering a season-ending Achilles injury in mid-August. He finished the season with 44 tackles, 2 sacks and 1 interception. In Week 11 of the 2016 season",
+      "id": "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_2"
+    },
+    {
+      "text": "BC Lions of the Canadian Football League (CFL) on May 19, 2010. Elimimian recorded 77 tackles, five sacks and 11 special teams tackles in only 16 games. For his impressive efforts, he finished the year by winning the CFL's Most Outstanding Rookie Award for the 2010 CFL season . In the 2011 season Elimimian was voted as the leagues 'hardest hitter' according to a TSN annual Player Poll, voted on by more than 250 CFL players. Elimimian finished the 2011 season with 98 tackles, 4 sacks and 2 interceptions. He went on with the Lions to capture the 99th Grey Cup. Minnesota Vikings Following two outstanding years in the CFL, Elimimian decided to sign a two-year contract with the Minnesota Vikings of the NFL on January 31, 2012. On August 25, 2012, he was released by the Vikings. Cleveland Browns Elimimian was signed to the Cleveland Browns practice squad on September 1, 2012. He was waived from the practice squad on September 3, 2012. BC Lions Elimimian returned to the BC Lions partway through the 2012 CFL season . He only played in 6 CFL games that season, tallying only 12 tackles. Elimimian re-signed with the Lions hours after the opening of free agency on February 15, 2013. Elimimian earned Defensive",
+      "id": "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- 2014 CFL Most Outstanding Defensive Player Award winner was Solomon Elimimian (Novel-xxxx_c_2)\n- Solomon Elimimian played college football for the Hawaii Warriors (Novel-xxxx_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What university did the winner of the 2014 CFL's Most Outstanding Defensive Player Award attend?",
+      "doc_ids": [
+        "HotpotQA-validation-00004673/03_CFLs-Most-Outstanding-Defensive-Player-Award.html_c_0",
+        "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_0",
+        "HotpotQA-validation-00004673/02_1977-Hamilton-Tiger-Cats-season.html_c_0",
+        "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_2",
+        "HotpotQA-validation-00004673/00_Solomon-Elimimian.html_c_1"
+      ]
+    }
+  ]
+}

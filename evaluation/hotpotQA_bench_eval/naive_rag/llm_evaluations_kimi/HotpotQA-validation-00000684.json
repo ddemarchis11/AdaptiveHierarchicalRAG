@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000684",
+  "question": "How many people were in the group which preceded the release of Eric Clapton's 1975 album E.C. Was Here?",
+  "gold_answer": "four",
+  "llm_answer": "The evidence states that Derek and the Dominos were “a … quartet,” so the group numbered four.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Derek and the Dominos were a quartet, which matches the Gold Answer of 'four.' This is supported by the Retrieved Context, which explicitly states the group consisted of four members. All relevant facts are included, and the answer is faithful to the context."
+  }
+}

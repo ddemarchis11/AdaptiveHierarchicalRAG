@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002226",
+  "question": "Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?",
+  "gold_answer": "no",
+  "llm_answer": "No, Southwest Florida International Airport and Henry E. Rohlsen Airport are not both in Florida.\n\nSouthwest Florida International Airport is located in the South Fort Myers area of unincorporated Lee County, Florida.\n\nHenry E. Rohlsen Airport, on the other hand, is located on the island of St. Croix in the United States Virgin Islands.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Southwest Florida International Airport is in Florida and Henry E. Rohlsen Airport is in the United States Virgin Islands, aligning with the Gold Answer and the Retrieved Context. It provides additional details about the locations of both airports, which are supported by the context."
+  }
+}

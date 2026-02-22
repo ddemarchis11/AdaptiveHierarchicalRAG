@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001424",
+  "question": "On February 25, 2017 tony Harrison lost the the International Boxing Federation light middleweight world title to a boxer from what state?",
+  "gold_answer": "Maryland",
+  "llm_answer": "The boxer from the state that Tony Harrison lost the International Boxing Federation light middleweight world title to on February 25, 2017, is from Alabama.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the boxer Tony Harrison lost to is from Alabama, while the Gold Answer correctly identifies Maryland. The Retrieved Context confirms that the fight took place in Alabama but does not support the claim that the opponent was from Alabama. The Model Answer is neither correct nor faithful to the context, and it fails to include the key fact from the Gold Answer."
+  }
+}

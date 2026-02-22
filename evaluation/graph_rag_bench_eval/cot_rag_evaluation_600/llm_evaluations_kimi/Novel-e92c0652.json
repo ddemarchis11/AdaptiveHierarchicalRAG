@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e92c0652",
+  "question": "Imagine you are a member of the Chateau Clique writing a private letter about the ongoing conflict with the Patriotes and the struggles with French Canadians.",
+  "gold_answer": "Private Letter — The situation grows tenser with each passing day. The Patriotes, emboldened by the support of their French Canadian base, stand in direct conflict with us. Their victories, such as at St Denis, have only strengthened their resolve. Our efforts are met with resistance, and the Assembly’s complaints about the expenditure of public moneys without the consent of the Executive government complicate matters further. The British government, for its part, continues to keep loyal to French Canadians, but their loyalty to the British crown is being sorely tested.",
+  "llm_answer": "My dear ——,\n\nThe Patriotes grow daily more insolent: they have armed, formed the ‘Fils de la Liberté,’ and now openly defy us. Their boycott of English goods and the Montreal riot show they mean to force a rupture. We, the Chateau Clique, stand firm against their Ninety-Two Resolutions; the Assembly must never control the revenue. Papineau’s following is large, yet the Catholic Church opposes him and many of his old allies—Parent, Quesnel, Cuvillier—have broken away. Colborne’s troops have crushed their first rising at St Denis and St Charles, and though the Abbe Chartier and Dr Chenier stirred the rebels at St Eustache, they were routed and the village burned. Papineau has fled across the border and holds aloof from the second rebellion led by the Nelsons; that, too, is being put down. We shall yet keep the province quiet and the old order intact.\n\nYours in haste,  \n——",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer captures the core meaning of the Gold Answer, detailing the conflict with the Patriotes, their actions, and the resistance from the Chateau Clique. It provides additional context, such as the role of the Catholic Church, the Ninety-Two Resolutions, and specific events like the burning of St Eustache, which are supported by the Retrieved Context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded in the context."
+  }
+}

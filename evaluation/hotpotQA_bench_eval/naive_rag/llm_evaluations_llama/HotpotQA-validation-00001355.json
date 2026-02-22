@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001355",
+  "question": "Which former Republican won the presidential nomination at the 2012 United States Libertarian National Convention?",
+  "gold_answer": "Gary Earl Johnson",
+  "llm_answer": "The former Republican who won the presidential nomination at the 2012 United States Libertarian National Convention was Gary Johnson.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Gary Johnson as the former Republican who won the presidential nomination at the 2012 Libertarian National Convention. This is supported by the retrieved context, which explicitly states that Gary Johnson, a former New Mexico governor, won the nomination at the convention. The Model Answer is concise but fully accurate and faithful to the context."
+  }
+}

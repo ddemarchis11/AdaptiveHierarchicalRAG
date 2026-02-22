@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0386999c",
+  "question": "From where were dates brought, according to the trade and agricultural accounts in the narrative?",
+  "gold_answer": "Dates were brought from Nefta and the surrounding districts.",
+  "llm_answer": "The narrative does not mention dates being brought from anywhere else. It only talks about the trade and resources of the country of Jereed, which consists principally in dates, and that the quantity exported to other parts of the Regency, as well as to foreign countries, is in round numbers on an average from three to four thousand quintals per annum.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about the origin of dates as mentioned in the narrative. The Gold Answer clearly states that dates were brought from Nefta and the surrounding districts, but the Model Answer does not include this information and instead provides irrelevant details about the trade and export quantities of dates. Additionally, the retrieved context does not support the claim made in the Model Answer, making it unfaithful and lacking evidence coverage."
+  }
+}

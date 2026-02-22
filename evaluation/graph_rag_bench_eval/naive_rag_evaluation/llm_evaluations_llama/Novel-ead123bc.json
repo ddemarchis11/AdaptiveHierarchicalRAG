@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ead123bc",
+  "question": "In the narrative, what connections are described between the region of Cilicia—located in Asia Minor and formerly a center of piracy until Pompey suppressed it—the poet Aratus, who was a native of Cilicia, and the critical view held by Quintilian, who condemned Aratus' work?",
+  "gold_answer": "Cilicia was located in Asia Minor, was a center of piracy until suppressed by Pompey, Aratus was a native of Cilicia, and Aratus was condemned by Quintilian.",
+  "llm_answer": "The narrative describes a connection between the region of Cilicia, the poet Aratus, and the critical view held by Quintilian as follows:\n\n- Cilicia, a region in Asia Minor, was formerly a center of piracy until it was suppressed by Pompey.\n- Aratus, a Greek poet, was a native of Cilicia.\n- Aratus wrote some astronomical poems, including the \"Phænomena,\" which still exists.\n- Quintilian, a critic, condemned Aratus' style, although Ovid praises it in the narrative.\n- Aratus' \"Phænomena\" was translated into Latin by several notable individuals, including Cicero, Germanicus Caesar, and Sextus Avienus.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the core connections between Cilicia, Aratus, and Quintilian's criticism, aligning with the Gold Answer. However, it introduces additional details about Aratus' work ('Phænomena') and its translations, which are not directly supported by the retrieved context. While these details are relevant, they are not grounded in the provided context, reducing faithfulness. Additionally, the Model Answer misses the explicit mention of Pompey's suppression of piracy in Cilicia, which is a key fact from the Gold Answer, lowering evidence coverage."
+  }
+}

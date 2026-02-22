@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f0c0e2",
+  "question": "What incident in the narrative demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order?",
+  "gold_answer": "The Duke of York sent an order to Samuel Pepys.",
+  "llm_answer": "The incident that demonstrates Samuel Pepys's professional responsibilities is when the Duke of York sent him an official order to give an account of where the fault lay in the not sending out of the ships. This occurred on June 30th, 1661, as recorded in the diary entry for that day.\n\nAccording to the diary, Pepys and Sir Williams went to Whitehall, where they met with the Duke of York, and gave him an account of the situation. They found that the fault lay in the wind, which had been against the ships, preventing them from getting out of the river.\n\nThis incident shows that Pepys was involved in the administration of the navy and was responsible for reporting to the Duke of York, a high-ranking official, on matters related to the ships and their operations.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the incident where the Duke of York sent an official order to Samuel Pepys, asking for an account of the fault in the ships not being sent out. This aligns with the Gold Answer and is supported by the retrieved context, which mentions Pepys meeting the Duke of York and explaining the issue with the wind preventing the ships from leaving the river. The Model Answer provides additional relevant details about Pepys's professional responsibilities, which are grounded in the context."
+  }
+}

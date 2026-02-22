@@ -1,0 +1,12 @@
+{
+  "id": "Novel-965ad8a8",
+  "question": "Within the novel's discussions about the identity of Ovid's beloved, who was Corinna suspected to be?",
+  "gold_answer": "Julia",
+  "llm_answer": "Corinna was suspected to be the famous Theban poetess who excelled in Lyric composition and was said to have vanquished Pindar himself in a Lyric contest.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Corinna as the Theban poetess, which is not supported by the context or the Gold Answer. The Gold Answer states that Corinna was suspected to be Julia, and this key fact is entirely missed in the Model Answer. Additionally, the retrieved context does not provide evidence to support the claim made in the Model Answer."
+  }
+}

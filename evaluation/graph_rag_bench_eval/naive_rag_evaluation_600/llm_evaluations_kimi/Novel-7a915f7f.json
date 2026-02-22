@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7a915f7f",
+  "question": "In Edinburgh, Dr. Elsie Inglis played a pivotal role in advancing both medical education and women's rights by co-founding the Medical College for Women and actively participating as a member of the Women's Liberal League. What were Dr. Inglis's notable contributions in these areas within Edinburgh?",
+  "gold_answer": "Dr. Elsie Inglis made notable contributions by co-founding the Medical College for Women in Edinburgh and being a member of the Women’s Liberal League, thus advancing both medical education and women's rights.",
+  "llm_answer": "Within Edinburgh, Dr. Elsie Inglis’s notable contributions were:\n\n- Co-founding the Medical College for Women, providing a dedicated route for women to study medicine when the University still barred them.  \n- Campaigning for equal laboratory and lecture facilities for women students, publicly insisting that segregated classes were inferior and that women deserved the same clinical and scientific resources as men.  \n- Serving on the committee of the Women’s Liberal League, using its platform to press for women’s full citizenship and later converting her own drawing-room into a meeting space for the League’s Imperialist and social-legislation campaigns.  \n- Acting as Vice-President of the Central Edinburgh Women’s Liberal Association for sixteen years, giving speeches and advice that kept women’s suffrage and access to the professions at the centre of local Liberal politics.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core contributions of Dr. Elsie Inglis as stated in the Gold Answer, including her co-founding of the Medical College for Women and her involvement in the Women's Liberal League. Additionally, it provides detailed and relevant context about her advocacy for equal educational opportunities and her political work, all of which are supported by the Retrieved Context. The extra details enhance understanding without deviating from the core truth, and all key facts from the Gold Answer are included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004632",
+  "question": "What industry does Edgar Selwyn and Chantal Akerman work in?",
+  "gold_answer": "theater and film",
+  "llm_answer": "Both Edgar Selwyn and Chantal Akerman work in the film industry.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that both Edgar Selwyn and Chantal Akerman work in the film industry, which is supported by the context. However, it omits the theater industry, which is part of the Gold Answer and relevant to Edgar Selwyn's career. The retrieved context provides evidence of Selwyn's involvement in theater and Akerman's work in film, but the Model Answer does not fully utilize this information."
+  }
+}

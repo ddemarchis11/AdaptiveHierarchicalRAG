@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004639",
+  "question": "Which terrorist group was the cause of the battle in which Mark E. Michell won an award for his actions?",
+  "gold_answer": "al-Qaeda",
+  "llm_answer": "The terrorist group responsible for the battle in which Mark E. Mitchell won an award was al-Qaeda.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies al-Qaeda as the terrorist group responsible for the battle, which is consistent with the Gold Answer and supported by the Retrieved Context. It includes the core fact without adding unsupported details."
+  }
+}

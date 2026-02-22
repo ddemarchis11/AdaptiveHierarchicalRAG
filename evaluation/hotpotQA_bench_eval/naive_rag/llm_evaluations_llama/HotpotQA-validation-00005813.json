@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005813",
+  "question": "What city is the the Iranian Airlines involved in the 1993 Tehran mid-air collision based out of?",
+  "gold_answer": "Tehran, Iran",
+  "llm_answer": "The city that the Iranian Airlines involved in the 1993 Tehran mid-air collision is based out of is Tehran.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Tehran as the city where the Iranian Airlines involved in the 1993 mid-air collision is based out of. This is consistent with the Gold Answer and supported by the Retrieved Context, which mentions Tehran as the location of the collision and the airline's operations. All key facts are covered."
+  }
+}

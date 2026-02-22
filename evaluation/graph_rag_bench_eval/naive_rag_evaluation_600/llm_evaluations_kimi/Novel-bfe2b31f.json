@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bfe2b31f",
+  "question": "In the context of the novel, why is the Circus Maximus associated with Neptune, given that the Circus is described as being sacred to Consus, and Consus is supposed to have been the same deity as Neptune?",
+  "gold_answer": "The Circus is associated with Neptune because it was sacred to Consus, who is believed to have been the same deity as Neptune.",
+  "llm_answer": "The Circus Maximus is associated with Neptune because the text explicitly states that “the whole of the Circus Maximus was sacred to Consus, who is supposed by some to have been the same Deity as Neptune.” Thus, within the novel’s world-view the identity of Consus with Neptune makes the Circus sacred to Neptune.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the association of the Circus Maximus with Neptune by referencing the retrieved context, which states that the Circus was sacred to Consus, who is believed to be the same deity as Neptune. It aligns with the Gold Answer and includes all relevant facts, maintaining faithfulness to the context."
+  }
+}

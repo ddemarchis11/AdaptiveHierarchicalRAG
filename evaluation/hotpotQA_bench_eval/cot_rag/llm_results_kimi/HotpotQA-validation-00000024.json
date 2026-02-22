@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000024",
+  "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+  "gold_answer": "World's Best Goalkeeper",
+  "llm_answer": "He was voted the IFFHS World's Best Goalkeeper in 1992.",
+  "context": [
+    {
+      "text": "Peter Bolesław Schmeichel MBE (born 18 November 1963) is a Danish former professional footballer who played as a goalkeeper . During eight seasons at English club Manchester United , he won 15 trophies including five Premier League titles, three FA Cups , and captaining the club to victory in the 1999 UEFA Champions League final to complete the treble . Schmeichel also played for the Denmark national team , with which he won the UEFA European Championship in 1992. Regarded as one of the greatest goalkeepers of all time, he was voted the IFFHS World's Best Goalkeeper in 1992 and 1993, while the International Federation of Football History & Statistics ranked Schmeichel among the top 10 goalkeepers of the 20th century . Born in Gladsaxe , Copenhagen , Schmeichel is 1.93 m (6 ft 4 in) tall and weighed close to 100 kg (220 lb; 15 st 10 lb) during his playing days, and wore specially-made size XXXL football shirts. A fierce competitor, he often loudly criticised perceived mistakes by his defenders. Unusually for a goalkeeper, he scored 11 goals during his career, including one for the national team. He was also the most capped player for Denmark, playing 129 games between 1987 and 2001, until he was overtaken by Simon Kjær in 2023. In addition to Euro",
+      "id": "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_0"
+    },
+    {
+      "text": "games between 1987 and 2001, until he was overtaken by Simon Kjær in 2023. In addition to Euro 92, he played for his country at the 1998 FIFA World Cup and three more European Championship tournaments. He captained the national team in 30 matches. He also represented Gladsaxe-Hero, Hvidovre , Brøndby , Sporting CP , Aston Villa and Manchester City in a career that lasted from 1981 until 2003 and yielded 24 trophies. In 2001, Schmeichel won a public poll held by Reuters , in which the majority of the 200,000 participants voted him as the best goalkeeper in history, ahead of Lev Yashin and Gordon Banks . In 2003, Schmeichel was inducted into the English Football Hall of Fame in recognition of his impact on the English game. In March 2004, he was named among the \"125 greatest living footballers\" on the FIFA 100 list. His son, Kasper Schmeichel , is also a professional goalkeeper, currently playing for Scottish side Celtic and the Denmark national team. Early life Schmeichel was born in the Søborggård parish of Gladsaxe , Denmark, to Antoni \"Tolek\" Schmeichel, a Polish jazz musician, and Inger, a Danish nurse. He held Polish citizenship until November 1971 when he, his father, and his three",
+      "id": "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_1"
+    },
+    {
+      "text": "2021. He also took part in Soccer Aid , and played for the Rest of the World team, who lost 2–1 after he was substituted at half-time. Schmeichel was a contestant on the 2006 series of the BBC's popular Saturday night TV programme Strictly Come Dancing , but was voted out by the public on his 43rd birthday. He also appeared on The Weakest Link in the UK, but he was voted off as the weakest link in the first round. On 31 August 2007, an investor group including Schmeichel announced their intention to invest DKK 250 million ( € 33.5 million) in the football club Brøndby IF and make him sports director. This was announced in a press conference in Danish at a hotel in Copenhagen. The offer fell through when Brøndby failed to accept the offer within the group's deadline. In February 2007, he became the host in a new quiz, on TV3 named 1 mod 100 (the Danish version of 1 vs. 100 ). In 2008, he became the host of the European version of the Discovery Channel programme, Dirty Jobs . Personal life Schmeichel was divorced from his wife Bente Schmeichel in 2013. He remarried again in 2019 to Playboy model Laura Von Lindholm. Bente Schmeichel is the mother of his two children, Cecile Schmeichel and Kasper",
+      "id": "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_16"
+    },
+    {
+      "text": "the league, conceding 40 goals in 30 games, Schmeichel and Hvidovre finished in 14th place and were relegated in 1985. After only a single season, the club bounced right back to the 1st Division, but Schmeichel left the club to join Brøndby. Brøndby Before the 1987 season, Schmeichel joined Brøndby, who finished as runners-up the previous season. In the five seasons that Schmeichel played with Brøndby, they went on to win the 1st Division four times. The climax of his Brøndby career would come in the 1990–91 UEFA Cup , which saw Schmeichel as an important part of the team that reached the semi-finals, keeping seven clean sheets in the competition. The club was eliminated from the tournament following a 2–1 away defeat to Roma with a last-minute goal by Rudi Völler . Schmeichel was voted 10th in \"The World's Best Goalkeeper 1991\" poll by the IFFHS . Manchester United Schmeichel in July 1991, a few days after signing for Manchester United Following his showings on the international scene, Manchester United signed Schmeichel on 6 August 1991 for £505,000, a price described in 2000 by Manchester United manager Alex Ferguson as the \"bargain of the century.\" Schmeichel",
+      "id": "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_5"
+    },
+    {
+      "text": "the Year (Premiership) : 2024–25 See also List of European association football families List of men's footballers with 100 or more international caps References External links Wikimedia Commons has media related to Kasper Schmeichel . Danish national team profile Kasper Schmeichel – UEFA competition record ( archive ) Kasper Schmeichel – FIFA competition record (archived)",
+      "id": "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_24"
+    }
+  ],
+  "cot_scratchpad": "- Peter Schmeichel is Kasper Schmeichel's father (HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_1).\n- In 1992 the IFFHS voted Peter Schmeichel the IFFHS World's Best Goalkeeper (HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+      "doc_ids": [
+        "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_0",
+        "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_1",
+        "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_16",
+        "HotpotQA-validation-00000024/01_Peter-Schmeichel.html_c_5",
+        "HotpotQA-validation-00000024/00_Kasper-Schmeichel.html_c_24"
+      ]
+    }
+  ]
+}

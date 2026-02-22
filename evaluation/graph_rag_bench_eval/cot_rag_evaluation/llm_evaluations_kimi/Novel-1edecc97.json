@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1edecc97",
+  "question": "During the supper scene described in the cottage, which foods are specifically mentioned as being served to the characters?",
+  "gold_answer": "The supper includes ham, gingerbread, white bread, and jugs of buttermilk.",
+  "llm_answer": "The evidence provided does not mention any specific foods served during the supper scene in the cottage.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the retrieved context does not mention specific foods served during the supper scene. However, the retrieved context does not contain relevant information about the supper scene or the foods mentioned in the Gold Answer. The Model Answer fails to address the question correctly and does not align with the Gold Answer, which specifies ham, gingerbread, white bread, and jugs of buttermilk."
+  }
+}

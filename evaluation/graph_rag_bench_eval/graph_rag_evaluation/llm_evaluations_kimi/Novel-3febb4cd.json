@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3febb4cd",
+  "question": "In the narrative's exploration of skeletal structure and childhood development, how is the spine described in terms of its composition, and what characteristics of children's bones and growth—such as the ease with which bones bend and the tendency for children to outgrow their shoes—are highlighted?",
+  "gold_answer": "The spine is made of bones; bones bend easily in children, who are always out-growing shoes.",
+  "llm_answer": "The provided context does not describe the composition of the spine or mention characteristics such as the ease with which children's bones bend or their tendency to outgrow shoes.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about the spine's composition or the characteristics of children's bones and growth. However, it fails to answer the user's question using internal knowledge, which is expected when the context is irrelevant. Thus, the answer is incorrect and lacks evidence coverage, but it is faithful to the context."
+  }
+}

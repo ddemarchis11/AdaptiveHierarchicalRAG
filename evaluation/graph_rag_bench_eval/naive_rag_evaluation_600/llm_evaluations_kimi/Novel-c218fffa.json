@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c218fffa",
+  "question": "After the siege and during Rudolph's flight from danger, who gave him rice-brandy as he sat in the mud by the riverbank, and what immediate effect did it have on him afterward?",
+  "gold_answer": "Wutzler gave Rudolph rice-brandy, and Rudolph found his mouth full of sweet fiery liquid.",
+  "llm_answer": "A coolie named Wutzler gave Rudolph the rice-brandy; the fiery drink shocked him back onto his feet and cleared his head so that he could go on.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Wutzler as the person who gave Rudolph rice-brandy and describes its immediate effect on him, which aligns with the Gold Answer and the Retrieved Context. The additional detail about the drink shocking Rudolph back onto his feet and clearing his head is supported by the context and enhances the explanation without deviating from the core facts."
+  }
+}

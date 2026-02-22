@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4bb300c3",
+  "question": "Who gave Cousin Cæsar his first lesson in the rewards of imagination, shaping his outlook and ambitions during childhood?",
+  "gold_answer": "Cousin Cæsar received the first lesson of reward for imagination from big-sis.",
+  "llm_answer": "I cannot answer this question as it is not supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information to answer the question. While the Gold Answer states 'big-sis' as the person who gave Cousin Cæsar his first lesson in imagination, this detail is not found in the provided context, making the Model Answer faithful to the context but unable to cover the evidence or provide a correct answer."
+  }
+}

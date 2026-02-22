@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005631",
+  "question": "Was Atom Egoyans biggest commercial success on stage or on film?",
+  "gold_answer": "erotic thriller film",
+  "llm_answer": "The evidence does not specify which of Atom Egoyan’s works was his biggest commercial success, nor does it indicate whether that success occurred on stage or on film.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify Egoyan's biggest commercial success, which is incorrect as the Gold Answer identifies it as an 'erotic thriller film.' While the Model Answer is faithful to the retrieved context, it fails to address the Gold Answer and misses the key fact entirely."
+  }
+}

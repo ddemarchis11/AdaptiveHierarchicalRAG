@@ -1,0 +1,57 @@
+{
+  "id": "HotpotQA-validation-00001679",
+  "question": "When was the host of \"British Academy Television Awards 2009\" born?",
+  "gold_answer": "4 April 1963",
+  "llm_answer": "4 April 1963",
+  "context": [
+    {
+      "text": "BAFTA Scotland is the Scottish branch of the British Academy of Film and Television Arts . Formed in 1986, the branch supports film, television and games talent in Scotland through year-round membership activity, awarding bursaries for new talent and holds an annual awards ceremony recognising the achievement by performers and production staff in Scottish film , television and video games . These Awards are separate from the British Academy Television Awards and British Academy Film Awards . British Academy Scotland Awards The BAFTA Scotland Awards are presented in an annual award show hosted by BAFTA Scotland. From 2011 to 2018, the ceremony took place in the Radisson Blu Hotel in Glasgow . As of 2019, the ceremony has been hosted at the Doubletree by Hilton Glasgow Central. British Academy Scotland New Talent Awards The British Academy Scotland New Talent Awards were held annually from 2009 - 2016. The accolades honoured the best upcoming talent in the field of film and television in Scotland. The 2016 British Academy Scotland New Talent Awards ceremony took place on 14 April 2016. References External links BAFTA in Scotland v t e v t e v t e",
+      "id": "HotpotQA-validation-00001679/03_BAFTA-Scotland.html_c_0"
+    },
+    {
+      "text": "has also been a regular host of The British Academy Television Awards . On 7 July 2007, Norton presented at Live Earth and undertook a trip to Ethiopia with the Born Free Foundation to highlight the plight of the Ethiopian wolf – the rarest canid in the world. In the same year, he was the subject of an episode of the BBC1 genealogy documentary Who Do You Think You Are? Norton's chat show, The Graham Norton Show , began on 22 February 2007, on BBC Two . The format is very similar to his previous Channel 4 shows. On 6 October 2009, the show moved to BBC One, in a new one-hour format. In May 2010, Norton stood in for Chris Evans ' breakfast show on BBC Radio 2 . Later that month, it was confirmed that he would be replacing Jonathan Ross 's Saturday morning slot on the same station. In December 2011, the panel show Would You Rather...? with Graham Norton premiered on BBC America in the time slot immediately following The Graham Norton Show . Recorded in New York, it is one of BBC America's earliest efforts at producing original programming, and is also the first panel game the channel has shown, either of British or American origin. In October 2018, talking to BBC News about his reported 2017–18 BBC salary, Norton said that he genuinely \"doesn't know\" how the corporation arrived at that figure. \"Myself and my agent",
+      "id": "HotpotQA-validation-00001679/01_Graham-Norton.html_c_6"
+    },
+    {
+      "text": "has media related to Graham Norton . The Graham Norton Show ( BBC One ) Wheel of Fortune on itv.com Graham Norton at the BFI 's Screenonline Graham Norton at British Comedy Guide Graham Norton at IMDb",
+      "id": "HotpotQA-validation-00001679/01_Graham-Norton.html_c_16"
+    },
+    {
+      "text": "Comic Relief 2001. In 2005, Norton moved to the BBC and began hosting the Saturday evening reality TV series Strictly Dance Fever on BBC One , as well as a new comedy chat show, Graham Norton's Bigger Picture . He also read stories some nights on the BBC children's channel CBeebies as part of Bedtime Hour . In 2006, Norton hosted the BBC One series How Do You Solve a Problem like Maria? in which Andrew Lloyd Webber tried to find a lead actress for his West End version of The Sound of Music . Norton subsequently presented the three follow-up series: Any Dream Will Do in 2007, in which a group of men competed to win the role of Joseph in the West End production of Joseph and the Amazing Technicolor Dreamcoat ; I'd Do Anything in 2008, in which Lloyd Webber seeks to find the parts of Nancy and Oliver for Sir Cameron Mackintosh 's production of Lionel Bart 's Oliver! ; and Over the Rainbow in 2010, following a similar format to find a new Dorothy for a Wizard of Oz West End production. Norton hosted various other shows for the BBC during this time, including When Will I Be Famous? (2007), The One and Only (2008) and Totally Saturday (2009). Since 2007, Norton has also been a regular host of The British Academy Television Awards . On 7 July 2007, Norton presented at Live Earth and undertook a",
+      "id": "HotpotQA-validation-00001679/01_Graham-Norton.html_c_5"
+    },
+    {
+      "text": "Graham William Walker (born 4 April 1963), known professionally as Graham Norton , is an Irish comedian, broadcaster, actor, and writer. He is a five-time BAFTA TV Award winner for the comedy chat show The Graham Norton Show (2007–present). He has received the British Academy Television Award for Best Entertainment Performance three times for the chat show So Graham Norton (1998–2002). He has been noted for his innuendo -laden dialogue and flamboyant presentation style. After an early career doing stand-up comedy, Norton gained recognition for his portrayal of Father Noel Furlong in three episodes of the multiple award-winning sitcom Father Ted (1996–1998). From 2010 to 2020, he presented the Saturday-morning slot on BBC Radio 2 , and from 2021 to 2024, he presented his weekend show for Virgin Radio UK . Since 2009, Norton has served as the BBC 's television commentator for the final of the Eurovision Song Contest , and co-hosted the final of the 2023 edition of the event . In 2012, he sold his production company So Television to ITV for around £17 million. In 2019, Norton became a judge on the reality competition series RuPaul's Drag Race UK . Early life and education Norton was born Graham William Walker on 4 April 1963, at 48 St Brigid's Road in Clondalkin , in County",
+      "id": "HotpotQA-validation-00001679/01_Graham-Norton.html_c_0"
+    },
+    {
+      "text": "married Scottish filmmaker Jono McLeod at Bantry House in County Cork. In October 2022, Norton was involved in controversy over comments he made in an interview with Mariella Frostrup at the Cheltenham Literature Festival . He expressed scepticism over the existence of cancel culture , arguing that \"I think the word should be 'accountability'.\" When Frostrup countered that J. K. Rowling had been \"deluged with ... anger, rage and attempts at censorship\" over her views on transgender rights , Norton responded that it would be better to \"talk to trans people, talk to the parents of trans kids, talk to doctors\" about the issue than to celebrities like himself. Rowling criticised Norton's comments on Twitter , citing him as part of a \"recent spate of bearded men stepping confidently onto their soapboxes to define what a woman is and throw their support behind rape and death threats to those who dare disagree\". Following further criticism on Twitter from supporters of Rowling, Norton deactivated his Twitter account. Performances and works Films Television Music videos Bibliography Fiction Accolades Further reading Bowyer, Alison (2009). Graham Norton: Laid Bare . Andre Deutsch. ISBN 978-0-233-00268-2 . See also List of celebrities who own wineries and vineyards References External links Wikimedia Commons has media related to Graham Norton . The Graham Norton Show ( BBC One ) Wheel of Fortune on itv.com Graham Norton at the BFI 's",
+      "id": "HotpotQA-validation-00001679/01_Graham-Norton.html_c_15"
+    }
+  ],
+  "cot_scratchpad": "- Graham Norton hosts the British Academy TV Awards since 2007 (HotpotQA-validation-00001679/01_Graham-Norton.html_c_5).\n- 2009 BAFTA TV Awards are British Academy Television Awards (Novel-00001679/01_Graham-Norton.html_c_5).\n- Need birthdate for Graham Norton.\n- Graham Norton hosts British Academy Television Awards 2009 (HotpotQA-validation-00001679/01_Graham-Norton.html_c_5)\n- Graham William Walker born 4 April 1963 (HotpotQA-validation-00001679/01_Graham-Norton.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "When was the host of \"British Academy Television Awards 2009\" born?",
+      "doc_ids": [
+        "HotpotQA-validation-00001679/03_BAFTA-Scotland.html_c_0",
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_6",
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_5",
+        "HotpotQA-validation-00001679/02_British-Academy-Television-Award-for-Best-Actress.html_c_0",
+        "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_69"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Graham Norton date of birth",
+      "doc_ids": [
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_16",
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_0",
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_15",
+        "HotpotQA-validation-00006973/02_Late-night-talk-show.html_c_56",
+        "HotpotQA-validation-00001679/01_Graham-Norton.html_c_6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002965",
+  "question": "Which has more species, Sonerila or Scaevola?",
+  "gold_answer": "Sonerila",
+  "llm_answer": "Sonerila has about 175 species, while Scaevola has more than 130 species. Therefore, Sonerila has more species.",
+  "context": [
+    {
+      "text": "Sonerila is a genus of plants in the family Melastomataceae . This genus is characterized the by presence of three petals (along with the genera Stussenia and Lithobium ) as opposed to five in the other members of the family. Most members of the genus prefer growing in shady habitats. It is a large genus including about 175 species. This is primarily an Asiatic genus of the tropical and subtropical regions distributed from India and Sri Lanka to the Indo-Pacific . The members of the group are generally herbs or under shrubs, including some stemless members. Leaves opposite, leaf margin entire or serrulate. Inflorescence usually scorpioid cymes. Flowers in most species purple, some members with reddish or white flowers. Stamens 3, (in one whorl) or rarely 6 (in two whorls). Ovary inferior, 3-celled. Many species of this genus have restricted distribution and very small populations and would thus be regarded as Vulnerable (VU) or Endangered (EN) based on IUCN Red List criteria though this taxon has not yet been assessed for the IUCN Red List. Species Species accepted by the Plants of the World Online as of September 2021: Sonerila affinis Arn. Sonerila aiensis C.W.Lin Sonerila albiflora Stapf & King ex King Sonerila amoena Bakh.f. Sonerila",
+      "id": "HotpotQA-validation-00002965/00_Sonerila.html_c_0"
+    },
+    {
+      "text": "sac fungus Mycosphaerella scaevolae was discovered on a Scaevola fan-flower. In Europe, Scaevola aemula is a fairly common container- and bedding plant, usually grown as an annual.  Taxonomy The genus Scaevola was first described by Carl Linnaeus in 1771. He did not explain the origin of the genus name. It is considered to allude to the one-sided shape of the flower, which has a five-lobed tubular corolla ; scaevus in Latin means 'left-handed'. Linnaeus created the genus for a species he had previously described as Lobelia plumieri , which is thus the type species. Linnaeus did not explicitly use the specific epithet plumieri in combination with the genus Scaevola ; the combination Scaevola plumieri was first published by Martin Vahl in 1791. Species Scaevola coriacea (Dwarf Naupaka) at Liliʻuokalani Botanical Garden , Honolulu Flowers of Scaevola taccada (Beach Naupaka) Scaevola plumieri with ripe and unripe drupes at Honeymoon Island State Park , Dunedin, Florida As of January 2020 [update] , Plants of the World Online accepted the following species: Scaevola acacioides Carolin (W.A.) Scaevola aemula",
+      "id": "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_2"
+    },
+    {
+      "text": "genus that is widespread outside of Australia . In at least six separate dispersals, about 40 species have spread throughout the Pacific Basin , with a few reaching the tropical coasts of the Atlantic and Indian Oceans . The Hawaiian Islands are home to ten Scaevola species, nine of which are endemic . Eight of the indigenous species are the result of a single colonization event. Scaevola glabra and Scaevola taccada arrived separately to produce a total of three colonizations of Hawaii by Scaevola . Some of the endemic species are of hybrid origin. Beach naupaka ( Scaevola taccada synonym S. sericea ) occurs throughout the Pacific and Indian Oceans and is considered an invasive species in Florida, USA, and in some islands of the Caribbean including the Cayman Islands and the Bahamas . Beachberry or Inkberry ( Scaevola plumieri ) is widespread along the Atlantic coast of the tropical Americas and Africa ; however, it is becoming rarer in areas where S. taccada is displacing native coastal plants. Most Australian Scaevola have dry fruits and sprawling, herbaceous to shrubby habits. By contrast, nearly all species outside Australia have shrub habits with fleshy fruit making dispersal by frugivores easy.{ The plant pathogenic sac fungus Mycosphaerella scaevolae was discovered on a Scaevola fan-flower. In Europe, Scaevola",
+      "id": "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_1"
+    },
+    {
+      "text": "Scaevola ( / ˈ s iː v ə l ə , ˈ s ɛ v -/ ; SE(E)V -ə-lə ) is a genus of flowering plants in the Goodenia family , Goodeniaceae . It consists of more than 130 species, with the center of diversity being Australia and Polynesia . There are around 80 species in Australia, occurring throughout the continent, in a variety of habitats. Diversity is highest in the South West, where around 40 species are endemic . Common names for Scaevola species include scaevolas , fan-flowers , half-flowers , and naupaka , the plants' Hawaiian name. The flowers are shaped as if they have been cut in half. Consequently, the generic name means \" left-handed \" in Latin . Many Hawaiian legends have been told to explain the formation of the shape of the flowers. In one version a woman tears the flower in half after a quarrel with her lover. The gods, angered, turn all naupaka flowers into half flowers and the two lovers remained separated while the man is destined to search in vain for another whole flower. Scaevola taccada in Rangareddy district of Andhra Pradesh , India . Scaevola is the only Goodeniaceae genus that is widespread outside of Australia . In at least six separate dispersals, about 40 species have spread throughout the Pacific Basin , with a",
+      "id": "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_0"
+    },
+    {
+      "text": "Sonerila verticillata J.A.McDonald Sonerila victoriae Soumya & Maya Sonerila villosa C.E.C.Fisch. Sonerila violifolia Hook.f. ex Triana Sonerila virgata O.Schwartz Sonerila wallichii Benn. Sonerila wightiana Arn. Sonerila woodii Merr. Sonerila wynaadensis Nayar Sonerila zeylanica Wight & Arn. A further species was described in 2025: Sonerila bababudangiriensis Karad. & Kakkal. References",
+      "id": "HotpotQA-validation-00002965/00_Sonerila.html_c_8"
+    }
+  ],
+  "cot_scratchpad": "- Sonerila genus has ~175 species (HotpotQA-validation-00002965/00_Sonerila.html_c_0).\n- Scaevola genus has >130 species (HotpotQA-validation-00002965/01_Scaevola-plant.html_c_0).\n- 175 > 130, so Sonerila has more species.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Which has more species, Sonerila or Scaevola?",
+      "doc_ids": [
+        "HotpotQA-validation-00002965/00_Sonerila.html_c_0",
+        "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_2",
+        "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_1",
+        "HotpotQA-validation-00002965/01_Scaevola-plant.html_c_0",
+        "HotpotQA-validation-00002965/00_Sonerila.html_c_8"
+      ]
+    }
+  ]
+}

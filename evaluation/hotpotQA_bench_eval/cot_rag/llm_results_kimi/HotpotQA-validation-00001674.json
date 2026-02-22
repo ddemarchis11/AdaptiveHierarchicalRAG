@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00001674",
+  "question": "What did both Karel Bossart and Sergei Korolev design?",
+  "gold_answer": "rocket",
+  "llm_answer": "Both Karel Bossart and Sergei Korolev designed rockets.",
+  "context": [
+    {
+      "text": "Karel Jan Bossart (February 9, 1904 – August 3, 1975) was an innovative rocket designer and creator of the Atlas ICBM . His achievements rank alongside those of Wernher von Braun and Sergei Korolev . But as most of his work was for the United States Air Force and was therefore classified, his achievements are not widely known. Biography Karel Bossart was born on February 9, 1904, in Antwerp , Belgium . He graduated in Mining Engineering at the Université libre de Bruxelles in 1924. After winning a scholarship to Massachusetts Institute of Technology under the Belgian American Educational Foundation to study aeronautical engineering, he remained in the United States, working for various aircraft companies. In 1945 he was chief of structures at Convair and proposed to the United States Air Force that a missile could be developed with a range of 8000 km. The Air Force was skeptical of Bossart's proposal, partly wishing to preserve the priority of strategic bombers, but granted him a limited contract to develop a prototype. Bossart's major innovation was the use of a monocoque design in which structural support was maintained by pressure within the inelastic fuel tanks. After a series of tests in 1947 the Air Force lost interest and Bossart was instructed to abandon the research, but by 1951 the escalation of the Cold War enabled Bossart to revive the project that became known as 'Atlas'. In",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_0"
+    },
+    {
+      "text": "My Line? as a guest credited as \"Rocket Designer U.S.A.F. Atlas Missile\". The next year, the Air Force awarded him the Exceptional Civilian Award for his work in developing America's first ICBM. His co-workers called Bossart one of the finest technical men in the country. They credit him with having spearheaded a major phase in the art of rocketry. In 1965, Bossart was inducted into the International Aerospace Hall of Fame for his pioneering contributions to the Atlas rocket system. He is featured in the Hall of Fame's exhibit within the San Diego Air and Space Museum . Bossart was later inducted into the International Space Hall of Fame in 1990. Bossart died on August 3, 1975, in San Diego , California. References External links \"Karel Jan Bossart\" . Florida International University . Archived from the original on February 16, 2006 . Retrieved May 7, 2006 . Powell, Stewart M. (October 2009). \"The Day of the Atlas\" (PDF) . Air Force Magazine . airforcemag.com. pp. 60– 63.",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_2"
+    },
+    {
+      "text": "the Soviet's first liquid-fueled rocket GIRD-X . Growing military interest in this new technology caused GIRD to be merged with the Gas Dynamics Laboratory (GDL) at Leningrad in 1933 to create the Reactive Scientific Research Institute (RNII), which brought together the best of the Soviet rocket talent, including Korolev, Georgy Langemak , and former GDL engine designer Valentin Glushko . Korolev was appointed deputy head under Ivan Kleymyonov , however in 1934, following a disagreement over the direction of RNII, Korolev was demoted to section chief of winged missiles and was replaced by Georgy Langemak . Korolev supervised development of cruise missiles and a crewed rocket-powered glider . \"Rocket Flight in Stratosphere\" was published by Korolev in 1934. On 10 April 1935, Korolev's wife gave birth to their daughter, Natalya; and they moved out of Sergei's parents' home and into their own apartment in 1936. Both Korolev and his wife had careers, and Sergei always spent long hours at his design office. Imprisonment Joseph Stalin 's Great Purge severely damaged RNII, with Director Kleymyonov and Chief Engineer Langemak arrested in November 1937, tortured, made to sign false confessions and executed in January 1938. Glushko was arrested in March",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_7"
+    },
+    {
+      "text": "and the Hidden Rivalries that Ignited the Space Age\", – Matthew Brzezinski, Henry Holt and Company , 2008 г. ISBN 0-8050-8858-X ; A.I. Ostashev , Sergei Pavlovich Korolyov – The Genius of the 20th Century — 2010 M. of Public Educational Institution of Higher Professional Training MGUL ISBN 978-5-8135-0510-2 S. P. Korolev. Encyclopedia of life and creativity – edited by C. A. Lopota, RSC Energia. S. P. Korolev , 2014 ISBN 978-5-906674-04-3 External links Wikimedia Commons has media related to Sergei Korolyov . Wikiquote has quotations related to Sergei Korolev . Episode 47 of astrotalkuk.org Archived 9 September 2011 at the Wayback Machine Contains recording from the unveiling of Yuri Gagarin Statue event in London on 14 July 2011, includes Natalya Koroleva speaking about her father. Sergei Pavlovich Korolev (1907–1966) Biography, with several historic photographs provided by Natalya Koroleva. \"Korolev, Mastermind of the Soviet Space Program\" Biography, with a few photographs, by James Harford, adapted, in part, from the author's book. \"Sergei Pavlovich Korolev\" Biography",
+      "id": "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_41"
+    },
+    {
+      "text": "abandon the research, but by 1951 the escalation of the Cold War enabled Bossart to revive the project that became known as 'Atlas'. In 1955 the Central Intelligence Agency reported that Soviet Russia had made swift progress on its own intercontinental ballistic missile (ICBM) programme and Atlas became a crash project of the highest national importance. Bossart used this opportunity to advance work with high energy cryogenic fuels that resulted in the Centaur upper stage. Atlas was first launched in June 1957 but was never fully effective as an ICBM. However, used as a launch vehicle , the Atlas design has excelled and has formed the basis of the most successful and reliable expendable rockets in service. As a result, Bossart's achievements include Launch of first communications satellite; Launch of first United States orbital crewed missions; Launch of Mariner probes to Mars and Venus ; and Launch of Pioneer 10 and Pioneer 11 to Jupiter and Saturn . In 1955 Bossart became chief engineer of the Atlas project and in 1957 was promoted to Technical Director of Aeronautics at General Dynamics. On December 17, 1957, eleven years of Bossart's work climaxed in the first successful flight of the Atlas. A few days later, on December 22, 1957, he appeared on What's My Line? as a guest credited as \"Rocket Designer U.S.A.F. Atlas Missile\". The next year, the Air Force awarded him the",
+      "id": "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_1"
+    },
+    {
+      "text": "212 was Soviet experimental cruise missile developed in 1936 by Sergei Korolev . It was tested twice before being cancelled in 1939. The design was completed on August 2, 1936, and consisted of a rocket with wings which launched from a catapult . The catapult was tested twice in November, 1936, using a mock-up of the missile; both tests failed. It was then decided to use a Tupolev TB-3 aircraft as launch platform. The first test was done on May 27, 1938. Korolev was arrested one month later, but the project continued without him. On January 10, 1938, it was decided to no longer use Valentin Glushko 's ORM-65 [ ru ] rocket engine due to problems with the control system and some explosions. At that time the name of the missile was changed to 803 . During 1939 there were two more tests, failing again due to the control system. The project was finally abandoned. References Wade, Mark (2011). \"212\" . Archived from the original on 4 June 2011 . Retrieved 2011-05-26 . v t e",
+      "id": "HotpotQA-validation-00001674/03_212-missile.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- Karel Bossart created the Atlas ICBM (00_Karel-Bossart.html_c_0).\n- Sergei Korolev developed the Soviet experimental cruise missile 212 (03_212-missile.html_c_0).\n- No evidence shows Bossart designing cruise missiles or Korolev designing ICBMs.\n- Both designed military missiles, not the same type.\n- Bossart designed Atlas ICBM (00_Karel-Bossart.html_c_0).\n- Korolev designed Soviet cruise-missile 212 (03_212-missile.html_c_0).\n- Evidence shows missiles but no common platform category or name.\n- Need to check if both ever designed same named vehicle or shared designation.\n- Bossart created Atlas ICBM (00_Karel-Bossart.html_c_0).\n- Korolev developed Soviet cruise-missile 212 (03_212-missile.html_c_0).\n- Atlas and 212 are distinct vehicles; no shared name found.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What did both Karel Bossart and Sergei Korolev design?",
+      "doc_ids": [
+        "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_0",
+        "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_2",
+        "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_7",
+        "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_41",
+        "HotpotQA-validation-00001674/03_212-missile.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "None",
+      "doc_ids": [
+        "HotpotQA-validation-00002551/00_Clifford-Odets.html_c_19",
+        "HotpotQA-validation-00005985/00_The-Apprentice-US-season-8.html_c_26",
+        "HotpotQA-validation-00002543/01_Jeffrey-R-MacDonald.html_c_33",
+        "HotpotQA-validation-00004571/00_Daniel-Myrick.html_c_1",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_15"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "Karel Bossart Sergei Korolev common missile",
+      "doc_ids": [
+        "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_0",
+        "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_2",
+        "HotpotQA-validation-00001674/03_212-missile.html_c_0",
+        "HotpotQA-validation-00001674/00_Karel-Bossart.html_c_1",
+        "HotpotQA-validation-00001674/01_Sergei-Korolev.html_c_41"
+      ]
+    }
+  ]
+}

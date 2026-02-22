@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000999",
+  "question": "What musical action does Ndebele music and Musical bow have in common?",
+  "gold_answer": "played",
+  "llm_answer": "The musical action that Ndebele music and Musical bow have in common is that they both use a resonator to resound.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states 'played,' which is the shared musical action between Ndebele music and the Musical bow. The Model Answer incorrectly focuses on the use of a resonator, which is not mentioned in the Gold Answer or directly supported by the retrieved context as a shared action. Additionally, the context does not explicitly link Ndebele music to resonators, making the Model Answer unfaithful and missing the core factual point."
+  }
+}

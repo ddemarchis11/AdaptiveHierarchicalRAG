@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003650",
+  "question": "In 2008, who were the two actors stared along with a South Korean actor, singer, and model who won best actor in five prestigious award ceremonies.",
+  "gold_answer": "Best Actor prize",
+  "llm_answer": "I cannot verify the two actors who starred along with a South Korean actor, singer, and model who won best actor in five prestigious award ceremonies in 2008.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not provide any relevant information or attempt to answer the question. It fails to identify the actors or the South Korean actor mentioned in the question, and does not utilize the retrieved context effectively."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ee2856ac",
+  "question": "According to the CHILD'S HEALTH PRIMER, how does the consumption of alcohol impact the brain's ability to function, specifically in terms of poisoning the mind, preventing clear thinking, and interfering with the nerves that carry the brain's messages?",
+  "gold_answer": "Alcohol poisons the mind and prevents the brain from thinking well by affecting the nerves through which the brain sends messages.",
+  "llm_answer": "According to the CHILD'S HEALTH PRIMER, the consumption of alcohol impacts the brain's ability to function in the following ways:\n\n1. It deadens the nerves, so that they cannot carry their messages correctly.\n2. It prevents the brain from thinking well.\n3. It interferes with the nerves that carry the brain's messages, causing them to become tired and unable to work properly.\n4. It injures the brain and nerves, making it difficult for them to work well and send their messages properly.\n5. It causes the brain to become worn out, making it difficult to repair.\n6. It makes the head ache and hurts the brain and nerves.\n7. It slowly poisons the body, making it less able to bear sickness and less likely to get well again.\n8. It causes people to become careless and not do their work faithfully.\n9. It makes it difficult for people to know what they are doing, as the brain receives no message or the wrong one.\n\nOverall, the consumption of alcohol is portrayed as a poison that can harm the brain and nerves, leading to a range of negative consequences.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, explaining how alcohol poisons the mind, prevents clear thinking, and interferes with the nerves that carry the brain's messages. It provides additional details that are relevant and supported by the retrieved context, such as the effects on the brain and nerves, the inability to work properly, and the broader consequences of alcohol consumption. All key facts from the Gold Answer are included, and the expanded explanation aligns with the context provided."
+  }
+}

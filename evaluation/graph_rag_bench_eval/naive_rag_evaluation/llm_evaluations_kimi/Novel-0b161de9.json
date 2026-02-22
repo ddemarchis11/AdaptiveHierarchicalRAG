@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0b161de9",
+  "question": "What are the key events that define the life and relationships of Suza Fairfield in 'Pen Pictures'? Please include how she was raised and educated by Aunt Katy Demitt, her engagement to Don Carlo, and her role as the belle of Port William.",
+  "gold_answer": "Suza Fairfield was raised and educated by Aunt Katy Demitt, was engaged to be married to Don Carlo, and was the belle of Port William.",
+  "llm_answer": "Key events shaping Suza Fairfield’s life and relationships:\n\n1. Orphaned infancy – taken in and brought up by old Aunt Katy Demitt, who moves to Port William and gives the girl both an education and a social standing.  \n2. Childhood discovery – at eleven Suza is shown Aunt Katy’s hidden hoard of five-hundred dollars in gold and silver and the foster-mother’s witnessed will that leaves “all her earthly possessions” to Suza; from that moment Suza alone knows Aunt Katy’s secrets.  \n3. Emergence as “the belle of Port William” – her beauty and accomplishments attract many suitors, yet she refuses every offer, choosing to remain in Aunt Katy’s house.  \n4. The river rescue – she pulls Don Carlo, “the hero of Shirt-Tail Bend,” from the Ohio River, an act that makes the neighborhood pair the two romantically.  \n5. Public engagement – after church one evening Don Carlo and Suza ride home together; the village soon reports that “Suza Fairfield, the belle of Port William, and Don Carlo … were engaged to be married,” sealing her social position as both belle and betrothed.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the key events defining Suza Fairfield's life and relationships, including her upbringing by Aunt Katy Demitt, her engagement to Don Carlo, and her role as the belle of Port William. It provides additional context and details, such as her childhood discovery of Aunt Katy's will and her act of rescuing Don Carlo, which are supported by the retrieved context. All claims are faithful to the context, and the core facts from the Gold Answer are fully covered."
+  }
+}

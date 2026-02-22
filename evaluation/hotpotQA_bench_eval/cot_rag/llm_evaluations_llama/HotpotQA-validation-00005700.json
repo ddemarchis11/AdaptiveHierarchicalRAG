@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005700",
+  "question": "Which historical drama filmed in the Winter Palace of the Russian State Hermitage Museum stars Sergey Dreyden?",
+  "gold_answer": "Russian Ark",
+  "llm_answer": "I cannot verify which historical drama filmed in the Winter Palace of the Russian State Hermitage Museum stars Sergey Dreyden.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response, 'Russian Ark,' which is explicitly mentioned in the retrieved context as a historical drama filmed in the Winter Palace. Additionally, the model incorrectly states that it cannot verify the information, despite the context clearly supporting the answer. This results in a complete lack of correctness, faithfulness, and evidence coverage."
+  }
+}

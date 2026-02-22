@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "The creatures in the story that are depicted as eating nuts are:\n\n1. The mole: The story mentions that the mole is eating nuts, but it does not specify the type of nuts. However, it does mention that the mole is eating a pyramid of hazel-nuts when it rushes into the supper-room.\n2. The squirrel: The story mentions that the squirrel is eating nuts, but it does not specify the type of nuts. However, it does mention that the squirrel is eating almonds, which are a type of nut.\n3. The raccoon: The story mentions that the raccoon is eating nuts, but it does not specify the type of nuts.\n4. The woodmice: The story mentions that the woodmice are eating nuts, but it does not specify the type of nuts.\n5. The star-nosed moles: The story mentions that the star-nosed moles are eating nuts, but it does not specify the type of nuts.\n\nThe specific types of nuts mentioned as part of their diet are:\n\n* Hazelnuts\n* Butternuts\n* Chestnuts\n* Acorns\n* Beech-nuts\n* Hickories\n* Almonds",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies star-nosed moles as eating nuts, which aligns with the Gold Answer. However, it introduces additional creatures (mole, squirrel, raccoon, woodmice) as eating nuts without clear support from the context. The types of nuts listed are mostly accurate but include 'hickories' and 'almonds,' which are not explicitly tied to the star-nosed moles in the context. This results in partial correctness and faithfulness, as the answer diverges from the core focus on star-nosed moles and their specific diet."
+  }
+}

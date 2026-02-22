@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000486",
+  "question": "What overarching musical genre connects the Icelandic band that preceded a well-known solo artist's career and the Australian group that rose to fame in the late 1980s with a series of international hits?",
+  "gold_answer": "rock",
+  "llm_answer": "The overarching musical genre that connects the Icelandic band and the Australian group is rock music.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'rock' as the overarching musical genre, which aligns with the Gold Answer and is supported by the context mentioning Sigur Rós as a post-rock band and INXS as a rock band. The answer is concise and faithful to the retrieved context."
+  }
+}

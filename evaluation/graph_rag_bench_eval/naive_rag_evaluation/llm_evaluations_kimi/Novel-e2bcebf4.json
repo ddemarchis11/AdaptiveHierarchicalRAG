@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e2bcebf4",
+  "question": "Which creatures in the story are depicted as eating nuts, and what specific types of nuts—such as hazels, butternuts, chestnuts, acorns, and beech-nuts—are mentioned as part of their diet?",
+  "gold_answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+  "llm_answer": "The creatures shown eating nuts are the mole (briefly buried under them), the whole company of guests at the supper, Cracker the squirrel, and implicitly Toto and the other animals who share the pan of nuts afterwards.\n\nThe specific kinds of nuts named in their diet are: hazels, butternuts, chestnuts, beech-nuts, hickories, long brown-satin acorns, fat red-and-brown acorns, and (as a special treat for Cracker) almonds.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer identifies multiple creatures eating nuts, including the mole, Cracker the squirrel, and other guests, which is partially correct but diverges from the Gold Answer that specifically associates star-nosed moles with eating nuts. The types of nuts listed in the Model Answer are mostly supported by the context, but almonds are mentioned without clear grounding in the retrieved context. Additionally, the Gold Answer emphasizes the star-nosed mole's diet, which is not explicitly highlighted in the Model Answer, leading to partial evidence coverage and faithfulness."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-34a26da4",
+  "question": "In the narrative describing Hinze's social behavior, how does Hinze interact with both Tulpian and Felicia, particularly in his fervent desire to hear Tulpian's opinions and his manner of engaging in conversation with Felicia?",
+  "gold_answer": "Hinze is fervid in his desire to hear Tulpian and actively engages in conversation with Felicia.",
+  "llm_answer": "Hinze treats Tulpian as an oracle: he hangs on every word, eagerly collects even Tulpian’s “dusty crumbs” of opinion, and keeps a figurative spoon ready to pick them up. With Felicia he is equally reverential, but the focus shifts from collecting opinions to bestowing exaggerated deference. He listens “with rapt attention,” solemnly recapitulates her commonplace remarks as if they were revelations, and frames every reply with awed compliments (“as you very justly observed…”). In both relationships his manner is the same—an attitudinizing, almost theatrical reverence that flatters the speaker while displaying his own “correct” deference.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures Hinze's fervent desire to hear Tulpian's opinions and his exaggerated deference in conversation with Felicia, as described in the context. It provides detailed elaboration on his behavior, which aligns with the Gold Answer and is fully supported by the retrieved context. All key facts from the Gold Answer are included and expanded upon appropriately."
+  }
+}

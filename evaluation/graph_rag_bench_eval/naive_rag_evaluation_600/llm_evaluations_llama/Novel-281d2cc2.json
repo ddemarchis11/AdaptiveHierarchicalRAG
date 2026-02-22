@@ -1,0 +1,12 @@
+{
+  "id": "Novel-281d2cc2",
+  "question": "What is the link between Bode’s translation activity and the acceptance of the 'Koran' in Germany?",
+  "gold_answer": "Bode translated the 'Koran', which was accepted as genuine in Germany.",
+  "llm_answer": "There is no direct link mentioned in the provided text between Bode's translation activity and the acceptance of the 'Koran' in Germany. However, it is mentioned that Bode's translation of the 'Koran' was not widely accepted or recognized as his work, and that the 'Koran' was later translated by Mittelstedt and published in 1769.\n\nThe text does mention that Goethe was connected with the 'Koran' in some way, but the nature of this connection is not specified. It is also mentioned that the 'Almanach der deutschen Musen' and the 'Allgemeine deutsche Bibliothek' praised the 'Koran' in its translation by Mittelstedt, but this does not seem to be related to Bode's translation activity.\n\nIt is worth noting that the text does mention that Bode's translation of the 'Koran' was not given by Goedeke, Jördens, or Meusel, suggesting that it may not have been widely recognized or accepted as a legitimate translation of the work.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the core link between Bode's translation activity and the acceptance of the 'Koran' in Germany, as stated in the Gold Answer. It incorrectly focuses on the lack of recognition of Bode's translation and other unrelated details, which are not relevant to the question. While some claims are grounded in the context, the answer does not faithfully represent the key fact that Bode's translation was accepted as genuine in Germany, as per the Gold Answer."
+  }
+}

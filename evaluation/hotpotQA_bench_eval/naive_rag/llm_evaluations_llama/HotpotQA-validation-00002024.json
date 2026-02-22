@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002024",
+  "question": "In what town does the one-time star of \"And There's More\" now live?",
+  "gold_answer": "Rochdale",
+  "llm_answer": "There is insufficient evidence to determine in what town the one-time star of \"And There's More\" now lives.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct answer, 'Rochdale,' as stated in the Gold Answer. Additionally, the Retrieved Context does not contain relevant information to support the Model Answer or the Gold Answer, making the response ungrounded and incorrect."
+  }
+}

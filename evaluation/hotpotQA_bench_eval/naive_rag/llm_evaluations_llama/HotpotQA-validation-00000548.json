@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000548",
+  "question": "In the 2012-13 FC Sion they brought in Gennaro Gattuso and a player who now plays for what Scottish team?",
+  "gold_answer": "Scottish Premiership club Hearts",
+  "llm_answer": "The player who now plays for a Scottish team is Kyle Lafferty.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Kyle Lafferty as the player in question, which is supported by the context. However, it does not specify the Scottish team he currently plays for, which is 'Hearts' as per the Gold Answer. While the context mentions Lafferty's career trajectory, including his time at Hearts, the Model Answer omits this key detail, reducing evidence coverage and correctness."
+  }
+}

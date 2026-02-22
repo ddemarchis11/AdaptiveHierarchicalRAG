@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006558",
+  "question": "Who is the English Professional Footballer that is the niece of a former footballer born in the same place as where he plays?",
+  "gold_answer": "Trent Alexander-Arnold",
+  "llm_answer": "I cannot verify who the English Professional Footballer is that is the niece of a former footballer born in the same place as where he plays.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is Trent Alexander-Arnold. The retrieved context clearly supports this answer, as it mentions that John Alexander, born in Liverpool, is the uncle of Trent Alexander-Arnold, who plays for Liverpool. The Model Answer neither utilizes the context nor addresses the question accurately."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001144",
+  "question": "The 1989 Batman film was produced by Jon Peters and a man that is the CEO of what company?",
+  "gold_answer": "Mandalay Entertainment",
+  "llm_answer": "The 1989 Batman film was produced by Jon Peters and Peter Guber.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Peter Guber as the co-producer of the 1989 Batman film alongside Jon Peters, which is supported by the context. However, it does not address the specific part of the question regarding Peter Guber's role as CEO of Mandalay Entertainment, which is explicitly stated in the Gold Answer and the context. While the answer is faithful to the context, it misses the key fact about Mandalay Entertainment, leading to partial correctness and evidence coverage."
+  }
+}

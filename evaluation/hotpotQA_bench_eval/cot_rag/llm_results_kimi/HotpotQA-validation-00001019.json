@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001019",
+  "question": "Are both Aloinopsis and Eriogonum ice plants?",
+  "gold_answer": "no",
+  "llm_answer": "Only Aloinopsis is described as a genus of ice plants. The evidence does not state that Eriogonum is an ice plant.",
+  "context": [
+    {
+      "text": "Aloinopsis is a genus of ice plants native to the Cape Provinces of South Africa . Description This genus is closely related to the similar Titanopsis , Deilanthe and Nananthus genera. Aloinopsis species have a rather large tuberous root system, and are occasionally cultivated for their looks. They also tend to grow more \"heads\" when they are raised. Most Aloinopsis are winter growers and can react badly to too much water at the wrong time. Aloinopsis malherbei reportedly have \"blunt tips to their leaves, which are densely covered with prominent white tubercles.\" Distribution Aloinopsis malherbei Aloinopsis rubrolineata The species of Aloinopsis are indigenous to an arid area stretching across the border between the Western, Eastern and Northern Cape provinces of South Africa . Most species occur in an arid winter-rainfall area. An outlying species occurs in the far north eastern corner of the Northern Cape. Species Eight species are accepted. Aloinopsis acuta L.Bolus Aloinopsis loganii L.Bolus Aloinopsis luckhoffii (L.Bolus) L.Bolus Aloinopsis malherbei (L.Bolus) L.Bolus – Giant jewel plant Aloinopsis rosulata (Kensit) Schwantes Aloinopsis rubrolineata (N.E.Br.) Schwantes Aloinopsis schooneesii L.Bolus Aloinopsis",
+      "id": "HotpotQA-validation-00001019/01_Aloinopsis.html_c_0"
+    },
+    {
+      "text": "Eriogonum is a genus of flowering plants in the family Polygonaceae . The genus is found in North America and is known as wild buckwheat . This is a highly species-rich genus, and indications are that active speciation is continuing. It includes some common wildflowers , such as the California buckwheat ( Eriogonum fasciculatum ). The genus derived its name from the Greek word erion meaning 'wool' and gonu meaning 'knee or joint'. The author of the genus, Michaux , explained the name as describing the first named species of the genus ( E. tomentosum ) as a wooly plant with sharply bent stems ( \"planta lanata, geniculata\" ). Despite sharing the common name \"buckwheat\", Eriogonum is part of a different genus from the cultivated European buckwheat and than other plant species also called wild buckwheat . In addition to the widespread common species, approximately a third of the species in the genus are rare, endangered, or threatened. One such species came into the news in 2005 when the Mount Diablo buckwheat ( Eriogonum truncatum , believed to be extinct) was rediscovered. Ecology Eriogonum species are used as food plants by the larvae of some Lepidoptera (butterflies and moths). An example of a butterfly that uses this plant for food is the",
+      "id": "HotpotQA-validation-00001019/00_Eriogonum.html_c_0"
+    },
+    {
+      "text": "sp., Ipomopsis congesta , Astragalus tiehmii , and Cryptantha schoolcraftii . Mining is a significant threat to this species. Most Nevada occurrences are on land leased by mining operations. This plant's specific habitat type is targeted for mining. Mining has already destroyed some occurrences. \"Range improvement projects\" are another type of threat. Off-road vehicles are in use in the area. The plant also appears to have low recruitment . References External links USDA Plants Profile for Eriogonum crosbyae",
+      "id": "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_c_1"
+    },
+    {
+      "text": "Eriogonum diclinum is a species of wild buckwheat known by the common name Jaynes Canyon buckwheat . It is native to the Klamath Mountains of northern California and southern Oregon , where it is an uncommon member of plant communities on serpentine soils . This is a small dioecious shrub forming low, thick mats rarely exceeding 20 centimeters in height. The curving, oval-shaped leaves are woolly and greenish gray in color, growing up to two centimeters long. The plant flowers in yellow to reddish rounded inflorescences , male plants producing clusters of staminate flowers, and female plants producing larger clusters of pistillate flowers. External links Jepson Manual Treatment Photo gallery v t e",
+      "id": "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_c_0"
+    },
+    {
+      "text": "Schwantes Aloinopsis rubrolineata (N.E.Br.) Schwantes Aloinopsis schooneesii L.Bolus Aloinopsis spathulata (Thunb.) L.Bolus Formerly placed here Deilanthe hilmarii (L.Bolus) H.E.K.Hartmann (as Aloinopsis hilmarii (L.Bolus) L.Bolus ) Deilanthe peersii (L.Bolus) N.E.Br. (as Aloinopsis peersii (L.Bolus) L.Bolus ) Deilanthe thudichumii (L.Bolus) S.A.Hammer (as Aloinopsis thudichumii L.Bolus ) Nananthus aloides (Haw.) Schwantes (as Aloinopsis aloides (Haw.) Schwantes ) Nananthus vittatus (N.E.Br.) Schwantes (as Aloinopsis vittata (N.E.Br.) Schwantes ) Prepodesma orpenii (N.E.Br.) N.E.Br. (as Aloinopsis orpenii (N.E.Br.) L.Bolus ) References Wikimedia Commons has media related to Aloinopsis . v t e",
+      "id": "HotpotQA-validation-00001019/01_Aloinopsis.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Aloinopsis is explicitly called a genus of ice plants (HotpotQA-validation-00001019/01_Aloinopsis.html_c_0).\n- Eriogonum is described merely as a genus of flowering plants in Polygonaceae, with no mention of being ice plants (HotpotQA-validation-00001019/00_Eriogonum.html_c_0).\n- Ice plants are not typical of Polygonaceae; Eriogonum is known as wild buckwheat.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Are both Aloinopsis and Eriogonum ice plants?",
+      "doc_ids": [
+        "HotpotQA-validation-00001019/01_Aloinopsis.html_c_0",
+        "HotpotQA-validation-00001019/00_Eriogonum.html_c_0",
+        "HotpotQA-validation-00001019/02_Eriogonum-crosbyae.html_c_1",
+        "HotpotQA-validation-00001019/03_Eriogonum-diclinum.html_c_0",
+        "HotpotQA-validation-00001019/01_Aloinopsis.html_c_1"
+      ]
+    }
+  ]
+}

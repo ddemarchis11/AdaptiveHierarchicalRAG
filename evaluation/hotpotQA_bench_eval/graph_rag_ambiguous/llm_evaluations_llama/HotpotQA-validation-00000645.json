@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000645",
+  "question": "Which American comedian and talk show host, born in the early 1960s, had a supporting role in a romantic comedy set in Seattle about a widowed architect and a radio call-in show?",
+  "gold_answer": "Rosie O'Donnell",
+  "llm_answer": "The American comedian and talk show host, born in the early 1960s, who had a supporting role in a romantic comedy set in Seattle about a widowed architect and a radio call-in show is Graham Norton.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Graham Norton as the comedian and talk show host in question, whereas the correct answer is Rosie O'Donnell. The retrieved context clearly supports Rosie O'Donnell's involvement in 'Sleepless in Seattle,' and there is no evidence linking Graham Norton to the film or the described role."
+  }
+}

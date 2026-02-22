@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5c505dfc",
+  "question": "What evidence from Schummel's writings demonstrates his literary connection to the character Caroline, and how is Rosenfeld associated with Caroline in this context?",
+  "gold_answer": "Schummel writes about Caroline.",
+  "llm_answer": "The evidence shows that Schummel’s literary connection to the character Caroline is found in the section of his work that contains “the story of Caroline and Rosenfeld, a typical eighteenth-century tale of love, seduction and flight.” Rosenfeld is associated with Caroline as the male protagonist within that same embedded tale.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Schummel's literary connection to Caroline through the story of 'Caroline and Rosenfeld,' which is described in the retrieved context as a typical eighteenth-century tale of love, seduction, and flight. It also accurately associates Rosenfeld with Caroline as the male protagonist in the tale. The answer is detailed, faithful to the context, and includes all key facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003238",
+  "question": "Not Richard, But Dick was an album by the band formed in what city?",
+  "gold_answer": "Philadelphia",
+  "llm_answer": "The band formed in Worcester, Massachusetts.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the band associated with the album 'Not Richard, But Dick' was formed in Philadelphia. The Model Answer incorrectly states Worcester, Massachusetts, which is not supported by the retrieved context and contradicts the Gold Answer. Additionally, the retrieved context does not provide information about the band's formation location for 'Not Richard, But Dick,' making the Model Answer unfaithful and incorrect."
+  }
+}

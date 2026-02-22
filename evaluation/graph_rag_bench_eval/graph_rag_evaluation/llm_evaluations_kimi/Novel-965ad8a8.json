@@ -1,0 +1,12 @@
+{
+  "id": "Novel-965ad8a8",
+  "question": "Within the novel's discussions about the identity of Ovid's beloved, who was Corinna suspected to be?",
+  "gold_answer": "Julia",
+  "llm_answer": "The provided context does not mention Ovid, Corinna, or any discussion about her identity, so it cannot answer the question.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain any information about Ovid, Corinna, or her suspected identity, and therefore cannot answer the question. This aligns with the Gold Answer, which specifies 'Julia' as the suspected identity but is unsupported by the context provided."
+  }
+}

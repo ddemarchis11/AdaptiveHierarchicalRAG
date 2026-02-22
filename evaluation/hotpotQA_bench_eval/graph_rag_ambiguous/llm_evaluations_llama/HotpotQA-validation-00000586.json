@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000586",
+  "question": "A California-based record label historically associated with a provocative stand-up comedian and a swamp rock band from the late 1960s also released recordings by which jazz pianist best remembered for scoring the animated specials based on a newspaper comic strip featuring a beagle?",
+  "gold_answer": "Vincent Anthony Guaraldi",
+  "llm_answer": "I'm unable to answer the question as the context does not provide information about a California-based record label historically associated with a provocative stand-up comedian and a swamp rock band from the late 1960s that released recordings by a jazz pianist best remembered for scoring the animated specials based on a newspaper comic strip featuring a beagle.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'Vincent Anthony Guaraldi.' The retrieved context contains sufficient information to identify Guaraldi as the jazz pianist associated with scoring animated specials based on the Peanuts comic strip. The model's response does not utilize the relevant context and incorrectly claims an inability to answer the question."
+  }
+}

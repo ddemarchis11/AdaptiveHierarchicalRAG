@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000989",
+  "question": "Which film is newer, The Apple Dumpling Gang or Heavyweights?",
+  "gold_answer": "Heavyweights",
+  "llm_answer": "The Apple Dumpling Gang is a 1975 film.  \nHeavyweights was released in 1995.  \nTherefore, Heavyweights is the newer film.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Heavyweights as the newer film, aligning with the Gold Answer. However, the retrieved context does not explicitly provide the release year for Heavyweights, making the grounding partially unsupported. Additionally, while the Model Answer includes the release year for The Apple Dumpling Gang, it does not retrieve or confirm the release year for Heavyweights from the context, missing full evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005794",
+  "question": "Belle Gold is a fictional character portrayed by an actress of what nationality?",
+  "gold_answer": "Australian",
+  "llm_answer": "The evidence provided does not mention Belle Gold's actress's nationality.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about Belle Gold's actress's nationality. However, it fails to answer the question using external knowledge or inference, which is that the actress is Australian. The retrieved context does not contradict the Model Answer, but it does not support the Gold Answer either."
+  }
+}

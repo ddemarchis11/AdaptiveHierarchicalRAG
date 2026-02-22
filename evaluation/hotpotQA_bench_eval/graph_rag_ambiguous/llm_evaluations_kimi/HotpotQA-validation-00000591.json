@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000591",
+  "question": "A 1952 Western film set around a mountainous landmark follows the efforts of a band of irregular cavalry raiders fighting for which side of the American Civil War?",
+  "gold_answer": "pro-Confederate",
+  "llm_answer": "The 1951 Western film *Red Mountain* centers on Quantrill’s Raiders, who fought for the Confederate side during the American Civil War.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Quantrill's Raiders, featured in the film 'Red Mountain,' fought for the Confederate side during the American Civil War. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which describes Quantrill's Raiders as pro-Confederate guerrillas."
+  }
+}

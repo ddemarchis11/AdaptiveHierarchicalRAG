@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4241e70f",
+  "question": "What is the connection between the Shereefs and military forces in Draha?",
+  "gold_answer": "Shereefs maintained a force of ten thousand cavalry in Draha.",
+  "llm_answer": "According to the text, Diego de Torres relates that, in his time, the Shereefs maintained a force of ten thousand cavalry in the provinces of Draha, Tafilett, and Jaguriri.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the Shereefs maintained a force of ten thousand cavalry in Draha, as mentioned in the Gold Answer. It also includes additional details about Tafilett and Jaguriri, which are supported by the Retrieved Context. The answer is accurate, grounded, and covers all key facts."
+  }
+}

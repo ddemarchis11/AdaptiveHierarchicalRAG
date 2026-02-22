@@ -1,0 +1,12 @@
+{
+  "id": "Novel-152bec6a",
+  "question": "Who offered to arrange the legal testimony for Roxie Daymon in her attempt to secure her inheritance during the estate dispute?",
+  "gold_answer": "Governor Morock offered to arrange the testimony for Roxie Daymon.",
+  "llm_answer": "Governor Morock offered to arrange the legal testimony for Roxie Daymon, saying, “a few thousands will arrange the testimony, madam. Leave that to me, if you please.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Governor Morock as the person who offered to arrange the legal testimony for Roxie Daymon, consistent with the Gold Answer. It also includes a direct quote from the retrieved context, which supports the claim and provides additional detail, making it both accurate and faithful to the context."
+  }
+}

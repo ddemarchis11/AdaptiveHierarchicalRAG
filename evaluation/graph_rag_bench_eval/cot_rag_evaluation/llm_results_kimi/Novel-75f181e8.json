@@ -1,0 +1,42 @@
+{
+  "id": "Novel-75f181e8",
+  "question": "During the travelers' excursions from The Lizard, to which beach did Charles offer to drive the party for sightseeing and bathing?",
+  "gold_answer": "Charles drove to Kennack Sands.",
+  "llm_answer": "Kennack Sands",
+  "context": [
+    {
+      "text": "fire, that is certain,\" was our first decision. This entailed the abolition of our beautiful decorations--our sea-holly and ferns; also some anxious looks from our handmaiden. Apparently no fire, had been lit in this rather despised room for many months--years perhaps--and the chimney rather resented being used. A few agonised down-puffs greatly interfered with the comfort of the breakfast table, and an insane attempt to open the windows made matters worse. Which was most preferable--to be stifled or deluged? We were just considering the question, when the chimney took a new and kinder thought, or the wind took a turn--it seemed to blow alternately from every quarter, and then from all quarters at once--the smoke went up straight, the room grew warm and bright, with the cosy peace of the first fire of the season. Existence became once more endurable, nay, pleasant. \"We shall survive, spite of the rain!\" And we began to laugh over our lost day which we had meant to begin by bathing in Housel Cove; truly, just to stand outside the door would give an admirable douche bath in three minutes. \"But how nice it is to be inside, with a roof over our heads, and no necessity for travelling. Fancy the unfortunate tourists who have fixed on to-day for visiting the Lizard!\" (Charles had told us that Monday was a favourite day for excursions.) \"Fancy",
+      "id": "Novel-44557_c_80"
+    },
+    {
+      "text": "of Mount's Bay. Lastly, after a gorgeous sunset, in a golden twilight and silvery moonlight, we entered Marazion;-and found it, despite its picturesque name, the most commonplace little town imaginable! We should have regretted our rash decision, and gone on to Penzance, but for the hearty welcome given us at a most comfortable and home-like inn, which determined us to keep to our first intention, and stay. So, after our habit of making the best of things, we walked down to the ugly beach, and investigated the dirty-looking bay--in the lowest of all low tides, with a soppy, sea-weedy causeway running across to St. Michael's Mount. By advice of Charles, we made acquaintance with an old boatman he knew, a Norwegian who had drifted hither--shipwrecked, I believe--settled down and married an English woman, but whose English was still of the feeblest kind. However, he had an honest face; so we engaged him to take us out bathing early to-morrow. \"And to-night, ladies?\" suggested the faithful Charles. \"Wouldn't you like to row round the Mount?--When you've had your tea, I'll come back for you, and help you down to the shore--it's rather rough, but nothing like what you have done, ma'am,\" added he encouragingly. \"And it will be bright moonlight, and the Mount",
+      "id": "Novel-44557_c_141"
+    },
+    {
+      "text": "care of their tardy and troublesome charge; one instance more of that kindly courtesy which it does any man good to offer, and which any woman, \"lady\" though she be, may feel proud to receive. When we reached \"home,\" as we had already begun to call it, a smiling face and a comfortable tea justified the word. And when we retired, a good deal fatigued, but quite happy, we looked out upon the night, where the fiery stream of the Lizard Lights was contending with the brightest of harvest moons. It was a hopeful ending of our second day. [Illustration: CORNISH FISH.] DAY THE THIRD \"And a beautiful day it is, ladies, though it won't do for Kynance.\" Only 8 a.m., yet there stood the faithful Charles, hat in hand, having heard that his ladies were at breakfast, and being evidently anxious that they should not lose an hour of him and his carriage, which were both due at Falmouth to-night. For this day was Saturday, and we were sending him home for Sunday. \"As I found out last night, the tide won't suit for Kynance till Wednesday or Thursday, and you'll be too tired to walk much to-day. I've been thinking it all over. Suppose I were to drive you to Kennack Sands, back by the serpentine works to Cadgwith, and home to dinner? Then after dinner I'll give",
+      "id": "Novel-44557_c_38"
+    },
+    {
+      "text": "a letter we got from the landlord of its one hotel, promising to take us in, and make us thoroughly comfortable. Could we get there in one day? Charles declared we could, and even see a good deal on the road. \"We'll go round by Mullion. Mary will be delighted to get another peep at you ladies, and while I rest the horse you can go in and look at the old church--it's very curious, they say. And then we'll go on to Gunwalloe,--there's another church there, close by the sea, built by somebody who was shipwrecked. But then it's so old and so small. However, we can stop and look at it if you like.\" His good common sense, and kindliness, when he might so easily have done his mere duty and taken us the shortest and ugliest route, showing us nothing, decided us to leave all in Charles's hands, and start at 10 A.M. for Penzance, _via_ Helstone, where we all wished to stay an hour or two, and find out a \"friend,\" the only one we had in Cornwall. So all was settled, with but a single regret, that several boating excursions we had planned with John Curgenven had all fallen through, and we should never behold some wonderful sea-caves between the Lizard and Cadgwith, which we had set our hearts upon visiting. Charles fingered his",
+      "id": "Novel-44557_c_119"
+    },
+    {
+      "text": "In the midst of it we heard a rumour that Charles had been seen about the town, and soon after he appeared at the door, hat in hand, soaked but smiling, to inquire for and sympathise with his ladies. Yes, he _had_ brought a party to the Lizard that day!--unfortunate souls (or bodies), for there could not have been a dry thread left on them! We gathered closer round our cosy fire; ate our simple dinner with keen enjoyment, and agreed that after all we had much to be thankful for. In the afternoon the storm abated a little, and we thought we would seize the chance of doing some shopping, if there was a shop in Lizard Town. So we walked--I ought rather to say waded, for the road was literally swimming--meeting not one living creature, except a family of young ducks, who, I need scarcely say, were enjoying supreme felicity. \"Yes, ladies, this is the sort of weather we have pretty well all winter. Very little frost or snow, but rain and storm, and plenty of it. Also fogs; I've heard there's nothing anywhere like the fogs at the Lizard.\" So said the woman at the post-office, which, except the serpentine shops, seemed to be the one emporium of commerce in the place. There we could get all we wanted, and a good deal that we were very thankful we did not want, of",
+      "id": "Novel-44557_c_83"
+    }
+  ],
+  "cot_scratchpad": "- Bathing planned at Housel Cove but weather prevented it (Novel-44557_c_80)\n- Charles proposed drive to Kennack Sands for day trip (Novel-44557_c_38)\n- Plan included sightseeing and bathing at Kennack Sands (Novel-44557_c_38)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "During the travelers' excursions from The Lizard, to which beach did Charles offer to drive the party for sightseeing and bathing?",
+      "doc_ids": [
+        "Novel-44557_c_80",
+        "Novel-44557_c_141",
+        "Novel-44557_c_38",
+        "Novel-44557_c_119",
+        "Novel-44557_c_83"
+      ]
+    }
+  ]
+}

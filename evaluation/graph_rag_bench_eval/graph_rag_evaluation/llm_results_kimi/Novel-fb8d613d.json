@@ -1,0 +1,180 @@
+{
+  "id": "Novel-fb8d613d",
+  "question": "Within the apparatus for baking refractory products, the smoking furnace is part of what larger system?",
+  "gold_answer": "The smoking furnace is part of the gas furnace.",
+  "llm_answer": "The context does not specify what larger system the smoking furnace is part of within the apparatus for baking refractory products.",
+  "context": [
+    {
+      "text": "Produced by Olaf Voss, Don Kretz, Juliet Sutherland, Charles Franks and the Online Distributed Proofreading Team [Illustration] SCIENTIFIC AMERICAN SUPPLEMENT NO. 360 NEW YORK, NOVEMBER 25, 1882 Scientific American Supplement. Vol. XIV, No. 360. Scientific American established 1845 Scientific American Supplement, $5 a year. Scientific American and Supplement, $7 a year. TABLE OF CONTENTS. I. ENGINEERING AND MECHANICS.--Soaking Pits for Steel Ingots. --On the successful rolling of steel ingots with their own initial heat by means of the soaking pit process. By JOHN GJERS. 6 figures.--Gjers' soaking pits for steel ingots. Tempering by compression.--L. Clemandot's process. Economical Steam Power. By WILLIAM BARNET LE VAN. Mississippi River Improvements near St. Louis, Mo. Bunte's Burette for the Analysis of Furnace Gases. 2 figures. The \"Universal\" Gas Engine. 8 figures.--Improved gas engine. Gas Furnace for Baking Refractory Products. 1 figure. The Efficiency of Fans. 5 figures. Machine for Compressing Coal Refuse into Fuel. 1 figure.-- Bilan's machine. Hank Sizing and Wringing Machine. 1 figure. Improved Coke Breaker. 2 figures. Improvements in Printing Machinery.",
+      "id": "Novel-8559_c_0",
+      "doc_id": "Novel-8559",
+      "community_id": 118,
+      "score": 36.361626
+    },
+    {
+      "text": "a rail, or other finished article with its own initial heat, without the aid of the hitherto universally adopted heating furnace. It is well understood that in the fluid steel poured into the mould there is a larger store of heat than is required for the purpose of rolling or hammering. Not only is there the mere apparent high temperature of fluid steel, but there is the store of latent heat in this fluid metal which is given out when solidification takes place. It has, no doubt, suggested itself to many that this heat of the ingot ought to be utilized, and as a matter of fact, there have been, at various times and in different places, attempts made to do so; but hitherto all such attempts have proved failures, and a kind of settled conviction has been established in the steel trade that the theory could not possibly be carried out in practice. The difficulty arose from the fact that a steel ingot when newly stripped is far too hot in the interior for the purpose of rolling, and if it be kept long enough for the interior to become in a fit state, then the exterior gets far too cold to enable it to be rolled successfully. It has been attempted to overcome this difficulty by putting the hot ingots under shields or hoods, lined with non-heat-conducting material, and to bury them in non-heat-conducting material in a pulverized state, for the purpose of retaining and equalizing the heat; but all these attempts have proved",
+      "id": "Novel-8559_c_4",
+      "doc_id": "Novel-8559",
+      "community_id": 118,
+      "score": 17.840616
+    },
+    {
+      "text": "machine. Hank Sizing and Wringing Machine. 1 figure. Improved Coke Breaker. 2 figures. Improvements in Printing Machinery. 2 figures. II. TECHNOLOGY AND CHEMISTRY.--Apparatus for Obtaining Pure Water for Photographic Use. 3 figures. Black Phosphorus.--By P THENARD. Composition of Steep Water Schreiber's Apparatus for Revivifying Bone Black. 5 figures.-- Plant: elevation and plan.--Views of elevation.--Continuous furnace. Soap and its Manufacture from a Consumer's Point of View. (Continued from SUPPLEMENT, No. 330). Cotton seed Oil.--By S. S. BRADFORD. On some Apparatus that Permit of Entering Flames.--Chevalier Aldini's wire gauze and asbestos protectors.--Brewster's account of test experiments. III. ELECTRICITY, LIGHT. ETC.--On a New Arc Electric Lamp. By W. H. PREECE. 6 figures--The Abdank system.--The lamp.-- The Electro-magnet.--The Cut-off.--The electrical arrangement. Utilization of Solar Heat. IV. NATURAL HISTORY.--The Ocellated Pheasant. 1 figure. The Maidenhair Tree in the Gardens at Broadlands, Hants, England. 1 figure. The Woods of America.--The Jessup collection in the American Museum of Natural History, Central Park, and the characteristics",
+      "id": "Novel-8559_c_1",
+      "doc_id": "Novel-8559",
+      "community_id": 118,
+      "score": 14.8652525
+    },
+    {
+      "text": "ethnic bearing of skin furrows on the hand. Lucidity.--Matthew Arnold's remarks at the reopening of the Liverpool University College and School of Medicine. SOAKING PITS FOR STEEL INGOTS. ON THE SUCCESSFUL ROLLING OF STEEL INGOTS WITH THEIR OWN INITIAL HEAT BY MEANS OF THE SOAKING PIT PROCESS. By Mr. JOHN GJERS, Middlesbrough. [Footnote: Paper read before the Iron and Steel Institute at Vienna.] When Sir Henry Bessemer, in 1856, made public his great invention, and announced to the world that he was able to produce malleable steel from cast iron without the expenditure of any fuel except that which already existed in the fluid metal imparted to it in the blast furnace, his statement was received with doubt and surprise. If he at that time had been able to add that it was also possible to roll such steel into a finished bar with no further expenditure of fuel, then undoubtedly the surprise would have been much greater. Even this, however, has come to pass; and the author of this paper is now pleased to be able to inform this meeting that it is not only possible, but that it is extremely easy and practical, by the means to be described, to roll a steel ingot into, say, a bloom, a rail, or other finished article with its own initial heat, without the aid of the hitherto universally adopted heating furnace. It is well",
+      "id": "Novel-8559_c_3",
+      "doc_id": "Novel-8559",
+      "community_id": 118,
+      "score": 12.861655
+    },
+    {
+      "text": "roof of his house, at length had the idea to allow no water to run into the cistern until the roof had been well washed. After first putting up a hard-worked valve, the arrangement as sketched below has been hit upon. Now Newcastle is a very smoky place, and yet my friend gets water as pure as gin, and almost absolutely free from any smack of soot. [Illustration] The sketch explains itself. The weight, W, and the angle of the lever, L, are such, that when the valve, V, is once opened it goes full open. A small hole in the can C, acts like a cataract, and brings matters to a normal state very soon after the rain ceases. The proper action of the apparatus can only be insured by a careful adjustment of the weight, W, the angle through which the valve opens, and the magnitude of the vessel, C. It is an advantage to make the vessel, C, somewhat broader in proportion to its height than represented, and to provide it with a movable strainer placed about half way down. This tends to protect the cataract hole, and any accumulation of leaves and dirt can be removed once in six months or so. Clean soft water is valuable to the photographer in very many cases. Iron developer (wet plate) free from chlorides will ordinarily remain effective on the plate much longer than when chlorides are present, and the pyrogallic solution for",
+      "id": "Novel-8559_c_68",
+      "doc_id": "Novel-8559",
+      "community_id": 142,
+      "score": 12.082913
+    },
+    {
+      "text": "England. 1 figure. The Woods of America.--The Jessup collection in the American Museum of Natural History, Central Park, and the characteristics of the specimens. V. AGRICULTURE, ETC.--An Industrial Revolution.--Increase in the number of farms. A Farmer's Lime Kiln. 3 figures. The Manufacture of Apple Jelly. Improved Grape Bags. 4 figures. VI. ARCHITECTURE, ETC.--The Building Stone Supply.--Granite and its sources.--Sandstone.--Blue and gray limestone.--Marble.-- Slate.--Other stones.--A valuable summary of the sources and uses of quarry products. VII. ASTRONOMY. ETC.--How to Establish a True Meridian. By Prof. L. M. HAUPT.--Introduction.--Definitions.--To find the azemuth of Polaris.--Applications, etc. VIII. MISCELLANEOUS.--A Characteristic Mining \"Rush.\"--The Prospective Mining Center of Southern New Mexico. The Food and Energy of Man. By Prof. DE CHAUMONT.--Original food of man.--Function of food.--Classes of alimentary substances.--Quantity of food.--Importance of varied diet. Rattlesnake Poison.--Its Antidotes. By H. H. CROFT. The Chinese Sign Manual.--The ethnic bearing of skin furrows on the hand. Lucidity.--Matthew Arnold's remarks at the reopening of the Liverpool University College and School of",
+      "id": "Novel-8559_c_2",
+      "doc_id": "Novel-8559",
+      "community_id": 118,
+      "score": 11.247693
+    },
+    {
+      "text": "been had through all ages, and we are now stepping into the inheritance of times gone by, using the long and painful experience of our predecessors as the stepping-stone to our more accurate knowledge of the present time. In this, as in many other things, we are to some extent in the position of a dwarf on the shoulders of a giant; the dwarf may, indeed, see further than the giant; but he remains a dwarf, and the giant a giant. The question has been much discussed as to what the original food of man was, and some people have made it a subject of excited contention. The most reasonable conclusion is that man is naturally a frugivorous or fruit-eating animal, like his cousins the monkeys, whom he still so much resembles. This forms a further argument in favor of his being originated in warm regions, where fruits of all kinds were plentiful. It is pretty clear that the resort to animal food, whether the result of the pressure of want from failure of vegetable products, or a mere taste and a desire for change and more appetizing food, is one that took place many ages ago, probably in the earliest anthropoid, if not in the latest pithecoid stage. No doubt some advantage was recognized in the more rapid digestion and the comparative ease with which the hunter or fisher could obtain food, instead of waiting for the ripening of fruits in countries which had more or less prolonged periods of cold and inclement weather. Some anatomical changes have",
+      "id": "Novel-8559_c_85",
+      "doc_id": "Novel-8559",
+      "community_id": 170,
+      "score": 10.066647
+    },
+    {
+      "text": "running from the bluff to the top of the kiln, and a hand-car makes it very convenient filling the kiln. Such a location should be had if possible. Your inquirer may perhaps get some ideas of the principles of a kiln for using _coal_. The dimensions may be reduced, if desired. If for _wood_, the arch would have to be formed for that, and the height of kiln reduced. THE MANUFACTURE OF APPLE JELLY. [Footnote: From the report of the New York Agricultural Society.] Within the county of Oswego, New York, Dewitt C. Peck reports there are five apple jelly factories in operation. The failure of the apple crop, for some singular and unexplained reason, does not extend in great degree to the natural or ungrafted fruit. Though not so many as common, even of these apples, there are yet enough to keep these five mills and the numerous cider mills pretty well employed. The largest jelly factory is located near the village of Mexico, and as there are some features in regard to this manufacture peculiar to this establishment which may be new and interesting, we will undertake a brief description. The factory is located on the Salmon Creek, which affords the necessary power. A portion of the main floor, first story, is occupied as a saw mill, the slabs furnishing fuel for the boiler furnace connected with the evaporating department. Just above the mill, along the bank of the pond,",
+      "id": "Novel-8559_c_134",
+      "doc_id": "Novel-8559",
+      "community_id": 142,
+      "score": 9.977922
+    },
+    {
+      "text": "How dare you. NOAH. Respectable man, was 'e? GEORGIANA. What do you mean? SIR TRISTRAM. This lady is his sister! NOAH. Now, look 'ere--it's no good a gettin' 'asty and irritable with the law. I'll coom over to yer, officially. [_Putting the baking tin under his arm he crosses over to SIR TRISTRAM and GEORGIANA._ SIR TRISTRAM. [_Putting his handkerchief to his face._] Don't bring that horrible odor of cooking over here. GEORGIANA. Take it away! What is it? NOAH. It's evidence against my profligate wife. [_SIR TRISTRAM and GEORGIANA exchange looks of impatience._ GEORGIANA. Do you realize that my poor brother the Dean is missing? NOAH. Ay. Touching this missin' De-an. GEORGIANA. I left him last night to retire to rest. SIR TRISTRAM. This morning he is not to be found! NOAH. Ay. 'As it struck you to look in 'is bed? GEORGIANA _and_ SIR TRISTRAM. Of course! GEORGIANA. Everybody did that! NOAH. One 'ud a done. It's only confusin'--hall doin' it! Money matters right or wrong?",
+      "id": "Novel-40700_c_109",
+      "doc_id": "Novel-40700",
+      "community_id": 116,
+      "score": 9.75845
+    },
+    {
+      "text": "It's not wanted. I've altered my mind. I'm too busy to bother about him this week. NOAH. What! Hafter wasting my time? GEORGIANA. Look here--you're the constable who took the man in the Deanery Stables last night? NOAH. Ay. [_Looking out of the window._] There's my cart outside ready to take the scoundrel over to Durnstone. GEORGIANA. I should like to see him. NOAH. You can view him passin' out. [_He tucks the baking-tin under his arm and goes up to the cell door._ GEORGIANA. [_To herself._] Oh, Gus, Gus! NOAH. [_Unlocking the door._] I warn yer. 'E's a awful looking creature. GEORGIANA. I can stand it; I love horrors! [_NOAH goes into the cell, closing the door after him._ Tris! SIR TRISTRAM. Georgiana! GEORGIANA. What was my brother's motive in bolusing Dandy last night? SIR TRISTRAM. I can't think. The first thing to do is to get him out of this hole. This good woman has arranged for his escape. GEORGIANA. But we can't trust to Gus rolling out of a flying dogcart! Why, it's as much as I could do! HANNAH.",
+      "id": "Novel-40700_c_113",
+      "doc_id": "Novel-40700",
+      "community_id": 116,
+      "score": 9.6406765
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "Novel-8559_118",
+      "summary": "1. **Title**: Industrial Innovations and Technologies\n2. **Summary**: The collection of text chunks discusses various industrial innovations and technologies, including improvements in printing machinery, coke breakers, and electric lamps. The texts also cover topics such as the use of marble, granite, and sandstone in construction, as well as the production and use of cotton seed oil and other agricultural products. Additionally, the texts describe new technologies and apparatuses, such as the Abdank system for electric lamps and the use of electromagnets in break systems. The overall theme of the collection is the development and application of new technologies and innovations in various industries. The texts also highlight the importance of these innovations in improving efficiency, productivity, and quality in various fields. Furthermore, the collection showcases the diversity of industrial activities and the interconnectedness of different technologies and innovations.\n3. **Keywords**: Industrial Innovations, Electric Lamps, Construction Materials, Agricultural Products, Electromagnets",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-8559_142",
+      "summary": "1. **Title**: Photographic Water Purification\n2. **Summary**: The collection of text chunks discusses the importance of using pure water in photography, particularly in the preparation of emulsion and development processes. It highlights the need for distilled water and describes various methods for obtaining and purifying water, including the use of rainwater, filters, and distillation apparatus. The chunks also touch on the topic of black phosphorus and its properties, as well as other unrelated topics such as cider production and bone-black revivification. However, the primary focus is on the purification of water for photographic use.\n3. **Keywords**: Water Purification, Photography, Distillation, Rainwater, Filtration",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_116",
+      "summary": "1. **Title**: The Dean's Disappearance\n2. **Summary**: The Dean of St. Marvells has mysteriously disappeared, and his family and friends are searching for him. The story revolves around the events leading up to his disappearance, including a fire at the local Swan Inn, a horse named Dandy, and a complex web of relationships and motives. The Dean's sister, Georgiana, and her friend, Sir Tristram, are trying to uncover the truth behind the Dean's disappearance, while dealing with the local constable, Noah, who seems to be hiding information. As the story unfolds, it becomes clear that the Dean was involved in some questionable activities, and his disappearance may be linked to a larger scandal.\n3. **Keywords**: Disappearance, Dean, Mystery, Scandal, Family Secrets",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-40700_128",
+      "summary": "1. **Racing and Romance**\n2. The text chunks revolve around the themes of horse racing, romance, and the relationships between the characters, particularly Sir Tristram, Georgiana, and the Dean. The conversations and interactions between the characters reveal their personalities, interests, and motivations, with a focus on the upcoming Durnstone Handicap and the potential romantic connections between them. The Dean's financial struggles and his attempts to secure funds for the Spire are also a significant part of the narrative. Meanwhile, the characters' discussions about horse racing and their involvement in it serve as a backdrop for their personal stories and relationships.\n3. **Keywords**: Horse Racing, Romance, Dean, Sir Tristram, Georgiana",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-54537_142",
+      "summary": "1. **Historical Musical Instruments**\n2. **Summary**: The text discusses various historical musical instruments, including the lute, tamboura, kanoon, carillon, and organ. The lute, in particular, is mentioned as being played in the Persian style, with a system of seventeen intervals in the compass of an octave. The carillon, a musical instrument composed of multiple bells, is also described, with its origins and evolution in European countries. The text highlights the unique characteristics of each instrument and their suitability for producing specific musical effects. The development of musical instruments has led to the creation of new musical compositions and expressions. The history of bell-ringing and peal-ringing in England is also explored, with descriptions of the techniques and instruments used.\n3. **Keywords**: Historical instruments, Lute, Carillon, Organ, Musical evolution",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-26183_412",
+      "summary": "1. **Title**: Goethe and Literary Influences\n2. **Summary**: The text chunks discuss Goethe's literary influences, particularly his appreciation for the works of Sterne. Goethe considered Sterne a significant author and included quotations from his works in his own writing. The chunks also mention other authors and literary figures, such as Lessing, Lichtenberg, and Wieland, who were part of Goethe's literary circle. The text highlights Goethe's opinion on Sterne's writing style, humor, and indecency, as well as his own use of quotations from Sterne's works. The chunks also touch on the publication and translation of Goethe's works, including the \"Ausgabe letzter Hand\" and \"Sprüche in Prosa\".\n3. **Keywords**: Goethe, Sterne, Literary Influences, 18th Century Literature, German Literature",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-25646_41",
+      "summary": "1. **Title**: Health and Body Functions\n2. **Summary**: The provided text chunks discuss various aspects of human health and body functions, including the importance of fresh air, the role of the lungs, heart, and skin, and the effects of alcohol on the body. The texts also touch on the importance of proper hygiene, such as airing clothes and beds, and the need to avoid close rooms and impure air. Additionally, the chunks warn about the dangers of alcohol consumption and its impact on the body and mind. Overall, the texts aim to educate readers about the importance of maintaining a healthy lifestyle and avoiding harmful substances.\n3. **Keywords**: Health, Body Functions, Alcohol, Hygiene, Respiratory System",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-8559_170",
+      "summary": "1. **Title**: Natural History and Human Nutrition\n2. **Summary**: The provided text chunks discuss various topics related to natural history, including the discovery of a new bird species, the Ocellated Pheasant, and its characteristics. Additionally, the chunks touch on human nutrition, exploring the idea that humans are naturally frugivorous and discussing the adaptability of the human digestive system to different food sources. The texts also mention the importance of understanding the utilization of food for bodily functions and the classification of substances as food or non-food. The discussion on bird species and human nutrition seems to be the main theme, with some chunks providing detailed descriptions of the Ocellated Pheasant's physical characteristics and others delving into the history of human dietary habits.\n3. **Keywords**: Ocellated Pheasant, Human Nutrition, Natural History, Bird Species, Frugivorous Diet",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "Novel-5956_103",
+      "summary": "1. **Title**: Love and Redemption\n2. **Summary**: The text chunks revolve around two main storylines: the blossoming romance between Young Latimer and Ellen, and the struggles of a burglar who has escaped from jail. The bishop, Ellen's father, is initially hesitant about the relationship but eventually warms up to Latimer. Meanwhile, the burglar, who is desperate to reunite with his family, is shown kindness by Van Bibber, who decides to help him instead of turning him in. The stories explore themes of love, redemption, and the complexities of human relationships. The characters' emotions and motivations are deeply intertwined, leading to a nuanced and empathetic portrayal of their experiences. Through their journeys, the text highlights the importance of understanding, compassion, and the power of human connection.\n3. **Keywords**: Romance, Redemption, Family, Love, Forgiveness",
+      "is_seed": false,
+      "expand_score": 0.8006735444068909
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "Novel-8559_118",
+      "Novel-8559_93",
+      "Novel-8559_142",
+      "Novel-8559_55",
+      "Novel-41603_79",
+      "Novel-40700_116",
+      "Novel-5956_66",
+      "Novel-40700_128",
+      "Novel-54537_142",
+      "Novel-25646_39",
+      "Novel-26183_412",
+      "Novel-51410_11",
+      "Novel-8559_86",
+      "Novel-25646_41",
+      "Novel-8559_170"
+    ],
+    "expanded_community_keys": [
+      "Novel-5956_103"
+    ],
+    "all_community_keys": [
+      "Novel-8559_118",
+      "Novel-8559_93",
+      "Novel-8559_142",
+      "Novel-8559_55",
+      "Novel-41603_79",
+      "Novel-40700_116",
+      "Novel-5956_66",
+      "Novel-40700_128",
+      "Novel-54537_142",
+      "Novel-25646_39",
+      "Novel-26183_412",
+      "Novel-51410_11",
+      "Novel-8559_86",
+      "Novel-25646_41",
+      "Novel-8559_170",
+      "Novel-5956_103"
+    ],
+    "allowed_chunk_pool_size": 168,
+    "es_index": "chunks_hybrid",
+    "es_community_index": "chunks_hybrid_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000486",
+  "question": "What genre of music was played by both Tappi Tíkarrass and INXS?",
+  "gold_answer": "rock",
+  "llm_answer": "Based on the provided evidence, the genre of music played by both Tappi Tíkarrass and INXS is post-punk.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the genre as post-punk, which is not supported by the context or the Gold Answer. The Gold Answer specifies 'rock' as the genre, and the context does not provide evidence to support the claim of post-punk for both bands. Therefore, the Model Answer fails in correctness, faithfulness, and evidence coverage."
+  }
+}

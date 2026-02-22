@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bc1a34dd",
+  "question": "In which state did Mrs. Hall, also known as Angeline Hall, observe the total eclipse of the sun during one of her scientific travels?",
+  "gold_answer": "Mrs. Hall observed the total eclipse of the sun in Colorado.",
+  "llm_answer": "The provided context does not mention the state in which Mrs. Hall observed the total eclipse of the sun.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about the state where Mrs. Hall observed the eclipse. However, it fails to answer the question using internal knowledge, which is that Mrs. Hall observed the eclipse in Colorado. Thus, the answer is incorrect and does not cover the key fact from the Gold Answer."
+  }
+}

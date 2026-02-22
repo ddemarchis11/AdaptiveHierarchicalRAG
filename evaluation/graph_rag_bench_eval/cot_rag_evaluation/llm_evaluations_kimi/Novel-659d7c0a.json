@@ -1,0 +1,12 @@
+{
+  "id": "Novel-659d7c0a",
+  "question": "Which musical instruments were used by the Aztecs?",
+  "gold_answer": "The Aztecs used the huehuetl and the teponaztli as musical instruments.",
+  "llm_answer": "Based solely on the provided evidence, the Aztecs used the following musical instruments:\n\n- Whistles (made of baked clay)  \n- Pipes and flutes (made of pottery or bone)  \n- Drums  \n- Clusters of bells",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer lists musical instruments mentioned in the retrieved context but does not include the huehuetl and teponaztli, which are specified in the Gold Answer as the instruments used by the Aztecs. While the Model Answer is faithful to the context, it fails to address the core facts required by the question and misses the key entities from the Gold Answer."
+  }
+}

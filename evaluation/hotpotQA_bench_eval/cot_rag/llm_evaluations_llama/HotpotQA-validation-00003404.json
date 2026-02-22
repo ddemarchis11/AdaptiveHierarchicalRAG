@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003404",
+  "question": "Who wrote shorter stories, Raymond Carver or Lydia Davis?",
+  "gold_answer": "Lydia Davis",
+  "llm_answer": "Based on the provided evidence, it appears that both Raymond Carver and Lydia Davis wrote shorter stories. \n\nRaymond Carver is known for his short stories, and his final collection of seven stories, titled \"Elephant and Other Stories\" (included in \"Where I'm Calling From: New and Selected Stories\"), was composed in the five years before his death. \n\nLydia Davis is also known for her short stories, and her work has been translated into many languages. Her short stories have been published in various collections, including \"Night Train\" (translated by Lydia Davis, 2021).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not directly address the question of who wrote shorter stories between Raymond Carver and Lydia Davis. It provides general information about both authors' works but fails to establish that Lydia Davis wrote shorter stories, as stated in the Gold Answer. Additionally, the retrieved context does not provide evidence to support the claims made in the Model Answer, making it unfaithful to the context. The Model Answer also misses the specific fact that Lydia Davis wrote shorter stories, which is the core of the Gold Answer."
+  }
+}

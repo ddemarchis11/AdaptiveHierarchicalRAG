@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000116",
+  "question": "Suicide's 1977 released album features a song based on what brand's comic character?",
+  "gold_answer": "Marvel",
+  "llm_answer": "Marvel Comics",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Marvel Comics as the brand whose comic character inspired the song 'Ghost Rider' on Suicide's 1977 album. This is supported by the retrieved context, which explicitly mentions the Marvel Comics character. The answer is concise and faithful to the context, and it includes the key fact from the Gold Answer."
+  }
+}

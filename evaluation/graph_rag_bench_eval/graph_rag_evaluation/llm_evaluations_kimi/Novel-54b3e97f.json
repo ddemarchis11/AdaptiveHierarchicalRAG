@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Mr. Pepys drank with several individuals, including Captain Poole at Woolwich, Mr. Fanshaw at the Crane tavern, and Mr. Chetwind, Gregory, Hartlibb, and Mr. Kipps at the Bell at the Maypole in the Strand.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not mention Mr. Starling, who is explicitly identified in the Gold Answer as the individual who drank with Mr. Pepys during one of his social encounters. Instead, the Model Answer lists other individuals, none of whom are supported by the retrieved context as being relevant to the specific question. This makes the answer incorrect, unfaithful to the context, and lacking in evidence coverage."
+  }
+}

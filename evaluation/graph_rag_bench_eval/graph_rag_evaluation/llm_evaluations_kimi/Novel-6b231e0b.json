@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6b231e0b",
+  "question": "What is the connection between Kynance and Cornwall as established by the narrative chains?",
+  "gold_answer": "Kynance Cove, which includes Kynance and the feature Devil's Throat, is in Cornwall.",
+  "llm_answer": "Kynance is a coastal location in Cornwall that the travellers visit during their tour; the narrative chains link it to other Cornish places such as Falmouth, Helstone, the Lizard, Landewednack and Cadgwith, showing it as one of the scenic stops on their journey through the county.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Kynance as a location in Cornwall and mentions its connection to other places in the county, which aligns partially with the Gold Answer. However, it does not specifically mention Kynance Cove or the feature Devil's Throat, which are central to the Gold Answer. Additionally, the retrieved context does not explicitly support the connections to Falmouth, Helstone, the Lizard, Landewednack, and Cadgwith as part of the narrative chains, making the faithfulness to context low."
+  }
+}

@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#1E88E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#e0e0e0"  # sidebar grigia
+textColor = "#222222"
+font = "sans serif"                    # unico font consentito qui

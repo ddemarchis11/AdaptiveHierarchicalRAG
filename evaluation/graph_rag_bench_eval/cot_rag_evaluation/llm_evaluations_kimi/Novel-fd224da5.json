@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fd224da5",
+  "question": "Imagine you are Johann Christian Bock. Write a diary entry about your inspiration from Maria of Moulines and your literary achievements.",
+  "gold_answer": "Diary Entry — Jacobi has been a true muse. His story inspired me to pursue my own literary journey, leading to my latest production, 'Die Tagereise'. However, I remain aware of the shifting tides, as Schummel’s lack of influence on my work and the reviews from the Allgemeine deutsche Bibliothek suggest our field is ever-changing.",
+  "llm_answer": "Diary Entry – 1770\n\nToday I sent to the press the last sheets of my little book, “Die Tagereise.”  As I laid down the quill I felt again the pulse that has beaten in me ever since I first read Yorick’s meeting with Maria of Moulines.  Sterne’s picture of the forsaken girl, her lute, her silent sorrow, set my heart on fire; I knew I must try to transplant that flame into German soil.  So I shaped my traveler after Yorick: he dries the tears of a stranger, questions his own motives, and learns that innocence is its own shield—exactly the lesson Yorick drew beside the _fille de chambre_.  I dared even to name Yorick’s ass, defending the old peasant who weeps for his dead dog, so that no reader can miss whose steps I follow.  The book is slender, but it is the first fruit of my resolve to let German eyes feel what English ones have felt.  If the public receives even a spark of the pity and wonder that Maria of Moulines kindled in me, I shall count the day well spent.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of Johann Christian Bock's inspiration from Maria of Moulines and his literary achievements, as described in the Gold Answer. It elaborates on the influence of Sterne's work and Bock's adaptation of sentimental themes, which is well-supported by the Retrieved Context. The Model Answer includes all key facts from the Gold Answer, such as the publication of 'Die Tagereise' and the inspiration drawn from sentimental elements, while providing additional relevant details grounded in the context."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e92c0652",
+  "question": "Imagine you are a member of the Chateau Clique writing a private letter about the ongoing conflict with the Patriotes and the struggles with French Canadians.",
+  "gold_answer": "Private Letter — The situation grows tenser with each passing day. The Patriotes, emboldened by the support of their French Canadian base, stand in direct conflict with us. Their victories, such as at St Denis, have only strengthened their resolve. Our efforts are met with resistance, and the Assembly’s complaints about the expenditure of public moneys without the consent of the Executive government complicate matters further. The British government, for its part, continues to keep loyal to French Canadians, but their loyalty to the British crown is being sorely tested.",
+  "llm_answer": "I am writing to you in utmost secrecy, as the situation in Lower Canada continues to deteriorate. The Patriotes, led by Papineau, have been causing chaos and intimidation throughout the countryside, forcing loyalists to flee their homes and abandon their property. Their actions are a direct challenge to the authority of the British government, and it is imperative that we take a firm stance against them.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer captures the general tension and conflict with the Patriotes but lacks specific details mentioned in the Gold Answer, such as the victories at St Denis, the Assembly's complaints, and the British government's loyalty to French Canadians. While the chaos and intimidation described are partially supported by the context, the claim about Papineau leading the Patriotes is not explicitly grounded in the retrieved context. Additionally, the Model Answer omits key facts like the expenditure of public money and the testing of French Canadian loyalty to the British crown."
+  }
+}

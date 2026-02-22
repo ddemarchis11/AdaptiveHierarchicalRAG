@@ -1,0 +1,12 @@
+{
+  "id": "Novel-995b126e",
+  "question": "Explain how the chain links Ovid's writing to the theme of Love through the narrative sequence.",
+  "gold_answer": "Naso writes of Love, which is inflamed in Ceres.",
+  "llm_answer": "The chain links Ovid’s text to the theme of Love by moving, step by step, from the poet’s own parents (still living, still supporting him) to the divine parentage of Cupid/Venus and finally to the emperor Augustus.  \n1. Ovid first invokes his mortal parents (v. 10) – the immediate, human source of his life.  \n2. He then calls Cupid his “kinsman” and Venus the “founder of my family” (v. 8, 51), so the same parental language is transferred to the gods of Love.  \n3. Because Augustus is also “descended from Venus through Aeneas” (v. 51), the emperor becomes part of the same genealogical chain.  \nThus the narrative sequence – mortal parents → divine parent (Venus) → imperial descendant – binds Ovid’s personal voice to the universal power of Love and to its political celebration in Augustus’ triumph.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly explains the chain linking Ovid's writing to the theme of Love, aligning with the Gold Answer's mention of Love inflamed in Ceres. However, the Retrieved Context does not provide any grounding for the claims made in the Model Answer, making it unfaithful to the context. The Model Answer includes additional details about Ovid's mortal parents, divine parentage, and Augustus, which are relevant but not fully covered in the Gold Answer."
+  }
+}

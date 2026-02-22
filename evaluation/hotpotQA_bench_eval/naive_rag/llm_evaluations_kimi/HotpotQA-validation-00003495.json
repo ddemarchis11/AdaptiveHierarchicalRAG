@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003495",
+  "question": "Which is the younger brother in the composer duo that composed Aati Kya Khandala?",
+  "gold_answer": "Lalit",
+  "llm_answer": "The evidence does not specify which brother is younger.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify which brother is younger, which is incorrect as the Gold Answer clearly identifies Lalit as the younger brother. While the context does not explicitly confirm this fact, the Model Answer fails to provide the correct response based on the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "The context does not provide any information about Ruth and Angeline Stickney’s educational journey or how they were connected in that regard.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not contain information about Ruth and Angeline Stickney's educational journey or their connection during that time. However, it fails to answer the question using internal knowledge or external reasoning, which is expected when the context is insufficient. The Gold Answer provides specific information about their connection, which the Model Answer does not address."
+  }
+}

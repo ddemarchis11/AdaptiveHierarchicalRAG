@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003792",
+  "question": "What are both Caleb Shomo and Brian Welch?",
+  "gold_answer": "singer",
+  "llm_answer": "Both Caleb Shomo and Brian Welch are musicians.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Caleb Shomo and Brian Welch as musicians, which is supported by the context. However, the Gold Answer specifies 'singer,' which is a more precise term. The Model Answer does not explicitly include this detail, leading to partial correctness and evidence coverage."
+  }
+}

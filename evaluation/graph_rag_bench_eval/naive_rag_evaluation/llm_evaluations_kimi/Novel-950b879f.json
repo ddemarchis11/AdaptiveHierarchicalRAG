@@ -1,0 +1,12 @@
+{
+  "id": "Novel-950b879f",
+  "question": "What do the records indicate about Ruth's educational ambitions and her emotional connection to Angeline?",
+  "gold_answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+  "llm_answer": "The records indicate that Ruth Stickney did not share Angeline’s educational ambitions: after only one term at McGrawville she returned home, whereas Angeline stayed on, taught mathematics, and completed the college course. Nothing in the surviving documents suggests any particular emotional closeness—or distance—between the two sisters; Ruth’s feelings toward Angeline are simply not mentioned.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Ruth did not share Angeline's educational ambitions and claims there is no evidence of emotional closeness between the sisters. However, the Gold Answer explicitly mentions Ruth's ability to complete a scientific course in two years and her loneliness without Angeline, which is not addressed or supported by the Model Answer. Additionally, the Retrieved Context does not support the Model Answer's claims about Ruth's lack of ambition or emotional connection to Angeline."
+  }
+}

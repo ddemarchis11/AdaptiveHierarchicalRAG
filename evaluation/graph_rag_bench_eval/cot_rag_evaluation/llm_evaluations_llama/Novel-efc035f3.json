@@ -1,0 +1,12 @@
+{
+  "id": "Novel-efc035f3",
+  "question": "To whom did Mrs. B. make her remarks about kindness and care, as referenced in the accounts of Dr. Inglis's work among her patients?",
+  "gold_answer": "Mrs. B. remarked to Miss Inglis.",
+  "llm_answer": "The evidence does not explicitly state to whom Mrs. B. made her remarks about kindness and care. However, it does mention that Mrs. B. was a patient of Dr. Inglis for twenty years and that Dr. Inglis was very kind and caring towards her and her family.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to correctly identify Miss Inglis as the recipient of Mrs. B.'s remarks, which is explicitly stated in the Gold Answer. While the Model Answer is faithful to the context in describing Dr. Inglis's kindness and care, it does not address the specific question or include the key fact from the Gold Answer."
+  }
+}

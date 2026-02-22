@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006035",
+  "question": "Are the writing from Maurice Level and Alice Hoffman focused on different audieces?",
+  "gold_answer": "yes",
+  "llm_answer": "Yes.  \nAlice Hoffman writes for young-adult and children’s audiences, whereas Maurice Level’s macabre short stories were published in newspapers and pulp magazines aimed at adult readers.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Alice Hoffman writes for young-adult and children's audiences, while Maurice Level's works target adult readers with macabre themes. This distinction is supported by the retrieved context, which describes Hoffman's focus on young-adult and children's literature and Level's macabre stories published in adult-oriented newspapers and magazines. The Model Answer is accurate, faithful to the context, and includes all key facts from the Gold Answer."
+  }
+}

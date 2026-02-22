@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7ea7ec68",
+  "question": "What role did Gallegher play in relation to the group known as the Black Diamonds within the narrative?",
+  "gold_answer": "Gallegher led the Black Diamonds.",
+  "llm_answer": "Gallegher led the “Black Diamonds” in a fight against the “Wharf Rats.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Gallegher led the 'Black Diamonds' and provides the additional detail that this leadership was in a fight against the 'Wharf Rats,' which is supported by the retrieved context. It aligns with the Gold Answer and includes all key facts mentioned."
+  }
+}

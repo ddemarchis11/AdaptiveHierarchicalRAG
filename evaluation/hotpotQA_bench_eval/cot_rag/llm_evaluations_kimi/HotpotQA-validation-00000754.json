@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000754",
+  "question": "Which was published more frequently, Popular Science or Girlfriends?",
+  "gold_answer": "Girlfriends",
+  "llm_answer": "Popular Science was published monthly from 1872 until January 2016, when it switched to bi-monthly; Girlfriends was published monthly from 1993 until it ceased in 2006. Therefore, Popular Science was published more frequently.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Popular Science was published more frequently, whereas the Gold Answer correctly identifies Girlfriends as being published more frequently. The Model Answer is faithful to the context, as it accurately describes the publication frequencies of both magazines, but it fails to interpret the data correctly and misses the core factual point of the Gold Answer."
+  }
+}

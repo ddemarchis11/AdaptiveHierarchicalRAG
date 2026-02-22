@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005426",
+  "question": "What 2-year worldwide tour had a round stage and a band that performed a song never before performed live?",
+  "gold_answer": "U2 360° Tour",
+  "llm_answer": "The 2-year worldwide tour with a round stage and a band that performed a song never before performed live was the **Ceremonials Tour (2011–12)** by Florence and the Machine.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies the Ceremonials Tour by Florence and the Machine as the 2-year worldwide tour with a round stage and a band performing a song never before performed live. The correct answer is the U2 360° Tour, which is not mentioned or supported by the retrieved context. The Model Answer fails to align with the Gold Answer and does not provide relevant or accurate information."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00000927",
+  "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+  "gold_answer": "Boeing EA-18G Growler",
+  "llm_answer": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?\n\nEvidence suggests that Electronic Attack Squadron 138 (VAQ-138) operates the EA-18G Growler, which is a specialized version of the two-seat F/A-18F Super Hornet.",
+  "context": [
+    {
+      "text": "The Boeing EA-18G Growler is an American carrier-based electronic warfare aircraft , a specialized version of the two-seat Boeing F/A-18F Super Hornet . The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy . The Growler's electronic warfare capability is primarily provided by Northrop Grumman . The EA-18G began production in 2007 and entered operational service with the US Navy in late 2009. Australia has also purchased thirteen EA-18Gs, which entered service with the Royal Australian Air Force in 2017. Development Requirement and testing The first EA-18G at the roll-out ceremony on 3 August 2006 On 15 November 2001, Boeing successfully completed an initial flight demonstration of F/A-18F \"F-1\" fitted with the ALQ-99 electronic warfare system to serve as the EA-18 Airborne Electronic Attack (AEA) concept aircraft. In December 2003, the US Navy awarded a development contract for the EA-18G to Boeing. As primary contractor, Boeing was to construct the forward fuselage and wings, and perform the final assembly. Northrop Grumman was the principal airframe subcontractor and they would supply the center and aft fuselage as well as the principal electronic combat system. In 2003, the Navy expected to receive 90 EA-18Gs. The first EA-18G test",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0"
+    },
+    {
+      "text": "infrastructure will be installed at RAAF Base Amberley and the Delamere Air Weapons Range . The Growlers will also be fitted with improved sensors, longer-range missiles and new jamming pods. Potential operators Japan On 1 January 2018, it was reported that the Japanese Government is considering purchasing an electronic warfare attack aircraft and the EA-18G is a candidate for the Japan Air Self-Defense Force . Failed bids Finland Boeing and the US Navy indicated their intention to propose the F/A-18E/F and EA-18G as a package for the new fighter introduction program, HX, which would replace the F/A-18C/D fighters operated by the Finnish Air Force , and on 18 February 2019 the US Department of Defense approved the export of the EA-18G to Finland. However, the Finnish Air Force selected the F-35 Lightning II in February 2022. Operators Australia Royal Australian Air Force - 12 aircraft in service No. 6 Squadron RAAF An EA-18G prepares to launch from the aircraft carrier USS Theodore Roosevelt (CVN-71) An EA-18G pilot checks his right wing stores United States United States Air Force 390th Electronic Combat Squadron provides training for electronic warfare officers for Navy units by augmenting VAQ-129 with some USAF instructors. United States Navy - 153 aircraft in service VAQ-129 VAQ-130 VAQ-131 VAQ-132 VAQ-133",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13"
+    },
+    {
+      "text": "shoot from home base NASWI. See also Wikimedia Commons has media related to Electronic Attack Squadron 138 (United States Navy) . Naval aviation Modern US Navy carrier air operations List of United States Navy aircraft squadrons Notes References Bibliography {CVWP Command Operations Report (COR) 2011-2020} Web External links VAQ-138’s official website",
+      "id": "HotpotQA-validation-00000927/00_VAQ-138.html_c_6"
+    },
+    {
+      "text": "Strike Fighter Squadron 2 (VFA-2) also known as the \"Bounty Hunters\" is a United States Navy F/A-18F Super Hornet strike fighter squadron based at Naval Air Station Lemoore , California. Their tail code is NE and their callsign is \"Bullet\". They are attached to Carrier Air Wing 2 (CVW-2), a composite unit made up of a wide array of aircraft performing a variety of combat and support missions that deploy aboard the Carl Vinson . History Four distinct squadrons have been designated VF-2. Officially, the US Navy does not recognize a direct lineage with disestablished squadrons if a new squadron is formed with the same designation. Often, the new squadron will assume the nickname, insignia, and traditions of the earlier squadrons. 1970s VF-2 F-14As aboard USS Enterprise during their first deployment, 1975 VF-2, known as the \"Bounty Hunters,\" was established on 14 October 1972 flying the F-14A Tomcat . VF-2 completed aircrew training and received its first Tomcats in July 1973, attaining full strength of 12 F-14As in the spring of 1974. VF-2's initial deployment was in 1974 with her sister squadron VF-1 aboard USS Enterprise . The squadron flew over Saigon in support of Operation Frequent Wind , the evacuation of US personnel in April,",
+      "id": "HotpotQA-validation-00000927/02_VFA-2.html_c_0"
+    },
+    {
+      "text": "action by the Indonesian military, and remained there until December; six of No. 1 Squadron's aircraft and approximately 100 personnel were involved. From 20 September, when INTERFET forces began to arrive in East Timor, the F-111s were maintained at a high level of readiness to conduct reconnaissance flights or air strikes if the situation deteriorated. As it happened, INTERFET did not encounter significant resistance, and F-111 operations were limited to reconnaissance by RF-111Cs from 5 November through 9 December. F/A-18F Super Hornet of No. 1 Squadron on arrival at RAAF Base Amberley, March 2010 In 2007, the Australian government decided to retire the F-111s by 2010, and acquire 24 Boeing F/A-18F Super Hornets as an interim replacement, pending the arrival of the Lockheed Martin F-35 Lightning then being developed. The F-111 fleet was considered to be at risk due to fatigue, and too expensive to operate as each aircraft required 180 hours of maintenance for every hour of flying time. No. 1 Squadron ceased operating the F-111 in January 2009, in preparation for converting to the Super Hornet. Former F-111 aircrew, familiar with side-by-side seating and a different performance envelope, found conversion more challenging than pilots experienced in the RAAF's McDonnell Douglas F/A-18 Hornet fighters, which shared many characteristics with the",
+      "id": "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_c_24"
+    },
+    {
+      "text": "support operations in Libya in 2011. The Growler was deployed as part of Operation Prosperity Guardian , where one destroyed a Houthi Mil Mi-24 \"Hind\" on the ground with an AGM-88E Advanced Antiradiation Guided Missile (AARGM). The EA-18G also scored its first air-to-air kill, downing a Houthi drone. In late 2024, E/A-18Gs of VAQ-133 attached to the USS Abraham Lincoln (CVN-72) successfully used the ALQ-249 Next-Generation Jammer and made the squadron the very first in the Navy to deploy with the new jamming pod. Australia In 2008, the Australian Government requested export approval from the US government to purchase up to six EA-18Gs, which would be part of the order for 24 F/A-18F Super Hornets. An Australian EA-18G in 2023 On 27 February 2009, Defence Minister Joel Fitzgibbon announced that 12 of the 24 Super Hornets on order would be wired on the production line for future fit-out as EA-18Gs. The additional wiring would cost A$35 million. On 23 August 2012, the Australian Government announced that 12 RAAF Super Hornets would be fitted with Growler capability at a cost of $1.5 billion, making the Royal Australian Air Force the only military other than the U.S. to",
+      "id": "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_10"
+    }
+  ],
+  "cot_scratchpad": "- The Boeing EA-18G Growler is an American carrier-based electronic warfare aircraft.\n- A specialized version of the two-seat Boeing F/A-18F Super Hornet.\n- The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy.\n- (HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0)\n- The Growler's electronic warfare capability is primarily provided by Northrop Grumman.\n- (HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0)\n- The Boeing EA-18G Growler is an American carrier-based electronic warfare aircraft.\n- A specialized version of the two-seat Boeing F/A-18F Super Hornet.\n- The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy.\n- The Growler's electronic warfare capability is primarily provided by Northrop Grumman.\n- The EA-18G is a type of aircraft operated by the United States Navy.\n- The United States Navy operates 153 EA-18Gs.\n- The Boeing EA-18G Growler is a type of American carrier-based electronic warfare aircraft.\n- A specialized version of the two-seat Boeing F/A-18F Super Hornet.\n- The EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United States Navy.\n- The Growler's electronic warfare capability is primarily provided by Northrop Grumman.\n- The EA-18G is a type of aircraft operated by the United States Navy.\n- The United States Navy operates 153 EA-18Gs.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+      "doc_ids": [
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13",
+        "HotpotQA-validation-00000927/00_VAQ-138.html_c_6",
+        "HotpotQA-validation-00000927/02_VFA-2.html_c_0",
+        "HotpotQA-validation-00000927/03_No-1-Squadron-RAAF.html_c_24"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "American carrier-based electronic warfare aircraft type",
+      "doc_ids": [
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13",
+        "HotpotQA-validation-00000927/00_VAQ-138.html_c_6",
+        "HotpotQA-validation-00002173/02_Drop-test.html_c_1",
+        "HotpotQA-validation-00004312/01_Boeing-757.html_c_40"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "EA-18Gs in Royal Australian Air Force service",
+      "doc_ids": [
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_0",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_10",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_11",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_13",
+        "HotpotQA-validation-00000927/01_Boeing-EA-18G-Growler.html_c_7"
+      ]
+    }
+  ]
+}

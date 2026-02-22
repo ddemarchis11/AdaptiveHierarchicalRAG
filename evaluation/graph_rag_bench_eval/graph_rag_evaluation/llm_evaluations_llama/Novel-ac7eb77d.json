@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ac7eb77d",
+  "question": "According to the text, what roles does the Sultan hold in relation to Morocco, including his power over the country and his residence in a palace within Morocco?",
+  "gold_answer": "The Sultan has power over Morocco and has a palace in Morocco.",
+  "llm_answer": "The Sultan, Muley Abd Errahman, holds a significant role in relation to Morocco, serving as the ruler of the country and the head of the Shereefian dynasty. He has actual possession of the empire in his favor and can proclaim to his provinces that he governs it and exercises authority, making both his people and foreign nations believe in his pretensions and acknowledge his power. The Sultan resides at Tafilett, the ancient country of the Shereefs, where the greater part of the royal family also reside.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the Sultan as the ruler of Morocco and mentions his residence at Tafilett, which aligns partially with the Gold Answer. However, it introduces additional details about the Shereefian dynasty and the Sultan's governance that are not explicitly supported by the retrieved context. The retrieved context does not clearly state that the Sultan resides at Tafilett or that he governs the empire in the manner described, leading to partial faithfulness and evidence coverage."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-362dbef2",
+  "question": "Which actress was a member of the stock company at the People's theater, as outlined in the narrative detailing St. Paul's theatrical scene?",
+  "gold_answer": "Emily Dow was a member of the stock company at the People's theater.",
+  "llm_answer": "According to the narrative, the following actresses were members of the stock company at the People's theater:\n\n1. Emily Dow\n2. Azelene Allen\n3. Harry Gossan's sister, Emily Dow, was mentioned, but Harry Gossan was also mentioned as a member of the stock company, however, it is unclear if he was an actress or an actor.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Emily Dow as a member of the stock company at the People's theater, which aligns with the Gold Answer. However, it introduces Azelene Allen and Harry Gossan, which are mentioned in the context but not directly relevant to the specific question about actresses. Additionally, the claim about Harry Gossan's sister being Emily Dow is unsupported by the context. This reduces both faithfulness and evidence coverage."
+  }
+}

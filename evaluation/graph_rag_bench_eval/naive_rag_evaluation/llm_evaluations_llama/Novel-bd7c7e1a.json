@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bd7c7e1a",
+  "question": "How is Aunt Katy connected to Port William and Suza Fairfield, considering Aunt Katy moved to Port William, Suza Fairfield returned there after an attempted abduction, and Aunt Katy ultimately bequeathed her possessions to Suza?",
+  "gold_answer": "Aunt Katy is connected to Port William because she moved there and bequeathed her possessions to Suza Fairfield; Suza Fairfield also returned to Port William.",
+  "llm_answer": "Aunt Katy Demitt is connected to Port William as she moved there to occupy one of the best houses in the village, in which she held a life estate. This indicates that Aunt Katy had a significant presence in the community and was likely well-respected.\n\nAunt Katy is also connected to Suza Fairfield as her foster mother and guardian. Suza was an orphan girl raised and educated by Aunt Katy, suggesting a close and loving relationship between the two. Aunt Katy's love for Suza is described as \"a love seldom realized by a foster mother,\" indicating a deep and selfless devotion.\n\nWhen Suza Fairfield returned to Port William after an attempted abduction by Tom Ditamus, she found Aunt Katy in a state of distress, suggesting that Aunt Katy was deeply concerned for Suza's well-being and safety. This further emphasizes the close bond between the two.\n\nUltimately, Aunt Katy bequeathed her possessions, including five hundred dollars in gold and silver, to Suza Fairfield in her will. This indicates that Aunt Katy considered Suza to be her true heir and wanted to ensure her financial security and well-being after her passing.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the core meaning of the Gold Answer, explaining Aunt Katy's connection to Port William and Suza Fairfield. It provides additional relevant details about Aunt Katy's life estate, her role as Suza's foster mother, and her deep affection for Suza, all of which are supported by the Retrieved Context. The Model Answer also includes the key facts from the Gold Answer, such as Aunt Katy moving to Port William, Suza returning there, and Aunt Katy bequeathing her possessions to Suza."
+  }
+}

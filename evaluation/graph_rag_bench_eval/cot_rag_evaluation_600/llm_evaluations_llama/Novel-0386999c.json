@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0386999c",
+  "question": "From where were dates brought, according to the trade and agricultural accounts in the narrative?",
+  "gold_answer": "Dates were brought from Nefta and the surrounding districts.",
+  "llm_answer": "The text does not explicitly state where dates were brought from. However, it does mention that the date-palm is native to North Africa, and that the date-palm abounds in the maritime as well as in the inland districts of North Africa.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the specific question about the origin of dates as mentioned in the narrative. The Gold Answer clearly states that dates were brought from Nefta and the surrounding districts, but the Model Answer does not include this information and instead provides irrelevant details about the general presence of date-palms in North Africa. Additionally, the claims in the Model Answer are not directly supported by the retrieved context."
+  }
+}

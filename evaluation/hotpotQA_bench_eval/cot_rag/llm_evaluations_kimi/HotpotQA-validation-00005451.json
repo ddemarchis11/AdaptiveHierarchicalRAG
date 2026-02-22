@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005451",
+  "question": "The brother of Ferdinand Alfred Friedrich Jodl served as what position in World War II?",
+  "gold_answer": "Chief of the Operations Staff of the Armed Forces High Command",
+  "llm_answer": "Chief of the Operations Staff of the OKW.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Alfred Jodl's position as Chief of the Operations Staff of the OKW, which matches the Gold Answer. This information is explicitly supported by the Retrieved Context, and the Model Answer includes all key facts from the Gold Answer without omission or error."
+  }
+}

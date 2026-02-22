@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005932",
+  "question": "The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?",
+  "gold_answer": "Bachelor of Commerce",
+  "llm_answer": "Commerce",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the degree as 'Commerce,' which aligns with the Gold Answer 'Bachelor of Commerce.' The retrieved context explicitly states that David Lowy holds a Bachelor of Commerce from the University of New South Wales, making the answer both correct and faithful to the context. All key facts from the Gold Answer are covered."
+  }
+}

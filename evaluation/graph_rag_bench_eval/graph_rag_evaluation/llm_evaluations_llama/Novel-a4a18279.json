@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a4a18279",
+  "question": "Within the context of Dragon's Blood, how does revealing that Wutzler is a member of the Triad and introducing the White Lotus as a secret band led by Fang the Sword-Pen serve to deepen Wutzler's character and connect him to the larger web of clandestine organizations operating in the story?",
+  "gold_answer": "In one chain, Wutzler is revealed to be a member of the Triad, and White Lotus is described as a secret band led by Fang the Sword-Pen, adding complexity to his character and introducing broader organizational elements to the story.",
+  "llm_answer": "Revealing that Wutzler is a member of the Triad and introducing the White Lotus as a secret band led by Fang the Sword-Pen serves to deepen Wutzler's character by showing his involvement in a larger, more complex web of clandestine organizations. This adds a layer of depth to his personality, suggesting that he is not just a simple, cowardly man, but rather a complex individual with ties to powerful and secretive groups.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly captures the essence of the Gold Answer by explaining how Wutzler's connection to the Triad and the White Lotus adds complexity to his character and ties him to broader organizational elements. However, the retrieved context does not explicitly confirm Wutzler's membership in the Triad or the leadership of Fang the Sword-Pen in the White Lotus, making the grounding partial. Additionally, the Model Answer does not explicitly mention Fang the Sword-Pen or the White Lotus, which are key facts from the Gold Answer, resulting in partial evidence coverage."
+  }
+}

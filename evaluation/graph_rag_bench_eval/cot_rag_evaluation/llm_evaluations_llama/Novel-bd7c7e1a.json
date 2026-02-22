@@ -1,0 +1,12 @@
+{
+  "id": "Novel-bd7c7e1a",
+  "question": "How is Aunt Katy connected to Port William and Suza Fairfield, considering Aunt Katy moved to Port William, Suza Fairfield returned there after an attempted abduction, and Aunt Katy ultimately bequeathed her possessions to Suza?",
+  "gold_answer": "Aunt Katy is connected to Port William because she moved there and bequeathed her possessions to Suza Fairfield; Suza Fairfield also returned to Port William.",
+  "llm_answer": "Based on the provided evidence, here's how Aunt Katy is connected to Port William and Suza Fairfield:\n\n1. Aunt Katy moved to Port William: This is mentioned in Novel-47558_c_62, where it is stated that Aunt Katy had moved to Port William to occupy one of the best houses in the village, in which she held a life estate.\n\n2. Suza Fairfield returned to Port William after an attempted abduction: This is mentioned in Novel-47558_c_68, where it is stated that Suza Fairfield, after being captured by Tom Ditamus, rode back to Port William, where she found Aunt Katy's house still and quiet, with Aunt Katy sleeping.\n\n3. Aunt Katy bequeathed her possessions to Suza Fairfield: This is mentioned in Novel-47558_c_70, where it is stated that Aunt Katy's will, witnessed by old Ballard and old Father Tearful, bequeathed all her earthly possessions to Suza Fairfield.\n\nAunt Katy's relationship with Suza Fairfield is that of a foster mother, as mentioned in Novel-47558_c_75, where it is stated that Suza Fairfield is an orphan girl raised and educated by old Aunt Katy Demitt.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the connection between Aunt Katy, Port William, and Suza Fairfield, including all relevant details from the Gold Answer and additional context from the retrieved evidence. It is fully grounded in the provided context and includes all key facts mentioned in the Gold Answer, such as Aunt Katy moving to Port William, Suza Fairfield returning there, and Aunt Katy bequeathing her possessions to Suza."
+  }
+}

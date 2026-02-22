@@ -1,0 +1,12 @@
+{
+  "id": "Novel-84c13f69",
+  "question": "Who provides meals for The Dean during his time in custody, drawing upon her past experience as the Deanery cook?",
+  "gold_answer": "Hannah provides meals for The Dean.",
+  "llm_answer": "HANNAH, the former cook at the Deanery and now the wife of Constable Noah Topping, provides meals for the Dean during his time in custody.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Hannah as the person providing meals for The Dean during his time in custody, consistent with the Gold Answer. It also adds relevant context about her being the former cook at the Deanery and now the wife of Constable Noah Topping, which is supported by the retrieved context. All key facts from the Gold Answer are included."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001644",
+  "question": "In what year did the university with the second largest student enrolment in Alabama first field an intercollegiate American football side?",
+  "gold_answer": "1892",
+  "llm_answer": "The context does not specify which university has the second-largest student enrollment in Alabama, so the year it first fielded an intercollegiate American football team cannot be determined from the provided information.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly identifies that the retrieved context does not provide information about the university with the second-largest student enrollment in Alabama or the year it first fielded an intercollegiate football team. However, the model fails to answer the question using external knowledge, which is 1892 as per the Gold Answer. The retrieved context is irrelevant to the question, so faithfulness is high, but correctness and evidence coverage are low."
+  }
+}

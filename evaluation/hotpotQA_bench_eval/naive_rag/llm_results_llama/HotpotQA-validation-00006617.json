@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006617",
+  "question": "What role was the English actress. who starred in The Priory known for",
+  "gold_answer": "Sarah Hurst in \"Easy Virtue\"",
+  "llm_answer": "The English actress who starred in The Priory was known for her role in that play.",
+  "context": [
+    {
+      "text": "Charlotte Frances Riley (born 29 December 1981) is an English actress. She is known for her roles as Sarah Hurst in Easy Virtue (2008) and as Catherine Earnshaw in ITV 's adaptation of Wuthering Heights (2009). Early life and education Riley was born in Grindon , County Durham. She was brought up in County Durham and attended Teesside High School from the age of 9 until 18. She attended St Cuthbert's Society, Durham , from 2000 to 2003, performing with the sketch comedy group the Durham Revue and in plays and musicals and graduating with a degree in English and Linguistics; she also attended the London Academy of Music and Dramatic Art from 2005 to 2007. Career In 2004, Riley won the Sunday Times ' Playwriting Award for Shaking Cecilia , which she co-wrote with Tiffany Wood. In 2011, she played Anna in Helen Edmundson 's adaptation of Anna of the Five Towns on BBC Radio 4 . She appeared in Edge of Tomorrow , starring Tom Cruise and Emily Blunt . She also appeared onstage at the Royal Court Theatre production of The Priory , by Michael Wynne . She co-starred in London Has Fallen , the sequel to the 2013 film Olympus Has Fallen , where she portrayed an MI6 agent Jacqueline Marshall. She also portrayed Arabella Strange in the mini-series adaptation of Jonathan Strange &",
+      "id": "HotpotQA-validation-00006617/01_Charlotte-Riley.html_c_0"
+    },
+    {
+      "text": "The Priory is a play by Michael Wynne that opened at the downstairs theatre of the Royal Court Theatre in London in 2009. The production starred Jessica Hynes , Rupert Penry-Jones , Charlotte Riley , Alastair Mackenzie , Joseph Millson and Rachael Stirling . After receiving good reviews, its run was extended. Michael Wynne won the Olivier Award for Best New Comedy while Stirling was nominated for a Laurence Olivier Award for Best Performance in a Supporting Role for her role as Rebecca. Synopsis Following her split from her boyfriend, Kate decides to invite a group of her closest friends to a renovated and supposedly haunted priory, for a New Year's Eve party. However, as the drinks and drugs start to flow, personal revelations begin to emerge leading to near tragedy and a fraught morning after. Characters Kate: a budding author who has suffered personal tragedy throughout the previous year and is looking forward to a better one. Daniel: a gay architect who surfs the internet looking for love. Carl: a \"resting\" actor, best known for a coffee commercial, now happily working in a garden centre and Kate's college boyfriend. Rebecca: Carl's BAFTA award-winning wife and obsessive mother of his two small children. Ben: an award-winning travel writer. Laura: a counter girl at Harvey Nichols and Ben's fiancé of one day, the pair having met the night before. Original production The premiere of the play was at the Royal Court Theatre in London. It",
+      "id": "HotpotQA-validation-00006617/00_The-Priory-play.html_c_0"
+    },
+    {
+      "text": "Anna Sophie Jobarteh is an English actress. She is perhaps best known for portraying the role of Ruth Kirby on the BBC school-based drama Waterloo Road . She also played a role in thriller series Paradox in 2009, when she played the role of Dionne Hudson. She later starred as Christie in a show called Combat Kids on the CBBC Channel in 2010. Career Jobarteh began portraying the role of Ruth Kirby in the BBC school-based drama Waterloo Road in September 2010, in the first episode of the sixth series , and her character departed at the end of the series. In February 2020, Jobarteh portrayed the role of Kayla Miller in an episode of the BBC soap opera Doctors . Filmography Film Television References",
+      "id": "HotpotQA-validation-00006617/02_Anna-Jobarteh.html_c_0"
+    },
+    {
+      "text": "two quickly became good friends, deciding to collaborate on a feature-length project, wanting to capitalize on the growing popularity of the horror genre after the recent success with John Carpenter 's Halloween (1978), that could be filmed at a single location with a small cast. Early on in the development process, the filmmakers chose the Deer Lodge, a winter hotel in Banff, Alberta as the primary filming location. For the film's antagonist, filmmakers drew inspiration from the Native American legend of the Wendigo , a cannibalistic spirit that possessed humans, roaming the wilderness in search of human flesh. According to Makichuk, the Wendigo was originally intended to have a more substantial role in the film, but many scenes had to be removed due to budget restraints. Casting The majority of the cast were locally-hired actors in the Calgary area, with the exception being lead Riva Spier, who was an actress hired out of Montreal . For the majority of the cast, Ghostkeeper was their first and final film credit; Georgie Collins was primarily a well-known stage actress in Calgary, and was cast in the role of the mysterious elderly hotel proprietor. Spier, who had previously starred in minor roles prior to the film, would later go on to have a successful voice acting career. John MacMillan, who stood 6 feet 6 inches (1.98 m) in stature, was cast in the role of the Windigo. Filming Deer Lodge in Banff, Alberta served",
+      "id": "HotpotQA-validation-00000689/00_Ghostkeeper.html_c_4"
+    },
+    {
+      "text": "Lee So-young ( Korean : 이소영 ; January 30, 1990), known by her stage name Esom ( 이솜 ), is a South Korean actress. Career She gained recognition for her leading role in the 2014 film Scarlet Innocence , for which she was nominated for Best New Actress in five different award ceremonies. She then had notable roles in television series The Third Charm (2018), Taxi Driver (2021), and film Samjin Company English Class (2020). In January 2023, Esom signed with new agency Management MMM. Filmography Film Television series Web series Television shows Music video appearances Hosting Awards and nominations References External links Esom at HanCinema Esom at the Korean Movie Database Esom at IMDb",
+      "id": "HotpotQA-validation-00003650/02_Esom.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Charlotte Riley is an English actress (Novel-00006617_c_0).\n- She is known for her roles as Sarah Hurst in Easy Virtue (2008) and as Catherine Earnshaw in ITV's adaptation of Wuthering Heights (2009) (Novel-00006617_c_0).\n- The Priory is a play by Michael Wynne that opened at the Royal Court Theatre in London in 2009 (Novel-00006617_c_1).\n- Charlotte Riley co-starred in The Priory, by Michael Wynne (Novel-00006617_c_0).\n- The Priory play starred Charlotte Riley (Novel-00006617_c_1).\n- Charlotte Riley is known for her roles in Easy Virtue and Wuthering Heights (Novel-00006617_c_0).\",",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What role was the English actress. who starred in The Priory known for",
+      "doc_ids": [
+        "HotpotQA-validation-00006617/01_Charlotte-Riley.html_c_0",
+        "HotpotQA-validation-00006617/00_The-Priory-play.html_c_0",
+        "HotpotQA-validation-00006617/02_Anna-Jobarteh.html_c_0",
+        "HotpotQA-validation-00000689/00_Ghostkeeper.html_c_4",
+        "HotpotQA-validation-00003650/02_Esom.html_c_0"
+      ]
+    }
+  ]
+}

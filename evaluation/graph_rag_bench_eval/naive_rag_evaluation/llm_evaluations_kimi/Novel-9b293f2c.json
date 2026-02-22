@@ -1,0 +1,12 @@
+{
+  "id": "Novel-9b293f2c",
+  "question": "Who is identified in the narrative as being the king of the Chaldeans, particularly in the context of early Mesopotamian history?",
+  "gold_answer": "King Urukh was king of the Chaldeans.",
+  "llm_answer": "The narrative identifies King Belshazzar as the king of the Chaldeans in the context of early Mesopotamian history.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies King Belshazzar as the king of the Chaldeans, whereas the Gold Answer states King Urukh as the correct figure. The retrieved context does not provide evidence to support the claim about King Belshazzar being the king of the Chaldeans, nor does it mention King Urukh. Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

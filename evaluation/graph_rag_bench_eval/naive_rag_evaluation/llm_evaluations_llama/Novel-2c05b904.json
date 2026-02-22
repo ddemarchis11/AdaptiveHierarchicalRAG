@@ -1,0 +1,12 @@
+{
+  "id": "Novel-2c05b904",
+  "question": "During the process of digestion as discussed in the narrative, what part of the human body adapts to variations in food?",
+  "gold_answer": "The digestive apparatus adapts to food.",
+  "llm_answer": "The stomach is the part of the human body that adapts to variations in food. It is mentioned in the narrative that when the food in the stomach is mixed and prepared, it is ready to be sent through the body. This implies that the stomach plays a crucial role in breaking down and preparing food for further digestion and absorption.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the digestive apparatus adapts to food, which is a broader concept encompassing the entire digestive system. The Model Answer incorrectly specifies the stomach as the part that adapts to variations in food, which is not supported by the retrieved context. Additionally, the retrieved context does not explicitly discuss the stomach's role in adapting to food variations, making the model's claim ungrounded and missing the core factual point of the Gold Answer."
+  }
+}

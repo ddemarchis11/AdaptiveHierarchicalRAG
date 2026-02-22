@@ -1,0 +1,12 @@
+{
+  "id": "Novel-8f64cf43",
+  "question": "While at the French restaurant near Washington Square, which character did Van Bibber recognize and see dining there?",
+  "gold_answer": "Van Bibber saw Standish.",
+  "llm_answer": "Van Bibber recognized the Standish brothers—first the younger one (Ted) and then the elder Standish—dining at the French restaurant near Washington Square.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Gold Answer specifies that Van Bibber saw Standish, which refers to the elder Standish. The Model Answer incorrectly states that Van Bibber recognized both Standish brothers dining at the restaurant, which is not supported by the context. The context mentions Van Bibber seeing the younger Standish and later encountering the elder Standish, but it does not confirm that both were dining at the restaurant. This leads to partial correctness and partial grounding, as the Model Answer misrepresents the situation and misses the specific focus on the elder Standish."
+  }
+}

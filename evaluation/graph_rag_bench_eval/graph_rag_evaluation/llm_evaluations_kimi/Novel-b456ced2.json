@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b456ced2",
+  "question": "With whom does the Emperor of Morocco correspond in the narrative's depiction of diplomatic or political exchanges?",
+  "gold_answer": "The Emperor of Morocco corresponds with Mr. Hay.",
+  "llm_answer": "The context mentions only that “Mr. Hay's correspondence with this Court on the Slave-trade” took place; no other named correspondents of the Emperor appear in the passages provided.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mr. Hay as the correspondent with the Emperor of Morocco, as mentioned in the retrieved context. It does not introduce unsupported information and aligns with the Gold Answer. The retrieved context explicitly mentions Mr. Hay's correspondence with the Court on the Slave-trade, fulfilling the evidence coverage requirement."
+  }
+}

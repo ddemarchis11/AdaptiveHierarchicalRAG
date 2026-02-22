@@ -1,0 +1,12 @@
+{
+  "id": "Novel-346b12e8",
+  "question": "What is the relationship between St. Michael's Mount and Marazion?",
+  "gold_answer": "St. Michael's Mount was opposite Marazion.",
+  "llm_answer": "St. Michael's Mount and Marazion are closely related. St. Michael's Mount is a small island located off the coast of Marazion, a small town in Cornwall, England. The island is connected to the mainland by a causeway that is only accessible at low tide. \n\nMarazion is the town that surrounds the island, and it is the main point of access to St. Michael's Mount. The town has a station, a beach, and a harbor, and it is from here that people can visit the island. In the passage, the narrator describes the town of Marazion as being \"awakened\" by the arrival of the Princess Frederica of Hanover, and the town's residents are eager to show their hospitality to the royal visitors.\n\nThe relationship between St. Michael's Mount and Marazion is one of mutual dependence, with the island relying on the town for supplies and services, and the town relying on the island for its historic and cultural significance. The two are inextricably linked, and the passage highlights the unique and special connection between them.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the relationship between St. Michael's Mount and Marazion, stating that the Mount is located off the coast of Marazion and connected by a causeway, which aligns with the Gold Answer's core meaning. However, the additional details about mutual dependence and cultural significance are not explicitly supported by the retrieved context, reducing faithfulness. The Model Answer also misses the concise phrasing of 'opposite Marazion' from the Gold Answer, impacting evidence coverage."
+  }
+}

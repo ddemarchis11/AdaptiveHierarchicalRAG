@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000796",
+  "question": "What broad sector did the company formerly led by an Indian business executive named Pramod Bhasin operate in?",
+  "gold_answer": "IT",
+  "llm_answer": "The company formerly led by Pramod Bhasin—Genpact—operated in the broad sector of information technology services, consulting, and business process outsourcing.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the broad sector as information technology, which aligns with the Gold Answer. It also provides additional relevant details about consulting and business process outsourcing, which are supported by the Retrieved Context. All key facts from the Gold Answer are included."
+  }
+}

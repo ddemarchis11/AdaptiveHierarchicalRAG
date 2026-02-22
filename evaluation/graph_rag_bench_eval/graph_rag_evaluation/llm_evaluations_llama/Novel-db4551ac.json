@@ -1,0 +1,12 @@
+{
+  "id": "Novel-db4551ac",
+  "question": "Imagine you are Dipsas. Write a diary entry about your knowledge of magic arts and the charms of Ææa.",
+  "gold_answer": "Diary Entry — My reputation as a mistress of the magic arts and the charms of Ææa precedes me. These stories, told in Metamorphoses, travel far and wide, even as Jupiter’s utter hatred of the Telchines echoes through Olympus. Ovid’s words ensure my legend endures.",
+  "llm_answer": "I, Dipsas, have long been fascinated by the magic arts and the charms of Ææa. I have studied the ancient spells and incantations, and I have mastered the art of weaving a web of deceit and desire. My knowledge of the mystical forces that govern the universe is vast, and I have used it to bend the will of others to my whim. I have watched as lovers have been torn apart by my subtle manipulations, and I have seen the devastation that my charms can bring. And yet, I am drawn to the beauty and power of Ææa, a place where the very fabric of reality is twisted and distorted. I long to return to its shores, to feel the magic coursing through my veins, and to unleash my full fury upon the world.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially aligns with the Gold Answer in discussing Dipsas' knowledge of magic arts and the charms of Ææa, but it diverges significantly in tone and content. The Gold Answer emphasizes Dipsas' reputation and the enduring legend as told by Ovid, while the Model Answer introduces unsupported claims about manipulations, devastation, and a longing to return to Ææa, which are not grounded in the retrieved context. The retrieved context does not provide evidence for the specific details or claims made in the Model Answer, reducing its faithfulness. Evidence coverage is partial as the Model Answer does mention magic arts and Ææa but misses the connection to Ovid's Metamorphoses and Jupiter's hatred of the Telchines."
+  }
+}

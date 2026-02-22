@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1e49f181",
+  "question": "What is the logical connection between Don Carlo’s partnership with Dan Carlo and Suza Fairfield’s capture by Tom Ditamus?",
+  "gold_answer": "Don Carlo rode side by side toward Port William with Suza Fairfield, who was then captured by Tom Ditamus.",
+  "llm_answer": "There is no direct logical connection shown in the text between Don Carlo’s partnership dispute with Dan Carlo and Suza Fairfield’s abduction by Tom Ditamus. The two events occur in separate narrative threads and are not causally linked within the given context.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that there is no direct logical connection between Don Carlo's partnership with Dan Carlo and Suza Fairfield's capture by Tom Ditamus, as supported by the retrieved context. The context provides separate narrative threads for these events without any causal or logical link between them. The Model Answer is faithful to the context and covers the necessary evidence by addressing the lack of connection."
+  }
+}

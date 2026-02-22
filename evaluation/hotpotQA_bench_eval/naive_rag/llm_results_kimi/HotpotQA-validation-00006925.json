@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006925",
+  "question": "Do Tropical Fish Hobbyist and Curve cover the same topic?",
+  "gold_answer": "no",
+  "llm_answer": "No.  \nTropical Fish Hobbyist covers tropical fish and aquarium keeping, while Curve covers lesbian culture, news, and lifestyle.",
+  "context": [
+    {
+      "text": "Tropical Fish Hobbyist Magazine (abbreviated as TFH Magazine ) is a bimonthly magazine for hobbyist keepers of tropical fish , with news and information on a variety of topics concerning freshwater and marine aquariums . The magazine was first published in September 1952. The magazine is based in Neptune City, New Jersey . It is published by TFH Publications , which publishes books relating to the care aquarium fish and pets. Significant publications Significant articles published in Tropical Fish Hobbyist Magazine include the 1956 scientific description of the cardinal tetra by Leonard Peter Schultz . Noted authors Several established and well known ichthyologists, hobbyists, and experts have published works in TFH Magazine, including: Herbert Axelrod Leonard Peter Schultz William T. Innes George S. Myers Wayne Leibel Paul Loiselle Mark Smith Robert M. Fenner References External links Official website v t e v t e",
+      "id": "HotpotQA-validation-00006925/00_Tropical-Fish-Hobbyist.html_c_0"
+    },
+    {
+      "text": "Curve is a global lesbian media project. It covers news, politics, social issues , and includes celebrity interviews and stories on entertainment, pop culture, style, and travel. History and profile Founded by Frances \"Franco\" Stevens in San Francisco in 1990. While working at A Different Light Bookstore she noticed that bookstores and newsstands had few lesbian publications to offer, so she decided to do something about it. Curve was first published as Deneuve magazine. To fund the publication, Stevens applied for numerous credit cards, then took the borrowed money to the race track, winning enough money to cover the first three issues. The lifestyle magazine reported on the lesbian scene, fashion, fiction, music and film, and rumors from the lesbian community. The first issue of Deneuve hit the newsstands with Katie Sanborn as managing editor and sold out in six days. Stevens caused controversy by \"putting the word lesbian on the front cover because that meant every time somebody wanted to buy it, they were essentially coming out to anyone standing around them, anyone who saw it in their house.\" Over time, the magazine secured mainstream advertising deals, and famous faces like tennis player Martina Navratilova and singer Melissa Etheridge posed for the cover. The magazine was rebranded as Curve in 1996 after a trademark dispute with French actress Catherine Deneuve . DJ Page Hodel hosted the \"Alive and Kicking\" legal aid benefit to help the magazine overcome the financial impact of",
+      "id": "HotpotQA-validation-00006925/01_Curve-magazine.html_c_0"
+    },
+    {
+      "text": "Daily Spectator . Johns, Merryn (December 20, 2016). \"Lesbian Is Not Just an Identity—It's Something You Do\" . Slate . External links Official website Curve at Magarena.com (2013 Archive) Ahead of the Curve official film website",
+      "id": "HotpotQA-validation-00006925/01_Curve-magazine.html_c_5"
+    },
+    {
+      "text": "Oodinium , a genus of parasitic dinoflagellates, causes velvet disease in fish Velvet disease (also called gold-dust , rust and coral disease ) is a fish disease caused by dinoflagellate parasites of the genera Amyloodinium in marine fish, and Oodinium in freshwater fish. The disease gives infected organisms a dusty, brownish-gold color. The disease occurs most commonly in tropical fish, and to a lesser extent, marine aquaria . Periodic use of preventive treatments like aquarium salt can further deter parasites. Regular monitoring, attentive care, and preventive measures collectively contribute to keeping fish healthy and velvet-free. Life cycle The single-celled parasite's life cycle can be divided into three major phases. First, as a tomont , the parasite rests at the water's floor and divides into as many as 256 tomites. Second, these juvenile, motile tomites swim about in search of a fish host, meanwhile using photosynthesis to grow, and to fuel their search. Finally, the adolescent tomite [ check spelling ] finds and enters the slime coat of a host fish, dissolving and consuming the host's cells, and needing only three days to reach full maturity before detaching to become a tomont once more. Pathology A 15-day-old Siamese fighting fish ( Betta splendens ) with velvet disease Velvet (in an aquarium environment) is usually spread by contaminated tanks, fish, and tools (such as nets or",
+      "id": "HotpotQA-validation-00006925/02_Velvet-fish-disease.html_c_0"
+    },
+    {
+      "text": "actress Catherine Deneuve . DJ Page Hodel hosted the \"Alive and Kicking\" legal aid benefit to help the magazine overcome the financial impact of the lawsuit. Curve has been considered a perennial leader in reporting on a range of cultural issues, often writing about topics that were then picked up by mainstream media. Before the marriage equality movement picked up steam, Curve published an article about negotiating partner benefits in the workplace, in the December 1993 issue. Curve wrote about cybersex in 1995. In 2003, Curve was early in reporting on pregnancies within the queer community. Curve had a feature on gender queer fashion in Brooklyn, titled \"Tomboys Rule Brooklyn\" in the September 1996 issue. In 1999, Curve launched a website with online subscriptions, videos, books, and discussion boards. Diane Anderson-Minshall was editor-in-chief when the magazine was acquired in October 2010 by Australian media company, Avalon Media. Under the ownership of Avalon Media, Curve was headquartered in Sydney with Merryn Johns as editor-in-chief and reported its circulation at 52,237, and a 182,831 readership with a median household income of $85,372. Founded by Silke Bader, Avalon Media also published Lesbians on the Loose (LOTL) and Bound magazines in Australia. In 2021, Curve magazine was re-acquired by Founder Franco Stevens and donated to The Curve Foundation , with its mission to \"empower",
+      "id": "HotpotQA-validation-00006925/01_Curve-magazine.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Tropical Fish Hobbyist is a magazine for tropical-fish keepers (Novel-00).\n- Curve is a global lesbian media project covering lifestyle, culture, and politics (Novel-01_c_0, Novel-01_c_1).\n- They focus on completely unrelated subject areas.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Do Tropical Fish Hobbyist and Curve cover the same topic?",
+      "doc_ids": [
+        "HotpotQA-validation-00006925/00_Tropical-Fish-Hobbyist.html_c_0",
+        "HotpotQA-validation-00006925/01_Curve-magazine.html_c_0",
+        "HotpotQA-validation-00006925/01_Curve-magazine.html_c_5",
+        "HotpotQA-validation-00006925/02_Velvet-fish-disease.html_c_0",
+        "HotpotQA-validation-00006925/01_Curve-magazine.html_c_1"
+      ]
+    }
+  ]
+}

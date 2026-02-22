@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006973",
+  "question": "\"Collateral Damage\" is an episode of the television series \"Millennium\" and features the host of a late night talk show that airs how often?",
+  "gold_answer": "seven nights a week",
+  "llm_answer": "The provided evidence does not specify how often the late-night talk show featured in the episode airs.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the frequency of the late-night talk show, which is faithful to the context. However, it fails to provide the correct answer ('seven nights a week') as stated in the Gold Answer, and does not cover the key fact required."
+  }
+}

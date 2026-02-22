@@ -1,0 +1,12 @@
+{
+  "id": "Novel-dca8ac49",
+  "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+  "gold_answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+  "llm_answer": "I'm a launce, a small sand-eel peculiar to these coasts. Today was a night to remember. The moon shone brightly on the wet sand, and I swam about, feeling the silvery glow on my body. I burrowed into the sand just above the waterline, feeling safe and hidden. But then, disaster struck. A group of fishermen, armed with a crooked iron spear, came to my home. They stood up to their ankles on the wet sand, trying to hook me up. I tried to wriggle away, but it was too late. One of them managed to catch me, and I was seized with their left hand. I'm not sure what will happen to me now, but I'm just glad I got to experience the beauty of the moonlit night before my fate was sealed.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer provides a detailed narrative from the perspective of a launce, but it diverges significantly from the Gold Answer. The Gold Answer focuses on a boat entering the cave and the launce's reaction to it, while the Model Answer describes a moonlit night and fishermen catching the launce, which is not mentioned in the Gold Answer or supported by the retrieved context. The Model Answer is partially grounded in the context, as it references launce fishing methods described in the retrieved text, but it introduces unsupported details about the launce's experience and fate. It fails to cover the key facts from the Gold Answer, such as the presence of John Curgenven and the boat's intrusion into the cave."
+  }
+}

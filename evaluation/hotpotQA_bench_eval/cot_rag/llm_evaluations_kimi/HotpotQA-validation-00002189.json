@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002189",
+  "question": "George Reed was, along with which Drake University player, one of the greatest running backs in CFL history?",
+  "gold_answer": "Johnny D. Bright",
+  "llm_answer": "Johnny Bright",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Johnny Bright as the Drake University player who, along with George Reed, is considered one of the greatest running backs in CFL history. This is supported by the retrieved context, which explicitly mentions Johnny Bright in this regard. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

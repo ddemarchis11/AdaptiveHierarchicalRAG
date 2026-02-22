@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005636",
+  "question": "What kind of group does At the Drive-In and Muse have in common?",
+  "gold_answer": "band",
+  "llm_answer": "The evidence provided does not specify any common group or category shared by At the Drive-In and Muse.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question correctly, as it does not identify the commonality between At the Drive-In and Muse, which is that they are both bands. Additionally, the retrieved context does not provide relevant information to support the Model Answer, and the Gold Answer's key fact ('band') is entirely missed."
+  }
+}

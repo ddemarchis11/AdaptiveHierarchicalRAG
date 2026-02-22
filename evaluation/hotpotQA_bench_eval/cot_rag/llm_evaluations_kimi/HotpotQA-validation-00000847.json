@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000847",
+  "question": "The Polar Bear and Daiquiri are both examples of what?",
+  "gold_answer": "cocktails",
+  "llm_answer": "The provided evidence does not establish any common category that includes both the Polar Bear and the Daiquiri.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is no common category for Polar Bear and Daiquiri, while the Gold Answer correctly identifies them as cocktails. The context provides sufficient information to support the Gold Answer, specifically mentioning Daiquiri as a cocktail and listing other cocktails. The Model Answer is faithful to the context but fails to provide the correct answer or include the key fact from the Gold Answer."
+  }
+}

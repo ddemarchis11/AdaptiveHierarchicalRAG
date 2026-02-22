@@ -1,0 +1,42 @@
+{
+  "id": "Novel-d4f3ad82",
+  "question": "At which observatory did Asaph Hall work after relocating to Cambridge, marking the beginning of his professional career in astronomy?",
+  "gold_answer": "Asaph Hall worked at Harvard Observatory.",
+  "llm_answer": "Harvard Observatory",
+  "context": [
+    {
+      "text": "a friend. Though very delicate, she was industrious. Her husband’s strong twin sisters wondered how he would succeed with such a poor, weak little wife. But Asaph’s mother assured her son that their doubts were absurd, as Angeline accomplished as much as both the twins together. So it came to pass that in the latter part of August, 1857, Asaph Hall arrived in Cambridge with fifty dollars in his pocket and an invalid wife on his arm. Mr. George Bond, son of the director of the observatory, told him bluntly that if he followed astronomy he would starve. He had no money, no social position, no friends. What right had he and his delicate wife to dream of a scientific career? The best the Harvard Observatory could do for him the first six months of his stay was to pay three dollars a week for his services. Then his pay was advanced to four dollars. Early in 1858 he got some extra work—observing moon-culminations in connection with Col. Joseph E. Johnston’s army engineers. For each observation he received a dollar; and fortune so far favored the young astronomer that in the month of March he made twenty-three such observations. His faithful wife, as regular as an alarm clock, would waken him out of a sound sleep and send him off to the observatory. In 1858, also, he began to eke out his income by computing almanacs, earning the first",
+      "id": "Novel-58553_c_83"
+    },
+    {
+      "text": "He soon became disgusted at the wire-pulling in Washington, and wrote contemptuously of the “_American_ astronomy” then cultivated at the Naval Observatory. But he decided to make the best of a bad bargain; and his own work at Washington has shed a lustre on American astronomy. When he left Cambridge, thanks to his frugal wife, he had three hundred dollars in the bank, although his salary at the Harvard Observatory was only six hundred a year. The Bonds hated to lose him, and offered him eight hundred in gold if he would stay. This was as good as the Washington salary of one thousand a year in paper money which he accepted, to say nothing of the bad climate and high prices of that city, or of the uncertainties of the war. The next three years were teeming with great events. In less than a month after his arrival in Washington, the second battle of Bull Run was fought. At the observatory he heard the roar of cannon and the rattle of musketry; and it was his heart-rending task to hunt for wounded friends. His wife, still at the North, wrote under date of September 4, 1862: DEAREST ASAPH: ... I wish I could go right on to you, I feel so troubled about you. You will write to me, won’t you, as soon as you get this, and tell me whether to come on now or not. If there is danger I had rather share it with",
+      "id": "Novel-58553_c_99"
+    },
+    {
+      "text": "that a young man of twenty-five should have spent nine years in primary and grammar schools, four years more in a high school, four years more at college, and three years more in some professional school. Supposing the victim to have begun his career in a kindergarten at the age of three, and to have pursued a two-years’ course there, at twenty-five his education would be completed. He would have finished his education, provided his education had not finished him. Now at the age of twenty-four or twenty-five Asaph Hall 3rd only began serious study. He brought to his tasks the vigor of an unspoiled youth, spent in the open air. He worked as only a man of mature strength can work, and he comprehended as only a man of keen, undulled intellect can comprehend. His ability as a scholar called forth the admiration of fellow-students and the encouragement of teachers. The astronomer Brünnow, buried in the wilds of Michigan, far from his beloved Germany, recognized in this American youth a worthy disciple, and Dr. Benjamin Apthorp Gould, father of American astronomy, promptly adopted Asaph Hall into his scientific family. If our young American’s experience puts conventional theories of education to the blush, much more does his manhood reflect upon the theory that unites intellectuality with personal impurity. The historian Lecky throws a glamor over the loathesomeness of what is politely known as the social evil, and calls",
+      "id": "Novel-58553_c_63"
+    },
+    {
+      "text": "returning home one night, found his wife by the doorstep watching a blazing lamp, on the point of explosion. He stepped up and dropped his observing cap over the lamp. Whereupon she said, “You _are_ brave!” Strange she had not noticed it before! Asaph Hall used to aver that a family quarrel is not always a bad thing. It may serve to clear the atmosphere. Could he have been thinking of his own experience? It is possible that the little quarrels indicated above led to a clearer understanding of the separate duties of husband and wife, and thence to a division of labor in the household. The secret of social progress lies in the division of labor. And the secret of success and great achievement in the Hall household lay in the division of labor. At an early date Mr. Hall confined his attention to astronomy, and Mrs. Hall confined hers to domestic cares. The world gained a worthy astronomer. Did it lose a reformer-poetess? Possibly. But it was richer by one more devoted wife and mother. From the spring of 1859 to the end of their stay in Cambridge, that is, for three years, the Halls occupied the cozy little Bond cottage, at the top of Observatory Hill. Back of the cottage they had a vegetable garden, which helped out a small salary considerably. There in its season they raised most delicious sweet corn. In the dooryard, turning an old crank, was a rosy-cheeked little",
+      "id": "Novel-58553_c_94"
+    },
+    {
+      "text": "farm was a barren waste now, hardly noticeable from the mountain-top. Lois and Charlotte had died in the fall of 1869, within a few days of each other. House and barn had disappeared, and the site was marked by raspberry bushes. We drew water from the old well; and gathered the dead brush of the apple orchard, where our tent was pitched, to cook our victuals. ------------------------------------------------------------------------ CHAPTER XIII. –––––– WASHINGTON AND THE CIVIL WAR. Many an obscure man of ability was raised to prominence by the Civil War. So it was with the astronomer, Asaph Hall. A year after the war broke out, the staff of workers at the U.S. Naval Observatory was much depleted. Some resigned to go South; others were ordered elsewhere by the Federal Government. In the summer of 1862, while his wife was visiting her people in Rodman, Mr. Hall went to Washington, passed an examination, and was appointed an “Aid” in the Naval Observatory. The city was in a turmoil. On August 27, three weeks after he entered the observatory, Mr. Hall wrote to his wife: When I see the slack, shilly-shally, expensive way the Government has of doing everything, it appears impossible that it should ever succeed in beating the Rebels. He soon became disgusted at the wire-pulling in Washington, and wrote contemptuously of the “_American_ astronomy” then cultivated at the Naval",
+      "id": "Novel-58553_c_98"
+    }
+  ],
+  "cot_scratchpad": "- Asaph Hall arrived in Cambridge Aug 1857 with $50 (Novel-58553_c_83).\n- Harvard Observatory paid him $3/week, then $4, salary $600/yr (Novel-58553_c_83, Novel-58553_c_99).\n- Lived in Bond cottage on Observatory Hill 1859-62 (Novel-58553_c_94).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "At which observatory did Asaph Hall work after relocating to Cambridge, marking the beginning of his professional career in astronomy?",
+      "doc_ids": [
+        "Novel-58553_c_83",
+        "Novel-58553_c_99",
+        "Novel-58553_c_63",
+        "Novel-58553_c_94",
+        "Novel-58553_c_98"
+      ]
+    }
+  ]
+}

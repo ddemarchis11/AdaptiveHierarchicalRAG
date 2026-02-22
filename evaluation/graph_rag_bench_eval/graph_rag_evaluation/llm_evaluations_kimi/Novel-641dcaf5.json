@@ -1,0 +1,12 @@
+{
+  "id": "Novel-641dcaf5",
+  "question": "What is the relationship between Theophilus Stickney and Electa?",
+  "gold_answer": "Theophilus Stickney was married to Electa.",
+  "llm_answer": "The context does not specify the relationship between Theophilus Stickney and Electa.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not specify the relationship between Theophilus Stickney and Electa, which is faithful to the context provided. However, the Gold Answer explicitly states that Theophilus Stickney was married to Electa, and the Model Answer fails to address this fact, resulting in a score of 0.0 for correctness and evidence coverage."
+  }
+}

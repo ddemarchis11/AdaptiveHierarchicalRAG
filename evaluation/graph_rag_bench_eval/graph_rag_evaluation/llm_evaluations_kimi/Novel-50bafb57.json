@@ -1,0 +1,12 @@
+{
+  "id": "Novel-50bafb57",
+  "question": "How does the East River play a significant role in Rags Raegen's actions and reputation, particularly in instances where he interacts with the river during police chases?",
+  "gold_answer": "Rags Raegen had plunged in to rescue the supposedly drowned man in the East River and preferred the East River.",
+  "llm_answer": "The context does not mention anyone named Rags Raegen, so it cannot support any claim about his actions or reputation in relation to the East River or police chases.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about Rags Raegen's actions and reputation in relation to the East River, as it incorrectly claims the context does not mention him. The Gold Answer provides specific information about Rags Raegen's rescue actions in the East River, which the Model Answer does not acknowledge or include. Additionally, the Model Answer does not utilize or interpret the retrieved context effectively."
+  }
+}

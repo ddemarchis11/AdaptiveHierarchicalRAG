@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000337",
+  "question": "Did the singer behind 'Can't Take My Eyes Off You' perform alongside the pop-punk band known for 'Here in Your Arms' or with the group he co-founded in New Jersey in the early 1960s?",
+  "gold_answer": "The Four Seasons",
+  "llm_answer": "I'm unable to determine the answer from the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct response to the question, which is 'The Four Seasons,' as stated in the Gold Answer. Additionally, the retrieved context clearly supports this answer, but the model does not utilize the context effectively or provide any relevant information."
+  }
+}

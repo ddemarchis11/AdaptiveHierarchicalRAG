@@ -1,0 +1,12 @@
+{
+  "id": "Novel-100048f7",
+  "question": "How is the character of Augustin involved in the sequence between Sir Tristram and The Dean’s family?",
+  "gold_answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean, The Dean is father of Sheba.",
+  "llm_answer": "The character of Augustin is involved in the sequence between Sir Tristram and The Dean's family as follows:\n\n- Augustin is the Dean of St. Marvells, and his family is being influenced by his love of horse racing and betting. \n\n- Georgiana, Sir Tristram's sister, is secretly the owner of half of Dandy Dick, a horse that is racing in the Durnstone Handicap. She had promised Augustin that she wouldn't own anything on four legs, so she sold half of the horse to John Fielder, but then bought it back.\n\n- Augustin is unaware of Georgiana's involvement with the horse and is shocked when he finds out.\n\n- Augustin's family, including his daughters Sheba and Salome, are also involved in the horse racing and betting, and they are aware of Georgiana's secret.\n\n- Augustin's love of horse racing and betting ultimately leads to his downfall, as his family's involvement in the scandal is exposed.\n\n- Augustin's relationship with Sir Tristram is also significant, as Sir Tristram is a friend of Augustin's and is also involved in the horse racing and betting.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides some relevant details about Augustin's involvement with horse racing and betting, but it introduces unsupported claims about his downfall and family scandal, which are not grounded in the retrieved context. The Gold Answer specifies that Augustin is also known as The Dean, is the father of Sheba, and that Sir Tristram pulled the horse's nose-bag over The Dean, which the Model Answer does not address. While the Model Answer partially aligns with the Gold Answer, it misses key facts and includes hallucinated information."
+  }
+}

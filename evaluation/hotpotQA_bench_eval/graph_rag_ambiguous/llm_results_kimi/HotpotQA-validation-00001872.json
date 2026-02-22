@@ -1,0 +1,230 @@
+{
+  "id": "HotpotQA-validation-00001872",
+  "question": "What is the standard distance in kilometres of the race in which a German long-distance runner set her personal best time?",
+  "gold_answer": "42.195",
+  "llm_answer": "The context states that Sabrina Mockenhaupt’s marathon personal best is 2:26:21, set at the 2010 Berlin Marathon, and that the marathon distance is 42.195 km.",
+  "context": [
+    {
+      "text": "Sabrina Mockenhaupt of Germany at the 2012 World Half Marathon Championships in Kavarna, Bulgaria Sabrina Mockenhaupt (born 6 December 1980 in Siegen ) is a German long-distance runner who specialises in track events and the marathon . She is a two-time winner of the Cologne Marathon and has also won the Frankfurt Marathon and the Berlin Half Marathon . She represented Germany at the 2004 , 2008 and 2012 Summer Olympics and was the 3000 metres bronze medallist at the 2005 European Indoor Championships . She has a marathon best of 2:26:21, set at the 2010 Berlin Marathon . Career One of her first international medals was a bronze medal in the 10,000 metres at the 2001 European Athletics U23 Championships . In 2002, she finished eighth in 3000 metres at the 2002 European Indoor Championships , tenth in 10,000 metres at the 2002 European Championships and seventh in 5000 metres at the 2002 World Cup . In 2004, she finished seventh in 3000 m at the 2004 World Indoor Championships , and fifteenth in the 10,000 m at the 2004 Olympics . In 2005, she won the bronze medal in 3000 metres at the 2005 European Indoor Championships , finished seventeenth in 10,000 metres at the 2005 World Championships and sixth in 5000 metres at the 2005 World Athletics Final . At the 2006 European Championships she finished sixth in the 5000 m and eighth in the 10,000 m. Toward the end of the season she competed at the 2006 World Cup , finishing sixth in 5000 metres. She finished fourth in 3000 metres at the 2007 European Indoor Championships . In October 2007 she made her marathon debut at the Cologne Marathon and won the race with a time of 2:29:33. Mockenhaupt won and qualified for the 2008 Summer Olympics in Beijing . At the Olympic Games she finished thirteenth in the 10,000 metres , in a new personal best time of 31:14.21 minutes. She won the Frankfurt Marathon in October 2008 with a personal best run of 2:26:22. A return to the Cologne event in 2009 brought her a second victory at the competition. She won the 2009 Berlin Half Marathon by timing 1:08:45, a new personal best. She followed this up with a victory in the national championships in the 10000 metres, recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time of 1:09:57. Mockenhaupt said that her winter military training with the Bundeswehr had left her tired and unable to",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_0",
+      "doc_id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html",
+      "community_id": 1,
+      "score": 32.04349
+    },
+    {
+      "text": "Weight for Age ( WFA ) is a term in thoroughbred horse racing which is one of the conditions for a race. History The principle of WFA was developed by Admiral Rous , a handicapper with the English Jockey Club . Rous experimented with weights until he arrived at a relationship between age and maturity, expressed in terms of weight. His original scale has undergone only minor alterations since his work in the 1860s. Description Weight for age means that a horse will carry a set weight in accordance with the Weight for Age Scale. This weight varies depending on the horse's age, its sex, the race distance and the month of the racing season. Weight for age races are usually Group 1 races, races of the highest quality. It is a form of handicapping for horse racing , but within the horse racing industry is not referred to as handicap, which is reserved for more general handicapping. WFA is a method of trying to equal out the physical progress which the average thoroughbred racehorse makes as it matures. By the age of two the thoroughbred horse has achieved 95% of its mature height and weight, and by the end of its third year it will be fully mature. To allow for this variation in maturity in the context of racing, it is necessary to express it as a function of the weight a horse will carry in a race. It is also necessary to take into account the race distance because stamina comes with maturity, and younger horses are at a greater disadvantage the farther they have to run. If no allowance was made, a mature older horse would always beat a younger one. Top WFA races Australia Australian Cup The BMW Stakes Cox Plate The Everest Queen Elizabeth Stakes (ATC) Queen's Cup in its early days (later changed to Group 3 ) France Prix de l'Arc de Triomphe Ireland Irish Champion Stakes Irish St. Leger Japan Japan Cup New Zealand New Zealand International Stakes Spring Classic (formerly the Kelt Capital Stakes) South Africa King's Plate Horse Chestnut Stakes Metropolitan Stakes Premier's Champion Challenge Paddock Stakes Majorca Stakes Champions Cup Gold Challenge United Kingdom Diamond Jubilee Stakes Eclipse Stakes July Cup Sussex Stakes King George VI and Queen Elizabeth Stakes International Stakes Nunthorpe Stakes Sprint Cup Queen Elizabeth II Stakes Champion Stakes United States Breeders' Cup Classic Breeders' Cup Turf Breeders' Cup Mile Breeders' Cup Sprint Jockey Club Gold Cup Joe Hirsch Turf Classic Stakes Uruguay Gran Premio José Pedro Ramírez Gran Premio Pedro Piñeyrúa Gran Premio Ciudad de Montevideo References Sources Australian Rules of Racing . Weight for Age Advice U.S. Scale of Weights Archived 20 October 2007 at the Wayback Machine from About.com",
+      "id": "HotpotQA-validation-00006778/02_Weight-for-Age.html_c_0",
+      "doc_id": "HotpotQA-validation-00006778/02_Weight-for-Age.html",
+      "community_id": 0,
+      "score": 24.379822
+    },
+    {
+      "text": "(PDF) , Proceedings of the Royal Irish Academy , vol. 103C, No. 3, Dublin : Royal Irish Academy , archived from the original (PDF) on 17 February 2012 , retrieved 15 May 2015 . Prendergast, John P. (1868). The Cromwellian settlement of Ireland . New York: P.M. Haverty . Retrieved 6 March 2018 . Rowlett, Russ (2005), How Many? A Dictionary of Units of Measurement , Chapel Hill: University of North Carolina , archived from the original on 6 October 2018 , retrieved 10 November 2007 Weights And Measures Commissioners (18 September 1820), \"Appendix A: An Index of Terms Relating to Weights and Measures, Both in their legal and in their provincial acceptations\" , Second Report , Parliamentary papers, vol. HC 1820 VII (314) 473, pp. 5– 37 External links Ordnance Survey Ireland FAQ about old units of measurement",
+      "id": "HotpotQA-validation-00006114/03_Irish-measure.html_c_5",
+      "doc_id": "HotpotQA-validation-00006114/03_Irish-measure.html",
+      "community_id": 5,
+      "score": 20.605333
+    },
+    {
+      "text": "Military Attack (Chinese: 軍事出擊, originally named Rave ) (foaled 4 March 2008) is an Irish-bred, Hong Kong trained Thoroughbred racehorse . Unraced as a two-year-old, he showed promising form in Britain in 2011 before being sold to race in Hong Kong. He continued to show useful but unexceptional form before emerging as a dominant middle-distance performer in the early part of 2013, winning the January Cup , Hong Kong Gold Cup , Premier Plate , Queen Elizabeth II Cup and Singapore Airlines International Cup . In July 2013 at the Hong Kong Jockey Club Champion Awards , he won three awards including the title of Hong Kong Horse of the Year . Background Military Attack is a bay gelding with a white coronet on his left hind foot, bred in Ireland by P E Banahan at the Moortown Stud in County Meath . He was from the second crop of foals sired by Oratorio , an Irish racehorse best known for his wins in the Eclipse Stakes and the Irish Champion Stakes in 2005. His dam Almaaseh was a daughter of the Irish 1000 Guineas winner Al Bahathri , making her a half-sister of the 2000 Guineas winner Haafhd . As a yearling the colt was consigned by the Moortown Stud to the Goff's sale where he was bought for €40,000 by a partnership involving the trainer John Hills. The colt was named Rave and was trained by Hills at Lambourn in Berkshire . Racing career 2011: three-year-old season Rave was beaten in his first two races in the spring of 2011 before recording his first success in a one-mile maiden race at Newmarket Racecourse on 28 May. After finishing second at Ayr Racecourse, Rave won two one mile handicap races at Ascot Racecourse in July. After his final British race Rave was sold privately and was exported to race in Hong Kong where he was trained by John Moore . He was gelded and renamed Military Attack. Military Attack usually races in a red hood and a black shadow roll . 2011/2102: four-year-old season Military Track did not run until February 2012 when he won his Hong Kong debut. He then finished sixth, beaten less than two lengths, behind Fay Fay in the Hong Kong Derby at Sha Tin Racecourse . Three month later he started favourite for a handicap at Happy Valley Racecourse but was beaten in a three-way photo finish by Happy Guys and Pure Champion. 2012/2013: five-year-old season In the early part of the 2012/2013 season, Military Attack showed promise when finishing fourth to Ambitious Dragon over one mile and fifth to California Memory in the Hong Kong Cup . In early 2013 he recorded his first Group race win in the January",
+      "id": "HotpotQA-validation-00004790/03_Military-Attack.html_c_0",
+      "doc_id": "HotpotQA-validation-00004790/03_Military-Attack.html",
+      "community_id": 2,
+      "score": 18.799057
+    },
+    {
+      "text": "recording a time of 31:27.56 minutes. She returned to the Berlin Half Marathon the following year but finished in third place with a time of 1:09:57. Mockenhaupt said that her winter military training with the Bundeswehr had left her tired and unable to devote much time to training for the event. She came second behind Inês Monteiro at the European Cup 10000m in Marseille in June. Later that season she set a championship record to win the 10,000 m at the 2010 European Team Championships and took the national title over 5000 m at the 2010 German Athletics Championships the following month. She entered the 10,000 m at the 2010 European Athletics Championships and finished in sixth place. She turned her attentions to a debut at the Berlin Marathon in September, and even though she missed out on the podium with a fourth-place finish, she knocked a second off her best with a time of 2:26:21. She began her 2011 season on the roads, taking victories at the Rund um das Bayer-Kreuz 10K in Leverkusen and the Griesheim Half Marathon , although she dropped out mid-race at the higher profile Berlin Half Marathon . She reached the podium in Vienna in May at the Austrian Women's Run , taking third behind Ana Dulce Félix and Jéssica Augusto . That June she came third at the European Cup 10000m . She competed at the 2011 Frankfurt Marathon and her finishing time of 2:28:08 hours was enough to make the top ten. At the 2012 Summer Olympics , she finished 17th in the women's 10000 metres, in a time of 31:50:35. She won the 2013 European Cup 10000m with a time of 32:13.64, more than 30 seconds in front of the runner-up, Christelle Daunay from France. She has represented the club LG Sieg, except for 2006 through 2010 when she represented the Kölner Verein für Marathon. Personal bests 1500 metres - 4:13.38 min (2001) 3000 metres - 8:44.65 min (2003) 5000 metres - 14:59.88 min (2009) 10,000 metres - 31:14.21 min (2008) Half marathon - 1:08:45 hrs (2009) Marathon - 2:26:21 hrs (2010) References External links Sabrina Mockenhaupt at World Athletics",
+      "id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_c_1",
+      "doc_id": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html",
+      "community_id": 1,
+      "score": 18.452826
+    },
+    {
+      "text": "Milestone on Mountbellew Bridge, originally erected near by c.1760. Distances are given in Irish miles to: Dublin (79); Athlone (20) Ballyforan (9) Ballinasloe (2); Galway (23) Tuam (12) Dunmore (2) Detail of John Rocque 's 1794 map of Ireland showing scales of English and Irish miles Milestone on the N2 road reading: Slane 5, Carrickmacross 21 and Collon 9 (Irish) miles. In modern statute miles this would be 6 + 1 ⁄ 3 , 30 + 3 ⁄ 4 and 11 + 1 ⁄ 2 miles respectively. Milestone in Athlone , indicating a distance of 60 Irish miles to Dublin. This is equivalent to 76 statute miles or 122 kilometres. Milestone at Ballycarrane, stating that it is 8 Irish miles (16 km) to Rathkeale and 6 Irish miles (12 km) to Limerick . Irish measure or plantation measure was a system of units of land measurement used in Ireland from the 16th century plantations until the 19th century, with residual use into the 20th century. The units were based on \" English measure \" but used a linear perch measuring 7 yards (6.4 m) as opposed to the English rod of 5.5 yards (5.0 m). Thus, linear units such as the furlong and mile , which were defined in terms of perches, were longer by a factor of 14:11 (~27% more) in Irish measure, while units of area, such as the rood or acre , were larger by 196:121 (~62% more). The Weights and Measures Act 1824 ( 5 Geo. 4 . c. 74) mandated the use throughout the British Empire of \" Imperial measure \", also called \"statute measure\", based on English measure. Imperial measure soon replaced Irish measure in the use of the Dublin Castle administration , but Irish measure persisted in local government, and longer still in private use. History The size of the mile and acre are derived from the length of the surveyor's rod , a unit which in Ireland was called a perch (or linear perch to distinguish it from the square perch ). A mile is 320 linear perches and an acre is 160 square perches. The length of the perch was not standardised nationwide at the time of the Tudor conquest of Ireland ; the city walls of Cork used a 29-foot perch. The 21-foot perch which became standard in Ireland during the Plantations was found elsewhere; in 1820 it was reportedly used for linear measure in Guernsey , and for measuring fencing in Herefordshire and \"labourer's work\" in South Wales . English measure was sometimes",
+      "id": "HotpotQA-validation-00006114/03_Irish-measure.html_c_0",
+      "doc_id": "HotpotQA-validation-00006114/03_Irish-measure.html",
+      "community_id": 5,
+      "score": 17.421272
+    },
+    {
+      "text": "Hong Kong Cup on 8 December he started the 9/4 favourite, but despite finishing strongly he finished fourth of the twelve runners behind Akeed Mofeed, Tokei Halo and Cirrus des Aigles . In January, Military Attack finished fourth behind Blazing Speed, Dan Excel and Helene Spirit in the Hong Kong Stewards' Cup . On 23 February the gelding faced Akeed Mofeed, Blazing Speed and Dan Excel in the Hong Kong Gold Cup in which he was ridden for the first time by João Moreira . Starting second favourite behind Akeed Mofeed, he took the lead inside the final furlong and accelerated clear to win by three lengths from Dan Excel. Military Attack was then sent to the United Arab Emirates to represent Hong Kong in the 2014 Dubai World Cup . He was made the 3/1 favourite but was never in contention and finished tenth of the sixteen runners behind African Story . He returned to Hong Kong in April and attempted to repeat his 2013 success in the Queen Elizabeth II Cup. He took the lead inside the final furlong but was overtaken in the closing stages and beaten a neck by his four-year-old stable companion Designs On Rome . In the following month he started 4/5 favourite for the 2014 edition of the Singapore Airlines International Cup but finished third behind Dan Excel and the French-trained Smoking Sun. 2014/2015: seven-year-old season Before the start of the 2014/2015 Hong Kong season, Military Attack was transferred to the table of Caspar Fownes . On his first appearance for his new trainer, Military Attack contested the Oriental Watch Sha Tin Trophy over one mile on 26 October. Starting a 13.5/1 outsider he won by a short head from Gold-Fun with Ambitious Dragon three quarters of a length away in third. The unplaced horses included Blazing Speed, Designs On Rome and California Memory. Assessment and honours On 7 July 2013, Military Attack was named Hong Kong Horse of the Year and Hong Kong Champion Middle-distance Horse at the Hong Kong Jockey Club Champion Awards . He also won the title of Hong Kong Most Popular Horse of the Year , winning a public poll with 53,986 votes from California Memory (21,686) and Ambitious Dragon (20,865). On 14 July 2013, Military was rated the seventh-best racehorse in the world in the World Thoroughbred Rankings and the best in the world over ten furlongs on turf. Pedigree References",
+      "id": "HotpotQA-validation-00004790/03_Military-Attack.html_c_2",
+      "doc_id": "HotpotQA-validation-00004790/03_Military-Attack.html",
+      "community_id": 2,
+      "score": 14.682329
+    },
+    {
+      "text": "conflict and provide social stability. Leaders and sachems like Passaconaway played important roles in organizing long-distance kin and trade networks with allied neighbors (his own children were all married to the children of allied political leaders). Before the major epidemics of the 16th and 17th century would kill 90% of the Pennacook population, the Merrimack Valley and its tributaries like the Souhegan, Piscataquog, and Suncook, would have been densely populated, the environment carefully maintained. David Stewart-Smith (1998:19) estimated that the Merrimack Valley had 8,000–25,000 people before the epidemics, with a median of around 16,500 for the central area around Pennacook. The major and permanent Pennacook towns and villages were built along the major rivers, and many were on the east side of the Merrimack, ostensibly for protection from the west. Life revolved around the seasons, and spring would begin with women collecting maple sap to make maple sugar. Men would return to hunting grounds and burn their grounds to turn over nutrients in the soils for later cultivation. In late spring the rivers and creeks would swell as the great fish like salmon and shad made their way up the Merrimack. Many Pennacook villages were built just above natural waterfalls that trapped fish and made it easier to catch them in the late spring. Fiddlehead season would be followed by others still known today, like blueberry and raspberry seasons. During the summers, families would disperse to summer villages and hunting camps. Women did most of the work of building and maintaining homes as well as farming. Their main crops were varieties of maize/corn and squash, which they planted along rivers and in meadows. While they found it difficult to clear the massive old-growth trees, the Pennacook were experts at manipulating beavers to move their dams and ponds up and down creeks and brooks, thereby clearing and opening up land for farms that would be essential to the first Europeans who arrived and found cleared fields ready for cultivation. Many of these fields were scattered with the bones of the Pennacook who had recently died of smallpox or other diseases. The fall was an important hunting and nut harvesting season (butternuts, hickory nuts, black walnuts, and beech nuts were all tasty, and several southern, fire-resistant species were propagated farther north when possible). The presence of southern, fire-resistant species of nut trees like hickories and black walnuts in New Hampshire today is thanks to the Pennacook. The forests would generally be burned again in the late fall before families returned to the more permanent winter camps to wait out the long winter. In addition to being farmers, hunters, and foragers, it is important to remember that the Pennacook and the peoples of the Merrimack River Valley were also long-distance traders, and their major towns",
+      "id": "HotpotQA-validation-00000618/01_Pennacook.html_c_1",
+      "doc_id": "HotpotQA-validation-00000618/01_Pennacook.html",
+      "community_id": 1,
+      "score": 14.416903
+    },
+    {
+      "text": "The City of New Orleans is a long-distance passenger train operated by Amtrak in the Central United States between Chicago and New Orleans . The overnight train takes about 19 1 ⁄ 2 hours to complete its 934-mile (1,503 km) route, making major stops in Champaign–Urbana , Carbondale , Memphis , and Jackson as well as in other small towns. The City of New Orleans was first initiated by the Illinois Central Railroad in 1947 as the daytime complement to the Panama Limited , a night train dating back to 1911. In 1971 both routes were conveyed to Amtrak, which retained only the Panama Limited . In 1981 Amtrak revived the City of New Orleans name for the train, still on an overnight schedule, on the heels of the popular song of the same name by Steve Goodman . Additional corridor service on the northern segment of the route is provided by the Illini and Saluki between Chicago and Carbondale, Illinois. The City of New Orleans is the only Amtrak train to serve Tennessee . During fiscal year 2023, the train carried 233,876 passengers, an increase of 50.3% from FY2022. In FY2016, the last year that route-specific revenue data was given, the train had a total revenue of $ 18,706,915, a 3.7% decrease from FY2015. History Illinois Central IC #4017, an EMD E7 , leads the City of New Orleans at Kankakee, Illinois in August 1964. The Illinois Central Railroad introduced the original City of New Orleans on April 27, 1947. It was a daytime, all-coach companion to the overnight Panama Limited , which had been all- Pullman for most of its run. EMD E7 diesel locomotives pulled new lightweight Pullman Company coaches. The 921-mile (1,482 km) route, which the City of New Orleans covered in 15 hours 55 minutes, was the longest daytime schedule in the United States. The City of New Orleans exchanged St. Louis —New Orleans through cars at Carbondale, Illinois and Louisville —New Orleans cars at Fulton, Kentucky . The average speed of the new train was nearly 60 mph (97 km/h) with a maximum of 100 mph (160 km/h); a result of the largely flat route of the Illinois Central along the Mississippi River . By October 25, 1959, the timetable had lengthened to 16 hours 30 minutes. The train remained popular throughout the 1960s and gained ex- Missouri Pacific Railroad dome coaches in 1967. Amtrak City of New Orleans , October 2005 When Amtrak assumed operation of U.S. passenger train service on May 1, 1971, it dropped the Panama Limited in favor of retaining the City of New Orleans on the traditional daytime schedule. At that time",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_0",
+      "doc_id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html",
+      "community_id": 1,
+      "score": 14.2746725
+    },
+    {
+      "text": "Lake Michigan , now CN Illinois Central Railroad Chicago Branch and main line, Chicago to Cairo, Illinois , now CN Chicago, St. Louis and New Orleans Railroad (IC), Cairo to Fulton, Kentucky , now CN Chesapeake, Ohio and Southwestern Railroad (IC), Fulton to Memphis, Tennessee , now CN Yazoo and Mississippi Valley Railroad (IC), Memphis to Jackson, Mississippi , now CN Chicago, St. Louis and New Orleans Railroad (IC), Jackson to New Orleans, Louisiana , now CN As of 2023 [update] , the southbound City of New Orleans leaves Chicago at 8 p.m., traveling overnight through southern Illinois and Kentucky for arrival at breakfast time the following morning in Memphis, lunchtime in Jackson, and mid-afternoon in New Orleans. Northbound trains leave New Orleans in early afternoon, arriving in Jackson in early evening, then traveling through Tennessee and southern Illinois overnight before arriving in Champaign-Urbana at breakfast time the following morning and Chicago just after rush hour. The train is the sole Amtrak service in Tennessee , making stops at Memphis and Newbern . In 2023, the City of New Orleans on-time performance was 75%. Stations Equipment A typical City of New Orleans consist includes: GE Genesis / Siemens ALC-42 locomotive Viewliner Baggage car Superliner Transition-sleeper Superliner Sleeper Superliner Diner-Lounge Superliner Sightseer Lounge Superliner Coach Superliner Coach Superliner Coach-baggage Folk song \" City of New Orleans \" is a folk song written and first performed by Steve Goodman in 1970 and subsequently recorded by Arlo Guthrie in 1972. Many other artists, notably Willie Nelson , Johnny Cash , John Denver (with slightly different lyrics), Judy Collins , and Jerry Reed have also recorded it. The song lyrics trace the trail of the train route in mourning the \" ...disappearin' railroad blues... .\" Tom Rush performed and recorded a folk song (based on some Bukka White songs) about the Panama Limited , the overnight train along the same route as the City of New Orleans . See also Passenger train service on the Illinois Central Railroad References Downey, Clifford J. (2007). Chicago and the Illinois Central Railroad . Images of rail. Charleston, South Carolina: Arcadia Publishing . ISBN 978-0-7385-5074-9 . Johnston, Bob (January 1996). \"Exiled to the Delta\". Trains . Murray, Tom (2006). Illinois Central Railroad . Saint Paul, Minnesota: Voyageur Press . ISBN 978-0-7603-2254-3 . Sanders, Craig (2006). Amtrak in the Heartland . Bloomington, Indiana: Indiana University Press . ISBN 978-0-253-34705-3 . Schafer, Mike (June 1991). \"Amtrak's atlas\". Trains . Schafer, Mike ; Welsh, Joe (2002). Streamliners:",
+      "id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_c_3",
+      "doc_id": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html",
+      "community_id": 1,
+      "score": 13.946715
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "summary": "**Title**: Sabrina Mockenhaupt Career Highlights\n\n**Summary**:  \nGerman long-distance runner Sabrina Mockenhaupt has built a decorated career across track, road, and marathon events since the early 2000s. She earned multiple national and international medals, including bronze in the 3000 m at the 2005 European Indoor Championships and victories at the Cologne, Frankfurt, and Berlin Half Marathons. Representing Germany at three Olympic Games (2004, 2008, 2012), she set personal bests of 31:14.21 in the 10,000 m and 2:26:21 in the marathon. Her consistent podium finishes in European Cups, national championships, and major city marathons underscore her versatility and longevity in distance running.\n\n**Keywords**:  \nSabrina Mockenhaupt, German marathoner, long-distance running, European medals, Olympic athlete",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006778/02_Weight-for-Age.html_0",
+      "summary": "**Title**: Weight-for-Age in Horse Racing\n\n**Summary**: Weight-for-Age (WFA) is a thoroughbred racing condition devised in the 1860s by Admiral Rous to equalize competition by assigning set weights based on each horse’s age, sex, race distance, and time of season, compensating for the physical maturity gap between younger and older horses. Unlike open handicaps, WFA uses a fixed scale that accounts for the fact that two-year-olds have reached 95% of mature size while stamina continues developing through the third year. The world’s most prestigious Group 1 races—such as the Cox Plate, Prix de l’Arc de Triomphe, Breeders’ Cup Classic, and Japan Cup—are run under WFA conditions, underscoring its role in elite-level racing.\n\n**Keywords**: Weight-for-Age, thoroughbred handicapping, Admiral Rous, Group 1 races, maturity equalization",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006223/02_Kris-Kuehl.html_0",
+      "summary": "**Title**: Kris Kuehl Discus Career\n\n**Summary**: Kristin \"Kris\" Kuehl, born July 30, 1970, is a retired American discus thrower who competed at the highest national and international levels. While attending Division III Concordia College in Moorhead, Minnesota, she rose to prominence by winning the 2002 U.S. championship and earning a silver medal at the 1999 Pan American Games in Winnipeg, adding to the bronze she captured at the 1995 edition. Her personal-best throw of 65.34 m (214.37 ft), set in St. Paul in April 2000, places her among the top Americans of her era.\n\n**Keywords**: discus throw, Team USA, Pan American Games, 2002 national champion, personal record",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006223/00_Lee-Young-sun.html_0",
+      "summary": "**Title**: Lee Young-Sun Javelin Career\n\n**Summary**: Lee Young-Sun is a retired South Korean female javelin thrower born in 1974. She achieved her personal best of 58.87 m at the 2002 Asian Games in Busan. Her career is documented across several international sports databases including Olympics at Sports-Reference.com, World Athletics, Olympedia, and InterSportStats.\n\n**Keywords**: javelin thrower, South Korea, 2002 Asian Games, personal best, retired athlete",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006114/03_Irish-measure.html_5",
+      "summary": "**Title**: Irish Plantation Measure System  \n\n**Summary**:  \nFrom the 16th-century plantations until the 19th century, Ireland employed a distinct set of land and distance units—Irish or plantation measure—based on a 21-foot perch rather than the English 16½-foot rod, yielding linear units ~27% longer and area units ~62% larger. Although the 1824 Weights and Measures Act imposed imperial (statute) units, Irish measure persisted in local surveys, milestones, property deeds, and even some Acts of Parliament, producing legal and practical confusion well into the 20th century. Place-names like Sixmilebridge and Fivemiletown still record the old Irish-mile distances, while colloquial speech retains “an Irish mile” to mean a long way.\n\n**Keywords**: Irish acre, plantation perch, statute conversion, milestones, measurement history",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_2",
+      "summary": "**Title**: City of New Orleans Train\n\n**Summary**:  \nThe \"City of New Orleans\" is a long-distance Amtrak passenger train route connecting Chicago to New Orleans, renowned for its cultural and historical significance. The train's name and legacy have been celebrated in literature and music, including the famous folk song by Steve Goodman. References to the train appear in various publications, such as works by Mike Schafer, highlighting its iconic status in American rail history. The route is also notable for its scenic journey through the Mississippi Delta and its role in connecting diverse communities across the Midwest and South.\n\n**Keywords**:  \nAmtrak, City of New Orleans, passenger train, American rail history, Chicago-New Orleans route",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_1",
+      "summary": "**Title**: Amtrak City of New Orleans\n\n**Summary**:  \nThe Amtrak City of New Orleans is a long-distance overnight passenger train running 934 miles between Chicago and New Orleans in about 19½ hours, using the former Illinois Central Railroad route now owned by Canadian National. Launched by IC in 1947, Amtrak took over in 1971, briefly renamed it Panama Limited, then restored the original name in 1981 while keeping the overnight schedule. The train is notable for surviving route changes, a fatal 1999 grade-crossing collision, Hurricane Katrina-related truncations, and COVID-era service cuts, while maintaining the only Amtrak service in Tennessee and inspiring the folk song “City of New Orleans.”\n\n**Keywords**:  \nAmtrak, City of New Orleans, Illinois Central, overnight train, Chicago–New Orleans",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_1",
+      "summary": "**Title**: 2001 European Junior Championships  \n\n**Summary**:  \nHeld 19–22 July 2001 at Grosseto’s Stadio Olimpico Carlo Zecchini, the 2001 European Athletics Junior Championships featured 44 under-20 events, introducing the women’s 2000 m steeplechase and 10,000 m race walk. Russia led the medal table with eight golds, sharing the overall medal count (17) with Great Britain, while Poland placed third. Stand-out performances included British sprinters Vernicha James and Mark Lewis-Francis, Russian jumper Anastasiya Ilyina, Turkish distance double winner Elvan Abeylegesse, and future Olympic champions Yelena Isinbayeva, Carolina Klüft and Andreas Thorkildsen.  \n\n**Keywords**:  \nEuropean Junior Championships 2001, Grosseto athletics, under-20 records, Isinbayeva, Abeylegesse",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "summary": "**Title**: F. Keogh Gleason’s MGM Career  \n**Summary**: Francis Keogh Gleason spent over four decades as a resident set decorator at MGM, earning four Academy Awards between 1951 and 1958 for *An American in Paris*, *The Bad and the Beautiful*, *Somebody Up There Likes Me*, and *Gigi*, plus three additional nominations. A 1927 graduate of what is now the Minneapolis College of Art and Design, his long-standing studio tenure made him a key figure in classic Hollywood production design.  \n**Keywords**: MGM, Academy Awards, set decorator, classic Hollywood, production design",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004790/03_Military-Attack.html_2",
+      "summary": "**Title**: Military Attack Racehorse Career\n\n**Summary**: Military Attack, an Irish-bred, Hong Kong-trained thoroughbred, rose from modest British form to dominate middle-distance races in 2013, capturing the Hong Kong Gold Cup, Queen Elizabeth II Cup, and Singapore Airlines International Cup. After being sold and gelded, he earned Hong Kong Horse of the Year and peaked as the world’s top 10-furlong turf performer. Despite later defeats in Dubai and Singapore, he added a 2014 Sha Tin Trophy win under trainer Caspar Fownes, cementing his popularity with over 53,000 public votes.\n\n**Keywords**: Military Attack, Hong Kong racing, Horse of the Year, middle-distance champion, thoroughbred gelding",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004149/02_Set-Weights.html_0",
+      "summary": "**Title**: Set Weights Racing\n\n**Summary**: Set Weights (SW) is a race condition in Thoroughbred horse racing where each horse carries a predetermined weight determined by its age and sex. Fillies and mares typically receive a weight concession compared to colts, geldings, and horses in mixed-sex events. Additional penalties may be added under race conditions, and many prestigious age-restricted races adopt the Set Weights format to equalize competition.\n\n**Keywords**: Set Weights, Thoroughbred racing, weight assignments, age/sex allowances, handicap penalties",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004632/01_Chantal-Akerman.html_1",
+      "summary": "**Title**: Chantal Akerman’s Feminist Cinema\n\n**Summary**:  \nChantal Akerman, a pioneering Belgian filmmaker and professor, is celebrated for her groundbreaking contributions to feminist and experimental cinema. Her 1975 film *Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles*—a meticulous portrayal of a widow’s domestic and sexual routines—was named the greatest film of all time in Sight & Sound’s 2022 critics poll, making her the first woman to top the list. Akerman’s work, including *Je Tu Il Elle* and *News from Home*, explores themes of female identity, domesticity, and sexuality through long takes and structuralist techniques. Though often associated with feminist and queer cinema, Akerman resisted essentialist labels, advocating for a multiplicity of cinematic voices and emphasizing the personal as political.\n\n**Keywords**:  \nChantal Akerman, feminist cinema, Jeanne Dielman, experimental film, female sexuality",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000618/01_Pennacook.html_1",
+      "summary": "**Title**: Pennacook Confederacy History  \n\n**Summary**:  \nThe Pennacook were a loose, semi-sedentary confederacy of Algonquian-speaking villages centered on the upper Merrimack River, with major towns at Amoskeag Falls and Pennacook (modern Concord, NH). Seasonal rounds—spring maple sugaring, summer fishing at waterfalls, fall nut harvests, winter hunting camps—shaped their maize-squash horticulture and long-distance trade networks. Epidemics and warfare with Mohawk, Mi’kmaq, and English colonists decimated the population; survivors dispersed after King Philip’s War, many joining Wabanaki communities in Quebec. Contemporary heritage groups claiming Pennacook identity are rejected by the Odanak Abenaki as examples of settler self-indigenization.  \n\n**Keywords**: Pennacook, Merrimack Valley, Passaconaway, seasonal subsistence, Wabanaki",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002708/03_Extreme-mass-ratio-inspiral.html_1",
+      "summary": "**Title**: Extreme Mass Ratio Inspirals\n\n**Summary**: Extreme mass ratio inspirals (EMRIs) occur when a stellar-mass compact object spirals into a supermassive black hole, emitting gravitational waves that encode a detailed map of spacetime geometry. These slowly evolving systems complete ~10,000 cycles before plunge, making them ideal probes for testing general relativity in strong gravity and measuring the central black hole’s mass and spin to 1-in-10,000 precision. Detectable by space-based interferometers like LISA, EMRI signals also reveal the orbiting object’s mass, orbit orientation, and system distance without relying on cosmic distance ladders. Statistical studies of many EMRIs will clarify how supermassive black holes grow—via gas accretion, mergers, or minor infalls—and test the Kerr hypothesis that all astrophysical black holes are rotating Kerr types.\n\n**Keywords**: EMRI, gravitational waves, LISA, supermassive black holes, strong-field relativity",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006659/02_University-of-Santiago-de-Cuba.html_0",
+      "summary": "**Title**: University of Oriente Santiago\n\n**Summary**: The University of Oriente – Santiago de Cuba (UO), founded in 1947, is a major Cuban public university headquartered in Santiago de Cuba. It is structured into 12 academic faculties spanning social sciences, humanities, law, economics, natural sciences, mathematics & computer science, distance education, five engineering branches (chemical, mechanical, electrical, construction) and medicine. Notable graduate Asela de los Santos exemplifies its role in training influential Cuban professionals.\n\n**Keywords**: University of Oriente, Santiago de Cuba, Cuban higher education, engineering faculties, Asela de los Santos",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "summary": "**Title**: Lochmere Archaeological District Heritage  \n\n**Summary**:  \nThe Lochmere Archaeological District in Belknap County, New Hampshire, preserves a continuous record of human activity from Middle Archaic through Late Woodland periods, later serving as the historic homeland of the Winnipesaukee Pennacook. Its strategic Winnipesaukee River location fostered early Euro-American industry starting in the 1770s, but downstream mill owners gained water rights and shuttered local mills by 1882. Ninety acres encompassing 13 prehistoric and 18 historic sites were listed on the National Register in 1982, though modern development and river-channel work have partially impacted sensitive areas.  \n\n**Keywords**: Lochmere Archaeological District, Winnipesaukee River, Pennacook, prehistoric sites, industrial heritage",
+      "is_seed": false,
+      "expand_score": 0.7982500195503235
+    },
+    {
+      "community_key": "HotpotQA-validation-00006659/00_Universidad-de-Oriente.html_0",
+      "summary": "**Title**: Universidad de Oriente History & Crisis\n\n**Summary**: The Universidad de Oriente (UDO), established in 1958 in Cumaná, Venezuela, is a major public autonomous university serving Eastern Venezuela through teaching, research, and development. After its official opening by President Rómulo Betancourt in 1960, UDO grew from 113 students to become a key regional research hub, including the creation of the Oceanographic Institute of Venezuela. Since 2013, the university has faced severe challenges—budget shortfalls, infrastructure decay, faculty/student exodus, and shrinking research output—prompting proposals for alternative funding, international program expansion, and institutional partnerships to safeguard its future.\n\n**Keywords**: UDO, Venezuelan higher-ed crisis, university autonomy, Cumaná, research decline",
+      "is_seed": false,
+      "expand_score": 0.7822968363761902
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "HotpotQA-validation-00006778/02_Weight-for-Age.html_0",
+      "HotpotQA-validation-00006223/02_Kris-Kuehl.html_0",
+      "HotpotQA-validation-00006223/00_Lee-Young-sun.html_0",
+      "HotpotQA-validation-00006114/03_Irish-measure.html_5",
+      "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_2",
+      "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_1",
+      "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_1",
+      "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "HotpotQA-validation-00004790/03_Military-Attack.html_2",
+      "HotpotQA-validation-00004149/02_Set-Weights.html_0",
+      "HotpotQA-validation-00004632/01_Chantal-Akerman.html_1",
+      "HotpotQA-validation-00000618/01_Pennacook.html_1",
+      "HotpotQA-validation-00002708/03_Extreme-mass-ratio-inspiral.html_1",
+      "HotpotQA-validation-00006659/02_University-of-Santiago-de-Cuba.html_0"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "HotpotQA-validation-00006659/00_Universidad-de-Oriente.html_0"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00001872/00_Sabrina-Mockenhaupt.html_1",
+      "HotpotQA-validation-00006778/02_Weight-for-Age.html_0",
+      "HotpotQA-validation-00006223/02_Kris-Kuehl.html_0",
+      "HotpotQA-validation-00006223/00_Lee-Young-sun.html_0",
+      "HotpotQA-validation-00006114/03_Irish-measure.html_5",
+      "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_2",
+      "HotpotQA-validation-00002582/02_City-of-New-Orleans-train.html_1",
+      "HotpotQA-validation-00004847/02_2001-European-Athletics-Junior-Championships.html_1",
+      "HotpotQA-validation-00006549/00_F-Keogh-Gleason.html_0",
+      "HotpotQA-validation-00004790/03_Military-Attack.html_2",
+      "HotpotQA-validation-00004149/02_Set-Weights.html_0",
+      "HotpotQA-validation-00004632/01_Chantal-Akerman.html_1",
+      "HotpotQA-validation-00000618/01_Pennacook.html_1",
+      "HotpotQA-validation-00002708/03_Extreme-mass-ratio-inspiral.html_1",
+      "HotpotQA-validation-00006659/02_University-of-Santiago-de-Cuba.html_0",
+      "HotpotQA-validation-00000618/00_Lochmere-Archeological-District.html_0",
+      "HotpotQA-validation-00006659/00_Universidad-de-Oriente.html_0"
+    ],
+    "allowed_chunk_pool_size": 34,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

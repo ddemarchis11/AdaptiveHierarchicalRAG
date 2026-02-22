@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002562",
+  "question": "Wincenty Gostkowski was a lawyer for the watch manufacturer Patek Philippe & Co. in which city in Switzerland?",
+  "gold_answer": "Geneva, Switzerland",
+  "llm_answer": "The city in Switzerland where Wincenty Gostkowski was a lawyer for the watch manufacturer Patek Philippe & Co. is Geneva.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Geneva as the city in Switzerland where Wincenty Gostkowski was a lawyer for Patek Philippe & Co. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which explicitly mentions Geneva as the location of Patek Philippe & Co. and Gostkowski's association with the company."
+  }
+}

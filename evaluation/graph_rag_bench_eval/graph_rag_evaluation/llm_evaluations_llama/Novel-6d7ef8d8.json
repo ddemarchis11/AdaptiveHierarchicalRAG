@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The events involving the Sioux led to the mobilization of the military in Minnesota, as evidenced by the formation of the First Minnesota regiment, the organization of a company by Capt. Acker, and the subsequent battles, including the first battle of Bull Run and the events at Birch Coulie. The Sioux massacre also led to the organization of home guards in St. Paul and the nightly patrol of the bluffs commanding a view of the city by citizen volunteers.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by discussing military mobilization in Minnesota and referencing events involving the Sioux, such as the massacre and the organization of home guards. However, it does not explicitly mention the rebellious nature of the Sioux against Gen. Sibley or the furnishing of the Sixth regiment, which are key points in the Gold Answer. Additionally, while some details are grounded in the context, others, like the mention of the First Minnesota regiment and Capt. Acker, are not directly supported by the retrieved context."
+  }
+}

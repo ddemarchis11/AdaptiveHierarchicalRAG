@@ -1,0 +1,12 @@
+{
+  "id": "Novel-7a915f7f",
+  "question": "In Edinburgh, Dr. Elsie Inglis played a pivotal role in advancing both medical education and women's rights by co-founding the Medical College for Women and actively participating as a member of the Women's Liberal League. What were Dr. Inglis's notable contributions in these areas within Edinburgh?",
+  "gold_answer": "Dr. Elsie Inglis made notable contributions by co-founding the Medical College for Women in Edinburgh and being a member of the Women’s Liberal League, thus advancing both medical education and women's rights.",
+  "llm_answer": "I cannot answer that question as it is not supported by the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states it cannot answer the question due to lack of support in the context. However, the Gold Answer provides clear information about Dr. Elsie Inglis's contributions, which the model fails to address. The retrieved context does not directly discuss her founding of the Medical College for Women or her involvement in the Women's Liberal League, but the model should have used internal knowledge to provide a correct answer."
+  }
+}

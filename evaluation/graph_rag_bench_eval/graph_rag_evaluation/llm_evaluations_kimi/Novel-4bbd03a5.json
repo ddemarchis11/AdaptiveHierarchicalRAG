@@ -1,0 +1,12 @@
+{
+  "id": "Novel-4bbd03a5",
+  "question": "What specific steps did Elsie Inglis take to ensure the operational effectiveness and safety of medical aid provided by the Scottish Women's Hospitals in Serbia, as demonstrated by her stipulations with the Foreign Office, the Foreign Office's assurances of her safety, and the role of American support?",
+  "gold_answer": "Elsie Inglis secured safety guarantees from the Foreign Office, assembled support teams, and coordinated international aid to facilitate the Scottish Women's Hospitals' work in Serbia.",
+  "llm_answer": "Dr. Inglis secured Foreign Office approval by accepting its stringent safety stipulations for the all-female hospitals, and throughout the Serbian campaign the Foreign Office repeatedly assured the home committee that her unit’s safety was being watched and their return would be arranged at the safest moment.  \nAmerican support is explicitly noted when Dr. Ryan of the American hospital declared that Serbia “would have been wiped out but for the work of the Foreign Missions,” confirming that foreign, including American, assistance bolstered the effectiveness of Inglis’s Scottish Women’s Hospitals.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core elements of the Gold Answer, detailing Elsie Inglis's coordination with the Foreign Office for safety guarantees, her acceptance of stipulations, and the role of American support in bolstering the hospitals' effectiveness. All claims are grounded in the retrieved context, and the answer includes all key facts from the Gold Answer."
+  }
+}

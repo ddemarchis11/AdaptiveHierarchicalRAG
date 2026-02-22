@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter is the housekeeper of the Summit House. She resigns her post there, and as part of her departure she personally selects Frida Jansen to take over her own former duties.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Miss Trotter resigned from the Summit House and selected Frida Jansen for a position, which aligns with the Gold Answer. The details provided in the Model Answer are consistent with the retrieved context, which mentions Miss Trotter's resignation and her role in selecting Frida Jansen. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

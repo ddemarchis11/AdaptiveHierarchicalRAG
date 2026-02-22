@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Based on the provided evidence, the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position, is as follows:\n\n- Miss Trotter was the superior in charge of the Summit House, a hotel, due to Mr. Bilson's absence for a year.\n- Miss Trotter had selected Frida Jansen for a position at the Summit House, possibly due to her being a \"yellow-haired foreigner\" and her being recommended by Mr. Calton's doctor.\n- Miss Trotter was aware of Mr. Calton's admiration for Frida Jansen, but did not think it necessary to speak to the elder Mr. Calton about it.\n- Miss Trotter discovered that Frida Jansen was wearing a pearl ring and a locket, which suggested that she was receiving gifts from Mr. Calton.\n- Miss Trotter found Frida Jansen in a card-room reserved for gentlemen, which was an indiscretion that could be discovered by guests.\n- Miss Trotter was surprised to see Mr. Calton walking in the corridor, which suggested that he was not in the card-room with Frida Jansen.\n- Miss Trotter was informed by Chris's elder brother that Mr. Calton had gotten engaged to Frida Jansen, which Miss Trotter was not aware of.\n\nIt is not explicitly stated that Miss Trotter resigned from the Summit House, but it is implied that she may have been considering it due to the situation with Frida Jansen and Mr. Calton.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer provides a detailed account of events involving Miss Trotter, Frida Jansen, and the Summit House, but it does not clearly state that Miss Trotter resigned from the Summit House, which is a key fact in the Gold Answer. Additionally, the claim that Miss Trotter may have been considering resignation due to the situation with Frida Jansen and Mr. Calton is not supported by the retrieved context. While the Model Answer includes relevant details, it misses the core relationship described in the Gold Answer and introduces speculative elements not grounded in the context."
+  }
+}

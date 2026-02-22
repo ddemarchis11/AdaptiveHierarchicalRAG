@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006022",
+  "question": "Who won more Grand Slam doubles titles, Tony Roche or Jamie Murray?",
+  "gold_answer": "Anthony Dalton Roche",
+  "llm_answer": "Based on the provided evidence, Tony Roche won 15 Grand Slam doubles titles, and Jamie Murray won 7 Grand Slam doubles titles.",
+  "context": [
+    {
+      "text": "title, 5 runners-up) Doubles: 15 (13 titles, 2 runners-up) Mixed doubles: 5 (2 titles, 3 runners-up) Grand Slam Singles performance timeline (W) winner; (F) finalist; (SF) semifinalist; (QF) quarterfinalist; (#R) rounds 4, 3, 2, 1; (RR) round-robin stage; (Q#) qualification round; (DNQ) did not qualify; (A) absent; (NH) not held; (SR) strike rate (events won / competed); (W–L) win–loss record. Open-Era finals Singles: 41 (21 titles, 20 runners-up) Doubles References External links Wikimedia Commons has media related to Tony Roche . Tony Roche at the Association of Tennis Professionals Tony Roche at the International Tennis Federation Tony Roche at the Davis Cup (archived) Tony Roche at the International Tennis Hall of Fame Tony Roche at Tennis Australia",
+      "id": "HotpotQA-validation-00006022/00_Tony-Roche.html_c_6"
+    },
+    {
+      "text": "Cup Zonal Group (with number indication) or (PO) play-off; (G) gold, (S) silver or (B) bronze Olympic/Paralympic medal; (NMS) not a Masters tournament; (NTI) not a Tier I tournament; (P) postponed; (NH) not held; (SR) strike rate (events won / competed); (W–L) win–loss record. To avoid confusion and double counting, these charts are updated at the conclusion of a tournament or when the player's participation has ended. Doubles Current through the 2025 US Open . Mixed doubles Grand Slam tournament finals Doubles: 5 (2 titles, 3 runners-up) Mixed doubles: 8 (5 titles, 3 runners-up) References External links Wikimedia Commons has media related to Jamie Murray . Jamie Murray at the Association of Tennis Professionals Jamie Murray at the International Tennis Federation Jamie Murray at the Davis Cup (archived) Official Jamie Murray Website Guardian Blog",
+      "id": "HotpotQA-validation-00006022/01_Jamie-Murray.html_c_37"
+    },
+    {
+      "text": "because Roche had been a fine grass court player, he sought his tutelage. Roche also coached former world no. 1 Patrick Rafter from 1997 to the end of his career in 2002. Roche coached world no. 1 Roger Federer from 2005 to 12 May 2007. It is reputed this was on a \"handshake agreement\" with no contract; Roche was paid by the week. Federer hired Roche for the opposite reason that Lendl hired him: to work on his clay-court game (as Roche had won the 1966 French Championships). He also coached two-time Grand Slam singles titlist Lleyton Hewitt, who was aiming to get his career back on track after a number of unsuccessful years on the ATP Tour . Honours Roche was made a Member of the Order of the British Empire (MBE) in 1981 and an Officer of the Order of Australia (AO) in 2001. He entered the International Tennis Hall of Fame alongside doubles partner and close friend John Newcombe in 1986. In 1990 he was inducted into the Sport Australia Hall of Fame . He received an Australian Sports Medal in 2000 and a Centenary Medal in 2001. Grand Slam finals Singles: 6 (1 title, 5 runners-up) Doubles: 15 (13 titles, 2 runners-up) Mixed doubles: 5 (2 titles,",
+      "id": "HotpotQA-validation-00006022/00_Tony-Roche.html_c_5"
+    },
+    {
+      "text": "Anthony Dalton Roche AO MBE (born 17 May 1945) is an Australian former professional tennis player. A native of Tarcutta , Roche played junior tennis in the New South Wales regional city of Wagga Wagga . He won one Grand Slam singles title, the 1966 French Open at Roland Garros, and 15 Grand Slam doubles titles (12 of these with John Newcombe ). In 1968, Roche won the WCT/NTL combined professional championship in men's singles in the final event of the season at Madison Square Garden. He was ranked World No. 2 by Lance Tingay of The Daily Telegraph in 1969. He won the U.S. Pro Championships in 1970 at Longwood in Boston. Roche won the New South Wales Open twice, in 1969 and 1976. He won a key Davis Cup singles match in 1977. He also coached multi-Grand Slam winning world No. 1s Ivan Lendl , Patrick Rafter , Roger Federer and Lleyton Hewitt . Playing career Amateur Roche at the Amsterdam tournament in 1969 Roche started to play tennis at school when he was nine. His father, who worked as a butcher, and his mother were both recreational tennis players and encouraged his interest. Roche grew up playing in Australia under the tutelage of Harry Hopman , who also coached other Australian tennis players such as Rod Laver and Ken Rosewall",
+      "id": "HotpotQA-validation-00006022/00_Tony-Roche.html_c_0"
+    },
+    {
+      "text": "James Robert Murray OBE (born 13 February 1986) is a Scottish professional tennis player who specialises in doubles. He is a seven-time major doubles champion (five in mixed doubles and two in men's doubles), a Davis Cup winner, and a former doubles World No. 1 . He has won seven Grand Slam tournament titles: in mixed doubles at the 2007 Wimbledon Championships , with Jelena Janković , the 2017 Wimbledon Championships and 2017 US Open , with Martina Hingis , and the 2018 and 2019 US Open , with Bethanie Mattek-Sands , and in men's doubles at the Australian Open and US Open in 2016, with Bruno Soares . Murray had an early career partnership with Eric Butorac , winning three titles in 2007. His following seven ATP finals came with six different partners. In 2013, he began a new partnership with John Peers , winning six ATP tournaments, and reaching two Grand Slam finals. After this partnership ended, Murray played alongside Soares from 2016, with the new pair enjoying almost immediate success after winning only their second ATP tournament together. They went on to win the 2016 Australian Open and US Open , and Murray became world no. 1 in April that year, spending nine weeks at the top of the rankings. He and Soares split in 2019, with Murray competing alongside compatriot Neal",
+      "id": "HotpotQA-validation-00006022/01_Jamie-Murray.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Tony Roche won 15 Grand Slam doubles titles (12 with John Newcombe) (Novel-00006022_c_0).\n- Jamie Murray won 5 Grand Slam doubles titles (Current through the 2025 US Open) (Novel-00006022_c_37).\n- Tony Roche won 1 Grand Slam singles title (1966 French Open) (Novel-00006022_c_0).\n- Jamie Murray won 2 Grand Slam singles titles (not specified) (Novel-00006022_c_37).\n- Missing: Jamie Murray's Grand Slam singles titles count (Novel-00006022_c_37).\n- Missing: Tony Roche's Grand Slam singles titles count (Novel-00006022_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who won more Grand Slam doubles titles, Tony Roche or Jamie Murray?",
+      "doc_ids": [
+        "HotpotQA-validation-00006022/00_Tony-Roche.html_c_6",
+        "HotpotQA-validation-00006022/01_Jamie-Murray.html_c_37",
+        "HotpotQA-validation-00006022/00_Tony-Roche.html_c_5",
+        "HotpotQA-validation-00006022/00_Tony-Roche.html_c_0",
+        "HotpotQA-validation-00006022/01_Jamie-Murray.html_c_0"
+      ]
+    }
+  ]
+}

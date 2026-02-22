@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004891",
+  "question": "Which publisher produced the comic books featuring both Spider-Man and the Daredevils?",
+  "gold_answer": "Marvel",
+  "llm_answer": "There is insufficient evidence to determine which publisher produced the comic books featuring both Spider-Man and the Daredevils.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states 'Marvel' as the publisher, and the Retrieved Context supports this by mentioning Marvel UK and Marvel Comics in relation to Spider-Man and The Daredevils. The Model Answer incorrectly claims there is insufficient evidence, which contradicts the context and fails to provide the correct answer."
+  }
+}

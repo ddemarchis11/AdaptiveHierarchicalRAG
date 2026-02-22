@@ -1,0 +1,12 @@
+{
+  "id": "Novel-efc035f3",
+  "question": "To whom did Mrs. B. make her remarks about kindness and care, as referenced in the accounts of Dr. Inglis's work among her patients?",
+  "gold_answer": "Mrs. B. remarked to Miss Inglis.",
+  "llm_answer": "The evidence does not specify to whom Mrs. B. made her remarks about kindness and care.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer specifies that Mrs. B. made her remarks to Miss Inglis, but the Model Answer incorrectly states that the evidence does not specify to whom the remarks were made. While the Model Answer is faithful to the retrieved context, it fails to align with the Gold Answer and misses the key fact entirely."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-fcf87025",
+  "question": "Throughout the narrative of 'Pen Pictures,' what relationships does Roxie have with key political figures such as Governor Morock, as well as family or mentor figures like Ben Robertson and Aunt Patsy Perkins? Please detail Roxie's consultation with Gov. Morock regarding her legal and financial affairs, Gov. Morock's promise to 'pick up the crumbs' for her, how Roxie was taught penmanship by Ben Robertson during her schooling, and her interactions and thoughts involving Aunt Patsy Perkins.",
+  "gold_answer": "Roxie consulted Gov. Morock, Gov. Morock was to pick up the crumbs for Roxie, she was taught the art of penmanship by Ben Robertson, was visited by Aunt Patsy Perkins, and thought of Aunt Patsy.",
+  "llm_answer": "Roxie has a relationship with Governor Morock as a client, seeking his assistance with her legal and financial affairs. She consults with him regarding her inheritance from the Simon estate, and he promises to \"pick up the crumbs\" for her, implying that he can secure a significant amount of money for her. Roxie is also taught penmanship by Ben Robertson during her schooling, and she reflects on this fond memory. Additionally, Roxie interacts with Aunt Patsy Perkins, who visits her at home, and Roxie's thoughts are interrupted by the arrival of Aunt Patsy, suggesting a close relationship between the two.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the relationships Roxie has with Governor Morock, Ben Robertson, and Aunt Patsy Perkins, as described in the Gold Answer. It includes all key details, such as Roxie's consultation with Governor Morock about her legal and financial affairs, his promise to 'pick up the crumbs,' her learning penmanship from Ben Robertson, and her interactions with Aunt Patsy Perkins. The claims are well-supported by the retrieved context, and no critical facts are omitted."
+  }
+}

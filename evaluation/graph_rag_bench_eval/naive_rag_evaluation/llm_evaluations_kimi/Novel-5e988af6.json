@@ -1,0 +1,12 @@
+{
+  "id": "Novel-5e988af6",
+  "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+  "gold_answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+  "llm_answer": "Her persistent pleading—first begging him to intervene with her gambling husband, then physically pointing the man out—forces the Goodwood Plunger to stop trying to avoid the matter and actually go up to the Frenchman and speak to him.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly captures the essence of the Gold Answer, explaining how the woman's actions influence the Goodwood Plunger's behavior. It is faithful to the retrieved context, which describes her pleading and pointing out her husband, leading the Plunger to intervene. The Model Answer includes all key facts from the Gold Answer, such as the woman's pointing and the Plunger's subsequent action."
+  }
+}

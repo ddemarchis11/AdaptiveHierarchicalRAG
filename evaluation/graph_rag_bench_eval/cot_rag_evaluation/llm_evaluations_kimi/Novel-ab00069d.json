@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ab00069d",
+  "question": "What evidence is provided in the novel of diplomatic relations between the Empire of Morocco and Great Britain, such as treaties and their ratification by Sultan Muley Ahmed-elt-Thabceby?",
+  "gold_answer": "The Empire of Morocco has treaties with Great Britain, and Sultan Muley Ahmed-elt-Thabceby ratified a treaty with Great Britain.",
+  "llm_answer": "The evidence provided in the novel is:\n\n- A formal treaty of peace between Great Britain and the Empire of Morocco was concluded in the last year of the reign of George I.\n- This treaty was ratified in 1729 by George II and by the Sultan Muley Ahmed-elt-Thabceby “The golden.”",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the treaty between Great Britain and Morocco, its ratification by Sultan Muley Ahmed-elt-Thabceby, and provides additional context about the timeline and other ratifications. All claims are supported by the retrieved context, and the key facts from the Gold Answer are fully covered."
+  }
+}

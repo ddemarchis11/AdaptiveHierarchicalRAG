@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001238",
+  "question": "In what year was the co-experimenter born who collaborated with a prominent German rocket pioneer on a 1937 pre-war rocketry experiment conducted under a military codename?",
+  "gold_answer": "1895",
+  "llm_answer": "Walter Dornberger, who co-experimented with Wernher von Braun in the 1937 Operation Lighthouse, was born in 1895.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Walter Dornberger as the co-experimenter and provides his birth year as 1895, which matches the Gold Answer. The information is supported by the retrieved context, which explicitly states Dornberger's birth year and his involvement in rocketry experiments with von Braun."
+  }
+}

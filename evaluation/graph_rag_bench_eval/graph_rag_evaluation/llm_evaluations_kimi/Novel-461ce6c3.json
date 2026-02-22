@@ -1,0 +1,12 @@
+{
+  "id": "Novel-461ce6c3",
+  "question": "What is the connection between the movements of Captain Balfour and Mr. Reade?",
+  "gold_answer": "Captain Balfour travelled to Jereed, and Mr. Reade travelled with Captain Balfour.",
+  "llm_answer": "The provided context does not mention Captain Balfour or Mr. Reade, so no connection between their movements can be established from these passages.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies that the retrieved context does not provide information about Captain Balfour or Mr. Reade, but it fails to answer the question using internal knowledge or external grounding. The Gold Answer explicitly states the connection, which the Model Answer does not address. While the Model Answer is faithful to the context, it does not contain the necessary information or facts from the Gold Answer."
+  }
+}

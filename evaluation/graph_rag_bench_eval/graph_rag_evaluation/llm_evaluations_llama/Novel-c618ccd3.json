@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c618ccd3",
+  "question": "Write a diary entry from Eugenia’s perspective about the day she witnessed 'He' rolling on the ground beside her and what followed.",
+  "gold_answer": "Diary, Today was quite unexpected. As I stood by the roadside, 'He' suddenly rolled on the ground beside me. I was startled, unsure how to react. Bray soon arrived, and I held out my slim hand to him, hoping to steady myself. The air was tense; the lady nearby seemed sorry for 'He', who eventually caught hold of a woman's body—Sophy, I believe.",
+  "llm_answer": "I do not see any diary entry from Eugenia's perspective in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not attempt to create a diary entry from Eugenia's perspective. It incorrectly states that no relevant context is available, despite the question being creative and not strictly dependent on the retrieved context."
+  }
+}

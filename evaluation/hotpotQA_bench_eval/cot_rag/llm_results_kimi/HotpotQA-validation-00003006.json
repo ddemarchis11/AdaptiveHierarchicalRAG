@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00003006",
+  "question": "What is another name, in Swedish, for a seductive forest creature found in Scandinavian folklore?",
+  "gold_answer": "Rå",
+  "llm_answer": "Skogsrå",
+  "context": [
+    {
+      "text": "A hulder (or huldra ) is a seductive forest creature found in Scandinavian folklore . Her name derives from a root meaning \"covered\" or \"secret\". In Norwegian folklore , she is known as huldra (\"the [archetypal] hulder\", though folklore presupposes that there is an entire Hulder race and not just a single individual). She is known as the skogsrå \"forest spirit\" or Tallemaja \"pine tree Mary\" in Swedish folklore , and ulda in Sámi folklore. Her name suggests that she is originally the same being as the völva divine figure Huld and the German Holda . [ better source needed ] The word hulder is only used of a female; a \"male hulder\" is called a huldrekall and also appears in Norwegian folklore. This being is closely related to other underground dwellers, usually called tusser (sg., tusse ). Though described as beautiful, the huldra is noted for having a distinctive inhuman feature — an animal's hairy legs and tail, (usually a cow's or a fox's), and/or a back resembling a hollowed-out tree — carefully disguised under a long clothing. Folklore The hulder is one of several rå (keeper, warden), including the aquatic sjörå or havsfru , later identified with a mermaid , and the bergsrå in caves and mines who made",
+      "id": "HotpotQA-validation-00003006/01_Hulder.html_c_0"
+    },
+    {
+      "text": "folklore, it is said to be the spirit of a drowned person, which in turn drowns people. In Northern Sámi , this creature is sometimes called a \"water draugr\" ( čáhcerávga ). Elves Ängsälvor , \"meadow elves\", (1850), painting by Nils Blommér Elves (in Swedish, Älva if female and Alv if male, Alv in Norwegian, and Elver in Danish) are in some parts mostly described as female (in contrast to the light and dark elves in the Edda), otherworldly, beautiful and seductive residents of forests, meadows and mires. They are skilled in magic and illusions. Sometimes they are described as small fairies, sometimes as full-sized women and sometimes as half transparent spirits, or a mix thereof. They are closely linked to the mist and it is often said in Sweden that, \"the Elves are dancing in the mist\". The female form of Elves may have originated from the female deities called Dís (singular) and Díser (plural) found in pre-Christian Scandinavian religion. They were very powerful spirits closely linked to the seid magic. Even today the word \"dis\" is a synonym for mist or very light rain in Swedish, Norwegian and Danish. Particularly in Denmark, the female elves have merged with the dangerous and seductive huldra, skogsfrun or \"keeper of the forest\", often called",
+      "id": "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_7"
+    },
+    {
+      "text": "A Skogsrå meeting a man, as portrayed by artist Per Daniel Holm in the 1882 book Svenska folksägner The skogsrå ( Swedish definite form: skogsrået [ˈskʊ̂ksˌroːɛt] ⓘ ; lit. ' the forest rå ' ), skogsfru (definite: skogsfrun , 'the mistress of the forest'), skogsjungfru (definite: skogsjungfrun , 'the maiden of the forest'), skogssnua , skogssnuva , or skogsnymf (definite: skogssnuvan , skogsnymfen , 'the forest nymph'), is a mythical female creature (or rå ) of the forest in Swedish folklore . General description The skogsrå/skogssnua/skogssnuva appears in the form of a beautiful woman with a seemingly friendly temperament. She appears like a woman from the front but seen from behind she often has a tail and a hollow, rotten back, a human foot and a horse foot, and skin like tree bark. The men who are enticed into following her into the forest are led astray, and she laughs at the victim. A beguiled man thought he was led back home, when everything disappeared and he found himself in a swamp. The seduced man may become ruined, that",
+      "id": "HotpotQA-validation-00003006/00_Skogsr.html_c_0"
+    },
+    {
+      "text": "lurking nighttime in a calm body of water. Strömkarlen by Swede Ernst Josephson (1851–1906), featuring the Neck as a fair naked man. Näcken by Swede Johan Tirén (1853–1911), featuring a young boy learning violin from the Neck in the waterfall. Drawing of the Neck with aquatic plants for hair. The Neck is said to have green hair or foliage in the hair. Selkie The Selkie is a mythical creature that is part-human and part-seal. According to legend, Selkies can shed their seal skins and transform into humans. There are many stories in Faroese folklore about Selkies falling in love with humans and leaving their sea life behind to live on land. Selma Selma is a legendary sea serpent said to live in the 13-kilometre-long (8.1-mile) Lake Seljord ( Seljordsvatnet ) in Seljord , Vestfold og Telemark , Norway .  Storsjöodjuret Storsjöodjuret , often referred to as the \"Great Lake Monster,\" is steeped in the folklore of Sweden, specifically with Lake Storsjön . Notably the legendary creature was briefly granted a protected status by the Swedish Environmental Protection Agency , but this was later removed by the Swedish Parliament . Trolls Mother Troll and Her Sons by Swedish painter John Bauer , 1915 Troll (Norwegian and Swedish),",
+      "id": "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_13"
+    },
+    {
+      "text": "later removed by the Swedish Parliament . Trolls Mother Troll and Her Sons by Swedish painter John Bauer , 1915 Troll (Norwegian and Swedish), trolde (Danish) is a designation for several types of human-like supernatural beings in Scandinavian folklore. They are mentioned in the Edda (1220) as a monster with many heads. Later, trolls became characters in fairy tales, legends and ballads. They play a main part in many of the fairy tales from Asbjørnsen and Moes collections of Norwegian tales (1844). Trolls may be compared to many supernatural beings in other cultures, for instance the Cyclopes of Homer 's Odyssey .  In Swedish, such beings are often termed 'jätte' (giant), a word related to the Norse 'jotun'. The origins of the word troll is uncertain. Trolls are described in many ways in Scandinavian folk literature, but they are often portrayed as stupid, and slow to act. In fairy tales and legends about trolls, the plot is often that a human with courage and presence of mind can outwit a troll. Sometimes saints' legends involve a holy man tricking an enormous troll to build a church. Trolls come in many different shapes and forms, and are generally not fair to behold, as they can have as many as nine heads. Trolls live throughout the land. They dwell in mountains, under bridges, and at the bottom of lakes. Trolls who live in",
+      "id": "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_14"
+    }
+  ],
+  "cot_scratchpad": "- The hulder is a seductive forest creature in Scandinavian folklore (HotpotQA-validation-00003006/01_Hulder.html_c_0).\n- In Swedish folklore this entity is called skogsrå or Tallemaja (HotpotQA-validation-00003006/01_Hulder.html_c_0).\n- Skogsrå is also termed skogsfru, skogsjungfru or skogsnymf (HotpotQA-validation-00003006/00_Skogsr.html_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is another name, in Swedish, for a seductive forest creature found in Scandinavian folklore?",
+      "doc_ids": [
+        "HotpotQA-validation-00003006/01_Hulder.html_c_0",
+        "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_7",
+        "HotpotQA-validation-00003006/00_Skogsr.html_c_0",
+        "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_13",
+        "HotpotQA-validation-00003006/02_Scandinavian-folklore.html_c_14"
+      ]
+    }
+  ]
+}

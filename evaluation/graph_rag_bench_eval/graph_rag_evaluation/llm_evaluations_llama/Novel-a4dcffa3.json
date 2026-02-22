@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a4dcffa3",
+  "question": "According to the customs described in the narrative, what liquid did the Romans commonly mix with their wine during meals or celebrations?",
+  "gold_answer": "Water was commonly mixed with wine by the Romans.",
+  "llm_answer": "I cannot find any information about the Romans mixing a liquid with their wine in the provided context.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question about Roman customs of mixing water with wine, which is clearly stated in the Gold Answer. Additionally, the retrieved context does not provide relevant information about Roman wine practices, but the Model Answer does not use internal knowledge to provide the correct answer either. Therefore, it is incorrect, unfaithful to the context, and lacks evidence coverage."
+  }
+}

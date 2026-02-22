@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006754",
+  "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+  "gold_answer": "1927",
+  "llm_answer": "The evidence does not provide Patti Page’s birth year.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model correctly identifies that the retrieved context does not provide Patti Page's birth year, but it fails to answer the question using external knowledge or internal understanding, which is expected in this case. The Gold Answer (1927) is not addressed, and the model does not provide the correct birth year despite the context being irrelevant."
+  }
+}

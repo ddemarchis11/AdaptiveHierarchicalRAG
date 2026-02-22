@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00003201",
+  "question": "Where was the air-cooled version of a weapon system used on the HMAS \"Narani\" found?",
+  "gold_answer": "World War I fighter aircraft.",
+  "llm_answer": "The evidence states that air-cooled versions of the Vickers machine gun were used “on many Allied World War I fighter aircraft.”",
+  "context": [
+    {
+      "text": "HMAS Narani was an auxiliary minesweeper operated by the Royal Australian Navy (RAN) during World War II. Narani was requisitioned from the Illawarra & South Coast Steam Navigation Company as auxiliaries . The 381-ton vessel was armed with a 12-pounder 12cwt QF gun , a 20mm Oerlikon cannon, a .303-inch Vickers machine gun , and four Type D depth charges , and was commissioned into the RAN on 11 June 1941. During the war, Narani , Uki , and Bermagui made up Group 77 Minesweeper, based at HMAS Maitland , in Newcastle, New South Wales . Returned to her owners on 10 July 1946, she plied the coastal trade until 1951 when she was sold to New Guinea Borneo Mangrove Co., Port Moresby. She was broken up in 1954. Citation References HMAS Narani Auxiliary Minesweeper Royal Australian Navy v t e",
+      "id": "HotpotQA-validation-00003201/00_HMAS-Narani.html_c_0"
+    },
+    {
+      "text": "the early 1900s, the U.S. military had a mixed collection of automatic machine guns in use that included M1895 \"potato diggers\" , 287 M1904 Maxims , 670 M1909 Benét–Mercié guns, and 353 Lewis machine guns . In 1913, the U.S. began to search for a superior automatic weapon. One of the weapons considered was the British Vickers machine gun. A reference photo of a M1915 Vickers Field tests were conducted of the Vickers in 1914, and the gun was unanimously approved by the board for the army under the designation \"Vickers Machine Gun Model of 1915, Caliber .30, Water-Cooled\". One hundred twenty-five guns were ordered from Colt's Manufacturing Company in 1915, with an additional 4,000 ordered the next year, all chambered for .30-06. Design complexities, design modifications, and focus on producing previously ordered weapons meant that when the U.S. entered World War I in April 1917, Colt had not manufactured a single M1915. Production began in late 1917 with shipments to the Western Front in mid-1918. The first twelve divisions to reach France were given French Hotchkiss M1914 machine guns , and the next ten had M1915s. The next twelve divisions were to have Browning M1917 machine guns, but there was a shortage of parts.",
+      "id": "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_10"
+    },
+    {
+      "text": "1927 a muzzle flash suppressor was added on the Mk. II*. As the machine gun armament of US and UK fighter aircraft moved from the fuselage to the wings in the years before World War II , the Vickers was generally replaced by the faster-firing and more reliable Browning Model 1919 using metal-linked cartridges. The Gloster Gladiator was the last RAF fighter to be armed with the Vickers, later replaced by Brownings. The Fairey Swordfish was fitted with the weapon until production ended in August 1944. Several British bombers and attack aircraft of the Second World War mounted the Vickers K machine gun or VGO, a completely different design, more closely resembling the Lewis gun in external appearance. Vickers machine guns, designated as models E (pilot's) and F (observer's, fed from a pan magazine ) were also used among others in Poland, where 777 of them were converted to 7.92×57mm Mauser cartridge in 1933–1937. Use in armored vehicles The water-cooled Vickers Mark VI, Mark VI* and Mark VII were versions of the Mark I for use in tanks. They were introduced in 1936 and declared obsolete in 1944 (though they and the vehicles they were installed in were still in reserve use until the 1960s). They could be installed with either a left-hand or right-hand feed block. The Mark VI and VI* Tank Patterns were conversions",
+      "id": "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_5"
+    },
+    {
+      "text": "The Vickers machine gun or Vickers gun is a water-cooled .303 British (7.7 mm) machine gun produced by Vickers Limited , originally for the British Army . The gun was operated by a three-man crew, but typically required more men to move and operate it: one fired, one fed the ammunition, the others helped to carry the weapon, its ammunition, and spare parts. It was in service from before the First World War until the 1960s, with air-cooled versions of it on many Allied World War I fighter aircraft . The weapon had a reputation for great solidity and reliability. Ian V. Hogg , in Weapons & War Machines , describes an action that took place in August 1916, during which the British 100th Company of the Machine Gun Corps fired their ten Vickers guns to deliver sustained fire for twelve hours. Using 100 barrels, they fired a million rounds without breakdowns. \"It was this absolute foolproof reliability which endeared the Vickers to every British soldier who ever fired one. It never broke down; it just kept on firing and came back for more.\" History A Vickers machine gun crew in action at the Battle of the Menin Road Ridge , September 1917 The Vickers machine gun was based on the successful Maxim gun of the late 19th century. After purchasing the Maxim company outright in 1896, Vickers took the design of the Maxim gun and improved it, inverting the mechanism",
+      "id": "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0"
+    },
+    {
+      "text": "References Citations Main sources Goldsmith, Dolf L. (1994). Stevens, R. Blake (ed.). The Grand Old Lady of No Man's Land: The Vickers Machinegun . Cobourg, Ontario: Collector Grade Publications. ISBN 978-0889351479 . Pegler, Martin (20 May 2013). The Vickers-Maxim Machine Gun . Weapon 25. Osprey Publishing . ISBN 9781780963822 . Smith, Joseph E. (1969). Small Arms of the World (11th ed.). Harrisburg, Pennsylvania: The Stackpole Company. ISBN 9780811715669 . Bishop, Chris (2002). \"Vickers machine-guns\" . The Encyclopedia of Weapons of World War II . Sterling Publishing Company. pp. 244 , 403 . ISBN 978-1-58663-762-0 . Secondary sources McCollum, Ian (12 April 2021). \"Colt's Model 1915 Vickers Gun in .30-06\" . forgottenweapons.com . Forgotten Weapons . Retrieved 5 May 2025 . jwh1975 (9 September 2018). \"WWII weapons in Yemen's civil war\" . WWIIAfterWWII. Archived from the original on 18 April 2023. The Vickers machine gun also served the UK during both world wars. Water-cooled, it fired the .303 British cartridge from 250 round fabric belts at",
+      "id": "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_25"
+    },
+    {
+      "text": "machine gun also served the UK during both world wars. Water-cooled, it fired the .303 British cartridge from 250 round fabric belts at 450rpm. This weapon weighed 51 lbs and as designed, had a 3-man team assigned to it. During the Federation of South Arabia's [the predecessor to South Yemen's] short life, it had its own military, called the Federal Army. Its main medium machine gun was the Vickers. {{ cite web }} : CS1 maint: numeric names: authors list ( link ) \"7,62 mm and 7,70 mm Vickers Machineguns | FINNISH ARMY 1918 - 1945: MACHINEGUNS PART 2\" . www.jaegerplatoon.net . Finland . Retrieved 6 June 2024 . \"Gun, Machine, .303 inch, Mk 1 & Vickers Machine-Gun\" . iwm.org.uk . Imperial War Museum . Retrieved 6 June 2024 . \"CHIPYONG-NI, KOREA. 1951-02. VICKERS .303 MACHINE GUN ENGAGED IN COMBAT WITH THE CHINESE ON ONE ...\" www.awm.gov.au . Australian War Memorial . Retrieved 9 October 2019 . Further reading Richardson, A. (1902). \"Vickers, Sons and Maxim Limited: Their Works and Manufactures\". Engineering . OCLC 457878220 . (Plates showing the mechanism of the",
+      "id": "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_26"
+    }
+  ],
+  "cot_scratchpad": "- HMAS Narani mounted a .303-inch Vickers machine gun (HotpotQA-validation-00003201/00_HMAS-Narani.html_c_0)\n- Vickers gun exists as both water-cooled and air-cooled variants\n- Air-cooled versions were used in WWI aircraft (HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0/4)\n- Need location where the air-cooled version was discovered/found/existing\n- HMAS Narani carried a .303 Vickers (HotpotQA-validation-00003201/00_HMAS-Narani.html_c_0)\n- Air-cooled Vickers fitted to WWI Allied aircraft (HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0)\n- No source yet states where any air-cooled example was physically found\n- Evidence shows Vickers had an air-cooled variant used on WWI Allied aircraft but never states a find-spot for it (HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0).\n- No document in current set mentions discovering, recovering or locating any air-cooled Vickers gun.\n- Need a source that explicitly gives a place of discovery.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where was the air-cooled version of a weapon system used on the HMAS \"Narani\" found?",
+      "doc_ids": [
+        "HotpotQA-validation-00003201/00_HMAS-Narani.html_c_0",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_4",
+        "HotpotQA-validation-00006772/03_Derek-Percy.html_c_1",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_14"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Vickers air-cooled where found",
+      "doc_ids": [
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_5",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_25",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_26",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_14"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "air-cooled Vickers gun found site",
+      "doc_ids": [
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_0",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_26",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_25",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_10",
+        "HotpotQA-validation-00003201/01_Vickers-machine-gun.html_c_14"
+      ]
+    }
+  ]
+}

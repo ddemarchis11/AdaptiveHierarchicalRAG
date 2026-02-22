@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e1fdc6a9",
+  "question": "What is the status of Dimenet as described in the narrative's listing of towns within Morocco?",
+  "gold_answer": "Dimenet is a town in Morocco.",
+  "llm_answer": "The evidence does not provide any description of Dimenet’s status; it is only listed among the towns of the interior without further comment.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide any specific description of Dimenet's status, only listing it among the towns of the interior. This aligns with the Gold Answer, which simply states that Dimenet is a town in Morocco. The Model Answer is faithful to the context and covers the necessary evidence."
+  }
+}

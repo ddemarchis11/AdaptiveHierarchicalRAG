@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77067dcd",
+  "question": "Which evidence establishes the connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians?",
+  "gold_answer": "The harp is in the Anglo-Saxon manuscript, which is in the British Museum, which has cymbals that were used by Egyptians.",
+  "llm_answer": "There is no evidence that establishes a connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that there is no evidence establishing a connection between the harp in the Anglo-Saxon manuscript and the cymbals used by Egyptians, which aligns with the retrieved context. The context does not provide any information linking these two elements, and the Gold Answer's claim is unsupported by the provided evidence. Thus, the Model Answer is accurate, faithful, and covers the necessary facts."
+  }
+}

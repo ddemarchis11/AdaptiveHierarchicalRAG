@@ -1,0 +1,12 @@
+{
+  "id": "Novel-887d43a9",
+  "question": "Is Mogador considered to be part of Morocco, according to the territorial definitions given in the narrative?",
+  "gold_answer": "Mogador is part of Morocco.",
+  "llm_answer": "Based on the provided evidence, Mogador is considered to be part of Morocco. \n\nThis is evident from the following passages:\n\n- \"The merchants of Mogador have magazines here; this capital has also its caravans, which trade to the interior, passing through Wadnoun to the south.\" (Novel-10356_c_58)\n- \"The Emperor usually resides for a third portion of his time at Morocco the rest at Fez and Mequinez.\" (Novel-10356_c_58)\n- \"The city of Morocco    50,000 souls.\" (Novel-8559_c_75)\n\nThese passages suggest that Mogador is a city within the Empire of Morocco, and that the Emperor of Morocco has a significant presence there.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Mogador is part of Morocco, aligning with the Gold Answer. It provides additional context and references from the retrieved passages to support this claim, demonstrating faithfulness to the context and covering the key fact from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000511",
+  "question": "What was the nationality of the heavyset comedic actor who portrayed an Eastern European captor in a 1994 made-for-TV comedy about a kidnapping gone wrong?",
+  "gold_answer": "Canadian",
+  "llm_answer": "I cannot verify the nationality of the heavyset comedic actor who portrayed an Eastern European captor in a 1994 made-for-TV comedy about a kidnapping gone wrong.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to provide the correct nationality of the actor, which is 'Canadian' as stated in the Gold Answer. Additionally, the retrieved context does not directly address the question, and the model does not utilize any relevant information from the context to answer correctly."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e7ebb96c",
+  "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+  "gold_answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+  "llm_answer": "Based on the provided evidence, Ruth and Angeline Stickney were connected during their educational journey in the following ways:\n\n1. Angeline encouraged Ruth to attend college, writing to her in 1853 and 1854, expressing her desire for Ruth to join her at McGrawville and complete her education.\n2. Angeline offered to help Ruth financially, stating that she would help Ruth \"in every thing\" and that Ruth could \"go through the scientific course\" in two years after next spring term if she came to McGrawville that term.\n3. Ruth eventually returned to McGrawville in 1854, but remained only two months due to poor health, and Angeline was supportive of her decision.\n4. When Angeline had a breakdown six weeks before graduation, Ruth came and took her home, showing her concern and care for her sister's well-being.\n5. The two sisters shared a close relationship and were in regular communication, with Angeline writing to Ruth about her daily life and activities, and Ruth responding with her own thoughts and feelings.\n\nOverall, the evidence suggests that Angeline and Ruth had a strong and supportive relationship, with Angeline encouraging Ruth to pursue her education and Ruth being supportive of Angeline's goals and well-being.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the core meaning of the Gold Answer, which is that Ruth was with Angeline Stickney at McGrawville and wished to be with her. It expands on this by providing additional details about their relationship and interactions during their educational journey, all of which are supported by the retrieved context. The Model Answer includes all relevant facts from the Gold Answer and adds grounded context, making it both correct and faithful."
+  }
+}

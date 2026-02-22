@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00006409",
+  "question": "WHAT WAS THE NAME OF THE BOOK MADE INTO THE 2015 SOUTH KOREAN CRIME THRILLER, THE DEAL, DIRECTED BY SON YONG-HO AND FEATURING SOUTH KOREAN ACTOR PARK SUNG-WOONG (BORN JANUARY 9, 1973) AS A SERIAL KILLER?",
+  "gold_answer": "\"Murder Request\"",
+  "llm_answer": "The provided evidence does not mention the name of the book that was adapted into the 2015 South Korean crime thriller *The Deal*.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the context does not mention the name of the book adapted into 'The Deal.' The context explicitly states that the literal translation of the Korean title 'Sarinuiroe' is 'Murder Request,' which is the name of the book. The Model Answer fails to provide the correct information and does not align with the retrieved context."
+  }
+}

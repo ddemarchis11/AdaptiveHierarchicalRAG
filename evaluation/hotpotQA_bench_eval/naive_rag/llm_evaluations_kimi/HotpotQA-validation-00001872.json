@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001872",
+  "question": "How many kilometers did Sabrina Mockenhaupt run when she set her best record?",
+  "gold_answer": "42.195",
+  "llm_answer": "42.195 km",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states the distance of 42.195 km, matching the Gold Answer. However, the Retrieved Context does not explicitly mention this distance, making the answer ungrounded in the provided context. All key facts from the Gold Answer are included in the Model Answer."
+  }
+}

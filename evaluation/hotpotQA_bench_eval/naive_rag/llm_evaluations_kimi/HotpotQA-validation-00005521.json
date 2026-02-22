@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005521",
+  "question": "What is the central institution of Cheyenne Indian tribal governance that Ehyophsta was not a member of?",
+  "gold_answer": "the Council of Forty-four",
+  "llm_answer": "The central institutions of traditional Cheyenne tribal governance are the Cheyenne military societies and the Council of Forty-four. Ehyophsta was a member of a society of women who had gone to war, but the evidence does not state that she was a member of either the Council of Forty-four or any of the named military societies. Therefore, the central institution she was not a member of is the Council of Forty-four.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Council of Forty-four as the central institution of Cheyenne tribal governance that Ehyophsta was not a member of, aligning with the Gold Answer. It provides additional context about the Cheyenne military societies and Ehyophsta's membership in a women's warrior society, which is supported by the retrieved context. All claims are grounded and relevant, and the key fact from the Gold Answer is fully covered."
+  }
+}

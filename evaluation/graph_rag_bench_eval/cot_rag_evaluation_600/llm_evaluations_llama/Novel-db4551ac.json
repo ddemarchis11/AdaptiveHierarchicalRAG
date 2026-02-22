@@ -1,0 +1,12 @@
+{
+  "id": "Novel-db4551ac",
+  "question": "Imagine you are Dipsas. Write a diary entry about your knowledge of magic arts and the charms of Ææa.",
+  "gold_answer": "Diary Entry — My reputation as a mistress of the magic arts and the charms of Ææa precedes me. These stories, told in Metamorphoses, travel far and wide, even as Jupiter’s utter hatred of the Telchines echoes through Olympus. Ovid’s words ensure my legend endures.",
+  "llm_answer": "I am Dipsas, a procuress with knowledge of magic arts and the charms of Ææa. Here is my diary entry:\n\nToday, I was reminded of my skills in the dark arts. I was instructing a young woman in the ways of a courtesan, teaching her how to manipulate men and use her charms to get what she wants. I showed her how to use the magic of Ææa to turn back the flow of a stream, and how to use herbs and thrums to influence the minds of others.\n\nI also told her about the venomous exudation from the prurient mare, and how it can be used to kill. I warned her that she must be careful not to use it too much, lest she suffer the consequences herself.\n\nAs I was teaching her, I couldn't help but think of my own past. I have been accused of being a cruel and heartless woman, and of being responsible for the death of my own offspring. But I know that I am not to blame. I am simply a woman who knows how to get what she wants, no matter the cost.\n\nI am proud of my skills and my knowledge, and I will continue to use them to get ahead in this world. I am Dipsas, the procuress, and I will not be defeated.\n\nAs I write this, I am reminded of the charms of Ææa, and the power that they hold. I am a master of the dark arts, and I will use my knowledge to get what I want. I will not be stopped by anyone or anything.\n\nI am Dipsas, and I am unstoppable.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer attempts to embody Dipsas and includes references to magic arts and the charms of Ææa, which aligns partially with the Gold Answer. However, it introduces unsupported and speculative details about instructing a courtesan, venomous exudation, and personal accusations, which are not grounded in the retrieved context. While it captures the essence of Dipsas as a mistress of magic, it diverges significantly from the concise Gold Answer and lacks full evidence coverage of the key facts mentioned therein."
+  }
+}

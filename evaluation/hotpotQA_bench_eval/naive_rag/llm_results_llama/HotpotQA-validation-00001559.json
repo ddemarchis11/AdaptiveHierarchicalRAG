@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00001559",
+  "question": "In what movie did the male star of a movie about a widowed 37-year-old woman also star in in the year 1993?",
+  "gold_answer": "\"Red Rock West\"",
+  "llm_answer": "Insufficient evidence to answer the question.",
+  "context": [
+    {
+      "text": "us into the wispy narrative.\" Pauline Kael of The New Yorker stated: \"Nicholson's prankish performance dominates the movie, and with his prankishness also coming out in the casting and the directing, the movie hasn't any stabilizing force; there's nothing to balance what he's doing—no one with a straitjacket.\" Stanley Kauffmann of The New Republic wrote that Goin' South \"is boring after about the sixth minute, an especially irritating bore because there's an idea in it for a good Nicholson picture\". Mary Steenburgen earned a nomination for the Golden Globe Award for New Star of the Year – Actress . References External links Goin' South at IMDb",
+      "id": "HotpotQA-validation-00003047/03_Goin-South.html_c_6"
+    },
+    {
+      "text": "March, which grossed $381 million worldwide. She also co-produced the Legally Blonde spin-off Legally Blondes , starring Milly and Becky Rosso . However, Witherspoon did not appear in a live-action film for two years after Four Christmases . She told Entertainment Weekly that the \"break\" was unplanned, stating that, \"I just didn't read anything I liked... There are a lot of really, really, really big movies about robots and things—and there's not a part for a 34-year-old woman in a robot movie.\" Witherspoon at the premiere of Water for Elephants in 2011 Witherspoon returned with three romances released in 2010, 2011 and 2012, all starring her as a woman caught in a love triangle between two men. In the first, she was cast in James L. Brooks ' How Do You Know , in which she played a former national softball player who struggles to choose between a baseball-star boyfriend ( Owen Wilson ) and a business executive being investigated for white-collar crime ( Paul Rudd ). Filming took place in Philadelphia and Washington, D.C. during the summer and fall of 2009 and it was released on December 17, 2010. The film was critically and commercially unsuccessful; with a budget of more than $100 million, the film only earned $48.7 million worldwide, leading the Los Angeles Times to call it \"one of the year's biggest",
+      "id": "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_15"
+    },
+    {
+      "text": "and often quoted Robert Warshow , who said: \"A man goes to the movies. A critic must be honest enough to admit he is that man.\" His own credo was: \"Your intellect may be confused, but your emotions never lie to you.\" He tried to judge a movie on its style rather than its content, and often said \"It's not what a movie is about, it's how it's about what it's about.\" He awarded four stars to films of the highest quality, and generally a half star to those of the lowest, unless he considered the film to be \"artistically inept and morally repugnant\", in which case it received no stars, as with Death Wish II . He explained that his star ratings had little meaning outside the context of the review: When you ask a friend if Hellboy is any good, you're not asking if it's any good compared to Mystic River , you're asking if it's any good compared to The Punisher . And my answer would be, on a scale of one to four, if Superman is four, then Hellboy is three and The Punisher is two. In the same way, if American Beauty gets four stars, then The United States of Leland clocks in at about two. Although Ebert rarely wrote outright scathing reviews, he had a reputation for writing memorable ones for the films he really hated, such as North . Of that film, he wrote \"I hated this movie. Hated hated",
+      "id": "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_17"
+    },
+    {
+      "text": "other.\" Witherspoon's performance won her the Best Actress Award at the Cognac Police Film Festival and helped establish her as a rising star. The production of the film also gave her significant acting experience; she said \"Once I overcame the hurdle of that movie – which scared me to death – I felt like I could try anything.\" In 1998, Witherspoon had major roles in three films: Overnight Delivery , Pleasantville and Twilight . In Pleasantville , she starred with Tobey Maguire in a tale about 1990s teenage siblings who are magically transported into the setting of a 1950s television series. She portrayed Jennifer, the sister of Maguire's character who is mainly concerned about appearances, relationships and popularity. Her performance earned her praise and garnered her the Young Hollywood Award for Best Female Breakthrough Performance. Director Gary Ross applauded her efforts saying, \"she commits to a character so completely and she understands comedy\". A year later, Witherspoon co-starred with Alessandro Nivola in the drama thriller Best Laid Plans ; she played Lissa, a woman who schemes with her lover Nick to escape a small dead-end town. Also in 1999, she co-starred with Sarah Michelle Gellar and Ryan Phillippe in the drama Cruel Intentions , a modern version of the 18th-century French novel Les Liaisons Dangereuses . The critic for San Francisco Chronicle praised her performance as Annette Hargrove:",
+      "id": "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_5"
+    },
+    {
+      "text": "the normalcy he's fallen into. So he thinks he'll try a more Bohemian thing, which is to just hang around the house. With a week's worth of free time on his hands, Ray is drawn into the pre-occupations of his neighbors, who always seem to be at home. But what I did is just back-story embellishment that any actor will do. Perhaps from my repertory experience. I don't ask a director for motivation. If he says, 'Go over to the window', I find the reason myself.\" Hanks found admiration for Dante's directorial style, saying \"Joe has a stylized, visionary way of looking at the entire movie. It's pure film-making – the story is told from the camera's point of view, and that's a type of movie I haven't made.\" Dante, in turn, praised his star. \"The most impressive thing about Tom Hanks as a comic actor is how effortless he makes it seem. He actually is very diligent about his acting, but his comic sense of what is going to work – and what isn't – is really unparalleled.\" Dante's laid-back, casual style encouraged improvisation among the actors. He noted, \"Tom doesn't like to do scenes the way they're always done. He goes out of his way to put a different spin on everything and his being good as he is and as open as he is encouraged the other actors to do the same. It set a",
+      "id": "HotpotQA-validation-00004131/00_The-Burbs.html_c_7"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- The movie is Goin' South (Novel-00003047_c_6).\n- The male star of Goin' South is Jack Nicholson (Novel-00003047_c_6).\n- The movie about a widowed 37-year-old woman is not specified in the current evidence (Novel-00003047_c_6).\n- The year 1993 is mentioned in the current evidence (Novel-00003047_c_6).\n- The male star of a movie about a widowed 37-year-old woman also starred in Goin' South in 1993 (Novel-00003047_c_6).\n- The movie about a widowed 37-year-old woman is not specified in the current evidence (Novel-00003047_c_6).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what movie did the male star of a movie about a widowed 37-year-old woman also star in in the year 1993?",
+      "doc_ids": [
+        "HotpotQA-validation-00003047/03_Goin-South.html_c_6",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_15",
+        "HotpotQA-validation-00001066/01_Roger-Ebert.html_c_17",
+        "HotpotQA-validation-00002582/01_Reese-Witherspoon.html_c_5",
+        "HotpotQA-validation-00004131/00_The-Burbs.html_c_7"
+      ]
+    }
+  ]
+}

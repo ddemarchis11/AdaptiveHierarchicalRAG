@@ -1,0 +1,12 @@
+{
+  "id": "Novel-99f59665",
+  "question": "How are the padres' actions with the lasso ultimately linked to their mission?",
+  "gold_answer": "The padres used a lasso, which caught a heathen; the heathen fled from the padres, who had a mission.",
+  "llm_answer": "The padres use the lasso as a practical tool for their mission: dragging in unwilling heathen converts. Each person caught—dead or alive—counts as a soul saved, so the more they lasso, the more souls are added to the mission’s tally and the more successful the mission’s “business” becomes.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains the link between the padres' use of the lasso and their mission, emphasizing the practical and spiritual purpose of catching heathens to save their souls. This aligns with the Gold Answer and is fully supported by the Retrieved Context, which describes the padres' actions and their mission's goals. All key facts from the Gold Answer are included."
+  }
+}

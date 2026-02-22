@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000866",
+  "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+  "gold_answer": "professional wrestler, actor, and hip hop musician",
+  "llm_answer": "Rapper",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'rapper' as part of the profession, which is supported by the context. However, it omits the other aspects of the profession mentioned in the Gold Answer: 'professional wrestler' and 'actor.' While the context does confirm the rapper aspect, it also provides evidence for Cena's wrestling and acting roles, which the Model Answer fails to include."
+  }
+}

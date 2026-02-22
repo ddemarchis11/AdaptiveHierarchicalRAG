@@ -1,0 +1,12 @@
+{
+  "id": "Novel-54b3e97f",
+  "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+  "gold_answer": "Mr. Starling",
+  "llm_answer": "Captain Poole drank with Mr. Pepys at the tavern in Woolwich.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies Captain Poole as the individual who drank with Mr. Pepys, whereas the Gold Answer specifies Mr. Starling. The retrieved context does not support the claim about Captain Poole drinking with Mr. Pepys, nor does it mention Mr. Starling in relation to the question. Therefore, the Model Answer is incorrect, unfaithful to the context, and fails to cover the key fact from the Gold Answer."
+  }
+}

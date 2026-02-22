@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002043",
+  "question": "One of the directors of Mediastan is well-known for founding what organisation in 2006?",
+  "gold_answer": "WikiLeaks",
+  "llm_answer": "The evidence provided does not specify which organisation one of the directors of *Mediastan* founded in 2006.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about the organisation founded by one of the directors of Mediastan in 2006. However, it fails to answer the question using external knowledge, which is that Julian Assange, one of the producers of Mediastan, is well-known for founding WikiLeaks in 2006. The retrieved context does not contradict this fact, but it does not explicitly support it either."
+  }
+}

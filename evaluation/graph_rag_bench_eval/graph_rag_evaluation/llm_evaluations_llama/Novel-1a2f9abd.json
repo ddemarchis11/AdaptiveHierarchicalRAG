@@ -1,0 +1,12 @@
+{
+  "id": "Novel-1a2f9abd",
+  "question": "How are the cities of Rabat and Salee geographically related?",
+  "gold_answer": "Rabat is opposite to Salee.",
+  "llm_answer": "The cities of Rabat and Salee are geographically related in that they are both located on the Maroquine coasts of the Mediterranean and Atlantic waters, and Salee is 110 miles from Rabat.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Salee is 110 miles from Rabat, which contradicts the Gold Answer and the geographical relationship implied. The Gold Answer states that Rabat is opposite Salee, which is not addressed or supported by the Model Answer. Additionally, the Retrieved Context does not provide information to support the claim about the distance or their relationship as described in the Model Answer."
+  }
+}

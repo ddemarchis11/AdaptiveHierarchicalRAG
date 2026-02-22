@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f0c44705",
+  "question": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+  "gold_answer": "SHEBA won money at The Races.",
+  "llm_answer": "There is insufficient evidence to determine at what event SHEBA won money in the story, highlighting her involvement in the excitement of the St. Marvells races.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that there is insufficient evidence to determine the event where SHEBA won money, despite the Gold Answer clearly stating 'The Races' and the context supporting this. The Model Answer fails to address the question and does not align with the retrieved context or the Gold Answer."
+  }
+}

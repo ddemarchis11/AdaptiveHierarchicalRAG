@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00007257",
+  "question": "This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?",
+  "gold_answer": "the summer solstice",
+  "llm_answer": "The annual event held in several major cities in Finland is one of many all-night arts festivals whose name is given to areas of high latitude in the weeks around the summer solstice.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the summer solstice as the time period associated with the name of the arts festivals in high latitude areas, aligning with the Gold Answer and the Retrieved Context. It is concise, accurate, and fully supported by the context provided."
+  }
+}

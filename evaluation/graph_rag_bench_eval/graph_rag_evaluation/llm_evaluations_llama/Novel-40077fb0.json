@@ -1,0 +1,12 @@
+{
+  "id": "Novel-40077fb0",
+  "question": "How is the interconnectedness of the Hall and Stickney families portrayed in 'An Astronomer's Wife', specifically through the marriage of Asaph Hall and Angeline Stickney, and the lineage connecting Moses Stickney as grandfather to Angeline Stickney?",
+  "gold_answer": "The marriage of Asaph Hall and Angeline Stickney, and the lineage from Moses Stickney to Angeline Stickney, illustrate the interconnectedness of the Hall and Stickney families across generations.",
+  "llm_answer": "The interconnectedness of the Hall and Stickney families is portrayed through the marriage of Asaph Hall and Angeline Stickney, as well as the lineage connecting Moses Stickney as Angeline's grandfather. This connection is highlighted in the passage where Angeline Hall's grandfather, Angelo Hall, writes a letter to his granddaughter Peggy, stating that her grandmother, Angeline Stickney, was a Bachelor of Arts and had four sons who attended Harvard College.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies the marriage of Asaph Hall and Angeline Stickney and the lineage connecting Moses Stickney as Angeline's grandfather, which aligns with the Gold Answer. However, the additional claim about Angelo Hall writing a letter to Peggy and mentioning Angeline Stickney's educational background and her sons attending Harvard is unsupported by the retrieved context. This reduces faithfulness to the context and partially impacts evidence coverage, as the core facts are present but supplemented with unsupported details."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00006093",
+  "question": "\"This Ole House\" topped the UK chart in 1981 in a recording by a platinum-selling British rock and roll singer whose recording and performing career began when?",
+  "gold_answer": "in the late 1960s",
+  "llm_answer": "Shakin’ Stevens’ recording and performing career began in the late 1960s.",
+  "context": [
+    {
+      "text": "Michael Barratt (born 4 March 1948), known professionally as Shakin' Stevens , is a Welsh singer and songwriter. He was the UK's biggest-selling singles artist of the 1980s. His recording and performing career began in the late 1960s, although it was not until 1980 that his commercial success began. His most successful songs were nostalgia hits, evoking the sound of 1950s rock and roll and pop. In the UK alone, Stevens has charted 28 Top 40 hit singles including four chart-topping hits \" This Ole House \", \" Green Door \", \" Oh Julie \", and \" Merry Christmas Everyone \". Aside from \"Merry Christmas Everyone\" remaining popular during the Christmas season , his last Top 40 single was \" Trouble \" in 2005. Early life Michael Barratt, who would later adopt the stage name Shakin' Stevens, was the youngest of 11 children born in Cardiff to Jack and May Barratt. His father was a First World War veteran who by 1948 was working in the building trade, having previously worked as a coal miner . The oldest of his siblings was born in the mid-1920s, and by the time of his birth some of his siblings had already left the family home to marry and start families of their own. Jack Barratt died in 1972 at the age of 75. May Barratt died in 1984 at the age of 79.",
+      "id": "HotpotQA-validation-00006093/01_Shakin-Stevens.html_c_0"
+    },
+    {
+      "text": "This Ole House is a 1980/1981 album by Welsh rock and roll singer Shakin' Stevens . The album was originally released in October 1980 under the name Marie, Marie but failed to chart. When single \" This Ole House \" reached No. 1 in the UK Singles Chart the album was re-issued in March 1981 with the new title and song added, peaking at No. 2 in the UK Albums Chart. Background The album was originally released in October 1980 on the back of his first top 20 hit \" Marie, Marie \". However, a later single \" This Ole House \" became a much bigger hit, peaking at No. 1 for three weeks in March 1981. The album was quickly re-issued with the same cover but now under the title This Ole House . It peaked at No. 2, giving Stevens' his first top ten album. It spent 28 weeks on the UK Charts and was certified Gold by the BPI. The album also contains earlier singles \"Hey Mae\" and \"Shooting Gallery\". \"Marie, Marie\" is a song by Dave Alvin and his band The Blasters , released on their 1980 album American Music . \"This Ole House\" replaced the song \"Two Hearts\" (later titled \"Two Hearts Two Kisses\") from the original album. The album retained most of the same musicians from the Take One! (1980) album, with the",
+      "id": "HotpotQA-validation-00006093/02_This-Ole-House-album.html_c_0"
+    },
+    {
+      "text": "\" This Ole House \" (sometimes spelled \"This Old House\") is an American popular song written by Stuart Hamblen , and published in 1954. Rosemary Clooney 's version reached the top of the popular music charts in both the US and the UK in 1954. The song again topped the UK chart in 1981 in a recording by Shakin' Stevens . Stuart Hamblen version Hamblen recorded the song in March 1954 and released it as a single in May 1954. It became very successful, peaking at number two on the Billboard Country & Western chart , as well as being a top-30 hit on the Hot 100 , known then as the Best Sellers in Stores. It was his last hit on the country charts, and with the royalties, he bought the mansion that had been owned by the late Errol Flynn . Composition Hamblen was supposedly out on a hunting expedition in the Sierra with guide Monte Wolfe , when his fellow hunter, actor John Wayne , and he came across a hut in the mountains. Inside was the body of a man, and the man's dog was still there, guarding the building. This inspired Hamblen to write \"This Ole House\". The song describes the last words of an old man living in an old house that has fallen into such disrepair that it is no longer structurally sound. The man tells of how the house \"once knew his children\" and \"once knew his",
+      "id": "HotpotQA-validation-00006093/00_This-Ole-House.html_c_0"
+    },
+    {
+      "text": "The English singer Cheryl has released four studio albums, one extended play , twelve singles (excluding three as a featured artist), and fourteen music videos. Cheryl's first foray into a solo music career occurred when she featured on will.i.am 's \" Heartbreaker \". After having streetdancing lessons during the filming of Passions of Girls Aloud series, Cheryl was picked to appear in the song's video. She was later asked to sing the female vocals on the UK release of the track, which reached number four in the United Kingdom and sold over 250,000 copies, giving the single a silver certificate by the BPI. It was the 31st best selling single of 2008. Cheryl's solo career began in October 2009 with the release of \" Fight for This Love \", the lead single from her debut studio album, 3 Words . The track saw Cheryl achieve her first solo number-one single when it topped the UK chart, while also attaining international chart success; peaking within the top 10 in the likes of France, Germany and the Netherlands. The parent album debuted at number one in the UK with sales of 125,271. On 6 November 2009 the British Phonographic Industry (BPI) certified the album platinum. It has since gone 3× Platinum, with sales of over 1,000,000 copies. \" 3 Words \" is both the opening and title song from her debut studio album. It was released in",
+      "id": "HotpotQA-validation-00006093/03_Cheryl-discography.html_c_0"
+    },
+    {
+      "text": "both the audition process and the early months of the show were widely and regularly covered by the British daily press and TV shows.  During the Elvis! show's successful and then twice-extended two-year run, Stevens made regular TV appearances, firstly on Good's revived British ITV show Oh Boy! and later on his follow-up 30-week-long series Let's Rock that was syndicated in 32 countries, including the United States . This led to his first major chart success with a reworking of the Buck Owens song \" Hot Dog \", which Owens would re-record using the arrangement created by pedal steel guitar player B. J. Cole . 1980s: \"This Ole House\", Shaky and more chart success In late 1979, Stevens signed what was to be his most successful management deal with Freya Miller, who immediately advised Stevens to sever his association with the Sunsets and continue developing a more lucrative solo career. Under Miller's hand, in 1981, following chart success in the UK with \"Hot Dog\" (No. 25) and \"Marie Marie\" (No. 19) from his Stuart Colman produced debut albums Take One! and Marie Marie , Stevens scored his first UK chart-topping number 1 with NRBQ 's arrangement of \" This Ole House \". He would follow up with 10 more songs reaching the top five, including three number 1 hits with \"Green Door\", \"Oh Julie\" and \"Merry Christmas",
+      "id": "HotpotQA-validation-00006093/01_Shakin-Stevens.html_c_4"
+    }
+  ],
+  "cot_scratchpad": "- \"This Ole House\" reached No. 1 UK Mar 1981 (#2).\n- Singer is platinum-selling British rock-and-roller Shakin' Stevens (Novel-06093_c_0).\n- Shakin' Stevens began recording & performing late 1960s (Novel-06093_c_0).\n- Commercial success began 1980 (Novel-06093_c_0).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "\"This Ole House\" topped the UK chart in 1981 in a recording by a platinum-selling British rock and roll singer whose recording and performing career began when?",
+      "doc_ids": [
+        "HotpotQA-validation-00006093/01_Shakin-Stevens.html_c_0",
+        "HotpotQA-validation-00006093/02_This-Ole-House-album.html_c_0",
+        "HotpotQA-validation-00006093/00_This-Ole-House.html_c_0",
+        "HotpotQA-validation-00006093/03_Cheryl-discography.html_c_0",
+        "HotpotQA-validation-00006093/01_Shakin-Stevens.html_c_4"
+      ]
+    }
+  ]
+}

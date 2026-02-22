@@ -1,0 +1,12 @@
+{
+  "id": "Novel-30f8dc37",
+  "question": "After the journey through the rain and the eventful stop due to the fallen tree, where did the stagecoach carrying Yuba Bill and the passengers finally arrive?",
+  "gold_answer": "The coach arrived at the station.",
+  "llm_answer": "The evidence does not specify where the stagecoach finally arrived after the journey through the rain and the stop due to the fallen tree.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify where the stagecoach arrived, while the Gold Answer clearly states it arrived at the station. The Retrieved Context does not contradict this, but the Model Answer fails to address the question correctly."
+  }
+}

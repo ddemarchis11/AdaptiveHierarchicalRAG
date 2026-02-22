@@ -1,0 +1,12 @@
+{
+  "id": "Novel-a940228b",
+  "question": "Retell the story of Corinna’s farewell to her parrot as if you are Corinna, writing in her personal diary. Include the role of Isis as invoked in the triplets.",
+  "gold_answer": "Diary Entry — Today was a day of sorrow. My beloved parrot, companion and confidant, was snatched away by envious fate, taken from my side. I said my farewells with heavy heart. In my grief, I called upon Isis, hoping she would turn her features to me and grant comfort. The gods are distant, yet my pain feels as if I am born to be a cause of trouble to my lover.",
+  "llm_answer": "The context provided does not contain any information about a character named Corinna, a parrot, or an invocation of Isis in triplets. Therefore, I cannot retell that story.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question and does not attempt to retell the story of Corinna's farewell to her parrot, nor does it incorporate the invocation of Isis as requested. While the retrieved context is irrelevant, the model could have used internal knowledge to generate a response, but it did not."
+  }
+}

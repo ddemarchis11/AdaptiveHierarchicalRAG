@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00005268",
+  "question": "Who directed the 2007 film which  Sasson Gabai won an Ophir Award for?",
+  "gold_answer": "Eran Kolirin",
+  "llm_answer": "Eran Kolirin",
+  "context": [
+    {
+      "text": "Sasson Gabai (or Gabay ; Hebrew : ששון גבאי ; born ( 1947-11-24 ) 24 November 1947) is an Israeli actor. He is the winner of an Ophir Award , Asia Pacific Screen Award (nominated), European Film Awards and Jerusalem Film Festival in 2007 as Best Actor in the highly acclaimed Israeli film The Band's Visit . Biography Gabai was born in 1947 in Baghdad , Iraq , to a Baghdadi Jewish family. During his childhood he immigrated together with his family to Israel . After serving his mandatory military service in the Israel Defense Forces , he studied theater and psychology at the Tel Aviv University . After graduating, he began playing in the Khan Theater in Michael Alfreds group. Afterwards, he played in several stage productions at the Hacameri Theater, the Be'er Sheva Theater and the Beit Lessin Theater. He is one of the permanent staff members at the Beit Lessin Theater. Among the many plays he participated in were Servant of Two Masters , Catch-22 , Who's Afraid of Virginia Woolf? , and Rain Man . Gabai also played in the 1989 children's musical Peter Pan as Captain Hook . Through the years, Gabai played in various Israeli and international films: Sipurei Tel-Aviv ; Time for Cherries , for which he won an Ophir award; Rambo III ; the Escape from",
+      "id": "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_0"
+    },
+    {
+      "text": "Tel-Aviv ; Time for Cherries , for which he won an Ophir award; Rambo III ; the Escape from Saudi Arabia ; Made in Israel ; Aviva, My Love and many others. Gabai has also been on Israeli television in series The Haim Neighborhood (שכונת חיים), Siton (סיטון), Late Night Stories (סיפורים לשעת לילה מאוחרת), and in the drama series The Kastner Trial (משפט קסטנר) in which he played Rudolf Kastner . He was a host in the comedy series Zehu Ze! , and played a cameo role in the popular comedy series Krovim Krovim , in addition to many other productions. Career highlights In 2007 Gabai starred in the critically acclaimed film The Band's Visit , a role for which he won an Ophir Award and a European Film Award. In 2008 he played the role of Ahmed Hassan al-Bakr in the American TV mini-series House of Saddam . In 2009 Gabai began to play the lead role in the TV series Polishuk , a role for which he won an Israeli Television Academy Award in the category of best actor in a comedy series  . In 2011 he played the lead role in a film Restoration , a role",
+      "id": "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_1"
+    },
+    {
+      "text": "The Band's Visit ( Hebrew : ביקור התזמורת , romanized : Bikur Ha-Tizmoret ) is a 2007 comedy-drama film written and directed by Eran Kolirin , and starring Saleh Bakri , Ronit Elkabetz , Sasson Gabai and Uri Gavriel . It is an international co-production between Israel, France and the United States. The film received acclaim from critics and audiences. It won eight Ophir Prizes awarded by the Israeli Film Academy . It was Israel's original Foreign Language Film submission for the 80th Academy Awards , but was rejected by the Academy of Motion Picture Arts and Sciences because it contained over 50% English dialogue. Thus, Israel sent Beaufort instead, which was eventually included in the five final nominees. Synopsis The eight men of the Alexandria Ceremonial Police Orchestra arrive in Israel from Egypt . They have been booked by an Arab cultural center in Petah Tikva , but through a miscommunication (Arabic has no \"p\" sound, and regularly replaces it with \"b\"), the band takes a bus to Beit Hatikva , a fictional town in the middle of the Negev Desert . The Egyptians encounter a few Israeli townspeople, who respond with curiosity about the band, are variously friendly and wary, and provide them with shelter, food, music and companionship during their visit. There is no transportation out of the town that",
+      "id": "HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_0"
+    },
+    {
+      "text": "Academy Award in the category of best actor in a comedy series  . In 2011 he played the lead role in a film Restoration , a role for which he was nominated for an Ophir Award. He won the IFFI Best Actor Award (Male) at the 42nd International Film Festival of India . Gabai also played one of the leading roles in the highly acclaimed Israeli TV series Shtisel , which to date, has run for three seasons (2013-2021). Gabai played the role of Nuchem Shtisel, the paternal uncle of the main protagonist, Akiva Shtisel. Nuchem is also the brother of Shulem Shtisel and father of Libbi Shtisel, Akiva's first cousin, and love interest. Nuchem is an Antwerp-based travel agent who shows up at Shulem's apartment with his daughter Libbi, at the beginning of Season 2. One of Nuchem's first lines in the show is when he explains why he is late, blaming the immigration/custom officials at Ben Gurion airport, and calling them Reshaim Arrurim (Yiddish vernacular for \"accursed evil people\"). Reshaim Arrurim is a line Nuchem reprises to great comedic effect, at the slightest perceived slight, throughout the season. It was initially announced on 28 February 2018 that Gabai would reprise his role as Tewfiq",
+      "id": "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_2"
+    },
+    {
+      "text": "Moses with music and lyrics by David Yazbek . It opened at the Off-Broadway Linda Gross Theater, produced by the Atlantic Theatre Company, on 11 November 2016, closing on 8 January 2017. Directed by David Cromer , with choreography by Patrick McCollum, the cast stars Tony Shalhoub , John Cariani and Katrina Lenk . Later during the Broadway run as well of the United States National Tour, Sasson Gabai would reprise his role as Tewfiq in the stage production. The musical won the 2017 Drama Critics' Circle Awards for Best Musical, the 2017 Lucille Lortel Award for Outstanding New Musical, and the Outer Critics Circle Award for Outstanding New Off-Broadway Musical. The production transferred to Broadway at the Ethel Barrymore Theatre , with previews beginning on 7 October 2017 and full opening on 9 November. The musical was the biggest winner at the 72nd Annual Tony Awards, which were presented 10 June at Radio City Music Hall, winning ten awards, including Best Musical. It also won the Grammy Award for Best Musical Theater Album at the 2019 Grammy Awards . Gabai reprised his role as Tawfiq for the Broadway production that began on 26 June 2018. See also Israeli film Culture of Israel References External links The Band's Visit at IMDb The Band's Visit at Metacritic The Band's Visit at Box Office Mojo The",
+      "id": "HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_6"
+    }
+  ],
+  "cot_scratchpad": "- Sasson Gabai won 2007 Ophir Award for The Band's Visit (HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_1)\n- The Band's Visit is a 2007 film (HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_0)\n- Eran Kolirin wrote and directed The Band's Visit (HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who directed the 2007 film which  Sasson Gabai won an Ophir Award for?",
+      "doc_ids": [
+        "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_0",
+        "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_1",
+        "HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_0",
+        "HotpotQA-validation-00005268/00_Sasson-Gabai.html_c_2",
+        "HotpotQA-validation-00005268/01_The-Bands-Visit.html_c_6"
+      ]
+    }
+  ]
+}

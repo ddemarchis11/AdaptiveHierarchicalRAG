@@ -1,0 +1,12 @@
+{
+  "id": "Novel-72938445",
+  "question": "In the apple jelly factory described in the report, what do the storage bins hold before processing begins?",
+  "gold_answer": "The bins hold apples.",
+  "llm_answer": "The text does not specifically mention storage bins holding anything before processing begins. However, it does mention that the apples are measured in the wagon box, with one and a half cubic feet being accounted a bushel.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to address the question directly and does not provide the correct information that the storage bins hold apples before processing begins. Additionally, the retrieved context does not support the claim about wagon boxes being relevant to storage bins, making the answer unfaithful and lacking evidence coverage."
+  }
+}

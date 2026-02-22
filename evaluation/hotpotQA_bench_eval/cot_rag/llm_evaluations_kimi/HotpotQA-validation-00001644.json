@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001644",
+  "question": "What is the first year that the second largest university in Alabama fielded a football team?",
+  "gold_answer": "1892",
+  "llm_answer": "1892",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 1892 as the first year Auburn University, the second-largest university in Alabama, fielded a football team. This is consistent with the retrieved context, which explicitly states that Auburn's first football team was fielded in 1892. The answer is concise but fully accurate and grounded in the provided context."
+  }
+}

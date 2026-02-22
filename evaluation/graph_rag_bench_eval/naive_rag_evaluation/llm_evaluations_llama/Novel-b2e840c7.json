@@ -1,0 +1,12 @@
+{
+  "id": "Novel-b2e840c7",
+  "question": "Who is identified as the author of the travel narrative 'Fritzens Reise nach Dessau', according to the bibliographical records of German literature?",
+  "gold_answer": "Schummel wrote 'Fritzens Reise nach Dessau'.",
+  "llm_answer": "The author of the travel narrative 'Fritzens Reise nach Dessau' is not explicitly identified in the provided bibliographical records. However, it is mentioned that the book is composed of letters from a twelve-year-old boy, written on a journey from Magdeburg to Dessau.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer fails to identify Schummel as the author of 'Fritzens Reise nach Dessau,' which is explicitly stated in the Retrieved Context. Instead, it provides irrelevant details about the book's content without addressing the question. This makes the answer incorrect, unfaithful to the context, and lacking in evidence coverage."
+  }
+}

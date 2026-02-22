@@ -1,0 +1,318 @@
+{
+  "id": "HotpotQA-validation-00000398",
+  "question": "The proprietary rendering technology first showcased alongside an always-online action RPG set in a near-future pandemic scenario was built by which studio?",
+  "gold_answer": "Massive Entertainment",
+  "llm_answer": "The proprietary rendering technology, known as Snowdrop, was built by Massive Entertainment and Ubisoft.",
+  "context": [
+    {
+      "text": "Tom Clancy's The Division is a 2016 online-only action role-playing video game developed by Massive Entertainment and published by Ubisoft . It was released on 8 March for Microsoft Windows , PlayStation 4 , and Xbox One . It is set in a near future New York City in the aftermath of a viral pandemic ; the player, a Special Agent of the Strategic Homeland Division, is tasked with helping the group rebuild its operations in Manhattan , investigate the nature of the outbreak, and combat criminal activity in its wake. The Division is structured with elements of role-playing games , as well as cooperative and player versus player online multiplayer. This game also marked the debut of Massive and Ubisoft's Snowdrop game engine. Tom Clancy's The Division received generally positive reviews from critics. A sequel was released in March 2019. Gameplay An in-game screenshot of a player firing from cover Tom Clancy's The Division is an action role-playing game set in an open world mid-crisis Manhattan with destructible environments that can be freely explored by the players. The player's mission is to restore order by investigating the source of a virus. The player character can carry three weapons, and explosives like sticky bombs and seeker mines to fight against enemies. Players may take cover behind objects during fire-fights to avoid taking damage from enemies, and to give them a tactical advantage when attacking. The game is played from a third-person perspective . As players progress, they earn experience points (known as XP) and currency. They can use this currency to buy weapons and gear, and use the points to learn new talents and skills. The player's gear is categorized into seven levels: worn, standard, specialized, superior, high-end, gear set items or the rarer exotic items, each with a specific color code. Gear can be either bought, or found as in-game loot, or crafted from gathered materials. The storyline missions involve objectives that are relevant to their respective wing of the Base of Operations, which serves as the player's home base. At the player's home base there are three wings: Medical, Security, and Tech. Playing missions for a wing grants the player points for that wing which the player can spend to gain access to new talents, perks and facilities in the Base of Operations. The player will receive intel videos from each head of the wing at certain progression points, which the player can watch. The intel received is specific to its wing, with the Medical wing giving virus reports on the outbreak, the Security wing giving insight into each in-game enemy faction and the Tech wing providing camera footage. The game features a dynamic, time-based weather system which may bring benefits or disadvantages to players. For instance, storms can hinder player's visibility and make aiming difficult. The game also features a day-night cycle which can change the behaviour of enemies in the game. The Dark Zone is the player-versus-player competitive multiplayer mode featured in The Division , where a lot of high-end weapons are left behind when the",
+      "id": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_c_0",
+      "doc_id": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html",
+      "community_id": 6,
+      "score": 27.135353
+    },
+    {
+      "text": "enjoyable loop\". Prior to version 1.0.2 of the game, named enemy NPCs would respawn indefinitely, as long as their entourage of minions were never killed. This allowed players to collect the named enemies' superior and high-end loot over and over again. The most popular target of this exploit was a character known as the Bullet King, as this character was the named enemy closest to any player spawn point in the game. The glitch has been resolved in patch 1.0.2 of the game, released by Ubisoft on 22 March 2016. An exotic weapon (the highest quality weapon), an LMG whose ability allows its user to never reload while firing, was named after the character in The Division 2 . During the 20th Annual D.I.C.E. Awards , the Academy of Interactive Arts & Sciences nominated Tom Clancy's The Division for \" Role-Playing/Massively Multiplayer Game of the Year \" and \" Outstanding Achievement in Online Gameplay \". Sales According to Ubisoft, the game broke company records, including highest number of first-day sales (breaking the record previously set by Watch Dogs in 2014), and becoming the company's best-selling game. The Division also broke the industry record for biggest first-week launch for a new game franchise, generating an estimated amount of $330 million globally. The retail version of The Division was the best selling game in its week of release in the U.K. and Ireland, debuting at No. 1 in the UK retail software sales chart. The game's launch marked the biggest video game debut in the first quarter of the year in the U.K., breaking the record previously held by Sony's Gran Turismo 4 . It was the third biggest launch of a Ubisoft game in the U.K., behind Assassin's Creed III and Watch Dogs . The game has the highest week one sales for a new intellectual property , breaking the record held by Destiny . The game was No. 1 in Japan, selling over 80,000 units in its first week. The NPD Group indicated that the retail version of The Division was the best selling game in March 2016 in the U.S. The game sold more than 10 million copies during the eighth generation of video game consoles . Film adaptation In June 2016, it was announced that a live action feature film adaption of The Division is in development. Jake Gyllenhaal was cast to star in the lead role, and to co-produce the film with CEO of Ubisoft Motion Pictures, Gerard Guillemot. By August, Jessica Chastain was cast in the co-starring role of the film. In January 2017, Stephen Gaghan was attached to direct, though he left the project in 2018. In April 2018, David Leitch signed on as director. Kelly McCormick, Gyllenhaal, Guillemot, Riva Marker, Chastain and Kelly Carmichael will act as producers for",
+      "id": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_c_6",
+      "doc_id": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html",
+      "community_id": 6,
+      "score": 24.440044
+    },
+    {
+      "text": "Snowdrop (also known as Ubisoft Snowdrop ) is a proprietary game engine created by Massive Entertainment and Ubisoft for use on Microsoft Windows , PlayStation 4 , PlayStation 5 , Xbox One , Xbox Series X/S , Nintendo Switch , Nintendo Switch 2 , Stadia , and Luna . It was revealed at E3 2013 with Tom Clancy's The Division , the first game using the engine. Snowdrop is one of the primary game engines used by Ubisoft along with Disrupt , Dunia , and Ubisoft Anvil . History The engine is coded mainly in C++ . Rodrigo Cortes, former brand art director at Massive Entertainment , said that development on the Snowdrop engine started in 2009. Initially it was an engine built for PC and next-gen development to \"do things better not bigger\". The core of the game engine is powered by a \"node-based system\" and the engine is a dynamic, interconnected and flexible system where developers can create their assets quickly and interact with them in ways that have never been done before. Massive created a lighting and destruction system inspired by film production techniques. Features of Snowdrop include advanced physically based rendering (PBR), procedural destruction, and a dynamic global illumination system. According to the developers, the engine was designed with three pillars: Empowerment, which allows animators, artists and designers to get their work done quicker, Real Time, which allows developers to implement and iterate quickly and Fun, a concept that applies not only to the final product, but to using the engine during development. An improved version of the engine was used for Tom Clancy's The Division 2 . In February 2016, Massive confirmed that the engine can be used for other Ubisoft games. According to Martin Hultberg, head of IP at Ubisoft Massive, Snowdrop became available to all Ubisoft studios and not just those working on the Tom Clancy's IP. These games include South Park: The Fractured but Whole , Mario + Rabbids: Kingdom Battle , and Starlink: Battle for Atlas . In June 2021, Ubisoft confirmed that the engine will be upgraded for Avatar: Frontiers of Pandora . According to senior technical artist Kunal Luthra, thousands of assets can be propagated inside of each frame to create more highly detailed environments. The engine would also support real-time ray tracing, unified volumetric rendering, as well as improved AI behavior for NPCs . Snowdrop was used for Star Wars Outlaws , which features RTX Direct Illumination and DLSS Ray Reconstruction. Massive developed its own digital \"camera lens\" in Snowdrop, which was used to give the game a more cinematic presentation as an option. The remake of Tom Clancy's Splinter Cell will also use Snowdrop. Ubisoft announced they will continue to upscale and develop the engine. Games using Snowdrop Cancelled Tom Clancy's The Division Heartland References External links Official website",
+      "id": "HotpotQA-validation-00000398/00_Snowdrop-game-engine.html_c_0",
+      "doc_id": "HotpotQA-validation-00000398/00_Snowdrop-game-engine.html",
+      "community_id": 0,
+      "score": 21.043858
+    },
+    {
+      "text": "2 further changes were made; the new version of the engine was named the \"Stem\" engine. Games using id Tech 5 See also First-person shooter engine List of game engines References External links Official id Tech 5 licensing page at the Wayback Machine (archived March 2, 2009) id Tech 5 press release at the Wayback Machine (archived November 18, 2007) From Texture Virtualization to Massive Parallelization ( SIGGRAPH 2009) Timothee Besset's Blog post on possible porting to Linux Media John Carmack demonstrates id Tech 5 at WWDC 2007 on YouTube Portal : Video games",
+      "id": "HotpotQA-validation-00000398/02_Id-Tech-5.html_c_2",
+      "doc_id": "HotpotQA-validation-00000398/02_Id-Tech-5.html",
+      "community_id": 2,
+      "score": 19.23962
+    },
+    {
+      "text": "and In Search of the Unknown . In January 2018 Goodman Games announced that the hardback book would be 380 pages in length and contain digital scans of the originals, 5th Edition conversions, additional new content, and \"testimonials\". The Goodman Games reprint entitled Into the Borderlands appeared in May 2018 as volume one of \"Original Adventures Reincarnated\". As part of the 2024 revision to the 5th Edition ruleset, a new starter set titled Heroes of the Borderlands is scheduled for release in 2025. It is inspired by the original Keep on the Borderlands and the set will include three booklets: Caves of Chaos , the Keep on the Borderlands , and the Wilderness . In a Polygon review, they described how Heroes of the Borderlands aims to lower the barrier for new players by giving out tools like a quick‑start guide, combat tracker, and abundant physical components. In video games Dungeons & Dragons Online released an adaptation of the Keep on the Borderlands adventures in 2019. References External links Keep on the Borderlands novel based on the module A module (in English) by ENoa4 for the Neverwinter Nights 2 CRPG, aiming to recreate a rendition of The Keep On The Borderlands within that game engine. (Work seemingly complete, or tentative at best. As of 4/23/2007, the patch level stands at version 1.10.) \"Review of B2: The Keep on the Borderlands - RPGnet RPG Game Index\" \"Review of B2: The Keep on the Borderlands - RPGnet d20 RPG Game Index\" \"Review of B2: The Keep on the Borderlands - RPGnet RPG Game Index\" \"Review of Return to the Keep on the Borderlands - RPGnet RPG Game Index\" \"Review of Return to the Keep on the Borderlands - RPGnet RPG Game Index\" \"B2: The Keep on the Borderlands\"",
+      "id": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_c_4",
+      "doc_id": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html",
+      "community_id": 1,
+      "score": 17.448729
+    },
+    {
+      "text": "Basic Human Neurophysiology (1984), and on his own pastiche speculative fiction novels set in the inner world of Edgar Rice Burroughs's Pellucidar , the fictional future of Philip Francis Nowlan 's Buck Rogers , and the fictional past of Robert E. Howard 's Conan the Barbarian . Holmes's two Pellucidar novels were Mahars of Pellucidar , authorized by the Burroughs estate, and Red Axe of Pellucidar , reportedly blocked by the same authority. Ready for publication in 1980, it initially only saw print thirteen years later in a private printing. Both novels were ultimately officially re-released by Edgar Rice Burroughs, Inc. in 2022 in hardcover, paperback, Kindle, and audio CD as part of its Edgar Rice Burroughs Universe series.  A planned third novel in the series, Swordsmen of Pellucidar , remained unfinished. His other pastiches also met with mixed success. While Mordred , his Buck Rogers novel, saw print, his Conan novel, while contracted and paid for by Tor Books , was ultimately rejected. Another novel, Danton Doring , a collaboration with Burroughs' son John Coleman Burroughs , whom he helped treat for Parkinson's disease, was never completed. Holmes was a regular guest at Burroughs fan conventions such as the Edgar Rice Burroughs Chain of Friendship (ECOF). He received its Lifetime Achievement Award for his Burroughs pastiches at ECOF '93 in Willows, California . He was slated to appear as Guest of Honor at 2004's ECOF Convention in Sacramento, California , but suffered a stroke and was unable to attend. He was a special guest at the June 2005 ECOF in Portland, Oregon . Bibliography Fiction Boinger the Halfling and Zereth the Elf The stories published in Alarums & Excursions (A&E), included illustrations by Chris Holmes: “Warrior-for-Hire” in A&E #11, p. 2 (May 1976) “Were-shark” in A&E #13, pp. 3–4 (July 1976) “The Adventure of the Giant Chameleon” in A&E #14, pp. 4–7 (Aug. 1976) “The Adventure of the Lost City: Part One” in A&E #17, pp. 8–13 (Dec. 1976) “The Sorcerer’s Tower: Adventure of the Lost City: Part Two” in A&E #19, pp. 8–12 (Feb. 1977) “Trollshead” in The Dragon , #31, pp. 3, 40–44 (Nov. 1979) “The Sorcerer’s Jewel” in Dragon , #46, pp. 6–9, 60–65 (Feb. 1981)",
+      "id": "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_c_1",
+      "doc_id": "HotpotQA-validation-00002164/01_John-Eric-Holmes.html",
+      "community_id": 2,
+      "score": 15.565154
+    },
+    {
+      "text": "following the September 1979 disappearance of James Dallas Egbert III . The financial success of Mike Carr, writer of the previous module included in the boxed set, showed that \"a module like this [...] could bring significant income to its author\". In early 1980, Carr's module was replaced by Gygax's in the Basic Set . Reception Anders Swenson reviewed The Keep on the Borderlands for Different Worlds magazine and stated that \"It is well balanced, and suitable for the levels of characters for which it was written. D&D is a good introductory set of adventure gaming rules, and The Keep on the Borderland is a good introduction to D&D .\" Kirby T. Griffis, reviewing the adventure in The Space Gamer No. 37, found the module \"interesting and full of excitement\", though he considered the map sloppily done. He concluded by stating \"on the whole, I enjoyed this module and recommend it.\" Lawrence Schick , in his 1991 book Heroic Worlds , described the adventure as \"A good start for new players\" and speculated that at the time, \"There probably have been more copies of B2 printed than of any other role-playing scenario.\" A retrospective review in Shadis #29 (1996) said that \" Keep on the Borderlands was designed with beginners in mind, and may seem quaint to experienced role-players. But that quaintness grows on you as you read through it, and the mix and match quality of the dungeon leaves an impression that's hard to ignore. For a Basic D&D nostalgia trip, there's very little that can match it.\" To commemorate the 30th anniversary of the Dungeons & Dragons game, Erik Mona and James Jacobs chose their Top Thirty Greatest Dungeons & Dragons adventures of all time, and ranked The Keep on the Borderlands in 7th place. Ken Denmead of Wired listed the module as one of the \"Top 10 D&D Modules I Found in Storage This Weekend\". According to Denmead, the module \"should give a party of low-levels a rather challenging time.\" Writing for Black Gate in 2014, Scott Taylor listed the cover art of Keep on the Borderlands by Jim Roslof as #8 in The Top 10 TSR Cover Paintings of All Time. Jon Peterson commented that Keep on the Borderlands is \"a classic, beloved module, whose Caves of Chaos owe no particular debt to Carr's Caverns of Quasqueton, though much of Carr's enlightening text about the art of dungeon mastering was effectively paraphrased in Gygax's version. [...] Because Keep on the Borderlands would ship with the Moldvay Basic Set , at the height of the D&D boom in 1981, it became one of the most widely known modules in D&D history, selling 750,000 copies a year. It might never have served as the gateway to adventure for so many players if it hadn't been for",
+      "id": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_c_1",
+      "doc_id": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html",
+      "community_id": 1,
+      "score": 14.429525
+    },
+    {
+      "text": "The Fader (stylised as The FADER ) is a magazine established in 1999 as an outlet for Cornerstone Agency, a marketing and public relations firm established by Rob Stone and Jon Cohen . The magazine covers music, style and culture. History and work It is owned by The Fader Media group, which also includes its website, thefader.com, as well as Fader films, Fader Label and Fader TV. It was the first print publication to be released on iTunes . The Fader Fort The magazine hosted The Fader Fort, an annual invitation-only event at Austin, Texas 's South by Southwest (SXSW). Since its founding in 2001, the four-day party features live performances. Fader Fort NYC is a party produced during the annual CMJ Music Marathon . The festival has featured over 900 performances, including ones by Drake . In 2020, it moved to being an online event due to the coronavirus pandemic. Charity In 2023, the magazine announced FADER and Friends Vol. 1 , a collection of 44 cover songs from 44 artists, to raise money for trans rights organisations. References External links Official website",
+      "id": "HotpotQA-validation-00006708/01_The-Fader.html_c_0",
+      "doc_id": "HotpotQA-validation-00006708/01_The-Fader.html",
+      "community_id": 0,
+      "score": 14.374738
+    },
+    {
+      "text": "access to high er level rules to handle the non-play er character antagonists in his adventures. Nonetheless, this is an excellent introductory package, perfect for youths and casual beginners - good-looking, smooth-reading, right-spirited, and reasonably priced.\" In a retrospective review of Dungeons & Dragons Basic Set in Black Gate , Scott Taylor said: \"In the 'box' I had it all, the player's book with the classes, the experience charts, and the equipment. The dungeon master's booklet provided the finer points of the rules, the monsters, and the treasure I'd be able to find after hard-fought battle\". Scott Taylor for Black Gate in 2014 listed the Mentzer edition Basic D&D Boxed Set by Larry Elmore as #2 in The Top 10 TSR Cover Paintings of All Time. See also Editions of Dungeons & Dragons References Reviews: Dragon #84 (1984) External links The Inside Scoop on Gaming - RPGnet The Inside Scoop on Gaming - RPGnet",
+      "id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_c_5",
+      "doc_id": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html",
+      "community_id": 5,
+      "score": 14.37094
+    },
+    {
+      "text": "Fortnight section at the 2016 Cannes Film Festival on May 20, 2016. It was released on November 4, 2016, in the United States. Peter Bradshaw of The Guardian gave the film four out of five stars, writing, \"It's the right director for the right project and the result is Schrader's best for years: a lairy, nasty, tasty crime thriller built on black-comic chaos.\" Todd McCarthy of The Hollywood Reporter wrote, \"A rare film to have been shot in Cleveland, Dog Eat Dog definitely looks like it was shot on the cheap but puts what it needs to up on the screen with vigor and wit.\" Cage starred alongside Selma Blair and Anne Winters in Brian Taylor 's horror comedy film , Mom and Dad , which premiered in the Midnight Madness section at the 2017 Toronto International Film Festival . It was released in theaters on January 19, 2018, and received positive reviews from critics, with review aggregator Rotten Tomatoes defining his performance as \"over-the-top.\" Director John Waters appreciated the film, naming Mom and Dad as one of the best movies of 2018, placing it fourth on his personal top list. 2018–present: Critical resurgence Cage at the 2018 Sitges Film Festival In 2018, Cage starred in the action thriller film Mandy , which premiered on January 19 at the 2018 Sundance Film Festival . Nick Allen of RogerEbert.com praised the movie, writing that \"for all of the endless feral performances that Cage has given, in movies good, bad and forgettable, Cosmatos' style-driven, '80s-tastic passion for weird worlds and characters takes full advantage of Cage's greatness, and then some.\" In October, Mandy ' s producer Elijah Wood announced his intention to size up an Oscar campaign for Nicolas Cage and for composer Jóhann Jóhannsson (who died in February of that year) but the film was disqualified because it was also released on Video On Demand on September 14. Later that year, Cage voiced Clark Kent / Superman in the animated film Teen Titans Go! To the Movies . He had originally been slated to portray Superman in Tim Burton 's canceled Superman film, Superman Lives , in the 1990s. He voiced an alternate monochromatic 1930s universe version of Peter Parker / Spider-Man Noir in Spider-Man: Into the Spider-Verse (2018). Cage based his vocal performance on films of Humphrey Bogart , James Cagney , and Edward G. Robinson . On January 28, 2019, Viktor and Irina Yelchin premiered a documentary about their son Anton Yelchin , Love, Antosha , at the 2019 Sundance Film Festival . The documentary was directed by Garret Price and contains various interviews with some of Anton's friends and collaborators such as Kristen Stewart , J.",
+      "id": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_c_8",
+      "doc_id": "HotpotQA-validation-00001559/00_Nicolas-Cage.html",
+      "community_id": 9,
+      "score": 12.449467
+    }
+  ],
+  "communities": [
+    {
+      "community_key": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "summary": "**Title**: Tom Clancy’s The Division Overview\n\n**Summary**:  \nTom Clancy’s The Division is a 2016 online-only action-RPG set in post-pandemic Manhattan, praised for its tactical gunplay and atmospheric Dark Zone PvPvE mode, yet criticized for repetitive missions, fractured progression, and an empty open world. Despite mixed reviews highlighting design conservatism and technical exploits like the “Bullet King” farm, the game achieved record-breaking sales for Ubisoft and spawned a 2019 sequel set in Washington, D.C., while a Netflix film adaptation remains in development.\n\n**Keywords**:  \nloot shooter, Dark Zone, sales records, sequel, film adaptation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000398/00_Snowdrop-game-engine.html_0",
+      "summary": "**Title**: Ubisoft Snowdrop Game Engine\n\n**Summary**: Snowdrop is Ubisoft’s proprietary C++ game engine created by Massive Entertainment in 2009, debuting with Tom Clancy’s The Division. Built around a node-based, real-time architecture, it emphasizes rapid iteration, physically-based rendering, procedural destruction, and film-inspired lighting. After powering titles such as The Division 2, Mario + Rabbids, and Star Wars Outlaws, Snowdrop is being upgraded with real-time ray tracing, volumetric rendering, and AI enhancements for upcoming releases like Avatar: Frontiers of Pandora and the Splinter Cell remake.\n\n**Keywords**: Snowdrop engine, Ubisoft, Massive Entertainment, real-time rendering, proprietary game engine",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00000398/02_Id-Tech-5.html_2",
+      "summary": "**Title**: id Tech 5 Game Engine\n\n**Summary**:  \nid Tech 5 is a proprietary game engine developed by id Software, succeeding id Tech 4 and notable for its advanced rendering capabilities and cross-platform optimization. It introduced Virtual Texturing, allowing massive texture data (up to 128,000 × 128,000 pixels) to be streamed dynamically, simplifying content creation across platforms. The engine supports high-end visual effects like soft shadows, HDR, volumetric lighting, and motion blur, while enabling multi-threaded processing for rendering, AI, and physics. First showcased in 2007, it powered games such as *Rage*, *Wolfenstein: The New Order*, and *The Evil Within*.\n\n**Keywords**:  \nid Tech 5, Virtual Texturing, game engine, cross-platform development, id Software",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006708/01_The-Fader.html_0",
+      "summary": "**Title**: The Fader Media Empire\n\n**Summary**:  \nThe Fader is a music-culture magazine founded in 1999 by Cornerstone Agency, now operating under The Fader Media group alongside its website, record label, film and TV divisions. Best known for launching the annual Fader Fort showcases at SXSW and CMJ, the brand has hosted 900+ performances, including early sets by Drake. It pioneered digital distribution as the first print title on iTunes, pivoted its flagship event online during the 2020 pandemic, and in 2023 released a 44-track charity compilation supporting trans-rights organizations.\n\n**Keywords**:  \nFader Fort, SXSW, music magazine, trans rights fundraiser, Cornerstone Agency",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career slump, Nicolas Cage rebounded with a string of critically praised genre films—*Mandy*, *Color Out of Space*, *Pig*, *Dream Scenario*—that showcased his self-styled “Nouveau Shamanic” acting approach and earned him festival awards and a fifth Golden-Globe nomination. He simultaneously embraced off-beat projects such as *Prisoners of the Ghostland*, *Renfield*, *The Unbearable Weight of Massive Talent*, and the horror hit *Longlegs*, while lending his voice or likeness to fan-favorite properties like *Spider-Man: Into the Spider-Verse*, *The Flash*, and the video game *Dead by Daylight*. Production company Saturn Films, philanthropic work, and upcoming roles as John Madden and Spider-Noir round out a prolific late-career chapter.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror resurgence, *Pig*, *Dream Scenario*, Saturn Films",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00003219/03_Hillside-Home-School-I.html_2",
+      "summary": "**Title**: Hillside Home School I  \n\n**Summary**:  \nFrank Lloyd Wright’s first independent commission, the 1887 Hillside Home School I, was a Shingle-style dormitory and library built for his aunts’ co-ed boarding school near Spring Green, Wisconsin. Though heavily influenced by his then-employer Joseph Lyman Silsbee, the building launched Wright’s career and was followed by two later campus structures he also designed. Praised in 1907 for its “English” architecture and modern amenities, the building was demolished by Wright himself in 1950.  \n\n**Keywords**: Frank Lloyd Wright, Hillside Home School, Shingle Style, Spring Green, early commission",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "summary": "**Title**: John Eric Holmes Bibliography\n\n**Summary**:  \nJohn Eric Holmes (1930-2010) was a neurologist, professor, and prolific author whose works spanned academic neurology, fantasy role-playing games, and speculative fiction. He edited the 1977 Dungeons & Dragons Basic Set, authored the textbook Basic Human Neurophysiology, and wrote numerous short stories and novels set in Edgar Rice Burroughs’s Pellucidar, Buck Rogers, and Conan universes. His fiction includes the collected Boinger & Zereth tales and standalone stories in Dragon and Alarums & Excursions, while his nonfiction ranges from brain-science articles in Analog to essays on gaming psychology.\n\n**Keywords**:  \nD&D Basic Set, Pellucidar pastiches, Boinger & Zereth, Analog neurology articles, fantasy RPG essays",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "summary": "**Title**: Bobby Hurley Basketball Journey\n\n**Summary**:  \nBobby Hurley, born in 1971 in Jersey City, is the NCAA all-time assists leader and a two-time national champion at Duke under Coach K. Drafted 7th overall by the Sacramento Kings in 1993, his NBA career was derailed by a near-fatal car crash his rookie season; he later played briefly for Vancouver before retiring in 1999. Hurley transitioned to coaching, first as an assistant alongside brother Dan at Wagner and Rhode Island, then as head coach at Buffalo (first NCAA berth) and Arizona State (Pac-12 program resurgence). Off the court, he owned racehorse Songandaprayer, faced foreclosure on Devil Eleven Stables, and has a family with wife Leslie.\n\n**Keywords**:  \nDuke point guard, NCAA assists leader, NBA draft #7, Arizona State coach, thoroughbred owner",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005711/03_Loveleen-Tandan.html_1",
+      "summary": "**Title**: Loveleen Tandan’s Cinematic Journey  \n\n**Summary**:  \nLoveleen Tandan is an Indian casting director and co-director who rose to global prominence through her work on *Slumdog Millionaire*, where Danny Boyle elevated her from casting director to “Co-Director (India)” in recognition of her pivotal role in shaping the film’s authentic Hindi dialogue and on-set cultural guidance. A Sociology graduate from Delhi University and an MCRC mass-communication post-graduate, she built her career collaborating with acclaimed filmmakers such as Mira Nair, Deepa Mehta, and Sarah Gavron on films like *Monsoon Wedding*, *The Namesake*, and *Brick Lane*. Her contributions have been celebrated by institutions ranging from the Academy Awards to the New York Film Critics Online, cementing her status as a path-breaking woman in world entertainment.  \n\n**Keywords**:  \nSlumdog Millionaire, casting director, co-director, Indian cinema, women in film",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00005121/02_Paramore-album.html_3",
+      "summary": "**Title**: Paramore Self-Titled Album Era\n\n**Summary**:  \nParamore’s fourth studio album, released April 5, 2013, marked a stylistic reinvention—debuting at #1 in the U.S. and six other countries—without founding guitarist Josh Farro and drummer Zac Farro. Four singles (“Now,” “Still Into You,” “Daydreaming,” Grammy-winning “Ain’t It Fun”) plus deluxe-edition re-recordings and three ukulele interludes showcased new-wave/funk experimentation and earned multi-platinum RIAA certifications. Extensive promotion included The Self-Titled Tour, the PARAHOY! cruise, the co-headlining Monumentour with Fall Out Boy, and a 2014 deluxe reissue, closing the cycle with the intimate “Writing The Future” run in 2015.\n\n**Keywords**: Paramore, Self-Titled Album, Ain’t It Fun, Still Into You, Monumentour",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002256/01_Patty-Jenkins.html_2",
+      "summary": "**Title**: Patty Jenkins Career Journey\n\n**Summary**:  \nPatty Jenkins rose from AFI Conservatory student to Hollywood trailblazer, beginning with her 2003 debut Monster, which won Charlize Theron an Oscar and Jenkins the Independent Spirit Award for Best First Feature. After a decade of acclaimed television work and abandoned studio projects—most notably her departure from Thor: The Dark World over creative differences—she shattered records in 2017 by directing Wonder Woman, the first U.S. studio superhero film helmed by a woman and the highest-grossing opening ever for a female director. Jenkins’ career illustrates both the creative and systemic challenges female directors face in securing large-scale feature opportunities and negotiating pay equity.\n\n**Keywords**:  \nMonster, Wonder Woman, female director, AFI Conservatory, Hollywood pay equity",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "summary": "**Title**: Go Bo Diddley Album\n\n**Summary**: *Go Bo Diddley* is Bo Diddley’s second studio album, released in July 1959 on Checker Records, notable for being his first LP to include previously unreleased material. The album compiles several 1958-59 singles—such as “I’m Sorry,” “Crackin’ Up,” and the crossover hit “Say Man”—alongside four album-only tracks. Recorded in mono with an Ampex-350, it features core collaborators Peggy Jones, Jerome Green, Willie Dixon, and others, and was later ranked among Rolling Stone’s 500 Greatest Albums of All Time.\n\n**Keywords**: Bo Diddley, Checker Records, 1959, Say Man, Greatest Albums",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "summary": "**Title**: Keep on the Borderlands Legacy  \n\n**Summary**:  \n“The Keep on the Borderlands,” Gary Gygax’s 1979 introductory D&D module, became the gateway adventure for millions of players after it replaced Mike Carr’s B1 in the Basic Set, ultimately selling ~750k copies a year at the 1981 D&D boom’s peak. Reviewers praised its beginner-friendly cave-crawl structure, modular session design, and enduring nostalgic charm, while later critics noted its generic setting and simple plot. The module spawned sequels, novelizations, reprints, and adaptations across five editions of D&D, as well as retro-clones, video-game versions, and a forthcoming 2025 starter set, securing its status as one of the most revisited and reprinted adventures in RPG history.  \n\n**Keywords**:  \nD&D Basic Set, Caves of Chaos, introductory module, reprints & adaptations, nostalgic classic",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "summary": "**Title**: Volvo V50 Overview\n\n**Summary**: The Volvo V50, a station wagon variant of the S40, debuted at the 2003 Bologna Motor Show and was produced until 2012, with over 519,000 units built. Built on the shared Global C-car Platform, it offered petrol and diesel engines, including a turbocharged 2.5L five-cylinder T5 AWD and a 2.4L D5 diesel. Market-specific trims and powertrain restrictions evolved annually, culminating in North America’s 2011 phase-out. A high-performance V50 SV concept with 340 hp was showcased at SEMA 2004.\n\n**Keywords**: Volvo V50, station wagon, T5 AWD, Global C-platform, production stats",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_1",
+      "summary": "**Title**: Hornsby Oil Engine Innovations\n\n**Summary**: Richard Hornsby & Sons of Grantham pioneered commercial heavy-oil engines from 1892, producing over 32,000 units that powered iconic landmarks like the Taj Mahal and Statue of Liberty. The firm built Britain’s first oil-engined tractor in 1896, later adding chain tracks and winning military trials in 1903 with a twin-cylinder tractor hauling 25 tons for 58 miles without refueling. Their tracked undercarriage patent was sold to Holt (later Caterpillar), cementing Hornsby’s legacy in both stationary and traction engine technology.\n\n**Keywords**: Hornsby-Akroyd oil engine, first British tractor, chain-track patent, military tractor trials, heavy-oil innovation",
+      "is_seed": true,
+      "expand_score": null
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "summary": "**Title**: Nicolas Cage Career Resurgence  \n\n**Summary**:  \nAfter a mid-career lull, Nicolas Cage rebounded with a string of critically praised, genre-spanning roles from 2018 onward, including Mandy, Pig, Dream Scenario, and Longlegs. He simultaneously embraced self-parody in The Unbearable Weight of Massive Talent and franchise fare like Renfield and The Flash, while preparing to headline the Spider-Noir series. This resurgence has been fueled by his self-devised “Nouveau Shamanic” acting style—an uninhibited, imagination-driven approach that turns even outlandish characters into emotionally resonant performances. Off-screen, Cage remains a prolific producer via Saturn Films and a high-profile philanthropist supporting children’s rights, disaster relief, and humanitarian causes.  \n\n**Keywords**:  \nNouveau Shamanic, indie-horror comeback, Pig, Mandy, Saturn Films",
+      "is_seed": false,
+      "expand_score": 0.953370988368988
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "summary": "**Title**: Nicolas Cage Career Trajectory  \n\n**Summary**:  \nThese chunks trace Nicolas Cage’s evolving reputation from early cult oddities like *Vampire’s Kiss* through his Oscar-winning turn in *Leaving Las Vegas* and subsequent reinvention as a bankable action hero in *The Rock*, *Con Air*, and *Face/Off*. They chart his oscillation between blockbuster franchises (*National Treasure*, *Ghost Rider*) and critically praised off-beat roles (*Adaptation.*, *Bad Lieutenant*), noting periodic box-office disappointments, critical re-evaluations, and forays into independent and genre cinema that keep his status as a polarizing but enduring screen presence.  \n\n**Keywords**:  \nOscar win, action stardom, critical rebounds, cult performances, franchise blockbusters",
+      "is_seed": false,
+      "expand_score": 0.8696380853652954
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "summary": "**Title**: Bob Hurley’s St. Anthony Dynasty  \n\n**Summary**:  \nLegendary coach Bob Hurley built St. Anthony High School into a national powerhouse, capturing 26 state titles and five undefeated seasons in 39 years while sending every senior to a Division I scholarship. His 1989, 2003-04 and 2007-08 squads are regarded among the greatest in U.S. high-school history, chronicled in the book *The Miracle of St. Anthony* and the PBS documentary *The Street Stops Here*. Despite the school’s tiny, under-resourced enrollment, Hurley produced six NBA first-round picks and over 150 Division I players, all while working full-time as a probation officer and declining every college offer. Inducted into the Naismith Hall of Fame in 2010, he now extends his impact through the free Hurley Family Foundation clinics for Jersey City youth.  \n\n**Keywords**: Bob Hurley, St. Anthony basketball, 26 state championships, undefeated seasons, Naismith Hall of Fame",
+      "is_seed": false,
+      "expand_score": 0.8640804886817932
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "summary": "**Title**: Bo Diddley 1958 Debut Album\n\n**Summary**: Bo Diddley’s self-titled 1958 debut album compiles his groundbreaking 1955-1958 singles that introduced the iconic “Bo Diddley beat,” cementing his place in rock & roll history. Released by Chess Records, the 12-track LP was later paired with 1959’s *Go Bo Diddley* on Rolling Stone’s 500 Greatest Albums list, peaking at #216 in 2012 before slipping to #455 in 2020. Critics laud the record as essential listening; AllMusic awarded it five stars, and in 2022 it was inducted into the Blues Hall of Fame as a ‘Classic of Blues Recording – Album’.\n\n**Keywords**: Bo Diddley beat, Chess Records, Rolling Stone 500, Blues Hall of Fame, rock & roll essential",
+      "is_seed": false,
+      "expand_score": 0.8582791090011597
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "summary": "**Title**: Volvo S40 Second Generation (2003–2012)\n\n**Summary**:  \nThe second-generation Volvo S40, launched at the 2003 Frankfurt Motor Show and built on the Volvo P1 platform in Ghent, Belgium, marked a major redesign with shared underpinnings for the V50 estate and C30/C70 variants. It offered a range of modular five-cylinder petrol and diesel engines, including turbocharged T5 and D5 options, paired with manual, automatic, or dual-clutch transmissions. Safety innovations such as a four-star Euro-NCAP rating, side-impact curtain airbags, and optional BLIS cameras were highlights. The model garnered multiple international awards, including 2005 Car of the Year titles in Canada and South Africa, and featured a notable viral marketing campaign, “The Mystery of Dalarö.” Production spanned nearly a decade with periodic facelifts and powertrain updates, including a 2007 refresh and 2010 engine overhaul.\n\n**Keywords**:  \nVolvo S40, P1 platform, five-cylinder engines, Euro-NCAP, T5/D5 powertrains",
+      "is_seed": false,
+      "expand_score": 0.8459113240242004
+    },
+    {
+      "community_key": "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "summary": "**Title**: Dan Hurley Coaching Career\n\n**Summary**: Dan Hurley, born in 1973 to Hall-of-Fame high-school coach Bob Hurley Sr., built a decorated basketball résumé from St. Anthony HS standout to Seton Hall guard. After transforming St. Benedict’s Prep into a national powerhouse, he set Wagner’s single-season wins record, revived Rhode Island with two NCAA-tournament berths, and since 2018 has led UConn to back-to-back national titles (2023, 2024), a 37-win school record, and his own Naismith Coach-of-the-Year honors. Known for intense sideline energy, Hurley turned down lucrative offers from Kentucky and the Los Angeles Lakers in 2024, staying at UConn to pursue a third straight championship while guiding son Andrew on the roster.\n\n**Keywords**: UConn basketball, NCAA championships, Dan Hurley, college coaching, Big East",
+      "is_seed": false,
+      "expand_score": 0.8390386700630188
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "summary": "**Title**: Dungeons & Dragons Basic Set Editions\n\n**Summary**:  \nThe Dungeons & Dragons Basic Set evolved through multiple revisions from 1977 to 1994, each aiming to streamline rules and attract new players. Early editions included modules like *In Search of the Unknown* and *Keep on the Borderlands*, with legal disputes influencing content choices. The 1981 Moldvay revision introduced clearer rules and vibrant presentation, while the 1983 Mentzer version adopted a tutorial format to teach younger players. Later editions, including the 1991 “black box” and 1994’s *Classic Dungeons & Dragons*, further simplified gameplay and expanded support for higher-level characters. Reception was generally positive, praising accessibility and organization, especially for newcomers.\n\n**Keywords**:  \nD&D Basic Set, Moldvay edition, Mentzer edition, Keep on the Borderlands, TSR revisions",
+      "is_seed": false,
+      "expand_score": 0.8380080461502075
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "summary": "**Title**: Volvo S40 Evolution  \n\n**Summary**:  \nThe Volvo S40, produced from 1995-2012, was Volvo’s sub-compact executive offering, bridging mass-market and premium segments. Two generations evolved from shared Mitsubishi platforms to Volvo-only architecture, spawning sedan, estate (V50) and hatchback (C30) variants. Continuous engine, safety and design updates kept the range competitive until it was phased out in favor of the V40 hatchback and later XC40/EX40 crossovers; no direct sedan successor was released.  \n\n**Keywords**:  \nVolvo S40, V50, compact executive, platform evolution, model lifecycle",
+      "is_seed": false,
+      "expand_score": 0.8298697471618652
+    },
+    {
+      "community_key": "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "summary": "**Title**: Nicolas Cage Career Overview\n\n**Summary**: Nicolas Cage, born Nicolas Kim Coppola, is an Academy Award-winning American actor and producer whose films have grossed over $6.4 billion worldwide. After changing his name to avoid nepotism claims related to his uncle Francis Ford Coppola, Cage rose from early roles in \"Valley Girl\" and \"Rumble Fish\" to critical acclaim in \"Moonstruck\" and an Oscar win for \"Leaving Las Vegas.\" Known for his versatile and often eccentric acting style described as \"mega-acting,\" Cage has starred in both blockbuster action films like \"The Rock\" and \"National Treasure\" series, as well as acclaimed independent films like \"Mandy\" and \"Pig.\" Beyond acting, he owns Saturn Films, has directed \"Sonny,\" and was inducted into the Hollywood Walk of Fame in 1998.\n\n**Keywords**: actor, Academy Award, filmography, Coppola family, versatile performer",
+      "is_seed": false,
+      "expand_score": 0.8197758197784424
+    },
+    {
+      "community_key": "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_2",
+      "summary": "**Title**: Tom Clancy’s The Division Development & Post-Launch\n\n**Summary**:  \nTom Clancy’s The Division, an online open-world shooter, was co-developed by Ubisoft Massive, Red Storm, and Ubisoft Annecy using the Snowdrop engine and released on 8 March 2016 after multiple delays. Its lifecycle was supported by free updates and three paid expansions—Underground, Survival, and Last Stand—whose staggered releases were interspersed with bug-fixing patches and gameplay tweaks. Post-launch content introduced new areas (Falcon Lost, West Side Pier), modes (Resistance, Skirmish, Global Events), and systems like Commendations, while a 2025 patch unlocked 60 fps on PlayStation 5. Critics praised the shared-world structure but criticized mission repetition and server issues at launch.\n\n**Keywords**:  \nSnowdrop engine, Dark Zone, paid expansions, post-launch updates, shared-world shooter",
+      "is_seed": false,
+      "expand_score": 0.8087340593338013
+    },
+    {
+      "community_key": "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "summary": "**Title**: Volvo C30 Overview 2006-2013  \n\n**Summary**:  \nThe Volvo C30 is a premium three-door hatchback produced from 2006-2013, sharing the Ford C1/Volvo P1 platform with the S40/V50/C70 family. Globally offered with 1.6–2.5 L petrol/diesel engines (including flex-fuel and Polestar-tuned T5), it came in trims such as SE, Kinetic, Momentum, Summum, and R-Design. Safety innovations—BLIS blind-spot monitoring, IIHS Top Safety Pick structure, WHIPS, and IDIS driver-distraction mitigation—were core marketing pillars. Audio options ranged from 4×20 W to 5×130 W Premium Sound with Dynaudio speakers and MP3/WMA/AUX/USB/iPod support. Concept cars (SCC 2001, SEMA/Essen 2006, ReCharge plug-in hybrid 2007) previewed production features and performance upgrades.  \n\n**Keywords**: Volvo C30, premium hatchback, safety technology, engine lineup, audio systems",
+      "is_seed": false,
+      "expand_score": 0.7942003607749939
+    },
+    {
+      "community_key": "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "summary": "**Title**: Bo Diddley’s Legacy  \n\n**Summary**:  \nBo Diddley (born Ellas Bates McDaniel) was a pioneering guitarist, singer, and songwriter who fused African rhythms with blues to create the signature “Bo Diddley beat,” a cornerstone of rock, pop, and hip-hop. After moving from Mississippi to Chicago, he absorbed sanctified church rhythms and street-corner blues, launching his career with the 1955 hit “Bo Diddley.” Known for his rectangular guitars and innovative use of tremolo and reverb, he recorded prolifically for Chess/Checker, toured internationally, and influenced artists from the Beatles to the Clash. Inducted into multiple Halls of Fame, he also produced early Marvin Gaye sessions and remained a crossover live favorite through the 1960s surf era.  \n\n**Keywords**: Bo Diddley beat, rock-and-roll pioneer, Chess Records, African rhythms, guitar innovator",
+      "is_seed": false,
+      "expand_score": 0.7874951362609863
+    },
+    {
+      "community_key": "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1",
+      "summary": "**Title**: D&D Immortals Rules Expansion  \n\n**Summary**:  \nThe 1986 Dungeons & Dragons Immortals Rules boxed set, written by Frank Mentzer, caps the BECM series by letting characters who have achieved immortality trade experience for power points, advance through ranks, and wield vast magic and combat abilities. It details the cosmology of the D&D multiverse—Astral, Prime Material, Ethereal, elemental, and outer planes—while providing rules for Immortals to craft personal planes, artifacts, and monsters. The set also gives Dungeon Masters guidance on running high-powered campaigns, sample plots, and statistics for formidable creatures. Reviewers praised it as the system’s culmination yet noted its play style diverges sharply from traditional low-level D&D.  \n\n**Keywords**:  \nImmortals, multiverse, power points, BECM series, high-level play",
+      "is_seed": false,
+      "expand_score": 0.7821067571640015
+    }
+  ],
+  "debug": {
+    "seed_community_keys": [
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "HotpotQA-validation-00000398/00_Snowdrop-game-engine.html_0",
+      "HotpotQA-validation-00000398/02_Id-Tech-5.html_2",
+      "HotpotQA-validation-00006708/01_The-Fader.html_0",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00003219/03_Hillside-Home-School-I.html_2",
+      "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "HotpotQA-validation-00005711/03_Loveleen-Tandan.html_1",
+      "HotpotQA-validation-00005121/02_Paramore-album.html_3",
+      "HotpotQA-validation-00002256/01_Patty-Jenkins.html_2",
+      "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_1"
+    ],
+    "expanded_community_keys": [
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_2",
+      "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1"
+    ],
+    "all_community_keys": [
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_6",
+      "HotpotQA-validation-00000398/00_Snowdrop-game-engine.html_0",
+      "HotpotQA-validation-00000398/02_Id-Tech-5.html_2",
+      "HotpotQA-validation-00006708/01_The-Fader.html_0",
+      "HotpotQA-validation-00001559/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00003219/03_Hillside-Home-School-I.html_2",
+      "HotpotQA-validation-00002164/01_John-Eric-Holmes.html_2",
+      "HotpotQA-validation-00005979/01_Bobby-Hurley.html_2",
+      "HotpotQA-validation-00005711/03_Loveleen-Tandan.html_1",
+      "HotpotQA-validation-00005121/02_Paramore-album.html_3",
+      "HotpotQA-validation-00002256/01_Patty-Jenkins.html_2",
+      "HotpotQA-validation-00004744/03_Go-Bo-Diddley.html_1",
+      "HotpotQA-validation-00002164/03_The-Keep-on-the-Borderlands.html_1",
+      "HotpotQA-validation-00001663/00_Volvo-V50.html_1",
+      "HotpotQA-validation-00006772/01_Richard-Hornsby-amp-Sons.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_9",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_8",
+      "HotpotQA-validation-00005979/02_Bob-Hurley.html_2",
+      "HotpotQA-validation-00004744/02_Bo-Diddley-1958-album.html_0",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_3",
+      "HotpotQA-validation-00005979/00_Dan-Hurley.html_1",
+      "HotpotQA-validation-00002164/00_Dungeons-amp-Dragons-Basic-Set.html_5",
+      "HotpotQA-validation-00001663/01_Volvo-S40.html_1",
+      "HotpotQA-validation-00007198/00_Nicolas-Cage.html_1",
+      "HotpotQA-validation-00000398/01_Tom-Clancys-The-Division.html_2",
+      "HotpotQA-validation-00001663/02_Volvo-C30.html_2",
+      "HotpotQA-validation-00004744/00_Bo-Diddley.html_13",
+      "HotpotQA-validation-00002164/02_Dungeons-amp-Dragons-Immortals-Rules.html_1"
+    ],
+    "allowed_chunk_pool_size": 92,
+    "es_index": "hotpot_300",
+    "es_community_index": "hotpot_300_communities",
+    "community_hops": 1,
+    "expand_limit": 30,
+    "expand_min_sim": 0.0
+  }
+}

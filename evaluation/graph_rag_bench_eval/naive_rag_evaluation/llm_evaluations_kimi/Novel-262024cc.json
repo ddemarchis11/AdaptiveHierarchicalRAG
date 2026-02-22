@@ -1,0 +1,12 @@
+{
+  "id": "Novel-262024cc",
+  "question": "During the scholarly controversy involving Grampus and Merman, which two figures wrote to Grampus regarding the dispute?",
+  "gold_answer": "Butzkopf and Dugong wrote to Grampus regarding the scholarly dispute.",
+  "llm_answer": "The two figures who wrote to Grampus regarding the dispute were **Butzkopf** and **Dugong**.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Butzkopf and Dugong as the two figures who wrote to Grampus regarding the scholarly dispute. This is consistent with the Gold Answer and fully supported by the Retrieved Context, which explicitly mentions both individuals and their contributions to the discussion."
+  }
+}

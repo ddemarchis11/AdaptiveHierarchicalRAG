@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002343",
+  "question": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+  "gold_answer": "Aden",
+  "llm_answer": "I cannot verify where the capital of the Arab country, in which the Aulacodes peribocalis moth is found, was relocated to.",
+  "context": [
+    {
+      "text": "Aulacodes peribocalis is a species of moth in the family Crambidae . It was described by Francis Walker in 1859. It is found in Yemen and India . References v t e",
+      "id": "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0"
+    },
+    {
+      "text": "Aulacodes templalis is a species of moth in the family Crambidae . It was described by Schaus in 1906. It is found in Brazil . References v t e",
+      "id": "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0"
+    },
+    {
+      "text": "amount of gold and jewels to Constantinople . Imam al-Mutawakkil Yahya Sharaf ad-Din ruled over the northern highlands including Sanaa, while Aden was held by the last Tahiride Sultan 'Amir ibn Dauod. Pasha stormed Aden in 1538, killing its ruler, and extended Ottoman authority to include Zabid in 1539 and eventually Tihamah in its entirety. Zabid became the administrative headquarters of Yemen Eyalet. The Ottoman governors did not exercise much control over the highlands. They held sway mainly in the southern coastal region, particularly around Zabid, Mocha, and Aden. Of 80,000 soldiers sent to Yemen from Egypt between 1539 and 1547, only 7,000 survived. The Ottoman accountant-general in Egypt remarked: We have seen no foundry like Yemen for our soldiers. Each time we have sent an expeditionary force there, it has melted away like salt dissolved in water. Ottoman soldiers and Yemeni locals The Ottomans sent yet another expeditionary force to Zabid in 1547, while Imam al-Mutawakkil Yahya Sharaf ad-Din was ruling the highlands independently. Yahya chose his son Ali to succeed him, a decision that infuriated his other son al-Mutahhar ibn Yahya. Al-Mutahhar was lame, so he was not qualified for the",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_20"
+    },
+    {
+      "text": "missionaries to India, where a significant Ismaili community was formed that exists to this day. Queen Arwa continued to rule securely until her death in 1138. She is still remembered as a great and much-loved sovereign, as attested in Yemeni historiography, literature, and popular lore, where she is referred to as Balqis al-sughra (\"the junior queen of Sheba\"). Shortly after Arwa's death, the country was split between five competing petty dynasties along religious lines. The Ayyubid dynasty overthrew the Fatimid Caliphate in Egypt. A few years after their rise to power, Saladin dispatched his brother Turan Shah to conquer Yemen in 1174. Ayyubid conquest (1171–1260) Turan Shah conquered Zabid from the Mahdids in 1174, then marched toward Aden in June and captured it from the Zurayids. The Hamdanid sultans of Sanaa resisted the Ayyubid in 1175, and the Ayyubids did not manage to secure Sanaa until 1189. The Ayyubid rule was stable in southern and central Yemen, where they succeeded in eliminating the ministates of that region, while Ismaili and Zaidi tribesmen continued to hold out in several fortresses. The Ayyubids failed to capture the Zaydis stronghold in northern Yemen. In",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_13"
+    },
+    {
+      "text": "the Rasulid dynasty The Rasulid dynasty was established in 1229 by Umar ibn Ali , who was appointed deputy governor by the Ayyubids in 1223. When the last Ayyubid ruler left Yemen in 1229, Umar stayed in the country as caretaker. He subsequently declared himself an independent king by assuming the title \"al-Malik Al-Mansur\" (the king assisted by Allah ). Umar first established himself at Zabid, then moved into the mountainous interior, taking the important highland centre Sanaa. However, the Rasulid capitals were Zabid and Taiz. He was assassinated by his nephew in 1249. Omar's son Yusuf defeated the faction led by his father's assassins and crushed several counterattacks by the Zaydi imams who still held on in the northern highland. Mainly because of the victories he scored over his rivals, he assumed the honorific title \"al-Muzaffar\" (the victorious). After the fall of Baghdad to the Mongols in 1258, al-Muzaffar Yusuf I appropriated the title of caliph . He chose the city of Taiz to become the political capital of the kingdom because of its strategic location and proximity to Aden. The Rasulid sultans built numerous Madrasas to solidify the Shafi'i school of thought, which is still the dominant school of",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_15"
+    },
+    {
+      "text": "Yemen , officially the Republic of Yemen , is a country in West Asia . Including the Socotra Archipelago , mainland Yemen is located in southern Arabia ; bordering Saudi Arabia to the north , Oman to the northeast , the south-eastern part of the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west, sharing maritime borders with Djibouti , Eritrea , and Somalia across the Horn of Africa . Covering roughly 455,503 square kilometres (175,871 square miles), with a coastline of approximately 2,000 kilometres (1,200 miles), Yemen is the second largest country on the Arabian Peninsula by area, and the largest by population. Sanaa is its constitutional capital and largest city. Yemen's estimated population is 34.7 million, mostly Arab Muslims , which is estimated to be greater than that of Saudi Arabia. It is a member of the Arab League , the United Nations , the Non-Aligned Movement and the Organisation of Islamic Cooperation . Owing to its geographic location, Yemen has been at the crossroads of many civilisations for over 7,000 years. The Sabaeans formed a thriving commercial kingdom that influenced parts of modern Ethiopia and Eritrea. In 275 AD, it was succeeded by the Himyarite Kingdom , which spanned much of Yemen's present-day territory and was heavily influenced by Judaism. Christianity arrived in the fourth century, followed by the rapid",
+      "id": "HotpotQA-validation-00002343/01_Yemen.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- The Aulacodes peribocalis moth is found in Yemen (Novel-00002343_c_0).\n- Yemen is a country in West Asia (Novel-00002343_c_0).\n- Sanaa is the constitutional capital of Yemen (Novel-00002343_c_49).\n- Yemen is divided into 21 governorates (Novel-00002343_c_49).\n- The capital of the Arab country, in which the Aulacodes peribocalis moth is found, is Sanaa (Novel-00002343_c_0, Novel-00002343_c_49).\n- The question asks for the relocation of the capital of the Arab country, in which the Aulacodes peribocalis moth is found (Novel-00002343_c_0, Novel-00002343_c_49).\n- The capital of the Arab country, in which the Aulacodes peribocalis moth is found, is Sanaa (Novel-00002343_c_0, Novel-00002343_c_49).\n- The question asks for the relocation of the capital of the Arab country, in which the Aulacodes peribocalis moth is found (Novel-00002343_c_0, Novel-00002343_c_49).\n- Sanaa was the administrative capital of Yemen Vilayet under the Ottomans (Novel-00002343_c_25).\n- The Ottomans conquered the northern highlands by 1873 (Novel-00002343_c_25).\n- The Ottomans introduced reforms to enhance the country's economic welfare (Novel-00002343_c_25).\n- The Ottomans appeased the tribes by forgiving their rebellious chiefs and appointing them to administrative posts (Novel-00002343_c_25).\n- The Ottomans conquered the northern highlands by 1873 (Novel-00002343_c_25).\n- Sanaa became the administrative capital of Yemen Vilayet (Novel-00002343_c_25).\n- The Ottomans introduced reforms to enhance the country's economic welfare (Novel-00002343_c_25).\n- The Ottomans appeased the tribes by forgiving their rebellious chiefs and appointing them to administrative posts (Novel-00002343_c_25).\n- The capital of the Arab country, in which the Aulacodes peribocalis moth is found, is Sanaa (Novel-00002343_c_0, Novel-00002343_c_49).\n- The question asks for the relocation of the capital of the Arab country, in which the Aulacodes peribocalis moth is found (Novel-00002343_c_0, Novel-00002343_c_49).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Where was the capital of the Arab country, in which the Aulacodes peribocalis moth is found, relocated to?",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/00_Aulacodes-peribocalis.html_c_0",
+        "HotpotQA-validation-00002343/03_Aulacodes-templalis.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_61",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "Where was Sanaa relocated to in Yemen?",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/01_Yemen.html_c_13",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_63",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_6",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_25"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "When did Sanaa become the administrative capital of Yemen Vilayet?",
+      "doc_ids": [
+        "HotpotQA-validation-00002343/01_Yemen.html_c_25",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_49",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_20",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_15",
+        "HotpotQA-validation-00002343/01_Yemen.html_c_0"
+      ]
+    }
+  ]
+}

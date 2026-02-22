@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000949",
+  "question": "At which English country estate, now managed by a major heritage conservation charity, does a regional chamber orchestra based in the northwest regularly perform?",
+  "gold_answer": "Tatton Park",
+  "llm_answer": "The Northern Chamber Orchestra regularly performs at Tatton Park, a historic estate in Cheshire, England, which is managed by the National Trust.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Tatton Park as the English country estate where the Northern Chamber Orchestra regularly performs, aligning with the Gold Answer. It also provides additional relevant details, such as the estate's location in Cheshire and its management by the National Trust, which are supported by the Retrieved Context."
+  }
+}

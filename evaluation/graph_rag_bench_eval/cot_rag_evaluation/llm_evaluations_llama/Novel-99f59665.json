@@ -1,0 +1,12 @@
+{
+  "id": "Novel-99f59665",
+  "question": "How are the padres' actions with the lasso ultimately linked to their mission?",
+  "gold_answer": "The padres used a lasso, which caught a heathen; the heathen fled from the padres, who had a mission.",
+  "llm_answer": "Based on the provided evidence, the padres' actions with the lasso are ultimately linked to their mission as follows:\n\nThe padres use the lasso to catch and convert heathen people, which is a part of their mission to save souls. They pursue the heathen with cavalry soldiers and use the lasso to catch them around the neck, forcing them to remain. This is done to convert them and save their souls, which is the padres' primary goal. However, as Enriquez explains, the lasso can sometimes be used by the devil to punish the padres, as seen in the story of the young girl who was actually the devil and dragged the padre with her.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly explains how the padres' use of the lasso is linked to their mission of converting heathens and saving souls, as described in the context. It also includes additional details about the consequences of using the lasso, such as the story of the devil punishing the padre, which is supported by the retrieved context. All key facts from the Gold Answer are covered, and the response is faithful to the context."
+  }
+}

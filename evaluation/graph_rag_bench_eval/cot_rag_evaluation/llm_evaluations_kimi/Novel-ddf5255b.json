@@ -1,0 +1,12 @@
+{
+  "id": "Novel-ddf5255b",
+  "question": "How did Papineau's actions during the period leading up to and following the Ninety-Two Resolutions affect his relationship with John Neilson, including Neilson's opposition to the resolutions, his eventual break with Papineau, and his alignment with Augustin Cuvillier?",
+  "gold_answer": "Papineau's actions alienated John Neilson, who opposed the Ninety-Two Resolutions and broke with Papineau, following the lead of Augustin Cuvillier.",
+  "llm_answer": "Papineau’s conduct before and after the Ninety-Two Resolutions turned John Neilson from ally to opponent.  \nUnder Aylmer, Papineau’s “domineering behaviour and the revolutionary trend of his views” produced a “coolness” between the two men. Neilson objected to the expulsion of Mondelet, opposed Bourdages’s resolutions to abolish the Legislative Council, and publicly rebuked Papineau during the debate on Quesnel’s judicial-independence bill. When the Ninety-Two Resolutions came to a vote, Neilson, together with Augustin Cuvillier, F. A. Quesnel, and Andrew Stuart, voted in the minority and “definitely broke away from Papineau’s party.” In the ensuing general election all who had opposed the Resolutions, including Neilson and Cuvillier, “suffered defeat at the polls,” confirming the finality of the rupture.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately captures the essence of the Gold Answer, detailing how Papineau's actions alienated Neilson, leading to his opposition to the Ninety-Two Resolutions, his break with Papineau, and alignment with Cuvillier. It provides additional context and examples, such as Neilson's objections and the election results, all of which are supported by the Retrieved Context. The answer is correct, faithful, and covers all key facts from the Gold Answer."
+  }
+}

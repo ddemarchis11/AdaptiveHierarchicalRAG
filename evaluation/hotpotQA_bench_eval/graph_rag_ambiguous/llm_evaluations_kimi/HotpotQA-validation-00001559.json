@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001559",
+  "question": "In what other film did the male lead of a romantic comedy about a Brooklyn widow in her late thirties also appear during the same year that film was released?",
+  "gold_answer": "Red Rock West",
+  "llm_answer": "The context does not provide information about any other film the male lead of *Moonstruck* (Nicolas Cage) appeared in during 1987.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly states that the retrieved context does not provide information about Nicolas Cage's other films in 1987, but it fails to answer the question using external knowledge or internal reasoning. The Gold Answer, 'Red Rock West,' is not mentioned or addressed, leading to a score of 0 for correctness and evidence coverage."
+  }
+}

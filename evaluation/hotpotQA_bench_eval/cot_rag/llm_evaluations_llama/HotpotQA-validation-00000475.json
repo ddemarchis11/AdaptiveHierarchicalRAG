@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000475",
+  "question": "Which American cable news and talk radio host was the former GOP representative",
+  "gold_answer": "Charles Joseph",
+  "llm_answer": "The American cable news and talk radio host who was the former GOP representative is Joe Scarborough.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies Joe Scarborough as the American cable news and talk radio host who was a former GOP representative, which is supported by the retrieved context. However, the Gold Answer specifies 'Charles Joseph,' which is not addressed or matched in the Model Answer, leading to a lack of evidence coverage."
+  }
+}

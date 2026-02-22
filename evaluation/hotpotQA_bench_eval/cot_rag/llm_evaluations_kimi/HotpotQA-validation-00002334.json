@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002334",
+  "question": "Are Sunset Strip and American Hardcore both music documentaries?",
+  "gold_answer": "no",
+  "llm_answer": "Yes.  \nSunset Strip is described as a documentary featuring music figures and performances, and American Hardcore is explicitly labeled a 2006 documentary film about hardcore punk rock.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer incorrectly states 'Yes,' which contradicts the Gold Answer ('No'). While the context confirms that 'American Hardcore' is a music documentary, the retrieved context does not support 'Sunset Strip' being a music documentary. The Model Answer is faithful to the context but fails to align with the Gold Answer and misses the key fact that 'Sunset Strip' is not a music documentary."
+  }
+}

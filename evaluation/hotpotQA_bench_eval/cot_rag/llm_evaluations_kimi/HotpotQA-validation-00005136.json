@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005136",
+  "question": "Which \"Blackzilians\" fighter is currently competing in the Middleweight division of Ultimate Fighting Championship?",
+  "gold_answer": "Vitor Belfort",
+  "llm_answer": "The evidence does not specify which Blackzilians fighter is currently competing in the UFC Middleweight division.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the fighter, which is incorrect as the Gold Answer clearly identifies Vitor Belfort as the Blackzilians fighter currently competing in the UFC Middleweight division. The retrieved context does not contradict the Model Answer, but it fails to address the Gold Answer or provide the correct information."
+  }
+}

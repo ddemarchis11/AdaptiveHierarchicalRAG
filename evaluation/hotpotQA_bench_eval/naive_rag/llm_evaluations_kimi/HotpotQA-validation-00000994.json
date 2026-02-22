@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000994",
+  "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+  "gold_answer": "great-grandfather",
+  "llm_answer": "Christian Yelich was the 23rd overall pick in the 2010 Major League Baseball Draft. The provided evidence does not mention any relationship between Fred Gehrke and Christian Yelich. Therefore, the evidence is insufficient to determine any relationship between Fred Gehrke and the 23rd overall pick in the 2010 MLB Draft.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies Christian Yelich as the 23rd overall pick in the 2010 MLB Draft based on the retrieved context but fails to address the relationship between Fred Gehrke and Yelich, which is explicitly stated in the Gold Answer as 'great-grandfather.' The retrieved context does not provide information about this relationship, so the model's response is faithful to the context but does not answer the question correctly or cover the key fact from the Gold Answer."
+  }
+}

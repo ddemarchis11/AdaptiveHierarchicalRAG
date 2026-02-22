@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000641",
+  "question": "What is the full birth name of the English entertainer — known for his work across comedy, music, and stage — who appears in a production whose title is an idiomatic expression for two contrasting things?",
+  "gold_answer": "Michael Patrick Smith",
+  "llm_answer": "The context does not identify any English entertainer whose full birth name is given and who appears in a production whose title is an idiomatic expression for two contrasting things.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The model answer correctly states that the retrieved context does not provide information about the English entertainer with the specified birth name or production title. However, it fails to answer the question directly, which is asking for the full birth name of Michael Patrick Smith. The retrieved context does not contain relevant information to support the Gold Answer, so the model's response is faithful to the context but does not address the question or include the required facts."
+  }
+}

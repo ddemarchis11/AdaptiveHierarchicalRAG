@@ -1,0 +1,12 @@
+{
+  "id": "Novel-aba4e30c",
+  "question": "When Heywood interacted with Rudolph during the tense events at the nunnery, how did Heywood treat Rudolph, and what name was Heywood called by in the narrative?",
+  "gold_answer": "Heywood scoffed at Rudolph, and Heywood was called Maurice.",
+  "llm_answer": "During the tense events at the nunnery, Heywood treated Rudolph with a mix of concern, understanding, and teasing. He seemed to be trying to boost Rudolph's confidence and morale, while also acknowledging Rudolph's anxiety and frustration.\n\nHeywood was called \"Maurice\" by Mrs. Forrester, but in the narrative, he was also referred to as \"Heywood\" and \"Rudie's friend\" or simply \"Heywood\" by the narrator.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially captures the Gold Answer but diverges in tone and focus. While the Gold Answer states that Heywood scoffed at Rudolph and was called Maurice, the Model Answer emphasizes Heywood's concern and teasing, which is not explicitly supported by the retrieved context. Additionally, the Model Answer introduces unsupported claims about Heywood being referred to as 'Rudie's friend,' which is not grounded in the context. The name 'Maurice' is correctly mentioned, but the treatment of Rudolph is inaccurately described, leading to partial correctness and faithfulness."
+  }
+}

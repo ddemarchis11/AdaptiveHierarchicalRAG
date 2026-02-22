@@ -1,0 +1,12 @@
+{
+  "id": "Novel-704f3842",
+  "question": "During the events involving the city's upheaval, who aided the Berbers according to the account provided in the narrative?",
+  "gold_answer": "The canaille aided the Berbers.",
+  "llm_answer": "According to the provided evidence, the Berbers were aided by the Shelouhs in their actions against the Jews and Moors during the city's upheaval.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer states that the 'canaille' aided the Berbers, which is directly supported by the Retrieved Context. The Model Answer incorrectly claims that the Shelouhs aided the Berbers, which is not mentioned or supported by the context. This makes the Model Answer incorrect, unfaithful to the context, and missing the key factual point."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001275",
+  "question": "Between the frontman of an American extreme metal band active since the 2000s and the co-founder of a seminal British psychedelic rock group who suffered a mental health breakdown, which artist is credited with a broader range of roles and activities?",
+  "gold_answer": "Gregory John \"Greg\" Puciato",
+  "llm_answer": "The frontman of an American extreme metal band active since the 2000s, Gregory John Puciato, is credited with a broader range of roles and activities, including being a solo artist, fronting multiple bands, and co-founding an art collective and record label.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer correctly identifies Gregory John Puciato as the artist with a broader range of roles and activities, aligning with the Gold Answer. However, the Retrieved Context does not provide any information about Puciato or his activities, making the answer ungrounded and unsupported by the context. Additionally, the Model Answer does not cover any specific facts or entities from the Gold Answer, as the Gold Answer itself is concise and lacks detailed evidence."
+  }
+}

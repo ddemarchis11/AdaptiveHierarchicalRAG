@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000193",
+  "question": "In which city are the headquarters of the American research and scientific development company where Ravi Sethi worked as computer scientist located?",
+  "gold_answer": "Murray Hill",
+  "llm_answer": "Murray Hill, New Jersey",
+  "context": [
+    {
+      "text": "Ravi Sethi (born 1947) is an Indian computer scientist retired from executive roles at Bell Labs and Avaya Labs . He also serves as a member of the National Science Foundation 's Computer and Information Science and Engineering (CISE) Advisory Committee. He is best known as one of four authors of the classic computer science textbook Compilers: Principles, Techniques, and Tools , also known as the Dragon Book . He also authored Software Engineering: Basic Principles and Best Practices and Programming Languages: Concepts & Constructs (1989, 1996) textbooks. Sethi was born in 1947 in Murdana, Punjab . He attended the Indian Institute of Technology, Kanpur (IITK) and went on to obtain a Ph.D. at Princeton University . He worked as an assistant professor at Penn State University , before joining Bell Labs in 1976. While working for Bell Labs he was awarded the \"Distinguished Technical Staff award\", and in 1996 he was named a Fellow of the Association for Computing Machinery . Also in 1996 he was named research vice president in charge of computing and mathematical sciences and, additionally, in 1997, chief technical officer for Lucent ’s Communications Software Group. In 2014, Sethi left senior executive positions at Avaya Labs and Bell Labs and returned to academia to join the department of computer science at the University of Arizona . References External links Home page (University of Arizona) Autobiographical note at Avaya website",
+      "id": "HotpotQA-validation-00000193/00_Ravi-Sethi.html_c_0"
+    },
+    {
+      "text": "Nokia Bell Labs , commonly referred to as Bell Labs , is an American industrial research and development company owned by the Finnish technology company Nokia . With headquarters located in Murray Hill, New Jersey , the company operates several laboratories in the United States and around the world. As a former subsidiary of the American Telephone and Telegraph Company (AT&T), Bell Labs and its researchers have been credited with the development of radio astronomy , the transistor , the laser , the photovoltaic cell , the charge-coupled device (CCD), information theory , the Unix operating system, and the programming languages B , C , C++ , S , SNOBOL , AWK , AMPL , and others, throughout the 20th century. Eleven Nobel Prizes and five Turing Awards have been awarded for work completed at Bell Laboratories. Bell Labs had its origin in the complex corporate organization of the Bell System telephone conglomerate. The laboratory began operating in the late 19th century as the Western Electric Engineering Department, located at 463 West Street in New York City. After years of advancing telecommunication innovations, the department was reformed into Bell Telephone Laboratories in 1925 and placed under the shared ownership of Western Electric and the American Telephone and Telegraph Company. In the 1960s, laboratory and company headquarters were moved to Murray Hill, New Jersey. Its alumni during this time include a plethora of world-renowned scientists and engineers. With the breakup of the Bell System , Bell Labs became a subsidiary of",
+      "id": "HotpotQA-validation-00000193/01_Bell-Labs.html_c_0"
+    },
+    {
+      "text": "additional building in 2000s. During Alcatel-Lucent consolidation to Indian Hill location, the buildings were placed for sale and sold to Navistar in 2010. ) Short Hills (HL) – 101–103 JFK Parkway, Short Hills, NJ (Various departments such as Accounts Payable, IT Purchasing, HR Personnel, Payroll, Telecom, and the Government group, and Unix Administration Systems Computer Center. Buildings exist without the overhead walkway between the two buildings and two different companies are located from banking and business analytics.) Summit (SF) – 190 River Road, Summit, NJ (building was part of the UNIX Software Operations and became UNIX System Laboratories, Inc. In December 1991, USL combined with Novell. Location is a banking company.) West St ( ) – 463 West Street, New York, NY (built 1898, 1925 until December 1966 as Bell Labs headquarters, experimental talking movies, wave nature of matter, radar) Whippany (WH) – 67 Whippany Road, Whippany, NJ (built 1920s, demolished and portion building as Bayer, performed military research and development, research and development in radar, in guidance for the Nike missile , and in underwater sound, Telstar 1 , wireless technologies) List of Bell Labs (1974) Bell Lab's 1974 corporate directory listed 22 labs in the United States, located in: Allentown –",
+      "id": "HotpotQA-validation-00000193/01_Bell-Labs.html_c_11"
+    },
+    {
+      "text": "cover, and is informally known as the purple dragon . Monica S. Lam of Stanford University became a co-author with this edition. The second edition includes several additional topics, including: Directed translation New data flow analyses Parallel machines Garbage collection New case studies Updated second edition In order to cover recent developments and issues, there is an updated second edition from Pearson Education India (4 July 2023), with contributions from Sorav Bansal. This revised and updated edition has new chapters on programming language semantics and undefined behaviour semantics. See also Structure and Interpretation of Computer Programs References Further reading Aho, Alfred Vaino ; Lam, Monica Sin-Ling ; Sethi, Ravi ; Ullman, Jeffrey David (2006). Compilers: Principles, Techniques, and Tools (2 ed.). Boston, Massachusetts, US: Addison-Wesley . ISBN 0-321-48681-1 . OCLC 70775643 .  External links Book Website at Stanford with link to Errata",
+      "id": "HotpotQA-validation-00000193/02_Compilers-Principles-Techniques-and-Tools.html_c_1"
+    },
+    {
+      "text": "the corner of 5th and Flower Streets, the site of Richfield's former headquarters . Upon completion in 1972, the ARCO Plaza towers were the tallest buildings in the city for one year before being overtaken by Aon Center , and were the tallest twin towers in the world until the completion of the World Trade Center in New York City . In 1986, joint owners ARCO and Bank of America sold the buildings to Shuwa Investments Corp., the American subsidiary of Shuwa Co. of Tokyo, for $650 million while both remained tenants in their respective named towers. ARCO moved out of the building in 1999. The building was renamed City National Plaza in 2005. ARCO's Oil & Gas division headquarters were in downtown Dallas, Texas . ARCO Tower , the company's headquarters, was a 46-story office building designed by architect I.M. Pei . The building is now called Energy Plaza . Research Laboratory From the 1960s, until the end of the twentieth century, ARCO operated a highly significant research and development center in Plano, Texas, on land purchased in 1964 by the Atlantic Refinery Company. Its golden age was arguably in the early to mid 1980s, when it was led by Robert L. Hirsch . A standout example of ARCO's research at that time was the pioneering study on 4D seismic surveying by Robert Greaves and Terry Fulp. This consisted of",
+      "id": "HotpotQA-validation-00005554/03_ARCO.html_c_5"
+    }
+  ],
+  "cot_scratchpad": "- Ravi Sethi worked at Bell Labs (HotpotQA-validation-00000193/00_Ravi-Sethi.html_c_0)\n- Bell Labs is an American R&D company with headquarters in Murray Hill, New Jersey (HotpotQA-validation-00000193/01_Bell-Labs.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In which city are the headquarters of the American research and scientific development company where Ravi Sethi worked as computer scientist located?",
+      "doc_ids": [
+        "HotpotQA-validation-00000193/00_Ravi-Sethi.html_c_0",
+        "HotpotQA-validation-00000193/01_Bell-Labs.html_c_0",
+        "HotpotQA-validation-00000193/01_Bell-Labs.html_c_11",
+        "HotpotQA-validation-00000193/02_Compilers-Principles-Techniques-and-Tools.html_c_1",
+        "HotpotQA-validation-00005554/03_ARCO.html_c_5"
+      ]
+    }
+  ]
+}

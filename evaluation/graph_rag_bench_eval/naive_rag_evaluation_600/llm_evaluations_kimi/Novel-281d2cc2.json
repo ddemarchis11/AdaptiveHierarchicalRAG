@@ -1,0 +1,12 @@
+{
+  "id": "Novel-281d2cc2",
+  "question": "What is the link between Bode’s translation activity and the acceptance of the 'Koran' in Germany?",
+  "gold_answer": "Bode translated the 'Koran', which was accepted as genuine in Germany.",
+  "llm_answer": "Bode’s translation activity helped establish the authority and credibility of the *Koran* in Germany. His translation of Sterne’s work, including the *Koran*, was accepted as a genuine product of Sterne’s genius by German critics and journals. This acceptance was reinforced by Bode’s reputation and the endorsement of figures like Lessing, which contributed to the *Koran* being treated with praise and integrated into Sterne’s body of work without significant scrutiny of its authenticity.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the link between Bode's translation activity and the acceptance of the 'Koran' in Germany, emphasizing its credibility and integration into Sterne's body of work. It expands on the Gold Answer by providing additional context about Bode's reputation and the endorsement by figures like Lessing, which is supported by the retrieved context. All key facts from the Gold Answer are included, and the additional details are relevant and grounded in the context."
+  }
+}

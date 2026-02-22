@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003219",
+  "question": "Matt McKenzie had a role on the television show that focused on the lives of teenage friends from what Wisconsin town?",
+  "gold_answer": "Point Place",
+  "llm_answer": "Point Place, Wisconsin",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Point Place, Wisconsin as the fictional town where the television show focused on the lives of teenage friends. This is consistent with the Gold Answer and fully supported by the Retrieved Context."
+  }
+}

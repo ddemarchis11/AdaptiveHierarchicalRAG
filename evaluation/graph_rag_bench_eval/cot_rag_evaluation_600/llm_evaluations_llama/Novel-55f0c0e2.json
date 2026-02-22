@@ -1,0 +1,12 @@
+{
+  "id": "Novel-55f0c0e2",
+  "question": "What incident in the narrative demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order?",
+  "gold_answer": "The Duke of York sent an order to Samuel Pepys.",
+  "llm_answer": "The incident in the narrative that demonstrates Samuel Pepys's professional responsibilities, specifically when the Duke of York sent him an official order, is as follows:\n\nOn the 25th, Pepys mentions that he went to Westminster about several businesses, then to dine with his Lady at the Wardrobe, taking Dean Fuller along with him. After that, he heard that his father had been to find him about special business, so he took a coach and went to his father. There, he found a letter to his father from his aunt that his uncle Robert is taken with a dizziness in his head, so that they desire his father to come down to look after his business.\n\nHowever, the specific incident where the Duke of York sent him an official order is mentioned on the 24th (Midsummer-day). Pepys mentions that he went to Whitehall, where he met with the Duke of York, according to an order sent to him yesterday from the Duke, to give him an account where the fault lay in the not sending out of the ships, which they find to be only the wind hath been against them, and so they could not get out of the river.\n\nThis incident demonstrates Pepys's professional responsibilities as a naval administrator, as he is required to report to the Duke of York and provide an explanation for the delay in sending out the ships.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the incident where Samuel Pepys met with the Duke of York at Whitehall to provide an account of the delay in sending out ships, as per the Duke's order. This aligns with the Gold Answer and is supported by the retrieved context. The Model Answer provides additional relevant details about Pepys's professional responsibilities, which are grounded in the context and enhance the understanding of the narrative."
+  }
+}

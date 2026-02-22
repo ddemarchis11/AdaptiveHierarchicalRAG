@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000580",
+  "question": "My Secret Hotel is a television series starring a South Korean DJ who rose to fame as the lead actress in what?",
+  "gold_answer": "Queen In-hyun's Man",
+  "llm_answer": "Yoo In-na rose to fame as the lead actress in the Queen and I (2012) and My Secret Hotel (2014).",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Yoo In-na as rising to fame as the lead actress in 'Queen and I' (2012), which is consistent with the context. However, the Gold Answer specifies 'Queen In-hyun's Man,' which is the alternate title of 'Queen and I,' and the Model Answer does not explicitly use this title. While the context supports the claim, the Model Answer misses the exact phrasing of the Gold Answer and adds 'My Secret Hotel,' which is not mentioned in the Gold Answer but is supported by the context."
+  }
+}

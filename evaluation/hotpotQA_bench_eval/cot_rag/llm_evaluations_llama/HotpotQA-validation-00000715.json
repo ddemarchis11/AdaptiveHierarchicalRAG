@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000715",
+  "question": "Into Dust is a song by the alternative rock band formed in which city?",
+  "gold_answer": "Santa Monica, California",
+  "llm_answer": "The alternative rock band that formed the song \"Into Dust\" is Mazzy Star, and they were formed in Santa Monica, California.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mazzy Star as the band behind 'Into Dust' and states that they were formed in Santa Monica, California, which aligns with the Gold Answer and is supported by the Retrieved Context."
+  }
+}

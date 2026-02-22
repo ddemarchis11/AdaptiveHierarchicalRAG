@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00003966",
+  "question": "What current NHL team owner played for the team that won the Stanley cup in 1992?",
+  "gold_answer": "Mario Lemieux",
+  "llm_answer": "The current NHL team owner who played for the team that won the Stanley Cup in 1992 is Mario Lemieux.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies Mario Lemieux as the current NHL team owner who played for the team that won the Stanley Cup in 1992. This is consistent with the retrieved context, which mentions Lemieux's role as captain of the 1992 Pittsburgh Penguins and his later ownership of the team. The answer is concise and includes all necessary facts from the Gold Answer."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-459e0a03",
+  "question": "Throughout the play 'Dandy Dick', by what other names is THE DEAN, who is also referred to as Augustin and Gus, known by the characters?",
+  "gold_answer": "THE DEAN is also known as Augustin and Gus.",
+  "llm_answer": "The DEAN is also known by the names Augustin, Gus, and Sir Tristram Mardon's father, but most notably, he is also referred to as the \"Sporting Dean\".",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies 'Augustin' and 'Gus' as names for THE DEAN, aligning with the Gold Answer. However, the claim that THE DEAN is referred to as 'Sir Tristram Mardon's father' and 'Sporting Dean' is unsupported by the retrieved context. The context does not confirm these additional names, making the answer partially correct and unfaithful to the provided evidence."
+  }
+}

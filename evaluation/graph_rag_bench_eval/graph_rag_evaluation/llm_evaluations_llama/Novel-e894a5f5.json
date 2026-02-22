@@ -1,0 +1,12 @@
+{
+  "id": "Novel-e894a5f5",
+  "question": "In the travel narrative 'An Unsentimental Journey through Cornwall', how is the Devil's Frying-pan geographically related to the village of Cadgwith?",
+  "gold_answer": "The Devil's Frying-pan is near Cadgwith.",
+  "llm_answer": "The text does not provide information about the Devil's Frying-pan's geographical relation to Cadgwith. However, it does mention the Devil's Throat at Kynance, and the cleric friend of Kynance mentions that his girls are walking to Cadgwith.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer does not address the question about the geographical relation of the Devil's Frying-pan to Cadgwith, instead discussing unrelated details about the Devil's Throat at Kynance and a walk to Cadgwith. While the answer is faithful to the retrieved context, it fails to provide the correct information or cover the key fact from the Gold Answer."
+  }
+}

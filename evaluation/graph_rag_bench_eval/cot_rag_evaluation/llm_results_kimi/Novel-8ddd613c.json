@@ -1,0 +1,42 @@
+{
+  "id": "Novel-8ddd613c",
+  "question": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+  "gold_answer": "Derem is the native name for Mount Atlas, and Dyris is the ancient name for Mount Atlas.",
+  "llm_answer": "Mount Atlas has been known historically as “Dyris” by the ancient aborigines and as “Derem” by the modern aborigines.",
+  "context": [
+    {
+      "text": "speaks of ostriches in Mesopotamia being run down by fleet horses. [17] Mount Atlas was called Dyris by the ancient aborigines, or Derem, its name amongst the modern aborigines. This word has been compared to the Hebrew, signifying the place or aspect of the sun at noon-day, as if Mount Atlas was the back of the world, or the cultivated parts of the globe, and over which the sun was seen at full noon, in all his fierce and glorious splendour. Bochart connects the term with the Hebrew meaning 'great' or 'mighty,' which epithet would be naturally applied to the Atlas, and all mountains, by either a savage or civilized people. We have, also, on the northern coast, Russadirum, the name given by the Moors to Cape Bon, which is evidently a compound of _Ras_, head, and _dirum_, mountain, or the head of the mountain. We have again the root of this word in Doa-el-Hamman, Tibet Deera, &c., the names of separate chains of the mighty Atlas. Any way, the modern Der-en is seen to be the same with the ancient Dir-is. [18] The only way of obtaining any information at all, is through the registers of taxation; and, to the despotism and exactions of these and most governments, we owe a knowledge of the proximate amount of the numbers of",
+      "id": "Novel-10356_c_259"
+    },
+    {
+      "text": "intermediary mountains seem to connect with one another the secondary chains which intersect the territories of Algiers and Tunis. Geographers call Little Atlas the secondary mountains of the land of Sous, in opposition to the name of Great Atlas, they give to the high mountains of the Empire of Morocco. In that part of the principal chain called Mount Gharian, in the south of Tripoli, several low branches branch off and under the names of Mounts Maray, Black Mount Haroudje, Mount Liberty, Mount Tiggerandoumma and others less known, furrow the great solitudes of the Desert of Lybia and Sahara Proper. From observations made on the spot by Mr. Bruguiere in the former state of Algiers, the great chain which several geographers traced beyond the Little Atlas under the name of Great Atlas does not exist. The inhabitants of Mediah who were questioned on the subject by this traveller, told him positively, that the way from that town to the Sahara was through a ground more or less elevated, and <DW72>s more or less steep, and without having any chain of mountains to cross. The Pass of Teniah which leads from Algiers to Mediah is, therefore, included in the principal chain of that part of the Regency. [16] Xenophon, in his Anabasis, speaks of ostriches in Mesopotamia being run down by fleet horses. [17] Mount Atlas was called Dyris by the ancient",
+      "id": "Novel-10356_c_258"
+    },
+    {
+      "text": "according to tradition, African, one of the most ancient, for having come with Afrikio. \"Ben Kis Ben Taifi Ben Teba, the younger, who came from the king of the Assyrians, to the land of the west. \"None of these primitive tribes appear to have been known to the Romans, their historians, however, have transmitted to us many names of other aboriginal tribes, some of which resemble fractions now existing, as the Getules are probably the present Geudala or Geuzoula. But the present Berbers do not correspond with the names of the five original people just mentioned. In Morocco, there are Amayeegh and Shelouh, in Algeria the Kabyles, in Tunis the Aoures, sometimes the Shouwiah, and in Sahara the Touarichs. There are, besides, numerous subdivisions and admixtures of these tribes.\" [15] Monsieur Balbi is decidedly the most recent, as well as the best authority to apply to for a short and definite description of this most celebrated mountain system, called by him \"Systeme Atlantique,\" and I shall therefore annex what he says on this interesting subject, \"Orographie.\" He says--\"Of the 'Systeme Atlantique,' which derives its name from the Mount Atlas, renowned for so many centuries, and still so little known; we include in this vast system, all the heights of the region of",
+      "id": "Novel-10356_c_256"
+    },
+    {
+      "text": "Morocco.--The tyraufc Yezeed, (half Irish).--Muley Suleiman, the \"The Shereeff of Shereefs.\"--Diplomatic relations of the Emperor of Morocco with European Powers.--Muley Ismael enamoured with the French Princess de Conti.--Rival diplomacy of France and England near the Maroquine Court.--Mr. Hay's correspondence with this Court on the Slave-trade.--Treaties between Great Britain and Morocco; how defective and requiring amendment.--Unwritten engagements. CHAPTER III. The two different aspects by which the strength and resources of the Empire of Morocco may be viewed or estimated.--Native appellation of Morocco.--Geographical limits of this country.--Historical review of the inhabitants of North Africa, and the manner in which this region was successively peopled and conquered.--The distinct varieties of the human race, as found in Morocco.--Nature of the soil and climate of this country.--Derem, or the Atlas chain of mountains.--Natural products.--The Shebbel, or Barbary salmon; different characters of exports of the Northern and Southern provinces.--The Elaeonderron Argan.--Various trees and plants.--Mines.--The Sherb-Errech, or Desert-horse. CHAPTER IV. Division of Morocco into kingdoms or States, and zones or regions.-- Description of the towns and cities on the Maroquine coasts of the Mediterranean and Atlantic waters.--The Zafarine",
+      "id": "Novel-10356_c_1"
+    },
+    {
+      "text": "the Mount Atlas, renowned for so many centuries, and still so little known; we include in this vast system, all the heights of the region of Maghreb--we mean the mountain of the Barbary States--as well as the elevations scattered in the immense Sahara or Desert. It appears that the most important ridge extends from the neighbourhood of Cape Noun, or the Atlantic, as far as the east of the Great Syrte in the State of Tripoli. In this vast space it crosses the new State of Sidi-Hesdham, the Empire of Morocco, the former State of Algiers, as well as the State of Tripoli and the Regency of Tunis. It is in the Empire of Morocco, and especially in the east of the town of Morocco, and in the south-east of Fez, that that ridge presents the greatest heights of the whole system. It goes on diminishing afterwards in height as it extends towards the east, so that it appears the summits of the territory of Algiers are higher than those on the territory of Tunis, and the latter are less high than those to be found in the State of Tripoli. Several secondary ridges diverge in different directions from the principal chain; we shall name among them the one which ends at the Strait of Gibraltar in the Empire of Morocco. Several intermediary mountains seem to connect with one another the secondary chains which intersect the territories of Algiers and Tunis. Geographers call Little Atlas the secondary mountains of",
+      "id": "Novel-10356_c_257"
+    }
+  ],
+  "cot_scratchpad": "- Mount Atlas called Dyris by ancient aborigines (Novel-10356_c_259).\n- Modern native name given as Derem (Novel-10356_c_259).\n- No other historical or native names mentioned in corpus.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In the context of the novel's discussion of Mount Atlas, what are some of the historical and native names by which Mount Atlas has been known, such as 'Derem' and 'Dyris'?",
+      "doc_ids": [
+        "Novel-10356_c_259",
+        "Novel-10356_c_258",
+        "Novel-10356_c_256",
+        "Novel-10356_c_1",
+        "Novel-10356_c_257"
+      ]
+    }
+  ]
+}

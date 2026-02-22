@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002712",
+  "question": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+  "gold_answer": "265 million",
+  "llm_answer": "The company that created the Data Universal Numbering System has a database that contains over 300 million business records.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the database contains over 300 million business records, which is supported by the Retrieved Context. However, this contradicts the Gold Answer, which specifies 265 million business records. The Model Answer is faithful to the context but does not align with the Gold Answer, missing the specific fact required."
+  }
+}

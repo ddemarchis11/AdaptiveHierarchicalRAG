@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6fcababd",
+  "question": "How is the harp’s presence in British history connected to David’s musical practices?",
+  "gold_answer": "David played the lyre and used to suspend the kinnor, which is rendered as harp and is in the Anglo-Saxon manuscript.",
+  "llm_answer": "The evidence shows that King David’s favourite instrument, the _kinnor_, was “most likely a lyre if not a small triangular harp,” and Anglo-Saxon manuscripts in the British Museum depict David playing a triangular harp. Thus, the harp’s presence in British history is directly linked to David’s musical practices through these Anglo-Saxon images that present him as a harpist.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly connects the harp's presence in British history to David's musical practices, as supported by the retrieved context. It mentions David's use of the _kinnor_, which is described as a lyre or small triangular harp, and references Anglo-Saxon manuscripts depicting him playing a harp. This aligns with the Gold Answer and is faithful to the context provided."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00005814",
+  "question": "What award won by only twelve people has a man who Ted Kooshian has performed with won?",
+  "gold_answer": "EGOT",
+  "llm_answer": "The evidence does not specify any award that has been won by only twelve people and that Marvin Hamlisch (the man Kooshian has performed with) has received.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that the evidence does not specify the award, while the context includes references to EGOT winners and Marvin Hamlisch, who is an EGOT recipient. The Gold Answer 'EGOT' is correct and supported by the context, but the Model Answer fails to provide this information."
+  }
+}

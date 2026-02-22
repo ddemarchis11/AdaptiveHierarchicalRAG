@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00002795",
+  "question": "Who was older when they died, Teinosuke Kinugasa or Don O. Newland",
+  "gold_answer": "Teinosuke Kinugasa",
+  "llm_answer": "Teinosuke Kinugasa was born on 1 January 1896 and died on 26 February 1982, so he was 86 years old at death.  \nDon O. Newland was born on 8 June 1896 and died in 1951, so he was 54 or 55 years old at death.  \n\nTherefore, Teinosuke Kinugasa was older when he died.",
+  "context": [
+    {
+      "text": "Cinema Journal . 43 (3): 59– 78. doi : 10.1353/cj.2004.0017 . S2CID 55444732 . Gerow, Aaron (2008). A Page of Madness: Cinema and Modernity in 1920s Japan . Center for Japanese Studies, University of Michigan. ISBN 978-1-929280-51-3 . External links Teinosuke Kinugasa at IMDb Teinosuke Kinugasa at the Japanese Movie Database (in Japanese)",
+      "id": "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_c_2"
+    },
+    {
+      "text": "Teinosuke Kinugasa ( 衣笠 貞之助 , Kinugasa Teinosuke ; 1 January 1896 – 26 February 1982) was a Japanese filmmaker and actor. His best-known films include the silent avant-garde films A Page of Madness and Crossroads and the Academy Award -winning historical drama Gate of Hell . Biography Kinugasa was born in Kameyama , Mie Prefecture . He began his career as an onnagata (actor specializing in female roles) at the Nikkatsu studio. When Japanese cinema began using actresses in the early 1920s, he switched to directing and worked for producers such as Shozo Makino , before becoming independent to make his best-known film, A Page of Madness (1926). It was considered lost for 45 years until the director rediscovered it in his shed in 1971. A silent film, Kinugasa released it with a new print and score to world acclaim. He also directed the film Crossroads in 1928. He directed jidaigeki at the Shochiku studios, where he helped establish the career of Chōjirō Hayashi (later known as Kazuo Hasegawa ). After the war, he helmed big-budget costume productions for Daiei studios. Gate of Hell received the Palme d'or at the 1954 Cannes Film Festival and the Academy Award for Best International Feature Film .",
+      "id": "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_c_0"
+    },
+    {
+      "text": "Crossroads ( 十字路 , Jūjiro ) , also known as Crossways , Shadows of the Yoshiwara or Slums of Tokyo , is a 1928 silent Japanese drama film directed by Teinosuke Kinugasa . It is believed to be the first or one of the first Japanese films to be screened in Europe, and often mentioned in conjunction with Kinugasa's other avant-garde film , the two years earlier A Page of Madness . Plot A young man is obsessed with courtesan O-ume, but she refuses to meet him anymore, finding him too persistent. During a fight, the young man seemingly kills his rival, and is himself blinded. He hides in the flat which he shares with his sister, not knowing that the rival's death was only staged. A man approaches the sister, pretending to be a policeman who can help her to clear her brother from the charges with money. Also, a doctor whom the sister consults declares that her brother's eyes can be cured, but only if she can pay him. To collect the money, she offers herself as a prostitute to a procuress. When the alleged policeman attempts to rape the sister, she stabs him. Meanwhile, the brother has regained his eyesight on his own, goes to O-umes house and dies under her window, foaming from the mouth and ridiculed by O-ume and his rival. The last scene shows the sister standing at a crossway, calling",
+      "id": "HotpotQA-validation-00002795/02_Jujiro.html_c_0"
+    },
+    {
+      "text": "Don Oliver Newland (1896–1951) was an American film director and producer whose career consisted largely of itinerant work. From the 1920s until his death, he traveled to cities throughout the United States making films that employed local citizens as stars and extras. Using a standard script, Newland personalized each film according to its location – Belvidere's Hero , Staunton's Hero , Janesville's Hero , Huntingdon's Hero , Tyrone's Hero , Wilmington's Hero , Portsmouth’s Hero, and so on. Newland was born June 8, 1896, in Battle Creek , Michigan, the son of Dr. J.S. Newland and the former Josephine Roche. He enlisted in the United States Army on August 28, 1918, in Chicago, Illinois and was assigned to 4th Company, Development Battalion Number 1. He spent less than five months in the military, being discharged at Camp Wadsworth , South Carolina, on January 9, 1919, as part of the country's general demobilization after World War I . Film work While records indicating precisely when Newland entered film production have not surfaced, newspaper publicity for his Hero films credited him with producing one-reelers with Mary Pickford , James Kirkwood, Flora Finch and John Bunny . Since Bunny died in 1915, Newland would have started in films while still a teenager. He also was credited with directing",
+      "id": "HotpotQA-validation-00002795/01_Don-O-Newland.html_c_0"
+    },
+    {
+      "text": "and John Bunny . Since Bunny died in 1915, Newland would have started in films while still a teenager. He also was credited with directing comedies for Mack Sennett . In the early 1920s, Newland began the frenetic itinerant work that would take him all over the United States capturing communities and their citizens in two-reeler comedies that used the same simple, customizable plot. Operating as the Consolidated Film Producing Co. of Los Angeles, California, he was generally commissioned by local newspapers to produce the films, which always contained the role of a reporter and a prominent look at how the local newspaper was produced – although the papers often stressed that the project was not an advertising film. Contests were frequently held in each community to determine who the \"leading lady\" would be. Filming usually took place in no more than three days, with Newland directing a cameraman and one or two crew members. A standard bit of action was to stage a head-on car crash on a city street using \" trick photography ;\" two cars would be placed bumper to bumper and a smoke bomb released under the radiators. The cars would then be backed away from each other and the film, when developed and reversed, would appear to show a head-on collision. Developing and editing took another couple of days, and within a week of Newland's arrival in town, the Hero film would be shown to the community at a local movie theater . When sound pictures",
+      "id": "HotpotQA-validation-00002795/01_Don-O-Newland.html_c_1"
+    }
+  ],
+  "cot_scratchpad": "- Teinosuke Kinugasa born 1 Jan 1896, died 26 Feb 1982 (Novel-00002795/00_Teinosuke-Kinugasa.html_c_0)\n- Age at death: 86 years (Novel-00002795/00_Teinosuke-Kinugasa.html_c_0)\n- Don O. Newland born 8 Jun 1896, died 1951 (Novel-00002795/01_Don-O-Newland.html_c_0)\n- Age at death: 54–55 years (Novel-00002795/01_Don-O-Newland.html_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Who was older when they died, Teinosuke Kinugasa or Don O. Newland",
+      "doc_ids": [
+        "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_c_2",
+        "HotpotQA-validation-00002795/00_Teinosuke-Kinugasa.html_c_0",
+        "HotpotQA-validation-00002795/02_Jujiro.html_c_0",
+        "HotpotQA-validation-00002795/01_Don-O-Newland.html_c_0",
+        "HotpotQA-validation-00002795/01_Don-O-Newland.html_c_1"
+      ]
+    }
+  ]
+}

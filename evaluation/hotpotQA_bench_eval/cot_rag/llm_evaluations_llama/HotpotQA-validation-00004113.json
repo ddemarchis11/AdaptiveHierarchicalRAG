@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004113",
+  "question": "William James \"Count\" Basie has an album that is a collection of musical pieces from what movie series?",
+  "gold_answer": "James Bond",
+  "llm_answer": "The album by William James \"Count\" Basie that is a collection of musical pieces from a movie series is \"Basie Meets Bond\". This album is a collection of musical pieces originating from the first four James Bond films; Dr No, From Russia with Love, Goldfinger, and Thunderball.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the James Bond movie series as the source of the musical pieces in Count Basie's album 'Basie Meets Bond'. It provides additional details about the specific films included, which are supported by the retrieved context. All key facts from the Gold Answer are covered, and the response is faithful to the context."
+  }
+}

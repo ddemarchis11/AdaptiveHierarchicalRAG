@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00002024",
+  "question": "In what town does the one-time star of \"And There's More\" now live?",
+  "gold_answer": "Rochdale",
+  "llm_answer": "There is insufficient evidence to determine in what town the one-time star of \"And There's More\" now lives.",
+  "context": [
+    {
+      "text": "Brian Welch (born January 18, 1984) is an American former ski jumper who competed at the 2002 Winter Olympics . References External links Brian Welch at FIS (ski jumping) Brian Welch at Olympics.com Brian Welch at Olympedia v t e",
+      "id": "HotpotQA-validation-00003792/02_Brian-Welch-ski-jumper.html_c_0"
+    },
+    {
+      "text": "2008, at Cornerstone Festival in Bushnell, Illinois, and a music video directed by Frankie Nasso followed on September 5. Originally, Welch planned for the project to follow the \"Head\" name, but was persuaded otherwise so as not to be sued by the tennis equipment manufacturer of the same name. Though the project has since been dubbed \"Brian Head Welch\", the album art continues to carry the imprint of the project's original title. The project's true title does appear on the spines of the packaging. Of the album, Welch said: \"I knew it was going to be nothing near as big as Korn, but I was proud of it. It's got some heavy riffs and it's got a lot more emotion than I've ever put in music. I'm an emotional guy (and) it was cool to be able to put it in there. It was cool how people were surprised by it. A lot of people thought I was gonna come out with some 'Kumbaya,' Jesus music.\" For his live touring band, Welch held closed and open auditions to recruit members. Members posted videos online of them performing Welch's solo songs and the list was narrowed down to a few who did a personal audition with Welch. Eventually, the lineup was finalized to include Brian Ruedy (Keyboards), Scott \"SVH\" Von Heldt (guitar & backing vocals), Ralph Patlan (guitar), Michael \"Valentine\"",
+      "id": "HotpotQA-validation-00003792/01_Brian-Welch.html_c_9"
+    },
+    {
+      "text": "next show there'll be a hundred. When the hundred is there, I'm like, 'There's one or two people who really need us to be here,' and it should be focused on them and I shouldn't care if there's a big crowd or not, but I struggle with it. I was in Korn and we sold like 25 million albums, and I can't even fill this little bar up? Of all those fans, 300–400 people can't just show up here? It's like starting over, totally.\" Save Me From Myself peaked at No. 63 on the Billboard 200 while also peaking at 13 and 21 on the Hard Rock and Rock charts, respectively. Unreleased songs According to an interview with the Great Falls Tribune , Welch returned to the studio to begin work on a second album. Concerning his career at the time, Welch said that \"I feel like I was created to do what I'm doing right now. Everything I learned in my life before I changed it all over, it set me up for what I'm doing now. That's the satisfaction. That's the peace in knowing, without a doubt, that you're on the road you're supposed to be on. There's nothing more content than that.\" In November 2009, Welch announced that his second effort would be produced by Grammy-nominee Rob Graves ( Red , Pillar ), and that the band was recording in Nashville, expecting to complete",
+      "id": "HotpotQA-validation-00003792/01_Brian-Welch.html_c_11"
+    },
+    {
+      "text": "managed to finance 26 episodes until the show was picked up by CBS. The show ran for six seasons and 143 episodes. Star Alan Young recalled the producer-director: He was a very lovable character, but he was a character. He wanted to rush through and get things done quickly, and he didn't want to stay around the studio too long. I'll never forget one line he used. He didn't like people fooling around on the set, cracking jokes. He really didn't have a great sense of humor for a man who did so many comedies! I'll never forget when he said: \"Stop that! Stop all this laughing! This is comedy, there's no time for laughter!\" Well, we just all broke up. He didn't realize what he said, he didn't care. As a longtime friend of Mae West , Lubin got her to appear on an episode of Mister Ed . He directed the occasional feature, such as The Thief of Baghdad (1961), The Incredible Mr. Limpet (1964, with Don Knotts ) and Hold On! (1966, with Herman's Hermits ). Peter Noone who appeared in the latter remembers, \"Arthur Lubin was really talented. He made us better than we actually were, which is what a good director does. I mean, this band was not exactly ready for Stanislavski.\" Lubin's last feature was Rain for a Dusty Summer (1971). His",
+      "id": "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_13"
+    },
+    {
+      "text": "and Spirituality (2010) With My Eyes Wide Open: Miracles and Mistakes on My Way Back to KoRn (2016) Filmography Who Then Now? (1997) Family Values Tour (1998) South Park \"Korn's Groovy Pirate Ghost Mystery\" as himself (1999) Deuce (2002) Korn Live (2002) MTV Icon: Metallica (2003) WWE WrestleMania (2003) Live at Montreux 2004 (2008) Holy Ghost (2014) Loud Krazy Love (2018) References External links Wikimedia Commons has media related to Brian Welch . Brian Welch at IMDb Official website The Second Supper interview with Head I Am Second (video testimony) (2009?/2010?) \"Brian \"Head\" Welch's 2002 Korn Guitar Rig\" . GuitarGeek.Com",
+      "id": "HotpotQA-validation-00003792/01_Brian-Welch.html_c_26"
+    },
+    {
+      "text": "us into the wispy narrative.\" Pauline Kael of The New Yorker stated: \"Nicholson's prankish performance dominates the movie, and with his prankishness also coming out in the casting and the directing, the movie hasn't any stabilizing force; there's nothing to balance what he's doing—no one with a straitjacket.\" Stanley Kauffmann of The New Republic wrote that Goin' South \"is boring after about the sixth minute, an especially irritating bore because there's an idea in it for a good Nicholson picture\". Mary Steenburgen earned a nomination for the Golden Globe Award for New Star of the Year – Actress . References External links Goin' South at IMDb",
+      "id": "HotpotQA-validation-00003047/03_Goin-South.html_c_6"
+    }
+  ],
+  "cot_scratchpad": "- The one-time star of 'And There's More' is Brian Welch.\n- Brian Welch is a musician.\n- Brian Welch has worked on a second album.\n- The second album is being produced by Rob Graves.\n- Rob Graves has worked with Red and Pillar.\n- Brian Welch has sold 25 million albums with Korn.\n- Brian Welch is a former ski jumper.\n- Brian Welch has worked on a solo album.\n- Brian Welch has sold 25 million albums with Korn.\n- Brian Welch has been in contact with Korn about rejoining the band.\n- Brian Welch has been on tour with Korn in 2021.\n- Brian Welch currently resides in the United States.\n- The one-time star of 'And There's More' is Brian Welch.\n- Brian Welch currently resides in the United States.\n- East Islip is a hamlet and CDP in the Town of Islip, Suffolk County, New York, United States.\n- The population of East Islip was 13,931 at the time of the 2020 census.\n- Brian Welch has sold 25 million albums with Korn.\n- Brian Welch has been in contact with Korn about rejoining the band.",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "In what town does the one-time star of \"And There's More\" now live?",
+      "doc_ids": [
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_11",
+        "HotpotQA-validation-00000979/01_Arthur-Lubin.html_c_13",
+        "HotpotQA-validation-00003047/03_Goin-South.html_c_6",
+        "HotpotQA-validation-00002243/03_2-D-character.html_c_13",
+        "HotpotQA-validation-00002243/03_2-D-character.html_c_14"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What town does Brian Welch currently reside in?",
+      "doc_ids": [
+        "HotpotQA-validation-00003792/02_Brian-Welch-ski-jumper.html_c_0",
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_9",
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_26",
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_4",
+        "HotpotQA-validation-00003792/03_List-of-Korn-band-members.html_c_33"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "What town is Brian Welch's current residence in?",
+      "doc_ids": [
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_26",
+        "HotpotQA-validation-00005156/01_East-Islip-New-York.html_c_0",
+        "HotpotQA-validation-00006140/00_What-the-Water-Gave-Me-song.html_c_3",
+        "HotpotQA-validation-00003792/01_Brian-Welch.html_c_9",
+        "HotpotQA-validation-00006284/01_California-Polytechnic-State-University.html_c_10"
+      ]
+    }
+  ]
+}

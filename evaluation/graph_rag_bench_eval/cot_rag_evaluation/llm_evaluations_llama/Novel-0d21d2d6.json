@@ -1,0 +1,12 @@
+{
+  "id": "Novel-0d21d2d6",
+  "question": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+  "gold_answer": "Brindle Bill did not believe Rose.",
+  "llm_answer": "Insufficient evidence to determine which character Brindle Bill expressed disbelief toward during the discussion about the inheritance and family matters.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Gold Answer clearly states that Brindle Bill did not believe Rose, which is supported by the retrieved context. The Model Answer incorrectly claims insufficient evidence, failing to address the question and contradicting the context provided."
+  }
+}

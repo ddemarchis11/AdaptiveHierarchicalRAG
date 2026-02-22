@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002698",
+  "question": "What region has the indigenous language that includes the word Catuaba?",
+  "gold_answer": "South America",
+  "llm_answer": "The word “Catuaba” is ultimately from Guarani, so the region is that of the Guarani language.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that 'Catuaba' originates from Guarani, which is supported by the context. However, it does not explicitly state the broader region (South America) as mentioned in the Gold Answer. While the Guarani language is indeed indigenous to South America, the Model Answer misses the general regional identification provided in the Gold Answer."
+  }
+}

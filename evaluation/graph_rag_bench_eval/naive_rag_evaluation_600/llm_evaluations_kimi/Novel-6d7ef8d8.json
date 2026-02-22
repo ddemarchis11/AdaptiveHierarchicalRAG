@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The Sioux outbreak forced Minnesota’s military authorities to divert men and resources away from the Civil War effort and into local defense. Troops already organized for service in the South (e.g., Capt. Shelly’s company) were first kept back to guard the Minnesota River frontier, and later the state had to raise additional mounted volunteers specifically “to make a final campaign against the rebellious Sioux.” Thus, instead of reinforcing Union armies, Minnesota units spent 1862-64 protecting settlements, escorting supply trains, and conducting expeditions against the Sioux in Dakota Territory.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly explains how the Sioux outbreak influenced Minnesota's military mobilization, detailing the diversion of troops and resources to local defense and campaigns against the Sioux. This aligns with the Gold Answer's mention of rebellion and the state's furnishing of regiments. However, the Model Answer does not explicitly mention the Sixth regiment, which is a key fact from the Gold Answer, leading to partial evidence coverage."
+  }
+}

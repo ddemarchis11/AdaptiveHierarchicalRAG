@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001155",
+  "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+  "gold_answer": "no",
+  "llm_answer": "Valeria Sarmiento is listed as a co-author of the book *Nomadías. El cine de Marilú Mallet, Valeria Sarmiento y Angelina Vásquez* (Ediciones Metales Pesados, 2016).  \nNo evidence shows Leopold Lummerstorfer as an author.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly states that Valeria Sarmiento is listed as a co-author of a book, while no evidence supports Leopold Lummerstorfer being an author. This aligns with the Gold Answer ('no') and is fully supported by the Retrieved Context."
+  }
+}

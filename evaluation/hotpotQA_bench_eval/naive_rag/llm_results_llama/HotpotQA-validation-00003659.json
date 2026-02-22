@@ -1,0 +1,68 @@
+{
+  "id": "HotpotQA-validation-00003659",
+  "question": "Near what ocean does the highway carried by the Long-Allen bridge terminate near?",
+  "gold_answer": "the Atlantic Ocean",
+  "llm_answer": "The highway carried by the Long-Allen bridge terminates near the Red River, but the question asks about the ocean. \n\nThe highway carried by the Long-Allen bridge is part of US 80, which has its eastern terminus on Tybee Island, Georgia, near the Atlantic Ocean.",
+  "context": [
+    {
+      "text": "Spanish River Boulevard is a short east–west highway in Boca Raton , Palm Beach County , Florida . The eastern 0.5 miles (0.80 km) is signed as State Road 800 ( SR 800 ), though the western segment was formerly SR 800 as well. The western terminus of the boulevard is at Military Trail (County Road 809 or CR 809) , but the state route does not begin until Federal Highway ( U.S. Route 1 or US 1). Both the state route and the road itself terminate at Ocean Boulevard ( SR A1A ) near the Atlantic Ocean shoreline at the northeastern corner of Spanish River Park, near Highland Beach . Spanish River Boulevard provides the only access to SR A1A and the Boca Raton beaches in northern Boca Raton. It is one of only three beach access roads within the Boca Raton city limits, the other two being Palmetto Park Road ( CR 798 ) and Camino Real. SR 800 is one of two state highways in the x00 series that does not follow the numbering system; the other is SR 300 , the designation for the St. George Island Bridge . All other x00 routes are major cross-state diagonals. Route description SR 800 heading east towards SR A1A in Boca Raton West of US 1 The western terminus of Spanish River Boulevard is at its intersection with Military Trail (CR 809), in the Lynn University area of Boca",
+      "id": "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_c_0"
+    },
+    {
+      "text": "US 80. Westbound US 80 breaks away from westbound I-30/US 67 to head onto First Avenue to make a left on Exposition Avenue to head onto Elm Street where it goes left to follow it into downtown Dallas. FM 688 is the old alignment through Forney , bypassed in 1959 by the present freeway. Most of this route was a spur of FM 740 until 1960. Louisiana View down Texas Street, a section of US 80 in downtown Shreveport US 80 was routed along the existing Dixie Overland Highway throughout Louisiana. Since 1921, this auto trail had also carried the designations of State Route 1 west of Shreveport and State Route 4 from Shreveport eastward. These routes remained co-signed with US 80 until the 1955 Louisiana Highway renumbering . The few significant changes to the alignment of US 80 over the years have resulted from the addition or replacement of bridges along the route, improvements that were largely carried out during the 1930s and the mid-1950s. The biggest project involved the construction of the first Vicksburg Bridge across the Mississippi River in 1930. This was followed by new bridges across the Red River at Shreveport– Bossier City ( Long–Allen Bridge , 1933) and the Ouachita River in Monroe ( P.M. Atkins Bridge , 1936). In both cases, new alignments carried",
+      "id": "HotpotQA-validation-00003659/01_US-Route-80.html_c_27"
+    },
+    {
+      "text": ". Mississippi Masala , 1992 film starring Denzel Washington . Arsenal , 2017 film starring Adrian Grenier , John Cusack , and Nicolas Cage . Vanquish , 2021 film starring Morgan Freeman and Ruby Rose . Infrastructure Transportation Biloxi is served by the Gulfport-Biloxi International Airport in Gulfport . Amtrak service also began serving the city when the Mardi Gras Service debuted on August 18, 2025. The Coast Transit Authority provides bus service to the region with fixed-route and paratransit services. Biloxi's main highway is U.S. Highway 90 (Beach Boulevard), which runs along the beach and by the casinos. It connects the city to Gulfport and points westward and to Ocean Springs and Pascagoula to the east. The Biloxi Bay Bridge , connecting Biloxi and Ocean Springs, was rebuilt after Hurricane Katrina, and was fully reopened in April 2008. Interstate 10 passes through the northern sections of the city, leading west 85 miles (137 km) to New Orleans and east 60 miles (97 km) to Mobile, Alabama . Interstate 110 splits off from I-10 at D'Iberville and heads south across the Back Bay of Biloxi to U.S. 90 near Beau Rivage, providing the city with an important hurricane evacuation route. North–south highways serving the area include: Mississippi Highway 15 (runs concurrently with",
+      "id": "HotpotQA-validation-00007354/01_Biloxi-Mississippi.html_c_14"
+    },
+    {
+      "text": "The Suffolk Traction Company is a former streetcar system in Suffolk County, New York . It operated primarily between Patchogue and Holtsville , but also included a route that served Blue Point , Bayport , and Sayville . It was opened in 1909 and ceased operations in 1919. Main Line The four current roads that originally carried the trolley line between Patchogue and Holtsville are South Ocean Avenue, North Ocean Avenue , and what today is Old North Ocean Avenue. The PD Tower at Patchogue Railroad Station served as a control tower for both the Long Island Railroad and the trolleys. Traction Boulevard (also known as Suffolk Traction Boulevard) continued the line, which crossed over the southeast corner of Canaan Lake and headed in a northwesterly direction. North of the Patchogue Highlands area, the paved road became a dirt trail and carried the former ROW towards Holtsville Station . The trolleys that used the road were storage battery cars that ran down the center of the street. North of Holtsville, Suffolk Traction planned an extension through Farmingville , Selden , Terryville , Echo (now Port Jefferson Station ), and eventually Port Jefferson . Unfortunately, the company went bankrupt, even as a bridge was being built over the LIRR Main Line for the Suffolk Traction Main Line on the way to Port Jefferson. The ROW was abandoned, and much of it was sold to private and public developers later in the 20th century,",
+      "id": "HotpotQA-validation-00001692/00_Suffolk-Traction-Company.html_c_0"
+    },
+    {
+      "text": "U.S. Route 80 or U.S. Highway 80 ( US 80 ) is a major east–west United States Numbered Highway in the Southern United States , much of which was once part of the early auto trail known as the Dixie Overland Highway . As the \"0\" in the route number indicates, it was originally a cross-country route, from the Pacific Ocean to the Atlantic Ocean. Its original western terminus was at Historic US 101 in San Diego , California. However, the entire segment west of Dallas , Texas, has been decommissioned in favor of various Interstate Highways and state highways starting in 1967, being truncated to its current west end in 1991. Currently, the highway's western terminus is at an interchange with Interstate 30 (I-30) on the Dallas – Mesquite city line. Its eastern terminus is on Tybee Island, Georgia , near the Atlantic Ocean. [ self-published source? ] Between Longview, Texas , and Cuba, Alabama , US 80 runs parallel to or concurrently with Interstate 20 . It also currently runs through Dallas, Texas; Shreveport, Louisiana ; Jackson, Mississippi ; Montgomery, Alabama ; Columbus, Georgia ; Macon, Georgia ; and Savannah, Georgia . Route description Texas US 80 eastbound in rural Texas Modern US 80 begins as a significant component of the urban freeway system of Dallas , Texas. With Spur 557 , it serves as the shortest",
+      "id": "HotpotQA-validation-00003659/01_US-Route-80.html_c_0"
+    },
+    {
+      "text": "Aliens of the Deep is a 2005 American documentary film directed in part by James Cameron alongside fellow cameraman and friend Steven Quale , who served as second unit director on Cameron's Titanic (1997) and later Avatar (2009), and filmed in the IMAX 3D format. It was produced by Walden Media and Walt Disney Pictures . Cameron teams with NASA scientists to explore the mid-ocean ridges , submerged chains of mountains in the Atlantic and Pacific oceans that are home to some of the planet's more unusual forms of life. It was released on DVD on November 1, 2005. Plot Cameron joins up aboard the Russian research vessel Akademik Mstislav Keldysh with a group of NASA scientists, as well as some American marine biologists , to investigate ten hydrothermal vents in both the Atlantic and Pacific. The vents have their own unique ecosystem , which support diverse organisms such as giant tube worms , swarms of blind white crabs, and vast amounts of shrimp which are capable of \"seeing\" water that is heated by the vents. These creatures do not require sunlight like other organisms, and instead obtain their energy from the vents. They are able to survive in the superheated and sulfurous water. Because of this, the documentary suggests that this is what life beyond Earth might look like. As some alien ecosystems are likely to be a lot harsher than a typical terrestrial ecosystem, these exotic vents provide an insight into some of",
+      "id": "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- The Long-Allen bridge is located in Shreveport– Bossier City.\n- The Long-Allen bridge is near the Red River.\n- The Red River is in Louisiana.\n- The highway carried by the Long-Allen bridge terminates near the Atlantic Ocean.\n- The Atlantic Ocean is in Florida.\n- (Novel-00003659_c_0)\n- The highway carried by the Long-Allen bridge terminates near the Atlantic Ocean.\n- The Atlantic Ocean is in Florida.\n- The highway carried by the Long-Allen bridge is near the Red River.\n- The Red River is in Louisiana.\n- The Long-Allen bridge is located in Shreveport– Bossier City.\n- (Novel-00003659_c_0)\n- The highway carried by the Long-Allen bridge terminates near the Atlantic Ocean.\n- The Atlantic Ocean is in Florida.\n- The Long-Allen bridge is located in Shreveport– Bossier City.\n- The Red River is near the Long-Allen bridge.\n- The Red River is in Louisiana.\n- (Novel-00003659_c_0)",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "Near what ocean does the highway carried by the Long-Allen bridge terminate near?",
+      "doc_ids": [
+        "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_c_0",
+        "HotpotQA-validation-00003659/01_US-Route-80.html_c_27",
+        "HotpotQA-validation-00007354/01_Biloxi-Mississippi.html_c_14",
+        "HotpotQA-validation-00001692/00_Suffolk-Traction-Company.html_c_0",
+        "HotpotQA-validation-00003659/01_US-Route-80.html_c_0"
+      ]
+    },
+    {
+      "step": 2,
+      "query": "What ocean is the Atlantic Ocean near?",
+      "doc_ids": [
+        "HotpotQA-validation-00003659/01_US-Route-80.html_c_0",
+        "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_c_0",
+        "HotpotQA-validation-00007123/00_Aliens-of-the-Deep.html_c_0",
+        "HotpotQA-validation-00001692/00_Suffolk-Traction-Company.html_c_0",
+        "HotpotQA-validation-00003228/03_India.html_c_0"
+      ]
+    },
+    {
+      "step": 3,
+      "query": "What ocean is the Red River near?",
+      "doc_ids": [
+        "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_c_0",
+        "HotpotQA-validation-00003659/03_Spanish-River-Boulevard.html_c_2",
+        "HotpotQA-validation-00003228/03_India.html_c_0",
+        "HotpotQA-validation-00003228/01_Geography-of-India.html_c_25",
+        "HotpotQA-validation-00003659/01_US-Route-80.html_c_0"
+      ]
+    }
+  ]
+}

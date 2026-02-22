@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00000809",
+  "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style?",
+  "gold_answer": "Carnatic music",
+  "llm_answer": "Carnatic music.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the music style as Carnatic music, which is consistent with the Gold Answer and fully supported by the Retrieved Context. While concise, it contains the core information required and does not omit or contradict any relevant details."
+  }
+}

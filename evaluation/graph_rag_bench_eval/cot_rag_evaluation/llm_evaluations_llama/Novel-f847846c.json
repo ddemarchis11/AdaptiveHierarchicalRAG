@@ -1,0 +1,12 @@
+{
+  "id": "Novel-f847846c",
+  "question": "Imagine you are Young Simon. Write a diary entry about your family connections and your feelings about the events involving your cousin Cæsar and Roxie.",
+  "gold_answer": "As the only son of S. S. Simon, I often hear stories about our family. My cousin, Cæsar, has been at the center of recent events, from delivering a note to the Governor to helping Simon learn about Roxie's family. I hear Roxie has been charged, and I worry for her. Our family feels so interconnected, especially with big-sis raising Cæsar and our ties to the Carlow and Brindle families.",
+  "llm_answer": "March 1861\n\nDear Diary,\n\nToday, I've learned a lot about my family connections. I've always thought of myself as poor trash, but it seems I have a rich family history. My cousin Cæsar has been keeping secrets from me, but now I know the truth. We're not just any ordinary family; we have a large estate in Arkansas, left by my Uncle S. S. Simon. I'm still trying to wrap my head around it.\n\nI've also been thinking about Roxie Daymon, the young lady I fell in love with. We were engaged to be married, but now I'm not so sure. I've seen her with a sealed note, and I've heard that she's been in contact with Governor Morock. I don't know what to make of it all.\n\nCousin Cæsar has been a great help to me, but I'm starting to feel like he's hiding something from me too. I've seen him talking to Cliff Carlo, and I've heard them discussing the Simon estate. I'm not sure what's going on, but I have a feeling that it's all connected to Roxie and her mysterious past.\n\nI'm not sure what the future holds, but I'm determined to get to the bottom of things. I'll keep investigating and see where it takes me.\n\nYours truly,\nYoung Simon",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer captures some aspects of the Gold Answer, such as the family connections and the involvement of cousin Cæsar and Roxie. However, it introduces unsupported details, such as Simon's feelings of being 'poor trash' and his uncertainty about marrying Roxie, which are not grounded in the retrieved context. Additionally, the diary entry misses key facts from the Gold Answer, such as Roxie's charge and the interconnectedness of the family ties with the Carlow and Brindle families. While the Model Answer attempts to provide a narrative, it diverges from the grounded information and omits critical elements from the Gold Answer."
+  }
+}

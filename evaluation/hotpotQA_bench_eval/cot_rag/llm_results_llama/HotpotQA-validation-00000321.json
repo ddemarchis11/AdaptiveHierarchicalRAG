@@ -1,0 +1,42 @@
+{
+  "id": "HotpotQA-validation-00000321",
+  "question": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
+  "gold_answer": "international football competition",
+  "llm_answer": "The international football competition for women that Liu Ailing played in the 1991, 1995, 1999 editions is the FIFA Women's World Cup.",
+  "context": [
+    {
+      "text": "Liu Ailing ( simplified Chinese : 刘爱玲 ; traditional Chinese : 劉愛玲 ; pinyin : Liú Àilíng ; born 2 May 1967) is a Chinese former footballer who played for the China national team at the 1991 , 1995 and 1999 editions of the FIFA Women's World Cup . She won a silver medal at the 1996 Atlanta Olympics and participated at the 2000 Sydney Olympics . A playmaking midfielder, she played for professional club football in Japan and the United States. Club career Born in Baotou , Inner Mongolia , Liu excelled in basketball and athletics but did not play football until she was 17 years old. Her parents were initially reluctant to let her play what they saw as a masculine sport. In 1994, Liu joined Japanese second-tier club Tasaki Perule FC . She won promotion in her first season and remained with the club until 1997. At the 2000 WUSA Draft , Liu was selected by Philadelphia Charge in the first round, second overall behind compatriot Sun Wen . In the United States, Liu experienced a culture shock ; she bought only raw fruit and vegetables from the supermarket as in China she had been in regimented training camps for so long that she had never learned to cook. In the 2001 WUSA season , as a 34-year-old veteran, Liu was a success and led the team on goals",
+      "id": "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_0"
+    },
+    {
+      "text": "final win over obdurate North Korea . She was named tournament MVP . Liu was named in the 16-player All-Star team at the 1999 FIFA Women's World Cup . She scored the winning goal in the 2–1 first round win over Sweden and two more in the 5–0 semi-final rout of defending champions Norway, securing China's place in the final , where they lost a controversial penalty shootout to the United States. In 2000, she was a member of the Chinese team which finished fifth in the Olympic women's tournament . She played all three matches. In 2003, Liu took a role as deputy secretary general of the Beijing Football Association. Following the playing retirement of Liu and influential contemporaries like Sun Wen and Zhao Lihong , the Chinese national team went into sharp decline, culminating in an 8–0 defeat by Germany at the 2004 Athens Olympics . In June 2007, Liu was running the only girls' football school in Beijing, when it closed through lack of interest. International goals Honors International China World Cup Silver Medal : 1999 Olympic Silver Medal : 1996 AFC Women's Championship : 1989 , 1991 , 1993 , 1995 , 1997 , 1999 Football at the Asian Games : 1990 , 1994 , 1998 Individual Asian Player of the Month: December 1997 References External links Liu Ailing at FBref.com Liu",
+      "id": "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_2"
+    },
+    {
+      "text": ", 1994 , 1998 Individual Asian Player of the Month: December 1997 References External links Liu Ailing at FBref.com Liu Ailing at the Chinese Olympic Committee (archived) Liu Ailing at Olympedia Liu Ailing at InterSportStats Liu Ailing – FIFA competition record (archived) Profile at WUSA",
+      "id": "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_3"
+    },
+    {
+      "text": "EAFF E-1 Football Championship , known as the East Asian Football Championship from 2003 to 2010, and the EAFF East Asian Cup for the 2013 and 2015 editions, is a men's international football competition in East Asia for member nations of the East Asian Football Federation (EAFF). Before the EAFF was founded in 2002, the Dynasty Cup was held between the East Asian top four teams, and was regarded as the East Asian Championship. There is a separate competition for men (first held in 2003) and women (first held in 2005). The most recent edition was held in 2025 in Korea . History The Dynasty Cup is a defunct international association football competition that is regarded as the predecessor to East Asian Football Championship. It was held four times from 1990 to 1998. The purpose of the competition was to improve the quality of football in the East Asia and the national teams in the area participated in the tournament. After the East Asian Football Federation was formed in 2002, the East Asian Football Championship replaced this tournament. In the tournament, China , South Korea , and Japan have the right to automatically enter the competition, while other participants have to go through a qualifying round. Other participants that take part are Chinese Taipei , North Korea , Northern Mariana Islands , Guam , Hong Kong , Mongolia , and Macau . Australia , being a non-member of the EAFF, was invited to take part in",
+      "id": "HotpotQA-validation-00000321/03_EAFF-E-1-Football-Championship.html_c_0"
+    },
+    {
+      "text": "The FIFA Women's World Cup is an international association football competition contested by the senior women's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's international governing body. The competition has been held every four years and one year after the men's FIFA World Cup since 1991, when the inaugural tournament , then called the FIFA Women's World Championship, was held in China. Under the tournament's current format, national teams vie for the remaining 31 slots in a three-year qualification phase. The host nation's team is automatically entered as the first slot. The tournament, called the World Cup Finals , is contested at venues within the host nation(s) over about one month. The nine FIFA Women's World Cup tournaments have been won by five national teams. The United States have won four times. The other winners are Germany , with two titles, and Japan , Norway , and Spain with one title each. Eight countries have hosted the Women's World Cup. China and the United States have each hosted the tournament twice, while Australia, Canada, France, Germany, New Zealand, and Sweden have each hosted it once. The 2023 edition was hosted by Australia and New Zealand, making it the first edition to be held in the Southern Hemisphere, the first Women's World Cup to be hosted by two countries, as well as the first FIFA competition for either men or women to be held across two confederations. The 2027 edition will",
+      "id": "HotpotQA-validation-00000321/01_FIFA-Womens-World-Cup.html_c_0"
+    }
+  ],
+  "cot_scratchpad": "- \"scratchpad_update\": \"- Liu Ailing played in the FIFA Women's World Cup (Novel-00000321_c_0).\n- FIFA Women's World Cup is an international football competition for women (Novel-00000321_c_0).\n- The competition has been held every four years since 1991 (Novel-00000321_c_0).\n- Liu Ailing played in the 1991, 1995, 1999 editions of the FIFA Women's World Cup (Novel-00000321_c_0).\n- The 1999 edition of the FIFA Women's World Cup was held in China (Novel-00000321_c_2).\n- The 1999 FIFA Women's World Cup was won by the United States (Novel-00000321_c_2).",
+  "cot_history": [
+    {
+      "step": 1,
+      "query": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
+      "doc_ids": [
+        "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_0",
+        "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_2",
+        "HotpotQA-validation-00000321/00_Liu-Ailing.html_c_3",
+        "HotpotQA-validation-00000321/03_EAFF-E-1-Football-Championship.html_c_0",
+        "HotpotQA-validation-00000321/01_FIFA-Womens-World-Cup.html_c_0"
+      ]
+    }
+  ]
+}

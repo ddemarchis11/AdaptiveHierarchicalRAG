@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6d7ef8d8",
+  "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+  "gold_answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+  "llm_answer": "The Sioux outbreak forced Minnesota’s military authorities to improvise an immediate supply system for frontier troops. Because no railroads existed, the army first requested wagons and teams from citizens; when owners failed to respond fast enough, the military issued orders to “forcibly impress into service…any and all teams that could be found,” sending detachments such as Company K, Eighth Regiment, into St. Paul to seize horses and wagons for supply trains to Abercrombie and other posts. Escorts were also organized for these trains, and it proved “easier to procure men for that purpose than…for the regular term of enlistment,” showing that the crisis shifted manpower priorities from long-term enlistment to immediate escort duty.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer provides details about Minnesota's military mobilization during the Sioux outbreak, focusing on logistical challenges and supply chain improvisations. However, it does not address the specific influence of the Sioux rebellion against Gen. Sibley or the call for Minnesota to furnish the Sixth regiment, which are central to the Gold Answer. While the logistical details are partially grounded in the context, they are not directly tied to the question's focus on the Sioux's influence. Additionally, the Model Answer misses the key facts from the Gold Answer, such as the rebellion and the Sixth regiment."
+  }
+}

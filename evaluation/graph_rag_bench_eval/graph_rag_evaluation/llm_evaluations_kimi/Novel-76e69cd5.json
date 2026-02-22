@@ -1,0 +1,12 @@
+{
+  "id": "Novel-76e69cd5",
+  "question": "Within the story involving Van Bibber, what is the Owl's Nest, who is its owner, where is it located, and what is its narrative connection to the late-night visit by Van Bibber and Spielman after the boxing match?",
+  "gold_answer": "The Owl's Nest is a restaurant owned by Gus McGowan, was located on Third Avenue. In the story, Spielman invited Van Bibber to the Owl's Nest, and Van Bibber visited it.",
+  "llm_answer": "The Owl’s Nest is Gus McGowan’s all-night restaurant on Third Avenue. After the boxing match, Van Bibber and Spielman go there for a late-night porterhouse steak and onions, making it the setting for their post-fight conversation.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies the Owl's Nest as Gus McGowan's all-night restaurant on Third Avenue, consistent with the Gold Answer and the Retrieved Context. It also accurately describes its narrative connection to Van Bibber and Spielman's late-night visit after the boxing match, including the detail about their meal and conversation. All claims are grounded in the context, and the key facts from the Gold Answer are fully covered."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-77578361",
+  "question": "During his encounter on the street while working as a trailer in the green-goods scheme, to whom did Snipes say something that advanced the plot?",
+  "gold_answer": "Snipes said something to the old man.",
+  "llm_answer": "Snipes said something to an old countryman, but it is not clear what he said that advanced the plot.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies that Snipes spoke to an old countryman, which aligns with the Gold Answer's mention of 'the old man.' However, the Model Answer fails to specify that Snipes said something that advanced the plot, as stated in the Gold Answer. While the context supports the interaction, the Model Answer does not fully address the plot advancement aspect, leading to partial correctness and evidence coverage."
+  }
+}

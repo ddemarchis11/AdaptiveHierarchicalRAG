@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001457",
+  "question": "What is the name of the so-called reform opera for Vienna that came before the one first performed in Vienna in the presence of Empress Maria Theresa?",
+  "gold_answer": "\"Alceste\"",
+  "llm_answer": "The name of the so-called reform opera for Vienna that came before the one first performed in Vienna in the presence of Empress Maria Theresa is Paride ed Elena.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly identifies 'Paride ed Elena' as the reform opera preceding the one performed in Vienna in the presence of Empress Maria Theresa. The correct answer, as stated in the Gold Answer, is 'Alceste.' Additionally, the retrieved context does not support the claim made by the Model Answer, as 'Paride ed Elena' is mentioned as the third reform opera, following 'Orfeo ed Euridice' and 'Alceste.'"
+  }
+}

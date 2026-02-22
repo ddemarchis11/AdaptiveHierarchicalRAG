@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004025",
+  "question": "The first person to reach both poles named a glacier after which person?",
+  "gold_answer": "the daughter of Fridtjof Nansen.",
+  "llm_answer": "There is insufficient evidence to answer the question.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that there is insufficient evidence to answer the question, but the Gold Answer clearly identifies the daughter of Fridtjof Nansen as the person after whom the glacier was named. The retrieved context does not provide relevant information to support or contradict the Gold Answer, but the Model Answer fails to utilize external knowledge to provide the correct response."
+  }
+}

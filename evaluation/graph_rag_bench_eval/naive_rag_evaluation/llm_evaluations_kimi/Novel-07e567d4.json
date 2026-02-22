@@ -1,0 +1,12 @@
+{
+  "id": "Novel-07e567d4",
+  "question": "During his attempt to evade the police after a violent encounter, where did Raegen wish to hide in order to avoid being caught?",
+  "gold_answer": "Raegen wanted to lie hidden in the cellar and the garret.",
+  "llm_answer": "Raegen wished to hide in the East River.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Raegen wished to hide in the East River, which is not supported by the Gold Answer or the Retrieved Context. The Gold Answer specifies that Raegen wanted to hide in the cellar and the garret, and this information is not reflected in the Model Answer. Additionally, the Retrieved Context does not provide evidence for the claim about the East River as a hiding place during this specific attempt to evade the police."
+  }
+}

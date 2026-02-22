@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00001084",
+  "question": "Which Western action-adventure video game by Rockstar did Tyler Bunch act for?",
+  "gold_answer": "Red Dead Redemption",
+  "llm_answer": "The evidence does not specify which Western action-adventure video game by Rockstar Tyler Bunch acted for.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify the game Tyler Bunch acted for, which is incorrect. The Gold Answer clearly identifies 'Red Dead Redemption' as the game. While the Model Answer is faithful to the retrieved context, it fails to provide the correct answer and misses the key fact entirely."
+  }
+}

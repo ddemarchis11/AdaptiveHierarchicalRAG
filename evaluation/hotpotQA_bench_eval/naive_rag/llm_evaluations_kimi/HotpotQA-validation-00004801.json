@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00004801",
+  "question": "What North Carolina native did Danja produce songs for?",
+  "gold_answer": "J. Cole",
+  "llm_answer": "The evidence does not specify any North Carolina native for whom Danja produced songs.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer states that the evidence does not specify any North Carolina native for whom Danja produced songs, which is incorrect as the Gold Answer identifies J. Cole as the North Carolina native. The retrieved context does not explicitly mention J. Cole, but the Model Answer fails to provide the correct response based on internal knowledge or external grounding."
+  }
+}

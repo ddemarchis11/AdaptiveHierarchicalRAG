@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c03282ac",
+  "question": "How is the movement of Tom Ditamus ultimately associated with the Ohio river?",
+  "gold_answer": "Tom Ditamus moved to the Ohio river.",
+  "llm_answer": "The movement of Tom Ditamus is ultimately associated with the Ohio river in several ways:\n\n1. He moves to the Ohio river after his wife's death, leaving his three little daughters behind.\n2. He travels on the Ohio river in a keel-boat to Fort Washington (Cincinnati) on a trip that lasts three months.\n3. He returns home after this trip, but then moves to the Ohio river again with his family after being hired by the Demitt relations to take Suza Fairfield to the backwoods of the Cumberland Mountains.\n\nHowever, it is worth noting that the text does not explicitly state that Tom Ditamus ultimately settles on the Ohio river. Instead, it seems that he is using the Ohio river as a means of transportation and possibly a temporary residence.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies that Tom Ditamus moved to the Ohio river, which aligns with the Gold Answer. It provides additional context about his movements and interactions with the Ohio river, all of which are supported by the Retrieved Context. The extra details about his travels and temporary residence are relevant and grounded in the context, enhancing the understanding of his association with the Ohio river."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Novel-100048f7",
+  "question": "How is the character of Augustin involved in the sequence between Sir Tristram and The Dean’s family?",
+  "gold_answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean, The Dean is father of Sheba.",
+  "llm_answer": "Augustin is the Dean—Georgiana’s brother and Sir Tristram’s former Oxford friend.  \nGeorgiana undertakes to “make it all right with Augustin” so that Sir Tristram can stay at the Deanery instead of the “Swan,” and later she teasingly addresses the Dean by his Christian name, “Augustin,” while negotiating the loan for the Spire.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer correctly identifies Augustin as the Dean and mentions his relationship with Georgiana and Sir Tristram. However, it does not address the specific sequence where Sir Tristram pulls the horse's nose-bag over The Dean, nor does it mention The Dean being Sheba's father, which are key facts from the Gold Answer. Additionally, while the context supports some of the claims, the details about negotiating the loan for the Spire are not clearly grounded in the retrieved context."
+  }
+}

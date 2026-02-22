@@ -1,0 +1,12 @@
+{
+  "id": "HotpotQA-validation-00002743",
+  "question": "Which one of the Long Island Herald newspaper chain serves a village in Nassau County, New York with a population of 6,483?",
+  "gold_answer": "The Nassau Herald",
+  "llm_answer": "The Nassau Herald serves the village of Lawrence in Nassau County, New York.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer correctly identifies 'The Nassau Herald' as the newspaper serving Lawrence, a village in Nassau County, New York, which matches the Gold Answer. The retrieved context supports this information, confirming the Nassau Herald serves the Five Towns, including Lawrence. All key facts from the Gold Answer are included."
+  }
+}

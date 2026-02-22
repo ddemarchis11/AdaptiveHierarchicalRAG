@@ -1,0 +1,12 @@
+{
+  "id": "Novel-6f917f07",
+  "question": "Describe the relationship between Latimer and Ellen in the context of the novel, noting Latimer's feelings for Ellen and her identity as the daughter of the bishop.",
+  "gold_answer": "Latimer loves Ellen, who was the daughter of the bishop.",
+  "llm_answer": "Latimer is in love with Ellen, the bishop’s daughter, and has been courting her with the bishop’s knowledge. He tells the bishop that his days feel wasted unless he sees Ellen, and he declares to her, “You know I love you, Ellen; love you better than all the world.” Ellen has reciprocated—she said she loved him “a half-hour ago”—but when she overhears Latimer’s evasive answers about a past attachment, she turns cold, shrinks into her father’s arms, and asks her father to make Latimer leave. Latimer is bewildered and wounded by the sudden change, insisting he has done nothing to merit being treated “as though I had committed some crime.” The bishop, though sympathetic, fears Latimer may still love the other woman and ultimately lets Latimer walk away. Thus, Latimer’s feelings remain intense, but Ellen, shocked by what she has overheard, withdraws her trust and affection.",
+  "scores": {
+    "answer_correctness": 1.0,
+    "faithfulness_to_context": 1.0,
+    "evidence_coverage": 1.0,
+    "explanation": "The Model Answer accurately describes Latimer's love for Ellen, her identity as the bishop's daughter, and the complexities of their relationship as depicted in the context. It expands on the Gold Answer by including relevant details about Ellen's initial reciprocation, her reaction to Latimer's evasiveness, and the bishop's concerns, all of which are supported by the retrieved context. The additional information enhances understanding without deviating from the core truth of the Gold Answer."
+  }
+}

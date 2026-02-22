@@ -1,0 +1,12 @@
+{
+  "id": "Novel-3d40ee89",
+  "question": "What is the relationship between Miss Trotter, the Summit House, and Frida Jansen, with regard to Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position?",
+  "gold_answer": "Miss Trotter resigned from Summit House and selected Frida Jansen.",
+  "llm_answer": "Miss Trotter is the manager of the Summit House, and Frida Jansen is one of her chambermaids. Miss Trotter is considering Frida's potential marriage to Chris Calton, a young man, and is weighing the implications of this on Frida's employment at the Summit House.",
+  "scores": {
+    "answer_correctness": 0.0,
+    "faithfulness_to_context": 0.0,
+    "evidence_coverage": 0.0,
+    "explanation": "The Model Answer incorrectly states that Miss Trotter is the manager of the Summit House and focuses on Frida Jansen's potential marriage to Chris Calton, which is not relevant to the question. It fails to address Miss Trotter's resignation from the Summit House and her selection of Frida Jansen for a position, as stated in the Gold Answer. Additionally, the claims made in the Model Answer are not supported by the retrieved context."
+  }
+}

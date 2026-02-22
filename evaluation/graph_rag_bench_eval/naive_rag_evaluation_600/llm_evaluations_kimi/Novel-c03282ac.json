@@ -1,0 +1,12 @@
+{
+  "id": "Novel-c03282ac",
+  "question": "How is the movement of Tom Ditamus ultimately associated with the Ohio river?",
+  "gold_answer": "Tom Ditamus moved to the Ohio river.",
+  "llm_answer": "Tom Ditamus’s movement is tied to the Ohio River because he is traveling in a covered wagon drawn by an ox team along (or beside) the Ohio River bottom land when he attempts to abduct Suza Fairfield.",
+  "scores": {
+    "answer_correctness": 0.5,
+    "faithfulness_to_context": 0.5,
+    "evidence_coverage": 0.5,
+    "explanation": "The Model Answer partially addresses the question by associating Tom Ditamus's movement with the Ohio River, mentioning his travel along the Ohio River bottom land. However, it introduces the detail of an attempted abduction of Suza Fairfield, which is not directly relevant to the core question about his movement being associated with the Ohio River. While the context does mention Tom traveling near the Ohio River, the abduction detail is not explicitly tied to the question and is not fully supported by the retrieved context. Additionally, the Gold Answer is more concise and directly states that Tom moved to the Ohio River, which the Model Answer does not clearly convey."
+  }
+}
